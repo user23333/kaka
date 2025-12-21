@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; Arc Raiders &#40;partial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728727-dma-arc-raiders-partial.html)|`2025-12-21 20:50:00`|`Other FPS Games`|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-12-21 20:44:00`|`General Programming and Reversing`|
+|[how to play in public lobbies? &#40;legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729492-play-public-lobbies-legacy.html)|`2025-12-21 20:37:00`|`Grand Theft Auto V`|
+|[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2025-12-21 20:36:00`|`Apex Legends`|
+|[Counter&#45;Strike 2 external &#124; Semi rage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727380-counter-strike-2-external-semi-rage.html)|`2025-12-21 20:32:00`|`Counter-Strike 2`|
 |[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-12-21 20:00:00`|`Anti-Cheat Bypass`|
 |[Division 1 Mod Menu Crazyshoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/730364-division-1-mod-menu-crazyshoot.html)|`2025-12-21 19:50:00`|`Tom Clancy's The Division`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-12-21 19:35:00`|`Cheat Engine Tables`|
