@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-22 02:17:00`|`Other Single Player Games`|
+|[how do I unlock all paints & wheel options](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730454-unlock-paints-wheel-options.html)|`2025-12-22 02:12:00`|`Grand Theft Auto V`|
+|[The divisions new anticheat update how to bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/729275-divisions-anticheat-update-bypass.html)|`2025-12-22 02:01:00`|`Tom Clancy's The Division`|
+|[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-12-22 01:58:00`|`Off Topic`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2025-12-22 01:57:00`|`Phasmophobia`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-22 01:53:00`|`Other FPS Games`|
 |[simple crosshair changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730435-simple-crosshair-changer.html)|`2025-12-22 01:33:00`|`Team Fortress 2`|
