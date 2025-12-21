@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-21 13:34:00`|`Other Games`|
+|[ZwAllocateVirtualMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/675579-zwallocatevirtualmemory.html)|`2025-12-21 13:27:00`|`C and C++`|
+|[company of heroes 3 Scar&#95;DoString](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/729980-company-heroes-3-scar_dostring.html)|`2025-12-21 13:19:00`|`Other MMORPG and Strategy`|
+|[VAC Live Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/716649-vac-live-update.html)|`2025-12-21 13:18:00`|`Counter-Strike 2`|
 |[The divisions new anticheat update how to bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/729275-divisions-anticheat-update-bypass.html)|`2025-12-21 13:16:00`|`Tom Clancy's The Division`|
 |[RUCOY ONLINE FARMING BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730404-rucoy-online-farming-bot.html)|`2025-12-21 13:14:00`|`Other Games`|
 |[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2025-12-21 12:57:00`|`Call of Duty 6: Modern Warfare 2`|
