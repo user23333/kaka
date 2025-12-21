@@ -15,6 +15,7 @@
 |22|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-21 05:25:35`|`other-single-player-games`|
 |3|[YimMenu v2 1&#46;72 Safehouse Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729687-yimmenu-v2-1-72-safehouse-update.html)|`2025-12-21 06:43:56`|`grand-theft-auto-v`|
 |13|[Updating YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729367-updating-yimmenu.html)|`2025-12-21 09:09:22`|`grand-theft-auto-v`|
+|11|[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2025-12-21 11:04:35`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-21 10:49:00`|`Grand Theft Auto V`|
+|[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2025-12-21 10:44:00`|`Forum General`|
+|[AIPAC Response Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730374-aipac-response-triggerbot.html)|`2025-12-21 10:44:00`|`Valorant`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2025-12-21 10:42:00`|`Other Games`|
+|[ANY r6 cheats that support win11 25h2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730311-r6-cheats-support-win11-25h2.html)|`2025-12-21 10:38:00`|`Rainbow Six Siege`|
 |[Post 1&#46;0 Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730365-post-1-0-chams.html)|`2025-12-21 09:02:00`|`Escape from Tarkov`|
 |[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-21 08:48:00`|`Other MMORPG and Strategy`|
 |[How to hook agent model CS:2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728651-hook-agent-model-cs-2-a.html)|`2025-12-21 08:30:00`|`Counter-Strike 2`|
