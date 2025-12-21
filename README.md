@@ -14,6 +14,7 @@
 |13|[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-21 03:12:22`|`valorant`|
 |22|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-21 05:25:35`|`other-single-player-games`|
 |3|[YimMenu v2 1&#46;72 Safehouse Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729687-yimmenu-v2-1-72-safehouse-update.html)|`2025-12-21 06:43:56`|`grand-theft-auto-v`|
+|13|[Updating YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729367-updating-yimmenu.html)|`2025-12-21 09:09:22`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Post 1&#46;0 Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730365-post-1-0-chams.html)|`2025-12-21 09:02:00`|`Escape from Tarkov`|
+|[Torchlight Infinite &#45; Quality Of Life Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728132-torchlight-infinite-quality-life-mod.html)|`2025-12-21 08:48:00`|`Other MMORPG and Strategy`|
+|[How to hook agent model CS:2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728651-hook-agent-model-cs-2-a.html)|`2025-12-21 08:30:00`|`Counter-Strike 2`|
+|[vulnerable driver found](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729108-vulnerable-driver-found.html)|`2025-12-21 08:27:00`|`Anti-Cheat Bypass`|
+|[Secure Boot Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/729975-secure-boot-bypass.html)|`2025-12-21 08:26:00`|`Anti-Cheat Bypass`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2025-12-21 07:36:00`|`Deadlock`|
 |[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2025-12-21 07:13:00`|`Other Games`|
 |[Chance for Ref quest completion tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730360-chance-ref-quest-completion-tool.html)|`2025-12-21 07:13:00`|`Escape from Tarkov`|
