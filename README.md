@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2025-12-22 03:29:00`|`Titanfall`|
+|[How can I avoid the risk of getting shadow‑banned in bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730422-avoid-risk-getting-shadow-banned-bot-lobbies.html)|`2025-12-22 03:28:00`|`Call of Duty: Black Ops 7`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2025-12-22 03:22:00`|`Payday 3`|
 |[UBX Dynamic Key Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730339-ubx-dynamic-key-resolution.html)|`2025-12-22 03:21:00`|`Rainbow Six Siege`|
 |[vis check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730032-vis-check.html)|`2025-12-22 03:17:00`|`Apex Legends`|
