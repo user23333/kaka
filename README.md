@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2025-12-21 12:57:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-21 12:48:00`|`Other FPS Games`|
+|[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2025-12-21 12:44:00`|`Other Games`|
 |[Console emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730403-console-emulation.html)|`2025-12-21 12:34:00`|`Apex Legends`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-21 12:28:00`|`Other FPS Games`|
 |[LUA BASE MODSKIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/728929-lua-base-modskin.html)|`2025-12-21 12:11:00`|`PUBG Mobile`|
