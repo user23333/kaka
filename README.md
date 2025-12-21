@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVZ GW2 how to make mod that work online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/729773-pvz-gw2-mod-online.html)|`2025-12-21 18:12:00`|`Other Games`|
+|[How can I avoid the risk of getting shadow‑banned in bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730422-avoid-risk-getting-shadow-banned-bot-lobbies.html)|`2025-12-21 18:11:00`|`Call of Duty: Black Ops 7`|
 |[The Yeti Christmas event email hasn’t triggered&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730420-yeti-christmas-event-email-hasn-triggered.html)|`2025-12-21 17:38:00`|`Grand Theft Auto V`|
 |[cool epic awesome chat stuff &#42;&#42;EPIC&#42;&#42;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/729627-cool-epic-awesome-chat-stuff-epic.html)|`2025-12-21 16:47:00`|`Team Fortress 2`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-12-21 16:14:00`|`Escape from Tarkov`|
