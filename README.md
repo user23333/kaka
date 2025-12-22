@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Bot Lobby Tool &#45; Soryn &#45; Best Tool To use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730233-free-bot-lobby-tool-soryn-tool.html)|`2025-12-22 14:17:00`|`Call of Duty: Black Ops 7`|
+|[banned in bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730479-banned-bo7.html)|`2025-12-22 14:08:00`|`Call of Duty: Black Ops 7`|
 |[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-12-22 13:55:00`|`Valorant`|
 |[prevention of downgrading bios version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730498-prevention-downgrading-bios-version.html)|`2025-12-22 13:41:00`|`Valorant`|
 |[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-22 13:38:00`|`Team Fortress 2`|
