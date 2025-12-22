@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2025-12-22 13:55:00`|`Valorant`|
 |[prevention of downgrading bios version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730498-prevention-downgrading-bios-version.html)|`2025-12-22 13:41:00`|`Valorant`|
 |[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2025-12-22 13:38:00`|`Team Fortress 2`|
 |[FiveM adhesive&#46;dll &#45; need to debug/set BP without detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730495-fivem-adhesive-dll-debug-set-bp-detection.html)|`2025-12-22 12:53:00`|`Alternative Online Mods`|
