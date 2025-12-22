@@ -14,6 +14,7 @@
 |7|[Silent Night LUA v0&#46;2&#46;1 LEGACY 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730226-silent-night-lua-v0-2-1-legacy-1-72-a.html)|`2025-12-22 07:39:25`|`grand-theft-auto-v`|
 |3|[Brothers, please analyze why Tarkov was banned&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729737-brothers-please-analyze-tarkov-banned.html)|`2025-12-22 15:34:07`|`escape-from-tarkov`|
 |6|[Multi&#45;Cheat Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729922-multi-cheat-tool.html)|`2025-12-22 15:58:58`|`grand-theft-auto-v`|
+|21|[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2025-12-22 18:26:41`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-22 18:19:00`|`Counter-Strike 2 Releases`|
+|[Even if I watch all the videos on YouTube, I can't find UE5's GWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/730161-watch-videos-youtube-cant-ue5s-gworld.html)|`2025-12-22 18:03:00`|`Unreal Engine 4`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2025-12-22 18:01:00`|`Phasmophobia`|
 |[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2025-12-22 16:49:00`|`Anti-Cheat Bypass`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-22 16:29:00`|`Other FPS Games`|
 |[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/729919-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2025-12-22 16:10:00`|`Overwatch`|
