@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Traceshape Visibility Check &#40; Shellcode &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730523-external-traceshape-visibility-check-shellcode.html)|`2025-12-22 19:53:00`|`Counter-Strike 2`|
 |[how to inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730522-inject.html)|`2025-12-22 19:42:00`|`Counter-Strike 2`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-22 19:39:00`|`Other Games`|
 |[VAN 185 then account locked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730521-van-185-account-locked.html)|`2025-12-22 19:23:00`|`Valorant`|
