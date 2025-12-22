@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Feedback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730539-feedback.html)|`2025-12-22 23:50:00`|`Forum General`|
+|[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2025-12-22 23:47:00`|`Counter-Strike 2`|
 |[WaveShield SafeEvent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730537-waveshield-safeevent.html)|`2025-12-22 23:41:00`|`Alternative Online Mods`|
 |[Infinite Lobby Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730536-infinite-lobby-method.html)|`2025-12-22 23:36:00`|`Call of Duty: Black Ops 7`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-22 23:33:00`|`Other FPS Games`|
