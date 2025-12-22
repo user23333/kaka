@@ -12,6 +12,7 @@
 |3|[Brothers, please analyze why Tarkov was banned&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729737-brothers-please-analyze-tarkov-banned.html)|`2025-12-23 00:00:24`|`escape-from-tarkov`|
 |6|[Multi&#45;Cheat Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729922-multi-cheat-tool.html)|`2025-12-23 00:00:24`|`grand-theft-auto-v`|
 |8|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2025-12-23 05:45:29`|`escape-from-tarkov`|
+|11|[Aimbot Prediction &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730047-aimbot-prediction-external.html)|`2025-12-23 07:50:33`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2025-12-23 07:46:00`|`Elite: Dangerous`|
 |[skinchanger external problems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730355-skinchanger-external.html)|`2025-12-23 07:43:00`|`Counter-Strike 2`|
 |[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2025-12-23 07:41:00`|`Valorant`|
 |[cool epic awesome chat stuff &#42;&#42;EPIC&#42;&#42;&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/729627-cool-epic-awesome-chat-stuff-epic.html)|`2025-12-23 07:37:00`|`Team Fortress 2`|
