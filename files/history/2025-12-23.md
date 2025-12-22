@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[list of materials and their penetration modifiers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730349-list-materials-penetration-modifiers.html)|`2025-12-23 05:03:00`|`Counter-Strike 2`|
+|[blockade rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730556-blockade-rage-cheat.html)|`2025-12-23 04:57:00`|`Other FPS Games`|
 |[Very Basic Custom DMA Firmware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725509-basic-custom-dma-firmware-guide.html)|`2025-12-23 04:51:00`|`Anti-Cheat Bypass`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-12-23 04:32:00`|`Counter-Strike 2 Releases`|
 |[External Fullscreen Drawing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730596-external-fullscreen-drawing.html)|`2025-12-23 04:29:00`|`Alternative Online Mods`|
