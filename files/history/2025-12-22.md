@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WaveShield SafeEvent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730537-waveshield-safeevent.html)|`2025-12-22 23:41:00`|`Alternative Online Mods`|
+|[Infinite Lobby Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730536-infinite-lobby-method.html)|`2025-12-22 23:36:00`|`Call of Duty: Black Ops 7`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-22 23:33:00`|`Other FPS Games`|
 |[LSCHaX for 1&#46;70 &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/224075-lschax-1-70-external.html)|`2025-12-22 23:01:00`|`Grand Theft Auto V`|
 |[ScarToolKit &#45; Company of Heroes 3 Lua Script Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730532-scartoolkit-company-heroes-3-lua-script-injector.html)|`2025-12-22 22:46:00`|`Other MMORPG and Strategy`|
