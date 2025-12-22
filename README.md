@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unbannable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730216-unbannable-pc.html)|`2025-12-23 00:39:00`|`Valorant`|
+|[banned in bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730479-banned-bo7.html)|`2025-12-23 00:35:00`|`Call of Duty: Black Ops 7`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-23 00:35:00`|`Call of Duty: Black Ops 7`|
+|[ANEURISM IV &#45; Steam game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691595-aneurism-iv-steam-game.html)|`2025-12-23 00:30:00`|`Other Games`|
 |[someone has randomized all serials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730549-randomized-serials.html)|`2025-12-23 00:25:00`|`Anti-Cheat Bypass`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-23 00:24:00`|`Overwatch`|
 |[Knife animation sequences updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730301-knife-animation-sequences-updated.html)|`2025-12-23 00:24:00`|`Counter-Strike 2`|
