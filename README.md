@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[list of materials and their penetration modifiers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730349-list-materials-penetration-modifiers.html)|`2025-12-24 06:08:00`|`Counter-Strike 2`|
+|[NBA 2K26 l Python, OpenCV Anticheat detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730748-nba-2k26-python-opencv-anticheat-detection.html)|`2025-12-24 05:42:00`|`Anti-Cheat Bypass`|
+|[BLOOD 1&#46;0 / BLOOD 100T &#45; It's anyone familiar with those DMA Boards?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730747-blood-1-0-blood-100t-familiar-dma-boards.html)|`2025-12-24 05:41:00`|`Anti-Cheat Bypass`|
 |[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2025-12-24 05:45:00`|`Anti-Cheat Bypass`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-24 05:43:00`|`Other FPS Games`|
 |[proof of concept sourceban checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730745-proof-concept-sourceban-checker.html)|`2025-12-24 05:30:00`|`Team Fortress 2`|
