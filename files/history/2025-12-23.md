@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[prevention of downgrading bios version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/730652-prevention-downgrading-bios-version.html)|`2025-12-23 19:18:00`|`PC Software`|
 |[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-12-23 18:54:00`|`Other Games`|
 |[CS 1&#46;6 Weird Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/730050-cs-1-6-weird-ban.html)|`2025-12-23 18:49:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[&#91;PS4&#93; PRX GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/728973-ps4-prx-gsc-injector.html)|`2025-12-23 17:45:00`|`Call of Duty: Black Ops 3`|
