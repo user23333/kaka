@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-12-24 00:56:00`|`Red Dead Redemption 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-24 00:53:00`|`Other FPS Games`|
+|[CURRENT BOT LOBBY METHOD &#40;INFINITE LOBBY GLITCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730683-current-bot-lobby-method-infinite-lobby-glitch.html)|`2025-12-24 00:49:00`|`Call of Duty: Black Ops 7`|
 |[NEW fastest undetected valorant ahk triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730682-fastest-undetected-valorant-ahk-triggerbot.html)|`2025-12-24 00:44:00`|`Valorant`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-24 00:43:00`|`Other MMORPG and Strategy`|
 |[someone has randomized all serials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730549-randomized-serials.html)|`2025-12-24 00:32:00`|`Anti-Cheat Bypass`|
