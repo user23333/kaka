@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question of Daniel's vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730566-question-daniels-vac-bypass.html)|`2025-12-24 06:33:00`|`Team Fortress 2`|
+|[Multiple instances of steam/cs2 WITHOUT sandboxing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/666875-multiple-instances-steam-cs2-sandboxing.html)|`2025-12-24 06:30:00`|`Counter-Strike 2`|
 |[list of materials and their penetration modifiers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730349-list-materials-penetration-modifiers.html)|`2025-12-24 06:08:00`|`Counter-Strike 2`|
 |[NBA 2K26 l Python, OpenCV Anticheat detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730748-nba-2k26-python-opencv-anticheat-detection.html)|`2025-12-24 05:42:00`|`Anti-Cheat Bypass`|
 |[BLOOD 1&#46;0 / BLOOD 100T &#45; It's anyone familiar with those DMA Boards?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730747-blood-1-0-blood-100t-familiar-dma-boards.html)|`2025-12-24 05:41:00`|`Anti-Cheat Bypass`|
