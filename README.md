@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2025-12-24 07:09:00`|`Other FPS Games`|
+|[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2025-12-24 07:06:00`|`Counter-Strike 2`|
 |[360 cranium removal bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/713500-360-cranium-removal-bot.html)|`2025-12-24 06:40:00`|`Combat Master`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2025-12-24 06:34:00`|`HELLDIVERS 2`|
 |[Question of Daniel's vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730566-question-daniels-vac-bypass.html)|`2025-12-24 06:33:00`|`Team Fortress 2`|
