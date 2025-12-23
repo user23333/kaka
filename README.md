@@ -13,6 +13,7 @@
 |6|[Multi&#45;Cheat Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729922-multi-cheat-tool.html)|`2025-12-23 00:00:24`|`grand-theft-auto-v`|
 |8|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2025-12-23 05:45:29`|`escape-from-tarkov`|
 |11|[Aimbot Prediction &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730047-aimbot-prediction-external.html)|`2025-12-23 07:50:33`|`call-of-duty-black-ops-7-a`|
+|13|[AIPAC Response Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/730374-aipac-response-triggerbot.html)|`2025-12-23 12:38:06`|`off-topic`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make clean glow effekts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730622-clean-glow-effekts.html)|`2025-12-23 12:34:00`|`Counter-Strike 2`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2025-12-23 12:16:00`|`Other MMORPG and Strategy`|
+|[DMA &#124; low reading speed on gigabyte mainboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/730632-dma-low-reading-speed-gigabyte-mainboard.html)|`2025-12-23 12:01:00`|`PC Hardware`|
 |[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2025-12-23 11:08:00`|`Among Us`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-23 10:54:00`|`Escape from Tarkov`|
 |[PUBG Have HWID Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/730542-pubg-hwid-ban.html)|`2025-12-23 10:48:00`|`Playerunknown's Battlegrounds`|
