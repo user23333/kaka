@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-23 21:48:00`|`Rainbow Six Siege`|
+|[AntiVM Better then VMP and Themida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730663-antivm-vmp-themida.html)|`2025-12-23 21:47:00`|`Anti-Cheat Bypass`|
+|[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-23 21:26:00`|`Other FPS Games`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2025-12-23 21:08:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-23 21:05:00`|`Other MMORPG and Strategy`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-12-23 20:48:00`|`Red Dead Redemption 2`|
