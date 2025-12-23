@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Private external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730757-private-external.html)|`2025-12-24 07:37:00`|`Rust`|
 |[undetected hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730594-undetected-hooking.html)|`2025-12-24 07:27:00`|`Alternative Online Mods`|
 |[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2025-12-24 07:25:00`|`Grand Theft Auto V`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2025-12-24 07:09:00`|`Other FPS Games`|
