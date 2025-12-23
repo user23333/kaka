@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MISERY Mod Menu &#40;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/724237-misery-mod-menu-internal.html)|`2025-12-23 15:36:00`|`Other FPS Games`|
+|[Surroundead internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730642-surroundead-internal.html)|`2025-12-23 15:32:00`|`Other FPS Games`|
+|[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2025-12-23 15:21:00`|`Anti-Cheat Bypass`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-23 15:20:00`|`Other FPS Games`|
+|[color bot &#45; Removing Player Names & Health Bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729854-color-bot-removing-player-names-health-bars.html)|`2025-12-23 14:58:00`|`Marvel Rivals`|
 |[how rivals auto bans you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/730639-rivals-auto-bans.html)|`2025-12-23 14:52:00`|`Marvel Rivals`|
 |[Marvel Rivals I Got Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729057-marvel-rivals-banned.html)|`2025-12-23 14:44:00`|`Marvel Rivals`|
 |[&#40;New&#41; Popup Bypass Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729365-popup-bypass-method.html)|`2025-12-23 14:39:00`|`Valorant`|
