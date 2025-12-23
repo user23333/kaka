@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-24 02:10:00`|`Other Single Player Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-24 02:09:00`|`Escape from Tarkov`|
+|[VAC Bypass Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730259-vac-bypass-loader.html)|`2025-12-24 02:01:00`|`Team Fortress 2`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-24 01:56:00`|`Other FPS Games`|
 |[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2025-12-24 01:52:00`|`Valorant`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-12-24 01:51:00`|`DayZ SA`|
 |[BF2 Quadratic Aim Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/730698-bf2-quadratic-aim-prediction.html)|`2025-12-24 01:46:00`|`Battlefield 2`|
