@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2025-12-24 02:45:00`|`Cheat Engine Tables`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2025-12-24 02:44:00`|`Grand Theft Auto V`|
+|[Where to start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730705-start.html)|`2025-12-24 02:38:00`|`Rainbow Six Siege`|
+|[External Traceshape Visibility Check &#40; Shellcode &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730523-external-traceshape-visibility-check-shellcode.html)|`2025-12-24 02:26:00`|`Counter-Strike 2`|
+|[How to fix getting vac cs2 c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730654-fix-getting-vac-cs2.html)|`2025-12-24 02:25:00`|`Counter-Strike 2`|
+|[Roblox kernel level executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730626-roblox-kernel-level-executor.html)|`2025-12-24 02:22:00`|`Other Games`|
 |[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2025-12-24 02:10:00`|`Other Single Player Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2025-12-24 02:09:00`|`Escape from Tarkov`|
 |[VAC Bypass Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730259-vac-bypass-loader.html)|`2025-12-24 02:01:00`|`Team Fortress 2`|
