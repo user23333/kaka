@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/729919-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2025-12-23 22:37:00`|`Overwatch`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-12-23 22:31:00`|`Other MMORPG and Strategy`|
 |[stop resource detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730664-stop-resource-detection.html)|`2025-12-23 21:53:00`|`Alternative Online Mods`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-23 21:48:00`|`Rainbow Six Siege`|
 |[AntiVM Better then VMP and Themida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730663-antivm-vmp-themida.html)|`2025-12-23 21:47:00`|`Anti-Cheat Bypass`|
