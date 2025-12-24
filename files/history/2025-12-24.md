@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Infinite Bot Lobby BO7 &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730840-infinite-bot-lobby-bo7.html)|`2025-12-24 23:08:00`|`Call of Duty: Black Ops 7`|
+|[Stuck on prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730300-stuck-prediction.html)|`2025-12-24 23:01:00`|`Counter-Strike 2`|
+|[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2025-12-24 22:59:00`|`Other FPS Games`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-24 22:29:00`|`Other FPS Games`|
 |[I need some suggestions for my colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/727812-suggestions-colorbot.html)|`2025-12-24 22:16:00`|`Overwatch`|
 |[NEW fastest undetected valorant ahk triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730831-fastest-undetected-valorant-ahk-triggerbot.html)|`2025-12-24 22:12:00`|`Valorant`|
