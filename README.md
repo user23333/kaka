@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixel Gun 3D TC Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729590-pixel-gun-3d-tc-internal-cheat.html)|`2025-12-24 17:47:00`|`Other FPS Games`|
+|[Setup Controller Support &#40;For plutonium / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/729573-setup-controller-support-plutonium-steam.html)|`2025-12-24 17:36:00`|`Call of Duty: Black Ops 2`|
 |[Infinite Lobby Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730536-infinite-lobby-method.html)|`2025-12-24 17:34:00`|`Call of Duty: Black Ops 7`|
 |[Free Bot Lobby Tool &#45; Soryn &#45; Best Tool To use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730233-free-bot-lobby-tool-soryn-tool.html)|`2025-12-24 17:33:00`|`Call of Duty: Black Ops 7`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2025-12-24 17:07:00`|`Battlefield 6`|
