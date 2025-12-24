@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color bot &#45; Removing Player Names & Health Bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729854-color-bot-removing-player-names-health-bars.html)|`2025-12-24 15:49:00`|`Marvel Rivals`|
+|[Thank god for AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/721128-thank-god-ai.html)|`2025-12-24 15:48:00`|`Off Topic`|
 |[How are you? An Important Question In Busy Modern Life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/705387-question-busy-modern-life.html)|`2025-12-24 15:39:00`|`Off Topic`|
 |[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/729919-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2025-12-24 15:37:00`|`Overwatch`|
 |[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2025-12-24 15:31:00`|`Apex Legends`|
