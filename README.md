@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need some suggestions for my colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/727812-suggestions-colorbot.html)|`2025-12-24 22:16:00`|`Overwatch`|
+|[NEW fastest undetected valorant ahk triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730831-fastest-undetected-valorant-ahk-triggerbot.html)|`2025-12-24 22:12:00`|`Valorant`|
+|[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2025-12-24 22:05:00`|`Deadlock`|
+|[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2025-12-24 22:00:00`|`Other MMORPG and Strategy`|
+|[ANTIcheat emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/721785-anticheat-emulator.html)|`2025-12-24 21:59:00`|`Valorant`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-12-24 21:53:00`|`Call of Duty: Black Ops Cold War`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-12-24 21:37:00`|`Counter-Strike 2 Releases`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-24 21:13:00`|`Apex Legends`|
