@@ -12,6 +12,7 @@
 |12|[Aimbot Prediction &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730047-aimbot-prediction-external.html)|`2025-12-24 00:19:08`|`call-of-duty-black-ops-7-a`|
 |8|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2025-12-24 00:19:08`|`escape-from-tarkov`|
 |15|[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2025-12-24 15:34:05`|`anti-cheat-bypass`|
+|2|[Cheat Engine Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729989-cheat-engine-obfuscator.html)|`2025-12-24 16:52:38`|`battlefield-6-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
