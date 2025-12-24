@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-24 08:41:00`|`Grand Theft Auto V`|
+|[PUBG GLOBAL 4&#46;0 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/716104-pubg-global-4-0-ue4-offsets.html)|`2025-12-24 08:40:00`|`PUBG Mobile`|
+|[Triggerbot Finished &#45; Need Help on UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730762-triggerbot-finished-help-ui.html)|`2025-12-24 08:32:00`|`Valorant`|
 |[Private external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730757-private-external.html)|`2025-12-24 07:37:00`|`Rust`|
 |[undetected hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730594-undetected-hooking.html)|`2025-12-24 07:27:00`|`Alternative Online Mods`|
 |[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2025-12-24 07:25:00`|`Grand Theft Auto V`|
