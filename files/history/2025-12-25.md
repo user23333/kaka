@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2025-12-25 03:15:00`|`Grand Theft Auto V`|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2025-12-25 03:10:00`|`Combat Master`|
+|[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2025-12-25 03:09:00`|`Other FPS Games`|
+|[DayZServer&#95;x64&#46;exe No Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728192-dayzserver_x64-exe-battleye.html)|`2025-12-25 03:00:00`|`DayZ SA`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-25 02:57:00`|`Rust`|
 |[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2025-12-25 02:47:00`|`Valorant`|
 |[Object Spawner RDR2 Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/730868-object-spawner-rdr2-online.html)|`2025-12-25 02:46:00`|`Red Dead Redemption 2`|
