@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-24 21:13:00`|`Apex Legends`|
+|[Splitgate External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/730203-splitgate-external.html)|`2025-12-24 21:05:00`|`Splitgate`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/569807-war-thunder.html)|`2025-12-24 21:04:00`|`Forum General`|
 |[Vigor Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/662145-vigor-reversal-structs-offsets.html)|`2025-12-24 20:42:00`|`Other FPS Games`|
 |[registry spoofer c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730817-registry-spoofer.html)|`2025-12-24 20:35:00`|`Anti-Cheat Bypass`|
 |[Arduino Working Jitter aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/703532-arduino-jitter-aim-bypass.html)|`2025-12-24 20:25:00`|`Apex Legends`|
