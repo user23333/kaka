@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS 1&#46;6 Weird Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/730050-cs-1-6-weird-ban.html)|`2025-12-25 06:32:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Path of Exile 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/676435-path-exile-2-reversal-structs-offsets.html)|`2025-12-25 06:18:00`|`Other MMORPG and Strategy`|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2025-12-25 06:08:00`|`Marvel Rivals`|
 |[✪✪✪✪✪ &#124; ☆ Zen ☆ &#124; Triggerbot &#124; Full User Guide &#124; ✪✪✪✪✪](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730792-zen-triggerbot-user-guide.html)|`2025-12-25 06:15:00`|`Valorant`|
 |[GTA 5 How to remove Banned profile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730562-gta-5-remove-banned-profile.html)|`2025-12-25 05:58:00`|`Grand Theft Auto V`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-25 05:48:00`|`Grand Theft Auto V`|
