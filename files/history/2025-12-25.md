@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[✪✪✪✪✪ &#124; ☆ Zen ☆ &#124; Triggerbot &#124; Full User Guide &#124; ✪✪✪✪✪](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730792-zen-triggerbot-user-guide.html)|`2025-12-25 06:15:00`|`Valorant`|
 |[GTA 5 How to remove Banned profile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730562-gta-5-remove-banned-profile.html)|`2025-12-25 05:58:00`|`Grand Theft Auto V`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-25 05:48:00`|`Grand Theft Auto V`|
 |[banned in bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730479-banned-bo7.html)|`2025-12-25 04:55:00`|`Call of Duty: Black Ops 7`|
