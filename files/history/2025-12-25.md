@@ -25,9 +25,14 @@
 |238|[asthmaphobia v0&#46;15&#46;1&#46;0 hotfix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52310)|`2025-12-25 00:20:27`|
 |381|[Escape From Tarkov 1&#46;0&#46;0&#46;5 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52309)|`2025-12-25 00:20:27`|
 |426|[S14&#46;5&#45;MHUR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52307)|`2025-12-25 00:20:27`|
+|1|[Marvel Rivals SDK &#40;20251218&#41; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52384)|`2025-12-25 07:20:55`|
+|4|[Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52383)|`2025-12-25 07:20:55`|
+|1|[SimpleAmongUs&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52376)|`2025-12-25 07:20:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2025-12-25 07:18:00`|`Among Us`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-25 07:12:00`|`Alternative Online Mods`|
 |[HvH C2 Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730571-hvh-c2-source-code.html)|`2025-12-25 06:50:00`|`Counter-Strike 2`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727806-arc-raiders-poor-mans-radar-dma.html)|`2025-12-25 06:47:00`|`Other FPS Games`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2025-12-25 06:45:00`|`Overwatch`|
