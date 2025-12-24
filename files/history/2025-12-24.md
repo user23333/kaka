@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Executor help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730746-executor-help.html)|`2025-12-24 18:42:00`|`Alternative Online Mods`|
+|[nightclub safe went over 250k??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730109-nightclub-safe-250k.html)|`2025-12-24 18:33:00`|`Grand Theft Auto V`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-24 18:05:00`|`League of Legends`|
 |[Pixel Gun 3D TC Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729590-pixel-gun-3d-tc-internal-cheat.html)|`2025-12-24 17:47:00`|`Other FPS Games`|
 |[Setup Controller Support &#40;For plutonium / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/729573-setup-controller-support-plutonium-steam.html)|`2025-12-24 17:36:00`|`Call of Duty: Black Ops 2`|
