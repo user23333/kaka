@@ -13,6 +13,7 @@
 |8|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2025-12-24 00:19:08`|`escape-from-tarkov`|
 |15|[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2025-12-24 15:34:05`|`anti-cheat-bypass`|
 |2|[Cheat Engine Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729989-cheat-engine-obfuscator.html)|`2025-12-24 16:52:38`|`battlefield-6-a`|
+|13|[AIPAC Response Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/730374-aipac-response-triggerbot.html)|`2025-12-24 21:59:28`|`off-topic`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2025-12-24 21:53:00`|`Call of Duty: Black Ops Cold War`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2025-12-24 21:37:00`|`Counter-Strike 2 Releases`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-24 21:13:00`|`Apex Legends`|
 |[Splitgate External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/730203-splitgate-external.html)|`2025-12-24 21:05:00`|`Splitgate`|
