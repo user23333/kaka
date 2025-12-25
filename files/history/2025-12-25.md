@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;enhanced&#41; Dev Creator & Mission Creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731022-enhanced-dev-creator-mission-creator.html)|`2025-12-25 23:25:00`|`Grand Theft Auto V`|
 |[Arena Breakout Infinite &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721231-arena-breakout-infinite-poor-mans-radar-dma.html)|`2025-12-25 23:16:00`|`Other FPS Games`|
 |[extracing smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/713330-extracing-smoke-voxels.html)|`2025-12-25 23:11:00`|`Counter-Strike 2`|
 |[EAC Bypass Driver&#40;DBD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730794-eac-bypass-driver-dbd.html)|`2025-12-25 23:02:00`|`Anti-Cheat Bypass`|
