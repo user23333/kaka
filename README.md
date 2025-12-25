@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2025-12-25 13:48:00`|`Rainbow Six Siege`|
 |[Hardware selection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730973-hardware-selection.html)|`2025-12-25 13:07:00`|`Valorant`|
 |[is there any way i could modify the smoke colors external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730970-modify-smoke-colors-external.html)|`2025-12-25 12:36:00`|`Counter-Strike 2`|
 |[DirectX renderer &#43; gui "builder" &#40;idk lol&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/730971-directx-renderer-gui-builder-idk-lol.html)|`2025-12-25 12:34:00`|`Direct3D`|
