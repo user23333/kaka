@@ -25,6 +25,7 @@
 |196|[Escape From Tarkov 1&#46;0&#46;0&#46;5 Item IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52337)|`2025-12-26 00:24:52`|
 |1519|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52332)|`2025-12-26 00:24:52`|
 |39|[PasObf&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52317)|`2025-12-26 00:24:52`|
+|1|[R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52391)|`2025-12-26 03:47:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
