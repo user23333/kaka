@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Executor help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730746-executor-help.html)|`2025-12-26 06:28:00`|`Alternative Online Mods`|
 |[Game ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/731062-game-ban.html)|`2025-12-26 06:11:00`|`Sea of Thieves`|
 |[How to get blackcell for free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731060-blackcell-free.html)|`2025-12-26 06:06:00`|`Call of Duty: Black Ops 7`|
 |[Day of Dragons Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/731055-day-dragons-cheat.html)|`2025-12-26 05:45:00`|`Other MMORPG and Strategy`|
