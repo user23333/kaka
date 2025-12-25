@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there any way i could modify the smoke colors external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730970-modify-smoke-colors-external.html)|`2025-12-25 12:36:00`|`Counter-Strike 2`|
+|[DirectX renderer &#43; gui "builder" &#40;idk lol&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/730971-directx-renderer-gui-builder-idk-lol.html)|`2025-12-25 12:34:00`|`Direct3D`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2025-12-25 12:18:00`|`Other MMORPG and Strategy`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2025-12-25 12:12:00`|`Grand Theft Auto V`|
 |[Chicken Bone ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730969-chicken-bone-esp.html)|`2025-12-25 12:08:00`|`Counter-Strike 2`|
