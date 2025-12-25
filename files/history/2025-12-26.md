@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Script unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730993-script-unlock.html)|`2025-12-26 06:48:00`|`Grand Theft Auto V`|
+|[How do I add money with yimmenu in enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731024-add-money-yimmenu-enhanced.html)|`2025-12-26 06:47:00`|`Grand Theft Auto V`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2025-12-26 06:45:00`|`Grand Theft Auto V`|
 |[Executor help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730746-executor-help.html)|`2025-12-26 06:28:00`|`Alternative Online Mods`|
 |[Game ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/731062-game-ban.html)|`2025-12-26 06:11:00`|`Sea of Thieves`|
