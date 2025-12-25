@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2025-12-26 04:23:00`|`Other MMORPG and Strategy`|
+|[Warframe Unban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694544-warframe-unban.html)|`2025-12-26 04:18:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-26 04:11:00`|`Rust`|
+|[Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/606035-skinchanger.html)|`2025-12-26 04:10:00`|`Team Fortress 2`|
+|[Issues loading multiple GTA V mod menus together](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731048-issues-loading-multiple-gta-mod-menus.html)|`2025-12-26 04:04:00`|`Grand Theft Auto V`|
+|[HWID Ban / Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731047-hwid-ban-spoofing.html)|`2025-12-26 03:57:00`|`Rainbow Six Siege`|
 |[How to run multiple Steam instances without Sandboxie?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/731045-run-multiple-steam-instances-sandboxie.html)|`2025-12-26 03:49:00`|`Introductions`|
 |[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2025-12-26 03:53:00`|`Apex Legends`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-12-26 03:51:00`|`Other MMORPG and Strategy`|
