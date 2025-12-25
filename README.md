@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The question of whether high&#45;level kernel anti&#45;cheat measures monitor NtReadVirtualMe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730962-question-level-kernel-anti-cheat-measures-monitor-ntreadvirtualme.html)|`2025-12-26 03:24:00`|`Anti-Cheat Bypass`|
+|[Perm Spoofer RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730423-perm-spoofer-rust.html)|`2025-12-26 03:19:00`|`Rust`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2025-12-26 03:09:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2025-12-26 03:08:00`|`Other FPS Games`|
 |[Hi im new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/730961-hi-im.html)|`2025-12-26 03:03:00`|`Introductions`|
