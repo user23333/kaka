@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[standalone skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728276-standalone-skin-changer.html)|`2025-12-26 04:39:00`|`Counter-Strike 2`|
+|[internal hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731049-internal-hooks.html)|`2025-12-26 04:37:00`|`Garry's Mod`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-26 04:32:00`|`Other FPS Games`|
+|[Isolating targets with Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730996-isolating-targets-colorbot.html)|`2025-12-26 04:26:00`|`Valorant`|
 |[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2025-12-26 04:23:00`|`Other MMORPG and Strategy`|
 |[Warframe Unban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694544-warframe-unban.html)|`2025-12-26 04:18:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2025-12-26 04:11:00`|`Rust`|
