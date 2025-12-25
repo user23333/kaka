@@ -26,9 +26,15 @@
 |1519|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52332)|`2025-12-26 00:24:52`|
 |39|[PasObf&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52317)|`2025-12-26 00:24:52`|
 |1|[R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52391)|`2025-12-26 03:47:49`|
+|1|[Snowbreak 3&#46;4&#46;0&#46;118&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52392)|`2025-12-26 03:53:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2025-12-26 03:53:00`|`Apex Legends`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-12-26 03:51:00`|`Other MMORPG and Strategy`|
+|[EAC Bypass Driver&#40;DBD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730794-eac-bypass-driver-dbd.html)|`2025-12-26 03:50:00`|`Anti-Cheat Bypass`|
+|[External Autowall Logic Incorrect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730878-external-autowall-logic-incorrect.html)|`2025-12-26 03:49:00`|`Counter-Strike 2`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2025-12-26 03:47:00`|`Rainbow Six Siege`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2025-12-26 03:28:00`|`Overwatch`|
 |[Offset PB Zepetto 2025 december](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728522-offset-pb-zepetto-2025-december.html)|`2025-12-26 03:28:00`|`Other FPS Games`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2025-12-26 03:26:00`|`Other FPS Games`|
