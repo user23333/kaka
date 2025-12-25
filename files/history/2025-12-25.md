@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Fullscreen Drawing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730596-external-fullscreen-drawing.html)|`2025-12-25 19:44:00`|`Alternative Online Mods`|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2025-12-25 19:42:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Question of Daniel's vac bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730566-question-daniels-vac-bypass.html)|`2025-12-25 19:16:00`|`Team Fortress 2`|
 |[InitDecrypt crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/730989-initdecrypt-crash.html)|`2025-12-25 19:10:00`|`Playerunknown's Battlegrounds`|
 |[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2025-12-25 18:47:00`|`Anti-Cheat Bypass`|
