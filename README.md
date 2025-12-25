@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730689-bloodstrike-internal.html)|`2025-12-26 05:18:00`|`Other FPS Games`|
+|[Ext Skin Changer Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731051-ext-skin-changer-source-release.html)|`2025-12-26 05:17:00`|`Counter-Strike 2`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-26 05:10:00`|`League of Legends`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-26 05:00:00`|`Counter-Strike 2 Releases`|
 |[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2025-12-26 04:58:00`|`Anti-Cheat Bypass`|
 |[Division 1 QOL Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/731015-division-1-qol-tools.html)|`2025-12-26 04:51:00`|`Tom Clancy's The Division`|
