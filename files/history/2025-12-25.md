@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-25 14:20:00`|`Other FPS Games`|
 |[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2025-12-25 13:48:00`|`Rainbow Six Siege`|
 |[Hardware selection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730973-hardware-selection.html)|`2025-12-25 13:07:00`|`Valorant`|
 |[is there any way i could modify the smoke colors external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730970-modify-smoke-colors-external.html)|`2025-12-25 12:36:00`|`Counter-Strike 2`|
