@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-26 20:38:00`|`Other FPS Games`|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2025-12-26 20:19:00`|`Grand Theft Auto V`|
+|[Can Somebody Recap DMA and IOMMU?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730517-recap-dma-iommu.html)|`2025-12-26 20:02:00`|`Anti-Cheat Bypass`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2025-12-26 19:44:00`|`Other FPS Games`|
 |[Is there any working EAC bypass that works on W11 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728974-eac-bypass-w11-24h2.html)|`2025-12-26 19:37:00`|`Anti-Cheat Bypass`|
 |[Rust DMA Cheat &#40;free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731100-rust-dma-cheat-free.html)|`2025-12-26 19:34:00`|`Rust`|
