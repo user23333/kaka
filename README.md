@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;enhanced&#41; Dev Creator & Mission Creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731022-enhanced-dev-creator-mission-creator.html)|`2025-12-27 05:51:00`|`Grand Theft Auto V`|
+|[Fully external stream&#45;proof queued renderer via C&#35;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731190-external-stream-proof-queued-renderer-via.html)|`2025-12-27 05:50:00`|`General Programming and Reversing`|
+|[What is the technical mechanism behind the viewAngles WPM bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731145-technical-mechanism-viewangles-wpm-bans.html)|`2025-12-27 05:50:00`|`Counter-Strike 2`|
 |[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-12-27 05:44:00`|`Anti-Cheat Bypass`|
 |[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2025-12-27 05:35:00`|`Other MMORPG and Strategy`|
 |[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2025-12-27 05:33:00`|`Anti-Cheat Bypass`|
