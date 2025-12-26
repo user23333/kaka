@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2025-12-26 18:17:00`|`DayZ SA`|
+|[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2025-12-26 17:59:00`|`Other Games`|
 |[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-12-26 17:55:00`|`Anti-Cheat Bypass`|
 |[I Cant Call il2cpp functions, but inside the hook it works works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727695-cant-call-il2cpp-functions-inside-hook.html)|`2025-12-26 17:39:00`|`General Programming and Reversing`|
 |[Correct logic to get LocalPlayer Index for m&#95;bSpottedByMask in Servers ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730910-correct-logic-localplayer-index-m_bspottedbymask-servers.html)|`2025-12-26 17:25:00`|`Counter-Strike 2`|
