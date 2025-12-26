@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2025-12-27 06:11:00`|`Call of Duty: Black Ops 7`|
+|[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2025-12-27 06:05:00`|`Escape from Tarkov`|
+|[Ext Skin Changer Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731051-ext-skin-changer-source-release.html)|`2025-12-27 06:05:00`|`Counter-Strike 2`|
+|[HvH C2 Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730571-hvh-c2-source-code.html)|`2025-12-27 06:02:00`|`Counter-Strike 2`|
 |[&#40;enhanced&#41; Dev Creator & Mission Creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731022-enhanced-dev-creator-mission-creator.html)|`2025-12-27 05:51:00`|`Grand Theft Auto V`|
 |[Fully external stream&#45;proof queued renderer via C&#35;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731190-external-stream-proof-queued-renderer-via.html)|`2025-12-27 05:50:00`|`General Programming and Reversing`|
 |[What is the technical mechanism behind the viewAngles WPM bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731145-technical-mechanism-viewangles-wpm-bans.html)|`2025-12-27 05:50:00`|`Counter-Strike 2`|
