@@ -14,6 +14,7 @@
 |15|[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2025-12-26 02:56:57`|`apex-legends`|
 |18|[nightclub safe went over 250k??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730109-nightclub-safe-250k.html)|`2025-12-26 07:55:56`|`grand-theft-auto-v`|
 |18|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2025-12-26 11:49:46`|`valorant`|
+|23|[✪✪✪✪✪ &#124; ☆ Zen ☆ &#124; Triggerbot &#124; Full User Guide &#124; ✪✪✪✪✪](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730792-zen-triggerbot-user-guide.html)|`2025-12-26 14:27:18`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731075-overlay.html)|`2025-12-26 14:22:00`|`Call of Duty: Black Ops 7`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-26 14:19:00`|`Other FPS Games`|
 |[Network based resource dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724790-network-based-resource-dumper.html)|`2025-12-26 13:56:00`|`Alternative Online Mods`|
 |[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-26 13:50:00`|`Rainbow Six Siege`|
 |[Preview 5M Native Dump/Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727743-preview-5m-native-dump-decrypt.html)|`2025-12-26 13:49:00`|`Alternative Online Mods`|
