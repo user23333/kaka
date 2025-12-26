@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay Detection Analysis &#45; Call of Duty Bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731116-overlay-detection-analysis-call-duty-bo7.html)|`2025-12-27 07:44:00`|`Call of Duty: Black Ops 7`|
+|[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2025-12-27 07:39:00`|`Other MMORPG and Strategy`|
+|[sigs xigmapper windows 11 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723563-sigs-xigmapper-windows-11-25h2.html)|`2025-12-27 07:36:00`|`Anti-Cheat Bypass`|
 |[Account reset hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731199-account-reset-hack.html)|`2025-12-27 07:35:00`|`Escape from Tarkov`|
 |[Path of exile 1/2 Mouse Movement Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/731066-path-exile-1-2-mouse-movement-detection.html)|`2025-12-27 07:31:00`|`Other MMORPG and Strategy`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-27 07:06:00`|`Grand Theft Auto V`|
