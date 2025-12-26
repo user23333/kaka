@@ -13,6 +13,7 @@
 |13|[AntiVM Better then VMP and Themida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730663-antivm-vmp-themida.html)|`2025-12-26 00:24:52`|`anti-cheat-bypass`|
 |15|[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2025-12-26 02:56:57`|`apex-legends`|
 |18|[nightclub safe went over 250k??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730109-nightclub-safe-250k.html)|`2025-12-26 07:55:56`|`grand-theft-auto-v`|
+|18|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2025-12-26 11:49:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COOL DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731077-cool-dumper.html)|`2025-12-26 11:36:00`|`Escape from Tarkov`|
 |[someone has randomized all serials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730549-randomized-serials.html)|`2025-12-26 10:33:00`|`Anti-Cheat Bypass`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-12-26 10:25:00`|`Counter-Strike 2 Releases`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-12-26 10:14:00`|`Overwatch`|
