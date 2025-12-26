@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reconnect/kick bug/hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731164-reconnect-kick-bug-hack.html)|`2025-12-27 00:50:00`|`Counter-Strike 2`|
+|[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2025-12-27 00:48:00`|`Anti-Cheat Bypass`|
+|[Decrypting ASM C&#45;Sharp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731162-decrypting-asm-sharp.html)|`2025-12-27 00:46:00`|`Escape from Tarkov`|
+|[Anti Debug patch &#62;:3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/722160-anti-debug-patch-3-a.html)|`2025-12-27 00:45:00`|`Combat Master`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2025-12-27 00:44:00`|`Combat Master`|
+|[Combat Master Game Crashes When Attaching Debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/720820-combat-master-game-crashes-attaching-debugger.html)|`2025-12-27 00:41:00`|`Combat Master`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-27 00:33:00`|`Counter-Strike 2 Releases`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-27 00:26:00`|`Counter-Strike 2`|
 |[Encoding picture for imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730488-encoding-picture-imgui.html)|`2025-12-27 00:18:00`|`Call of Duty: Black Ops 7`|
