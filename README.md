@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Neutralizing KDStinker: IoCreateDevice Hook Detection POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726363-neutralizing-kdstinker-iocreatedevice-hook-detection-poc.html)|`2025-12-26 17:55:00`|`Anti-Cheat Bypass`|
 |[I Cant Call il2cpp functions, but inside the hook it works works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/727695-cant-call-il2cpp-functions-inside-hook.html)|`2025-12-26 17:39:00`|`General Programming and Reversing`|
 |[Correct logic to get LocalPlayer Index for m&#95;bSpottedByMask in Servers ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730910-correct-logic-localplayer-index-m_bspottedbymask-servers.html)|`2025-12-26 17:25:00`|`Counter-Strike 2`|
 |[Overlay Detection Analysis &#45; Call of Duty Bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731116-overlay-detection-analysis-call-duty-bo7.html)|`2025-12-26 17:11:00`|`Call of Duty: Black Ops 7`|
