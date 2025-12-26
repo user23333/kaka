@@ -31,9 +31,14 @@
 |39|[PasObf&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52317)|`2025-12-26 00:24:52`|
 |1|[R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52391)|`2025-12-26 03:47:49`|
 |1|[Snowbreak 3&#46;4&#46;0&#46;118&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52392)|`2025-12-26 03:53:55`|
+|4|[tarkov&#95;ill2cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52403)|`2025-12-26 19:30:34`|
+|2|[GameObject dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52402)|`2025-12-26 19:30:34`|
+|1|[Marvel Rivals SDK &#40;20251225&#41; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52400)|`2025-12-26 19:30:34`|
+|1|[RLTool&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52398)|`2025-12-26 19:30:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2025-12-26 19:30:00`|`Other Games`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-12-26 19:14:00`|`Red Dead Redemption 2`|
 |[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2025-12-26 19:02:00`|`Anti-Cheat Bypass`|
 |[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-26 18:51:00`|`Other FPS Games`|
