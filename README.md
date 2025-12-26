@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-26 21:50:00`|`Other Games`|
 |[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2025-12-26 21:43:00`|`Valorant`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-26 21:32:00`|`Apex Legends`|
 |[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2025-12-26 21:12:00`|`Anti-Cheat Bypass`|
