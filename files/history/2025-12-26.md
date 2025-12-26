@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path of exile 1/2 Mouse Movement Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/731066-path-exile-1-2-mouse-movement-detection.html)|`2025-12-26 15:29:00`|`Other MMORPG and Strategy`|
 |[Best BO7 Bot Lobby Tool &#40;Ranked&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731105-bo7-bot-lobby-tool-ranked.html)|`2025-12-26 14:52:00`|`Call of Duty: Black Ops 7`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2025-12-26 14:43:00`|`Other FPS Games`|
 |[IL2CPP memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725951-il2cpp-memory-dumper.html)|`2025-12-26 14:27:00`|`Escape from Tarkov`|
