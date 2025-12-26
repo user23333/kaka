@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Correct logic to get LocalPlayer Index for m&#95;bSpottedByMask in Servers ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730910-correct-logic-localplayer-index-m_bspottedbymask-servers.html)|`2025-12-26 17:25:00`|`Counter-Strike 2`|
 |[Overlay Detection Analysis &#45; Call of Duty Bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731116-overlay-detection-analysis-call-duty-bo7.html)|`2025-12-26 17:11:00`|`Call of Duty: Black Ops 7`|
 |[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2025-12-26 17:03:00`|`Anti-Cheat Bypass`|
 |[Thermal Vision FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730875-thermal-vision-fivem-external.html)|`2025-12-26 17:02:00`|`Alternative Online Mods`|
