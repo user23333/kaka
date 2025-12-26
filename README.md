@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there any working EAC bypass that works on W11 24h2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728974-eac-bypass-w11-24h2.html)|`2025-12-26 19:37:00`|`Anti-Cheat Bypass`|
+|[Rust DMA Cheat &#40;free&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731100-rust-dma-cheat-free.html)|`2025-12-26 19:34:00`|`Rust`|
 |[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2025-12-26 19:30:00`|`Other Games`|
 |[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-12-26 19:14:00`|`Red Dead Redemption 2`|
 |[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2025-12-26 19:02:00`|`Anti-Cheat Bypass`|
