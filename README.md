@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-27 00:33:00`|`Counter-Strike 2 Releases`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-27 00:26:00`|`Counter-Strike 2`|
+|[Encoding picture for imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730488-encoding-picture-imgui.html)|`2025-12-27 00:18:00`|`Call of Duty: Black Ops 7`|
+|[Infinite Lobby Method? How it works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730606-infinite-lobby-method.html)|`2025-12-27 00:17:00`|`Call of Duty: Black Ops 7`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2025-12-27 00:17:00`|`Alternative Online Mods`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2025-12-27 00:14:00`|`Other FPS Games`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2025-12-27 00:13:00`|`Other FPS Games`|
+|[best woofer for bo7 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730674-woofer-bo7.html)|`2025-12-27 00:12:00`|`Call of Duty: Black Ops 7`|
 |[Infinite Bot Lobby BO7 &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730840-infinite-bot-lobby-bo7.html)|`2025-12-27 00:11:00`|`Call of Duty: Black Ops 7`|
 |[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2025-12-27 00:08:00`|`Valorant`|
 |[proof of concept sourceban checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730745-proof-concept-sourceban-checker.html)|`2025-12-27 00:07:00`|`Team Fortress 2`|
