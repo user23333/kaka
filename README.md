@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-12-27 18:32:00`|`Grand Theft Auto V`|
+|[Crash fix information for Steam Client x64 update 12/19/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/730270-crash-fix-information-steam-client-x64-update-12-19-25-a.html)|`2025-12-27 18:30:00`|`Counterstrike Global Offensive`|
+|[Bigger Hitboxes Forge 1&#46;21&#46;5&#45;1&#46;21&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/728605-bigger-hitboxes-forge-1-21-5-1-21-10-a.html)|`2025-12-27 18:11:00`|`Minecraft`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2025-12-27 17:57:00`|`Playerunknown's Battlegrounds`|
 |[Lua Nuker &#40; Lua Injector &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729894-lua-nuker-lua-injector.html)|`2025-12-27 17:55:00`|`Garry's Mod`|
 |[dylibs for teh lazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730141-dylibs-teh-lazy.html)|`2025-12-27 17:40:00`|`Garry's Mod`|
