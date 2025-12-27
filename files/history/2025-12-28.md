@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2025-12-28 03:02:00`|`Deadlock`|
+|[Thermal Vision FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730875-thermal-vision-fivem-external.html)|`2025-12-28 03:01:00`|`Alternative Online Mods`|
+|[Ghosts of Tabor Lobby Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731344-ghosts-tabor-lobby-manipulation.html)|`2025-12-28 02:59:00`|`Other FPS Games`|
 |[January 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/730011-january-2026-motm-nominations.html)|`2025-12-28 02:53:00`|`Member of the Month`|
 |[Fivem Spoofer hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/709798-fivem-spoofer-hwid.html)|`2025-12-28 02:51:00`|`Alternative Online Mods`|
 |[Roblox kernel level executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730626-roblox-kernel-level-executor.html)|`2025-12-28 02:51:00`|`Other Games`|
