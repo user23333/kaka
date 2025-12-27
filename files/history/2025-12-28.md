@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2025-12-28 04:07:00`|`Counter-Strike 2`|
 |[&#91;VOTE&#93; January 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/731346-vote-january-2026-month.html)|`2025-12-28 03:48:00`|`Member of the Month`|
 |[New additions to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/731349-additions-forum-moderation-staff-team.html)|`2025-12-28 03:47:00`|`Information and Announcements`|
 |[Reconnect/kick bug/hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731164-reconnect-kick-bug-hack.html)|`2025-12-28 03:44:00`|`Counter-Strike 2`|
