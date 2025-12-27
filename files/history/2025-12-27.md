@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-27 18:47:00`|`Other Games`|
+|[&#91;L4D2&#93; Cheat Base With Gamesense/&#91;removed&#93; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726456-l4d2-cheat-base-gamesense-removed-menu.html)|`2025-12-27 18:46:00`|`Other FPS Games`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-12-27 18:35:00`|`Other MMORPG and Strategy`|
 |[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2025-12-27 18:32:00`|`Grand Theft Auto V`|
 |[Crash fix information for Steam Client x64 update 12/19/25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/730270-crash-fix-information-steam-client-x64-update-12-19-25-a.html)|`2025-12-27 18:30:00`|`Counterstrike Global Offensive`|
