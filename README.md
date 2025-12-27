@@ -42,6 +42,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2025-12-27 22:50:00`|`Among Us`|
 |[GTA New Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731263-gta-account.html)|`2025-12-27 22:04:00`|`Grand Theft Auto V`|
 |[Is there a way to permanent spoof an NVIDIA UUID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731264-permanent-spoof-nvidia-uuid.html)|`2025-12-27 22:00:00`|`Valorant`|
 |[Restore my HWID original after using AMIDEWIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730798-restore-hwid-original-using-amidewin.html)|`2025-12-27 21:59:00`|`Valorant`|
