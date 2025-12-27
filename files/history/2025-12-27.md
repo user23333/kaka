@@ -30,9 +30,14 @@
 |88|[Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52383)|`2025-12-27 00:11:42`|
 |65|[SimpleAmongUs&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52376)|`2025-12-27 00:11:42`|
 |17|[AntiVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52371)|`2025-12-27 00:11:42`|
+|1|[FFR100MELEE100](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52412)|`2025-12-27 14:48:13`|
+|1|[cloakwork&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52389)|`2025-12-27 14:48:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP Lagging when there is a smoke or molly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730983-esp-lagging-smoke-molly.html)|`2025-12-27 14:47:00`|`Counter-Strike 2`|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-vm.html)|`2025-12-27 14:44:00`|`C and C++`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-27 14:40:00`|`Other Games`|
 |[ARK RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727726-ark-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-27 14:15:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-27 14:05:00`|`League of Legends`|
 |[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2025-12-27 13:41:00`|`Escape from Tarkov`|
