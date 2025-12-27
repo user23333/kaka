@@ -32,9 +32,16 @@
 |17|[AntiVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52371)|`2025-12-27 00:11:42`|
 |1|[FFR100MELEE100](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52412)|`2025-12-27 14:48:13`|
 |1|[cloakwork&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52389)|`2025-12-27 14:48:13`|
+|1|[Acronis HL2DM x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52408)|`2025-12-27 15:17:27`|
+|5|[UltimateMenu For YimMenu V2&#46;8 1&#46;72 Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52404)|`2025-12-27 15:17:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2025-12-27 15:08:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-27 15:08:00`|`Grand Theft Auto V`|
+|[MW3 Unlock tool & Red&#45;Box Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/649015-mw3-unlock-tool-red-box-hack.html)|`2025-12-27 15:05:00`|`Call of Duty: Modern Warfare 3`|
+|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2025-12-27 15:03:00`|`Marvel Rivals`|
+|[Acronis HL2DM x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/731169-acronis-hl2dm-x64.html)|`2025-12-27 15:00:00`|`Half Life`|
 |[RUCOY ONLINE FARMING BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730404-rucoy-online-farming-bot.html)|`2025-12-27 14:56:00`|`Other Games`|
 |[i need a 2pc mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731206-2pc-mouse-movement-method.html)|`2025-12-27 14:50:00`|`Valorant`|
 |[ESP Lagging when there is a smoke or molly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730983-esp-lagging-smoke-molly.html)|`2025-12-27 14:47:00`|`Counter-Strike 2`|
