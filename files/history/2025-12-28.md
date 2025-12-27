@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-28 04:31:00`|`Grand Theft Auto V`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2025-12-28 04:28:00`|`ARC Raiders`|
+|[How do I add money with yimmenu in enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731024-add-money-yimmenu-enhanced.html)|`2025-12-28 04:26:00`|`Grand Theft Auto V`|
+|[Cs2 Internal Source Code Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730080-cs2-internal-source-code-cheat-base.html)|`2025-12-28 04:18:00`|`Counter-Strike 2`|
+|[Account reset hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731199-account-reset-hack.html)|`2025-12-28 04:16:00`|`Escape from Tarkov`|
+|[Hide PT Walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731258-hide-pt-walk.html)|`2025-12-28 04:13:00`|`Anti-Cheat Bypass`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2025-12-28 04:07:00`|`Counter-Strike 2`|
 |[&#91;VOTE&#93; January 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/731346-vote-january-2026-month.html)|`2025-12-28 03:48:00`|`Member of the Month`|
 |[New additions to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/731349-additions-forum-moderation-staff-team.html)|`2025-12-28 03:47:00`|`Information and Announcements`|
