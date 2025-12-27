@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RUCOY ONLINE FARMING BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730404-rucoy-online-farming-bot.html)|`2025-12-27 14:56:00`|`Other Games`|
+|[i need a 2pc mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731206-2pc-mouse-movement-method.html)|`2025-12-27 14:50:00`|`Valorant`|
 |[ESP Lagging when there is a smoke or molly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730983-esp-lagging-smoke-molly.html)|`2025-12-27 14:47:00`|`Counter-Strike 2`|
 |[C&#43;&#43; Single Header&#45;Only library for Obfuscation/VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-vm.html)|`2025-12-27 14:44:00`|`C and C++`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-27 14:40:00`|`Other Games`|
