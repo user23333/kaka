@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External &#124; Change Climate/Hour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731274-external-change-climate-hour.html)|`2025-12-27 23:13:00`|`Alternative Online Mods`|
+|[Show Minimap Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731273-minimap-fivem-external.html)|`2025-12-27 23:11:00`|`Alternative Online Mods`|
+|[disconnect rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725918-disconnect-rust.html)|`2025-12-27 23:10:00`|`Rust`|
+|[&#91;POC&#93; grabbing hwid using glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731272-poc-grabbing-hwid-using-glua.html)|`2025-12-27 23:08:00`|`Garry's Mod`|
 |[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2025-12-27 22:50:00`|`Among Us`|
 |[GTA New Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731263-gta-account.html)|`2025-12-27 22:04:00`|`Grand Theft Auto V`|
 |[Is there a way to permanent spoof an NVIDIA UUID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731264-permanent-spoof-nvidia-uuid.html)|`2025-12-27 22:00:00`|`Valorant`|
