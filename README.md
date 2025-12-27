@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MapleRoyals Mercury Trainer &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/730524-mapleroyals-mercury-trainer-free.html)|`2025-12-27 16:55:00`|`Maple Story`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-27 16:52:00`|`Grand Theft Auto V`|
 |[Is jitter aim macro now blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731240-jitter-aim-macro-blocked.html)|`2025-12-27 16:39:00`|`Apex Legends`|
 |[Division 1 QOL Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/731015-division-1-qol-tools.html)|`2025-12-27 16:38:00`|`Tom Clancy's The Division`|
 |[Day of Dragons Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/731055-day-dragons-cheat.html)|`2025-12-27 16:31:00`|`Other MMORPG and Strategy`|
