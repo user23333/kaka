@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I enter online mode with BattlEye disabled?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731115-enter-online-mode-battleye-disabled.html)|`2025-12-27 11:51:00`|`Grand Theft Auto V`|
+|[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2025-12-27 11:51:00`|`Battlefield 6`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2025-12-27 11:48:00`|`Overwatch`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2025-12-27 11:44:00`|`Escape from Tarkov`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-27 10:54:00`|`Other FPS Games`|
 |[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2025-12-27 10:53:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-12-27 10:40:00`|`Rainbow Six Siege`|
