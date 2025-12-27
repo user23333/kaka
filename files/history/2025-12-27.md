@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thermal Vision FiveM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730875-thermal-vision-fivem-external.html)|`2025-12-27 23:17:00`|`Alternative Online Mods`|
+|[Tarkov request encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726688-tarkov-request-encryption.html)|`2025-12-27 23:17:00`|`Escape from Tarkov`|
 |[External &#124; Change Climate/Hour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731274-external-change-climate-hour.html)|`2025-12-27 23:13:00`|`Alternative Online Mods`|
 |[Show Minimap Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731273-minimap-fivem-external.html)|`2025-12-27 23:11:00`|`Alternative Online Mods`|
 |[disconnect rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725918-disconnect-rust.html)|`2025-12-27 23:10:00`|`Rust`|
