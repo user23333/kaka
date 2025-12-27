@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dylibs for teh lazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/730141-dylibs-teh-lazy.html)|`2025-12-27 17:40:00`|`Garry's Mod`|
+|[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2025-12-27 17:40:00`|`Other FPS Games`|
+|[&#91;RELEASE&#93; Codex External ESP &#43; Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/716934-release-codex-external-esp-aim.html)|`2025-12-27 17:38:00`|`Counter-Strike 2 Releases`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-27 17:32:00`|`Other FPS Games`|
 |[&#91;CS2&#93; Understanding Offset Chains &#40;EntityList, Money, Names, ViewMatrix, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731242-cs2-understanding-offset-chains-entitylist-money-names-viewmatrix-etc.html)|`2025-12-27 17:28:00`|`Counter-Strike 2`|
 |[&#91;Help&#93; Struggling with Silent Aim & CUserCMD Structure in CS2 Internal &#40;Beginner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730408-help-struggling-silent-aim-cusercmd-structure-cs2-internal-beginner.html)|`2025-12-27 17:27:00`|`Counter-Strike 2`|
 |[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-12-27 17:27:00`|`Counter-Strike 2 Releases`|
