@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2025-12-28 06:42:00`|`DayZ SA`|
+|[ZeroPoint &#45; External Cheat &#40;My first external cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/715973-zeropoint-external-cheat-external-cheat.html)|`2025-12-28 06:40:00`|`Counter-Strike 2`|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2025-12-28 06:35:00`|`THE FINALS`|
+|[Teach?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/731340-teach.html)|`2025-12-28 06:34:00`|`Programming for Beginners`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2025-12-28 06:31:00`|`Other MMORPG and Strategy`|
 |[Battle Night: Cyberpunk RPG cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/731361-battle-night-cyberpunk-rpg-cheat-table.html)|`2025-12-28 06:27:00`|`Cheat Engine Tables`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2025-12-28 06:21:00`|`Grand Theft Auto V`|
