@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730689-bloodstrike-internal.html)|`2025-12-27 18:52:00`|`Other FPS Games`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2025-12-27 18:47:00`|`Other Games`|
 |[&#91;L4D2&#93; Cheat Base With Gamesense/&#91;removed&#93; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726456-l4d2-cheat-base-gamesense-removed-menu.html)|`2025-12-27 18:46:00`|`Other FPS Games`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-12-27 18:35:00`|`Other MMORPG and Strategy`|
