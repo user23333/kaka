@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2025-12-28 01:42:00`|`Rainbow Six Siege`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2025-12-28 01:31:00`|`Counter-Strike 2 Releases`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2025-12-28 01:23:00`|`Other MMORPG and Strategy`|
 |[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2025-12-28 01:18:00`|`Among Us`|
