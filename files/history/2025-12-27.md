@@ -14,6 +14,8 @@
 |18|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2025-12-27 02:13:41`|`other-mmorpg-and-strategy`|
 |5|[HvH C2 Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730571-hvh-c2-source-code.html)|`2025-12-27 05:19:11`|`counter-strike-2-a`|
 |7|[Free Bot Lobby Tool &#45; Soryn &#45; Best Tool To use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730233-free-bot-lobby-tool-soryn-tool.html)|`2025-12-27 09:14:23`|`call-of-duty-black-ops-7-a`|
+|4|[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-27 10:57:54`|`other-fps-games`|
+|7|[COOL DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731077-cool-dumper.html)|`2025-12-27 10:57:54`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2025-12-27 10:54:00`|`Other FPS Games`|
+|[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2025-12-27 10:53:00`|`Valorant`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-12-27 10:40:00`|`Rainbow Six Siege`|
+|[Pixel Gun 3D TC Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729590-pixel-gun-3d-tc-internal-cheat.html)|`2025-12-27 10:35:00`|`Other FPS Games`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2025-12-27 10:34:00`|`Rainbow Six Siege`|
+|[Sastasha Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector.html)|`2025-12-27 10:30:00`|`General Programming and Reversing`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2025-12-27 09:09:00`|`Among Us`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2025-12-27 08:57:00`|`Scum`|
 |[InitDecrypt crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/730989-initdecrypt-crash.html)|`2025-12-27 08:26:00`|`Playerunknown's Battlegrounds`|
