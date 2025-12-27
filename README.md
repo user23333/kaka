@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;CS2&#93; Understanding Offset Chains &#40;EntityList, Money, Names, ViewMatrix, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731242-cs2-understanding-offset-chains-entitylist-money-names-viewmatrix-etc.html)|`2025-12-27 17:28:00`|`Counter-Strike 2`|
+|[&#91;Help&#93; Struggling with Silent Aim & CUserCMD Structure in CS2 Internal &#40;Beginner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730408-help-struggling-silent-aim-cusercmd-structure-cs2-internal-beginner.html)|`2025-12-27 17:27:00`|`Counter-Strike 2`|
+|[CS2 Offsets Fetcher and Organized Python Class Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707848-cs2-offsets-fetcher-organized-python-class-generator.html)|`2025-12-27 17:27:00`|`Counter-Strike 2 Releases`|
+|[&#91;Help&#93; Correct CCSGOInput::GetUserCmd logic/offsets for Index 5 Hook?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730511-help-correct-ccsgoinput-getusercmd-logic-offsets-index-5-hook.html)|`2025-12-27 17:27:00`|`Counter-Strike 2`|
+|[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-27 17:24:00`|`Other FPS Games`|
 |[Dead By Daylight External src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729430-dead-daylight-external-src.html)|`2025-12-27 17:10:00`|`Other FPS Games`|
 |[Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/703386-internal-esp-aimbot.html)|`2025-12-27 17:05:00`|`Star Wars Battlefront 2`|
 |[JavaHook &#45; Java Class Hooking Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/730527-javahook-java-class-hooking-library.html)|`2025-12-27 17:04:00`|`Minecraft`|
