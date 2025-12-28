@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Transaction Tab for YimmenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731091-transaction-tab-yimmenuv2.html)|`2025-12-28 13:06:00`|`Grand Theft Auto V`|
+|[GIRLS' FRONTLINE 2:EXILIUM CN PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/653607-girls-frontline-2-exilium-cn-pc-cheat.html)|`2025-12-28 12:59:00`|`Other MMORPG and Strategy`|
+|[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2025-12-28 12:51:00`|`Rust`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2025-12-28 12:49:00`|`Other Games`|
+|[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2025-12-28 12:47:00`|`DayZ SA`|
 |[Makcu 1PC Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/698881-makcu-1pc-colorbot.html)|`2025-12-28 12:03:00`|`Valorant`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-12-28 11:26:00`|`Rainbow Six Siege`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-28 11:24:00`|`Escape from Tarkov`|
