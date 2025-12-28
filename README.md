@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-12-28 16:14:00`|`Grand Theft Auto V`|
+|[mouse &#43; keyboard emulation without bsods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731422-mouse-keyboard-emulation-bsods.html)|`2025-12-28 15:58:00`|`Anti-Cheat Bypass`|
 |[Vehicle Customisation: Missile Lock&#45;On Jammer Installation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731420-vehicle-customisation-missile-lock-jammer-installation.html)|`2025-12-28 15:47:00`|`Grand Theft Auto V`|
 |[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2025-12-28 15:40:00`|`Other FPS Games`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2025-12-28 15:30:00`|`Apex Legends`|
