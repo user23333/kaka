@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2025-12-28 17:05:00`|`Battlefield 6`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2025-12-28 17:03:00`|`Valorant`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2025-12-28 16:59:00`|`Other MMORPG and Strategy`|
 |[Autowall not shooting through all Walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731427-autowall-shooting-walls.html)|`2025-12-28 16:52:00`|`Counter-Strike 2`|
 |[Black Ops 3 Won’t Render &#40;Tiny Black Window &#43; Audio Only &#43; Safe Mode Loop&#41; — D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/731426-black-ops-3-won-render-tiny-black-window-audio-safe-mode-loop.html)|`2025-12-28 16:40:00`|`Call of Duty: Black Ops 3`|
 |[xigncode3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731425-xigncode3-bypass.html)|`2025-12-28 16:40:00`|`Anti-Cheat Bypass`|
