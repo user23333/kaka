@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Black Ops 3 Won’t Render &#40;Tiny Black Window &#43; Audio Only &#43; Safe Mode Loop&#41; — D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/731426-black-ops-3-won-render-tiny-black-window-audio-safe-mode-loop.html)|`2025-12-28 16:40:00`|`Call of Duty: Black Ops 3`|
+|[xigncode3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731425-xigncode3-bypass.html)|`2025-12-28 16:40:00`|`Anti-Cheat Bypass`|
+|[Cheats on terminal map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731424-cheats-terminal-map.html)|`2025-12-28 16:32:00`|`Escape from Tarkov`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2025-12-28 16:32:00`|`Grand Theft Auto V`|
+|[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2025-12-28 16:26:00`|`Anti-Cheat Bypass`|
+|[Is there a way to permanent spoof an NVIDIA UUID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731264-permanent-spoof-nvidia-uuid.html)|`2025-12-28 16:24:00`|`Valorant`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2025-12-28 16:14:00`|`Grand Theft Auto V`|
 |[mouse &#43; keyboard emulation without bsods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731422-mouse-keyboard-emulation-bsods.html)|`2025-12-28 15:58:00`|`Anti-Cheat Bypass`|
 |[Vehicle Customisation: Missile Lock&#45;On Jammer Installation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731420-vehicle-customisation-missile-lock-jammer-installation.html)|`2025-12-28 15:47:00`|`Grand Theft Auto V`|
