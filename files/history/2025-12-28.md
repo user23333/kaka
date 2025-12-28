@@ -12,6 +12,7 @@
 |11|[How do I add money with yimmenu in enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731024-add-money-yimmenu-enhanced.html)|`2025-12-28 00:44:27`|`grand-theft-auto-v`|
 |4|[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-28 00:44:27`|`other-fps-games`|
 |4|[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-28 03:29:56`|`arc-raiders`|
+|11|[COOL DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731077-cool-dumper.html)|`2025-12-28 11:27:26`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-12-28 11:26:00`|`Rainbow Six Siege`|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2025-12-28 11:24:00`|`Escape from Tarkov`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2025-12-28 11:22:00`|`Marvel Rivals`|
+|[Is jitter aim macro now blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731240-jitter-aim-macro-blocked.html)|`2025-12-28 11:07:00`|`Apex Legends`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2025-12-28 11:04:00`|`Sea of Thieves`|
+|[Restore my HWID original after using AMIDEWIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730798-restore-hwid-original-using-amidewin.html)|`2025-12-28 10:59:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2025-12-28 09:39:00`|`Other Games`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-12-28 09:38:00`|`Palworld`|
 |[BE Emulator questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731375-emulator-questions.html)|`2025-12-28 09:35:00`|`Anti-Cheat Bypass`|
