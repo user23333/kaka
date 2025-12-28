@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-12-28 20:19:00`|`Red Dead Redemption 2`|
 |[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2025-12-28 19:49:00`|`Anti-Cheat Bypass`|
 |[proof of concept sourceban checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730745-proof-concept-sourceban-checker.html)|`2025-12-28 19:44:00`|`Team Fortress 2`|
 |[I need the latest offset from Valorant&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731434-offset-valorant.html)|`2025-12-28 19:44:00`|`Valorant`|
