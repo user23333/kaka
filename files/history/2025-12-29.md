@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color bot &#45; Removing Player Names & Health Bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729854-color-bot-removing-player-names-health-bars.html)|`2025-12-29 22:41:00`|`Marvel Rivals`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-29 22:39:00`|`Other FPS Games`|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2025-12-29 22:22:00`|`Call of Duty: Modern Warfare`|
+|[any hard unlock all for this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720473-hard-unlock-game.html)|`2025-12-29 22:21:00`|`Call of Duty: Modern Warfare`|
 |[Logitech Lua No&#45;Recoil Script Status? &#40;Ricochet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722853-logitech-lua-recoil-script-status-ricochet.html)|`2025-12-29 22:20:00`|`Call of Duty: Modern Warfare`|
 |[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-12-29 22:20:00`|`Call of Duty: Modern Warfare`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2025-12-29 22:18:00`|`Apex Legends`|
