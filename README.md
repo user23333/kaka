@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-29 21:33:00`|`Escape from Tarkov`|
 |[How to Spoof Lenovo Laptop &#40;loq&#45;15arp9&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730507-spoof-lenovo-laptop-loq-15arp9.html)|`2025-12-29 21:13:00`|`Anti-Cheat Bypass`|
 |[PUBG Experience &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/693901-pubg-experience-dma.html)|`2025-12-29 21:12:00`|`Playerunknown's Battlegrounds`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-12-29 21:07:00`|`Other MMORPG and Strategy`|
