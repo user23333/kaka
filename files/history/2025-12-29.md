@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Logitech Lua No&#45;Recoil Script Status? &#40;Ricochet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722853-logitech-lua-recoil-script-status-ricochet.html)|`2025-12-29 22:20:00`|`Call of Duty: Modern Warfare`|
+|[MW19 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/722087-mw19-internal-source.html)|`2025-12-29 22:20:00`|`Call of Duty: Modern Warfare`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2025-12-29 22:18:00`|`Apex Legends`|
+|[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2025-12-29 22:18:00`|`Deadlock`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2025-12-29 22:04:00`|`HELLDIVERS 2`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2025-12-29 21:58:00`|`Grand Theft Auto V`|
 |[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2025-12-29 21:33:00`|`Escape from Tarkov`|
 |[How to Spoof Lenovo Laptop &#40;loq&#45;15arp9&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730507-spoof-lenovo-laptop-loq-15arp9.html)|`2025-12-29 21:13:00`|`Anti-Cheat Bypass`|
