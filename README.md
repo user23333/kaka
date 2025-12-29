@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2025-12-29 18:56:00`|`Grand Theft Auto V`|
 |[win32kfull GetProp returns null ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731288-win32kfull-getprop-returns-null.html)|`2025-12-29 18:47:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-29 18:46:00`|`League of Legends`|
 |[✪✪✪✪✪ &#124; ☆ Zen ☆ &#124; Triggerbot &#124; Full User Guide &#124; ✪✪✪✪✪](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730792-zen-triggerbot-user-guide.html)|`2025-12-29 18:06:00`|`Valorant`|
