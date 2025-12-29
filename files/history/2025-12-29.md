@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2025-12-29 12:48:00`|`Counter-Strike 2`|
+|[Does BloodStrike PC Use HWID Bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731435-bloodstrike-pc-hwid-bans.html)|`2025-12-29 12:45:00`|`Other FPS Games`|
 |[Where/How to buy and setup DMA Card with PCILeech&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731448-buy-setup-dma-card-pcileech.html)|`2025-12-29 12:15:00`|`Escape from Tarkov`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-12-29 12:02:00`|`Rainbow Six Siege`|
 |[ScarToolKit &#45; Company of Heroes 3 Lua Script Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730532-scartoolkit-company-heroes-3-lua-script-injector.html)|`2025-12-29 11:50:00`|`Other MMORPG and Strategy`|
