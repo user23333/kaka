@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2025-12-30 05:38:00`|`Grand Theft Auto V`|
+|[Inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689644-inversia-x64.html)|`2025-12-30 05:08:00`|`Team Fortress 2`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2025-12-30 05:41:00`|`Other FPS Games`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2025-12-30 05:13:00`|`Escape from Tarkov`|
 |[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2025-12-30 05:06:00`|`Anti-Cheat Bypass`|
