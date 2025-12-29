@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is hooking why internals are better?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731550-hooking-internals.html)|`2025-12-29 15:25:00`|`Garry's Mod`|
+|[lava3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731549-lava3.html)|`2025-12-29 15:25:00`|`Apex Legends`|
+|[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2025-12-29 15:21:00`|`Valorant`|
+|[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2025-12-29 15:14:00`|`Valorant`|
+|[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2025-12-29 15:06:00`|`ARC Raiders`|
 |[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2025-12-29 14:43:00`|`Anti-Cheat Bypass`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-12-29 14:26:00`|`Counter-Strike 2`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2025-12-29 14:24:00`|`Other FPS Games`|
