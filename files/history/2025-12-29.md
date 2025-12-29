@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2025-12-29 17:09:00`|`Counter-Strike 2 Releases`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2025-12-29 17:04:00`|`Other FPS Games`|
+|[&#91;Help&#93; Correct CCSGOInput::GetUserCmd logic/offsets for Index 5 Hook?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730511-help-correct-ccsgoinput-getusercmd-logic-offsets-index-5-hook.html)|`2025-12-29 17:01:00`|`Counter-Strike 2`|
 |[i think im using the cheats wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731387-im-using-cheats-wrong.html)|`2025-12-29 16:47:00`|`Overwatch`|
 |[PUBG Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731556-pubg-bug.html)|`2025-12-29 16:27:00`|`Playerunknown's Battlegrounds`|
 |[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2025-12-29 16:22:00`|`Escape from Tarkov`|
