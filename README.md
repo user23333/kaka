@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-29 20:31:00`|`Grand Theft Auto V`|
+|[Stable rust bones method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730543-stable-rust-bones-method.html)|`2025-12-29 20:30:00`|`Rust`|
+|[Information about GO Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/731569-information-anti-cheat.html)|`2025-12-29 20:27:00`|`Generals and Zero Hour`|
+|[Old trainers & private servers/worlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/729772-trainers-private-servers-worlds.html)|`2025-12-29 20:25:00`|`Maple Story`|
+|[MapleRoyals Mercury Trainer &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/730524-mapleroyals-mercury-trainer-free.html)|`2025-12-29 20:24:00`|`Maple Story`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2025-12-29 18:51:00`|`Other FPS Games`|
 |[Could use some help on pattern scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/731430-help-pattern-scanning.html)|`2025-12-29 19:17:00`|`Counterstrike Global Offensive`|
 |[Please the safest method to make money FAST "ENHANCED"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731560-please-safest-method-money-fast-enhanced.html)|`2025-12-29 19:07:00`|`Grand Theft Auto V`|
