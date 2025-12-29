@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-30 06:36:00`|`Call of Duty: Black Ops 7`|
+|[Ext Skin Changer Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731051-ext-skin-changer-source-release.html)|`2025-12-30 06:31:00`|`Counter-Strike 2`|
+|[Why don't people make Rigel&#45;based aimbots anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/720667-dont-people-rigel-based-aimbots-anymore.html)|`2025-12-30 06:29:00`|`Overwatch`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2025-12-30 06:21:00`|`Escape from Tarkov`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2025-12-30 05:38:00`|`Grand Theft Auto V`|
 |[Inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689644-inversia-x64.html)|`2025-12-30 05:08:00`|`Team Fortress 2`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2025-12-30 05:41:00`|`Other FPS Games`|
