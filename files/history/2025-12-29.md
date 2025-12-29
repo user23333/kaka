@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZServer&#95;x64&#46;exe No Battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728192-dayzserver_x64-exe-battleye.html)|`2025-12-29 17:47:00`|`DayZ SA`|
 |[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2025-12-29 17:31:00`|`Deadlock`|
 |[Overlay implementation solutions on Linux Wayland?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/731557-overlay-implementation-solutions-linux-wayland.html)|`2025-12-29 17:23:00`|`Programming for Beginners`|
 |[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2025-12-29 17:20:00`|`Escape from Tarkov`|
