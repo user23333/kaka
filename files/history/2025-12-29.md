@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731556-pubg-bug.html)|`2025-12-29 16:27:00`|`Playerunknown's Battlegrounds`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2025-12-29 16:22:00`|`Escape from Tarkov`|
+|[Is there any safe bedrock cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/731555-safe-bedrock-cheat.html)|`2025-12-29 16:21:00`|`Minecraft`|
+|[WinSock Kernel without create threads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731552-winsock-kernel-create-threads.html)|`2025-12-29 15:55:00`|`Anti-Cheat Bypass`|
 |[Map Parser / Optimizer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731551-map-parser-optimizer.html)|`2025-12-29 15:49:00`|`Counter-Strike 2`|
 |[Is Makcu detected on Faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731482-makcu-detected-faceit.html)|`2025-12-29 15:47:00`|`Counter-Strike 2`|
 |[is hooking why internals are better?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731550-hooking-internals.html)|`2025-12-29 15:25:00`|`Garry's Mod`|
