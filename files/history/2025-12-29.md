@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Map Parser / Optimizer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731551-map-parser-optimizer.html)|`2025-12-29 15:49:00`|`Counter-Strike 2`|
+|[Is Makcu detected on Faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731482-makcu-detected-faceit.html)|`2025-12-29 15:47:00`|`Counter-Strike 2`|
 |[is hooking why internals are better?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731550-hooking-internals.html)|`2025-12-29 15:25:00`|`Garry's Mod`|
 |[lava3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731549-lava3.html)|`2025-12-29 15:25:00`|`Apex Legends`|
 |[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2025-12-29 15:21:00`|`Valorant`|
