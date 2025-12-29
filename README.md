@@ -11,6 +11,7 @@
 |18|[December 21st Mega &#40;Spoofer&#41; Wave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730565-december-21st-mega-spoofer-wave.html)|`2025-12-29 00:54:10`|`anti-cheat-bypass`|
 |12|[COOL DUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731077-cool-dumper.html)|`2025-12-29 00:54:10`|`escape-from-tarkov`|
 |15|[Account reset hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731199-account-reset-hack.html)|`2025-12-29 00:54:10`|`escape-from-tarkov`|
+|11|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2025-12-29 09:06:11`|`among-us`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[enemy vaclive detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731526-enemy-vaclive-detection.html)|`2025-12-29 09:03:00`|`Counter-Strike 2`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-29 09:00:00`|`Grand Theft Auto V`|
+|[&#91;2025&#93; Internal Autopot/Macro Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/731389-2025-internal-autopot-macro-release.html)|`2025-12-29 08:43:00`|`Ragnarok`|
+|[BunnyHop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731016-bunnyhop-external.html)|`2025-12-29 08:35:00`|`Counter-Strike 2`|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2025-12-29 08:29:00`|`Combat Master`|
+|[BloodStrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730689-bloodstrike-internal.html)|`2025-12-29 08:28:00`|`Other FPS Games`|
 |[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2025-12-29 07:49:00`|`Among Us`|
 |[Palworld Internal DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/710102-palworld-internal-dx11.html)|`2025-12-29 07:40:00`|`Palworld`|
 |[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2025-12-29 07:32:00`|`PUBG Releases`|
