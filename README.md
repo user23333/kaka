@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2025-12-30 04:31:00`|`Escape from Tarkov`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2025-12-30 04:29:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 &#124; External thirdperson & silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728392-counter-strike-2-external-thirdperson-silent-aim.html)|`2025-12-30 04:27:00`|`Counter-Strike 2`|
+|[Why is EAC dogshit for Dead by Daylight?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731616-eac-dogshit-dead-daylight.html)|`2025-12-30 04:26:00`|`Anti-Cheat Bypass`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-12-30 04:25:00`|`Apex Legends`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-30 04:18:00`|`Other FPS Games`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2025-12-30 04:08:00`|`ARC Raiders`|
 |[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2025-12-30 04:07:00`|`Escape from Tarkov`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2025-12-30 04:06:00`|`Counter-Strike 2`|
