@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[first time spoofing valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731766-time-spoofing-valorant.html)|`2025-12-31 07:26:00`|`Valorant`|
 |[transparency chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731773-transparency-chams.html)|`2025-12-31 07:15:00`|`Counter-Strike 2`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-31 07:01:00`|`Other Games`|
 |[Adhesive hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/724815-adhesive-hooks.html)|`2025-12-31 07:01:00`|`Alternative Online Mods`|
