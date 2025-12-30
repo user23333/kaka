@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2025-12-31 02:30:00`|`Other FPS Games`|
+|[Dead By Daylight External src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729430-dead-daylight-external-src.html)|`2025-12-31 02:27:00`|`Other FPS Games`|
 |[WindowsHook: Arbitrary User&#45;Mode R/W/X through SetWindowsHookEx&#40;BE/EAC/EAAC/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726963-windowshook-arbitrary-user-mode-setwindowshookex-eac-eaac-vanguard.html)|`2025-12-31 02:10:00`|`Anti-Cheat Bypass`|
 |[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2025-12-31 02:09:00`|`Escape from Tarkov`|
 |[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731631-valorant-offsets.html)|`2025-12-31 02:06:00`|`Valorant`|
