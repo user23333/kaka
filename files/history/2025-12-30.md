@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2025-12-30 22:15:00`|`Apex Legends`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2025-12-30 22:14:00`|`Other MMORPG and Strategy`|
+|[bgmi emulator bypass case 10 freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/731122-bgmi-emulator-bypass-10-freezing.html)|`2025-12-30 22:03:00`|`PUBG Mobile`|
+|[Can't find m&#95;iItemDefinitionIndex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731697-cant-m_iitemdefinitionindex.html)|`2025-12-30 22:03:00`|`Counter-Strike 2`|
+|[Python Automatic Updating Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/729064-python-automatic-updating-triggerbot.html)|`2025-12-30 22:02:00`|`Counter-Strike 2 Releases`|
+|[I got HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731619-hwid-banned.html)|`2025-12-30 22:00:00`|`Valorant`|
 |[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2025-12-30 21:51:00`|`Escape from Tarkov`|
 |[aimbot when in vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731401-aimbot-vehicle.html)|`2025-12-30 21:50:00`|`Alternative Online Mods`|
 |[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731700-pve-helper.html)|`2025-12-30 21:43:00`|`Escape from Tarkov`|
