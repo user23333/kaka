@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-12-30 09:06:00`|`Apex Legends`|
+|[Does BattlEye HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731527-battleye-hwid-ban.html)|`2025-12-30 08:43:00`|`Grand Theft Auto V`|
+|[The refresh rate of player bone data in game's memory is very low&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/730766-refresh-rate-player-bone-data-games-memory-low.html)|`2025-12-30 08:43:00`|`Battlefield 6`|
+|[driver and making undetected esp/wall hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731626-driver-undetected-esp-wall-hacks.html)|`2025-12-30 08:28:00`|`Apex Legends`|
+|[New additions to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/731349-additions-forum-moderation-staff-team.html)|`2025-12-30 08:27:00`|`Information and Announcements`|
+|[internal hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731049-internal-hooks.html)|`2025-12-30 08:04:00`|`Garry's Mod`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2025-12-30 07:16:00`|`Other MMORPG and Strategy`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-30 06:56:00`|`Other MMORPG and Strategy`|
 |[F1 Tires](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731538-f1-tires.html)|`2025-12-30 06:49:00`|`Grand Theft Auto V`|
