@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[warface offsets &#91;03&#46;09&#46;2025&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/716124-warface-offsets-03-09-2025-a.html)|`2025-12-30 11:54:00`|`Warface`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2025-12-30 11:48:00`|`Paladins`|
+|[HWID ban info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/718390-hwid-ban-info.html)|`2025-12-30 11:46:00`|`League of Legends`|
+|[getting STATUS&#95;ACCESS&#95;DENIED when reading APEX memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731650-getting-status_access_denied-reading-apex-memory.html)|`2025-12-30 11:44:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2025-12-30 11:27:00`|`Rainbow Six Siege`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2025-12-30 11:21:00`|`Call of Duty: Black Ops 7`|
 |[tpm problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731193-tpm.html)|`2025-12-30 10:27:00`|`Valorant`|
 |[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2025-12-30 10:12:00`|`Call of Duty: Black Ops 3`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-30 10:04:00`|`Other FPS Games`|
