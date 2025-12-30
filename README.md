@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust lang&#46;  Extern&#46; "get&#95;name&#95;by&#95;id"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731775-rust-lang-extern-get_name_by_id.html)|`2025-12-31 07:39:00`|`Other FPS Games`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2025-12-31 07:34:00`|`Other FPS Games`|
 |[first time spoofing valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731766-time-spoofing-valorant.html)|`2025-12-31 07:26:00`|`Valorant`|
 |[transparency chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731773-transparency-chams.html)|`2025-12-31 07:15:00`|`Counter-Strike 2`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2025-12-31 07:01:00`|`Other Games`|
