@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731556-pubg-bug.html)|`2025-12-30 21:12:00`|`Playerunknown's Battlegrounds`|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2025-12-30 21:08:00`|`THE FINALS`|
+|[Horse Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/726447-horse-menu.html)|`2025-12-30 21:04:00`|`Red Dead Redemption 2`|
+|[how to make Vehicle spawnner Externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731692-vehicle-spawnner-externally.html)|`2025-12-30 20:51:00`|`Alternative Online Mods`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-12-30 20:46:00`|`Apex Legends`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2025-12-30 20:42:00`|`Grand Theft Auto V`|
 |[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2025-12-30 20:19:00`|`Call of Duty 6: Modern Warfare 2`|
 |[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2025-12-30 20:18:00`|`Call of Duty 4: Modern Warfare`|
 |[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-12-30 20:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
