@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/465314-super-animal-royale-hack.html)|`2025-12-31 06:05:00`|`Other Games`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2025-12-31 06:04:00`|`Grand Theft Auto V`|
 |[getting cr3 / pml4 by changing pfn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731768-getting-cr3-pml4-changing-pfn.html)|`2025-12-31 05:53:00`|`Anti-Cheat Bypass`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-12-31 05:45:00`|`Red Dead Redemption 2`|
 |[CONSOLE NEXT&#45;GEN SERVICES &#40;how?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731629-console-gen-services.html)|`2025-12-31 05:37:00`|`Grand Theft Auto V`|
