@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2025-12-30 20:19:00`|`Call of Duty 6: Modern Warfare 2`|
+|[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2025-12-30 20:18:00`|`Call of Duty 4: Modern Warfare`|
+|[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2025-12-30 20:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/714921-revemu-steamid-changer.html)|`2025-12-30 20:17:00`|`CounterStrike Source`|
 |[Aimbot  &#46;dll for the Division](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/731688-aimbot-dll-division.html)|`2025-12-30 19:56:00`|`Tom Clancy's The Division`|
 |[Undetected External PointBlank PH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729610-undetected-external-pointblank-ph.html)|`2025-12-30 19:01:00`|`Other FPS Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2025-12-30 19:01:00`|`Other MMORPG and Strategy`|
