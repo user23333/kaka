@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[jc&#95;coins dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731566-jc_coins-dupe-method.html)|`2025-12-31 04:47:00`|`Alternative Online Mods`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-12-31 04:47:00`|`Counter-Strike 2`|
+|[EAC Driver &#43; comms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727122-eac-driver-comms.html)|`2025-12-31 04:37:00`|`Anti-Cheat Bypass`|
 |[Hyper&#45;V payload EPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731571-hyper-payload-ept.html)|`2025-12-31 04:31:00`|`Anti-Cheat Bypass`|
 |[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731720-silent-aim.html)|`2025-12-31 04:23:00`|`Counter-Strike 2`|
 |[getting STATUS&#95;ACCESS&#95;DENIED when reading APEX memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731650-getting-status_access_denied-reading-apex-memory.html)|`2025-12-31 04:20:00`|`Anti-Cheat Bypass`|
