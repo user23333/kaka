@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hyper&#45;V payload EPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731571-hyper-payload-ept.html)|`2025-12-31 04:31:00`|`Anti-Cheat Bypass`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731720-silent-aim.html)|`2025-12-31 04:23:00`|`Counter-Strike 2`|
+|[getting STATUS&#95;ACCESS&#95;DENIED when reading APEX memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731650-getting-status_access_denied-reading-apex-memory.html)|`2025-12-31 04:20:00`|`Anti-Cheat Bypass`|
+|[AetherInjector dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731559-aetherinjector-dll-injector.html)|`2025-12-31 04:15:00`|`Other FPS Games`|
 |[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2025-12-31 03:56:00`|`Alternative Online Mods`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2025-12-31 03:56:00`|`Sea of Thieves`|
 |[Looking for Updated UFO Tattoo Bools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731761-looking-updated-ufo-tattoo-bools.html)|`2025-12-31 03:52:00`|`Grand Theft Auto V`|
