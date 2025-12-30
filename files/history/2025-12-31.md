@@ -25,9 +25,11 @@
 |232|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52410)|`2025-12-31 00:20:39`|
 |10|[Acronis HL2DM x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52408)|`2025-12-31 00:20:39`|
 |1431|[UltimateMenu For YimMenu V2&#46;8 1&#46;72 Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52404)|`2025-12-31 00:20:39`|
+|3|[BEService&#46;exe, Helper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52454)|`2025-12-31 03:43:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2025-12-31 03:38:00`|`Escape from Tarkov`|
 |[WinSock Kernel without create threads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731552-winsock-kernel-create-threads.html)|`2025-12-31 03:36:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2025-12-31 03:33:00`|`League of Legends`|
 |[Map Parser / Optimizer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731551-map-parser-optimizer.html)|`2025-12-31 03:32:00`|`Counter-Strike 2`|
