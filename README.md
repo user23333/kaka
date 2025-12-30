@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tpm problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731193-tpm.html)|`2025-12-30 10:27:00`|`Valorant`|
+|[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2025-12-30 10:12:00`|`Call of Duty: Black Ops 3`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2025-12-30 10:04:00`|`Other FPS Games`|
+|[How to refresh the planning board for the Perico Island and Casino Heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731635-refresh-planning-board-perico-island-casino-heist.html)|`2025-12-30 09:54:00`|`Grand Theft Auto V`|
 |[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2025-12-30 09:06:00`|`Apex Legends`|
 |[Does BattlEye HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731527-battleye-hwid-ban.html)|`2025-12-30 08:43:00`|`Grand Theft Auto V`|
 |[The refresh rate of player bone data in game's memory is very low&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/730766-refresh-rate-player-bone-data-games-memory-low.html)|`2025-12-30 08:43:00`|`Battlefield 6`|
