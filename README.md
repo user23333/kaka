@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731720-silent-aim.html)|`2025-12-30 23:36:00`|`Counter-Strike 2`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2025-12-30 23:33:00`|`Grand Theft Auto V`|
+|[is hooking why internals are better?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731550-hooking-internals.html)|`2025-12-30 23:31:00`|`Garry's Mod`|
+|[Exact HWID's BE Ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731719-exact-hwids-ban.html)|`2025-12-30 23:27:00`|`Grand Theft Auto V`|
+|[rage smoothning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731718-rage-smoothning.html)|`2025-12-30 23:19:00`|`Counter-Strike 2`|
 |[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2025-12-30 23:14:00`|`Grand Theft Auto V`|
 |[For Honor script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/728403-honor-script.html)|`2025-12-30 23:14:00`|`Other MMORPG and Strategy`|
 |[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2025-12-30 23:12:00`|`Valorant`|
