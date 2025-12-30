@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 enemy crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731671-cs2-enemy-crash.html)|`2025-12-30 16:08:00`|`Counter-Strike 2`|
+|[PLM &#45; REPO cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716529-plm-repo-cheat.html)|`2025-12-30 15:57:00`|`Other Games`|
 |[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2025-12-30 15:03:00`|`Rainbow Six Siege`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2025-12-30 14:23:00`|`Counter-Strike 2`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2025-12-30 14:11:00`|`Other MMORPG and Strategy`|
