@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getting cr3 / pml4 by changing pfn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731768-getting-cr3-pml4-changing-pfn.html)|`2025-12-31 05:53:00`|`Anti-Cheat Bypass`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2025-12-31 05:45:00`|`Red Dead Redemption 2`|
 |[CONSOLE NEXT&#45;GEN SERVICES &#40;how?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731629-console-gen-services.html)|`2025-12-31 05:37:00`|`Grand Theft Auto V`|
 |[&#91;POC&#93; grabbing hwid using glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731272-poc-grabbing-hwid-using-glua.html)|`2025-12-31 05:33:00`|`Garry's Mod`|
