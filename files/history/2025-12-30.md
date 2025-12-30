@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2025-12-30 21:51:00`|`Escape from Tarkov`|
+|[aimbot when in vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731401-aimbot-vehicle.html)|`2025-12-30 21:50:00`|`Alternative Online Mods`|
 |[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731700-pve-helper.html)|`2025-12-30 21:43:00`|`Escape from Tarkov`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2025-12-30 21:33:00`|`Counter-Strike 2`|
 |[Question about single GPU passthrough with dual&#45;boot setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731601-question-single-gpu-passthrough-dual-boot-setup.html)|`2025-12-30 21:33:00`|`Apex Legends`|
