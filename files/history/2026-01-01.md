@@ -24,9 +24,18 @@
 |40|[Satisfied 1&#46;1&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52411)|`2026-01-01 00:18:17`|
 |259|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52410)|`2026-01-01 00:18:17`|
 |10|[Acronis HL2DM x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52408)|`2026-01-01 00:18:17`|
+|1|[Darling v2 Bo2 RME Protection Example Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52460)|`2026-01-01 03:26:20`|
+|1|[Squad&#95;SDK&#95;31&#46;12&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52455)|`2026-01-01 03:26:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get IsAlive Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/725744-isalive-externally.html)|`2027-01-01 03:24:00`|`League of Legends`|
+|[&#91;Source&#93; ZFusion DayZ Python ESP &#40;I need help finding all items&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728151-source-zfusion-dayz-python-esp-help-finding-items.html)|`2027-01-01 03:23:00`|`DayZ SA`|
+|[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2027-01-01 03:22:00`|`Overwatch`|
+|[&#91;Tutorial&#93; Blocking Unauthenticated Memory Writes and Remote Kicks &#40;Xbox 360&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/731792-tutorial-blocking-unauthenticated-memory-writes-remote-kicks-xbox-360-a.html)|`2027-01-01 03:20:00`|`Call of Duty: Black Ops 2`|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2027-01-01 03:16:00`|`Other FPS Games`|
+|[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2027-01-01 03:14:00`|`C and C++`|
+|[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2027-01-01 03:13:00`|`Garry's Mod`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2027-01-01 03:11:00`|`Other FPS Games`|
 |[BloodStrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730689-bloodstrike-internal.html)|`2027-01-01 03:10:00`|`Other FPS Games`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2027-01-01 03:06:00`|`Other FPS Games`|
