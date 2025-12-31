@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2027-01-01 05:50:00`|`Counter-Strike 2`|
 |[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2027-01-01 05:37:00`|`ARC Raiders`|
 |[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2027-01-01 05:34:00`|`Escape from Tarkov`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2027-01-01 05:34:00`|`Escape from Tarkov`|
