@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2025-12-31 08:47:00`|`Anti-Cheat Bypass`|
+|[Understanding R6 Encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731778-understanding-r6-encryption.html)|`2025-12-31 08:40:00`|`Rainbow Six Siege`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2025-12-31 08:29:00`|`Other MMORPG and Strategy`|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2025-12-31 08:27:00`|`Paladins`|
 |[Active Matter Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716880-active-matter-reversal.html)|`2025-12-31 07:52:00`|`Other FPS Games`|
 |[we are helping anti&#45;cheat developers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/718913-helping-anti-cheat-developers.html)|`2025-12-31 07:47:00`|`Off Topic`|
 |[Rust lang&#46;  Extern&#46; "get&#95;name&#95;by&#95;id"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731775-rust-lang-extern-get_name_by_id.html)|`2025-12-31 07:39:00`|`Other FPS Games`|
