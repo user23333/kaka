@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2027-01-01 01:48:00`|`Other MMORPG and Strategy`|
+|[Single ESP32&#45;S3 Rust Recoil Script &#45;FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721658-single-esp32-s3-rust-recoil-script-tutorial.html)|`2027-01-01 01:45:00`|`Rust`|
 |[Any hackers from way back still around?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-operations-2-x/42279-hackers.html)|`2027-01-01 01:39:00`|`America's Army Operations 2.x`|
 |[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2027-01-01 01:39:00`|`Grand Theft Auto V`|
 |[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2027-01-01 01:37:00`|`Apex Legends`|
