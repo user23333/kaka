@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New measures / False ban val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731818-measures-false-ban-val-5-a.html)|`2025-12-31 16:48:00`|`Valorant`|
+|[Warframe Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/718442-warframe-internal-cheat.html)|`2025-12-31 16:44:00`|`Other FPS Games`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2025-12-31 16:32:00`|`Escape from Tarkov`|
 |[1&#46;0 Cis Bypasses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730629-1-0-cis-bypasses.html)|`2025-12-31 16:30:00`|`Escape from Tarkov`|
 |[I want to learn how to code/develope cheating software for fortnite&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/731808-learn-code-develope-cheating-software-fortnite.html)|`2025-12-31 16:17:00`|`Introductions`|
 |[Lua Nuker &#40; Lua Injector &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729894-lua-nuker-lua-injector.html)|`2025-12-31 16:11:00`|`Garry's Mod`|
