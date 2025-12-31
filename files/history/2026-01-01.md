@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2027-01-01 00:39:00`|`Anti-Cheat Bypass`|
+|[Hitbox detection for Triggerbot &#45; Make your tb be at least ~30x faster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/729865-hitbox-detection-triggerbot-tb-30x-faster.html)|`2027-01-01 00:37:00`|`Valorant`|
+|[Chromatic Aberration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731832-chromatic-aberration.html)|`2027-01-01 00:36:00`|`Counter-Strike 2`|
+|[Help finding actor arrays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/731796-help-finding-actor-arrays.html)|`2027-01-01 00:34:00`|`Forum General`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2027-01-01 00:33:00`|`Counter-Strike 2`|
+|[Chivalry 2 Heaveyweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/689993-chivalry-2-heaveyweight-cheat.html)|`2027-01-01 00:32:00`|`Other Games`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2027-01-01 00:27:00`|`Other MMORPG and Strategy`|
 |[where to start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730501-start.html)|`2027-01-01 00:15:00`|`Call of Duty: Black Ops 7`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2027-01-01 00:10:00`|`Other MMORPG and Strategy`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2027-01-01 00:04:00`|`Other Games`|
