@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1&#46;0 Cis Bypasses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730629-1-0-cis-bypasses.html)|`2025-12-31 16:30:00`|`Escape from Tarkov`|
+|[I want to learn how to code/develope cheating software for fortnite&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/731808-learn-code-develope-cheating-software-fortnite.html)|`2025-12-31 16:17:00`|`Introductions`|
+|[Lua Nuker &#40; Lua Injector &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729894-lua-nuker-lua-injector.html)|`2025-12-31 16:11:00`|`Garry's Mod`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2025-12-31 15:31:00`|`Other MMORPG and Strategy`|
 |[Is there a way to get the knoway livery on Vivanite2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731777-knoway-livery-vivanite2.html)|`2025-12-31 15:28:00`|`Grand Theft Auto V`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2025-12-31 15:15:00`|`Escape from Tarkov`|
