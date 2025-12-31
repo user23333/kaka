@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[uworld decrypt?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731789-uworld-decrypt.html)|`2025-12-31 19:04:00`|`Playerunknown's Battlegrounds`|
+|[PUBG Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731556-pubg-bug.html)|`2025-12-31 19:04:00`|`Playerunknown's Battlegrounds`|
 |[Please the safest method to make money FAST "ENHANCED"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731560-please-safest-method-money-fast-enhanced.html)|`2025-12-31 18:43:00`|`Grand Theft Auto V`|
 |[CPrediction::Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/727791-cprediction-update.html)|`2025-12-31 18:20:00`|`Counter-Strike 2`|
 |[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2025-12-31 17:54:00`|`Grand Theft Auto V`|
