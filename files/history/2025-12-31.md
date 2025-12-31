@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2025-12-31 22:12:00`|`Apex Legends`|
+|[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2025-12-31 22:08:00`|`Rainbow Six Siege`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2025-12-31 22:04:00`|`Grand Theft Auto V`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2025-12-31 22:01:00`|`Valorant`|
 |[Chromatic Aberration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731832-chromatic-aberration.html)|`2025-12-31 21:29:00`|`Counter-Strike 2`|
 |[i need a 2pc mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731206-2pc-mouse-movement-method.html)|`2025-12-31 21:16:00`|`Valorant`|
 |[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2025-12-31 21:04:00`|`Garry's Mod`|
