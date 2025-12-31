@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2027-01-01 02:43:00`|`Anti-Cheat Bypass`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2027-01-01 02:38:00`|`Apex Legends`|
+|[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2027-01-01 02:37:00`|`Call of Duty: Black Ops 3`|
+|[mw2 mp symbols idb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/704412-mw2-mp-symbols-idb.html)|`2027-01-01 02:36:00`|`Call of Duty 6: Modern Warfare 2`|
+|[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2027-01-01 02:36:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Battlefield 1 &#45; 2x Damage Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/500253-battlefield-1-2x-damage-multiplier.html)|`2027-01-01 02:35:00`|`Battlefield 1`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2027-01-01 02:34:00`|`Battlefield 4`|
+|[BF6 Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713778-bf6-anti-recoil.html)|`2027-01-01 02:33:00`|`Battlefield 6`|
 |[Payday: The Heist Ultimate Trainer 2&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/125204-payday-heist-ultimate-trainer-2-11-a.html)|`2027-01-01 02:12:00`|`Payday: The Heist`|
 |[PAYDAY: The Heist &#124; Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/704097-payday-heist-solo-achievements-challenges.html)|`2027-01-01 02:10:00`|`Payday: The Heist`|
 |[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2027-01-01 02:06:00`|`Payday 2`|
