@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2027-01-01 01:28:00`|`Grand Theft Auto V`|
+|[Exact HWID's BE Ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731719-exact-hwids-ban.html)|`2027-01-01 01:28:00`|`Grand Theft Auto V`|
+|[ARC Raiders Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/730261-arc-raiders-simple-esp.html)|`2027-01-01 01:21:00`|`ARC Raiders`|
+|[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2027-01-01 01:13:00`|`ARC Raiders`|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2027-01-01 01:12:00`|`All Points Bulletin`|
+|[first time spoofing valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731766-time-spoofing-valorant.html)|`2027-01-01 01:02:00`|`Valorant`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2027-01-01 01:04:00`|`Valorant`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2027-01-01 00:59:00`|`Other FPS Games`|
 |[anyone know good paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731813-paid-cheats.html)|`2027-01-01 00:55:00`|`Overwatch`|
