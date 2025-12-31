@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Payday: The Heist Ultimate Trainer 2&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/125204-payday-heist-ultimate-trainer-2-11-a.html)|`2027-01-01 02:12:00`|`Payday: The Heist`|
+|[PAYDAY: The Heist &#124; Solo Achievements and Challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/704097-payday-heist-solo-achievements-challenges.html)|`2027-01-01 02:10:00`|`Payday: The Heist`|
+|[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2027-01-01 02:06:00`|`Payday 2`|
+|[New additions to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/731349-additions-forum-moderation-staff-team.html)|`2027-01-01 02:04:00`|`Information and Announcements`|
+|[Silent Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/623939-silent-aimbot.html)|`2027-01-01 02:04:00`|`Payday 2`|
+|[Snipers don't pierce armor script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/725821-snipers-dont-pierce-armor-script.html)|`2027-01-01 02:02:00`|`Payday 2`|
+|[Russian Account Bypass TUT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/688961-russian-account-bypass-tut.html)|`2027-01-01 02:00:00`|`Escape from Tarkov`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2027-01-01 02:00:00`|`Escape from Tarkov`|
+|[EFT 1&#46;0 CHAMS INTERNAL HOOK METHOD ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731840-eft-1-0-chams-internal-hook-method.html)|`2027-01-01 01:59:00`|`Escape from Tarkov`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2027-01-01 01:59:00`|`Escape from Tarkov`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2027-01-01 01:53:00`|`Rainbow Six Siege`|
 |[Simple Apex ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/719602-simple-apex-esp.html)|`2027-01-01 01:52:00`|`Apex Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2027-01-01 01:48:00`|`Other MMORPG and Strategy`|
