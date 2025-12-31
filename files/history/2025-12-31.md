@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2025-12-31 21:04:00`|`Garry's Mod`|
+|[Issue with writing to memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/731595-issue-writing-memory.html)|`2025-12-31 21:02:00`|`CounterStrike Source`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2025-12-31 21:01:00`|`Other FPS Games`|
+|[chams behind wall issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/731584-chams-wall-issue.html)|`2025-12-31 20:58:00`|`CounterStrike Source`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2025-12-31 20:54:00`|`Apex Legends`|
+|[Anyone knows of any decent cheat that bypasses battleeye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/731144-decent-cheat-bypasses-battleeye.html)|`2025-12-31 20:51:00`|`DayZ SA`|
 |[&#91;Logitech GHub&#93; Burst Fire Script &#45; Arc Raiders Tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/730481-logitech-ghub-burst-fire-script-arc-raiders-tested.html)|`2025-12-31 19:55:00`|`ARC Raiders`|
 |[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2025-12-31 19:51:00`|`Rainbow Six Siege`|
 |[is there a unlock all for overwatch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731811-unlock-overwatch.html)|`2025-12-31 19:50:00`|`Overwatch`|
