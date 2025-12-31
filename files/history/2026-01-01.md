@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2027-01-01 02:53:00`|`Call of Duty: Modern Warfare`|
+|[Aw Zm gun ids list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/599060-aw-zm-gun-ids-list.html)|`2027-01-01 02:51:00`|`Call of Duty: Advanced Warfare`|
+|[Cod Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/721079-cod-hwid-ban.html)|`2027-01-01 02:50:00`|`Call of Duty: Black Ops 6`|
+|[best vpn for bot lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/729281-vpn-bot-lobbies.html)|`2027-01-01 02:50:00`|`Call of Duty: Black Ops 6`|
+|[Botlobby Tool FREE &#91;BO6/MW3/WARZONE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/696676-botlobby-tool-free-bo6-mw3-warzone.html)|`2027-01-01 02:49:00`|`Call of Duty: Black Ops 6`|
+|[Exe Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/722311-exe-dumper.html)|`2027-01-01 02:49:00`|`Call of Duty: Black Ops 6`|
+|[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2027-01-01 02:47:00`|`Anti-Cheat Bypass`|
+|[An unorthodox way to complete the Original Criminal Mastermind challenge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731747-unorthodox-complete-original-criminal-mastermind-challenge.html)|`2027-01-01 02:45:00`|`Grand Theft Auto V`|
 |[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2027-01-01 02:43:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2027-01-01 02:38:00`|`Apex Legends`|
 |[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2027-01-01 02:37:00`|`Call of Duty: Black Ops 3`|
