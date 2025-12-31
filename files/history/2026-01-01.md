@@ -26,6 +26,7 @@
 |10|[Acronis HL2DM x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52408)|`2026-01-01 00:18:17`|
 |1|[Darling v2 Bo2 RME Protection Example Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52460)|`2026-01-01 03:26:20`|
 |1|[Squad&#95;SDK&#95;31&#46;12&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52455)|`2026-01-01 03:26:20`|
+|1|[Sleepy's External &#45; 2&#46;20&#46;0&#46;0&#46;145112 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52462)|`2026-01-01 03:41:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
