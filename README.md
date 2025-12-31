@@ -33,9 +33,13 @@
 |1|[Acronis Gmod Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52461)|`2026-01-01 05:29:10`|
 |1|[ARCBotSourcev1&#46;8&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52464)|`2026-01-01 05:39:53`|
 |1|[REPX v1&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52463)|`2026-01-01 05:39:53`|
+|1|[GO Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52468)|`2026-01-01 06:39:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Online hacks when playing via GameRanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/676338-online-hacks-playing-via-gameranger.html)|`2027-01-01 06:38:00`|`Generals and Zero Hour`|
+|[Multi&#45;Cheat Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729922-multi-cheat-tool.html)|`2027-01-01 06:26:00`|`Grand Theft Auto V`|
+|[CONSOLE NEXT&#45;GEN SERVICES &#40;how?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731629-console-gen-services.html)|`2027-01-01 06:25:00`|`Grand Theft Auto V`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2027-01-01 06:06:00`|`Apex Legends`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2027-01-01 05:50:00`|`Counter-Strike 2`|
 |[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2027-01-01 05:37:00`|`ARC Raiders`|
