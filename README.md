@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2027-01-01 03:52:00`|`Rust`|
 |[How to get IsAlive Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/725744-isalive-externally.html)|`2027-01-01 03:24:00`|`League of Legends`|
 |[&#91;Source&#93; ZFusion DayZ Python ESP &#40;I need help finding all items&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728151-source-zfusion-dayz-python-esp-help-finding-items.html)|`2027-01-01 03:23:00`|`DayZ SA`|
 |[Overwatch External &#45; &#91;UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/717914-overwatch-external-updated.html)|`2027-01-01 03:22:00`|`Overwatch`|
