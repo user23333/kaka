@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulate BattlEye or Bypass for PUBG: Battlegrounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731714-emulate-battleye-bypass-pubg-battlegrounds.html)|`2025-12-31 23:36:00`|`Playerunknown's Battlegrounds`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2025-12-31 23:06:00`|`Counter-Strike 2 Releases`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2025-12-31 22:52:00`|`Call of Duty: Black Ops 7`|
 |[EFT 1&#46;0 CHAMS INTERNAL HOOK METHOD ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731840-eft-1-0-chams-internal-hook-method.html)|`2025-12-31 22:51:00`|`Escape from Tarkov`|
