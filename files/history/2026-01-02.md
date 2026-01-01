@@ -12,6 +12,7 @@
 |9|[Please the safest method to make money FAST "ENHANCED"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731560-please-safest-method-money-fast-enhanced.html)|`2026-01-02 00:11:19`|`grand-theft-auto-v`|
 |8|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-02 00:11:19`|`apex-legends`|
 |11|[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-02 02:21:30`|`escape-from-tarkov`|
+|13|[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2026-01-02 05:29:42`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust External &#45; RUNTIME AUTO UPDATE OFFSETS/DECRYPTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695007-rust-external-runtime-auto-update-offsets-decryption.html)|`2026-01-02 05:23:00`|`Rust`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-01-02 05:12:00`|`Grand Theft Auto V`|
 |[Staffbesting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732010-staffbesting.html)|`2026-01-02 04:58:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-02 04:56:00`|`Other FPS Games`|
 |[Anyone know how to get multiple pause menu buttons to work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/732006-multiple-pause-menu-buttons.html)|`2026-01-02 04:40:00`|`Star Wars Battlefront 2`|
