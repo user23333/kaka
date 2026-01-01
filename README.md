@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Teardown Lua Executor &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731782-teardown-lua-executor-external.html)|`2026-01-02 07:54:00`|`Other Games`|
 |[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732031-spoofer.html)|`2026-01-02 07:49:00`|`Overwatch`|
 |[How do you get entity from pawn &#40;Old version of siege&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732029-entity-pawn-version-siege.html)|`2026-01-02 07:46:00`|`Rainbow Six Siege`|
 |[A simple radar hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731932-simple-radar-hack.html)|`2026-01-02 07:45:00`|`Rust`|
