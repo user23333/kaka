@@ -44,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-01 23:52:00`|`Other FPS Games`|
+|[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727056-arc-raiders-rapid-fire-macro.html)|`2026-01-01 23:48:00`|`ARC Raiders`|
 |[&#91;Internal aimbot&#93; First shot always misses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731639-internal-aimbot-shot-misses.html)|`2026-01-01 23:45:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-01-01 23:02:00`|`Counter-Strike 2`|
 |[STALCRAFT X Simple chams and fullbright by Alzzz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731633-stalcraft-simple-chams-fullbright-alzzz.html)|`2026-01-01 22:51:00`|`Other FPS Games`|
