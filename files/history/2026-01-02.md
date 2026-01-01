@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-02 02:43:00`|`Counter-Strike 2`|
+|[roblox kpagehash offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731915-roblox-kpagehash-offset.html)|`2026-01-02 02:42:00`|`General Programming and Reversing`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-02 02:41:00`|`Marvel Rivals`|
+|[AI Generated Wallpapers of Dark edrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wallpapers/587092-ai-generated-wallpapers-dark-edrooms.html)|`2026-01-02 02:38:00`|`Wallpapers`|
+|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-02 02:30:00`|`Grand Theft Auto V`|
+|[Help with ViewMatrix AssaultCube 1&#46;2&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731980-help-viewmatrix-assaultcube-1-2-0-2-a.html)|`2026-01-02 02:23:00`|`General Programming and Reversing`|
 |[how to get m&#95;nDeltaTick or m&#95;nCommandsPredicted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731978-m_ndeltatick-m_ncommandspredicted.html)|`2026-01-02 02:10:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-02 02:06:00`|`Apex Legends`|
 |[Gta V Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731976-gta-enhanced.html)|`2026-01-02 02:03:00`|`Grand Theft Auto V`|
