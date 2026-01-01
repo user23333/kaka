@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PANOPTYCA : Idle RPG Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/727441-panoptyca-idle-rpg-manager.html)|`2026-01-02 01:43:00`|`Cheat Engine Tables`|
+|[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2026-01-02 01:40:00`|`Rainbow Six Siege`|
 |[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-02 01:32:00`|`ARC Raiders`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2026-01-02 01:32:00`|`ARC Raiders`|
 |[Creating a cheat &#40;Part 2, External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721191-creating-cheat-2-external.html)|`2026-01-02 01:31:00`|`Sea of Thieves`|
