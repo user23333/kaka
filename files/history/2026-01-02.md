@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732023-emulator.html)|`2026-01-02 06:49:00`|`Valorant`|
+|[How to get IsAlive Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/725744-isalive-externally.html)|`2026-01-02 06:42:00`|`League of Legends`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-02 06:34:00`|`Phasmophobia`|
 |[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-02 06:28:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-02 06:26:00`|`Other FPS Games`|
