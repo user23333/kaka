@@ -39,9 +39,11 @@
 |1|[GO Maphack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52468)|`2026-01-01 06:39:02`|
 |2|[ARCBotSourcev1&#46;8&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52471)|`2026-01-01 12:36:24`|
 |1|[5&#46;3&#46;2&#45;2749717&#43;&#43;&#43;depot&#95;marvel&#43;S5&#46;5&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52473)|`2026-01-01 22:33:54`|
+|1|[Acronis Insurgency &#40;2014&#41; x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52480)|`2026-01-01 22:46:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Teardown Lua Executor &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731782-teardown-lua-executor-external.html)|`2026-01-01 22:45:00`|`Other Games`|
 |[YimMenu options](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731953-yimmenu-options.html)|`2026-01-01 22:22:00`|`Grand Theft Auto V`|
 |[UnlockAll for Castle Crashers v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/668824-unlockall-castle-crashers-v1-0-0-a.html)|`2026-01-01 22:19:00`|`Half Life`|
 |[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2026-01-01 22:18:00`|`Grand Theft Auto V`|
