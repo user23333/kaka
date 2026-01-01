@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;CS2&#93; Understanding Offset Chains &#40;EntityList, Money, Names, ViewMatrix, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731242-cs2-understanding-offset-chains-entitylist-money-names-viewmatrix-etc.html)|`2026-01-02 03:20:00`|`Counter-Strike 2`|
+|[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/729919-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2026-01-02 03:16:00`|`Overwatch`|
 |[How to not get banned using aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722187-banned-using-aimbot.html)|`2026-01-02 03:15:00`|`Overwatch`|
 |[i think im using the cheats wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731387-im-using-cheats-wrong.html)|`2026-01-02 03:14:00`|`Overwatch`|
 |[is there a unlock all for overwatch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731811-unlock-overwatch.html)|`2026-01-02 03:05:00`|`Overwatch`|
