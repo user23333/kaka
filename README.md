@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[banned in bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730479-banned-bo7.html)|`2026-01-01 19:30:00`|`Call of Duty: Black Ops 7`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-01 19:28:00`|`Grand Theft Auto V`|
+|[driver and making undetected esp/wall hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731626-driver-undetected-esp-wall-hacks.html)|`2026-01-01 19:28:00`|`Apex Legends`|
+|[I cant do casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731723-cant-casino-heist.html)|`2026-01-01 19:25:00`|`Grand Theft Auto V`|
 |[Why do most cheats not work on win 11?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/730427-cheats-win-11-a.html)|`2026-01-01 18:47:00`|`Forum General`|
 |[Apex Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731933-apex-console-cheats.html)|`2026-01-01 17:55:00`|`Apex Legends`|
 |[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-01 17:39:00`|`Anti-Cheat Bypass`|
