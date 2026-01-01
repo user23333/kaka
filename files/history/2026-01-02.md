@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it possible to XIM on valorant ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731864-xim-valorant.html)|`2026-01-02 00:54:00`|`Valorant`|
+|[anyone know good paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/731813-paid-cheats.html)|`2026-01-02 00:43:00`|`Overwatch`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-02 00:40:00`|`Overwatch`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-01-02 00:40:00`|`Other MMORPG and Strategy`|
 |[Help&#33; HWID ban on Lenovo OEM desktop motherboard &#45; any way to spoof it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731825-help-hwid-ban-lenovo-oem-desktop-motherboard-spoof.html)|`2026-01-02 00:37:00`|`Valorant`|
