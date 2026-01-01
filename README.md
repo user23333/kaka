@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-01-02 03:29:00`|`Call of Duty: Black Ops 7`|
 |[&#91;CS2&#93; Understanding Offset Chains &#40;EntityList, Money, Names, ViewMatrix, etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731242-cs2-understanding-offset-chains-entitylist-money-names-viewmatrix-etc.html)|`2026-01-02 03:20:00`|`Counter-Strike 2`|
 |[name tag and healthbar colorbot aimbot color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/729919-name-tag-healthbar-colorbot-aimbot-color-aimbot.html)|`2026-01-02 03:16:00`|`Overwatch`|
 |[How to not get banned using aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722187-banned-using-aimbot.html)|`2026-01-02 03:15:00`|`Overwatch`|
