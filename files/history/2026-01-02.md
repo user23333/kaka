@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-02 01:32:00`|`ARC Raiders`|
+|[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2026-01-02 01:32:00`|`ARC Raiders`|
+|[Creating a cheat &#40;Part 2, External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721191-creating-cheat-2-external.html)|`2026-01-02 01:31:00`|`Sea of Thieves`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-01-02 01:27:00`|`Overwatch`|
+|[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2026-01-02 01:24:00`|`Grand Theft Auto V`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-02 01:10:00`|`Red Dead Redemption 2`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-01-02 01:05:00`|`Other FPS Games`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-01-02 01:01:00`|`Other FPS Games`|
