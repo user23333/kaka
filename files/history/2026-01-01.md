@@ -13,6 +13,7 @@
 |16|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-01 00:18:17`|`rainbow-six-siege`|
 |5|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-01-01 09:56:29`|`escape-from-tarkov`|
 |6|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2026-01-01 11:43:23`|`escape-from-tarkov`|
+|9|[Please the safest method to make money FAST "ENHANCED"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731560-please-safest-method-money-fast-enhanced.html)|`2026-01-01 13:52:22`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-01-01 13:42:00`|`Call of Duty: Black Ops 7`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-01-01 13:38:00`|`Genshin Impact`|
+|[Genshin Impact 5&#46;8 Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/712706-genshin-impact-5-8-table.html)|`2026-01-01 13:38:00`|`Genshin Impact`|
+|[Any free working genshin cheats for EU and asia ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/711926-free-genshin-cheats-eu-asia.html)|`2026-01-01 13:37:00`|`Genshin Impact`|
+|[Modification Bypass 6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/723519-modification-bypass-6-1-a.html)|`2026-01-01 13:36:00`|`Genshin Impact`|
 |[Lua Nuker &#40; Lua Injector &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729894-lua-nuker-lua-injector.html)|`2026-01-01 13:03:00`|`Garry's Mod`|
 |[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-01 12:58:00`|`Other FPS Games`|
 |[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2026-01-01 12:34:00`|`Sea of Thieves`|
