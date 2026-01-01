@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2026-01-01 19:53:00`|`Other Single Player Games`|
 |[Acronis Insurgency x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/731945-acronis-insurgency-x86.html)|`2026-01-01 19:52:00`|`Insurgency`|
 |[How to get SwapChain without a signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731944-swapchain-signature.html)|`2026-01-01 19:43:00`|`Counter-Strike 2`|
 |[how do developers load drivers into kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731943-developers-load-drivers-kernel.html)|`2026-01-01 19:35:00`|`Anti-Cheat Bypass`|
