@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-02 06:34:00`|`Phasmophobia`|
+|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-02 06:28:00`|`Anti-Cheat Bypass`|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-02 06:26:00`|`Other FPS Games`|
+|[Supermarket Simulator &#45; GameAssembly&#45;CSharp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732020-supermarket-simulator-gameassembly-csharp-dump.html)|`2026-01-02 06:24:00`|`Other Games`|
+|[Among Us Discord Overlay ESP &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/717705-discord-overlay-esp-steam.html)|`2026-01-02 06:23:00`|`Among Us`|
+|[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2026-01-02 06:21:00`|`Apex Legends`|
 |[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-02 06:18:00`|`Among Us`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-02 06:13:00`|`Grand Theft Auto V`|
 |[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2026-01-02 06:04:00`|`Other Games`|
