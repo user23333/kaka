@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732023-emulator.html)|`2026-01-03 04:51:00`|`Valorant`|
 |[Mod menu for single player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731917-mod-menu-single-player.html)|`2026-01-03 04:46:00`|`Grand Theft Auto V`|
 |[jc&#95;coins dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731566-jc_coins-dupe-method.html)|`2026-01-03 04:38:00`|`Alternative Online Mods`|
 |[Anyone know how to get multiple pause menu buttons to work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/732006-multiple-pause-menu-buttons.html)|`2026-01-03 04:16:00`|`Star Wars Battlefront 2`|
