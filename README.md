@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I’m having an issue with recoil control&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732139-issue-recoil-control.html)|`2026-01-03 05:55:00`|`Rust`|
+|[CS2 wh 0&#46;0&#46;1&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732087-cs2-wh-0-0-1-exe.html)|`2026-01-03 05:54:00`|`Counter-Strike 2`|
 |[Apex no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731208-apex-recoil.html)|`2026-01-03 05:50:00`|`Apex Legends`|
 |[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2026-01-03 05:50:00`|`Counter-Strike 2`|
 |[UEFI Secure Boot verification failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731993-uefi-secure-boot-verification-failure.html)|`2026-01-03 05:41:00`|`Valorant`|
