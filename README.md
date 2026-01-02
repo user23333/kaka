@@ -15,6 +15,7 @@
 |13|[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2026-01-02 05:29:42`|`valorant`|
 |4|[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2026-01-02 11:01:55`|`anti-cheat-bypass`|
 |2|[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2026-01-02 17:23:51`|`anti-cheat-bypass`|
+|21|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-02 21:09:44`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Desktop Duplication API keeps freezing after some time &#45; any alternatives?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728633-desktop-duplication-api-freezing-time-alternatives.html)|`2026-01-02 21:07:00`|`Valorant`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-01-02 21:02:00`|`Other MMORPG and Strategy`|
+|[How far can you go with cheats without getting banned in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732089-cheats-getting-banned-cs2.html)|`2026-01-02 20:50:00`|`Counter-Strike 2`|
 |[Accelerated reconnection using retry?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/732094-accelerated-reconnection-using-retry.html)|`2026-01-02 20:25:00`|`CounterStrike Source`|
 |[Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725080-native-invoker.html)|`2026-01-02 20:18:00`|`Alternative Online Mods`|
 |[Issue with writing to memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/731595-issue-writing-memory.html)|`2026-01-02 20:13:00`|`CounterStrike Source`|
