@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-02 15:11:00`|`Escape from Tarkov`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2026-01-02 15:09:00`|`Other MMORPG and Strategy`|
 |[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-02 14:26:00`|`Anti-Cheat Bypass`|
 |[DirectX renderer &#43; gui "builder" &#40;idk lol&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/730971-directx-renderer-gui-builder-idk-lol.html)|`2026-01-02 13:48:00`|`Direct3D`|
 |[Getting Valid Bone Data at Distance for Chams &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732050-getting-valid-bone-data-distance-chams-external.html)|`2026-01-02 13:46:00`|`Counter-Strike 2`|
