@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-01-02 15:43:00`|`Counter-Strike 2 Releases`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-02 15:41:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-02 15:38:00`|`Other FPS Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-02 15:27:00`|`Rainbow Six Siege`|
+|[Internal or External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732061-internal-external.html)|`2026-01-02 15:27:00`|`Rainbow Six Siege`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2026-01-02 15:23:00`|`Other MMORPG and Strategy`|
 |[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-02 15:11:00`|`Escape from Tarkov`|
 |[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2026-01-02 15:09:00`|`Other MMORPG and Strategy`|
 |[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-02 14:26:00`|`Anti-Cheat Bypass`|
