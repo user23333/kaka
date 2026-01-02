@@ -14,6 +14,7 @@
 |11|[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-02 02:21:30`|`escape-from-tarkov`|
 |13|[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2026-01-02 05:29:42`|`valorant`|
 |4|[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2026-01-02 11:01:55`|`anti-cheat-bypass`|
+|2|[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2026-01-02 17:23:51`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-02 17:21:00`|`Counter-Strike 2 Releases`|
+|[Exact HWID's BE Ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731719-exact-hwids-ban.html)|`2026-01-02 16:59:00`|`Grand Theft Auto V`|
 |[ID's for story quest items :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730254-ids-story-quest-items.html)|`2026-01-02 16:56:00`|`Escape from Tarkov`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2026-01-02 16:55:00`|`Palia`|
 |[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2026-01-02 16:53:00`|`Escape from Tarkov`|
