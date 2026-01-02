@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mod menu for single player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731917-mod-menu-single-player.html)|`2026-01-03 04:46:00`|`Grand Theft Auto V`|
+|[jc&#95;coins dupe method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731566-jc_coins-dupe-method.html)|`2026-01-03 04:38:00`|`Alternative Online Mods`|
 |[Anyone know how to get multiple pause menu buttons to work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/732006-multiple-pause-menu-buttons.html)|`2026-01-03 04:16:00`|`Star Wars Battlefront 2`|
 |[Teardown Lua Executor &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731782-teardown-lua-executor-external.html)|`2026-01-03 03:54:00`|`Other Games`|
 |[Is there any "safe" method to acquire free cars?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732126-safe-method-acquire-free-cars.html)|`2026-01-03 03:53:00`|`Grand Theft Auto V`|
