@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AQ3D Boring Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724856-aq3d-boring-internal.html)|`2026-01-02 12:48:00`|`Other MMORPG and Strategy`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-02 12:46:00`|`Other FPS Games`|
+|[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2026-01-02 12:40:00`|`Counter-Strike 2`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-02 12:09:00`|`Valorant`|
 |[Ai Ready or Not &#40;RON&#41; internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726374-ai-ready-ron-internal-cheat.html)|`2026-01-02 11:42:00`|`Other FPS Games`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-01-02 11:37:00`|`Valorant`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2026-01-02 10:56:00`|`Escape from Tarkov`|
