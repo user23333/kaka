@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2026-01-03 01:03:00`|`DayZ SA`|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-01-03 01:02:00`|`Grand Theft Auto V`|
+|[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2026-01-03 01:00:00`|`Grand Theft Auto V`|
+|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-01-03 00:59:00`|`Anti-Cheat Bypass`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2026-01-03 00:58:00`|`Other FPS Games`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-01-03 00:57:00`|`Other MMORPG and Strategy`|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2026-01-03 00:55:00`|`DayZ SA`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-03 00:54:00`|`Other FPS Games`|
 |[&#91;Tutorial&#93; Blocking Unauthenticated Memory Writes and Remote Kicks &#40;Xbox 360&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/731792-tutorial-blocking-unauthenticated-memory-writes-remote-kicks-xbox-360-a.html)|`2026-01-03 00:12:00`|`Call of Duty: Black Ops 2`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-03 00:10:00`|`Other MMORPG and Strategy`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-03 00:07:00`|`Other FPS Games`|
