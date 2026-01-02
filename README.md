@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Acronis Insurgency x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/731945-acronis-insurgency-x86.html)|`2026-01-02 18:15:00`|`Insurgency`|
+|[How can a beginner create a cheat menu?  Could you provide a tutorial or some suggest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732060-beginner-create-cheat-menu-provide-tutorial-suggest.html)|`2026-01-02 18:15:00`|`Grand Theft Auto V`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-02 17:21:00`|`Counter-Strike 2 Releases`|
 |[Exact HWID's BE Ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731719-exact-hwids-ban.html)|`2026-01-02 16:59:00`|`Grand Theft Auto V`|
 |[ID's for story quest items :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730254-ids-story-quest-items.html)|`2026-01-02 16:56:00`|`Escape from Tarkov`|
