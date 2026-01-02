@@ -33,9 +33,13 @@
 |1|[phantom 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52483)|`2026-01-02 06:19:43`|
 |4|[BSGLauncher&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52491)|`2026-01-02 18:41:00`|
 |1|[Bloodstrike internal fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52490)|`2026-01-02 18:41:00`|
+|1|[UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52479)|`2026-01-02 18:57:37`|
+|1|[UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52478)|`2026-01-02 18:57:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 wh 0&#46;0&#46;1&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732087-cs2-wh-0-0-1-exe.html)|`2026-01-02 18:49:00`|`Counter-Strike 2`|
+|[fTPM 2&#46;0 Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731150-ftpm-2-0-spoof.html)|`2026-01-02 18:35:00`|`Valorant`|
 |[Is Makcu detected on Faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731482-makcu-detected-faceit.html)|`2026-01-02 18:35:00`|`Counter-Strike 2`|
 |[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2026-01-02 18:30:00`|`Escape from Tarkov`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-01-02 18:29:00`|`Elite: Dangerous`|
