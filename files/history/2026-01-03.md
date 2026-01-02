@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731208-apex-recoil.html)|`2026-01-03 05:50:00`|`Apex Legends`|
+|[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2026-01-03 05:50:00`|`Counter-Strike 2`|
 |[UEFI Secure Boot verification failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731993-uefi-secure-boot-verification-failure.html)|`2026-01-03 05:41:00`|`Valorant`|
 |[Red Trust Factor on Fresh Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732136-red-trust-factor-fresh-accounts.html)|`2026-01-03 05:18:00`|`Counter-Strike 2`|
 |[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-03 05:10:00`|`ARC Raiders`|
