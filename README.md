@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-01-03 02:06:00`|`Counter-Strike 2`|
+|[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-03 02:02:00`|`ARC Raiders`|
+|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-03 02:02:00`|`Anti-Cheat Bypass`|
 |[Apex &#45; make km moove mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/732116-apex-km-moove-mouse.html)|`2026-01-03 01:50:00`|`Apex Legends`|
 |[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2026-01-03 01:50:00`|`Anti-Cheat Bypass`|
 |[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-03 01:50:00`|`Anti-Cheat Bypass`|
