@@ -31,9 +31,15 @@
 |2|[UltimateASILoader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52486)|`2026-01-02 06:19:43`|
 |1|[5&#46;3&#46;2&#45;2778513&#43;&#43;&#43;depot&#95;marvel&#43;S5&#46;5&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52484)|`2026-01-02 06:19:43`|
 |1|[phantom 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52483)|`2026-01-02 06:19:43`|
+|4|[BSGLauncher&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52491)|`2026-01-02 18:41:00`|
+|1|[Bloodstrike internal fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52490)|`2026-01-02 18:41:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Makcu detected on Faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731482-makcu-detected-faceit.html)|`2026-01-02 18:35:00`|`Counter-Strike 2`|
+|[PVE BattlEyent Alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728902-pve-battleyent-alternative.html)|`2026-01-02 18:30:00`|`Escape from Tarkov`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-01-02 18:29:00`|`Elite: Dangerous`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-02 18:20:00`|`Counter-Strike 2`|
 |[Acronis Insurgency x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/731945-acronis-insurgency-x86.html)|`2026-01-02 18:15:00`|`Insurgency`|
 |[How can a beginner create a cheat menu?  Could you provide a tutorial or some suggest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732060-beginner-create-cheat-menu-provide-tutorial-suggest.html)|`2026-01-02 18:15:00`|`Grand Theft Auto V`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-02 17:21:00`|`Counter-Strike 2 Releases`|
