@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2026-01-02 08:52:00`|`Grand Theft Auto V`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2026-01-02 08:29:00`|`Other FPS Games`|
+|[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2026-01-02 08:22:00`|`Anti-Cheat Bypass`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-02 08:22:00`|`Battlefield 6`|
+|[intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732014-intro.html)|`2026-01-02 08:20:00`|`Introductions`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-02 08:18:00`|`Grand Theft Auto V`|
 |[Teardown Lua Executor &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731782-teardown-lua-executor-external.html)|`2026-01-02 07:54:00`|`Other Games`|
 |[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732031-spoofer.html)|`2026-01-02 07:49:00`|`Overwatch`|
 |[How do you get entity from pawn &#40;Old version of siege&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732029-entity-pawn-version-siege.html)|`2026-01-02 07:46:00`|`Rainbow Six Siege`|
