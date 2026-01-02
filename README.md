@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-03 06:48:00`|`Among Us`|
+|[Free shopping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730907-free-shopping.html)|`2026-01-03 06:43:00`|`Grand Theft Auto V`|
 |[Cs2 Internal Source Code Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730080-cs2-internal-source-code-cheat-base.html)|`2026-01-03 06:19:00`|`Counter-Strike 2`|
 |[Sham&#91;removed&#93;&#45;x64 injector for tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732133-sham-removed-x64-injector-tf2.html)|`2026-01-03 06:08:00`|`Team Fortress 2`|
 |[How To Find NetChan To Perform RME Exploits On Old Cods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/732140-netchan-perform-rme-exploits-cods.html)|`2026-01-03 06:04:00`|`Call of Duty: Modern Warfare 3`|
