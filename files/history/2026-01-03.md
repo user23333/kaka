@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sham&#91;removed&#93;&#45;x64 injector for tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732133-sham-removed-x64-injector-tf2.html)|`2026-01-03 06:08:00`|`Team Fortress 2`|
+|[How To Find NetChan To Perform RME Exploits On Old Cods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/732140-netchan-perform-rme-exploits-cods.html)|`2026-01-03 06:04:00`|`Call of Duty: Modern Warfare 3`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-03 06:04:00`|`Other FPS Games`|
+|[How to create an external bhop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731251-create-external-bhop.html)|`2026-01-03 05:57:00`|`Counter-Strike 2`|
 |[I’m having an issue with recoil control&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732139-issue-recoil-control.html)|`2026-01-03 05:55:00`|`Rust`|
 |[CS2 wh 0&#46;0&#46;1&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732087-cs2-wh-0-0-1-exe.html)|`2026-01-03 05:54:00`|`Counter-Strike 2`|
 |[Apex no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731208-apex-recoil.html)|`2026-01-03 05:50:00`|`Apex Legends`|
