@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2026-01-04 05:09:00`|`Anti-Cheat Bypass`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-04 05:09:00`|`ARC Raiders`|
 |[Best &#40;worst&#41; of UC Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/227202-worst-uc-discord.html)|`2026-01-04 04:54:00`|`Off Topic`|
 |[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727056-arc-raiders-rapid-fire-macro.html)|`2026-01-04 04:49:00`|`ARC Raiders`|
 |[Bypass emulator in 4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/725642-bypass-emulator-4-1-a.html)|`2026-01-04 04:44:00`|`PUBG Mobile`|
