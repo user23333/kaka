@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-03 16:11:00`|`League of Legends`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-01-03 16:02:00`|`Grand Theft Auto V`|
 |[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2026-01-03 16:02:00`|`Rainbow Six Siege`|
 |[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2026-01-03 14:57:00`|`Escape from Tarkov`|
