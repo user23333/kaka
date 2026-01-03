@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust drop items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732229-rust-drop-items.html)|`2026-01-03 21:17:00`|`Rust`|
+|[Valorant Yolov11s Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/715056-valorant-yolov11s-model.html)|`2026-01-03 21:15:00`|`Valorant`|
+|[Genshin dumper dll 5&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/713580-genshin-dumper-dll-5-8-a.html)|`2026-01-03 21:09:00`|`Genshin Impact`|
 |[UE5&#93;Do you happen to know how to move in the background?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/732228-ue5-happen-move-background.html)|`2026-01-03 20:38:00`|`Unreal Engine 4`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-01-03 20:36:00`|`Other MMORPG and Strategy`|
 |[Rust Bone method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731653-rust-bone-method.html)|`2026-01-03 20:31:00`|`Rust`|
