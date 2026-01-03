@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-03 12:10:00`|`Escape from Tarkov`|
+|[Marked keys PVE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732195-marked-keys-pve.html)|`2026-01-03 12:00:00`|`Escape from Tarkov`|
 |[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-03 11:55:00`|`Anti-Cheat Bypass`|
 |[&#91;Source&#93; ZFusion DayZ Python ESP &#40;I need help finding all items&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728151-source-zfusion-dayz-python-esp-help-finding-items.html)|`2026-01-03 11:44:00`|`DayZ SA`|
 |[Finding BAR size for DMA Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732182-finding-bar-size-dma-firmware.html)|`2026-01-03 11:35:00`|`Anti-Cheat Bypass`|
