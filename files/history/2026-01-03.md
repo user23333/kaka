@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make waeapon esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732151-waeapon-esp.html)|`2026-01-03 09:12:00`|`Counter-Strike 2`|
+|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-03 09:10:00`|`Grand Theft Auto V`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-03 09:07:00`|`Valorant`|
+|[Marvel Rivals I Got Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729057-marvel-rivals-banned.html)|`2026-01-03 08:44:00`|`Marvel Rivals`|
+|[Information about GO Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/731569-information-anti-cheat.html)|`2026-01-03 08:38:00`|`Generals and Zero Hour`|
+|[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732112-hello.html)|`2026-01-03 08:30:00`|`Introductions`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-03 07:52:00`|`Phasmophobia`|
 |[Mouse Input Manipulation/Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731751-mouse-input-manipulation-modification.html)|`2026-01-03 07:52:00`|`General Programming and Reversing`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-03 07:37:00`|`Escape from Tarkov`|
