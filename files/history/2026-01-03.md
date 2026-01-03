@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[steal inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732095-steal-inventory.html)|`2026-01-03 20:09:00`|`Alternative Online Mods`|
 |[Permanent MAC change for USB network adapter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731486-permanent-mac-change-usb-network-adapter.html)|`2026-01-03 19:57:00`|`Anti-Cheat Bypass`|
 |[&#91;RPCS3&#93; A General Guide for Making Cheats & Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/729023-rpcs3-guide-cheats-trainers.html)|`2026-01-03 19:43:00`|`PlayStation`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-03 19:42:00`|`Alternative Online Mods`|
