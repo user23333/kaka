@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dump server using X&#45;CitizenFX&#45;Token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722415-dump-server-using-citizenfx-token.html)|`2026-01-04 05:56:00`|`Alternative Online Mods`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-01-04 05:53:00`|`Other FPS Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-01-04 05:51:00`|`Other FPS Games`|
 |[Entity list offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/721648-entity-list-offset.html)|`2026-01-04 05:50:00`|`Deadlock`|
 |[No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732276-recoil.html)|`2026-01-04 05:46:00`|`Rust`|
