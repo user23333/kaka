@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Bone method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731653-rust-bone-method.html)|`2026-01-04 01:38:00`|`Rust`|
+|[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2026-01-04 01:37:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-04 01:37:00`|`Rust`|
+|[Red Trust Factor on Fresh Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732136-red-trust-factor-fresh-accounts.html)|`2026-01-04 01:37:00`|`Counter-Strike 2`|
+|[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-01-04 01:36:00`|`Call of Duty: Black Ops 7`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-04 01:36:00`|`Other MMORPG and Strategy`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-04 01:35:00`|`Grand Theft Auto V`|
+|[HorizonMW looking at names, health and bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/732254-horizonmw-looking-names-health-bones.html)|`2026-01-04 01:28:00`|`Call of Duty 4: Modern Warfare`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-01-04 01:26:00`|`Counter-Strike 2`|
 |[Is there any "safe" method to acquire free cars?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732126-safe-method-acquire-free-cars.html)|`2026-01-04 01:12:00`|`Grand Theft Auto V`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-01-04 00:57:00`|`Grand Theft Auto V`|
 |[Valorant 2PC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732241-valorant-2pc-bypass.html)|`2026-01-04 00:56:00`|`Valorant`|
