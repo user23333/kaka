@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2026-01-04 03:44:00`|`DayZ SA`|
 |[Acronis Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731823-acronis-chromium-x64.html)|`2026-01-04 03:35:00`|`Garry's Mod`|
 |[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2026-01-04 03:33:00`|`Team Fortress 2`|
 |[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-04 03:32:00`|`ARC Raiders`|
