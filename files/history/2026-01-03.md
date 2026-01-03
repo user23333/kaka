@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[calculating recoil &#124; bypassing anti no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729109-calculating-recoil-bypassing-anti-recoil.html)|`2026-01-03 13:01:00`|`Alternative Online Mods`|
 |[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-01-03 12:41:00`|`Forum General`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-03 12:34:00`|`Other FPS Games`|
 |[EFT Dump 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731542-eft-dump-1-0-a.html)|`2026-01-03 12:10:00`|`Escape from Tarkov`|
