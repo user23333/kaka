@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-04 06:28:00`|`Other FPS Games`|
+|[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2026-01-04 06:22:00`|`Valorant`|
 |[Weird Behaviour while mapping shellcode in Debug Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732280-weird-behaviour-mapping-shellcode-debug-mode.html)|`2026-01-04 06:14:00`|`General Programming and Reversing`|
 |[Dump server using X&#45;CitizenFX&#45;Token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722415-dump-server-using-citizenfx-token.html)|`2026-01-04 05:56:00`|`Alternative Online Mods`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-01-04 05:53:00`|`Other FPS Games`|
