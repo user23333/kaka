@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-04 06:54:00`|`Marvel Rivals`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2026-01-04 06:52:00`|`Combat Arms`|
+|[external write mem bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732282-external-write-mem-bhop.html)|`2026-01-04 06:52:00`|`Counter-Strike 2`|
+|[How to skip autoshop contract preps?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/463348-skip-autoshop-contract-preps.html)|`2026-01-04 06:48:00`|`Grand Theft Auto V`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-04 06:28:00`|`Other FPS Games`|
 |[Need Help With VGC Heartbeat Protocol Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731074-help-vgc-heartbeat-protocol-info.html)|`2026-01-04 06:22:00`|`Valorant`|
 |[Weird Behaviour while mapping shellcode in Debug Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732280-weird-behaviour-mapping-shellcode-debug-mode.html)|`2026-01-04 06:14:00`|`General Programming and Reversing`|
