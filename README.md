@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732276-recoil.html)|`2026-01-04 05:46:00`|`Rust`|
 |[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-01-04 05:22:00`|`Star Wars Battlefront 2`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-04 05:13:00`|`Tom Clancy's The Division`|
 |[Bypassing anti&#45;cheat mouse detection using a Raspberry Pi development board](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732271-bypassing-anti-cheat-mouse-detection-using-raspberry-pi-development-board.html)|`2026-01-04 05:22:00`|`Anti-Cheat Bypass`|
