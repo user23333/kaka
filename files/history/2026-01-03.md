@@ -12,6 +12,7 @@
 |19|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-03 00:12:57`|`anti-cheat-bypass`|
 |2|[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2026-01-03 00:12:57`|`anti-cheat-bypass`|
 |27|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-01-03 07:39:07`|`anti-cheat-bypass`|
+|15|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-03 11:56:01`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-03 11:55:00`|`Anti-Cheat Bypass`|
+|[&#91;Source&#93; ZFusion DayZ Python ESP &#40;I need help finding all items&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/728151-source-zfusion-dayz-python-esp-help-finding-items.html)|`2026-01-03 11:44:00`|`DayZ SA`|
+|[Finding BAR size for DMA Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732182-finding-bar-size-dma-firmware.html)|`2026-01-03 11:35:00`|`Anti-Cheat Bypass`|
+|[2pc&#45;cross Leechcore NEW TECH&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730116-2pc-cross-leechcore-tech.html)|`2026-01-03 11:31:00`|`Anti-Cheat Bypass`|
+|[SoT Datamining &#43; Unreleased/Unused Assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/624262-sot-datamining-unreleased-unused-assets.html)|`2026-01-03 11:21:00`|`Sea of Thieves`|
+|[Chivalry 2 No Turn Cap and inf stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719643-chivalry-2-cap-inf-stamina.html)|`2026-01-03 11:13:00`|`Other FPS Games`|
 |[how to make waeapon esp ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732151-waeapon-esp.html)|`2026-01-03 09:12:00`|`Counter-Strike 2`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-03 09:10:00`|`Grand Theft Auto V`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-03 09:07:00`|`Valorant`|
