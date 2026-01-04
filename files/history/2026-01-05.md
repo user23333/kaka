@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-05 03:59:00`|`Rust`|
+|[External Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730436-external-rust.html)|`2026-01-05 03:58:00`|`Rust`|
 |[Far Cry 5 Script Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/far-cry/273726-cry-5-script-loader.html)|`2026-01-05 03:53:00`|`Far Cry`|
 |[Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732005-kernel-driver.html)|`2026-01-05 03:51:00`|`Rust`|
 |[No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732276-recoil.html)|`2026-01-05 03:46:00`|`Rust`|
