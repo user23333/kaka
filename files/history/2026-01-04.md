@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2026-01-04 10:35:00`|`ARC Raiders`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-01-04 10:27:00`|`Counter-Strike 2 Releases`|
+|[BOIII Client ZM External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/684226-boiii-client-zm-external.html)|`2026-01-04 10:22:00`|`Call of Duty: Black Ops 3`|
+|[Member of the Month &#45; January 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/732121-month-january-2026-a.html)|`2026-01-04 10:10:00`|`Member of the Month`|
 |[Rust drop items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732229-rust-drop-items.html)|`2026-01-04 08:55:00`|`Rust`|
 |[Corrupted Memory / Invalid Mesh Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/732292-corrupted-memory-invalid-mesh-data.html)|`2026-01-04 08:16:00`|`Playerunknown's Battlegrounds`|
 |[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-01-04 08:06:00`|`Marvel Rivals`|
