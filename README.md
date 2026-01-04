@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Anti&#45;cheat Bypass &#40; Steam and Global &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732204-bloodstrike-anti-cheat-bypass-steam-global.html)|`2026-01-04 16:41:00`|`Other FPS Games`|
+|[GTFO Hax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/518895-gtfo-hax.html)|`2026-01-04 16:35:00`|`Other FPS Games`|
 |[&#91;RPCS3&#93; A General Guide for Making Cheats & Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/729023-rpcs3-guide-cheats-trainers.html)|`2026-01-04 16:06:00`|`PlayStation`|
 |[steal inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732095-steal-inventory.html)|`2026-01-04 15:43:00`|`Alternative Online Mods`|
 |[Cayo Perico Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732314-cayo-perico-editor.html)|`2026-01-04 15:26:00`|`Grand Theft Auto V`|
