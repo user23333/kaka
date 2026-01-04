@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-04 23:33:00`|`Other MMORPG and Strategy`|
+|[Fellowship SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724210-fellowship-sdk.html)|`2026-01-04 23:33:00`|`Other MMORPG and Strategy`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-04 23:31:00`|`Phasmophobia`|
 |[Mouse Input Manipulation/Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731751-mouse-input-manipulation-modification.html)|`2026-01-04 23:11:00`|`General Programming and Reversing`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2026-01-04 23:09:00`|`Other Games`|
 |[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-04 23:06:00`|`Grand Theft Auto V`|
