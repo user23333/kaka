@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Access into Splitgate Arena Reloaded Pak files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/731644-access-splitgate-arena-reloaded-pak-files.html)|`2026-01-04 18:19:00`|`Splitgate`|
+|[Strinova Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/667041-strinova-reversal-structs-offsets.html)|`2026-01-04 18:19:00`|`Other FPS Games`|
+|[YOLO &#43; color aim logic issue & FPS stutter – need advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732233-yolo-color-aim-logic-issue-fps-stutter-advice.html)|`2026-01-04 18:06:00`|`Valorant`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-04 17:45:00`|`Other MMORPG and Strategy`|
 |[CS2 Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728034-cs2-glow.html)|`2026-01-04 17:34:00`|`Counter-Strike 2`|
 |[ARC Raiders API/Chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732322-arc-raiders-api-chat.html)|`2026-01-04 17:02:00`|`ARC Raiders`|
