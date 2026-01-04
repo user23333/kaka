@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-04 14:13:00`|`Other FPS Games`|
+|[Gmod gRust released by Down](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/732238-gmod-grust-released.html)|`2026-01-04 13:56:00`|`Garry's Mod`|
 |[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2026-01-04 13:26:00`|`Rainbow Six Siege`|
 |[Let’s discuss how to play online with friends nowadays&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732219-discuss-play-online-friends-nowadays.html)|`2026-01-04 13:20:00`|`Grand Theft Auto V`|
 |[PC Modded accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732145-pc-modded-accounts.html)|`2026-01-04 13:11:00`|`Grand Theft Auto V`|
