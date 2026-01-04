@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-01-04 23:52:00`|`Overwatch`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2026-01-04 23:48:00`|`Rainbow Six Siege`|
 |[MapleRoyals Mercury Trainer &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/730524-mapleroyals-mercury-trainer-free.html)|`2026-01-04 23:46:00`|`Maple Story`|
 |[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2026-01-04 23:45:00`|`Team Fortress 2`|
