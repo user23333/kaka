@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Let’s discuss how to play online with friends nowadays&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732219-discuss-play-online-friends-nowadays.html)|`2026-01-04 13:20:00`|`Grand Theft Auto V`|
+|[PC Modded accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732145-pc-modded-accounts.html)|`2026-01-04 13:11:00`|`Grand Theft Auto V`|
 |[Undetected Mouse Driver / Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731888-undetected-mouse-driver-script.html)|`2026-01-04 12:53:00`|`Rust`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-04 11:50:00`|`Overwatch`|
 |[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2026-01-04 11:45:00`|`Call of Duty 5: World at War`|
