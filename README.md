@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2026-01-05 01:48:00`|`C and C++`|
+|[How To Spoof New EAC Identifier &#40;NtAllocateUuids&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731146-spoof-eac-identifier-ntallocateuuids.html)|`2026-01-05 01:47:00`|`Anti-Cheat Bypass`|
 |[Apex Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731933-apex-console-cheats.html)|`2026-01-05 01:37:00`|`Apex Legends`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-01-05 01:36:00`|`Other FPS Games`|
 |[vaclive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732388-vaclive.html)|`2026-01-05 01:23:00`|`Counter-Strike 2`|
