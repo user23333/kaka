@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-05 05:37:00`|`Rainbow Six Siege`|
+|[Guidance on Arduino Leonardo R3 & Host Shield Macro for Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/732406-guidance-arduino-leonardo-r3-host-shield-macro-apex-legends.html)|`2026-01-05 05:35:00`|`Apex Legends`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-05 05:20:00`|`Escape from Tarkov`|
 |[&#91;DMA&#93; Arc Raiders &#40;partial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/728727-dma-arc-raiders-partial.html)|`2026-01-05 05:28:00`|`ARC Raiders`|
 |[1 report ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/727977-1-report-ban.html)|`2026-01-05 05:27:00`|`Marvel Rivals`|
 |[Current state of Lua Bypasses & Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732313-current-lua-bypasses-detection-vectors.html)|`2026-01-05 05:19:00`|`Alternative Online Mods`|
