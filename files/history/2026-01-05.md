@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[nightclub safe went over 250k??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730109-nightclub-safe-250k.html)|`2026-01-05 07:52:00`|`Grand Theft Auto V`|
 |[unturned external mono sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728060-unturned-external-mono-sdk.html)|`2026-01-05 07:46:00`|`Other FPS Games`|
 |[Can't buy the RC Bandito even though I don't own it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732430-cant-buy-rc-bandito-dont-own.html)|`2026-01-05 07:34:00`|`Grand Theft Auto V`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-05 07:15:00`|`Tom Clancy's The Division`|
