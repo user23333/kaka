@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stable rust bones method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730543-stable-rust-bones-method.html)|`2026-01-05 03:41:00`|`Rust`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-05 03:40:00`|`Other MMORPG and Strategy`|
+|[Rust Bone method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731653-rust-bone-method.html)|`2026-01-05 03:39:00`|`Rust`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-05 03:17:00`|`Phasmophobia`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-05 03:33:00`|`Marvel Rivals`|
 |[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-05 03:19:00`|`ARC Raiders`|
 |[Cayo Perico GOLD Compound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732397-cayo-perico-gold-compound.html)|`2026-01-05 03:16:00`|`Grand Theft Auto V`|
