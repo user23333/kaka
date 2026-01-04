@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2026-01-05 02:48:00`|`Call of Duty 5: World at War`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-01-05 02:26:00`|`Grand Theft Auto V`|
 |[Function pointer calls crash in EFI&#45;loaded kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732104-function-pointer-calls-crash-efi-loaded-kernel-driver.html)|`2026-01-05 02:24:00`|`General Programming and Reversing`|
 |[Bypass new Battleye Integry Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/727784-bypass-battleye-integry-check.html)|`2026-01-05 02:02:00`|`Escape from Tarkov`|
