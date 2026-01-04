@@ -11,6 +11,7 @@
 |8|[eac cr3 pml4 memes bypass c&#43;p](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731423-eac-cr3-pml4-memes-bypass.html)|`2026-01-04 00:38:35`|`anti-cheat-bypass`|
 |18|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-04 00:38:35`|`grand-theft-auto-v`|
 |21|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-04 00:38:35`|`anti-cheat-bypass`|
+|12|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-04 09:03:35`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust drop items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732229-rust-drop-items.html)|`2026-01-04 08:55:00`|`Rust`|
+|[Corrupted Memory / Invalid Mesh Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/732292-corrupted-memory-invalid-mesh-data.html)|`2026-01-04 08:16:00`|`Playerunknown's Battlegrounds`|
+|[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-01-04 08:06:00`|`Marvel Rivals`|
+|[Diablo Immortal FOV &#45; Attack Speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732290-diablo-immortal-fov-attack-speed.html)|`2026-01-04 08:00:00`|`Other MMORPG and Strategy`|
 |[external aimbot without getting vaclived](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732288-external-aimbot-getting-vaclived.html)|`2026-01-04 07:51:00`|`Counter-Strike 2`|
 |[Issue with writing to memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/731595-issue-writing-memory.html)|`2026-01-04 07:47:00`|`CounterStrike Source`|
 |[Rec Room Prefab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732286-rec-prefab.html)|`2026-01-04 07:45:00`|`Other FPS Games`|
