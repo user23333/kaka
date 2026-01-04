@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbox Six Siege &#124; Fully Hacked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/731382-rainbox-six-siege-hacked.html)|`2026-01-04 13:26:00`|`Rainbow Six Siege`|
 |[Let’s discuss how to play online with friends nowadays&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732219-discuss-play-online-friends-nowadays.html)|`2026-01-04 13:20:00`|`Grand Theft Auto V`|
 |[PC Modded accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732145-pc-modded-accounts.html)|`2026-01-04 13:11:00`|`Grand Theft Auto V`|
 |[Undetected Mouse Driver / Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731888-undetected-mouse-driver-script.html)|`2026-01-04 12:53:00`|`Rust`|
