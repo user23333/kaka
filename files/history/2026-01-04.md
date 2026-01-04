@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2026-01-04 23:48:00`|`Rainbow Six Siege`|
+|[MapleRoyals Mercury Trainer &#40;FREE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/730524-mapleroyals-mercury-trainer-free.html)|`2026-01-04 23:46:00`|`Maple Story`|
+|[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2026-01-04 23:45:00`|`Team Fortress 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-04 23:33:00`|`Other MMORPG and Strategy`|
 |[Fellowship SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724210-fellowship-sdk.html)|`2026-01-04 23:33:00`|`Other MMORPG and Strategy`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-04 23:31:00`|`Phasmophobia`|
