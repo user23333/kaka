@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-05 03:33:00`|`Marvel Rivals`|
+|[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-05 03:19:00`|`ARC Raiders`|
+|[Cayo Perico GOLD Compound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732397-cayo-perico-gold-compound.html)|`2026-01-05 03:16:00`|`Grand Theft Auto V`|
 |[Bypassing anti&#45;cheat mouse detection using a Raspberry Pi development board](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732271-bypassing-anti-cheat-mouse-detection-using-raspberry-pi-development-board.html)|`2026-01-05 03:08:00`|`Anti-Cheat Bypass`|
 |[hypervisor developement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732395-hypervisor-developement.html)|`2026-01-05 03:04:00`|`General Programming and Reversing`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-05 03:01:00`|`Other FPS Games`|
