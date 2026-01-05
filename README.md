@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Information about GO Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/731569-information-anti-cheat.html)|`2026-01-06 07:29:00`|`Generals and Zero Hour`|
+|[Modulating Killstreak Sheen Color via CallBindProxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732485-modulating-killstreak-sheen-color-via-callbindproxy.html)|`2026-01-06 07:29:00`|`Team Fortress 2`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-01-06 07:18:00`|`Phasmophobia`|
 |[How Valorant treats Skinchangers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732400-valorant-treats-skinchangers.html)|`2026-01-06 07:09:00`|`Valorant`|
 |[Decent BOMB Timer &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/714751-decent-bomb-timer-python.html)|`2026-01-06 07:08:00`|`Valorant`|
 |[Permanent red trust factor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731466-permanent-red-trust-factor.html)|`2026-01-06 07:08:00`|`Counter-Strike 2`|
