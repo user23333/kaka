@@ -11,6 +11,7 @@
 |6|[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-06 00:00:18`|`arc-raiders`|
 |10|[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-06 00:00:18`|`anti-cheat-bypass`|
 |6|[Acronis Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731823-acronis-chromium-x64.html)|`2026-01-06 00:00:18`|`garry-s-mod`|
+|5|[Valorant 2PC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732241-valorant-2pc-bypass.html)|`2026-01-06 05:58:03`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
