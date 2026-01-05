@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diablo Immortal FOV &#45; Attack Speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732290-diablo-immortal-fov-attack-speed.html)|`2026-01-05 19:34:00`|`Other MMORPG and Strategy`|
+|[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2026-01-05 19:22:00`|`THE FINALS`|
+|[why do some rust scripts require a usb then ask me to remove it after launching app?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732376-rust-scripts-require-usb-remove-launching-app.html)|`2026-01-05 19:07:00`|`Rust`|
 |[Entity list offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/721648-entity-list-offset.html)|`2026-01-05 19:08:00`|`Deadlock`|
 |[kernel cr3 from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732255-kernel-cr3-usermode.html)|`2026-01-05 19:07:00`|`Anti-Cheat Bypass`|
 |[Any LoL scripts avaliable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722594-lol-scripts-avaliable.html)|`2026-01-05 18:45:00`|`League of Legends`|
