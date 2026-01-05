@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-06 05:50:00`|`Other FPS Games`|
+|[Kernel&#45;mode injector with WHQL signed driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732224-kernel-mode-injector-whql-signed-driver.html)|`2026-01-06 05:46:00`|`General Programming and Reversing`|
+|[Is there anything else that can be used after the update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/732484-else-update.html)|`2026-01-06 05:28:00`|`Garry's Mod`|
+|[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2026-01-06 05:26:00`|`Grand Theft Auto V`|
 |[Arc Raiders Level Exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/729930-arc-raiders-level-exploit.html)|`2026-01-06 05:48:00`|`ARC Raiders`|
 |[arc raiders duplication exploit/glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732570-arc-raiders-duplication-exploit-glitch.html)|`2026-01-06 05:45:00`|`ARC Raiders`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-01-06 05:26:00`|`Grand Theft Auto V`|
