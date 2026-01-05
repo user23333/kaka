@@ -13,6 +13,7 @@
 |3|[SilentMod &#45; My first GTA Lua with unlock features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731883-silentmod-gta-lua-unlock-features.html)|`2026-01-05 00:11:25`|`grand-theft-auto-v`|
 |5|[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-05 11:07:53`|`arc-raiders`|
 |11|[Hyper&#45;V payload EPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731571-hyper-payload-ept.html)|`2026-01-05 13:07:56`|`anti-cheat-bypass`|
+|10|[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-05 19:14:10`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity list offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/721648-entity-list-offset.html)|`2026-01-05 19:08:00`|`Deadlock`|
+|[kernel cr3 from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732255-kernel-cr3-usermode.html)|`2026-01-05 19:07:00`|`Anti-Cheat Bypass`|
 |[Any LoL scripts avaliable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722594-lol-scripts-avaliable.html)|`2026-01-05 18:45:00`|`League of Legends`|
 |[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2026-01-05 18:27:00`|`Apex Legends`|
 |[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-05 18:11:00`|`ARC Raiders`|
