@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-05 08:52:00`|`Alternative Online Mods`|
+|[1pc setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732446-1pc-setup.html)|`2026-01-05 08:48:00`|`Valorant`|
+|[Handle Hijacking and Externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732441-handle-hijacking-externals.html)|`2026-01-05 08:32:00`|`Counter-Strike 2`|
+|[Please the safest method to make money FAST "ENHANCED"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731560-please-safest-method-money-fast-enhanced.html)|`2026-01-05 08:18:00`|`Grand Theft Auto V`|
+|[Source2Gen dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732437-source2gen-dead.html)|`2026-01-05 08:09:00`|`Counter-Strike 2`|
 |[nightclub safe went over 250k??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/730109-nightclub-safe-250k.html)|`2026-01-05 07:52:00`|`Grand Theft Auto V`|
 |[unturned external mono sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728060-unturned-external-mono-sdk.html)|`2026-01-05 07:46:00`|`Other FPS Games`|
 |[Can't buy the RC Bandito even though I don't own it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732430-cant-buy-rc-bandito-dont-own.html)|`2026-01-05 07:34:00`|`Grand Theft Auto V`|
