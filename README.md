@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2026-01-05 20:20:00`|`Grand Theft Auto V`|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-01-05 20:06:00`|`Counter-Strike 2 Releases`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-01-05 20:03:00`|`Call of Duty: Black Ops Cold War`|
+|[BFV LOD bias broke with March update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/324887-bfv-lod-bias-broke-march-update.html)|`2026-01-05 19:46:00`|`Battlefield V`|
 |[Diablo Immortal FOV &#45; Attack Speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732290-diablo-immortal-fov-attack-speed.html)|`2026-01-05 19:34:00`|`Other MMORPG and Strategy`|
 |[The Closest Thing To Aimbot & No Recoil You're Going To Get](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/687328-closest-aimbot-recoil-youre.html)|`2026-01-05 19:22:00`|`THE FINALS`|
 |[why do some rust scripts require a usb then ask me to remove it after launching app?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732376-rust-scripts-require-usb-remove-launching-app.html)|`2026-01-05 19:07:00`|`Rust`|
