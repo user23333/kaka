@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-06 01:02:00`|`Other MMORPG and Strategy`|
+|[Inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689644-inversia-x64.html)|`2026-01-06 01:01:00`|`Team Fortress 2`|
+|[Project Reality The logic of anti&#45;cheating scanning and detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/732538-project-reality-logic-anti-cheating-scanning-detection.html)|`2026-01-06 01:00:00`|`Battlefield 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-06 01:00:00`|`Marvel Rivals`|
+|[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-01-06 01:00:00`|`Marvel Rivals`|
+|[How to get launcher offset using ghidra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/732537-launcher-offset-using-ghidra.html)|`2026-01-06 00:55:00`|`Among Us`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-06 00:51:00`|`Overwatch`|
 |[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-06 00:46:00`|`ARC Raiders`|
 |[Guidance on Arduino Leonardo R3 & Host Shield Macro for Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/732406-guidance-arduino-leonardo-r3-host-shield-macro-apex-legends.html)|`2026-01-06 00:35:00`|`Apex Legends`|
