@@ -14,6 +14,7 @@
 |5|[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-05 11:07:53`|`arc-raiders`|
 |11|[Hyper&#45;V payload EPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731571-hyper-payload-ept.html)|`2026-01-05 13:07:56`|`anti-cheat-bypass`|
 |10|[Im desperate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731889-im-desperate.html)|`2026-01-05 19:14:10`|`anti-cheat-bypass`|
+|6|[Acronis Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731823-acronis-chromium-x64.html)|`2026-01-05 21:24:01`|`garry-s-mod`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Anti&#45;cheat Bypass &#40; Steam and Global &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732204-bloodstrike-anti-cheat-bypass-steam-global.html)|`2026-01-05 21:10:00`|`Other FPS Games`|
+|[farming hours on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/732506-farming-hours-steam.html)|`2026-01-05 21:02:00`|`Phasmophobia`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2026-01-05 20:57:00`|`Team Fortress 2`|
+|[Modulating Killstreak Sheen Color via CallBindProxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732485-modulating-killstreak-sheen-color-via-callbindproxy.html)|`2026-01-05 20:48:00`|`Team Fortress 2`|
 |[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2026-01-05 20:20:00`|`Grand Theft Auto V`|
 |[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-01-05 20:06:00`|`Counter-Strike 2 Releases`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-01-05 20:03:00`|`Call of Duty: Black Ops Cold War`|
