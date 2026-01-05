@@ -12,6 +12,7 @@
 |15|[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-05 00:11:25`|`anti-cheat-bypass`|
 |3|[SilentMod &#45; My first GTA Lua with unlock features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731883-silentmod-gta-lua-unlock-features.html)|`2026-01-05 00:11:25`|`grand-theft-auto-v`|
 |5|[Arc Raiders Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732135-arc-raiders-bans.html)|`2026-01-05 11:07:53`|`arc-raiders`|
+|11|[Hyper&#45;V payload EPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731571-hyper-payload-ept.html)|`2026-01-05 13:07:56`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New ricochet dump&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728944-ricochet-dump.html)|`2026-01-05 12:47:00`|`Call of Duty: Black Ops 7`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732476-hello.html)|`2026-01-05 12:47:00`|`Introductions`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-05 12:46:00`|`Deadlock`|
+|[Any Working Dumper to get the latest SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/732475-dumper-sdk.html)|`2026-01-05 12:42:00`|`Sea of Thieves`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-05 11:30:00`|`Other MMORPG and Strategy`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-05 11:29:00`|`Palworld`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2026-01-05 11:21:00`|`Battlefield 6`|
