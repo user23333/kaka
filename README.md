@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-06 04:42:00`|`Other FPS Games`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-06 04:30:00`|`Grand Theft Auto V`|
+|[I got HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731619-hwid-banned.html)|`2026-01-06 04:28:00`|`Valorant`|
 |[New Account Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/732418-account.html)|`2026-01-06 04:19:00`|`Apex Legends`|
 |[You know the answer is gonna be accurate when&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732489-answer-gonna-accurate.html)|`2026-01-06 04:13:00`|`Rainbow Six Siege`|
 |[Game hacking in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732564-game-hacking-2026-a.html)|`2026-01-06 04:03:00`|`General Programming and Reversing`|
