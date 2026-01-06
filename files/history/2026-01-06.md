@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-06 11:59:00`|`Palworld`|
+|[Make an external CS2 bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732604-external-cs2-bhop.html)|`2026-01-06 11:39:00`|`Counter-Strike 2`|
+|[Yara Rules &#40;Rainbow Six Siege Patterns&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732602-yara-rules-rainbow-six-siege-patterns.html)|`2026-01-06 11:24:00`|`Rainbow Six Siege`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2026-01-06 11:00:00`|`Other Games`|
 |[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-06 10:30:00`|`Escape from Tarkov`|
 |[Updated Fallout 76 Cheat Mod BA2s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732580-updated-fallout-76-cheat-mod-ba2s.html)|`2026-01-06 10:18:00`|`Other FPS Games`|
