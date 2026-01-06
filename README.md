@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-01-07 07:41:00`|`HELLDIVERS 2`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-01-07 07:38:00`|`Other FPS Games`|
+|[CS2 Web Radar Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/729609-cs2-web-radar-hack.html)|`2026-01-07 07:37:00`|`Counter-Strike 2 Releases`|
+|[Internal Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732714-internal.html)|`2026-01-07 07:35:00`|`Alternative Online Mods`|
 |[Warp Vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732713-warp-vehicle.html)|`2026-01-07 07:25:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-07 07:24:00`|`DayZ SA`|
 |[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-07 07:23:00`|`Call of Duty 6: Modern Warfare 2`|
