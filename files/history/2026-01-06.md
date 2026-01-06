@@ -13,6 +13,7 @@
 |6|[Acronis Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731823-acronis-chromium-x64.html)|`2026-01-06 00:00:18`|`garry-s-mod`|
 |5|[Valorant 2PC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732241-valorant-2pc-bypass.html)|`2026-01-06 05:58:03`|`valorant`|
 |10|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-06 07:56:28`|`anti-cheat-bypass`|
+|4|[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-06 21:58:53`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
