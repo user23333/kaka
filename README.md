@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-07 03:13:00`|`Other FPS Games`|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-07 03:12:00`|`Other FPS Games`|
+|[CURRENT BOT LOBBY METHOD &#40;INFINITE LOBBY GLITCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730683-current-bot-lobby-method-infinite-lobby-glitch.html)|`2026-01-07 03:01:00`|`Call of Duty: Black Ops 7`|
 |[PUBG GLOBAL 4&#46;2 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732695-pubg-global-4-2-ue4-offsets.html)|`2026-01-07 02:56:00`|`PUBG Mobile`|
 |[External Offsets 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732694-external-offsets-4-2-a.html)|`2026-01-07 02:52:00`|`PUBG Mobile`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-07 02:50:00`|`Grand Theft Auto V`|
