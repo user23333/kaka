@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; January 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/732121-month-january-2026-a.html)|`2026-01-06 15:31:00`|`Member of the Month`|
+|[Can't buy the RC Bandito even though I don't own it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732430-cant-buy-rc-bandito-dont-own.html)|`2026-01-06 15:30:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-06 15:08:00`|`Call of Duty: Black Ops 7`|
 |[x64 Internal Lua Engine Hook & Dynamic Resolver &#40;Custom VM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731821-x64-internal-lua-engine-hook-dynamic-resolver-custom-vm.html)|`2026-01-06 14:48:00`|`General Programming and Reversing`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-06 14:43:00`|`Grand Theft Auto V`|
