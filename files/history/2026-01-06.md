@@ -28,9 +28,12 @@
 |211|[CustomLocalSaves 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52485)|`2026-01-06 00:00:18`|
 |1|[EFT Dump / 1&#46;0&#46;1&#46;0&#46;4265 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52540)|`2026-01-06 01:35:53`|
 |0|[HLLEpicGamesStore&#45;Win64&#45;Shipping&#45;PDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52547)|`2026-01-06 13:02:47`|
+|1|[maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52548)|`2026-01-06 13:33:45`|
+|5|[CSTestProject V1&#46;0&#46;9&#46;0 &#40;Without Silent&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52536)|`2026-01-06 13:33:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem &#124; qs&#45;Inventory &#45; Unlock Any Weapon etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731891-fivem-qs-inventory-unlock-weapon-etc.html)|`2026-01-06 13:18:00`|`Alternative Online Mods`|
 |[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-01-06 12:55:00`|`Other FPS Games`|
 |[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-06 12:04:00`|`Rainbow Six Siege`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-06 11:59:00`|`Palworld`|
