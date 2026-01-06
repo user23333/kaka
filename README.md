@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best &#40;worst&#41; of UC Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/227202-worst-uc-discord.html)|`2026-01-07 01:11:00`|`Off Topic`|
+|[Fivem &#124; qs&#45;Inventory &#45; Unlock Any Weapon etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731891-fivem-qs-inventory-unlock-weapon-etc.html)|`2026-01-07 01:07:00`|`Alternative Online Mods`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-07 01:01:00`|`ARC Raiders`|
+|[ESP for objects spawning in proximity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732679-esp-objects-spawning-proximity.html)|`2026-01-07 00:59:00`|`Alternative Online Mods`|
+|[Valorant True Stretched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732678-valorant-true-stretched.html)|`2026-01-07 00:59:00`|`Valorant`|
+|[Updated Fallout 76 Cheat Mod BA2s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732580-updated-fallout-76-cheat-mod-ba2s.html)|`2026-01-07 00:58:00`|`Other FPS Games`|
+|[ow2 bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732660-ow2-bans.html)|`2026-01-07 00:53:00`|`Overwatch`|
 |[Gunfire Reborn internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732618-gunfire-reborn-internal.html)|`2026-01-07 00:29:00`|`Other FPS Games`|
 |[Acronis Insurgency x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/731945-acronis-insurgency-x86.html)|`2026-01-07 00:19:00`|`Insurgency`|
 |[What bot lobby tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/732672-bot-lobby-tool.html)|`2026-01-07 00:19:00`|`Call of Duty: Black Ops 7`|
