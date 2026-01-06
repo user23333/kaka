@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-07 02:50:00`|`Grand Theft Auto V`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-07 02:40:00`|`Apex Legends`|
+|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-07 02:37:00`|`Anti-Cheat Bypass`|
+|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-01-07 02:30:00`|`Anti-Cheat Bypass`|
 |[Are  there any CE Tables for CC atm ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/732691-ce-tables-cc-atm.html)|`2026-01-07 02:22:00`|`Minecraft`|
 |[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2026-01-07 02:16:00`|`Apex Legends`|
 |[Any Working Dumper to get the latest SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/732475-dumper-sdk.html)|`2026-01-07 02:14:00`|`Sea of Thieves`|
