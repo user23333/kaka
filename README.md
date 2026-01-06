@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[online public lobby with menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732466-online-public-lobby-menu.html)|`2026-01-06 08:58:00`|`Grand Theft Auto V`|
+|[&#91;Article&#93; Yet Another DBVM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732302-article-dbvm-detection.html)|`2026-01-06 08:49:00`|`Anti-Cheat Bypass`|
+|[New Keyauth on mobile jni socket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732595-keyauth-mobile-jni-socket.html)|`2026-01-06 08:48:00`|`PUBG Mobile`|
+|[Cayo Perico GOLD Compound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732397-cayo-perico-gold-compound.html)|`2026-01-06 08:47:00`|`Grand Theft Auto V`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-01-06 08:38:00`|`Other FPS Games`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-01-06 08:33:00`|`Grand Theft Auto V`|
+|[Cheetos gRust hack &#91;More Soon&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/732377-cheetos-grust-hack-soon.html)|`2026-01-06 08:33:00`|`Garry's Mod`|
 |[Information about GO Anti&#45;Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/731569-information-anti-cheat.html)|`2026-01-06 07:29:00`|`Generals and Zero Hour`|
 |[Modulating Killstreak Sheen Color via CallBindProxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732485-modulating-killstreak-sheen-color-via-callbindproxy.html)|`2026-01-06 07:29:00`|`Team Fortress 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-01-06 07:18:00`|`Phasmophobia`|
