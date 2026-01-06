@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Alt:v esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732416-simple-alt-esp-aimbot.html)|`2026-01-06 22:16:00`|`Alternative Online Mods`|
+|[Bypassing anti&#45;cheat mouse detection using a Raspberry Pi development board](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732271-bypassing-anti-cheat-mouse-detection-using-raspberry-pi-development-board.html)|`2026-01-06 22:14:00`|`Anti-Cheat Bypass`|
+|[&#46;lua solomission yimmenu v2 &#45; Criminal Mastermind&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732657-lua-solomission-yimmenu-v2-criminal-mastermind.html)|`2026-01-06 22:10:00`|`Grand Theft Auto V`|
 |[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-01-06 21:25:00`|`Anti-Cheat Bypass`|
 |[How to Insta Sell with YimV2 Enhanced ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732652-insta-sell-yimv2-enhanced.html)|`2026-01-06 21:08:00`|`Grand Theft Auto V`|
 |[external chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732379-external-chams.html)|`2026-01-06 21:06:00`|`Counter-Strike 2`|
