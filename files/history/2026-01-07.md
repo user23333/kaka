@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-07 03:30:00`|`Counter-Strike 2`|
+|[Question about AD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/732617-question-ad.html)|`2026-01-07 03:26:00`|`Call of Duty: Black Ops 7`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-01-07 03:23:00`|`Call of Duty: Black Ops 7`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-07 03:22:00`|`Playerunknown's Battlegrounds`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-07 03:18:00`|`Other MMORPG and Strategy`|
+|[Internal vs External route for a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732697-internal-vs-external-route-beginner.html)|`2026-01-07 03:18:00`|`Counter-Strike 2`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-07 03:13:00`|`Other FPS Games`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-07 03:12:00`|`Other FPS Games`|
 |[CURRENT BOT LOBBY METHOD &#40;INFINITE LOBBY GLITCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730683-current-bot-lobby-method-infinite-lobby-glitch.html)|`2026-01-07 03:01:00`|`Call of Duty: Black Ops 7`|
