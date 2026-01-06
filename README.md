@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2026-01-07 04:42:00`|`ARC Raiders`|
+|[Universal Prediction that Actually Works &#40;Iterative Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732703-universal-prediction-actually-iterative-method.html)|`2026-01-07 04:39:00`|`Marvel Rivals`|
+|[memepdb &#45; hide femboy art in your pe file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/732702-memepdb-hide-femboy-art-pe-file.html)|`2026-01-07 04:36:00`|`C and C++`|
 |[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-07 04:20:00`|`Grand Theft Auto V`|
 |[I got HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731619-hwid-banned.html)|`2026-01-07 04:11:00`|`Valorant`|
 |[external chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732379-external-chams.html)|`2026-01-07 04:09:00`|`Counter-Strike 2`|
