@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ID3DXLine too slow?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732624-id3dxline-slow.html)|`2026-01-06 18:30:00`|`General Programming and Reversing`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-06 18:18:00`|`Other Games`|
 |[Plants vs Zombies Garden Warfare 2 &#45; Simple Cheat Engine Table &#91;October 8th Version&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/420515-plants-vs-zombies-garden-warfare-2-simple-cheat-engine-table-october-8th-version.html)|`2026-01-06 18:15:00`|`Other FPS Games`|
 |[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2026-01-06 17:44:00`|`Payday 2`|
 |[Stable rust bones method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730543-stable-rust-bones-method.html)|`2026-01-06 17:33:00`|`Rust`|
