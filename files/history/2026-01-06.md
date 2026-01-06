@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Status of VAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/731721-status-vac.html)|`2026-01-06 15:54:00`|`Team Fortress 2`|
 |[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-01-06 15:50:00`|`Call of Duty: Black Ops 7`|
 |[Xbox Version mods 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/732166-xbox-version-mods-2026-a.html)|`2026-01-06 15:42:00`|`Payday 3`|
 |[Member of the Month &#45; January 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/732121-month-january-2026-a.html)|`2026-01-06 15:31:00`|`Member of the Month`|
