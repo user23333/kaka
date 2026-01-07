@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyone got BFN EAAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732820-bfn-eaac-bypass.html)|`2026-01-07 23:16:00`|`Other Games`|
+|[Newbie here &#45; safe way to cheat in Valorant on single PC &#40;Gigabyte A320M&#45;S2H&#45;CF mobo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732817-newbie-safe-cheat-valorant-single-pc-gigabyte-a320m-s2h-cf-mobo.html)|`2026-01-07 23:09:00`|`Valorant`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-07 23:02:00`|`Apex Legends`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732807-hello.html)|`2026-01-07 22:57:00`|`Introductions`|
+|[Crossfire cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/720698-crossfire-cheat.html)|`2026-01-07 22:55:00`|`CrossFire`|
 |[Need help Find dash/moving](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/731722-help-dash-moving.html)|`2026-01-07 22:41:00`|`League of Legends`|
 |[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-07 22:34:00`|`Escape from Tarkov`|
 |[Captcha Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/732797-captcha-solver.html)|`2026-01-07 21:31:00`|`Minecraft`|
