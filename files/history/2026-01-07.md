@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vischeck DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/707208-vischeck-dma.html)|`2026-01-07 17:51:00`|`Playerunknown's Battlegrounds`|
 |[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2026-01-07 16:54:00`|`Call of Duty: Black Ops 7`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-07 16:49:00`|`Other FPS Games`|
 |[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2026-01-07 16:30:00`|`Anti-Cheat Bypass`|
