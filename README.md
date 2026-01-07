@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[be&#45;injector &#124; undetected battleye injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/498355-injector-undetected-battleye-injector.html)|`2026-01-08 00:55:00`|`Anti-Cheat Bypass`|
+|[Torrent empire table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/732826-torrent-empire-table.html)|`2026-01-08 00:54:00`|`Cheat Engine Tables`|
+|[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-08 00:54:00`|`Grand Theft Auto V`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2026-01-08 00:48:00`|`Grand Theft Auto V`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-01-08 00:48:00`|`Other MMORPG and Strategy`|
+|[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-08 00:37:00`|`Palworld`|
+|[CS2 Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728034-cs2-glow.html)|`2026-01-08 00:36:00`|`Counter-Strike 2`|
 |[Best &#40;worst&#41; of UC Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/227202-worst-uc-discord.html)|`2026-01-08 00:25:00`|`Off Topic`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-08 00:24:00`|`Other MMORPG and Strategy`|
 |[STALCRAFT X Simple chams and fullbright by Alzzz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731633-stalcraft-simple-chams-fullbright-alzzz.html)|`2026-01-08 00:23:00`|`Other FPS Games`|
