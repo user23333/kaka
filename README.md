@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-07 12:12:00`|`Counter-Strike 2`|
+|[Player Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/727025-player-structs.html)|`2026-01-07 12:04:00`|`Programming for Beginners`|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-07 12:04:00`|`Other FPS Games`|
 |[Tips/YT videos to learn coding a game cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/731068-tips-yt-videos-learn-coding-game-cheat.html)|`2026-01-07 11:56:00`|`Programming for Beginners`|
 |[someone got newest weapon ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732753-weapon-ids.html)|`2026-01-07 11:52:00`|`Counter-Strike 2`|
 |[injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732752-injection.html)|`2026-01-07 11:49:00`|`Counter-Strike 2`|
