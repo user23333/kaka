@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-08 04:54:00`|`Anti-Cheat Bypass`|
 |[VGK Decrypt 17&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732846-vgk-decrypt-17-17-a.html)|`2026-01-08 04:44:00`|`Valorant`|
 |[Modulating Killstreak Sheen Color via CallBindProxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732485-modulating-killstreak-sheen-color-via-callbindproxy.html)|`2026-01-08 04:44:00`|`Team Fortress 2`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-08 04:42:00`|`Other FPS Games`|
