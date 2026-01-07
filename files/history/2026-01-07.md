@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Epic Games Unlink Method Fully Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732745-epic-games-unlink-method-patched.html)|`2026-01-07 10:56:00`|`Grand Theft Auto V`|
+|[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2026-01-07 10:48:00`|`Payday 3`|
+|[External hitbox overlay aka ""chams""](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732412-external-hitbox-overlay-aka-chams.html)|`2026-01-07 10:46:00`|`Counter-Strike 2`|
+|[FTpm Spoofing, info pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732739-ftpm-spoofing-info-pls.html)|`2026-01-07 10:34:00`|`Valorant`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-01-07 10:33:00`|`Other FPS Games`|
+|[Can Somebody Recap DMA and IOMMU?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730517-recap-dma-iommu.html)|`2026-01-07 10:30:00`|`Anti-Cheat Bypass`|
 |[SoT injector&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721531-sot-injector.html)|`2026-01-07 08:59:00`|`Sea of Thieves`|
 |[Make an external CS2 bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732604-external-cs2-bhop.html)|`2026-01-07 08:33:00`|`Counter-Strike 2`|
 |[Schedule I &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/695780-schedule-internal.html)|`2026-01-07 08:30:00`|`Other Games`|
