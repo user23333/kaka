@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725524-bloodstrike-internal.html)|`2026-01-07 23:44:00`|`Other FPS Games`|
+|[HWID SPOOFING BYPASS &#40;FORTNITE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726344-hwid-spoofing-bypass-fortnite.html)|`2026-01-07 23:37:00`|`Anti-Cheat Bypass`|
+|[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2026-01-07 23:30:00`|`Other MMORPG and Strategy`|
 |[anyone got BFN EAAC bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732820-bfn-eaac-bypass.html)|`2026-01-07 23:16:00`|`Other Games`|
 |[Newbie here &#45; safe way to cheat in Valorant on single PC &#40;Gigabyte A320M&#45;S2H&#45;CF mobo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732817-newbie-safe-cheat-valorant-single-pc-gigabyte-a320m-s2h-cf-mobo.html)|`2026-01-07 23:09:00`|`Valorant`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-07 23:02:00`|`Apex Legends`|
