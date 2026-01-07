@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-08 01:54:00`|`Escape from Tarkov`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-08 01:52:00`|`Counter-Strike 2`|
+|[Y'all getting smacked without even loading into games rn or?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732567-yall-getting-smacked-loading-games-rn.html)|`2026-01-08 01:52:00`|`Marvel Rivals`|
+|[Internal Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732714-internal.html)|`2026-01-08 01:51:00`|`Alternative Online Mods`|
+|[valorant dll injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708406-valorant-dll-injector.html)|`2026-01-08 01:49:00`|`Valorant`|
+|[PUBG GLOBAL 4&#46;2 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732695-pubg-global-4-2-ue4-offsets.html)|`2026-01-08 01:48:00`|`PUBG Mobile`|
+|[UE4 OFFSETS x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732698-ue4-offsets-x32.html)|`2026-01-08 01:47:00`|`PUBG Mobile`|
+|[I need the latest offset from Valorant&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731434-offset-valorant.html)|`2026-01-08 01:46:00`|`Valorant`|
 |[Newbie here &#45; safe way to cheat in Valorant on single PC &#40;Gigabyte A320M&#45;S2H&#45;CF mobo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732817-newbie-safe-cheat-valorant-single-pc-gigabyte-a320m-s2h-cf-mobo.html)|`2026-01-08 01:42:00`|`Valorant`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-08 01:42:00`|`Rainbow Six Siege`|
 |[Grenade trajectory hot to make external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732831-grenade-trajectory-hot-external.html)|`2026-01-08 01:38:00`|`Counter-Strike 2`|
