@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offset to 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732788-offset-4-2-a.html)|`2026-01-07 20:00:00`|`PUBG Mobile`|
 |[Anti&#45;cheat bypass injector help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732786-anti-cheat-bypass-injector-help.html)|`2026-01-07 19:55:00`|`Anti-Cheat Bypass`|
 |[Free cloud code signing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732465-free-cloud-code-signing.html)|`2026-01-07 19:28:00`|`Anti-Cheat Bypass`|
 |[WorldToScreen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/732784-worldtoscreen.html)|`2026-01-07 19:13:00`|`Minecraft`|
