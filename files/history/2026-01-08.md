@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK Decrypt 17&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732846-vgk-decrypt-17-17-a.html)|`2026-01-08 04:44:00`|`Valorant`|
+|[Modulating Killstreak Sheen Color via CallBindProxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732485-modulating-killstreak-sheen-color-via-callbindproxy.html)|`2026-01-08 04:44:00`|`Team Fortress 2`|
+|[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-08 04:42:00`|`Other FPS Games`|
+|[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2026-01-08 04:38:00`|`Counter-Strike 2 Releases`|
+|[Universal Prediction that Actually Works &#40;Iterative Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732703-universal-prediction-actually-iterative-method.html)|`2026-01-08 04:35:00`|`Marvel Rivals`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2026-01-08 04:35:00`|`Call of Duty: Black Ops 6`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-08 04:30:00`|`Other FPS Games`|
 |[delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732843-delay-ban.html)|`2026-01-08 04:26:00`|`Valorant`|
 |[Any way to add achievements on both Social Club and Steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732716-add-achievements-social-club-steam.html)|`2026-01-08 04:22:00`|`Grand Theft Auto V`|
 |[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-08 04:22:00`|`Anti-Cheat Bypass`|
