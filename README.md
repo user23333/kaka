@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[c&#43;&#43; help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/732781-help.html)|`2026-01-07 18:37:00`|`Call of Duty 6: Modern Warfare 2`|
+|[is there a arduino anti recoild for controller input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/732711-arduino-anti-recoild-controller-input.html)|`2026-01-07 18:30:00`|`Apex Legends`|
+|[Cheapest 2pc aim device?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732712-cheapest-2pc-aim-device.html)|`2026-01-07 18:24:00`|`Valorant`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-07 18:15:00`|`Overwatch`|
 |[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2026-01-07 18:06:00`|`Counter-Strike 2`|
 |[AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732780-autowall.html)|`2026-01-07 17:59:00`|`Counter-Strike 2`|
