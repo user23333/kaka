@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tips/YT videos to learn coding a game cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/731068-tips-yt-videos-learn-coding-game-cheat.html)|`2026-01-07 11:56:00`|`Programming for Beginners`|
+|[someone got newest weapon ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732753-weapon-ids.html)|`2026-01-07 11:52:00`|`Counter-Strike 2`|
+|[injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732752-injection.html)|`2026-01-07 11:49:00`|`Counter-Strike 2`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-07 11:42:00`|`Rainbow Six Siege`|
+|[New PUBGM 4&#46;2 UHD &#42; FPS offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732749-pubgm-4-2-uhd-fps-offsets.html)|`2026-01-07 11:36:00`|`PUBG Mobile`|
+|[how to make external hitsounds??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732748-external-hitsounds.html)|`2026-01-07 11:30:00`|`Counter-Strike 2`|
+|[Any way to add achievements on both Social Club and Steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732716-add-achievements-social-club-steam.html)|`2026-01-07 11:27:00`|`Grand Theft Auto V`|
 |[Epic Games Unlink Method Fully Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732745-epic-games-unlink-method-patched.html)|`2026-01-07 10:56:00`|`Grand Theft Auto V`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2026-01-07 10:48:00`|`Payday 3`|
 |[External hitbox overlay aka ""chams""](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732412-external-hitbox-overlay-aka-chams.html)|`2026-01-07 10:46:00`|`Counter-Strike 2`|
