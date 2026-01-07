@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-08 06:52:00`|`Counter-Strike 2`|
 |[Dead by Daylight &#45; External Findings & Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726324-dead-daylight-external-findings-information.html)|`2026-01-08 06:37:00`|`Other FPS Games`|
 |[NEW 4&#46;2 PUBGM 120&UHD Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732853-4-2-pubgm-120-uhd-offsets.html)|`2026-01-08 06:32:00`|`PUBG Mobile`|
 |[ツ Silent Night For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732840-silent-night-yimmenu.html)|`2026-01-08 06:21:00`|`Grand Theft Auto V`|
