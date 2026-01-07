@@ -25,9 +25,12 @@
 |211|[Tester&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52492)|`2026-01-07 00:25:57`|
 |29|[BSGLauncher&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52491)|`2026-01-07 00:25:57`|
 |408|[Bloodstrike internal fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52490)|`2026-01-07 00:25:57`|
+|2|[UC&#45;Live&#45;Preview&#45;0&#46;2&#46;0&#46;user&#46;js](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52560)|`2026-01-07 22:50:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help Find dash/moving](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/731722-help-dash-moving.html)|`2026-01-07 22:41:00`|`League of Legends`|
+|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-07 22:34:00`|`Escape from Tarkov`|
 |[Captcha Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/732797-captcha-solver.html)|`2026-01-07 21:31:00`|`Minecraft`|
 |[Teardown Lua Executor &#40;External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731782-teardown-lua-executor-external.html)|`2026-01-07 21:01:00`|`Other Games`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-01-07 20:57:00`|`Anti-Cheat Bypass`|
