@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-01-08 19:16:00`|`Grand Theft Auto V`|
+|[Cs2 Dumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732337-cs2-dumper-exe.html)|`2026-01-08 19:15:00`|`Counter-Strike 2`|
+|[I would like to get information about the transition phase from C to C&#43;&#43;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/732750-information-transition-phase.html)|`2026-01-08 19:11:00`|`C and C++`|
+|[YimMenu and Casino Rig slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732634-yimmenu-casino-rig-slots.html)|`2026-01-08 19:10:00`|`Grand Theft Auto V`|
 |[Liar's Bar Mod &#124; 0&#46;92 &#124; IL2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/685319-liars-bar-mod-0-92-il2cpp.html)|`2026-01-08 18:57:00`|`Other Games`|
 |[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2026-01-08 18:38:00`|`Escape from Tarkov`|
 |[No Man's Sky &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720149-mans-sky-internal.html)|`2026-01-08 18:13:00`|`Other Games`|
