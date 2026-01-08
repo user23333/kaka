@@ -25,9 +25,18 @@
 |78|[EasyAntiCheat&#95;EOS&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52494)|`2026-01-09 00:27:13`|
 |237|[Tester&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52492)|`2026-01-09 00:27:13`|
 |1|[megabonk 1&#46;0&#46;49 LanserMenu&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52565)|`2026-01-09 01:16:19`|
+|1|[Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52550)|`2026-01-09 01:44:05`|
+|1|[berserk 04&#46;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52525)|`2026-01-09 01:44:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gunfire Reborn internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732618-gunfire-reborn-internal.html)|`2026-01-09 01:39:00`|`Other FPS Games`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-09 01:36:00`|`Counter-Strike 2 Releases`|
+|[how do developers load drivers into kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731943-developers-load-drivers-kernel.html)|`2026-01-09 01:35:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-09 01:34:00`|`Call of Duty: Black Ops 7`|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-01-09 01:31:00`|`Counter-Strike 2 Releases`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-09 01:29:00`|`League of Legends`|
+|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-09 01:28:00`|`Counter-Strike 2`|
 |[external features?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732929-external-features.html)|`2026-01-09 01:10:00`|`Counter-Strike 2`|
 |[Getting Bone Matrix offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732928-getting-bone-matrix-offset.html)|`2026-01-09 01:09:00`|`Counter-Strike 2`|
 |[MEGABONK 1&#46;0&#46;49 hack modmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/732891-megabonk-1-0-49-hack-modmenu.html)|`2026-01-09 00:57:00`|`Other Single Player Games`|
