@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-01-09 07:14:00`|`Valorant`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-01-09 07:14:00`|`Paladins`|
+|[External Silent Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732941-external-silent-aimbot.html)|`2026-01-09 07:07:00`|`Counter-Strike 2`|
+|[How do I update &#91;removed&#93;ing offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732882-update-removed-ing-offsets.html)|`2026-01-09 07:04:00`|`Rust`|
+|[Perm Spoofer RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730423-perm-spoofer-rust.html)|`2026-01-09 06:56:00`|`Rust`|
 |[Epic Games unlink Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732968-epic-games-unlink-help.html)|`2026-01-09 06:58:00`|`Grand Theft Auto V`|
 |[Another addition to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/732825-addition-forum-moderation-staff-team.html)|`2026-01-09 06:58:00`|`Information and Announcements`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-09 06:47:00`|`Grand Theft Auto V`|
