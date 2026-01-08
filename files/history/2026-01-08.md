@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FOV Changer without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732422-fov-changer-decryption.html)|`2026-01-08 10:42:00`|`Rust`|
+|[BaseProjectile&#46;createdProjectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732868-baseprojectile-createdprojectiles.html)|`2026-01-08 10:41:00`|`Rust`|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-01-08 10:31:00`|`Other FPS Games`|
+|[some question about TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/726110-question-tft.html)|`2026-01-08 10:29:00`|`League of Legends`|
 |[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-08 08:55:00`|`Rainbow Six Siege`|
 |[Lua Script Runtimes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732860-lua-script-runtimes.html)|`2026-01-08 08:33:00`|`Alternative Online Mods`|
 |[injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732752-injection.html)|`2026-01-08 08:31:00`|`Counter-Strike 2`|
