@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current undetected money method using Yim Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/724257-current-undetected-money-method-using-yim-menu.html)|`2026-01-08 23:56:00`|`Grand Theft Auto V`|
+|[hypervisor developement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732395-hypervisor-developement.html)|`2026-01-08 23:55:00`|`General Programming and Reversing`|
 |[Apex Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731933-apex-console-cheats.html)|`2026-01-08 23:44:00`|`Apex Legends`|
 |[IDirect3DTexture9 textures randomly becoming invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/732917-idirect3dtexture9-textures-randomly-becoming-invalid.html)|`2026-01-08 23:28:00`|`Direct3D`|
 |[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2026-01-08 23:15:00`|`Counter-Strike 2`|
