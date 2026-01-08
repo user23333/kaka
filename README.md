@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Epic Games unlink Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732968-epic-games-unlink-help.html)|`2026-01-09 06:58:00`|`Grand Theft Auto V`|
+|[Another addition to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/732825-addition-forum-moderation-staff-team.html)|`2026-01-09 06:58:00`|`Information and Announcements`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-09 06:47:00`|`Grand Theft Auto V`|
 |[Is there any "safe" method to acquire free cars?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732126-safe-method-acquire-free-cars.html)|`2026-01-09 06:47:00`|`Grand Theft Auto V`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-01-09 06:43:00`|`Grand Theft Auto V`|
