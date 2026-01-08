@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2026-01-08 11:55:00`|`Call of Duty 6: Modern Warfare 2`|
+|[pauselock v2 release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/726182-pauselock-v2-release.html)|`2026-01-08 11:43:00`|`Deadlock`|
 |[FOV Changer without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732422-fov-changer-decryption.html)|`2026-01-08 10:42:00`|`Rust`|
 |[BaseProjectile&#46;createdProjectiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732868-baseprojectile-createdprojectiles.html)|`2026-01-08 10:41:00`|`Rust`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-01-08 10:31:00`|`Other FPS Games`|
