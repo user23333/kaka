@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MEGABONK 1&#46;0&#46;49 hack modmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/732891-megabonk-1-0-49-hack-modmenu.html)|`2026-01-08 19:40:00`|`Other Single Player Games`|
+|[Roblox's Instrumented Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732554-robloxs-instrumented-callbacks.html)|`2026-01-08 19:38:00`|`Anti-Cheat Bypass`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2026-01-08 19:32:00`|`THE FINALS`|
 |[Counter Strike Source v93 Legit Cheat &#40;Niefor&#46;ink&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/724707-counter-strike-source-v93-legit-cheat-niefor-ink.html)|`2026-01-08 19:25:00`|`CounterStrike Source`|
 |[Resources for a beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/732892-resources-beginner.html)|`2026-01-08 19:22:00`|`Programming for Beginners`|
