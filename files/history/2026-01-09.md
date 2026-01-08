@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-09 01:55:00`|`Counter-Strike 2`|
+|[Entity list offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/721648-entity-list-offset.html)|`2026-01-09 01:53:00`|`Deadlock`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-09 01:45:00`|`Other FPS Games`|
+|[Colorbot detection inconsistency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732935-colorbot-detection-inconsistency.html)|`2026-01-09 01:44:00`|`Valorant`|
 |[Gunfire Reborn internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732618-gunfire-reborn-internal.html)|`2026-01-09 01:39:00`|`Other FPS Games`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-09 01:36:00`|`Counter-Strike 2 Releases`|
 |[how do developers load drivers into kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731943-developers-load-drivers-kernel.html)|`2026-01-09 01:35:00`|`Anti-Cheat Bypass`|
