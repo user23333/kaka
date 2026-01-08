@@ -27,9 +27,12 @@
 |69|[EasyAntiCheat&#95;EOS&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52494)|`2026-01-08 00:30:57`|
 |217|[Tester&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52492)|`2026-01-08 00:30:57`|
 |30|[BSGLauncher&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52491)|`2026-01-08 00:30:57`|
+|3|[vgm&#46;unpacked&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52554)|`2026-01-08 23:25:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2026-01-08 23:15:00`|`Counter-Strike 2`|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2026-01-08 23:03:00`|`PUBG Releases`|
 |[Safest money making method on YimMenu V2 Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732915-safest-money-method-yimmenu-v2-enhanced.html)|`2026-01-08 22:39:00`|`Grand Theft Auto V`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2026-01-08 22:34:00`|`Anti-Cheat Bypass`|
 |[Post your Menu/GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/68024-post-menu-gui-framework.html)|`2026-01-08 22:20:00`|`C and C++`|
