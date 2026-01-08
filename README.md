@@ -12,6 +12,7 @@
 |5|[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-08 00:30:57`|`escape-from-tarkov`|
 |15|[BloodStrike Anti&#45;cheat Bypass &#40; Steam and Global &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732204-bloodstrike-anti-cheat-bypass-steam-global.html)|`2026-01-08 00:30:57`|`other-fps-games`|
 |10|[What really gets you banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732257-banned.html)|`2026-01-08 07:56:46`|`grand-theft-auto-v`|
+|14|[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-08 12:48:13`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Stealth &#45; Are these detection methods actually used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725039-dma-stealth-detection-methods-actually.html)|`2026-01-08 12:16:00`|`Anti-Cheat Bypass`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2026-01-08 12:09:00`|`Combat Master`|
 |[SastashaFied iw4x SP/Spec&#45;Ops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/722547-sastashafied-iw4x-sp-spec-ops.html)|`2026-01-08 11:55:00`|`Call of Duty 6: Modern Warfare 2`|
 |[pauselock v2 release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/726182-pauselock-v2-release.html)|`2026-01-08 11:43:00`|`Deadlock`|
 |[FOV Changer without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732422-fov-changer-decryption.html)|`2026-01-08 10:42:00`|`Rust`|
