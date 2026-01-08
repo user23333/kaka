@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-08 08:55:00`|`Rainbow Six Siege`|
+|[Lua Script Runtimes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732860-lua-script-runtimes.html)|`2026-01-08 08:33:00`|`Alternative Online Mods`|
+|[injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732752-injection.html)|`2026-01-08 08:31:00`|`Counter-Strike 2`|
+|[Fivem External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732592-fivem-external.html)|`2026-01-08 08:20:00`|`Alternative Online Mods`|
 |[PUBGM BackTrace 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732856-pubgm-backtrace-4-2-a.html)|`2026-01-08 07:24:00`|`PUBG Mobile`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-01-08 06:50:00`|`HELLDIVERS 2`|
 |[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-08 06:52:00`|`Counter-Strike 2`|
