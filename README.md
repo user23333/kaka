@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731933-apex-console-cheats.html)|`2026-01-08 23:44:00`|`Apex Legends`|
+|[IDirect3DTexture9 textures randomly becoming invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/732917-idirect3dtexture9-textures-randomly-becoming-invalid.html)|`2026-01-08 23:28:00`|`Direct3D`|
 |[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2026-01-08 23:15:00`|`Counter-Strike 2`|
 |[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2026-01-08 23:03:00`|`PUBG Releases`|
 |[Safest money making method on YimMenu V2 Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732915-safest-money-method-yimmenu-v2-enhanced.html)|`2026-01-08 22:39:00`|`Grand Theft Auto V`|
