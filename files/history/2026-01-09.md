@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727056-arc-raiders-rapid-fire-macro.html)|`2026-01-09 04:34:00`|`ARC Raiders`|
+|[BloodStrike Anti&#45;cheat Bypass &#40; Steam and Global &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732204-bloodstrike-anti-cheat-bypass-steam-global.html)|`2026-01-09 04:28:00`|`Other FPS Games`|
 |[PLEASE HELP ME YİMMENU DONT OPENİNG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732936-please-help-mmenu-dont-ng.html)|`2026-01-09 04:13:00`|`Grand Theft Auto V`|
 |[Soundboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732950-soundboard.html)|`2026-01-09 04:06:00`|`Alternative Online Mods`|
 |[For Honor Script AFK &#124; External &#124; Error&#45;Management &#124; XPBoost &#124; Undetected &#124; PixelScan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732949-honor-script-afk-external-error-management-xpboost-undetected-pixelscan.html)|`2026-01-09 04:05:00`|`Other Games`|
