@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CUserCmd & CCSGOInput help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732890-cusercmd-ccsgoinput-help.html)|`2026-01-08 20:33:00`|`Counter-Strike 2`|
+|[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-08 20:25:00`|`ARC Raiders`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-01-08 20:19:00`|`Rust`|
+|[BattleEye kicks me despite not injected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732903-battleeye-kicks-despite-injected.html)|`2026-01-08 20:19:00`|`Grand Theft Auto V`|
+|[How to Insta Sell with YimV2 Enhanced ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732652-insta-sell-yimv2-enhanced.html)|`2026-01-08 20:16:00`|`Grand Theft Auto V`|
+|[FOUND A WAY TO GET UNBANNED IN GTA ONLINE&#40;ONLY FOR STEAM AND EPIC IN ENHANCED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/725372-found-unbanned-gta-online-steam-epic-enhanced.html)|`2026-01-08 20:11:00`|`Grand Theft Auto V`|
 |[MEGABONK 1&#46;0&#46;49 hack modmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/732891-megabonk-1-0-49-hack-modmenu.html)|`2026-01-08 19:40:00`|`Other Single Player Games`|
 |[Roblox's Instrumented Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732554-robloxs-instrumented-callbacks.html)|`2026-01-08 19:38:00`|`Anti-Cheat Bypass`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2026-01-08 19:32:00`|`THE FINALS`|
