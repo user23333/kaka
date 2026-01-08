@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAKCU Script detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721412-makcu-script-detected.html)|`2026-01-08 17:22:00`|`Rust`|
+|[SoT injector&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/721531-sot-injector.html)|`2026-01-08 17:12:00`|`Sea of Thieves`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-08 17:10:00`|`Other FPS Games`|
+|[GMOD&#45;SDK &#124; Nice menu &#124; Free&#45;cam &#124; LUA Executor &#124; Lots of features &#124; Source Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/453047-gmod-sdk-nice-menu-free-cam-lua-executor-lots-features-source-included.html)|`2026-01-08 17:09:00`|`Garry's Mod`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-08 16:40:00`|`Counter-Strike 2`|
 |[Kernel&#45;mode injector with WHQL signed driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732224-kernel-mode-injector-whql-signed-driver.html)|`2026-01-08 14:39:00`|`General Programming and Reversing`|
 |[TX&#45;Admin Ban's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/667688-tx-admin-bans.html)|`2026-01-08 14:39:00`|`Alternative Online Mods`|
