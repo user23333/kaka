@@ -24,9 +24,19 @@
 |131|[CopyMyWrite V0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52497)|`2026-01-09 00:27:13`|
 |78|[EasyAntiCheat&#95;EOS&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52494)|`2026-01-09 00:27:13`|
 |237|[Tester&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52492)|`2026-01-09 00:27:13`|
+|1|[megabonk 1&#46;0&#46;49 LanserMenu&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52565)|`2026-01-09 01:16:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external features?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732929-external-features.html)|`2026-01-09 01:10:00`|`Counter-Strike 2`|
+|[Getting Bone Matrix offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732928-getting-bone-matrix-offset.html)|`2026-01-09 01:09:00`|`Counter-Strike 2`|
+|[MEGABONK 1&#46;0&#46;49 hack modmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/732891-megabonk-1-0-49-hack-modmenu.html)|`2026-01-09 00:57:00`|`Other Single Player Games`|
+|[Hourglass level exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/658140-hourglass-level-exploits.html)|`2026-01-09 00:57:00`|`Sea of Thieves`|
+|[Dead By Daylight External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732336-dead-daylight-external-source-code.html)|`2026-01-09 00:55:00`|`Other FPS Games`|
+|[The Legacy Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732909-legacy-trainer.html)|`2026-01-09 00:55:00`|`Other FPS Games`|
+|[The Legacy Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/732907-legacy-trainer.html)|`2026-01-09 00:55:00`|`Half Life`|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721188-skin-changer.html)|`2026-01-09 00:54:00`|`Marvel Rivals`|
+|[perm TPM SPOOF using Ventoy2Disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732923-perm-tpm-spoof-using-ventoy2disk.html)|`2026-01-09 00:54:00`|`Anti-Cheat Bypass`|
 |[UnKnoWnCheaTs Live Message Preview Extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732768-unknowncheats-live-message-preview-extension.html)|`2026-01-09 00:53:00`|`General Programming and Reversing`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-01-09 00:53:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-09 00:52:00`|`Other FPS Games`|
