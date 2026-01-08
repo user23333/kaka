@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-01-08 21:27:00`|`Farlight 84`|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2026-01-08 21:15:00`|`Marvel Rivals`|
+|[The Legacy Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732909-legacy-trainer.html)|`2026-01-08 21:12:00`|`Other FPS Games`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2026-01-08 21:11:00`|`PUBG Releases`|
+|[Simple Alt:v esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732416-simple-alt-esp-aimbot.html)|`2026-01-08 21:06:00`|`Alternative Online Mods`|
 |[CUserCmd & CCSGOInput help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732890-cusercmd-ccsgoinput-help.html)|`2026-01-08 20:33:00`|`Counter-Strike 2`|
 |[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-08 20:25:00`|`ARC Raiders`|
 |[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-01-08 20:19:00`|`Rust`|
