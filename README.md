@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733007-hello.html)|`2026-01-09 22:21:00`|`Introductions`|
+|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2026-01-09 22:18:00`|`Escape from Tarkov`|
 |[Camera without decryption or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733040-camera-decryption-emulation.html)|`2026-01-09 21:54:00`|`ARC Raiders`|
 |[Apex Console Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731933-apex-console-cheats.html)|`2026-01-09 21:51:00`|`Apex Legends`|
 |[How to create an external bhop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731251-create-external-bhop.html)|`2026-01-09 21:47:00`|`Counter-Strike 2`|
