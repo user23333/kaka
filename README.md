@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG Mobile &#40;x86&#95;64&#41; &#45; Valid GWorld/Level, but failing to read Enemy Locations &#40;Actor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732805-pubg-mobile-x86_64-valid-gworld-level-failing-read-enemy-locations-actor.html)|`2026-01-09 20:28:00`|`PUBG Mobile`|
+|[Another Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733029-driver.html)|`2026-01-09 20:24:00`|`Valorant`|
+|[key flagging python tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733028-key-flagging-python-tb.html)|`2026-01-09 20:17:00`|`Valorant`|
 |[Safe/Best Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/732097-safe-method.html)|`2026-01-09 19:33:00`|`Call of Duty: Black Ops 7`|
 |[Free cloud code signing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732465-free-cloud-code-signing.html)|`2026-01-09 19:25:00`|`Anti-Cheat Bypass`|
 |[How i can create Viewmodel changer&#46; X,Y,Z?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733023-create-viewmodel-changer.html)|`2026-01-09 19:23:00`|`Rust`|
