@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-09 22:50:00`|`Other Games`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-09 22:50:00`|`Apex Legends`|
+|[Arc Raiders Console &#40;night vision ultra wide fov&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733045-arc-raiders-console-night-vision-ultra-wide-fov.html)|`2026-01-09 22:46:00`|`ARC Raiders`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-09 22:45:00`|`Marvel Rivals`|
 |[8 Ball Pool Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/584989-8-ball-pool-reverse-engineering.html)|`2026-01-09 22:12:00`|`Other Games`|
 |[Hello&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733007-hello.html)|`2026-01-09 22:21:00`|`Introductions`|
