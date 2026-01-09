@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams Cheat &#43; Weapon,hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/727182-chams-cheat-weapon-hand-chams.html)|`2026-01-09 10:48:00`|`Farlight 84`|
+|[Question about bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732986-question-bans.html)|`2026-01-09 10:32:00`|`Rust`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-09 08:39:00`|`Counter-Strike 2`|
 |[Help with ViewMatrix AssaultCube 1&#46;2&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731980-help-viewmatrix-assaultcube-1-2-0-2-a.html)|`2026-01-09 08:37:00`|`General Programming and Reversing`|
 |[Counter&#45;Strike 2 &#124; External thirdperson & silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728392-counter-strike-2-external-thirdperson-silent-aim.html)|`2026-01-09 08:35:00`|`Counter-Strike 2`|
