@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-01-09 12:22:00`|`Unity`|
+|[Apex API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/729514-apex-api.html)|`2026-01-09 12:14:00`|`Apex Legends`|
+|[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2026-01-09 12:09:00`|`Anti-Cheat Bypass`|
+|[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-09 12:05:00`|`Other MMORPG and Strategy`|
 |[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2026-01-09 11:51:00`|`Battlefield 6`|
 |[Cheap 2pc setup to stay rather ud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732990-cheap-2pc-setup-stay-ud.html)|`2026-01-09 11:42:00`|`Valorant`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-09 11:35:00`|`Grand Theft Auto V`|
