@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2026-01-09 11:51:00`|`Battlefield 6`|
+|[Cheap 2pc setup to stay rather ud](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732990-cheap-2pc-setup-stay-ud.html)|`2026-01-09 11:42:00`|`Valorant`|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-09 11:35:00`|`Grand Theft Auto V`|
+|[PUBGM BackTrace 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732856-pubgm-backtrace-4-2-a.html)|`2026-01-09 11:14:00`|`PUBG Mobile`|
+|[CURRENT BOT LOBBY METHOD &#40;INFINITE LOBBY GLITCH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/730683-current-bot-lobby-method-infinite-lobby-glitch.html)|`2026-01-09 11:01:00`|`Call of Duty: Black Ops 7`|
+|[Tried to update sigma rivals no clue why it came out like this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732759-tried-update-sigma-rivals-clue.html)|`2026-01-09 10:57:00`|`Marvel Rivals`|
 |[Chams Cheat &#43; Weapon,hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/727182-chams-cheat-weapon-hand-chams.html)|`2026-01-09 10:48:00`|`Farlight 84`|
 |[Question about bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732986-question-bans.html)|`2026-01-09 10:32:00`|`Rust`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-09 08:39:00`|`Counter-Strike 2`|
