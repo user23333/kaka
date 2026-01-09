@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing rotations serverside](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732975-changing-rotations-serverside.html)|`2026-01-10 06:56:00`|`Marvel Rivals`|
+|[yet another mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733106-mouse-movement-method.html)|`2026-01-10 06:52:00`|`Anti-Cheat Bypass`|
+|[Rust player inventory active item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733105-rust-player-inventory-active-item.html)|`2026-01-10 06:51:00`|`Rust`|
 |[&#46;lua solomission yimmenu v2 &#45; Criminal Mastermind&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732657-lua-solomission-yimmenu-v2-criminal-mastermind.html)|`2026-01-10 06:28:00`|`Grand Theft Auto V`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2026-01-10 06:24:00`|`Forum General`|
 |[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-10 06:14:00`|`ARC Raiders`|
