@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to use the Color Bot, is it worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733055-color-bot-worth.html)|`2026-01-09 23:35:00`|`Valorant`|
+|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-09 23:34:00`|`Anti-Cheat Bypass`|
+|[CS 2 Panorama UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733025-cs-2-panorama-ui.html)|`2026-01-09 23:24:00`|`Counter-Strike 2`|
 |[internal spawnbullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729303-internal-spawnbullet.html)|`2026-01-09 23:12:00`|`Alternative Online Mods`|
 |[nATHAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733049-nathan.html)|`2026-01-09 22:54:00`|`Introductions`|
 |[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-09 22:50:00`|`Other Games`|
