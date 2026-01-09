@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-10 03:24:00`|`Grand Theft Auto V`|
+|[Reliable Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732956-reliable-injector.html)|`2026-01-10 03:22:00`|`Team Fortress 2`|
+|[CS2 BT Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730538-cs2-bt-issues.html)|`2026-01-10 03:10:00`|`Counter-Strike 2`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-01-10 03:07:00`|`Grand Theft Auto V`|
+|[no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725871-spread.html)|`2026-01-10 03:05:00`|`Counter-Strike 2`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-10 02:59:00`|`Overwatch`|
 |[how to make external ammo bar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732837-external-ammo-bar.html)|`2026-01-10 02:57:00`|`Counter-Strike 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-10 02:51:00`|`League of Legends`|
