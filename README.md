@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ALL OFFSETS ESP PUBGM V4&#46;2&#46;0 x32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733097-offsets-esp-pubgm-v4-2-0-x32bit.html)|`2026-01-10 05:44:00`|`PUBG Mobile`|
+|[Ingame Steam account switching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/729276-ingame-steam-account-switching.html)|`2026-01-10 05:44:00`|`Counterstrike Global Offensive`|
+|[hypervisor developement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732395-hypervisor-developement.html)|`2026-01-10 05:36:00`|`Anti-Cheat Bypass`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2026-01-10 05:35:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-10 05:20:00`|`Call of Duty: Black Ops 7`|
 |[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2026-01-10 05:19:00`|`General Programming and Reversing`|
 |[hypervisor developement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732395-hypervisor-developement.html)|`2026-01-10 05:14:00`|`General Programming and Reversing`|
