@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My cheat keeps crashing no matter what I do](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/733062-cheat-crashing-matter.html)|`2026-01-10 00:53:00`|`Marvel Rivals`|
+|[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2026-01-10 00:38:00`|`Anti-Cheat Bypass`|
+|[Attaching debugger without early exit trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733001-attaching-debugger-exit-trap.html)|`2026-01-10 00:38:00`|`Alternative Online Mods`|
 |[Remove support crew for the cayo perico heist / Edit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733059-remove-support-crew-cayo-perico-heist-edit.html)|`2026-01-10 00:27:00`|`Grand Theft Auto V`|
 |[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-10 00:21:00`|`Escape from Tarkov`|
 |[My Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732760-introduction.html)|`2026-01-10 00:13:00`|`Introductions`|
