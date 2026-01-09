@@ -11,6 +11,7 @@
 |14|[What really gets you banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732257-banned.html)|`2026-01-10 00:00:03`|`grand-theft-auto-v`|
 |16|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-10 00:00:03`|`other-mmorpg-and-strategy`|
 |14|[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-10 00:00:03`|`grand-theft-auto-v`|
+|13|[Cerebro Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732919-cerebro-analysis.html)|`2026-01-10 02:51:30`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-10 02:51:00`|`League of Legends`|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2026-01-10 02:39:00`|`Other FPS Games`|
+|[How to Unlock Notes in Ark: Survival Ascended?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730727-unlock-notes-ark-survival-ascended.html)|`2026-01-10 02:36:00`|`Other FPS Games`|
+|[Chams Cheat &#43; Weapon,hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/727182-chams-cheat-weapon-hand-chams.html)|`2026-01-10 02:33:00`|`Farlight 84`|
 |[Bypassing bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733072-bypassing-bans.html)|`2026-01-10 02:18:00`|`Alternative Online Mods`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-10 02:14:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-10 02:13:00`|`Other FPS Games`|
