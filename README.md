@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there an offset for reading the games fps?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733011-offset-reading-games-fps.html)|`2026-01-09 19:00:00`|`Counter-Strike 2`|
+|[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-09 18:49:00`|`Anti-Cheat Bypass`|
 |[FGunz ColorAimbot/Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/731517-fgunz-coloraimbot-assist.html)|`2026-01-09 18:23:00`|`GunZ`|
 |[HackTheBox Reversing and GamePwn modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732906-hackthebox-reversing-gamepwn-modules.html)|`2026-01-09 18:19:00`|`General Programming and Reversing`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-01-09 17:50:00`|`Grand Theft Auto V`|
