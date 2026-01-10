@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-01-11 03:09:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-11 03:09:00`|`Escape from Tarkov`|
+|[Bypassing bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733072-bypassing-bans.html)|`2026-01-11 03:08:00`|`Alternative Online Mods`|
+|[How to launch multiple steam game clients?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733214-launch-multiple-steam-game-clients.html)|`2026-01-11 03:08:00`|`Forum General`|
+|[any cheats for iw8&#45;mod ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/733212-cheats-iw8-mod.html)|`2026-01-11 03:07:00`|`Call of Duty: Modern Warfare`|
 |[Mouse Input Manipulation/Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731751-mouse-input-manipulation-modification.html)|`2026-01-11 02:48:00`|`General Programming and Reversing`|
 |[Obtaining Champions from the Offset Shop Structure in TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/732881-obtaining-champions-offset-shop-structure-tft.html)|`2026-01-11 02:47:00`|`League of Legends`|
 |[Injector / Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727238-injector-stealer.html)|`2026-01-11 02:39:00`|`Garry's Mod`|
