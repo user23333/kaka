@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-11 06:35:00`|`Rainbow Six Siege`|
+|[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-11 06:31:00`|`Rainbow Six Siege`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-11 06:31:00`|`Call of Duty: Black Ops 7`|
+|[anti silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715322-anti-silent-aim.html)|`2026-01-11 06:24:00`|`Alternative Online Mods`|
 |[New member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733231-new-member.html)|`2026-01-11 05:59:00`|`Introductions`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-11 05:57:00`|`Alternative Online Mods`|
 |[Pixel Gun 3D Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/719939-pixel-gun-3d-cheat.html)|`2026-01-11 05:56:00`|`Other Games`|
