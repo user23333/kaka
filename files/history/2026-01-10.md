@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant memory access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732920-valorant-memory-access.html)|`2026-01-10 22:50:00`|`Valorant`|
+|[For Honor Script AFK &#124; External &#124; Error&#45;Management &#124; XPBoost &#124; Undetected &#124; PixelScan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732949-honor-script-afk-external-error-management-xpboost-undetected-pixelscan.html)|`2026-01-10 22:48:00`|`Other Games`|
 |[PUBG GLOBAL 4&#46;2 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732695-pubg-global-4-2-ue4-offsets.html)|`2026-01-10 22:38:00`|`PUBG Mobile`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2026-01-10 22:31:00`|`Other FPS Games`|
 |[Help me, any fix or maybe some script exist for this??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733174-help-fix-maybe-script-exist.html)|`2026-01-10 22:19:00`|`Grand Theft Auto V`|
