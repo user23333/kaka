@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it delay ban or what?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732995-delay-ban.html)|`2026-01-10 19:36:00`|`Valorant`|
+|[Another Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733029-driver.html)|`2026-01-10 19:33:00`|`Valorant`|
+|[&#91;Article&#93; Yet Another DBVM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732302-article-dbvm-detection.html)|`2026-01-10 19:31:00`|`Anti-Cheat Bypass`|
 |[Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/732283-driver.html)|`2026-01-10 19:23:00`|`Forum General`|
 |[&#91;Help&#93; Correct CCSGOInput::GetUserCmd logic/offsets for Index 5 Hook?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730511-help-correct-ccsgoinput-getusercmd-logic-offsets-index-5-hook.html)|`2026-01-10 19:15:00`|`Counter-Strike 2`|
 |[DELAY BAN ISSUE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733153-delay-ban-issue.html)|`2026-01-10 19:14:00`|`Valorant`|
