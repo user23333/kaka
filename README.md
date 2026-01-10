@@ -32,9 +32,14 @@
 |8|[vgc&#46;unpacked&#46;exe&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52567)|`2026-01-11 07:29:07`|
 |3|[Jocasta Protocol 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52559)|`2026-01-11 07:29:07`|
 |1|[thelegacy for unknowcheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52576)|`2026-01-11 07:39:54`|
+|6|[ARC Raiders SDK  21447704](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52584)|`2026-01-11 07:47:37`|
+|1|[TRCheatv1&#46;3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52575)|`2026-01-11 07:47:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-11 07:46:00`|`Apex Legends`|
+|[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-11 07:43:00`|`Other MMORPG and Strategy`|
+|[Friends keep dropping from lobby during Playlists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733243-friends-dropping-lobby-playlists.html)|`2026-01-11 07:42:00`|`Grand Theft Auto V`|
 |[Ready or Not Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733238-ready-multihack.html)|`2026-01-11 07:39:00`|`Other FPS Games`|
 |[Why brute force for eac cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732011-brute-force-eac-cr3.html)|`2026-01-11 07:37:00`|`Anti-Cheat Bypass`|
 |[YimMenu V2 Spoof Hash Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731393-yimmenu-v2-spoof-hash-data.html)|`2026-01-11 07:36:00`|`Grand Theft Auto V`|
