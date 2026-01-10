@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COD Decryption & Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728601-cod-decryption-memory-dumper.html)|`2026-01-10 13:18:00`|`Call of Duty: Black Ops 7`|
+|[how i ca nget helmet&#43;kevlar and kit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733132-ca-nget-helmet-kevlar-kit.html)|`2026-01-10 13:17:00`|`Counter-Strike 2`|
+|[How people makes zero&#45;recoil for PUBG?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/733130-people-makes-zero-recoil-pubg.html)|`2026-01-10 13:06:00`|`Playerunknown's Battlegrounds`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-01-10 13:00:00`|`Other FPS Games`|
 |[Latest offsets ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733032-offsets.html)|`2026-01-10 12:52:00`|`Rainbow Six Siege`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-10 12:49:00`|`Grand Theft Auto V`|
 |[RUCOY ONLINE FARMING BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730404-rucoy-online-farming-bot.html)|`2026-01-10 12:37:00`|`Other Games`|
