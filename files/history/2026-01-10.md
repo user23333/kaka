@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dump server using X&#45;CitizenFX&#45;Token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/722415-dump-server-using-citizenfx-token.html)|`2026-01-10 15:10:00`|`Alternative Online Mods`|
+|[PANOPTYCA : Idle RPG Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/727441-panoptyca-idle-rpg-manager.html)|`2026-01-10 15:03:00`|`Cheat Engine Tables`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-10 14:36:00`|`Other FPS Games`|
 |[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2026-01-10 14:04:00`|`Anti-Cheat Bypass`|
 |[working on a project for 8bp ios, and need some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ios/704045-project-8bp-ios-help.html)|`2026-01-10 13:41:00`|`iOS`|
