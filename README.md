@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sham&#91;removed&#93;&#45;x64 injector for tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732133-sham-removed-x64-injector-tf2.html)|`2026-01-10 23:19:00`|`Team Fortress 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-10 23:14:00`|`ARC Raiders`|
+|[Agency loop detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733181-agency-loop-detected.html)|`2026-01-10 23:10:00`|`Grand Theft Auto V`|
+|[PUBG Mobile &#40;x86&#95;64&#41; &#45; Valid GWorld/Level, but failing to read Enemy Locations &#40;Actor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732805-pubg-mobile-x86_64-valid-gworld-level-failing-read-enemy-locations-actor.html)|`2026-01-10 23:05:00`|`PUBG Mobile`|
+|[MAKCU Script detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721412-makcu-script-detected.html)|`2026-01-10 23:01:00`|`Rust`|
+|[BO7 Bot Lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/725556-bo7-bot-lobby.html)|`2026-01-10 22:55:00`|`Call of Duty: Black Ops 7`|
 |[Valorant memory access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732920-valorant-memory-access.html)|`2026-01-10 22:50:00`|`Valorant`|
 |[For Honor Script AFK &#124; External &#124; Error&#45;Management &#124; XPBoost &#124; Undetected &#124; PixelScan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732949-honor-script-afk-external-error-management-xpboost-undetected-pixelscan.html)|`2026-01-10 22:48:00`|`Other Games`|
 |[PUBG GLOBAL 4&#46;2 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732695-pubg-global-4-2-ue4-offsets.html)|`2026-01-10 22:38:00`|`PUBG Mobile`|
