@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG GLOBAL 4&#46;2 UE4 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732695-pubg-global-4-2-ue4-offsets.html)|`2026-01-10 22:38:00`|`PUBG Mobile`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2026-01-10 22:31:00`|`Other FPS Games`|
 |[Help me, any fix or maybe some script exist for this??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733174-help-fix-maybe-script-exist.html)|`2026-01-10 22:19:00`|`Grand Theft Auto V`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2026-01-10 22:19:00`|`Garry's Mod`|
