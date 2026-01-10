@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheats for Dreadmyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733165-cheats-dreadmyst.html)|`2026-01-10 20:56:00`|`Other MMORPG and Strategy`|
+|[SCP:SL Spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728334-scp-sl-spoofer.html)|`2026-01-10 20:32:00`|`Other Games`|
 |[Info to all stuff to player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733161-info-stuff-player.html)|`2026-01-10 20:16:00`|`Counter-Strike 2`|
 |[key flagging python tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733028-key-flagging-python-tb.html)|`2026-01-10 19:54:00`|`Valorant`|
 |[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2026-01-10 19:51:00`|`Anti-Cheat Bypass`|
