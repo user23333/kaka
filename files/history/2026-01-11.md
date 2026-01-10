@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733200-valorant-temp-ban.html)|`2026-01-11 03:47:00`|`Valorant`|
 |[Arduino Pro Micro Mouse move problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733218-arduino-pro-micro-mouse-move.html)|`2026-01-11 03:44:00`|`Valorant`|
 |[Tried to update sigma rivals no clue why it came out like this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732759-tried-update-sigma-rivals-clue.html)|`2026-01-11 03:40:00`|`Marvel Rivals`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-01-11 03:40:00`|`Other FPS Games`|
