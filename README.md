@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[key flagging python tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733028-key-flagging-python-tb.html)|`2026-01-10 19:54:00`|`Valorant`|
+|[EAC&#95;EOS&#46;sys Static Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731114-eac_eos-sys-static-analysis.html)|`2026-01-10 19:51:00`|`Anti-Cheat Bypass`|
 |[Is it delay ban or what?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732995-delay-ban.html)|`2026-01-10 19:36:00`|`Valorant`|
 |[Another Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733029-driver.html)|`2026-01-10 19:33:00`|`Valorant`|
 |[&#91;Article&#93; Yet Another DBVM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732302-article-dbvm-detection.html)|`2026-01-10 19:31:00`|`Anti-Cheat Bypass`|
