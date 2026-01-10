@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help me, any fix or maybe some script exist for this??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733174-help-fix-maybe-script-exist.html)|`2026-01-10 22:19:00`|`Grand Theft Auto V`|
+|[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2026-01-10 22:19:00`|`Garry's Mod`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-10 22:17:00`|`Counter-Strike 2`|
+|[PUBG Mobile – Weapon / Item ID to Display Name Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733176-pubg-mobile-weapon-item-id-display-name-mapping.html)|`2026-01-10 22:13:00`|`PUBG Mobile`|
+|[Deathground Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733173-deathground-internal.html)|`2026-01-10 22:04:00`|`Other FPS Games`|
 |[WalkBot Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733171-walkbot-source-code.html)|`2026-01-10 21:54:00`|`Counter-Strike 2`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-01-10 21:53:00`|`Grand Theft Auto V`|
 |[UE4 OFFSETS x32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732698-ue4-offsets-x32.html)|`2026-01-10 21:44:00`|`PUBG Mobile`|
