@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[working on a project for 8bp ios, and need some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ios/704045-project-8bp-ios-help.html)|`2026-01-10 13:41:00`|`iOS`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-10 13:44:00`|`Other MMORPG and Strategy`|
 |[Risk of Tears &#45; Risk of Rain 2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/633262-risk-tears-risk-rain-2-internal-cheat.html)|`2026-01-10 13:33:00`|`Other FPS Games`|
 |[Virtual to Physical Address Translation Explained](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727858-virtual-physical-address-translation-explained.html)|`2026-01-10 13:30:00`|`C and C++`|
