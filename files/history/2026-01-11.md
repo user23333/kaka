@@ -31,9 +31,16 @@
 |2|[amenhermano mapped driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52573)|`2026-01-11 07:29:07`|
 |8|[vgc&#46;unpacked&#46;exe&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52567)|`2026-01-11 07:29:07`|
 |3|[Jocasta Protocol 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52559)|`2026-01-11 07:29:07`|
+|1|[thelegacy for unknowcheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52576)|`2026-01-11 07:39:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready or Not Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733238-ready-multihack.html)|`2026-01-11 07:39:00`|`Other FPS Games`|
+|[Why brute force for eac cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732011-brute-force-eac-cr3.html)|`2026-01-11 07:37:00`|`Anti-Cheat Bypass`|
+|[YimMenu V2 Spoof Hash Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731393-yimmenu-v2-spoof-hash-data.html)|`2026-01-11 07:36:00`|`Grand Theft Auto V`|
+|[infinite loading into gta online with yimmenuv2 on](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733242-infinite-loading-gta-online-yimmenuv2.html)|`2026-01-11 07:35:00`|`Grand Theft Auto V`|
+|[The Legacy Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732909-legacy-trainer.html)|`2026-01-11 07:31:00`|`Other FPS Games`|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-11 07:30:00`|`Among Us`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-11 07:28:00`|`Marvel Rivals`|
 |[farming hours on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/732506-farming-hours-steam.html)|`2026-01-11 07:27:00`|`Phasmophobia`|
 |[Dota 2 Melonity spoofer decompiled script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686842-dota-2-melonity-spoofer-decompiled-script.html)|`2026-01-11 07:21:00`|`Other MMORPG and Strategy`|
