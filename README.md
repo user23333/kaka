@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PUBG No recoil macro For all razer mouse using Razer synapse &#91;Undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/658324-pubg-recoil-macro-razer-mouse-using-razer-synapse-undetected.html)|`2026-01-10 15:39:00`|`PUBG Releases`|
+|[BloodStrike Anti&#45;cheat Bypass &#40; Steam and Global &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732204-bloodstrike-anti-cheat-bypass-steam-global.html)|`2026-01-10 15:13:00`|`Other FPS Games`|
 |[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733137-code-obfuscation-techniques.html)|`2026-01-10 15:45:00`|`Anti-Cheat Bypass`|
 |[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-01-10 15:43:00`|`C and C++`|
 |[Another addition to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/732825-addition-forum-moderation-staff-team.html)|`2026-01-10 15:24:00`|`Information and Announcements`|
