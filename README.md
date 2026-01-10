@@ -11,6 +11,7 @@
 |5|[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-11 00:14:25`|`arc-raiders`|
 |8|[&#91;Article&#93; Yet Another DBVM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732302-article-dbvm-detection.html)|`2026-01-11 00:14:25`|`anti-cheat-bypass`|
 |6|[ツ Silent Night For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732840-silent-night-yimmenu.html)|`2026-01-11 00:14:25`|`grand-theft-auto-v`|
+|6|[External hitbox overlay aka ""chams""](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732412-external-hitbox-overlay-aka-chams.html)|`2026-01-11 02:56:53`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse Input Manipulation/Modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731751-mouse-input-manipulation-modification.html)|`2026-01-11 02:48:00`|`General Programming and Reversing`|
+|[Obtaining Champions from the Offset Shop Structure in TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/732881-obtaining-champions-offset-shop-structure-tft.html)|`2026-01-11 02:47:00`|`League of Legends`|
 |[Injector / Stealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/727238-injector-stealer.html)|`2026-01-11 02:39:00`|`Garry's Mod`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721188-skin-changer.html)|`2026-01-11 02:29:00`|`Marvel Rivals`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-11 02:29:00`|`Tom Clancy's The Division`|
