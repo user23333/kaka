@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2026-01-11 07:56:00`|`Anti-Cheat Bypass`|
 |[UnKnoWnCheaTs Live Message Preview Extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732768-unknowncheats-live-message-preview-extension.html)|`2026-01-11 07:49:00`|`General Programming and Reversing`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-11 07:46:00`|`Apex Legends`|
 |[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-11 07:43:00`|`Other MMORPG and Strategy`|
