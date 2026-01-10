@@ -13,6 +13,8 @@
 |14|[Bypass BE &#43; Mansion Stat legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732124-bypass-mansion-stat-legacy.html)|`2026-01-10 00:00:03`|`grand-theft-auto-v`|
 |13|[Cerebro Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732919-cerebro-analysis.html)|`2026-01-10 02:51:30`|`anti-cheat-bypass`|
 |11|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-10 05:18:44`|`escape-from-tarkov`|
+|7|[&#91;Article&#93; Yet Another DBVM Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732302-article-dbvm-detection.html)|`2026-01-10 10:56:55`|`anti-cheat-bypass`|
+|5|[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-10 10:56:55`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +29,17 @@
 |437|[CSTestProject V1&#46;0&#46;9&#46;0 &#40;Without Silent&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52536)|`2026-01-10 00:00:03`|
 |45|[berserk 04&#46;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52525)|`2026-01-10 00:00:03`|
 |3|[ArcRaiders&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52535)|`2026-01-10 06:17:27`|
+|1|[Roblox External esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52572)|`2026-01-10 10:56:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Guide on how to bypass Forensic based ACs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712060-guide-bypass-forensic-based-acs.html)|`2026-01-10 10:53:00`|`Anti-Cheat Bypass`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-01-10 10:50:00`|`Grand Theft Auto V`|
+|[YimMenu 1&#46;72 b3725 legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731598-yimmenu-1-72-b3725-legacy.html)|`2026-01-10 10:50:00`|`Grand Theft Auto V`|
+|[I get a HWID BAN every time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733088-hwid-ban-time.html)|`2026-01-10 10:49:00`|`Valorant`|
+|[&#91;2025&#93; Internal Autopot/Macro Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/731389-2025-internal-autopot-macro-release.html)|`2026-01-10 10:48:00`|`Ragnarok`|
+|[YimMenu V2 Spoof Hash Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731393-yimmenu-v2-spoof-hash-data.html)|`2026-01-10 10:47:00`|`Grand Theft Auto V`|
+|[Permanent MAC change for USB network adapter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731486-permanent-mac-change-usb-network-adapter.html)|`2026-01-10 10:44:00`|`Anti-Cheat Bypass`|
 |[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/733116-additions-staff-team.html)|`2026-01-10 09:00:00`|`Information and Announcements`|
 |[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2026-01-10 08:54:00`|`Escape from Tarkov`|
 |[smm optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733115-smm-optimization.html)|`2026-01-10 08:29:00`|`Rust`|
