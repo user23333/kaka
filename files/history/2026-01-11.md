@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-11 04:17:00`|`Other FPS Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-11 04:15:00`|`Other MMORPG and Strategy`|
+|[Punkbuster WriteProcessMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731835-punkbuster-writeprocessmemory.html)|`2026-01-11 04:15:00`|`Anti-Cheat Bypass`|
+|[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-11 04:03:00`|`Escape from Tarkov`|
+|[How people makes zero&#45;recoil for PUBG?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/733130-people-makes-zero-recoil-pubg.html)|`2026-01-11 04:01:00`|`Playerunknown's Battlegrounds`|
 |[Valorant Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733200-valorant-temp-ban.html)|`2026-01-11 03:47:00`|`Valorant`|
 |[Arduino Pro Micro Mouse move problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733218-arduino-pro-micro-mouse-move.html)|`2026-01-11 03:44:00`|`Valorant`|
 |[Tried to update sigma rivals no clue why it came out like this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732759-tried-update-sigma-rivals-clue.html)|`2026-01-11 03:40:00`|`Marvel Rivals`|
