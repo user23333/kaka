@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-10 17:52:00`|`ARC Raiders`|
 |[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2026-01-10 17:41:00`|`Escape from Tarkov`|
 |[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-10 17:29:00`|`Other Games`|
 |[Arc Raiders Console &#40;night vision ultra wide fov&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733045-arc-raiders-console-night-vision-ultra-wide-fov.html)|`2026-01-10 17:28:00`|`ARC Raiders`|
