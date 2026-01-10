@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help finding actor arrays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/731796-help-finding-actor-arrays.html)|`2026-01-10 11:53:00`|`Forum General`|
+|[DayZ Radar Development &#45; Experience](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/732629-dayz-radar-development-experience.html)|`2026-01-10 11:49:00`|`DayZ SA`|
+|[Gunfire Reborn internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732618-gunfire-reborn-internal.html)|`2026-01-10 11:46:00`|`Other FPS Games`|
+|[Released: Release Spoofer, mostly open&#45;source, written in rust&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/731890-released-release-spoofer-source-written-rust.html)|`2026-01-10 11:26:00`|`PC Software`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2026-01-10 11:11:00`|`Other FPS Games`|
+|[BO4 MP GSC Menu Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/576945-bo4-mp-gsc-menu-base.html)|`2026-01-10 11:07:00`|`Call of Duty: Black Ops 4`|
 |[A Guide on how to bypass Forensic based ACs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712060-guide-bypass-forensic-based-acs.html)|`2026-01-10 10:53:00`|`Anti-Cheat Bypass`|
 |[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-01-10 10:50:00`|`Grand Theft Auto V`|
 |[YimMenu 1&#46;72 b3725 legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731598-yimmenu-1-72-b3725-legacy.html)|`2026-01-10 10:50:00`|`Grand Theft Auto V`|
