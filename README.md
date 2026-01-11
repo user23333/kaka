@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ihnm &#45; TTS overlay for games &#43; Soundboard &#43; Sync song playback &#43; Lipsync for SCP:SL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710854-ihnm-tts-overlay-games-soundboard-sync-song-playback-lipsync-scp-sl.html)|`2026-01-12 03:08:00`|`Other Games`|
+|[Obtaining Champions from the Offset Shop Structure in TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/732881-obtaining-champions-offset-shop-structure-tft.html)|`2026-01-12 03:07:00`|`League of Legends`|
+|[Sham&#91;removed&#93;&#45;x64 injector for tf2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/732133-sham-removed-x64-injector-tf2.html)|`2026-01-12 03:02:00`|`Team Fortress 2`|
+|[Kernel&#45;mode injector with WHQL signed driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732224-kernel-mode-injector-whql-signed-driver.html)|`2026-01-12 03:00:00`|`General Programming and Reversing`|
+|[DMA ERROR HELP PLEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/668101-dma-error-help-please.html)|`2026-01-12 02:59:00`|`PC Hardware`|
 |[SastashaFied T5 MP &#40;Undetected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710791-sastashafied-t5-mp-undetected.html)|`2026-01-12 02:55:00`|`Call of Duty: Black Ops`|
 |[cod dumper updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733254-cod-dumper-updated.html)|`2026-01-12 02:54:00`|`Call of Duty: Black Ops 7`|
 |[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-12 02:48:00`|`Other MMORPG and Strategy`|
