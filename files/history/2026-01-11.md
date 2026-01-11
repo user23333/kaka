@@ -13,6 +13,7 @@
 |6|[ツ Silent Night For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732840-silent-night-yimmenu.html)|`2026-01-11 00:14:25`|`grand-theft-auto-v`|
 |6|[External hitbox overlay aka ""chams""](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732412-external-hitbox-overlay-aka-chams.html)|`2026-01-11 02:56:53`|`counter-strike-2-a`|
 |5|[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-11 06:20:59`|`arc-raiders`|
+|4|[ARC Raiders API/Chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732322-arc-raiders-api-chat.html)|`2026-01-11 09:54:31`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,14 @@
 |6|[ARC Raiders SDK  21447704](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52584)|`2026-01-11 07:47:37`|
 |1|[TRCheatv1&#46;3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52575)|`2026-01-11 07:47:37`|
 |4|[Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52579)|`2026-01-11 07:53:36`|
+|1|[Deathground&#95;Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52583)|`2026-01-11 09:54:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thank god for AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/721128-thank-god-ai.html)|`2026-01-11 09:35:00`|`Off Topic`|
+|[t0nyhack &#40;module included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/729134-t0nyhack-module-included.html)|`2026-01-11 09:30:00`|`Garry's Mod`|
+|[Share a Mind Blowing GUIs Made by You or Someone Else to Inspire Others](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/733249-share-mind-blowing-guis-else-inspire.html)|`2026-01-11 09:24:00`|`Off Topic`|
+|[DMA ESP lags only when moving](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733206-dma-esp-lags-moving.html)|`2026-01-11 09:24:00`|`Call of Duty: Black Ops 7`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2026-01-11 07:56:00`|`Anti-Cheat Bypass`|
 |[UnKnoWnCheaTs Live Message Preview Extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732768-unknowncheats-live-message-preview-extension.html)|`2026-01-11 07:49:00`|`General Programming and Reversing`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-11 07:46:00`|`Apex Legends`|
