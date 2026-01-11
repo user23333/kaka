@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tf2 toontown/wow/mmo text boxes&#45; see the cope in real time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733386-tf2-toontown-wow-mmo-text-boxes-cope-real-time.html)|`2026-01-12 06:57:00`|`Team Fortress 2`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-01-12 06:54:00`|`HELLDIVERS 2`|
 |[&#91;WIP&#93; Arc Raiders External Entity Loop &#45; Community Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733393-wip-arc-raiders-external-entity-loop-community-collab.html)|`2026-01-12 06:52:00`|`ARC Raiders`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-12 06:47:00`|`Call of Duty: Black Ops 7`|
 |[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-12 06:45:00`|`Grand Theft Auto V`|
