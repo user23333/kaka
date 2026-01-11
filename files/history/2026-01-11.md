@@ -41,9 +41,12 @@
 |1|[God of War Ragnarok Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52593)|`2026-01-11 15:52:01`|
 |1|[cod dumper 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52592)|`2026-01-11 16:21:43`|
 |1|[WutheringWave 3&#46;0 SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52586)|`2026-01-11 16:21:43`|
+|2|[SastashaFied Iw4x MultiHack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52587)|`2026-01-11 16:43:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insurgency Semi Esp & Skin Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/355591-insurgency-semi-esp-skin-chams.html)|`2026-01-11 16:33:00`|`Insurgency`|
+|[its a sign from the gods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/733292-sign-gods.html)|`2026-01-11 16:28:00`|`Off Topic`|
 |[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727056-arc-raiders-rapid-fire-macro.html)|`2026-01-11 16:19:00`|`ARC Raiders`|
 |[ARC Raiders Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/730261-arc-raiders-simple-esp.html)|`2026-01-11 16:14:00`|`ARC Raiders`|
 |[any decent valorant source codes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733291-decent-valorant-source-codes.html)|`2026-01-11 15:47:00`|`Valorant`|
