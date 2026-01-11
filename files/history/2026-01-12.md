@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu V2 Spoof Hash Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731393-yimmenu-v2-spoof-hash-data.html)|`2026-01-12 07:17:00`|`Grand Theft Auto V`|
+|[Dead By Daylight External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732336-dead-daylight-external-source-code.html)|`2026-01-12 07:04:00`|`Other FPS Games`|
 |[tf2 toontown/wow/mmo text boxes&#45; see the cope in real time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733386-tf2-toontown-wow-mmo-text-boxes-cope-real-time.html)|`2026-01-12 06:57:00`|`Team Fortress 2`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-01-12 06:54:00`|`HELLDIVERS 2`|
 |[&#91;WIP&#93; Arc Raiders External Entity Loop &#45; Community Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733393-wip-arc-raiders-external-entity-loop-community-collab.html)|`2026-01-12 06:52:00`|`ARC Raiders`|
