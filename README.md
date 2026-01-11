@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make a magic bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/719557-magic-bullet.html)|`2026-01-12 02:17:00`|`Deadlock`|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2026-01-12 02:15:00`|`Apex Legends`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-01-12 02:14:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-12 02:09:00`|`Other FPS Games`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-01-12 02:06:00`|`Farlight 84`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-12 02:03:00`|`Other MMORPG and Strategy`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-12 02:01:00`|`Escape from Tarkov`|
 |[Necromancer early access &#40;AVX2&#45;release&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/730176-necromancer-access-avx2-release.html)|`2026-01-12 01:53:00`|`Team Fortress 2`|
 |[Sleepy's External &#45; Outline, Skeleton, and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external-outline-skeleton-aimbot.html)|`2026-01-12 01:41:00`|`Overwatch`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733286-hello.html)|`2026-01-12 01:40:00`|`Introductions`|
