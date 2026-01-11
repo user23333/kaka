@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-11 17:42:00`|`Other MMORPG and Strategy`|
+|[Does anyone here have experience with the Lexis mod menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733298-experience-lexis-mod-menu.html)|`2026-01-11 17:39:00`|`Grand Theft Auto V`|
 |[Handle Hijacking and Externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732441-handle-hijacking-externals.html)|`2026-01-11 17:23:00`|`Counter-Strike 2`|
 |[Unity Sources&#46;&#46;&#46; Have Fun&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/733297-unity-sources-fun.html)|`2026-01-11 17:20:00`|`Unity`|
 |[DayZ Radar Development &#45; Experience](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/732629-dayz-radar-development-experience.html)|`2026-01-11 16:53:00`|`DayZ SA`|
