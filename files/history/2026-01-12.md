@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2026-01-12 00:58:00`|`Escape from Tarkov`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-12 00:51:00`|`Other FPS Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-12 00:46:00`|`Grand Theft Auto V`|
+|[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-12 00:45:00`|`Rainbow Six Siege`|
+|[Acronis Chromium x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731823-acronis-chromium-x64.html)|`2026-01-12 00:44:00`|`Garry's Mod`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-12 00:43:00`|`Counter-Strike 2`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-01-12 00:42:00`|`Apex Legends`|
+|[Automatic Marksman Rifles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733339-automatic-marksman-rifles.html)|`2026-01-12 00:42:00`|`Rainbow Six Siege`|
+|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-12 00:41:00`|`Anti-Cheat Bypass`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-01-12 00:24:00`|`Grand Theft Auto V`|
 |[Internal&#45;External Bridge vs Kernel Pivot &#40;VAC Modules Dorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733334-internal-external-bridge-vs-kernel-pivot-vac-modules-dorm.html)|`2026-01-12 00:21:00`|`Counter-Strike 2`|
 |[Getting van Restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733313-getting-van-restriction.html)|`2026-01-12 00:21:00`|`Valorant`|
