@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Editing Arc Raiders Graphics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733401-editing-arc-raiders-graphics.html)|`2026-01-12 07:48:00`|`ARC Raiders`|
 |[someone got an fiveM injector src to share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733398-fivem-injector-src-share.html)|`2026-01-12 07:43:00`|`Alternative Online Mods`|
 |[ARC Raiders Rapid fire macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727056-arc-raiders-rapid-fire-macro.html)|`2026-01-12 07:38:00`|`ARC Raiders`|
 |[new credit method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733196-credit-method.html)|`2026-01-12 07:28:00`|`Rainbow Six Siege`|
