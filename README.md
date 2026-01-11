@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-11 20:59:00`|`Phasmophobia`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-01-11 20:57:00`|`Other FPS Games`|
+|[Auto Max Vehicle Garage Filler – YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723760-auto-max-vehicle-garage-filler-yimmenu-v2.html)|`2026-01-11 20:54:00`|`Grand Theft Auto V`|
+|[stop resource detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730664-stop-resource-detection.html)|`2026-01-11 20:44:00`|`Alternative Online Mods`|
 |[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2026-01-11 20:14:00`|`Grand Theft Auto V`|
 |[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-11 19:19:00`|`League of Legends`|
 |[Question about Rust HWID bans and delayed enforcement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733306-question-rust-hwid-bans-delayed-enforcement.html)|`2026-01-11 19:13:00`|`Rust`|
