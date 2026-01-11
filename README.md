@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-12 06:45:00`|`Grand Theft Auto V`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-01-12 06:45:00`|`Paladins`|
+|[More additions to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/733116-additions-staff-team.html)|`2026-01-12 06:43:00`|`Information and Announcements`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-01-12 06:38:00`|`Other FPS Games`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-12 06:35:00`|`Counter-Strike 2 Releases`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2026-01-12 06:33:00`|`Valorant`|
 |[Client Event Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733387-client-event-logger.html)|`2026-01-12 06:32:00`|`Alternative Online Mods`|
