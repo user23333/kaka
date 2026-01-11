@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-01-12 01:28:00`|`ARC Raiders`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-01-12 01:27:00`|`Grand Theft Auto V`|
+|[Unable to read C&#95;Inferno class name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733239-unable-read-c_inferno-class-name.html)|`2026-01-12 01:23:00`|`Counter-Strike 2`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-01-12 01:22:00`|`Grand Theft Auto V`|
+|[Outlast Trials External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/634841-outlast-trials-external-esp.html)|`2026-01-12 01:19:00`|`Other Games`|
 |[Error while doing kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733341-error-doing-kernel-driver.html)|`2026-01-12 01:08:00`|`Call of Duty: Black Ops 7`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-01-12 01:04:00`|`Other FPS Games`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-12 01:03:00`|`Apex Legends`|
