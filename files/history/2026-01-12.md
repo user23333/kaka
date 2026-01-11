@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733353-arc-raiders-simple-cheat.html)|`2026-01-12 04:38:00`|`ARC Raiders`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-12 04:32:00`|`Rust`|
+|[Cheats for Dreadmyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733165-cheats-dreadmyst.html)|`2026-01-12 04:15:00`|`Other MMORPG and Strategy`|
+|[Universal Prediction that Actually Works &#40;Iterative Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732703-universal-prediction-actually-iterative-method.html)|`2026-01-12 04:13:00`|`Marvel Rivals`|
 |[Arc Raiders &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727806-arc-raiders-poor-mans-radar-dma.html)|`2026-01-12 03:56:00`|`ARC Raiders`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-12 03:54:00`|`Marvel Rivals`|
 |[Looking for help with hacking an Obfuscated IL2CPP game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/733371-looking-help-hacking-obfuscated-il2cpp-game.html)|`2026-01-12 03:54:00`|`Programming for Beginners`|
