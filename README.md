@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/717952-external-esp-windows.html)|`2026-01-11 23:40:00`|`Apex Legends`|
+|[Internal&#45;External Bridge vs Kernel Pivot &#40;VAC Modules Dorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733334-internal-external-bridge-vs-kernel-pivot-vac-modules-dorm.html)|`2026-01-11 23:34:00`|`Counter-Strike 2`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2026-01-11 23:29:00`|`Other FPS Games`|
 |[Does anyone have new neptune/amalgam navbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733311-neptune-amalgam-navbot.html)|`2026-01-11 23:22:00`|`Team Fortress 2`|
 |[Someone should try to make a cheat for the casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/720940-try-cheat-casino.html)|`2026-01-11 23:12:00`|`Garry's Mod`|
