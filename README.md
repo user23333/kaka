@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-12 06:35:00`|`Counter-Strike 2 Releases`|
+|[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2026-01-12 06:33:00`|`Valorant`|
+|[Client Event Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733387-client-event-logger.html)|`2026-01-12 06:32:00`|`Alternative Online Mods`|
+|[How do i transfer large quantities of rubles?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733390-transfer-quantities-rubles.html)|`2026-01-12 06:31:00`|`Escape from Tarkov`|
+|[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-01-12 06:31:00`|`Other FPS Games`|
+|[Generating OnGUI method &#40;Without Hooking&#41; &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/733389-generating-ongui-method-hooking-il2cpp.html)|`2026-01-12 06:29:00`|`Unity`|
+|[Unturned External Base Fixed kinda LOL Only no recoil &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732477-unturned-external-base-fixed-kinda-lol-recoil-source.html)|`2026-01-12 06:28:00`|`Other FPS Games`|
 |[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-12 06:06:00`|`ARC Raiders`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2026-01-12 06:06:00`|`Other Games`|
 |[DMA ESP lags only when moving](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733206-dma-esp-lags-moving.html)|`2026-01-12 06:02:00`|`Call of Duty: Black Ops 7`|
