@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[God of War: Ragnarok External Trainer &#124; God Mode, Rage, Arrows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/732289-god-war-ragnarok-external-trainer-god-mode-rage-arrows.html)|`2026-01-12 05:51:00`|`Other Single Player Games`|
 |[stop resource detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/730664-stop-resource-detection.html)|`2026-01-12 05:39:00`|`Alternative Online Mods`|
 |[God of War Ragnarok Internal Menu &#124; God Mode, Inf Runic & Rage, Resources & Skill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733282-god-war-ragnarok-internal-menu-god-mode-inf-runic-rage-resources-skill.html)|`2026-01-12 05:37:00`|`Other Single Player Games`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-12 05:34:00`|`Other FPS Games`|
