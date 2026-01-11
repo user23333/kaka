@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-01-12 05:25:00`|`Other Games`|
+|[Ready or Not Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733381-ready-multihack.html)|`2026-01-12 05:24:00`|`Other FPS Games`|
+|[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-01-12 05:21:00`|`Other FPS Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-01-12 05:20:00`|`Grand Theft Auto V`|
+|[Where does the game get your Steam pTicket from? Spoofing Steam ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/733379-game-steam-pticket-spoofing-steam-id.html)|`2026-01-12 05:18:00`|`CounterStrike Source`|
 |[i got banned of rust on my main, can i make a new account with a vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733343-banned-rust-main-account-vpn.html)|`2026-01-12 05:09:00`|`Rust`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2026-01-12 05:09:00`|`Counter-Strike 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-12 05:04:00`|`DayZ SA`|
