@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Someone should try to make a cheat for the casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/720940-try-cheat-casino.html)|`2026-01-11 23:12:00`|`Garry's Mod`|
+|[Garrys mod Mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733000-garrys-mod-mod-menu.html)|`2026-01-11 23:11:00`|`Garry's Mod`|
+|[&#91;POC&#93; grabbing hwid using glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731272-poc-grabbing-hwid-using-glua.html)|`2026-01-11 23:08:00`|`Garry's Mod`|
 |[DayPay Internal &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/720131-daypay-internal-steam.html)|`2026-01-11 22:56:00`|`Payday 3`|
 |[Esp sock update help from 3&#46;6 to 4&#46;2&#40;64bit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733179-esp-sock-update-help-3-6-4-2-64bit.html)|`2026-01-11 22:55:00`|`PUBG Mobile`|
 |[Did my question was out of the course?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733333-question-course.html)|`2026-01-11 22:52:00`|`PUBG Mobile`|
