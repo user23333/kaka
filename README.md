@@ -11,6 +11,7 @@
 |10|[Another Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733029-driver.html)|`2026-01-13 00:00:00`|`valorant`|
 |6|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-13 00:00:00`|`counter-strike-2-a`|
 |6|[External Offsets 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732694-external-offsets-4-2-a.html)|`2026-01-13 00:00:00`|`pubg-mobile`|
+|15|[yet another mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733106-mouse-movement-method.html)|`2026-01-13 01:13:12`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-13 01:10:00`|`Counter-Strike 2 Releases`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-01-13 01:08:00`|`Overwatch`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-01-13 01:07:00`|`Other FPS Games`|
+|[These method are detaclabe and most propably ban you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733437-method-detaclabe-propably-ban.html)|`2026-01-13 01:01:00`|`Grand Theft Auto V`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-13 00:57:00`|`Playerunknown's Battlegrounds`|
+|[WalkBot Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733171-walkbot-source-code.html)|`2026-01-13 00:57:00`|`Counter-Strike 2`|
 |[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-13 00:48:00`|`Escape from Tarkov`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-13 00:43:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-13 00:38:00`|`Other MMORPG and Strategy`|
