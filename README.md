@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SWORD OF JUSTICE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733510-sword-justice.html)|`2026-01-13 06:29:00`|`Other FPS Games`|
+|[how to make  bypass silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733509-bypass-silent-aim.html)|`2026-01-13 06:24:00`|`Alternative Online Mods`|
+|[offline cheat testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733507-offline-cheat-testing.html)|`2026-01-13 06:21:00`|`Rust`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-13 06:12:00`|`Call of Duty: Black Ops 7`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-01-13 06:11:00`|`Other Games`|
 |[Menu SnoBreak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/620147-menu-snobreak.html)|`2026-01-13 06:09:00`|`Other MMORPG and Strategy`|
 |[Teach?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/731340-teach.html)|`2026-01-13 06:07:00`|`Programming for Beginners`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-13 06:06:00`|`Palworld`|
