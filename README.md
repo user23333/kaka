@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials Dumper&#45;7 Fix &#45; How To Dump The Game After the "Anti&#45;Cheat" update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722964-outlast-trials-dumper-7-fix-dump-game-anti-cheat-update.html)|`2026-01-12 13:57:00`|`Other FPS Games`|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2026-01-12 13:55:00`|`Apex Legends`|
 |[Thirdperson Surface Crosshair&#40;idTech3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/733426-thirdperson-surface-crosshair-idtech3.html)|`2026-01-12 13:39:00`|`Return To Castle Wolfenstein`|
 |[The Outlast Trials External Player &#43; Item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/588324-outlast-trials-external-player-item-esp.html)|`2026-01-12 13:21:00`|`Other Games`|
 |[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-12 13:19:00`|`Other Games`|
