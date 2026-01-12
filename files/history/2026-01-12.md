@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733458-driver-mapping.html)|`2026-01-12 23:09:00`|`Valorant`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-12 23:00:00`|`Playerunknown's Battlegrounds`|
 |[Screenshot transparent window&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733455-screenshot-transparent-window.html)|`2026-01-12 22:25:00`|`Forum General`|
 |[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-01-12 22:45:00`|`ARC Raiders`|
 |[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-01-12 22:09:00`|`Other MMORPG and Strategy`|
