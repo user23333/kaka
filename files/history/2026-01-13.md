@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban Bypass Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733485-ban-bypass-info.html)|`2026-01-13 03:00:00`|`Escape from Tarkov`|
+|[CS 2 Panorama UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733025-cs-2-panorama-ui.html)|`2026-01-13 02:59:00`|`Counter-Strike 2`|
+|[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2026-01-13 02:54:00`|`Other FPS Games`|
+|[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-13 02:52:00`|`Valorant`|
+|[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2026-01-13 02:44:00`|`Deadlock`|
 |[Subtick Bhop Stucking Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731643-subtick-bhop-stucking-issue.html)|`2026-01-13 02:35:00`|`Counter-Strike 2`|
 |[Arc Raiders Console &#40;night vision ultra wide fov&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733045-arc-raiders-console-night-vision-ultra-wide-fov.html)|`2026-01-13 02:28:00`|`ARC Raiders`|
 |[i got banned of rust on my main, can i make a new account with a vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733343-banned-rust-main-account-vpn.html)|`2026-01-13 02:18:00`|`Rust`|
