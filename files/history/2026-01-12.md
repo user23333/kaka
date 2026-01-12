@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-12 15:18:00`|`Other Games`|
 |[cl&#95;move ""custom"" timeout notif](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733427-cl_move-custom-timeout-notif.html)|`2026-01-12 14:45:00`|`Team Fortress 2`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2026-01-12 14:41:00`|`Valorant`|
 |[BOT BO7 HELP PLEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733172-bot-bo7-help-please.html)|`2026-01-12 14:14:00`|`Call of Duty: Black Ops 7`|
