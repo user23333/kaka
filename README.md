@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Friends keep dropping from lobby during Playlists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733243-friends-dropping-lobby-playlists.html)|`2026-01-12 19:57:00`|`Grand Theft Auto V`|
+|[Auto Max Vehicle Garage Filler – YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723760-auto-max-vehicle-garage-filler-yimmenu-v2.html)|`2026-01-12 19:56:00`|`Grand Theft Auto V`|
+|[Trojan infected dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733123-trojan-infected-dlls.html)|`2026-01-12 19:53:00`|`Grand Theft Auto V`|
 |[These method are detaclabe and most propably ban you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733437-method-detaclabe-propably-ban.html)|`2026-01-12 19:43:00`|`Grand Theft Auto V`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721188-skin-changer.html)|`2026-01-12 19:19:00`|`Marvel Rivals`|
 |[When Cheat Development Stopped Being a Hobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/732387-cheat-development-stopped-hobby.html)|`2026-01-12 19:11:00`|`Off Topic`|
