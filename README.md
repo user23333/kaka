@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[online deathmatches and jobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733431-online-deathmatches-jobs.html)|`2026-01-12 16:42:00`|`Grand Theft Auto V`|
+|[BBQ &#91;External&#93; &#91;1&#46;61&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/490243-bbq-external-1-61-a.html)|`2026-01-12 16:32:00`|`Grand Theft Auto V`|
 |[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-12 16:28:00`|`Other FPS Games`|
 |[UNIVERSAL RECOIL CONTROL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733429-universal-recoil-control.html)|`2026-01-12 16:10:00`|`Other FPS Games`|
 |[Universal Unity Internal Cheat Template](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/676280-universal-unity-internal-cheat-template.html)|`2026-01-12 15:39:00`|`General Programming and Reversing`|
