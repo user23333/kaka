@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Obtaining Champions from the Offset Shop Structure in TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/732881-obtaining-champions-offset-shop-structure-tft.html)|`2026-01-13 02:15:00`|`League of Legends`|
+|[Question about Rust HWID bans and delayed enforcement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733306-question-rust-hwid-bans-delayed-enforcement.html)|`2026-01-13 02:14:00`|`Rust`|
+|[Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/733478-internal-base.html)|`2026-01-13 02:12:00`|`Sea of Thieves`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-13 02:12:00`|`Other MMORPG and Strategy`|
+|[cl&#95;move ""custom"" timeout notif](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733427-cl_move-custom-timeout-notif.html)|`2026-01-13 02:11:00`|`Team Fortress 2`|
+|[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2026-01-13 02:10:00`|`Valorant`|
+|[Vanguard Emulator &#40;Old Codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733382-vanguard-emulator-codes.html)|`2026-01-13 02:04:00`|`Anti-Cheat Bypass`|
+|[tf2 toontown/wow/mmo text boxes&#45; see the cope in real time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733386-tf2-toontown-wow-mmo-text-boxes-cope-real-time.html)|`2026-01-13 02:03:00`|`Team Fortress 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-01-13 01:56:00`|`Other MMORPG and Strategy`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-13 01:43:00`|`Red Dead Redemption 2`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-01-13 01:41:00`|`Phasmophobia`|
 |[I want to use the Color Bot, is it worth it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733055-color-bot-worth.html)|`2026-01-13 01:38:00`|`Valorant`|
