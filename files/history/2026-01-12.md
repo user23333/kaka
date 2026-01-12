@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;ASA&#93; Ark Survival Ascended Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733412-asa-ark-survival-ascended-internal.html)|`2026-01-12 09:09:00`|`Other Games`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-01-12 09:01:00`|`Other FPS Games`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-12 08:58:00`|`Other FPS Games`|
+|[Jumpbug or no fall damage bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733411-jumpbug-fall-damage-bug.html)|`2026-01-12 08:54:00`|`Counter-Strike 2`|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2026-01-12 08:48:00`|`Other FPS Games`|
+|[Console Command Work around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733410-console-command.html)|`2026-01-12 08:47:00`|`ARC Raiders`|
 |[Problem with reading class names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733402-reading-class-names.html)|`2026-01-12 07:54:00`|`Counter-Strike 2`|
 |[Editing Arc Raiders Graphics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733401-editing-arc-raiders-graphics.html)|`2026-01-12 07:48:00`|`ARC Raiders`|
 |[someone got an fiveM injector src to share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733398-fivem-injector-src-share.html)|`2026-01-12 07:43:00`|`Alternative Online Mods`|
