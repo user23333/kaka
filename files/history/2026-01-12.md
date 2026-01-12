@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Guide on how to bypass Forensic based ACs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/712060-guide-bypass-forensic-based-acs.html)|`2026-01-12 11:38:00`|`Anti-Cheat Bypass`|
+|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-12 11:35:00`|`League of Legends`|
+|[Arc raiders reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727094-arc-raiders-reversing.html)|`2026-01-12 11:25:00`|`ARC Raiders`|
+|[D3D Menu UNIVERSAL &#91;NA/BR/EU/PH/&#43;&#43;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/228778-d3d-menu-universal-na-br-eu-ph.html)|`2026-01-12 11:22:00`|`CrossFire`|
+|[no recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733419-recoil.html)|`2026-01-12 11:19:00`|`Payday 3`|
 |[how to make external ammo bar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732837-external-ammo-bar.html)|`2026-01-12 10:54:00`|`Counter-Strike 2`|
 |[how i ca nget helmet&#43;kevlar and kit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733132-ca-nget-helmet-kevlar-kit.html)|`2026-01-12 10:49:00`|`Counter-Strike 2`|
 |[Arduino FirmWare UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/676366-arduino-firmware-ud.html)|`2026-01-12 10:44:00`|`Valorant`|
