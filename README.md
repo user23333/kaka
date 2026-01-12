@@ -27,9 +27,12 @@
 |5|[WutheringWave 3&#46;0 SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52586)|`2026-01-13 00:00:00`|
 |4|[Sefiro v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52606)|`2026-01-13 00:28:46`|
 |2|[EasyAntiCheat EOS Dumps for Fortnite & Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52613)|`2026-01-13 03:26:52`|
+|1|[Bombardino&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52614)|`2026-01-13 03:58:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2026-01-13 03:54:00`|`Marvel Rivals`|
+|[Valorant 2PC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732241-valorant-2pc-bypass.html)|`2026-01-13 03:54:00`|`Valorant`|
 |[Dead by Daylight &#45; External Findings & Information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726324-dead-daylight-external-findings-information.html)|`2026-01-13 03:40:00`|`Other FPS Games`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-13 03:38:00`|`Valorant`|
 |[Made my first Assault Cube ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733445-assault-cube-esp-python.html)|`2026-01-13 03:11:00`|`Introductions`|
