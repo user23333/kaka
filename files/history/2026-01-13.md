@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FN/Rust eac dump with fixed IAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733504-fn-rust-eac-dump-fixed-iat.html)|`2026-01-13 05:38:00`|`Anti-Cheat Bypass`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-01-13 05:31:00`|`Rust`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2026-01-13 05:28:00`|`Garry's Mod`|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2026-01-13 05:25:00`|`Overwatch`|
 |[uworld seems to be correct, gameinstance wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733496-uworld-correct-gameinstance-wrong.html)|`2026-01-13 04:51:00`|`Valorant`|
 |[VMPROTECT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/733487-vmprotect.html)|`2026-01-13 04:48:00`|`Overwatch`|
 |[&#91;2025&#93; Internal Autopot/Macro Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/731389-2025-internal-autopot-macro-release.html)|`2026-01-13 04:46:00`|`Ragnarok`|
