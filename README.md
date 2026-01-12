@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newbie here &#45; safe way to cheat in Valorant on single PC &#40;Gigabyte A320M&#45;S2H&#45;CF mobo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732817-newbie-safe-cheat-valorant-single-pc-gigabyte-a320m-s2h-cf-mobo.html)|`2026-01-12 21:53:00`|`Valorant`|
+|[Arc Raiders Radar &#40;LINUX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733447-arc-raiders-radar-linux.html)|`2026-01-12 21:48:00`|`ARC Raiders`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-12 21:36:00`|`Grand Theft Auto V`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-12 21:25:00`|`Apex Legends`|
 |[instant van 152 secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733451-instant-van-152-secureboot.html)|`2026-01-12 21:20:00`|`Valorant`|
 |[color bot &#45; Removing Player Names & Health Bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729854-color-bot-removing-player-names-health-bars.html)|`2026-01-12 20:28:00`|`Marvel Rivals`|
