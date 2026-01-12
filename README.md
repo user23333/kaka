@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[wonderking online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733434-wonderking-online.html)|`2026-01-12 17:45:00`|`Other MMORPG and Strategy`|
+|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2026-01-12 17:34:00`|`DayZ SA`|
 |[Outfit Editor YimV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733433-outfit-editor-yimv2.html)|`2026-01-12 17:20:00`|`Grand Theft Auto V`|
 |[Bypassed ObRegisterCallbacks But need information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733086-bypassed-obregistercallbacks-information.html)|`2026-01-12 17:18:00`|`Anti-Cheat Bypass`|
 |[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2026-01-12 17:11:00`|`Palia`|
