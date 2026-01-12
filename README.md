@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Subtick Bhop Stucking Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731643-subtick-bhop-stucking-issue.html)|`2026-01-13 02:35:00`|`Counter-Strike 2`|
+|[Arc Raiders Console &#40;night vision ultra wide fov&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733045-arc-raiders-console-night-vision-ultra-wide-fov.html)|`2026-01-13 02:28:00`|`ARC Raiders`|
+|[i got banned of rust on my main, can i make a new account with a vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733343-banned-rust-main-account-vpn.html)|`2026-01-13 02:18:00`|`Rust`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/569807-war-thunder.html)|`2026-01-13 02:16:00`|`Forum General`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-13 02:15:00`|`Marvel Rivals`|
 |[Obtaining Champions from the Offset Shop Structure in TFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/732881-obtaining-champions-offset-shop-structure-tft.html)|`2026-01-13 02:15:00`|`League of Legends`|
 |[Question about Rust HWID bans and delayed enforcement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733306-question-rust-hwid-bans-delayed-enforcement.html)|`2026-01-13 02:14:00`|`Rust`|
 |[Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/733478-internal-base.html)|`2026-01-13 02:12:00`|`Sea of Thieves`|
