@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[color bot &#45; Removing Player Names & Health Bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729854-color-bot-removing-player-names-health-bars.html)|`2026-01-12 20:28:00`|`Marvel Rivals`|
+|[Simple PaliaTable 0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/733442-simple-paliatable-0-198-a.html)|`2026-01-12 20:23:00`|`Palia`|
+|[The division 2 free cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/733441-division-2-free-cheat-menu.html)|`2026-01-12 20:06:00`|`Tom Clancy's The Division`|
 |[Friends keep dropping from lobby during Playlists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733243-friends-dropping-lobby-playlists.html)|`2026-01-12 19:57:00`|`Grand Theft Auto V`|
 |[Auto Max Vehicle Garage Filler – YimMenu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/723760-auto-max-vehicle-garage-filler-yimmenu-v2.html)|`2026-01-12 19:56:00`|`Grand Theft Auto V`|
 |[Trojan infected dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733123-trojan-infected-dlls.html)|`2026-01-12 19:53:00`|`Grand Theft Auto V`|
