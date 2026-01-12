@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials External Player &#43; Item ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/588324-outlast-trials-external-player-item-esp.html)|`2026-01-12 13:21:00`|`Other Games`|
+|[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-12 13:19:00`|`Other Games`|
+|[PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656573-pve-cheat.html)|`2026-01-12 13:17:00`|`Escape from Tarkov`|
+|[Newbie here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733425-newbie.html)|`2026-01-12 13:15:00`|`Introductions`|
+|[modded colors for cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733424-modded-colors-cars.html)|`2026-01-12 13:09:00`|`Grand Theft Auto V`|
 |[MW3 Unlock tool & Red&#45;Box Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/649015-mw3-unlock-tool-red-box-hack.html)|`2026-01-12 12:59:00`|`Call of Duty: Modern Warfare 3`|
 |[Gmod gRust released by Down](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/732238-gmod-grust-released.html)|`2026-01-12 12:56:00`|`Garry's Mod`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-12 12:43:00`|`Counter-Strike 2`|
