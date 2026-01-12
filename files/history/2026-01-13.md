@@ -26,9 +26,15 @@
 |21|[SastashaFied Iw4x MultiHack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52587)|`2026-01-13 00:00:00`|
 |5|[WutheringWave 3&#46;0 SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52586)|`2026-01-13 00:00:00`|
 |4|[Sefiro v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52606)|`2026-01-13 00:28:46`|
+|2|[EasyAntiCheat EOS Dumps for Fortnite & Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52613)|`2026-01-13 03:26:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Made my first Assault Cube ESP in python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733445-assault-cube-esp-python.html)|`2026-01-13 03:11:00`|`Introductions`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-13 03:10:00`|`Call of Duty: Black Ops 7`|
+|[Easy Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733064-easy-silent-aim.html)|`2026-01-13 03:06:00`|`Counter-Strike 2`|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2026-01-13 03:06:00`|`Off Topic`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-13 03:06:00`|`Grand Theft Auto V`|
 |[Ban Bypass Info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733485-ban-bypass-info.html)|`2026-01-13 03:00:00`|`Escape from Tarkov`|
 |[CS 2 Panorama UI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733025-cs-2-panorama-ui.html)|`2026-01-13 02:59:00`|`Counter-Strike 2`|
 |[Fallout 76](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/305579-fallout-76-a.html)|`2026-01-13 02:54:00`|`Other FPS Games`|
