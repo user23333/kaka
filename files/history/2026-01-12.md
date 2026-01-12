@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outfit Editor YimV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733433-outfit-editor-yimv2.html)|`2026-01-12 17:20:00`|`Grand Theft Auto V`|
+|[Bypassed ObRegisterCallbacks But need information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733086-bypassed-obregistercallbacks-information.html)|`2026-01-12 17:18:00`|`Anti-Cheat Bypass`|
+|[OriginPalia &#45; Feature&#45;Packed Multitool With More Than You Can Imagine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/636934-originpalia-feature-packed-multitool-imagine.html)|`2026-01-12 17:11:00`|`Palia`|
 |[online deathmatches and jobs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733431-online-deathmatches-jobs.html)|`2026-01-12 16:42:00`|`Grand Theft Auto V`|
 |[BBQ &#91;External&#93; &#91;1&#46;61&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/490243-bbq-external-1-61-a.html)|`2026-01-12 16:32:00`|`Grand Theft Auto V`|
 |[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-12 16:28:00`|`Other FPS Games`|
