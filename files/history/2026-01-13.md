@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-13 21:17:00`|`Payday 3`|
+|[Patched or not Patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/733558-patched-patched.html)|`2026-01-13 21:12:00`|`Apex Legends`|
+|[Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733533-mod-menu.html)|`2026-01-13 21:10:00`|`Introductions`|
 |[PTE&#45;mapped memory reading for cheating detected and account banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732883-pte-mapped-memory-reading-cheating-detected-account-banned.html)|`2026-01-13 20:31:00`|`Anti-Cheat Bypass`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-13 20:20:00`|`Rainbow Six Siege`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-13 20:07:00`|`Other FPS Games`|
