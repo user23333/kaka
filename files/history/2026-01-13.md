@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Minecraft 1&#46;5&#46;2 &#45; 1&#46;7&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/733039-minecraft-1-5-2-1-7-10-a.html)|`2026-01-13 15:39:00`|`Minecraft`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-13 15:38:00`|`Other FPS Games`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-01-13 15:24:00`|`Grand Theft Auto V`|
+|[valo spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733542-valo-spoofer.html)|`2026-01-13 15:21:00`|`Valorant`|
 |[Banned on pressing play today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725842-banned-pressing-play.html)|`2026-01-13 14:52:00`|`Escape from Tarkov`|
 |[Launcher Ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/725114-launcher-ban-bypass.html)|`2026-01-13 14:31:00`|`Escape from Tarkov`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-13 14:02:00`|`Tom Clancy's The Division`|
