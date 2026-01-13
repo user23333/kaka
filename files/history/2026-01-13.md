@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-13 17:34:00`|`Anti-Cheat Bypass`|
+|[drragon traveler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733548-drragon-traveler.html)|`2026-01-13 17:22:00`|`Other MMORPG and Strategy`|
+|[Arc Raiders Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733353-arc-raiders-simple-cheat.html)|`2026-01-13 17:18:00`|`ARC Raiders`|
 |[Cheats for Dreadmyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733165-cheats-dreadmyst.html)|`2026-01-13 16:46:00`|`Other MMORPG and Strategy`|
 |[What does VGK actually flag? &#40;HWID&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733546-vgk-actually-flag-hwid.html)|`2026-01-13 16:45:00`|`Valorant`|
 |[How to unlock the figurines in the agency that are on the shelves in the office](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733503-unlock-figurines-agency-shelves-office.html)|`2026-01-13 16:12:00`|`Grand Theft Auto V`|
