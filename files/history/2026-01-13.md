@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quick compile help: b0rk3d&#45;V2 fork with one small change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/733578-quick-compile-help-b0rk3d-v2-fork-change.html)|`2026-01-13 23:21:00`|`Red Dead Redemption 2`|
+|[Exploit no render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733577-exploit-render.html)|`2026-01-13 23:11:00`|`Rust`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-13 22:58:00`|`Other FPS Games`|
 |[Looking for a partner to collab on a Kernel&#45;Mode Spoofer &#40;Disk/GPU/SMBIOS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733574-looking-partner-collab-kernel-mode-spoofer-disk-gpu-smbios.html)|`2026-01-13 22:55:00`|`Anti-Cheat Bypass`|
 |[The client failed the anti&#45;cheat backend check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724619-client-failed-anti-cheat-backend-check.html)|`2026-01-13 22:53:00`|`Apex Legends`|
