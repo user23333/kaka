@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-01-14 02:50:00`|`Paladins`|
+|[unsigned driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727625-unsigned-driver.html)|`2026-01-14 02:44:00`|`Call of Duty: Black Ops 7`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-14 02:31:00`|`Counter-Strike 2`|
+|[offline cheat testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733507-offline-cheat-testing.html)|`2026-01-14 02:30:00`|`Rust`|
+|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2026-01-14 02:28:00`|`Escape from Tarkov`|
+|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-14 02:28:00`|`Payday 3`|
 |[Fast rev &#40;expermantal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733567-fast-rev-expermantal.html)|`2026-01-14 02:23:00`|`Team Fortress 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-14 02:22:00`|`Call of Duty: Black Ops 7`|
 |[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-01-14 02:19:00`|`ARC Raiders`|
