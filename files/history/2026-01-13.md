@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-01-13 23:42:00`|`Counter-Strike 2 Releases`|
+|[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2026-01-13 23:32:00`|`Other Games`|
+|[AMONG US Cheat / Town of Us / Mira?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731683-cheat-town-mira.html)|`2026-01-13 23:31:00`|`Among Us`|
 |[Quick compile help: b0rk3d&#45;V2 fork with one small change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/733578-quick-compile-help-b0rk3d-v2-fork-change.html)|`2026-01-13 23:21:00`|`Red Dead Redemption 2`|
 |[Exploit no render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733577-exploit-render.html)|`2026-01-13 23:11:00`|`Rust`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-13 22:58:00`|`Other FPS Games`|
