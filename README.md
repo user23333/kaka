@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OpenFront hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/711429-openfront-hack.html)|`2026-01-14 01:45:00`|`Other MMORPG and Strategy`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-14 01:41:00`|`Other MMORPG and Strategy`|
+|[Minecraft 1&#46;5&#46;2 &#45; 1&#46;7&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/733039-minecraft-1-5-2-1-7-10-a.html)|`2026-01-14 01:40:00`|`Minecraft`|
+|[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2026-01-14 01:34:00`|`Anti-Cheat Bypass`|
+|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-14 01:31:00`|`League of Legends`|
+|[Cheats for Dreadmyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733165-cheats-dreadmyst.html)|`2026-01-14 01:31:00`|`Other MMORPG and Strategy`|
 |[Exploit no render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733577-exploit-render.html)|`2026-01-14 01:21:00`|`Rust`|
 |[WalkBot Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733171-walkbot-source-code.html)|`2026-01-14 01:19:00`|`Counter-Strike 2`|
 |[Quick compile help: b0rk3d&#45;V2 fork with one small change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/733578-quick-compile-help-b0rk3d-v2-fork-change.html)|`2026-01-14 01:18:00`|`Red Dead Redemption 2`|
