@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[free makcu cb?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733532-free-makcu-cb.html)|`2026-01-13 11:55:00`|`Valorant`|
+|[Is it possible to lock awards on characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733531-lock-awards-characters.html)|`2026-01-13 11:54:00`|`Grand Theft Auto V`|
+|[local voice to text&#40;with whisper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733529-local-voice-text-whisper.html)|`2026-01-13 11:38:00`|`Team Fortress 2`|
+|[Skip&#45;Guest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733526-skip-guest.html)|`2026-01-13 11:17:00`|`PUBG Mobile`|
 |[Bypassed ObRegisterCallbacks But need information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733086-bypassed-obregistercallbacks-information.html)|`2026-01-13 10:56:00`|`Anti-Cheat Bypass`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-01-13 10:53:00`|`Valorant`|
 |[Arma 3 &#45; Obtaining offsets / pointers & the current offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/733523-arma-3-obtaining-offsets-pointers-current-offsets.html)|`2026-01-13 10:31:00`|`ARMA 3`|
