@@ -12,6 +12,7 @@
 |6|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-13 00:00:00`|`counter-strike-2-a`|
 |6|[External Offsets 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732694-external-offsets-4-2-a.html)|`2026-01-13 00:00:00`|`pubg-mobile`|
 |15|[yet another mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733106-mouse-movement-method.html)|`2026-01-13 01:13:12`|`anti-cheat-bypass`|
+|15|[Easy Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733064-easy-silent-aim.html)|`2026-01-13 20:35:42`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PTE&#45;mapped memory reading for cheating detected and account banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732883-pte-mapped-memory-reading-cheating-detected-account-banned.html)|`2026-01-13 20:31:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-13 20:20:00`|`Rainbow Six Siege`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-13 20:07:00`|`Other FPS Games`|
 |[Safest money making method on YimMenu V2 Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732915-safest-money-method-yimmenu-v2-enhanced.html)|`2026-01-13 19:47:00`|`Grand Theft Auto V`|
 |[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-01-13 19:33:00`|`Other MMORPG and Strategy`|
 |[newbie questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/733304-newbie-questions.html)|`2026-01-13 19:08:00`|`Combat Master`|
