@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safest money making method on YimMenu V2 Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732915-safest-money-method-yimmenu-v2-enhanced.html)|`2026-01-13 19:47:00`|`Grand Theft Auto V`|
 |[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-01-13 19:33:00`|`Other MMORPG and Strategy`|
 |[newbie questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/733304-newbie-questions.html)|`2026-01-13 19:08:00`|`Combat Master`|
 |[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2026-01-13 19:07:00`|`Battlefield 6`|
