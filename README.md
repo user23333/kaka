@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[buying oppressor mk2's with cherax lua api using basket transactions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733603-buying-oppressor-mk2s-cherax-lua-api-using-basket-transactions.html)|`2026-01-14 03:28:00`|`Grand Theft Auto V`|
+|[Valorant skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700707-valorant-skin-changer.html)|`2026-01-14 03:21:00`|`Valorant`|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-14 03:17:00`|`Among Us`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-01-14 03:09:00`|`HELLDIVERS 2`|
 |[Synapse no recoil not keeping same value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/731011-synapse-recoil-keeping-value.html)|`2026-01-14 03:09:00`|`Battlefield 6`|
 |[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2026-01-14 03:09:00`|`Anti-Cheat Bypass`|
 |[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2026-01-14 03:02:00`|`Other FPS Games`|
