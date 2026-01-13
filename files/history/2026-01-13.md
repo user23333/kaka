@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassed ObRegisterCallbacks But need information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733086-bypassed-obregistercallbacks-information.html)|`2026-01-13 10:56:00`|`Anti-Cheat Bypass`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-01-13 10:53:00`|`Valorant`|
+|[Arma 3 &#45; Obtaining offsets / pointers & the current offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/733523-arma-3-obtaining-offsets-pointers-current-offsets.html)|`2026-01-13 10:31:00`|`ARMA 3`|
+|[Howdy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733508-howdy.html)|`2026-01-13 10:00:00`|`Introductions`|
+|[it made me do this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733521-it-made-me-do-this.html)|`2026-01-13 10:00:00`|`Introductions`|
 |[Searching for latest offsets &#124; Before new patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733516-searching-offsets-patch.html)|`2026-01-13 09:10:00`|`Valorant`|
 |[Synapse no recoil not keeping same value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/731011-synapse-recoil-keeping-value.html)|`2026-01-13 09:01:00`|`Battlefield 6`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2026-01-13 09:00:00`|`Other FPS Games`|
