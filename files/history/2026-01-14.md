@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel&#45;mode injector with WHQL signed driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732224-kernel-mode-injector-whql-signed-driver.html)|`2026-01-14 04:40:00`|`General Programming and Reversing`|
+|[Generating OnGUI method &#40;Without Hooking&#41; &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/733389-generating-ongui-method-hooking-il2cpp.html)|`2026-01-14 04:33:00`|`Unity`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-01-14 04:32:00`|`Other Games`|
+|[Ashes of Creation Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/463992-ashes-creation-reversal-structs-offsets.html)|`2026-01-14 04:30:00`|`Other MMORPG and Strategy`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-01-14 04:17:00`|`Grand Theft Auto V`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-14 04:16:00`|`Valorant`|
 |[Subtick Bhop Stucking Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/731643-subtick-bhop-stucking-issue.html)|`2026-01-14 04:11:00`|`Counter-Strike 2`|
