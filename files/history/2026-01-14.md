@@ -28,9 +28,14 @@
 |1|[Species&#95;Unknown&#95;Internal&#95;V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52617)|`2026-01-14 03:55:51`|
 |1|[new driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52622)|`2026-01-14 04:54:40`|
 |2|[DICHOOK SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52621)|`2026-01-14 04:54:40`|
+|1|[REPO Cheat Menu v2&#46;0&#46;0 &#40;Patch 28&#46;11&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52620)|`2026-01-14 06:16:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-01-14 06:13:00`|`Other MMORPG and Strategy`|
+|[Escape The Backrooms ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733615-escape-backrooms-esp.html)|`2026-01-14 06:08:00`|`Other FPS Games`|
+|[any way for keyboard presses with kernel driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733614-keyboard-presses-kernel-driver.html)|`2026-01-14 06:07:00`|`Anti-Cheat Bypass`|
+|[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-14 06:02:00`|`Counter-Strike 2`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-14 05:53:00`|`Garry's Mod`|
 |[Simple Muck Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733189-simple-muck-cheat.html)|`2026-01-14 05:44:00`|`Other Games`|
 |[Dead or Alive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/733612-dead-alive.html)|`2026-01-14 05:29:00`|`CrossFire`|
