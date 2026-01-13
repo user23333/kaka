@@ -25,9 +25,14 @@
 |13|[PaliaTable&#95;0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52608)|`2026-01-14 00:28:49`|
 |43|[Sefiro v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52606)|`2026-01-14 00:28:49`|
 |235|[Source R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52597)|`2026-01-14 00:28:49`|
+|1|[Species&#95;Unknown&#95;Internal&#95;V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52617)|`2026-01-14 03:55:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-14 03:53:00`|`Rainbow Six Siege`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-14 03:53:00`|`Valorant`|
+|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-14 03:49:00`|`Grand Theft Auto V`|
+|[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-01-14 03:43:00`|`Other FPS Games`|
 |[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-01-14 03:38:00`|`Anti-Cheat Bypass`|
 |[Ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/725356-ricochet.html)|`2026-01-14 03:38:00`|`Call of Duty: Black Ops 6`|
 |[how to reliably get bone positions externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733571-reliably-bone-positions-externally.html)|`2026-01-14 03:37:00`|`PUBG Mobile`|
