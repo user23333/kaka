@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK Decrypt 17&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732846-vgk-decrypt-17-17-a.html)|`2026-01-14 06:37:00`|`Valorant`|
+|[SWORD OF JUSTICE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733510-sword-justice.html)|`2026-01-14 06:33:00`|`Other FPS Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-14 06:28:00`|`Marvel Rivals`|
+|[eac cr3 meme&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733621-eac-cr3-meme.html)|`2026-01-14 06:24:00`|`Anti-Cheat Bypass`|
+|[intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733620-intro.html)|`2026-01-14 06:22:00`|`Introductions`|
 |[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-01-14 06:13:00`|`Other MMORPG and Strategy`|
 |[Escape The Backrooms ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733615-escape-backrooms-esp.html)|`2026-01-14 06:08:00`|`Other FPS Games`|
 |[any way for keyboard presses with kernel driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733614-keyboard-presses-kernel-driver.html)|`2026-01-14 06:07:00`|`Anti-Cheat Bypass`|
