@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exploit no render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733577-exploit-render.html)|`2026-01-14 01:21:00`|`Rust`|
+|[WalkBot Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733171-walkbot-source-code.html)|`2026-01-14 01:19:00`|`Counter-Strike 2`|
+|[Quick compile help: b0rk3d&#45;V2 fork with one small change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/733578-quick-compile-help-b0rk3d-v2-fork-change.html)|`2026-01-14 01:18:00`|`Red Dead Redemption 2`|
+|[Getting a link approved for UC thread posting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733469-getting-link-approved-uc-thread-posting.html)|`2026-01-14 01:16:00`|`Forum General`|
+|[Friends keep dropping from lobby during Playlists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733243-friends-dropping-lobby-playlists.html)|`2026-01-14 01:14:00`|`Grand Theft Auto V`|
+|[Rust Dump Viewer Website](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732948-rust-dump-viewer-website.html)|`2026-01-14 01:12:00`|`Rust`|
+|[Help on reversing the C&#95;World ent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733514-help-reversing-c_world-ent.html)|`2026-01-14 01:11:00`|`Counter-Strike 2`|
+|[Question about Rust HWID bans and delayed enforcement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733306-question-rust-hwid-bans-delayed-enforcement.html)|`2026-01-14 01:11:00`|`Rust`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-01-14 01:08:00`|`Scum`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-14 00:55:00`|`Rust`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-14 00:54:00`|`Other FPS Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-14 00:52:00`|`Alternative Online Mods`|
