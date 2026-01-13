@@ -31,9 +31,12 @@
 |2|[DICHOOK SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52621)|`2026-01-14 04:54:40`|
 |1|[REPO Cheat Menu v2&#46;0&#46;0 &#40;Patch 28&#46;11&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52620)|`2026-01-14 06:16:03`|
 |1|[Days Gone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52626)|`2026-01-14 07:31:46`|
+|1|[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52627)|`2026-01-14 07:50:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/733619-kernel-driver-v2.html)|`2026-01-14 07:46:00`|`C and C++`|
+|[Dll Cheats For Rust Cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733505-dll-cheats-rust-cracked.html)|`2026-01-14 07:41:00`|`Rust`|
 |[R6 Internal Cheat &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733367-r6-internal-cheat-updated.html)|`2026-01-14 07:40:00`|`Rainbow Six Siege`|
 |[Need help with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733632-help-offsets.html)|`2026-01-14 07:35:00`|`ARC Raiders`|
 |[Updated Imperial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/728928-updated-imperial.html)|`2026-01-14 07:30:00`|`Overwatch`|
