@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cerebro Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732919-cerebro-analysis.html)|`2026-01-13 12:35:00`|`Anti-Cheat Bypass`|
+|[replay data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/733534-replay-data.html)|`2026-01-13 12:25:00`|`Overwatch`|
 |[free makcu cb?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733532-free-makcu-cb.html)|`2026-01-13 11:55:00`|`Valorant`|
 |[Is it possible to lock awards on characters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733531-lock-awards-characters.html)|`2026-01-13 11:54:00`|`Grand Theft Auto V`|
 |[local voice to text&#40;with whisper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733529-local-voice-text-whisper.html)|`2026-01-13 11:38:00`|`Team Fortress 2`|
