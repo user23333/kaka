@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-15 01:16:00`|`Call of Duty: Black Ops 7`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-15 01:06:00`|`Other FPS Games`|
+|[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-01-15 01:05:00`|`C and C++`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-01-15 01:03:00`|`Other FPS Games`|
+|[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/733619-kernel-driver-v2.html)|`2026-01-15 01:03:00`|`C and C++`|
+|[Memory Aimbot Without BUG&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733726-memory-aimbot-bug.html)|`2026-01-15 01:03:00`|`PUBG Mobile`|
 |[phantom KeyAuth Bypass &#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733681-phantom-keyauth-bypass-exe.html)|`2026-01-15 00:56:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-15 00:54:00`|`Other FPS Games`|
 |[Discord Overlay Hijack is 100% DEAD&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733724-discord-overlay-hijack-100-dead.html)|`2026-01-15 00:49:00`|`General Programming and Reversing`|
