@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2026-01-15 06:53:00`|`Sea of Thieves`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-15 06:50:00`|`Other FPS Games`|
 |[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2026-01-15 06:41:00`|`Other Games`|
 |[Editing peronal vehicles with YimV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733767-editing-peronal-vehicles-yimv2.html)|`2026-01-15 06:40:00`|`Grand Theft Auto V`|
