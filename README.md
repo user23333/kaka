@@ -32,9 +32,16 @@
 |1|[REPO Cheat Menu v2&#46;0&#46;0 &#40;Patch 28&#46;11&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52620)|`2026-01-14 06:16:03`|
 |1|[Days Gone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52626)|`2026-01-14 07:31:46`|
 |1|[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52627)|`2026-01-14 07:50:16`|
+|4|[main and aimbot headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52618)|`2026-01-14 11:09:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rocket league lagswitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733384-rocket-league-lagswitch.html)|`2026-01-14 10:58:00`|`Other Games`|
+|[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-01-14 10:35:00`|`C and C++`|
+|[HOW to unlock jacket?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733649-unlock-jacket.html)|`2026-01-14 10:33:00`|`Payday 3`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-01-14 10:33:00`|`HELLDIVERS 2`|
+|[yet another mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733106-mouse-movement-method.html)|`2026-01-14 10:22:00`|`Anti-Cheat Bypass`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-14 10:17:00`|`Escape from Tarkov`|
 |[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/733619-kernel-driver-v2.html)|`2026-01-14 07:46:00`|`C and C++`|
 |[Dll Cheats For Rust Cracked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733505-dll-cheats-rust-cracked.html)|`2026-01-14 07:41:00`|`Rust`|
 |[R6 Internal Cheat &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733367-r6-internal-cheat-updated.html)|`2026-01-14 07:40:00`|`Rainbow Six Siege`|
