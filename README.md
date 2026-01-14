@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 &#45; Night Club LUA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728604-yimmenuv2-night-club-lua.html)|`2026-01-14 21:46:00`|`Grand Theft Auto V`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-14 21:37:00`|`Other MMORPG and Strategy`|
+|[anti&#45;cheat disabler c&#43;&#43; &#40;internal/external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/731262-anti-cheat-disabler-internal-external.html)|`2026-01-14 21:23:00`|`Marvel Rivals`|
 |[reading complete non sense stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733684-reading-complete-sense-stuff.html)|`2026-01-14 21:09:00`|`Valorant`|
 |[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2026-01-14 21:03:00`|`Other FPS Games`|
 |[SPT&#45;AKI offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733689-spt-aki-offsets.html)|`2026-01-14 20:55:00`|`Escape from Tarkov`|
