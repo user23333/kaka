@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reading complete non sense stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733684-reading-complete-sense-stuff.html)|`2026-01-14 21:09:00`|`Valorant`|
+|[Chiverly 2 Mod loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/711952-chiverly-2-mod-loader.html)|`2026-01-14 21:03:00`|`Other FPS Games`|
+|[SPT&#45;AKI offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733689-spt-aki-offsets.html)|`2026-01-14 20:55:00`|`Escape from Tarkov`|
+|[REQUEST HACK FOR HEARTOPIA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733688-request-hack-heartopia.html)|`2026-01-14 20:53:00`|`Other Games`|
 |[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2026-01-14 19:42:00`|`Other Games`|
 |[phantom KeyAuth Bypass &#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733681-phantom-keyauth-bypass-exe.html)|`2026-01-14 19:16:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-14 19:10:00`|`Apex Legends`|
