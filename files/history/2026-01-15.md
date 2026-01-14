@@ -24,9 +24,11 @@
 |29|[REPO Cheat Menu v2&#46;0&#46;0 &#40;Patch 28&#46;11&#46;2025&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52620)|`2026-01-15 00:31:08`|
 |10|[main and aimbot headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52618)|`2026-01-15 00:31:08`|
 |5|[Species&#95;Unknown&#95;Internal&#95;V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52617)|`2026-01-15 00:31:08`|
+|1|[Vigor Internal v3&#46;0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52639)|`2026-01-15 03:09:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-15 02:56:00`|`Escape from Tarkov`|
 |[set eye angle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733539-set-eye-angle.html)|`2026-01-15 02:34:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-15 02:33:00`|`Apex Legends`|
 |[Patched or not Patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/733558-patched-patched.html)|`2026-01-15 02:27:00`|`Apex Legends`|
