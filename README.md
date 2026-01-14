@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i just want to cheat in video games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733650-cheat-video-games.html)|`2026-01-15 07:37:00`|`Introductions`|
+|[SWORD OF JUSTICE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733510-sword-justice.html)|`2026-01-15 07:36:00`|`Other FPS Games`|
+|[ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733774-ban.html)|`2026-01-15 07:33:00`|`Introductions`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-15 07:22:00`|`Palworld`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-15 07:13:00`|`Other Single Player Games`|
 |[How to make my own driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733663-own-driver.html)|`2026-01-15 07:03:00`|`Call of Duty: Black Ops 7`|
