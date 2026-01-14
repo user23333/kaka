@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[casino bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733492-casino-bypass.html)|`2026-01-14 17:48:00`|`Grand Theft Auto V`|
+|[The client failed the anti&#45;cheat backend check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724619-client-failed-anti-cheat-backend-check.html)|`2026-01-14 17:46:00`|`Apex Legends`|
 |[Rust stable bone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733672-rust-stable-bone.html)|`2026-01-14 17:34:00`|`Rust`|
 |[AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732780-autowall.html)|`2026-01-14 17:22:00`|`Counter-Strike 2`|
 |[exe that reads game internet trafic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/733463-exe-reads-game-internet-trafic.html)|`2026-01-14 17:11:00`|`Sea of Thieves`|
