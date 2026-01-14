@@ -28,9 +28,17 @@
 |1|[Vigor Internal v3&#46;0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52639)|`2026-01-15 03:09:19`|
 |1|[Backroom ESP dx12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52640)|`2026-01-15 04:22:07`|
 |1|[ArenaShit Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52643)|`2026-01-15 06:14:04`|
+|5|[Repo Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52642)|`2026-01-15 06:52:25`|
+|1|[Escape The Backrooms ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52634)|`2026-01-15 06:52:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-15 06:50:00`|`Other FPS Games`|
+|[REPO Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/728462-repo-internal.html)|`2026-01-15 06:41:00`|`Other Games`|
+|[Editing peronal vehicles with YimV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733767-editing-peronal-vehicles-yimv2.html)|`2026-01-15 06:40:00`|`Grand Theft Auto V`|
+|[Rust recoil calculation issues in external scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733762-rust-recoil-calculation-issues-external-scripts.html)|`2026-01-15 06:28:00`|`Rust`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-15 06:25:00`|`Other MMORPG and Strategy`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-15 06:16:00`|`Call of Duty: Black Ops 7`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-01-15 06:08:00`|`Grand Theft Auto V`|
 |[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2026-01-15 05:54:00`|`Battlefield Bad Company 2`|
 |[GTA5TunersGenZ 4&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/645136-gta5tunersgenz-4-3-a.html)|`2026-01-15 05:53:00`|`Grand Theft Auto V`|
