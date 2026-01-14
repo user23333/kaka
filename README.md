@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2026-01-15 05:54:00`|`Battlefield Bad Company 2`|
+|[GTA5TunersGenZ 4&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/645136-gta5tunersgenz-4-3-a.html)|`2026-01-15 05:53:00`|`Grand Theft Auto V`|
+|[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-15 05:52:00`|`Anti-Cheat Bypass`|
 |[Escape The Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/615556-escape-backrooms-internal.html)|`2026-01-15 05:38:00`|`Other FPS Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-15 05:37:00`|`Other FPS Games`|
 |[Apex API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/729514-apex-api.html)|`2026-01-15 05:36:00`|`Apex Legends`|
