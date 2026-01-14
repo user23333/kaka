@@ -35,6 +35,7 @@
 |4|[main and aimbot headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52618)|`2026-01-14 11:09:49`|
 |1|[ark ascended fixed dumpe with no pass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52633)|`2026-01-14 13:54:03`|
 |5|[Fixed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52624)|`2026-01-14 13:54:03`|
+|4|[phantom KeyAuth Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52637)|`2026-01-14 20:19:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
