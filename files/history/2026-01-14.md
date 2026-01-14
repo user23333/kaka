@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733675-offsets.html)|`2026-01-14 18:15:00`|`Valorant`|
+|[Help me get 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733644-help-10y.html)|`2026-01-14 18:15:00`|`PUBG Mobile`|
+|[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-14 17:48:00`|`Counter-Strike 2`|
 |[casino bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733492-casino-bypass.html)|`2026-01-14 17:48:00`|`Grand Theft Auto V`|
 |[The client failed the anti&#45;cheat backend check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/724619-client-failed-anti-cheat-backend-check.html)|`2026-01-14 17:46:00`|`Apex Legends`|
 |[Rust stable bone?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733672-rust-stable-bone.html)|`2026-01-14 17:34:00`|`Rust`|
