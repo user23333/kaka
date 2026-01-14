@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fast rev &#40;expermantal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733567-fast-rev-expermantal.html)|`2026-01-15 01:47:00`|`Team Fortress 2`|
+|[How Create AutoStafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733651-create-autostafe.html)|`2026-01-15 01:44:00`|`Counter-Strike 2`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-01-15 01:42:00`|`Overwatch`|
+|[Marvel Rivals I Got Banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/729057-marvel-rivals-banned.html)|`2026-01-15 01:41:00`|`Marvel Rivals`|
+|[Minecraft 1&#46;5&#46;2 &#45; 1&#46;7&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/733039-minecraft-1-5-2-1-7-10-a.html)|`2026-01-15 01:37:00`|`Minecraft`|
+|[Free Spoofer Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733731-free-spoofer-arena-breakout-infinite.html)|`2026-01-15 01:35:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-15 01:16:00`|`Call of Duty: Black Ops 7`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-15 01:06:00`|`Other FPS Games`|
 |[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-01-15 01:05:00`|`C and C++`|
