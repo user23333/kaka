@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-14 23:07:00`|`Grand Theft Auto V`|
+|[1 report ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/727977-1-report-ban.html)|`2026-01-14 23:05:00`|`Marvel Rivals`|
+|[CS2 External ESP &#45; Lightweight SDL2 &#43; ImGui Overlay &#40;Auto&#45;Updating Offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733713-cs2-external-esp-lightweight-sdl2-imgui-overlay-auto-updating-offsets.html)|`2026-01-14 22:57:00`|`Introductions`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-14 22:52:00`|`Deadlock`|
 |[GTA 5 Enhanced DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/701780-gta-5-enhanced-dma-menu.html)|`2026-01-14 22:45:00`|`Grand Theft Auto V`|
 |[Is there any available Division 2 Cheat menu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/727963-available-division-2-cheat-menu.html)|`2026-01-14 22:27:00`|`Tom Clancy's The Division`|
