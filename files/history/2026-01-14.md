@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skip&#45;Guest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733526-skip-guest.html)|`2026-01-14 18:43:00`|`PUBG Mobile`|
+|[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2026-01-14 18:38:00`|`Unity`|
+|[Minecraft Meteor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733678-minecraft-meteor.html)|`2026-01-14 18:33:00`|`Introductions`|
 |[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733675-offsets.html)|`2026-01-14 18:15:00`|`Valorant`|
 |[Help me get 10y](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733644-help-10y.html)|`2026-01-14 18:15:00`|`PUBG Mobile`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-14 17:48:00`|`Counter-Strike 2`|
