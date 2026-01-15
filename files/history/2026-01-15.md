@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Emulator &#40;Old Codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733382-vanguard-emulator-codes.html)|`2026-01-15 21:51:00`|`Anti-Cheat Bypass`|
+|[CSchemaType need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733821-cschematype-help.html)|`2026-01-15 21:50:00`|`Counter-Strike 2`|
+|[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-15 21:41:00`|`ARC Raiders`|
+|[ARC Raiders API/Chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732322-arc-raiders-api-chat.html)|`2026-01-15 21:38:00`|`ARC Raiders`|
+|[farming hours on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/732506-farming-hours-steam.html)|`2026-01-15 21:24:00`|`Phasmophobia`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-01-15 21:15:00`|`HELLDIVERS 2`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-15 21:14:00`|`HELLDIVERS 2`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-01-15 21:12:00`|`Other FPS Games`|
