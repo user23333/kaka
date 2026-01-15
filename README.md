@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac cr3 meme&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733621-eac-cr3-meme.html)|`2026-01-16 06:07:00`|`Anti-Cheat Bypass`|
+|[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2026-01-16 05:51:00`|`Rainbow Six Siege`|
 |[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2026-01-16 05:44:00`|`Call of Duty 5: World at War`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-16 05:42:00`|`Other FPS Games`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-16 05:40:00`|`Palworld`|
