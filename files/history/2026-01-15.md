@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-15 15:11:00`|`Other MMORPG and Strategy`|
+|[Best device for aim assist on pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/733743-device-aim-assist-pc.html)|`2026-01-15 15:08:00`|`Apex Legends`|
 |[Arma 3 &#45; Obtaining offsets / pointers & the current offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/733523-arma-3-obtaining-offsets-pointers-current-offsets.html)|`2026-01-15 15:23:00`|`ARMA 3`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-15 15:21:00`|`Other FPS Games`|
 |[Black Ops 2 RME forge Mode &#40;Example Working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/732851-black-ops-2-rme-forge-mode-example.html)|`2026-01-15 15:09:00`|`Call of Duty: Black Ops 2`|
