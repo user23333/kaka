@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-01-15 17:31:00`|`Call of Duty: Black Ops 7`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-15 17:21:00`|`Escape from Tarkov`|
 |[Private external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730757-private-external.html)|`2026-01-15 16:48:00`|`Rust`|
 |[someone got an fiveM injector src to share?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733398-fivem-injector-src-share.html)|`2026-01-15 16:29:00`|`Alternative Online Mods`|
 |[Host&#95;AccumulateTime speedhack/slow motion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733800-host_accumulatetime-speedhack-slow-motion.html)|`2026-01-15 16:19:00`|`Garry's Mod`|
