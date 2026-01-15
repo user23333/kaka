@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS V93 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/733913-css-v93-offsets.html)|`2026-01-16 07:47:00`|`CounterStrike Source`|
+|[CS2 Skin changer external linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733911-cs2-skin-changer-external-linux.html)|`2026-01-16 07:38:00`|`Counter-Strike 2`|
+|[&#91;DMA&#93; Arc Raiders &#40;partial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/728727-dma-arc-raiders-partial.html)|`2026-01-16 07:38:00`|`ARC Raiders`|
 |[How to make a magic bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/719557-magic-bullet.html)|`2026-01-16 07:45:00`|`Deadlock`|
 |[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-01-16 07:43:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-16 07:35:00`|`Other FPS Games`|
