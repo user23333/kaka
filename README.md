@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help refining Recoil Math/Smoothing for ESP32&#45;S3 Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732442-help-refining-recoil-math-smoothing-esp32-s3-project.html)|`2026-01-16 04:39:00`|`Rust`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-01-16 04:34:00`|`Scum`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-01-16 04:34:00`|`Rainbow Six Siege`|
+|[Mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733882-mouse-movement.html)|`2026-01-16 04:32:00`|`Call of Duty: Black Ops 7`|
+|[Internal&#45;External Bridge vs Kernel Pivot &#40;VAC Modules Dorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733334-internal-external-bridge-vs-kernel-pivot-vac-modules-dorm.html)|`2026-01-16 04:22:00`|`Counter-Strike 2`|
 |[Where to find paid actors or make my own bots for Tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733881-paid-actors-own-bots-tarkov.html)|`2026-01-16 04:13:00`|`Escape from Tarkov`|
 |[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-16 04:11:00`|`Rainbow Six Siege`|
 |[Looking for Raider Tool Drop &#40;Melee&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733880-looking-raider-tool-drop-melee.html)|`2026-01-16 04:08:00`|`ARC Raiders`|
