@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where to find paid actors or make my own bots for Tarkov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733881-paid-actors-own-bots-tarkov.html)|`2026-01-16 04:13:00`|`Escape from Tarkov`|
+|[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-16 04:11:00`|`Rainbow Six Siege`|
+|[Looking for Raider Tool Drop &#40;Melee&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733880-looking-raider-tool-drop-melee.html)|`2026-01-16 04:08:00`|`ARC Raiders`|
 |[BF2 Quadratic Aim Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/730698-bf2-quadratic-aim-prediction.html)|`2026-01-16 03:54:00`|`Battlefield 2`|
 |[injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733856-injecting.html)|`2026-01-16 03:54:00`|`Rainbow Six Siege`|
 |[Getting around a BF2 server ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/695805-getting-bf2-server-ban.html)|`2026-01-16 03:53:00`|`Battlefield 2`|
