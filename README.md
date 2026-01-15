@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Clear/remove money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733830-remove-money.html)|`2026-01-15 22:52:00`|`Grand Theft Auto V`|
+|[Days Gone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733623-days-gone-internal.html)|`2026-01-15 22:42:00`|`Other Single Player Games`|
 |[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-15 22:39:00`|`Call of Duty: Black Ops 7`|
 |[Valorant skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700707-valorant-skin-changer.html)|`2026-01-15 22:35:00`|`Valorant`|
 |[Camera without decryption or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733040-camera-decryption-emulation.html)|`2026-01-15 22:35:00`|`ARC Raiders`|
