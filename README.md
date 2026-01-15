@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to make a magic bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/719557-magic-bullet.html)|`2026-01-16 07:45:00`|`Deadlock`|
 |[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-01-16 07:43:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-16 07:35:00`|`Other FPS Games`|
 |[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2026-01-16 07:30:00`|`Rainbow Six Siege`|
