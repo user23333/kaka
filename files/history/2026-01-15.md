@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-15 22:39:00`|`Call of Duty: Black Ops 7`|
+|[Valorant skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/700707-valorant-skin-changer.html)|`2026-01-15 22:35:00`|`Valorant`|
+|[Camera without decryption or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733040-camera-decryption-emulation.html)|`2026-01-15 22:35:00`|`ARC Raiders`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-15 22:02:00`|`Grand Theft Auto V`|
 |[Vanguard Emulator &#40;Old Codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733382-vanguard-emulator-codes.html)|`2026-01-15 21:51:00`|`Anti-Cheat Bypass`|
 |[CSchemaType need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733821-cschematype-help.html)|`2026-01-15 21:50:00`|`Counter-Strike 2`|
