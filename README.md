@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGK Decrypt 17&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732846-vgk-decrypt-17-17-a.html)|`2026-01-15 18:37:00`|`Valorant`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-01-15 18:35:00`|`Grand Theft Auto V`|
 |[CS2 External Base&#40;update offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722203-cs2-external-base-update-offsets.html)|`2026-01-15 18:03:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-15 18:01:00`|`Other FPS Games`|
 |[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-01-15 17:31:00`|`Call of Duty: Black Ops 7`|
