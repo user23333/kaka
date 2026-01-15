@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sigs xigmapper windows 11 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723563-sigs-xigmapper-windows-11-25h2.html)|`2026-01-16 06:43:00`|`Anti-Cheat Bypass`|
+|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-16 06:39:00`|`Grand Theft Auto V`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-16 06:35:00`|`Grand Theft Auto V`|
+|[theHunter &#45; External &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/157784-thehunter-external-steam.html)|`2026-01-16 06:23:00`|`Other FPS Games`|
 |[TD1 Full No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/440951-td1-recoil.html)|`2026-01-16 06:33:00`|`Tom Clancy's The Division`|
 |[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2026-01-16 06:21:00`|`Anti-Cheat Bypass`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-01-16 06:15:00`|`Call of Duty: Black Ops 3`|
