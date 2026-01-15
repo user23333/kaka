@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-01-15 21:15:00`|`HELLDIVERS 2`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-15 21:14:00`|`HELLDIVERS 2`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-01-15 21:12:00`|`Other FPS Games`|
+|[Division 1 QOL Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/731015-division-1-qol-tools.html)|`2026-01-15 21:08:00`|`Tom Clancy's The Division`|
+|[thank u very much to all ur efforts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733796-thank-ur-efforts.html)|`2026-01-15 21:07:00`|`Introductions`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-01-15 20:35:00`|`Elite: Dangerous`|
 |[Simple FiveM spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733809-simple-fivem-spoofer.html)|`2026-01-15 20:27:00`|`Alternative Online Mods`|
 |[Pixel bot can be undetected ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733805-pixel-bot-undetected.html)|`2026-01-15 19:55:00`|`League of Legends`|
