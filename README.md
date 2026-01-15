@@ -12,6 +12,7 @@
 |12|[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-01-15 00:31:08`|`arc-raiders`|
 |19|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-15 00:31:08`|`grand-theft-auto-v`|
 |17|[R6 Internal Cheat &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733367-r6-internal-cheat-updated.html)|`2026-01-15 03:40:07`|`rainbow-six-siege`|
+|24|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-15 11:20:16`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Turtle WoW Internal API 1&#46;12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/733404-turtle-wow-internal-api-1-12-a.html)|`2026-01-15 10:15:00`|`World of Warcraft`|
+|[Is DMA cheating worth it ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733781-dma-cheating-worth.html)|`2026-01-15 10:15:00`|`Valorant`|
+|[Simple Muck Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733189-simple-muck-cheat.html)|`2026-01-15 10:13:00`|`Other Games`|
+|[How can i do a streamproof internal for fivem bypass Nvidia shadowplay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733780-streamproof-internal-fivem-bypass-nvidia-shadowplay.html)|`2026-01-15 10:09:00`|`Introductions`|
+|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-15 10:08:00`|`Grand Theft Auto V`|
 |[i got banned of rust on my main, can i make a new account with a vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733343-banned-rust-main-account-vpn.html)|`2026-01-15 09:19:00`|`Rust`|
 |[Logitech Lua &#40;Universal&#41; &#45;simulant V1&#46;0 R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/601250-logitech-lua-universal-simulant-v1-0-r6.html)|`2026-01-15 09:09:00`|`Rainbow Six Siege`|
 |[unlock all tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/624879-unlock-tool.html)|`2026-01-15 07:54:00`|`Call of Duty: Black Ops Cold War`|
