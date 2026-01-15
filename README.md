@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Host&#95;AccumulateTime speedhack/slow motion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733800-host_accumulatetime-speedhack-slow-motion.html)|`2026-01-15 16:19:00`|`Garry's Mod`|
+|[how to use injectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733799-injectors.html)|`2026-01-15 16:05:00`|`Counter-Strike 2`|
+|[offline cheat testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733507-offline-cheat-testing.html)|`2026-01-15 16:02:00`|`Rust`|
 |[Flickering bones &#40; &#43; video &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/723148-flickering-bones-video.html)|`2026-01-15 15:54:00`|`Rust`|
 |[How do i monitor the memory operations of a program?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/733798-monitor-memory-operations-program.html)|`2026-01-15 15:53:00`|`Off Topic`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-15 15:11:00`|`Other MMORPG and Strategy`|
