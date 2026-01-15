@@ -34,9 +34,12 @@
 |5|[MISERY Internal Multi&#45;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52644)|`2026-01-15 07:28:58`|
 |15|[HytaleServer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52645)|`2026-01-15 09:40:09`|
 |4|[hunchclient v2 radar &#43; esp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52638)|`2026-01-15 09:40:09`|
+|1|[CE gun and Nuns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52658)|`2026-01-15 23:15:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Guns and Nuns Storming Hell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733827-guns-nuns-storming-hell.html)|`2026-01-15 23:13:00`|`Other FPS Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-01-15 23:04:00`|`Other FPS Games`|
 |[Clear/remove money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733830-remove-money.html)|`2026-01-15 22:52:00`|`Grand Theft Auto V`|
 |[Days Gone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733623-days-gone-internal.html)|`2026-01-15 22:42:00`|`Other Single Player Games`|
 |[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-15 22:39:00`|`Call of Duty: Black Ops 7`|
