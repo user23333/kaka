@@ -11,6 +11,7 @@
 |12|[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-01-17 00:00:32`|`arc-raiders`|
 |34|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-17 00:00:32`|`league-of-legends`|
 |16|[Cheats for Dreadmyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733165-cheats-dreadmyst.html)|`2026-01-17 00:00:32`|`other-mmorpg-and-strategy`|
+|7|[Console Command Work around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733410-console-command.html)|`2026-01-17 01:16:48`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does egui work well with an external ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/734012-egui-external-esp.html)|`2026-01-17 01:14:00`|`Rust (Language)`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-17 01:10:00`|`DayZ SA`|
+|[Mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733882-mouse-movement.html)|`2026-01-17 01:00:00`|`Call of Duty: Black Ops 7`|
+|[Failed to get PEB on specific machines &#45; Driver works on 1 out of 3 PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733997-failed-peb-specific-machines-driver-1-3-pcs.html)|`2026-01-17 00:59:00`|`Call of Duty: Black Ops 7`|
+|[Not entirely understanding the need for drivers for game exploiting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733365-entirely-understanding-drivers-game-exploiting.html)|`2026-01-17 00:53:00`|`General Programming and Reversing`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-17 00:55:00`|`Other MMORPG and Strategy`|
 |[navmesh&#45;parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733972-navmesh-parser.html)|`2026-01-17 00:52:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-17 00:52:00`|`Other FPS Games`|
