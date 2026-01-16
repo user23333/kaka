@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-01-17 01:54:00`|`Farlight 84`|
+|[I need offsets cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734014-offsets-cs2.html)|`2026-01-17 01:45:00`|`Counter-Strike 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-01-17 01:47:00`|`Elite: Dangerous`|
 |[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2026-01-17 01:44:00`|`Anti-Cheat Bypass`|
 |[&#91;After Patch FIX&#93; Please remove name&#46;gsc from your scripts folder&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/709370-patch-fix-please-remove-name-gsc-scripts-folder.html)|`2026-01-17 01:38:00`|`Call of Duty 4: Modern Warfare`|
