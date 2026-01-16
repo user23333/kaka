@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2 Entity Outline Glow &#40;With RGBA&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/74694-tf2-entity-outline-glow-rgba.html)|`2026-01-16 09:08:00`|`Team Fortress 2`|
+|[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2026-01-16 09:04:00`|`Anti-Cheat Bypass`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-01-16 09:03:00`|`Elite: Dangerous`|
+|[anti&#45;silent needs help with bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731171-anti-silent-help-bypass.html)|`2026-01-16 08:59:00`|`Alternative Online Mods`|
+|[Very Basic Custom DMA Firmware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725509-basic-custom-dma-firmware-guide.html)|`2026-01-16 08:51:00`|`Anti-Cheat Bypass`|
 |[CSS V93 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/733913-css-v93-offsets.html)|`2026-01-16 07:47:00`|`CounterStrike Source`|
 |[CS2 Skin changer external linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733911-cs2-skin-changer-external-linux.html)|`2026-01-16 07:38:00`|`Counter-Strike 2`|
 |[&#91;DMA&#93; Arc Raiders &#40;partial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/728727-dma-arc-raiders-partial.html)|`2026-01-16 07:38:00`|`ARC Raiders`|
