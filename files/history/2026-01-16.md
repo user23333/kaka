@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[寻找作弊的开发人员](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733984-23547-25214-20316-24330-30340-24320-21457-20154-21592-a.html)|`2026-01-16 21:00:00`|`Anti-Cheat Bypass`|
+|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-16 20:56:00`|`Counter-Strike 2`|
 |[Looking for a partner to collab on a Kernel&#45;Mode Spoofer &#40;Disk/GPU/SMBIOS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733574-looking-partner-collab-kernel-mode-spoofer-disk-gpu-smbios.html)|`2026-01-16 20:03:00`|`Anti-Cheat Bypass`|
 |[cheating on faceit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/717958-cheating-faceit.html)|`2026-01-16 19:55:00`|`Counter-Strike 2`|
 |[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2026-01-16 19:48:00`|`Among Us`|
