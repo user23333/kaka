@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF2 Quadratic Aim Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/730698-bf2-quadratic-aim-prediction.html)|`2026-01-17 05:53:00`|`Battlefield 2`|
 |[Nba 2k26 AutoGreener](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730715-nba-2k26-autogreener.html)|`2026-01-17 05:44:00`|`Other Games`|
 |[Taunahi Findings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/733923-taunahi-findings.html)|`2026-01-17 05:40:00`|`Minecraft`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-17 05:38:00`|`Rainbow Six Siege`|
