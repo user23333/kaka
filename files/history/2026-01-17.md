@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Freecam/Debug Camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733860-freecam-debug-camera.html)|`2026-01-17 07:22:00`|`Rust`|
+|[external instant revive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734045-external-instant-revive.html)|`2026-01-17 07:20:00`|`Rust`|
+|[ApexAim v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734046-apexaim-v4.html)|`2026-01-17 07:18:00`|`Apex Legends`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-17 07:18:00`|`Other FPS Games`|
+|[Rust Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734056-rust-radar.html)|`2026-01-17 07:18:00`|`Rust`|
 |[Yimmenu 1&#46;72 legacy not appearing once injected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734055-yimmenu-1-72-legacy-appearing-injected.html)|`2026-01-17 07:16:00`|`Grand Theft Auto V`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-17 07:09:00`|`Other MMORPG and Strategy`|
 |[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-01-17 07:04:00`|`Genshin Impact`|
