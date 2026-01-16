@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-01-16 15:32:00`|`Grand Theft Auto V`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-01-16 15:20:00`|`Other MMORPG and Strategy`|
 |[Need Help learning c&#43;&#43;, cheating, kernals anything cheating? I got chu lmk if wanted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733949-help-learning-cheating-kernals-cheating-chu-lmk.html)|`2026-01-16 14:53:00`|`Forum General`|
 |[Need Help learning to cheat? Well have i got the ting for you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733949-help-learning-cheat-ting.html)|`2026-01-16 14:53:00`|`Forum General`|
 |[All LOL script will be dead in CN server&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/727521-lol-script-dead-cn-server.html)|`2026-01-16 14:27:00`|`League of Legends`|
