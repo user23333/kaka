@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palia Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/729118-palia-internal-cheat.html)|`2026-01-16 12:04:00`|`Palia`|
+|[Pubg Mobile Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733925-pubg-mobile-hack.html)|`2026-01-16 12:04:00`|`Introductions`|
+|[How Create AutoStafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733651-create-autostafe.html)|`2026-01-16 12:00:00`|`Counter-Strike 2`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-16 11:49:00`|`Other MMORPG and Strategy`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-01-16 11:39:00`|`Sea of Thieves`|
+|[bgmi emulator bypass case 10 freezing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/731122-bgmi-emulator-bypass-10-freezing.html)|`2026-01-16 11:25:00`|`PUBG Mobile`|
+|[PEAK &#45; Internal &#40;ESP, Item Spawner, and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/716905-peak-internal-esp-item-spawner.html)|`2026-01-16 11:18:00`|`Other Games`|
 |[AntiFrogLock &#91;internal deadlock&#93; cheat&#43;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/733656-antifroglock-internal-deadlock-cheat-source.html)|`2026-01-16 10:44:00`|`Deadlock`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-16 10:33:00`|`Counter-Strike 2`|
 |[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-01-16 10:24:00`|`Other FPS Games`|
