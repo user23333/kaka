@@ -12,6 +12,7 @@
 |21|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-16 00:01:11`|`grand-theft-auto-v`|
 |12|[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-01-16 00:01:11`|`arc-raiders`|
 |19|[Easy Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733064-easy-silent-aim.html)|`2026-01-16 00:40:02`|`counter-strike-2-a`|
+|34|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-16 11:08:48`|`league-of-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AntiFrogLock &#91;internal deadlock&#93; cheat&#43;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/733656-antifroglock-internal-deadlock-cheat-source.html)|`2026-01-16 10:44:00`|`Deadlock`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-16 10:33:00`|`Counter-Strike 2`|
+|[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-01-16 10:24:00`|`Other FPS Games`|
+|[Taunahi Findings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/733923-taunahi-findings.html)|`2026-01-16 10:14:00`|`Minecraft`|
 |[TF2 Entity Outline Glow &#40;With RGBA&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/74694-tf2-entity-outline-glow-rgba.html)|`2026-01-16 09:08:00`|`Team Fortress 2`|
 |[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2026-01-16 09:04:00`|`Anti-Cheat Bypass`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-01-16 09:03:00`|`Elite: Dangerous`|
