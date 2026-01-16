@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-01-16 23:07:00`|`Anti-Cheat Bypass`|
+|[Combat Master Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/708468-combat-master-internal.html)|`2026-01-16 23:00:00`|`Combat Master`|
 |[Failed to get PEB on specific machines &#45; Driver works on 1 out of 3 PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733997-failed-peb-specific-machines-driver-1-3-pcs.html)|`2026-01-16 22:50:00`|`Call of Duty: Black Ops 7`|
 |[PC Blacklist for cars/clothes and such?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733996-pc-blacklist-cars-clothes.html)|`2026-01-16 22:19:00`|`Grand Theft Auto V`|
 |[wesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733826-wesh.html)|`2026-01-16 22:19:00`|`Introductions`|
