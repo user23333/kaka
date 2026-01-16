@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-01-17 01:47:00`|`Elite: Dangerous`|
+|[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2026-01-17 01:44:00`|`Anti-Cheat Bypass`|
+|[&#91;After Patch FIX&#93; Please remove name&#46;gsc from your scripts folder&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/709370-patch-fix-please-remove-name-gsc-scripts-folder.html)|`2026-01-17 01:38:00`|`Call of Duty 4: Modern Warfare`|
+|[Straftat Cheat Fully Featured](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/684948-straftat-cheat-featured.html)|`2026-01-17 01:37:00`|`Other Games`|
+|[New in the fortnite com](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/732266-fortnite-com.html)|`2026-01-17 01:22:00`|`Introductions`|
 |[Does faceit take screenshots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733802-faceit-screenshots.html)|`2026-01-17 01:32:00`|`Anti-Cheat Bypass`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-17 01:26:00`|`Marvel Rivals`|
 |[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2026-01-17 01:21:00`|`Anti-Cheat Bypass`|
