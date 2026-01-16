@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to set up a Makcu 2PC using a phone instead of a second PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733971-set-makcu-2pc-using-phone-instead-pc.html)|`2026-01-17 02:31:00`|`Valorant`|
+|[Metadata Dumper &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733790-metadata-dumper-source.html)|`2026-01-17 02:30:00`|`Escape from Tarkov`|
+|[Hytale Teleporter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733869-hytale-teleporter.html)|`2026-01-17 02:16:00`|`Other MMORPG and Strategy`|
+|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-17 02:10:00`|`Other MMORPG and Strategy`|
+|[how to reliably get bone positions externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/733571-reliably-bone-positions-externally.html)|`2026-01-17 02:08:00`|`PUBG Mobile`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-01-17 01:54:00`|`Farlight 84`|
 |[I need offsets cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734014-offsets-cs2.html)|`2026-01-17 01:45:00`|`Counter-Strike 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-01-17 01:47:00`|`Elite: Dangerous`|
