@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-17 07:40:00`|`Apex Legends`|
+|[Secure Boot &#91;Update Javelin&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734059-secure-boot-update-javelin.html)|`2026-01-17 07:39:00`|`Battlefield 6`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-17 07:39:00`|`Apex Legends`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-17 07:37:00`|`Counter-Strike 2`|
+|[horrible but working way to get past secureboot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/720428-horrible-past-secureboot.html)|`2026-01-17 07:35:00`|`Battlefield 6`|
+|[Vintage Story Hackclient and Fairplayguardian bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/725288-vintage-story-hackclient-fairplayguardian-bypass.html)|`2026-01-17 07:33:00`|`Alternative Online Mods`|
 |[Freecam/Debug Camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733860-freecam-debug-camera.html)|`2026-01-17 07:22:00`|`Rust`|
 |[external instant revive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734045-external-instant-revive.html)|`2026-01-17 07:20:00`|`Rust`|
 |[ApexAim v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734046-apexaim-v4.html)|`2026-01-17 07:18:00`|`Apex Legends`|
