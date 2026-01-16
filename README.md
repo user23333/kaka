@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bot to study/learn windows internals, cheating, c&#43;&#43;, bypasses etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733965-bot-study-learn-windows-internals-cheating-bypasses-etc.html)|`2026-01-16 17:13:00`|`General Programming and Reversing`|
+|[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-16 16:59:00`|`DayZ SA`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2026-01-16 16:47:00`|`Counter-Strike 2 Releases`|
 |[CounterStrike Source Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/157661-counterstrike-source-reversal-structs-offsets.html)|`2026-01-16 16:16:00`|`CounterStrike Source`|
 |[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-01-16 15:38:00`|`Grand Theft Auto V`|
