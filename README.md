@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733967-hytale-cheat-engine-table.html)|`2026-01-16 17:28:00`|`Other MMORPG and Strategy`|
+|[faster external bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733966-faster-external-bones.html)|`2026-01-16 17:17:00`|`DayZ SA`|
+|[Gta 5 enhanced crashes when x64dbg is attached&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733964-gta-5-enhanced-crashes-x64dbg-attached.html)|`2026-01-16 17:12:00`|`Grand Theft Auto V`|
+|[Bypassing BlueBook SAT screenshot prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728472-bypassing-bluebook-sat-screenshot-prevention.html)|`2026-01-16 17:10:00`|`Anti-Cheat Bypass`|
+|[Descenders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/430508-descenders.html)|`2026-01-16 17:04:00`|`Other Games`|
 |[Bot to study/learn windows internals, cheating, c&#43;&#43;, bypasses etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733965-bot-study-learn-windows-internals-cheating-bypasses-etc.html)|`2026-01-16 17:13:00`|`General Programming and Reversing`|
 |[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-16 16:59:00`|`DayZ SA`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2026-01-16 16:47:00`|`Counter-Strike 2 Releases`|
