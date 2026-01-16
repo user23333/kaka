@@ -27,9 +27,12 @@
 |60|[Vigor Internal v3&#46;0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52639)|`2026-01-17 00:00:32`|
 |3|[Skynade Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52671)|`2026-01-17 00:32:48`|
 |10|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52675)|`2026-01-17 06:41:24`|
+|3|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52673)|`2026-01-17 06:51:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS V93 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/733913-css-v93-offsets.html)|`2026-01-17 06:51:00`|`CounterStrike Source`|
+|[Black Ops 2 MP Steam Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/734047-black-ops-2-mp-steam-offsets.html)|`2026-01-17 06:47:00`|`Call of Duty: Black Ops 2`|
 |[i Got banned using YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734016-banned-using-yimmenu-v2.html)|`2026-01-17 06:36:00`|`Grand Theft Auto V`|
 |[Simple Muck Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733189-simple-muck-cheat.html)|`2026-01-17 06:29:00`|`Other Games`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-17 06:11:00`|`Other Single Player Games`|
