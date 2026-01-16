@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any ide how to find signature for granade&#95;cam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733991-ide-signature-granade_cam.html)|`2026-01-16 21:37:00`|`Counter-Strike 2`|
+|[Kernel Driver for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733910-kernel-driver-linux.html)|`2026-01-16 21:28:00`|`Forum General`|
+|[YimMenu V2 Spoof Hash Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731393-yimmenu-v2-spoof-hash-data.html)|`2026-01-16 21:17:00`|`Grand Theft Auto V`|
+|[fixed seo64 with exception handler and cool ahh menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727711-fixed-seo64-exception-handler-cool-ahh-menu.html)|`2026-01-16 21:05:00`|`Team Fortress 2`|
 |[寻找作弊的开发人员](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733984-23547-25214-20316-24330-30340-24320-21457-20154-21592-a.html)|`2026-01-16 21:00:00`|`Anti-Cheat Bypass`|
 |[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-16 20:56:00`|`Counter-Strike 2`|
 |[Looking for a partner to collab on a Kernel&#45;Mode Spoofer &#40;Disk/GPU/SMBIOS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733574-looking-partner-collab-kernel-mode-spoofer-disk-gpu-smbios.html)|`2026-01-16 20:03:00`|`Anti-Cheat Bypass`|
