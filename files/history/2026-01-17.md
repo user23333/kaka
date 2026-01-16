@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-17 06:11:00`|`Other Single Player Games`|
 |[Bypassing bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733072-bypassing-bans.html)|`2026-01-17 05:58:00`|`Alternative Online Mods`|
 |[What Have You Built in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733170-built-fivem.html)|`2026-01-17 05:56:00`|`Alternative Online Mods`|
 |[is it possible to join a fivem server without id?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733883-join-fivem-server-id.html)|`2026-01-17 05:55:00`|`Alternative Online Mods`|
