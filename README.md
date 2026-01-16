@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-01-17 03:09:00`|`Overwatch`|
+|[Macku?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734026-macku.html)|`2026-01-17 03:07:00`|`Valorant`|
+|[Hello guys, new in forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/734020-hello-guys-forum.html)|`2026-01-17 03:06:00`|`Introductions`|
+|[Hello long time lurker&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/734025-hello-time-lurker.html)|`2026-01-17 03:05:00`|`Introductions`|
+|[Console Command Work around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733410-console-command.html)|`2026-01-17 03:02:00`|`ARC Raiders`|
 |[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-01-17 02:56:00`|`Anti-Cheat Bypass`|
 |[CSchemaType need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733821-cschematype-help.html)|`2026-01-17 02:50:00`|`Counter-Strike 2`|
 |[Kernel&#45;mode injector with WHQL signed driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/732224-kernel-mode-injector-whql-signed-driver.html)|`2026-01-17 02:49:00`|`General Programming and Reversing`|
