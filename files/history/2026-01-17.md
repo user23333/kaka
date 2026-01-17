@@ -30,9 +30,14 @@
 |10|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52675)|`2026-01-17 06:41:24`|
 |3|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52673)|`2026-01-17 06:51:58`|
 |2|[GI 6&#46;3&#46;0 Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52660)|`2026-01-17 07:16:20`|
+|3|[MISERY Internal Multi&#45;Hack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52664)|`2026-01-17 10:55:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[METRIA Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734087-metria-trainer.html)|`2026-01-17 10:44:00`|`Other MMORPG and Strategy`|
+|[Another addition to the forum moderation staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/732825-addition-forum-moderation-staff-team.html)|`2026-01-17 10:32:00`|`Information and Announcements`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-01-17 10:18:00`|`Overwatch`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-17 09:55:00`|`Call of Duty: Black Ops 7`|
 |[SilentMod &#45; My first GTA Lua with unlock features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731883-silentmod-gta-lua-unlock-features.html)|`2026-01-17 08:38:00`|`Grand Theft Auto V`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-01-17 08:38:00`|`Battlefield 4`|
 |[Public lobby menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734063-public-lobby-menu.html)|`2026-01-17 08:14:00`|`Grand Theft Auto V`|
