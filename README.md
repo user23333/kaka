@@ -24,9 +24,16 @@
 |3|[CE gun and Nuns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52658)|`2026-01-18 00:13:39`|
 |42|[Tarkov Meta Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52655)|`2026-01-18 00:13:39`|
 |182|[HytaleServer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52645)|`2026-01-18 00:13:39`|
+|4|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52682)|`2026-01-18 00:36:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-18 00:34:00`|`Counter-Strike 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-18 00:19:00`|`Battlefield 6`|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-01-18 00:16:00`|`Other FPS Games`|
+|[Fix offline 10yrs ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734152-fix-offline-10yrs-ban.html)|`2026-01-18 00:15:00`|`PUBG Mobile`|
+|[Safe Money Method ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733392-safe-money-method.html)|`2026-01-18 00:15:00`|`Grand Theft Auto V`|
+|[AntiFrogLock &#91;internal deadlock&#93; cheat&#43;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/733656-antifroglock-internal-deadlock-cheat-source.html)|`2026-01-18 00:13:00`|`Deadlock`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-18 00:13:00`|`Valorant`|
 |[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-01-18 00:13:00`|`Genshin Impact`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-18 00:12:00`|`ARC Raiders`|
