@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust base update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734113-rust-base-update.html)|`2026-01-17 20:23:00`|`Rust`|
+|[Is there a way to permanently unlock limited time/unobtainable weapons and outfits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734118-permanently-unlock-limited-time-unobtainable-weapons-outfits.html)|`2026-01-17 20:13:00`|`Grand Theft Auto V`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-01-17 20:13:00`|`Other FPS Games`|
+|[Point Blank  EntityList,X,Y,Z Coordinates and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715493-blank-entitylist-coordinates.html)|`2026-01-17 20:07:00`|`Other Games`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-17 20:05:00`|`Apex Legends`|
 |[Problem with entitycacher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734114-entitycacher.html)|`2026-01-17 19:55:00`|`Counter-Strike 2`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-01-17 19:39:00`|`Grand Theft Auto V`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-17 19:32:00`|`Valorant`|
