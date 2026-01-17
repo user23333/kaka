@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ViewWorld Address 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732842-viewworld-address-32bit.html)|`2026-01-17 22:29:00`|`PUBG Mobile`|
+|[10 y fixer give 10 min  solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734100-10-fixer-10-min-solution.html)|`2026-01-17 22:28:00`|`PUBG Mobile`|
+|[Fix ESP Sock Pubg 64bit v4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734142-fix-esp-sock-pubg-64bit-v4-2-a.html)|`2026-01-17 22:25:00`|`PUBG Mobile`|
+|[ALL OFFSETS ESP PUBGM 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734140-offsets-esp-pubgm-4-2-a.html)|`2026-01-17 22:23:00`|`PUBG Mobile`|
 |[Simple Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734136-simple-valorant-internal.html)|`2026-01-17 22:07:00`|`Valorant`|
 |[valorant popup bypass method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734135-valorant-popup-bypass-method.html)|`2026-01-17 22:06:00`|`Valorant`|
 |[Patchless hooking via offset, no symbol name, no export, no import&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734134-patchless-hooking-via-offset-symbol-name-export-import.html)|`2026-01-17 22:03:00`|`General Programming and Reversing`|
