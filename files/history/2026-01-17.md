@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Old trainers & private servers/worlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/729772-trainers-private-servers-worlds.html)|`2026-01-17 22:35:00`|`Maple Story`|
 |[ViewWorld Address 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732842-viewworld-address-32bit.html)|`2026-01-17 22:29:00`|`PUBG Mobile`|
 |[10 y fixer give 10 min  solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734100-10-fixer-10-min-solution.html)|`2026-01-17 22:28:00`|`PUBG Mobile`|
 |[Fix ESP Sock Pubg 64bit v4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734142-fix-esp-sock-pubg-64bit-v4-2-a.html)|`2026-01-17 22:25:00`|`PUBG Mobile`|
