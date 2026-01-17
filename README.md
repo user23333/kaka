@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external instant revive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734045-external-instant-revive.html)|`2026-01-18 03:39:00`|`Rust`|
 |[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-18 03:18:00`|`Other MMORPG and Strategy`|
 |[Spectator List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734184-spectator-list.html)|`2026-01-18 03:23:00`|`Counter-Strike 2`|
 |[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2026-01-18 03:21:00`|`CounterStrike 1.5, 1.6 and Mods`|
