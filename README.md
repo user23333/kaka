@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Host&#95;AccumulateTime speedhack/slow motion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733800-host_accumulatetime-speedhack-slow-motion.html)|`2026-01-18 06:46:00`|`Garry's Mod`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-18 06:44:00`|`Other MMORPG and Strategy`|
 |[SPOOF TECH FIVEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734203-spoof-tech-fivem.html)|`2026-01-18 06:35:00`|`Alternative Online Mods`|
 |[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-01-18 06:24:00`|`Star Wars Battlefront 2`|
 |[Steps to make a spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718502-steps-spoofer.html)|`2026-01-18 06:14:00`|`Alternative Online Mods`|
