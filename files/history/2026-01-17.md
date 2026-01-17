@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-17 22:55:00`|`Other FPS Games`|
+|[how write kernel shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734144-write-kernel-shellcode.html)|`2026-01-17 22:53:00`|`Anti-Cheat Bypass`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-01-17 22:52:00`|`Other FPS Games`|
 |[Old trainers & private servers/worlds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/729772-trainers-private-servers-worlds.html)|`2026-01-17 22:35:00`|`Maple Story`|
 |[ViewWorld Address 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732842-viewworld-address-32bit.html)|`2026-01-17 22:29:00`|`PUBG Mobile`|
