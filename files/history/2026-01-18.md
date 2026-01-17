@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hello world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/729983-hello-world.html)|`2026-01-18 06:52:00`|`Forum General`|
+|[Help making a cheat for a game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733730-help-cheat-game.html)|`2026-01-18 06:51:00`|`Forum General`|
+|[looking for a buddy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734205-looking-buddy.html)|`2026-01-18 06:51:00`|`Off Topic`|
+|[Organising An Online UnknownCheats Conference](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733975-organising-online-unknowncheats-conference.html)|`2026-01-18 06:50:00`|`Forum General`|
 |[Host&#95;AccumulateTime speedhack/slow motion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733800-host_accumulatetime-speedhack-slow-motion.html)|`2026-01-18 06:46:00`|`Garry's Mod`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-18 06:44:00`|`Other MMORPG and Strategy`|
 |[SPOOF TECH FIVEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734203-spoof-tech-fivem.html)|`2026-01-18 06:35:00`|`Alternative Online Mods`|
