@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-18 01:38:00`|`Counter-Strike 2`|
+|[Any free releases?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734164-free-releases.html)|`2026-01-18 01:37:00`|`Rust`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-18 01:37:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-18 01:30:00`|`Rust`|
 |[arduino &#43; usb host shield&#45; Help Needed&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734161-arduino-usb-host-shield-help.html)|`2026-01-18 01:28:00`|`Valorant`|
 |[Macku?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734026-macku.html)|`2026-01-18 01:19:00`|`Valorant`|
 |[Mass&#45;Remove Friends Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734160-mass-remove-friends-tool.html)|`2026-01-18 01:18:00`|`Other FPS Games`|
