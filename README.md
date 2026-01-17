@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[arduino &#43; usb host shield&#45; Help Needed&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734161-arduino-usb-host-shield-help.html)|`2026-01-18 01:28:00`|`Valorant`|
+|[Macku?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734026-macku.html)|`2026-01-18 01:19:00`|`Valorant`|
+|[Mass&#45;Remove Friends Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734160-mass-remove-friends-tool.html)|`2026-01-18 01:18:00`|`Other FPS Games`|
+|[How to Resolve virtualized native handlers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734159-resolve-virtualized-native-handlers.html)|`2026-01-18 01:12:00`|`Alternative Online Mods`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-18 01:12:00`|`Valorant`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-01-18 01:09:00`|`Other FPS Games`|
 |[Kernel Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734156-kernel-mapper.html)|`2026-01-18 00:55:00`|`General Programming and Reversing`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2026-01-18 00:50:00`|`Alternative Online Mods`|
