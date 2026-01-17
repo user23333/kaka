@@ -27,9 +27,17 @@
 |182|[HytaleServer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52645)|`2026-01-18 00:13:39`|
 |4|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52682)|`2026-01-18 00:36:56`|
 |4|[SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52665)|`2026-01-18 03:12:56`|
+|4|[5&#46;3&#46;2&#45;2855162&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52684)|`2026-01-18 03:25:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectator List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734184-spectator-list.html)|`2026-01-18 03:23:00`|`Counter-Strike 2`|
+|[Zodiak &#45; Fastcup Full Kernel Driver Cheat v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/665011-zodiak-fastcup-kernel-driver-cheat-v2.html)|`2026-01-18 03:21:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[The new guy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/734154-guy.html)|`2026-01-18 03:21:00`|`Introductions`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-18 03:19:00`|`Apex Legends`|
+|[Days Gone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733623-days-gone-internal.html)|`2026-01-18 03:17:00`|`Other Single Player Games`|
+|[new credit method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733196-credit-method.html)|`2026-01-18 03:17:00`|`Rainbow Six Siege`|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-18 03:16:00`|`Insurgency`|
 |[&#91;After Patch FIX&#93; Please remove name&#46;gsc from your scripts folder&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/709370-patch-fix-please-remove-name-gsc-scripts-folder.html)|`2026-01-18 03:07:00`|`Call of Duty 4: Modern Warfare`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-01-18 03:01:00`|`Other FPS Games`|
 |[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-18 02:59:00`|`Escape from Tarkov`|
