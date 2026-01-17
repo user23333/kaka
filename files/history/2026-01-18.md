@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easy Silent Aim For CryEngine 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/734198-easy-silent-aim-cryengine-3-a.html)|`2026-01-18 05:47:00`|`Warface`|
+|[METRIA Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734087-metria-trainer.html)|`2026-01-18 05:43:00`|`Other MMORPG and Strategy`|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-18 05:00:00`|`Garry's Mod`|
 |[Saving Vehicles YimMenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733785-saving-vehicles-yimmenuv2.html)|`2026-01-18 04:57:00`|`Grand Theft Auto V`|
 |[SP despawn bypass global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734192-sp-despawn-bypass-global.html)|`2026-01-18 04:56:00`|`Grand Theft Auto V`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-18 04:54:00`|`Grand Theft Auto V`|
