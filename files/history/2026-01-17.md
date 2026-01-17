@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-01-17 18:32:00`|`Grand Theft Auto V`|
 |[Arc console xbox games pc solution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734110-arc-console-xbox-games-pc-solution.html)|`2026-01-17 18:03:00`|`ARC Raiders`|
 |[DMA unblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716636-dma-unblocker.html)|`2026-01-17 18:02:00`|`Anti-Cheat Bypass`|
 |[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-17 17:59:00`|`Valorant`|
