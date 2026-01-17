@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to resolve the issue of failed PID retrieval in PUBG&#45;DMA that causes ESP malfunct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/731869-resolve-issue-failed-pid-retrieval-pubg-dma-causes-esp-malfunct.html)|`2026-01-17 23:39:00`|`Playerunknown's Battlegrounds`|
 |[Need the following offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734099-following-offsets.html)|`2026-01-17 23:26:00`|`Counter-Strike 2`|
 |[yimmenuv2 safe after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734106-yimmenuv2-safe-update.html)|`2026-01-17 23:19:00`|`Grand Theft Auto V`|
 |[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-17 23:17:00`|`Other MMORPG and Strategy`|
