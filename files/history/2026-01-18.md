@@ -28,9 +28,14 @@
 |4|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52682)|`2026-01-18 00:36:56`|
 |4|[SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52665)|`2026-01-18 03:12:56`|
 |4|[5&#46;3&#46;2&#45;2855162&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52684)|`2026-01-18 03:25:50`|
+|2|[Days Gone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52685)|`2026-01-18 04:20:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-18 04:19:00`|`Apex Legends`|
+|[How To Fix Delay Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733658-fix-delay-ban.html)|`2026-01-18 04:14:00`|`Valorant`|
+|[Patched or not Patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/733558-patched-patched.html)|`2026-01-18 04:09:00`|`Apex Legends`|
+|[Sky Nade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734006-sky-nade.html)|`2026-01-18 04:02:00`|`Apex Legends`|
 |[&#46;NET injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734187-net-injection.html)|`2026-01-18 03:58:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-18 03:57:00`|`Apex Legends`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-18 03:56:00`|`Marvel Rivals`|
