@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-17 17:28:00`|`Counter-Strike 2`|
+|[Which hack menu allows you to play online with friends?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733994-hack-menu-allows-play-online-friends.html)|`2026-01-17 17:22:00`|`Grand Theft Auto V`|
+|[Warface Clutch cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/723137-warface-clutch-cheat.html)|`2026-01-17 17:11:00`|`Warface`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-17 17:08:00`|`Other MMORPG and Strategy`|
 |[PC Blacklist for cars/clothes and such?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733996-pc-blacklist-cars-clothes.html)|`2026-01-17 16:51:00`|`Grand Theft Auto V`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-01-17 16:30:00`|`Other FPS Games`|
