@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734156-kernel-mapper.html)|`2026-01-18 00:55:00`|`General Programming and Reversing`|
+|[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2026-01-18 00:50:00`|`Alternative Online Mods`|
 |[extremely slow python dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734155-extremely-slow-python-dumper.html)|`2026-01-18 00:47:00`|`Counter-Strike 2`|
 |[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-18 00:47:00`|`ARC Raiders`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-18 00:44:00`|`Other Single Player Games`|
