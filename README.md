@@ -12,6 +12,7 @@
 |27|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-18 00:13:39`|`other-mmorpg-and-strategy`|
 |22|[These method are detaclabe and most propably ban you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733437-method-detaclabe-propably-ban.html)|`2026-01-18 00:13:39`|`grand-theft-auto-v`|
 |7|[&#91;WIP&#93; Arc Raiders External Entity Loop &#45; Community Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733393-wip-arc-raiders-external-entity-loop-community-collab.html)|`2026-01-18 02:27:03`|`arc-raiders`|
+|4|[Hytale cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733967-hytale-cheat-engine-table.html)|`2026-01-18 19:09:36`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[macku cb/tb?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734262-macku-cb-tb.html)|`2026-01-18 19:02:00`|`Valorant`|
+|[D3D9 Menu 2026 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/734261-d3d9-menu-2026-source.html)|`2026-01-18 19:01:00`|`D3D Tutorials and Source`|
 |[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-01-18 18:53:00`|`C and C++`|
 |[How to increase trader reputation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733294-increase-trader-reputation.html)|`2026-01-18 18:47:00`|`Escape from Tarkov`|
 |[injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733856-injecting.html)|`2026-01-18 18:40:00`|`Rainbow Six Siege`|
