@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux Pattern Scanning with Wildcards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734307-linux-pattern-scanning-wildcards.html)|`2026-01-19 01:12:00`|`General Programming and Reversing`|
+|[How to update R3nzSkin offsets for the new Season?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/734244-update-r3nzskin-offsets-season.html)|`2026-01-19 01:07:00`|`League of Legends`|
+|[Saving Vehicles YimMenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733785-saving-vehicles-yimmenuv2.html)|`2026-01-19 00:58:00`|`Grand Theft Auto V`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-01-19 00:54:00`|`Other FPS Games`|
 |[Your experience with ItsGamerDoc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734305-experience-itsgamerdoc.html)|`2026-01-19 00:54:00`|`Valorant`|
 |[Internal player list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/728224-internal-player-list.html)|`2026-01-19 00:50:00`|`Alternative Online Mods`|
