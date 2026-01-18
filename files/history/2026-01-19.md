@@ -24,9 +24,14 @@
 |629|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52673)|`2026-01-19 00:12:25`|
 |23|[Skynade Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52671)|`2026-01-19 00:12:25`|
 |14|[SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52665)|`2026-01-19 00:12:25`|
+|4|[TRCheatv1&#46;4&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52702)|`2026-01-19 01:31:09`|
+|2|[ Simple Roblox External Base &#45; Usermode Sourc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52700)|`2026-01-19 01:31:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shadow Page on Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734309-shadow-page.html)|`2026-01-19 01:30:00`|`Anti-Cheat Bypass`|
+|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-19 01:24:00`|`Other MMORPG and Strategy`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-19 01:15:00`|`Apex Legends`|
 |[Linux Pattern Scanning with Wildcards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734307-linux-pattern-scanning-wildcards.html)|`2026-01-19 01:12:00`|`General Programming and Reversing`|
 |[How to update R3nzSkin offsets for the new Season?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/734244-update-r3nzskin-offsets-season.html)|`2026-01-19 01:07:00`|`League of Legends`|
 |[Saving Vehicles YimMenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733785-saving-vehicles-yimmenuv2.html)|`2026-01-19 00:58:00`|`Grand Theft Auto V`|
