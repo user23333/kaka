@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to increase trader reputation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733294-increase-trader-reputation.html)|`2026-01-18 18:47:00`|`Escape from Tarkov`|
+|[injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733856-injecting.html)|`2026-01-18 18:40:00`|`Rainbow Six Siege`|
 |[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-18 18:22:00`|`Rainbow Six Siege`|
 |[Any simple esp instead of &#91;removed&#93; recoil reducers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734217-simple-esp-instead-removed-recoil-reducers.html)|`2026-01-18 18:16:00`|`Rainbow Six Siege`|
 |[Dee Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734257-dee-rock-galactic-internal.html)|`2026-01-18 18:04:00`|`Other FPS Games`|
