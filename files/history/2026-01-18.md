@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[d3d9 buggy in full screen but fine in window mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/734255-d3d9-buggy-screen-fine-window-mode.html)|`2026-01-18 17:38:00`|`Direct3D`|
+|[What Have You Built in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733170-built-fivem.html)|`2026-01-18 17:38:00`|`Alternative Online Mods`|
 |[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-18 17:28:00`|`Valorant`|
 |[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2026-01-18 17:27:00`|`Counter-Strike 2`|
 |[Yimmenu With GTA 5 Online Custom Servers CyprusV 1&#46;70 3521](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734254-yimmenu-gta-5-online-custom-servers-cyprusv-1-70-3521-a.html)|`2026-01-18 17:11:00`|`Grand Theft Auto V`|
