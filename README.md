@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any simple esp instead of &#91;removed&#93; recoil reducers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734217-simple-esp-instead-removed-recoil-reducers.html)|`2026-01-18 18:16:00`|`Rainbow Six Siege`|
+|[Dee Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734257-dee-rock-galactic-internal.html)|`2026-01-18 18:04:00`|`Other FPS Games`|
 |[d3d9 buggy in full screen but fine in window mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/734255-d3d9-buggy-screen-fine-window-mode.html)|`2026-01-18 17:38:00`|`Direct3D`|
 |[What Have You Built in FiveM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/733170-built-fivem.html)|`2026-01-18 17:38:00`|`Alternative Online Mods`|
 |[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-18 17:28:00`|`Valorant`|
