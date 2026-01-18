@@ -45,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-19 07:08:00`|`Valorant`|
+|[Days Gone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733623-days-gone-internal.html)|`2026-01-19 07:07:00`|`Other Single Player Games`|
+|[no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734378-spread.html)|`2026-01-19 07:06:00`|`Counter-Strike 2`|
+|[KKD &#45; Kallmek3nnys Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734379-kkd-kallmek3nnys-kernel-driver.html)|`2026-01-19 07:06:00`|`Call of Duty: Black Ops 7`|
+|[Black Ops 2 RME forge Mode &#40;Example Working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/732851-black-ops-2-rme-forge-mode-example.html)|`2026-01-19 07:00:00`|`Call of Duty: Black Ops 2`|
 |[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2026-01-19 06:41:00`|`THE FINALS`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-19 06:41:00`|`Other FPS Games`|
 |[Macku?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734026-macku.html)|`2026-01-19 06:33:00`|`Valorant`|
