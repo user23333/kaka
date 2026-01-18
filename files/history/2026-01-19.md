@@ -45,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2026-01-19 07:41:00`|`Palworld`|
+|[Little beginner source to write memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/730627-little-beginner-source-write-memory.html)|`2026-01-19 07:35:00`|`C and C++`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-19 07:33:00`|`Playerunknown's Battlegrounds`|
+|[Beginner in Game Cheat Dev — Need Advice on the Essential Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/726716-beginner-game-cheat-dev-advice-essential-tools.html)|`2026-01-19 07:30:00`|`Programming for Beginners`|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-19 07:27:00`|`Garry's Mod`|
 |[How to dump protected game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724703-dump-protected-game.html)|`2026-01-19 07:26:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-19 07:24:00`|`Rust`|
 |[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-19 07:08:00`|`Valorant`|
