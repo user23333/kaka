@@ -32,9 +32,16 @@
 |2|[D3D9&#45;Cheat&#45;Base&#45;master](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52694)|`2026-01-19 02:44:14`|
 |3|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52692)|`2026-01-19 02:44:14`|
 |4|[Haxtale v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52691)|`2026-01-19 02:55:14`|
+|1|[DRG&#45;Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52693)|`2026-01-19 03:07:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dee Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734257-dee-rock-galactic-internal.html)|`2026-01-19 03:06:00`|`Other FPS Games`|
+|[YimMenu and Casino Rig slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732634-yimmenu-casino-rig-slots.html)|`2026-01-19 03:01:00`|`Grand Theft Auto V`|
+|[Kernel Driver for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733910-kernel-driver-linux.html)|`2026-01-19 03:01:00`|`Forum General`|
+|[buying oppressor mk2's with cherax lua api using basket transactions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733603-buying-oppressor-mk2s-cherax-lua-api-using-basket-transactions.html)|`2026-01-19 02:59:00`|`Grand Theft Auto V`|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-01-19 02:57:00`|`Marvel Rivals`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-19 02:56:00`|`Grand Theft Auto V`|
 |[Safest Method to making money with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733792-safest-method-money-yim.html)|`2026-01-19 02:54:00`|`Grand Theft Auto V`|
 |[i Got banned using YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734016-banned-using-yimmenu-v2.html)|`2026-01-19 02:52:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-19 02:51:00`|`Alternative Online Mods`|
