@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to dump protected game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/724703-dump-protected-game.html)|`2026-01-19 07:26:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-19 07:24:00`|`Rust`|
 |[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-19 07:08:00`|`Valorant`|
 |[Days Gone Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733623-days-gone-internal.html)|`2026-01-19 07:07:00`|`Other Single Player Games`|
 |[no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734378-spread.html)|`2026-01-19 07:06:00`|`Counter-Strike 2`|
