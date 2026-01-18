@@ -11,6 +11,7 @@
 |7|[Vanguard Emulator &#40;Old Codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733382-vanguard-emulator-codes.html)|`2026-01-19 00:12:25`|`anti-cheat-bypass`|
 |22|[These method are detaclabe and most propably ban you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733437-method-detaclabe-propably-ban.html)|`2026-01-19 00:12:25`|`grand-theft-auto-v`|
 |4|[Hytale cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733967-hytale-cheat-engine-table.html)|`2026-01-19 00:12:25`|`other-mmorpg-and-strategy`|
+|21|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-19 03:38:30`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I need offsets cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734014-offsets-cs2.html)|`2026-01-19 03:38:00`|`Counter-Strike 2`|
 |[Universal Prediction that Actually Works &#40;Iterative Method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732703-universal-prediction-actually-iterative-method.html)|`2026-01-19 03:22:00`|`Marvel Rivals`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-19 03:18:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-19 03:08:00`|`Other MMORPG and Strategy`|
