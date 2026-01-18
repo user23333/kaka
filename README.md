@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thickbullet offset change help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730668-thickbullet-offset-change-help.html)|`2026-01-19 04:52:00`|`Rust`|
 |[open fortess cheat updated sigs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734357-fortess-cheat-updated-sigs-offsets.html)|`2026-01-19 04:46:00`|`Team Fortress 2`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-01-19 04:41:00`|`Other FPS Games`|
 |[Hytale cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733967-hytale-cheat-engine-table.html)|`2026-01-19 04:39:00`|`Other MMORPG and Strategy`|
