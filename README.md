@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[would any 2pc makcu cb get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733482-2pc-makcu-cb-banned.html)|`2026-01-18 17:28:00`|`Valorant`|
+|[Updated CS2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/711462-updated-cs2-dumper.html)|`2026-01-18 17:27:00`|`Counter-Strike 2`|
 |[Yimmenu With GTA 5 Online Custom Servers CyprusV 1&#46;70 3521](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734254-yimmenu-gta-5-online-custom-servers-cyprusv-1-70-3521-a.html)|`2026-01-18 17:11:00`|`Grand Theft Auto V`|
 |[farming hours on steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/732506-farming-hours-steam.html)|`2026-01-18 17:09:00`|`Phasmophobia`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-18 16:34:00`|`Other MMORPG and Strategy`|
