@@ -31,9 +31,15 @@
 |9|[Jocasta Protocol 1&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52695)|`2026-01-19 02:44:14`|
 |2|[D3D9&#45;Cheat&#45;Base&#45;master](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52694)|`2026-01-19 02:44:14`|
 |3|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52692)|`2026-01-19 02:44:14`|
+|4|[Haxtale v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52691)|`2026-01-19 02:55:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safest Method to making money with yim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733792-safest-method-money-yim.html)|`2026-01-19 02:54:00`|`Grand Theft Auto V`|
+|[i Got banned using YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734016-banned-using-yimmenu-v2.html)|`2026-01-19 02:52:00`|`Grand Theft Auto V`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-19 02:51:00`|`Alternative Online Mods`|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2026-01-19 02:47:00`|`Valorant`|
+|[PTE&#45;mapped memory reading for cheating detected and account banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732883-pte-mapped-memory-reading-cheating-detected-account-banned.html)|`2026-01-19 02:45:00`|`Anti-Cheat Bypass`|
 |[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-19 02:42:00`|`Insurgency`|
 |[D3D9 Menu 2026 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/734261-d3d9-menu-2026-source.html)|`2026-01-19 02:40:00`|`D3D Tutorials and Source`|
 |[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-19 02:37:00`|`DayZ SA`|
