@@ -28,9 +28,16 @@
 |2|[ Simple Roblox External Base &#45; Usermode Sourc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52700)|`2026-01-19 01:31:09`|
 |3|[ Simple Roblox External ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52701)|`2026-01-19 01:43:21`|
 |1|[OpenIV&#95;Enhanced&#95;Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52681)|`2026-01-19 01:43:21`|
+|9|[Jocasta Protocol 1&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52695)|`2026-01-19 02:44:14`|
+|2|[D3D9&#45;Cheat&#45;Base&#45;master](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52694)|`2026-01-19 02:44:14`|
+|3|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52692)|`2026-01-19 02:44:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-19 02:42:00`|`Insurgency`|
+|[D3D9 Menu 2026 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/734261-d3d9-menu-2026-source.html)|`2026-01-19 02:40:00`|`D3D Tutorials and Source`|
+|[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-19 02:37:00`|`DayZ SA`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-01-19 02:33:00`|`Grand Theft Auto V`|
 |[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-19 02:16:00`|`Among Us`|
 |[external hitmarkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734296-external-hitmarkers.html)|`2026-01-19 02:03:00`|`Counter-Strike 2`|
 |[Rage:MP Native Handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734313-rage-mp-native-handler.html)|`2026-01-19 02:02:00`|`Alternative Online Mods`|
