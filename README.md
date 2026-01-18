@@ -30,9 +30,15 @@
 |4|[5&#46;3&#46;2&#45;2855162&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;0&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52684)|`2026-01-18 03:25:50`|
 |2|[Days Gone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52685)|`2026-01-18 04:20:31`|
 |1|[WoWRe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52680)|`2026-01-18 04:37:45`|
+|6|[Tester&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52689)|`2026-01-18 09:06:56`|
+|1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52688)|`2026-01-18 09:06:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2026-01-18 08:55:00`|`Other MMORPG and Strategy`|
+|[People using mods in CGB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/734228-people-using-mods-cgb.html)|`2026-01-18 08:50:00`|`Halo`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-01-18 08:47:00`|`Other FPS Games`|
+|[How Vanguard works with Valorant &#43; Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/702821-vanguard-valorant-disabler.html)|`2026-01-18 08:40:00`|`Anti-Cheat Bypass`|
 |[How to find offsets and all that](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734219-offsets.html)|`2026-01-18 07:51:00`|`General Programming and Reversing`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-18 07:34:00`|`Escape from Tarkov`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-18 07:19:00`|`Other Games`|
