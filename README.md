@@ -13,6 +13,7 @@
 |4|[Hytale cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733967-hytale-cheat-engine-table.html)|`2026-01-19 00:12:25`|`other-mmorpg-and-strategy`|
 |21|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-19 03:38:30`|`helldivers-2-a`|
 |7|[&#91;WIP&#93; Arc Raiders External Entity Loop &#45; Community Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733393-wip-arc-raiders-external-entity-loop-community-collab.html)|`2026-01-19 06:00:23`|`arc-raiders`|
+|15|[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-01-19 06:49:28`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals ColorBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/669800-finals-colorbot.html)|`2026-01-19 06:41:00`|`THE FINALS`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-19 06:41:00`|`Other FPS Games`|
 |[Macku?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734026-macku.html)|`2026-01-19 06:33:00`|`Valorant`|
 |[how to fix desync prolems on gta online with yimmenu v2 legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734377-fix-desync-prolems-gta-online-yimmenu-v2-legacy.html)|`2026-01-19 06:28:00`|`Grand Theft Auto V`|
 |[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2026-01-19 06:27:00`|`Grand Theft Auto V`|
