@@ -34,9 +34,18 @@
 |3|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52692)|`2026-01-19 02:44:14`|
 |4|[Haxtale v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52691)|`2026-01-19 02:55:14`|
 |1|[DRG&#45;Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52693)|`2026-01-19 03:07:18`|
+|7|[Disability Access Protector &#40;DAP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52703)|`2026-01-19 04:35:11`|
+|1|[ZALUPA&#95;DUMPED&#95;BY&#95;CHECHEN&#46;TEAM&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52697)|`2026-01-19 04:35:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed RW driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734284-signed-rw-driver.html)|`2026-01-19 04:34:00`|`Anti-Cheat Bypass`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-19 04:28:00`|`Battlefield 6`|
+|[navmesh&#45;parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733972-navmesh-parser.html)|`2026-01-19 04:25:00`|`Counter-Strike 2`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2026-01-19 04:19:00`|`Among Us`|
+|[February 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/734266-february-2026-motm-nominations.html)|`2026-01-19 04:18:00`|`Member of the Month`|
+|[Someone should try to make a cheat for the casino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/720940-try-cheat-casino.html)|`2026-01-19 04:17:00`|`Garry's Mod`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-19 04:16:00`|`Escape from Tarkov`|
 |[Legend/Icon bytes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734354-legend-icon-bytes.html)|`2026-01-19 04:12:00`|`Apex Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-01-19 04:09:00`|`Rainbow Six Siege`|
 |[Hunt: Showdown &#91;DMA&#93; &#91;ESP/AIMBOT&#93; &#91;Full Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734037-hunt-showdown-dma-esp-aimbot-source.html)|`2026-01-19 04:07:00`|`Other MMORPG and Strategy`|
