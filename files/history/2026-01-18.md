@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to solve the problem of rendering laggy / not smooth ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/734245-solve-rendering-laggy-smooth.html)|`2026-01-18 12:48:00`|`Playerunknown's Battlegrounds`|
+|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-18 12:43:00`|`Escape from Tarkov`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-01-18 12:26:00`|`Other MMORPG and Strategy`|
+|[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-01-18 12:18:00`|`Generals and Zero Hour`|
 |[black ops 3 ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/580465-black-ops-3-esp-aimbot.html)|`2026-01-18 12:01:00`|`Call of Duty: Black Ops 3`|
 |[why do some rust scripts require a usb then ask me to remove it after launching app?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732376-rust-scripts-require-usb-remove-launching-app.html)|`2026-01-18 12:00:00`|`Rust`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2026-01-18 11:45:00`|`Other FPS Games`|
