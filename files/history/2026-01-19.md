@@ -46,6 +46,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-19 12:46:00`|`Palworld`|
+|[Steps to make a spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/718502-steps-spoofer.html)|`2026-01-19 12:43:00`|`Alternative Online Mods`|
+|[Escape The Backrooms ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733615-escape-backrooms-esp.html)|`2026-01-19 12:43:00`|`Other FPS Games`|
+|[Need the following offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734099-following-offsets.html)|`2026-01-19 12:38:00`|`Counter-Strike 2`|
+|[SharpMonoInjector Fixed and Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/408878-sharpmonoinjector-fixed-updated.html)|`2026-01-19 12:38:00`|`Unity`|
 |[Looking for a safe alternative to Kiddion's Modest Menu for v1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734355-looking-safe-alternative-kiddions-modest-menu-v1-72-a.html)|`2026-01-19 12:10:00`|`Grand Theft Auto V`|
 |[How to solve the problem of rendering laggy / not smooth ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/734245-solve-rendering-laggy-smooth.html)|`2026-01-19 12:09:00`|`Playerunknown's Battlegrounds`|
 |[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-19 12:04:00`|`Anti-Cheat Bypass`|
