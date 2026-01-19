@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerserverevent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734419-triggerserverevent.html)|`2026-01-19 17:08:00`|`Alternative Online Mods`|
+|[Is a kernel driver sufficient to make an external cheat undetectable in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734418-kernel-driver-sufficient-external-cheat-undetectable-cs2.html)|`2026-01-19 17:05:00`|`Counter-Strike 2`|
+|[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-01-19 16:53:00`|`Genshin Impact`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-19 16:40:00`|`Valorant`|
 |[Anti Flashbang &#45; No Flash Counter Strike 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/725027-anti-flashbang-flash-counter-strike-2-a.html)|`2026-01-19 16:39:00`|`Counter-Strike 2`|
 |[passive mode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734416-passive-mode.html)|`2026-01-19 16:37:00`|`Alternative Online Mods`|
