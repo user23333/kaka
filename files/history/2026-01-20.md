@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2026-01-20 04:43:00`|`Other FPS Games`|
 |[Where to start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734306-start.html)|`2026-01-20 04:25:00`|`Grand Theft Auto V`|
 |[Fix offline 10yrs ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734152-fix-offline-10yrs-ban.html)|`2026-01-20 04:23:00`|`PUBG Mobile`|
 |[External menu for GTAV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734437-external-menu-gtav.html)|`2026-01-20 04:18:00`|`Grand Theft Auto V`|
