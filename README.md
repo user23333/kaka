@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for a safe alternative to Kiddion's Modest Menu for v1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734355-looking-safe-alternative-kiddions-modest-menu-v1-72-a.html)|`2026-01-19 12:10:00`|`Grand Theft Auto V`|
+|[How to solve the problem of rendering laggy / not smooth ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/734245-solve-rendering-laggy-smooth.html)|`2026-01-19 12:09:00`|`Playerunknown's Battlegrounds`|
+|[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-19 12:04:00`|`Anti-Cheat Bypass`|
+|[Surroundead internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730642-surroundead-internal.html)|`2026-01-19 11:54:00`|`Other FPS Games`|
+|[injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733856-injecting.html)|`2026-01-19 11:40:00`|`Rainbow Six Siege`|
+|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-19 11:40:00`|`League of Legends`|
 |[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-19 11:01:00`|`Escape from Tarkov`|
 |[player model shaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733240-player-model-shaking.html)|`2026-01-19 11:00:00`|`Counter-Strike 2`|
 |[CVE&#45;2015&#45;2291 &#40;iQVW64&#46;sys&#41; Spoofer Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734399-cve-2015-2291-iqvw64-sys-spoofer-analysis.html)|`2026-01-19 10:58:00`|`Anti-Cheat Bypass`|
