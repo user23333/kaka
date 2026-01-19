@@ -47,6 +47,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-19 20:33:00`|`Other Games`|
 |[Bot Lobby Bots getting shadow banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734424-bot-lobby-bots-getting-shadow-banned.html)|`2026-01-19 19:50:00`|`Call of Duty: Black Ops 7`|
 |[Mouse Driver Working for Rust Input 2026 &#91;SIGNED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734423-mouse-driver-rust-input-2026-signed.html)|`2026-01-19 19:43:00`|`Rust`|
 |[Arc Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733640-arc-console.html)|`2026-01-19 19:11:00`|`ARC Raiders`|
