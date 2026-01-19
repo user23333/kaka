@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-19 11:01:00`|`Escape from Tarkov`|
+|[player model shaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733240-player-model-shaking.html)|`2026-01-19 11:00:00`|`Counter-Strike 2`|
+|[CVE&#45;2015&#45;2291 &#40;iQVW64&#46;sys&#41; Spoofer Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734399-cve-2015-2291-iqvw64-sys-spoofer-analysis.html)|`2026-01-19 10:58:00`|`Anti-Cheat Bypass`|
+|[Capturing CS2 with OBS STUDIO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734396-capturing-cs2-obs-studio.html)|`2026-01-19 10:54:00`|`Counter-Strike 2`|
+|[CS2 External Base&#40;update offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/722203-cs2-external-base-update-offsets.html)|`2026-01-19 10:48:00`|`Counter-Strike 2`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-19 10:47:00`|`Counter-Strike 2`|
 |[gta 5 battleye working menu &#40;no dma&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/714342-gta-5-battleye-menu-dma.html)|`2026-01-19 08:53:00`|`Grand Theft Auto V`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-19 08:51:00`|`ARC Raiders`|
 |[SP despawn bypass global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734192-sp-despawn-bypass-global.html)|`2026-01-19 08:35:00`|`Grand Theft Auto V`|
