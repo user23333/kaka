@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAV&#95;Trainer&#95;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734442-gtav_trainer_2026-a.html)|`2026-01-20 04:09:00`|`Grand Theft Auto V`|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-20 04:09:00`|`Among Us`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-20 03:35:00`|`Red Dead Redemption 2`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2026-01-20 03:28:00`|`Marvel Rivals`|
 |[Decryption for rust pirate &#40;alkad&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734148-decryption-rust-pirate-alkad.html)|`2026-01-20 03:22:00`|`Rust`|
