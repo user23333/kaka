@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The PAK file is not loading&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/734491-pak-file-loading.html)|`2026-01-20 05:27:00`|`Playerunknown's Battlegrounds`|
+|[Free BE Bypass Menu/Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734490-free-bypass-menu-tools.html)|`2026-01-20 05:20:00`|`Grand Theft Auto V`|
 |[Could anyone help or know of anythting to do with this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734038-help-anythting.html)|`2026-01-20 05:12:00`|`Grand Theft Auto V`|
 |[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-01-20 04:58:00`|`ARC Raiders`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2026-01-20 04:43:00`|`Other FPS Games`|
