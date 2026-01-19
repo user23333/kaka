@@ -47,6 +47,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse Driver Working for Rust Input 2026 &#91;SIGNED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734423-mouse-driver-rust-input-2026-signed.html)|`2026-01-19 19:43:00`|`Rust`|
+|[Arc Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733640-arc-console.html)|`2026-01-19 19:11:00`|`ARC Raiders`|
 |[Reversing vgk&#46;sys at application&#45;layer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/619374-reversing-vgk-sys-application-layer.html)|`2026-01-19 19:11:00`|`Anti-Cheat Bypass`|
 |[Metadata Dumper &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733790-metadata-dumper-source.html)|`2026-01-19 18:22:00`|`Escape from Tarkov`|
 |[injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732752-injection.html)|`2026-01-19 17:56:00`|`Counter-Strike 2`|
