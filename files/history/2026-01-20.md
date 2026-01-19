@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-20 05:57:00`|`PUBG Mobile`|
+|[How to increase trader reputation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733294-increase-trader-reputation.html)|`2026-01-20 05:52:00`|`Escape from Tarkov`|
+|[open&#95;hook 32BIT GLOBAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734492-open_hook-32bit-global.html)|`2026-01-20 05:51:00`|`PUBG Mobile`|
 |[Jump Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734088-jump-bug.html)|`2026-01-20 05:47:00`|`Counter-Strike 2`|
 |[The PAK file is not loading&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/734491-pak-file-loading.html)|`2026-01-20 05:27:00`|`Playerunknown's Battlegrounds`|
 |[Free BE Bypass Menu/Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734490-free-bypass-menu-tools.html)|`2026-01-20 05:20:00`|`Grand Theft Auto V`|
