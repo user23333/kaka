@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-01-19 14:56:00`|`Other FPS Games`|
+|[Secure Boot &#91;Update Javelin&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734059-secure-boot-update-javelin.html)|`2026-01-19 14:48:00`|`Battlefield 6`|
+|[INACCESSIBLE&#95;BOOT&#95;DEVICE BSOD after Valorant install](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734270-inaccessible_boot_device-bsod-valorant-install.html)|`2026-01-19 14:47:00`|`Valorant`|
+|[How Create AutoStafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733651-create-autostafe.html)|`2026-01-19 14:36:00`|`Counter-Strike 2`|
 |[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2026-01-19 14:22:00`|`Grand Theft Auto V`|
 |[When Cheat Development Stopped Being a Hobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/732387-cheat-development-stopped-hobby.html)|`2026-01-19 14:12:00`|`Off Topic`|
 |[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-19 13:59:00`|`ARC Raiders`|
