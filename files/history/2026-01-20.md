@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-20 06:37:00`|`League of Legends`|
+|[Ultimate HvH Cheat &#123; Better Resolver : More config AA : Prediction &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685209-ultimate-hvh-cheat-resolver-config-aa-prediction.html)|`2026-01-20 06:36:00`|`Garry's Mod`|
+|[unsigned driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/727625-unsigned-driver.html)|`2026-01-20 06:35:00`|`Call of Duty: Black Ops 7`|
+|[How to get cr3 eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734497-cr3-eac.html)|`2026-01-20 06:31:00`|`Anti-Cheat Bypass`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-20 06:31:00`|`Playerunknown's Battlegrounds`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-20 06:04:00`|`Grand Theft Auto V`|
 |[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-20 05:57:00`|`PUBG Mobile`|
 |[How to increase trader reputation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733294-increase-trader-reputation.html)|`2026-01-20 05:52:00`|`Escape from Tarkov`|
