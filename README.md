@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-20 03:35:00`|`Red Dead Redemption 2`|
+|[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2026-01-20 03:28:00`|`Marvel Rivals`|
 |[Decryption for rust pirate &#40;alkad&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734148-decryption-rust-pirate-alkad.html)|`2026-01-20 03:22:00`|`Rust`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-01-20 03:20:00`|`Other FPS Games`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-01-20 03:12:00`|`Counter-Strike 2 Releases`|
