@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2026-01-19 14:22:00`|`Grand Theft Auto V`|
+|[When Cheat Development Stopped Being a Hobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/732387-cheat-development-stopped-hobby.html)|`2026-01-19 14:12:00`|`Off Topic`|
+|[respawn method &#40;client console&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733147-respawn-method-client-console.html)|`2026-01-19 13:59:00`|`ARC Raiders`|
 |[Copy My Write](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732156-copy-write.html)|`2026-01-19 13:14:00`|`Anti-Cheat Bypass`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-19 13:06:00`|`Other FPS Games`|
 |[new credit method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/733196-credit-method.html)|`2026-01-19 13:02:00`|`Rainbow Six Siege`|
