@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Resolve virtualized native handlers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734159-resolve-virtualized-native-handlers.html)|`2026-01-20 00:43:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-20 00:43:00`|`Other FPS Games`|
+|[Arknight Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734448-arknight-endfield.html)|`2026-01-20 00:37:00`|`Other MMORPG and Strategy`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-20 00:36:00`|`Escape from Tarkov`|
+|[YimMenu and Casino Rig slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732634-yimmenu-casino-rig-slots.html)|`2026-01-20 00:36:00`|`Grand Theft Auto V`|
+|[offline cheat testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733507-offline-cheat-testing.html)|`2026-01-20 00:33:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-20 00:33:00`|`Alternative Online Mods`|
+|[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-20 00:28:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-20 00:25:00`|`Rust`|
 |[KKD &#45; Kallmek3nnys Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734379-kkd-kallmek3nnys-kernel-driver.html)|`2026-01-20 00:13:00`|`Call of Duty: Black Ops 7`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-01-20 00:09:00`|`Overwatch`|
 |[Triggerserverevent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734419-triggerserverevent.html)|`2026-01-20 00:09:00`|`Alternative Online Mods`|
