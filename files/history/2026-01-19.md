@@ -48,6 +48,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HvH C2 Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730571-hvh-c2-source-code.html)|`2026-01-19 22:16:00`|`Counter-Strike 2`|
+|[Decryption for rust pirate &#40;alkad&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734148-decryption-rust-pirate-alkad.html)|`2026-01-19 22:14:00`|`Rust`|
+|[Hypervisor spoofers/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734434-hypervisor-spoofers-cheats.html)|`2026-01-19 22:10:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-19 22:09:00`|`Call of Duty: Black Ops 7`|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-19 22:05:00`|`Other FPS Games`|
 |[Finding the weapon info&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734433-finding-weapon-info.html)|`2026-01-19 21:24:00`|`Counter-Strike 2`|
 |[is Aiming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734431-aiming.html)|`2026-01-19 21:19:00`|`Apex Legends`|
 |[Bombardino Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/704529-bombardino-internal.html)|`2026-01-19 21:17:00`|`Marvel Rivals`|
