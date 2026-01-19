@@ -16,6 +16,7 @@
 |15|[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-01-19 06:49:28`|`genshin-impact`|
 |14|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-19 06:55:32`|`payday-3-a`|
 |20|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-01-19 08:56:08`|`other-fps-games`|
+|7|[Arc Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733640-arc-console.html)|`2026-01-19 19:41:19`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
