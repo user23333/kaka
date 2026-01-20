@@ -25,9 +25,14 @@
 |6|[aoe2&#95;de&#95;simple&#95;esp&#95;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52708)|`2026-01-21 00:28:31`|
 |19|[source&#45;code of open fortess cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52706)|`2026-01-21 00:28:31`|
 |8|[open fortess cheat ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52705)|`2026-01-21 00:28:31`|
+|4|[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52734)|`2026-01-21 06:39:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure Boot &#91;Update Javelin&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734059-secure-boot-update-javelin.html)|`2026-01-21 06:38:00`|`Battlefield 6`|
+|[Your experience with ItsGamerDoc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734305-experience-itsgamerdoc.html)|`2026-01-21 06:31:00`|`Valorant`|
+|[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2026-01-21 06:19:00`|`Other FPS Games`|
+|[BANNED? Talk about it here&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/260899-banned-talk.html)|`2026-01-21 06:12:00`|`Playerunknown's Battlegrounds`|
 |[What are injectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734593-injectors.html)|`2026-01-21 06:00:00`|`General Programming and Reversing`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-21 06:00:00`|`Counter-Strike 2 Releases`|
 |[Internal Cheat ESP and Aimbot No Work Correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734687-internal-cheat-esp-aimbot-correctly.html)|`2026-01-21 05:59:00`|`Valorant`|
