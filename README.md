@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bf1 cheat engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/502690-bf1-cheat-engine.html)|`2026-01-21 06:52:00`|`Battlefield 1`|
+|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-21 06:45:00`|`Counter-Strike 2`|
 |[G&#45;old Give cars to Peopple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734612-cars-peopple.html)|`2026-01-21 06:44:00`|`Grand Theft Auto V`|
 |[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-21 06:41:00`|`Other MMORPG and Strategy`|
 |[A noobie trying to learn and get into developing cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734688-noobie-trying-learn-developing-cheats.html)|`2026-01-21 06:41:00`|`Counter-Strike 2`|
