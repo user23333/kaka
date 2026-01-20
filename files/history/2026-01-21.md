@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What are injectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734593-injectors.html)|`2026-01-21 06:00:00`|`General Programming and Reversing`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-21 06:00:00`|`Counter-Strike 2 Releases`|
+|[Internal Cheat ESP and Aimbot No Work Correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734687-internal-cheat-esp-aimbot-correctly.html)|`2026-01-21 05:59:00`|`Valorant`|
 |[exe that reads game internet trafic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/733463-exe-reads-game-internet-trafic.html)|`2026-01-21 05:57:00`|`Sea of Thieves`|
 |[Skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734694-skeleton.html)|`2026-01-21 05:44:00`|`Rainbow Six Siege`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-01-21 05:39:00`|`Other MMORPG and Strategy`|
