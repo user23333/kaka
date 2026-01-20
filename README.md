@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are BugCrowd and HackerOne Good Options for Finding Easy Vuln and Bug Bounty Programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734519-bugcrowd-hackerone-options-finding-easy-vuln-bug-bounty-programs.html)|`2026-01-21 07:01:00`|`Off Topic`|
+|[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-21 06:56:00`|`Other FPS Games`|
 |[bf1 cheat engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/502690-bf1-cheat-engine.html)|`2026-01-21 06:52:00`|`Battlefield 1`|
 |[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-21 06:45:00`|`Counter-Strike 2`|
 |[G&#45;old Give cars to Peopple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734612-cars-peopple.html)|`2026-01-21 06:44:00`|`Grand Theft Auto V`|
