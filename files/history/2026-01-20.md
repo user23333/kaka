@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resident Evil 7 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719624-resident-evil-7-tool-internal-cheat-auto-inject.html)|`2026-01-20 09:16:00`|`Other FPS Games`|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-20 09:13:00`|`Insurgency`|
+|[Console Command Work around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733410-console-command.html)|`2026-01-20 09:09:00`|`ARC Raiders`|
 |[Mouse Driver Working for Rust Input 2026 &#91;SIGNED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734423-mouse-driver-rust-input-2026-signed.html)|`2026-01-20 07:54:00`|`Rust`|
 |[nightmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734496-nightmode.html)|`2026-01-20 07:53:00`|`Counter-Strike 2`|
 |[Kernel Driver for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733910-kernel-driver-linux.html)|`2026-01-20 07:49:00`|`Forum General`|
