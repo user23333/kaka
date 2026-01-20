@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-21 02:38:00`|`Other MMORPG and Strategy`|
+|[open&#95;hook 32BIT GLOBAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734492-open_hook-32bit-global.html)|`2026-01-21 02:36:00`|`PUBG Mobile`|
+|[How to Dump Offsets Using Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734605-dump-offsets-using-linux.html)|`2026-01-21 02:36:00`|`ARC Raiders`|
+|[How to set up a Makcu 2PC using a phone instead of a second PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733971-set-makcu-2pc-using-phone-instead-pc.html)|`2026-01-21 02:22:00`|`Valorant`|
+|[Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734409-heartopia.html)|`2026-01-21 02:20:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-21 01:56:00`|`Rust`|
 |[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-21 01:51:00`|`DayZ SA`|
 |[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-01-21 01:43:00`|`ARC Raiders`|
