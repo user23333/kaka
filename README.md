@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is a kernel driver sufficient to make an external cheat undetectable in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734418-kernel-driver-sufficient-external-cheat-undetectable-cs2.html)|`2026-01-20 23:37:00`|`Counter-Strike 2`|
+|[how write kernel shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734144-write-kernel-shellcode.html)|`2026-01-20 23:36:00`|`Anti-Cheat Bypass`|
+|[MmGetPhysicalMemoryRanges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734580-mmgetphysicalmemoryranges.html)|`2026-01-20 23:29:00`|`Anti-Cheat Bypass`|
 |[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-01-20 23:33:00`|`ARC Raiders`|
 |[How to create a secure overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726335-create-secure-overlay.html)|`2026-01-20 23:19:00`|`Anti-Cheat Bypass`|
 |[How to launch multiple steam game clients?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733214-launch-multiple-steam-game-clients.html)|`2026-01-20 23:09:00`|`Forum General`|
