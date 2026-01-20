@@ -32,9 +32,11 @@
 |1|[DML&#95;PalworldInternal&#95;v07084578&#95;XboxV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52715)|`2026-01-20 13:00:50`|
 |2|[Haxtale v0&#46;1 &#45; Open source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52711)|`2026-01-20 13:00:50`|
 |1|[aoe2&#95;de&#95;simple&#95;esp&#95;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52708)|`2026-01-20 13:00:50`|
+|1|[ArcRadar&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52726)|`2026-01-20 15:36:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-01-20 15:31:00`|`Generals and Zero Hour`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-20 14:45:00`|`Counter-Strike 2`|
 |[extremely slow python dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734155-extremely-slow-python-dumper.html)|`2026-01-20 14:21:00`|`Counter-Strike 2`|
 |[New PC to bypass Van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734495-pc-bypass-van-152-a.html)|`2026-01-20 14:02:00`|`Valorant`|
