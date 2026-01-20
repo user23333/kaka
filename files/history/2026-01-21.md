@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-21 01:56:00`|`Rust`|
 |[help me understand silent aim &#40;DayZ external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/733777-help-understand-silent-aim-dayz-external.html)|`2026-01-21 01:51:00`|`DayZ SA`|
 |[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-01-21 01:43:00`|`ARC Raiders`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-21 01:31:00`|`Grand Theft Auto V`|
