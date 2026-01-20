@@ -26,9 +26,13 @@
 |19|[source&#45;code of open fortess cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52706)|`2026-01-21 00:28:31`|
 |8|[open fortess cheat ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52705)|`2026-01-21 00:28:31`|
 |4|[Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52734)|`2026-01-21 06:39:07`|
+|2|[TP Hacks &#124; Hytale &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52729)|`2026-01-21 06:49:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[G&#45;old Give cars to Peopple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734612-cars-peopple.html)|`2026-01-21 06:44:00`|`Grand Theft Auto V`|
+|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-21 06:41:00`|`Other MMORPG and Strategy`|
+|[A noobie trying to learn and get into developing cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734688-noobie-trying-learn-developing-cheats.html)|`2026-01-21 06:41:00`|`Counter-Strike 2`|
 |[Secure Boot &#91;Update Javelin&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734059-secure-boot-update-javelin.html)|`2026-01-21 06:38:00`|`Battlefield 6`|
 |[Your experience with ItsGamerDoc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734305-experience-itsgamerdoc.html)|`2026-01-21 06:31:00`|`Valorant`|
 |[Ready Or Not Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/625051-ready-internal-cheat.html)|`2026-01-21 06:19:00`|`Other FPS Games`|
