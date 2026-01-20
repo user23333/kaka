@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-01-20 16:07:00`|`ARMA 3`|
 |[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-01-20 15:31:00`|`Generals and Zero Hour`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-20 14:45:00`|`Counter-Strike 2`|
 |[extremely slow python dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734155-extremely-slow-python-dumper.html)|`2026-01-20 14:21:00`|`Counter-Strike 2`|
