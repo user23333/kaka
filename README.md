@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-20 19:25:00`|`Valorant`|
+|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-20 19:15:00`|`Other MMORPG and Strategy`|
+|[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-01-20 19:07:00`|`Other MMORPG and Strategy`|
 |[FN/Rust eac dump with fixed IAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733504-fn-rust-eac-dump-fixed-iat.html)|`2026-01-20 18:36:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-20 18:09:00`|`Apex Legends`|
 |[Any simple esp instead of &#91;removed&#93; recoil reducers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734217-simple-esp-instead-removed-recoil-reducers.html)|`2026-01-20 18:08:00`|`Rainbow Six Siege`|
