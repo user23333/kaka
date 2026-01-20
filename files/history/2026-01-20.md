@@ -12,6 +12,7 @@
 |9|[Arc Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733640-arc-console.html)|`2026-01-20 00:17:05`|`arc-raiders`|
 |15|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-20 00:17:05`|`garry-s-mod`|
 |8|[DoubleTap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733940-doubletap.html)|`2026-01-20 06:51:29`|`counter-strike-2-a`|
+|11|[Signed RW driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734284-signed-rw-driver.html)|`2026-01-20 21:36:34`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720777-fivem-aimbot-esp.html)|`2026-01-20 21:32:00`|`Alternative Online Mods`|
+|[Team Check via DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734567-team-check-via-dma.html)|`2026-01-20 21:23:00`|`Call of Duty: Black Ops 7`|
 |[What bot lobby tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/732672-bot-lobby-tool.html)|`2026-01-20 20:39:00`|`Call of Duty: Black Ops 7`|
 |[Undetected External PointBlank ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/728882-undetected-external-pointblank-id.html)|`2026-01-20 20:35:00`|`Other FPS Games`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-20 19:54:00`|`Tom Clancy's The Division`|
