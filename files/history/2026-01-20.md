@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-20 22:49:00`|`League of Legends`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-01-20 22:27:00`|`Rainbow Six Siege`|
 |[Is this all i need for PVE cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734493-pve-cheats.html)|`2026-01-20 22:27:00`|`Escape from Tarkov`|
 |[Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734409-heartopia.html)|`2026-01-20 21:57:00`|`Other Games`|
