@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help with External Bone ESP implementation in L4D2 &#45; Have foundation but missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726488-help-external-bone-esp-implementation-l4d2-foundation-missing.html)|`2026-01-20 16:47:00`|`Other FPS Games`|
+|[LORD OF THE RINGS ONLINE &#40;LOTRO&#41; cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734552-lord-rings-online-lotro-cheat.html)|`2026-01-20 16:42:00`|`Other MMORPG and Strategy`|
+|[Looking for Updated Sigs – Fall1866 Dumper / RE Study](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/734551-looking-updated-sigs-fall1866-dumper-re-study.html)|`2026-01-20 16:22:00`|`DayZ SA`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-01-20 16:07:00`|`ARMA 3`|
 |[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-01-20 15:31:00`|`Generals and Zero Hour`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-01-20 14:45:00`|`Counter-Strike 2`|
