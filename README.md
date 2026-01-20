@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AntiFrogLock &#91;internal deadlock&#93; cheat&#43;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/733656-antifroglock-internal-deadlock-cheat-source.html)|`2026-01-20 17:14:00`|`Deadlock`|
 |[Need help with External Bone ESP implementation in L4D2 &#45; Have foundation but missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726488-help-external-bone-esp-implementation-l4d2-foundation-missing.html)|`2026-01-20 16:47:00`|`Other FPS Games`|
 |[LORD OF THE RINGS ONLINE &#40;LOTRO&#41; cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734552-lord-rings-online-lotro-cheat.html)|`2026-01-20 16:42:00`|`Other MMORPG and Strategy`|
 |[Looking for Updated Sigs – Fall1866 Dumper / RE Study](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/734551-looking-updated-sigs-fall1866-dumper-re-study.html)|`2026-01-20 16:22:00`|`DayZ SA`|
