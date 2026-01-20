@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Definitive Ultimate Cheatpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/633084-definitive-ultimate-cheatpack.html)|`2026-01-21 04:52:00`|`Star Wars Battlefront 2`|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2026-01-21 04:48:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Any nice cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/734596-nice-cheats.html)|`2026-01-21 04:42:00`|`Among Us`|
+|[Server ignores attack1&#95;start&#95;history&#95;index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734684-server-ignores-attack1_start_history_index.html)|`2026-01-21 04:37:00`|`Counter-Strike 2`|
+|[New PC to bypass Van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734495-pc-bypass-van-152-a.html)|`2026-01-21 04:37:00`|`Valorant`|
 |[Demacia Rising Minigame CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/733202-demacia-rising-minigame-ce.html)|`2026-01-21 04:28:00`|`League of Legends`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-01-21 04:21:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-21 04:19:00`|`League of Legends`|
