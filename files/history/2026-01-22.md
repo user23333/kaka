@@ -11,6 +11,7 @@
 |8|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-22 01:40:35`|`counter-strike-2-a`|
 |14|[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-01-22 01:40:35`|`arc-raiders`|
 |13|[Metadata Dumper &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733790-metadata-dumper-source.html)|`2026-01-22 01:40:35`|`escape-from-tarkov`|
+|12|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-01-22 05:56:55`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734694-skeleton.html)|`2026-01-22 05:54:00`|`Rainbow Six Siege`|
+|[how do manual bans work? &#43; question abt vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734857-manual-bans-question-abt-vgc.html)|`2026-01-22 05:50:00`|`Valorant`|
+|[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-22 05:46:00`|`Call of Duty 6: Modern Warfare 2`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-01-22 05:46:00`|`Elite: Dangerous`|
 |[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2026-01-22 05:40:00`|`Call of Duty: Black Ops 7`|
 |[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-01-22 05:37:00`|`Counter-Strike 2`|
 |[Rocket League GNames & GObjects offsets finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/731861-rocket-league-gnames-gobjects-offsets-finder.html)|`2026-01-22 05:36:00`|`Other Games`|
