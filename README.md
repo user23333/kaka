@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-22 06:43:00`|`ARC Raiders`|
+|[COD Decryption & Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728601-cod-decryption-memory-dumper.html)|`2026-01-22 06:33:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-22 06:21:00`|`Other FPS Games`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-22 06:13:00`|`Other FPS Games`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-22 06:14:00`|`Other MMORPG and Strategy`|
 |[Mouse Driver Working for Rust Input 2026 &#91;SIGNED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734423-mouse-driver-rust-input-2026-signed.html)|`2026-01-22 06:14:00`|`Rust`|
 |[Looking for Updated Sigs – Fall1866 Dumper / RE Study](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/734551-looking-updated-sigs-fall1866-dumper-re-study.html)|`2026-01-22 06:10:00`|`DayZ SA`|
