@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2026-01-21 11:33:00`|`Other MMORPG and Strategy`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-21 11:20:00`|`Other MMORPG and Strategy`|
+|[Console Command Work around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733410-console-command.html)|`2026-01-21 11:15:00`|`ARC Raiders`|
 |[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2026-01-21 09:44:00`|`Valorant`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-21 09:42:00`|`Other Single Player Games`|
 |[Vehicle skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734718-vehicle-skeleton.html)|`2026-01-21 09:42:00`|`Alternative Online Mods`|
