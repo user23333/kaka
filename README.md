@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dump/offsets help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734737-dump-offsets-help.html)|`2026-01-21 13:40:00`|`Counter-Strike 2`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-21 13:36:00`|`Alternative Online Mods`|
 |[tf2 is stuck in insecure mode on proton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734735-tf2-stuck-insecure-mode-proton.html)|`2026-01-21 13:26:00`|`Team Fortress 2`|
 |[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-01-21 13:18:00`|`Generals and Zero Hour`|
 |[can anyone Help with CS2 External ESP &#45; EntityList Traversal Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734730-help-cs2-external-esp-entitylist-traversal-issue.html)|`2026-01-21 13:11:00`|`Counter-Strike 2`|
