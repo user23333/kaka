@@ -12,6 +12,7 @@
 |19|[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-21 00:28:31`|`anti-cheat-bypass`|
 |11|[Signed RW driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734284-signed-rw-driver.html)|`2026-01-21 00:28:31`|`anti-cheat-bypass`|
 |8|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-21 04:36:00`|`counter-strike-2-a`|
+|5|[i Got banned using YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734016-banned-using-yimmenu-v2.html)|`2026-01-21 09:58:00`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2026-01-21 09:44:00`|`Valorant`|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-21 09:42:00`|`Other Single Player Games`|
+|[Vehicle skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734718-vehicle-skeleton.html)|`2026-01-21 09:42:00`|`Alternative Online Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-21 09:29:00`|`Other FPS Games`|
 |[CSGO Skins / Custom Models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734710-csgo-skins-custom-models.html)|`2026-01-21 07:51:00`|`Valorant`|
 |[Help with DMA Issue please&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/734578-help-dma-issue-please.html)|`2026-01-21 07:45:00`|`Deadlock`|
 |[Entity list offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/721648-entity-list-offset.html)|`2026-01-21 07:40:00`|`Deadlock`|
