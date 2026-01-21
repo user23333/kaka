@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Bhop detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734707-internal-bhop-detection.html)|`2026-01-22 07:55:00`|`Counter-Strike 2`|
 |[Quick compile help: b0rk3d&#45;V2 fork with one small change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/733578-quick-compile-help-b0rk3d-v2-fork-change.html)|`2026-01-22 07:42:00`|`Red Dead Redemption 2`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-01-22 07:18:00`|`Other FPS Games`|
 |[Faking Secure Boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734742-faking-secure-boot.html)|`2026-01-22 07:18:00`|`Anti-Cheat Bypass`|
