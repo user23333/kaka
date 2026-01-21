@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2026-01-22 05:13:00`|`Other FPS Games`|
+|[Beginner question: Is it possible to install Vanguard manually?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734724-beginner-question-install-vanguard-manually.html)|`2026-01-22 05:09:00`|`Valorant`|
+|[i keep getting an error when starting the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734811-getting-error-starting-game.html)|`2026-01-22 05:08:00`|`ARC Raiders`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-22 05:06:00`|`Counter-Strike 2`|
+|[Valorant Region & Shard in latam/br](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734845-valorant-region-shard-latam-br.html)|`2026-01-22 05:05:00`|`Valorant`|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-22 05:02:00`|`Other FPS Games`|
+|[freezing, laggin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734785-freezing-laggin.html)|`2026-01-22 05:00:00`|`Counter-Strike 2`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-22 04:59:00`|`Tom Clancy's The Division`|
 |[Sea of thieves External Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/728512-sea-thieves-external-aimbot.html)|`2026-01-22 04:12:00`|`Sea of Thieves`|
 |[HWID banned on old PC, okay to use SSD on new PC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/734840-hwid-banned-pc-okay-ssd-pc.html)|`2026-01-22 04:11:00`|`Forum General`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-22 04:07:00`|`Marvel Rivals`|
