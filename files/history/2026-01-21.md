@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-21 18:29:00`|`Battlefield 6`|
+|[i Got banned using YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734016-banned-using-yimmenu-v2.html)|`2026-01-21 18:21:00`|`Grand Theft Auto V`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-01-21 18:16:00`|`Elite: Dangerous`|
+|[cubes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734762-cubes.html)|`2026-01-21 18:16:00`|`Valorant`|
+|[latest offsets request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/734761-offsets-request.html)|`2026-01-21 18:14:00`|`Garry's Mod`|
+|[AoE2 DE Simple ESP v1&#46;0 &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/734356-aoe2-de-simple-esp-v1-0-steam.html)|`2026-01-21 18:10:00`|`Age of Empires`|
 |[Does GTAOnline have a hwid ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734753-gtaonline-hwid-ban.html)|`2026-01-21 17:20:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-01-21 17:41:00`|`Counter-Strike 2`|
 |["Hey, I’ve got the external base running and it’s attaching to client&#46;dll fine, but t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734756-hey-ve-external-base-running-attaching-client-dll-fine.html)|`2026-01-21 17:40:00`|`Counter-Strike 2`|
