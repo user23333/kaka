@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-22 06:14:00`|`Other MMORPG and Strategy`|
+|[Mouse Driver Working for Rust Input 2026 &#91;SIGNED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734423-mouse-driver-rust-input-2026-signed.html)|`2026-01-22 06:14:00`|`Rust`|
+|[Looking for Updated Sigs – Fall1866 Dumper / RE Study](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/734551-looking-updated-sigs-fall1866-dumper-re-study.html)|`2026-01-22 06:10:00`|`DayZ SA`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-01-22 06:10:00`|`Other FPS Games`|
 |[Skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734694-skeleton.html)|`2026-01-22 05:54:00`|`Rainbow Six Siege`|
 |[how do manual bans work? &#43; question abt vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734857-manual-bans-question-abt-vgc.html)|`2026-01-22 05:50:00`|`Valorant`|
 |[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-22 05:46:00`|`Call of Duty 6: Modern Warfare 2`|
