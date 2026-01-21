@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Player inventory full &#40;not 6 slots only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734778-player-inventory-6-slots.html)|`2026-01-21 21:26:00`|`Rust`|
+|[Where Winds Meet &#40;AHK script&#41; for super high jumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734777-winds-meet-ahk-script-super-jumps.html)|`2026-01-21 21:22:00`|`Other MMORPG and Strategy`|
+|[Potetial console?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734776-potetial-console.html)|`2026-01-21 21:21:00`|`ARC Raiders`|
+|[Does GTAOnline have a hwid ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734758-gtaonline-hwid-ban.html)|`2026-01-21 21:05:00`|`Grand Theft Auto V`|
 |[YimMenu and Casino Rig slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732634-yimmenu-casino-rig-slots.html)|`2026-01-21 20:22:00`|`Grand Theft Auto V`|
 |[EAC ban help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/730822-eac-ban-help.html)|`2026-01-21 20:22:00`|`Rust`|
 |[unable to open file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/734768-unable-file.html)|`2026-01-21 20:00:00`|`C and C++`|
