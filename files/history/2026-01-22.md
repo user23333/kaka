@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-22 02:55:00`|`DayZ SA`|
+|[ESP dma delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734831-esp-dma-delay.html)|`2026-01-22 02:53:00`|`Battlefield 6`|
+|[Secure Boot &#91;Update Javelin&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734059-secure-boot-update-javelin.html)|`2026-01-22 02:49:00`|`Battlefield 6`|
+|[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-01-22 02:47:00`|`ARC Raiders`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-22 02:44:00`|`Other FPS Games`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-01-22 02:41:00`|`Palworld`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-22 02:36:00`|`Valorant`|
 |[Warhammer darktide lua mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729337-warhammer-darktide-lua-mods.html)|`2026-01-22 02:19:00`|`Other FPS Games`|
 |[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-22 02:18:00`|`ARC Raiders`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-01-22 02:17:00`|`Other MMORPG and Strategy`|
