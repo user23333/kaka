@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Newcomer's self&#45;introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/734779-newcomers-self-introduction.html)|`2026-01-21 23:40:00`|`Introductions`|
+|[PAYDAY 2 &#45; Ultimate Trainer 6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/588542-payday-2-ultimate-trainer-6-a.html)|`2026-01-21 23:34:00`|`Payday 2`|
 |[Building Bundles for Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734802-building-bundles-rust.html)|`2026-01-21 23:19:00`|`Rust`|
 |[freezing, laggin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734785-freezing-laggin.html)|`2026-01-21 23:17:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-21 22:54:00`|`Other FPS Games`|
