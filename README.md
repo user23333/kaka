@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-21 22:54:00`|`Other FPS Games`|
+|[Bone Array for 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734800-bone-array-32bit-4-2-a.html)|`2026-01-21 22:51:00`|`PUBG Mobile`|
+|[Icon Class/Display Name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/734166-icon-class-display-name.html)|`2026-01-21 22:40:00`|`Call of Duty: Black Ops 3`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-01-21 22:24:00`|`Other Games`|
 |[How to modify the Angles of the Viewmodel?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734750-modify-angles-viewmodel.html)|`2026-01-21 22:21:00`|`Counter-Strike 2`|
 |[Undetected hooks from kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734782-undetected-hooks-kernel.html)|`2026-01-21 22:18:00`|`Anti-Cheat Bypass`|
