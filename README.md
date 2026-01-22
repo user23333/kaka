@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trophies, Tiers, and Job Completion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734921-trophies-tiers-job-completion.html)|`2026-01-22 17:37:00`|`Grand Theft Auto V`|
+|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-01-22 17:25:00`|`Anti-Cheat Bypass`|
 |[Is DMA cheating worth it ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733781-dma-cheating-worth.html)|`2026-01-22 17:11:00`|`Valorant`|
 |[Menu The eminence in shadow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/727740-menu-eminence-shadow.html)|`2026-01-22 17:06:00`|`Other MMORPG and Strategy`|
 |[Any simple esp instead of &#91;removed&#93; recoil reducers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734217-simple-esp-instead-removed-recoil-reducers.html)|`2026-01-22 17:05:00`|`Rainbow Six Siege`|
