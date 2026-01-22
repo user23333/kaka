@@ -24,9 +24,14 @@
 |123|[Silent Night v0&#46;3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52713)|`2026-01-23 00:16:06`|
 |315|[Haxtale v0&#46;1 &#45; Open source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52711)|`2026-01-23 00:16:06`|
 |11|[aoe2&#95;de&#95;simple&#95;esp&#95;v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52708)|`2026-01-23 00:16:06`|
+|4|[JJYY external 1&#46;03](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52766)|`2026-01-23 07:53:17`|
+|3|[&#43;&#43;Fortnite&#43;Release&#45;39&#46;30&#45;CL&#45;49874243](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52760)|`2026-01-23 07:53:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offset / Structure help please :&#45;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735011-offset-structure-help-please.html)|`2026-01-23 07:52:00`|`Marvel Rivals`|
+|[External drawing hitbox pills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/703731-external-drawing-hitbox-pills.html)|`2026-01-23 07:52:00`|`Counter-Strike 2`|
+|[A new addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/734813-addition-staff-team.html)|`2026-01-23 07:50:00`|`Information and Announcements`|
 |[Script Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735009-script-logic.html)|`2026-01-23 07:36:00`|`Rust`|
 |[Are Logitech Macros Safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734729-logitech-macros-safe.html)|`2026-01-23 07:36:00`|`Apex Legends`|
 |[CS2 External ESP &#45; Lightweight SDL2 &#43; ImGui Overlay &#40;Auto&#45;Updating Offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733713-cs2-external-esp-lightweight-sdl2-imgui-overlay-auto-updating-offsets.html)|`2026-01-23 07:33:00`|`Introductions`|
