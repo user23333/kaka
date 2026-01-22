@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;External&#93; How to make nosmoke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734991-external-nosmoke.html)|`2026-01-23 03:41:00`|`Counter-Strike 2`|
+|[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2026-01-23 03:33:00`|`Rust`|
+|[Arduino Complete HID communication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734983-arduino-complete-hid-communication.html)|`2026-01-23 03:32:00`|`General Programming and Reversing`|
+|[Valorant Region & Shard in latam/br](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734845-valorant-region-shard-latam-br.html)|`2026-01-23 03:30:00`|`Valorant`|
+|[necromancer open fortess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734499-necromancer-fortess.html)|`2026-01-23 03:28:00`|`Team Fortress 2`|
 |[Binding One Key To Multiple Keys Bannable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734990-binding-key-multiple-keys-bannable.html)|`2026-01-23 03:24:00`|`Rainbow Six Siege`|
 |[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-23 03:23:00`|`ARC Raiders`|
 |[Need Full bright For Phasmophobia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/714215-bright-phasmophobia.html)|`2026-01-23 03:21:00`|`Phasmophobia`|
