@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Script Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735009-script-logic.html)|`2026-01-23 07:36:00`|`Rust`|
+|[Are Logitech Macros Safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734729-logitech-macros-safe.html)|`2026-01-23 07:36:00`|`Apex Legends`|
+|[CS2 External ESP &#45; Lightweight SDL2 &#43; ImGui Overlay &#40;Auto&#45;Updating Offsets&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/733713-cs2-external-esp-lightweight-sdl2-imgui-overlay-auto-updating-offsets.html)|`2026-01-23 07:33:00`|`Introductions`|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2026-01-23 07:32:00`|`Other MMORPG and Strategy`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-23 07:17:00`|`Other FPS Games`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-23 07:30:00`|`Deadlock`|
 |[Among Us Mod Menu &#40;ESP, Unlock All, Player Info&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/734941-mod-menu-esp-unlock-player-info.html)|`2026-01-23 07:12:00`|`Among Us`|
 |[EVO3 &#124; Updated External Legit/Semi&#45;Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/713273-evo3-updated-external-legit-semi-rage-cheat.html)|`2026-01-23 07:03:00`|`Counter-Strike 2 Releases`|
