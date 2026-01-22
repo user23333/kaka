@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCHEMASYSTEM&#95;DLL SIGNATURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734939-schemasystem_dll-signature.html)|`2026-01-22 19:46:00`|`Counter-Strike 2`|
+|[D3D Menu Wallhack &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/734935-d3d-menu-wallhack-aimbot.html)|`2026-01-22 19:40:00`|`CrossFire`|
 |[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2026-01-22 19:32:00`|`Other FPS Games`|
 |[ARK Survival Ascended/Evolved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734934-ark-survival-ascended-evolved.html)|`2026-01-22 19:29:00`|`Other FPS Games`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-01-22 19:01:00`|`Grand Theft Auto V`|
