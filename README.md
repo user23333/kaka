@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-22 10:56:00`|`Other FPS Games`|
+|[How to Unlock Notes in Ark: Survival Ascended?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730727-unlock-notes-ark-survival-ascended.html)|`2026-01-22 10:53:00`|`Other FPS Games`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-22 10:41:00`|`Counter-Strike 2`|
+|[Free Spoofer Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733731-free-spoofer-arena-breakout-infinite.html)|`2026-01-22 10:38:00`|`Other FPS Games`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-22 10:33:00`|`Call of Duty: Black Ops 7`|
 |[February 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/734266-february-2026-motm-nominations.html)|`2026-01-22 08:57:00`|`Member of the Month`|
 |[CS2 External ESP &#45; EntityList Traversal Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734734-cs2-external-esp-entitylist-traversal-issue.html)|`2026-01-22 08:57:00`|`Counter-Strike 2`|
 |[offsets frm my dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734886-offsets-frm-dumper.html)|`2026-01-22 08:56:00`|`Counter-Strike 2`|
