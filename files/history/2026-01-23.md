@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT 1&#46;0 CHAMS INTERNAL HOOK METHOD ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731840-eft-1-0-chams-internal-hook-method.html)|`2026-01-23 05:39:00`|`Escape from Tarkov`|
+|[Faking Secure Boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734742-faking-secure-boot.html)|`2026-01-23 05:37:00`|`Anti-Cheat Bypass`|
+|[Thirdperson stop work after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735000-thirdperson-stop-update.html)|`2026-01-23 05:36:00`|`Counter-Strike 2`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2026-01-23 05:28:00`|`Escape from Tarkov`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-23 05:18:00`|`Garry's Mod`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-23 04:47:00`|`Marvel Rivals`|
 |[Kernel Driver V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/733619-kernel-driver-v2.html)|`2026-01-23 04:37:00`|`C and C++`|
