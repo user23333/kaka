@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734136-simple-valorant-internal.html)|`2026-01-22 23:39:00`|`Valorant`|
+|[page fault when i try to load with ntloaddriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734949-page-fault-try-load-ntloaddriver.html)|`2026-01-22 23:37:00`|`Anti-Cheat Bypass`|
 |[fix ban 10 Years Offline GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734962-fix-ban-10-offline-global-32bit.html)|`2026-01-22 23:19:00`|`PUBG Mobile`|
 |[Need help dumping Mario Kart Tour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722326-help-dumping-mario-kart-tour.html)|`2026-01-22 23:19:00`|`Other Games`|
 |[tool to kill AcSDKThread & RTHeartBeat threads automaticallyfull anticheat disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734744-tool-kill-acsdkthread-rtheartbeat-threads-automaticallyfull-anticheat-disabler.html)|`2026-01-22 23:17:00`|`Marvel Rivals`|
