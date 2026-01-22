@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fix ban 10 Years Offline GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734962-fix-ban-10-offline-global-32bit.html)|`2026-01-22 23:19:00`|`PUBG Mobile`|
+|[Need help dumping Mario Kart Tour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722326-help-dumping-mario-kart-tour.html)|`2026-01-22 23:19:00`|`Other Games`|
+|[tool to kill AcSDKThread & RTHeartBeat threads automaticallyfull anticheat disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734744-tool-kill-acsdkthread-rtheartbeat-threads-automaticallyfull-anticheat-disabler.html)|`2026-01-22 23:17:00`|`Marvel Rivals`|
 |[Nothing for F125?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705920-f125.html)|`2026-01-22 22:52:00`|`Other Games`|
 |[Sons of the Forest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/572665-sons-forest.html)|`2026-01-22 22:51:00`|`Unity`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-01-22 22:47:00`|`Grand Theft Auto V`|
