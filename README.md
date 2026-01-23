@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-23 12:09:00`|`Escape from Tarkov`|
+|[navmesh&#45;parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733972-navmesh-parser.html)|`2026-01-23 12:00:00`|`Counter-Strike 2`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-01-23 11:54:00`|`Unity`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-23 11:45:00`|`Escape from Tarkov`|
+|[Entity loop optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734607-entity-loop-optimization.html)|`2026-01-23 11:32:00`|`Rust`|
 |[Latest Dump DL with new patch&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735034-dump-dl-patch.html)|`2026-01-23 11:19:00`|`Deadlock`|
 |[SCHEMASYSTEM&#95;DLL SIGNATURE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734939-schemasystem_dll-signature.html)|`2026-01-23 11:06:00`|`Counter-Strike 2`|
 |[did they changed some with weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734958-changed-weapons.html)|`2026-01-23 11:04:00`|`Counter-Strike 2`|
