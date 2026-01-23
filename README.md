@@ -35,9 +35,11 @@
 |3|[&#43;&#43;Fortnite&#43;Release&#45;39&#46;30&#45;CL&#45;49874243](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52759)|`2026-01-24 07:39:34`|
 |3|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52751)|`2026-01-24 07:39:34`|
 |1|[BloodTypersMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52749)|`2026-01-24 07:39:34`|
+|3|[warthunder dma SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52769)|`2026-01-24 07:49:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734965-night-shift-cheat.html)|`2026-01-24 07:40:00`|`Other MMORPG and Strategy`|
 |[Blood Typers Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734901-blood-typers-cheat-menu.html)|`2026-01-24 07:35:00`|`Other Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-24 07:30:00`|`Other FPS Games`|
 |[skinchanger on 2pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735142-skinchanger-2pc.html)|`2026-01-24 07:24:00`|`Valorant`|
