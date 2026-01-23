@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/734147-mappings.html)|`2026-01-23 22:55:00`|`Minecraft`|
+|[ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/734686-esp.html)|`2026-01-23 22:52:00`|`Minecraft`|
+|[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-23 22:44:00`|`Call of Duty 6: Modern Warfare 2`|
 |[External shot delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734998-external-shot-delay.html)|`2026-01-23 22:42:00`|`Counter-Strike 2`|
 |[Nba 2k26 AutoGreener](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730715-nba-2k26-autogreener.html)|`2026-01-23 22:34:00`|`Other Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-23 22:12:00`|`DayZ SA`|
