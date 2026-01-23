@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity loop optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734607-entity-loop-optimization.html)|`2026-01-24 06:34:00`|`Rust`|
+|[Interested in Low&#45;Level Programming & Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735138-low-level-programming-reverse-engineering.html)|`2026-01-24 06:25:00`|`Introductions`|
+|[Simple ESP for COD:IW &#40;IW7 / IW7&#45;mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/735047-simple-esp-cod-iw-iw7-iw7-mod.html)|`2026-01-24 06:25:00`|`Call of Duty 4: Modern Warfare`|
+|[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-01-24 06:25:00`|`Other Games`|
+|[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2026-01-24 06:24:00`|`Rust`|
 |[Makcu Trigger&#45; or Aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735129-makcu-trigger-aimbot.html)|`2026-01-24 06:12:00`|`Counter-Strike 2`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-24 06:11:00`|`Counter-Strike 2`|
 |[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-24 06:10:00`|`Escape from Tarkov`|
