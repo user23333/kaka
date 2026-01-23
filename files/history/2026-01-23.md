@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server triggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735021-server-triggers.html)|`2026-01-23 23:20:00`|`Grand Theft Auto V`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2026-01-23 23:14:00`|`Other Single Player Games`|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-01-23 23:11:00`|`Marvel Rivals`|
+|[valorant offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735008-valorant-offset.html)|`2026-01-23 23:05:00`|`Valorant`|
+|[Black Ops 2 T6 MP Plutonium Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/734048-black-ops-2-t6-mp-plutonium-offsets.html)|`2026-01-23 23:03:00`|`Call of Duty: Black Ops 2`|
 |[mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/734147-mappings.html)|`2026-01-23 22:55:00`|`Minecraft`|
 |[ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/734686-esp.html)|`2026-01-23 22:52:00`|`Minecraft`|
 |[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-23 22:44:00`|`Call of Duty 6: Modern Warfare 2`|
