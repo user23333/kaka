@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AoE2 DE Simple ESP v1&#46;0 &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/734356-aoe2-de-simple-esp-v1-0-steam.html)|`2026-01-23 17:03:00`|`Age of Empires`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-23 16:41:00`|`Marvel Rivals`|
 |[Simple ESP for COD:IW &#40;IW7 / IW7&#45;mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/735047-simple-esp-cod-iw-iw7-iw7-mod.html)|`2026-01-23 16:24:00`|`Call of Duty 4: Modern Warfare`|
 |[Nothing for F125?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705920-f125.html)|`2026-01-23 16:22:00`|`Other Games`|
