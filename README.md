@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to set up a Makcu 2PC using a phone instead of a second PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733971-set-makcu-2pc-using-phone-instead-pc.html)|`2026-01-24 05:09:00`|`Valorant`|
+|[Fix for C2 webradar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735126-fix-c2-webradar.html)|`2026-01-24 05:05:00`|`Counter-Strike 2`|
+|[Initial Drift Online &#45; Money Mod&#43;&#43; v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734850-initial-drift-online-money-mod-v1-0-a.html)|`2026-01-24 05:00:00`|`Other Games`|
+|[Iw4x MP Dvar Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/729546-iw4x-mp-dvar-offsets.html)|`2026-01-24 04:59:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-24 04:43:00`|`Anti-Cheat Bypass`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-01-24 04:34:00`|`Other FPS Games`|
 |[How to use patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735121-patterns.html)|`2026-01-24 04:18:00`|`Counter-Strike 2`|
