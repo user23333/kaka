@@ -31,9 +31,16 @@
 |2|[IW7 Simple ESP&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52775)|`2026-01-24 07:25:26`|
 |3|[League / tft dumper for macosx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52773)|`2026-01-24 07:25:26`|
 |3|[MISERY Multi&#45;Hack Internal v1&#46;12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52764)|`2026-01-24 07:25:26`|
+|7|[S15&#45;MHUR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52763)|`2026-01-24 07:39:34`|
+|3|[&#43;&#43;Fortnite&#43;Release&#45;39&#46;30&#45;CL&#45;49874243](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52759)|`2026-01-24 07:39:34`|
+|3|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52751)|`2026-01-24 07:39:34`|
+|1|[BloodTypersMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52749)|`2026-01-24 07:39:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blood Typers Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734901-blood-typers-cheat-menu.html)|`2026-01-24 07:35:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-24 07:30:00`|`Other FPS Games`|
+|[skinchanger on 2pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735142-skinchanger-2pc.html)|`2026-01-24 07:24:00`|`Valorant`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-24 07:23:00`|`Other Single Player Games`|
 |[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-01-24 07:20:00`|`League of Legends`|
 |[Decryption for rust pirate &#40;alkad&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734148-decryption-rust-pirate-alkad.html)|`2026-01-24 07:15:00`|`Rust`|
