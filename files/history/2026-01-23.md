@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python &#43; Raspberry Pi 5 Valorant Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735067-python-raspberry-pi-5-valorant-colorbot.html)|`2026-01-23 23:38:00`|`Valorant`|
+|[For Honor Script AFK &#124; External &#124; Error&#45;Management &#124; XPBoost &#124; Undetected &#124; PixelScan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732949-honor-script-afk-external-error-management-xpboost-undetected-pixelscan.html)|`2026-01-23 23:30:00`|`Other Games`|
 |[Server triggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735021-server-triggers.html)|`2026-01-23 23:20:00`|`Grand Theft Auto V`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2026-01-23 23:14:00`|`Other Single Player Games`|
 |[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-01-23 23:11:00`|`Marvel Rivals`|
