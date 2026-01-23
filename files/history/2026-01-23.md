@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cracking Counter&#45;Strike 1&#46;6 / Half&#45;life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/735042-cracking-counter-strike-1-6-half-life.html)|`2026-01-23 15:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[fix 10y ban GLOBAL 32BIT Enjoy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735013-fix-10y-ban-global-32bit-enjoy.html)|`2026-01-23 15:08:00`|`PUBG Mobile`|
+|[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2026-01-23 15:04:00`|`Deadlock`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-23 14:58:00`|`Rust`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-01-23 14:49:00`|`Other FPS Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-23 14:26:00`|`Battlefield 6`|
 |[Is there any blueprint duplication or detection method in ARC Raide??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735039-blueprint-duplication-detection-method-arc-raide.html)|`2026-01-23 14:14:00`|`ARC Raiders`|
