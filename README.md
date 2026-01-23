@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ExMoonlight CS2 cheat &#124; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735069-exmoonlight-cs2-cheat-undetected.html)|`2026-01-23 23:52:00`|`Counter-Strike 2`|
+|[Driver Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735083-driver-traces.html)|`2026-01-23 23:48:00`|`Anti-Cheat Bypass`|
 |[Python &#43; Raspberry Pi 5 Valorant Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735067-python-raspberry-pi-5-valorant-colorbot.html)|`2026-01-23 23:38:00`|`Valorant`|
 |[For Honor Script AFK &#124; External &#124; Error&#45;Management &#124; XPBoost &#124; Undetected &#124; PixelScan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732949-honor-script-afk-external-error-management-xpboost-undetected-pixelscan.html)|`2026-01-23 23:30:00`|`Other Games`|
 |[Server triggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735021-server-triggers.html)|`2026-01-23 23:20:00`|`Grand Theft Auto V`|
