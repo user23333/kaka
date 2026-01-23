@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eidolon Emulate&#40;Unicorn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734278-eidolon-emulate-unicorn.html)|`2026-01-23 21:06:00`|`Overwatch`|
+|[AllocConsole](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735064-allocconsole.html)|`2026-01-23 20:58:00`|`Anti-Cheat Bypass`|
+|[Overwatch Beta Builds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734908-overwatch-beta-builds.html)|`2026-01-23 20:53:00`|`Overwatch`|
+|[How to set up a Makcu 2PC using a phone instead of a second PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733971-set-makcu-2pc-using-phone-instead-pc.html)|`2026-01-23 20:49:00`|`Valorant`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2026-01-23 20:18:00`|`Other FPS Games`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-01-23 20:08:00`|`Overwatch`|
 |[D3D Menu Wallhack &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/734935-d3d-menu-wallhack-aimbot.html)|`2026-01-23 20:06:00`|`CrossFire`|
