@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AMD SVM hang when certain intercepts are set](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731474-amd-svm-hang-intercepts-set.html)|`2026-01-23 16:15:00`|`General Programming and Reversing`|
 |[Cracking Counter&#45;Strike 1&#46;6 / Half&#45;life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/735042-cracking-counter-strike-1-6-half-life.html)|`2026-01-23 15:13:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[fix 10y ban GLOBAL 32BIT Enjoy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735013-fix-10y-ban-global-32bit-enjoy.html)|`2026-01-23 15:08:00`|`PUBG Mobile`|
 |[Deadlock Internal &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/730830-deadlock-internal-source.html)|`2026-01-23 15:04:00`|`Deadlock`|
