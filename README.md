@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shadow Page on Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734309-shadow-page.html)|`2026-01-23 12:47:00`|`Anti-Cheat Bypass`|
+|[Simple Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734136-simple-valorant-internal.html)|`2026-01-23 12:28:00`|`Valorant`|
+|[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-01-23 12:26:00`|`Escape from Tarkov`|
+|[Hand chams Weapons chams free past](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734614-hand-chams-weapons-chams-free-past.html)|`2026-01-23 12:24:00`|`Rust`|
+|[How to get cr3 eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734497-cr3-eac.html)|`2026-01-23 12:21:00`|`Anti-Cheat Bypass`|
 |[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-23 12:09:00`|`Escape from Tarkov`|
 |[navmesh&#45;parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733972-navmesh-parser.html)|`2026-01-23 12:00:00`|`Counter-Strike 2`|
 |[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-01-23 11:54:00`|`Unity`|
