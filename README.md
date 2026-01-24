@@ -42,9 +42,11 @@
 |3|[chudette&#45;injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52784)|`2026-01-24 21:49:57`|
 |1|[ArcRadar&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52783)|`2026-01-24 21:49:57`|
 |1|[Efi&#40;1&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52779)|`2026-01-24 21:56:04`|
+|1|[NARAKA GAMEASSEMBLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52774)|`2026-01-24 22:46:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK NARAKA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734930-sdk-naraka.html)|`2026-01-24 22:41:00`|`Other FPS Games`|
 |[inventory changer crashes when I change a team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735216-inventory-changer-crashes-change-team.html)|`2026-01-24 22:32:00`|`Counter-Strike 2`|
 |[wall tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/735040-wall-tech.html)|`2026-01-24 22:27:00`|`Rainbow Six Siege`|
 |[How to fix the offline ban in PUBG GLOBAL 32BIT ENJOY 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735217-fix-offline-ban-pubg-global-32bit-enjoy-4-2-a.html)|`2026-01-24 22:23:00`|`PUBG Mobile`|
