@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-01-24 08:46:00`|`Counter-Strike 2 Releases`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-24 08:43:00`|`Marvel Rivals`|
+|[insecure mode bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734975-insecure-mode-bypass.html)|`2026-01-24 08:40:00`|`Team Fortress 2`|
+|[Tutorial &#124; What is DMA and How to Install it&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/685521-tutorial-dma-install.html)|`2026-01-24 08:38:00`|`General Programming and Reversing`|
+|[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-01-24 08:31:00`|`ARC Raiders`|
+|[How can i inject DLL's using Wine on linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734969-inject-dlls-using-wine-linux.html)|`2026-01-24 08:28:00`|`Team Fortress 2`|
 |[HMW Unlock All &#43; Stats &#40;Can be done on your own account&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/702383-hmw-unlock-stats-own-account.html)|`2026-01-24 07:53:00`|`Call of Duty 4: Modern Warfare`|
 |[ExMoonlight CS2 cheat &#124; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735069-exmoonlight-cs2-cheat-undetected.html)|`2026-01-24 07:53:00`|`Counter-Strike 2`|
 |[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734965-night-shift-cheat.html)|`2026-01-24 07:40:00`|`Other MMORPG and Strategy`|
