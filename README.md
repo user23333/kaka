@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-25 01:20:00`|`Tom Clancy's The Division`|
+|[Driver Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735083-driver-traces.html)|`2026-01-25 01:19:00`|`Anti-Cheat Bypass`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-25 01:17:00`|`Other Games`|
+|[how do i get started with fortnite cheat development?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735238-started-fortnite-cheat-development.html)|`2026-01-25 01:14:00`|`Programming for Beginners`|
+|[Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734409-heartopia.html)|`2026-01-25 01:14:00`|`Other Games`|
+|[Instant Hit &#43; Zeroing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/734446-instant-hit-zeroing.html)|`2026-01-25 01:12:00`|`Battlefield 4`|
 |[How to not get banned using aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/722187-banned-using-aimbot.html)|`2026-01-25 00:54:00`|`Overwatch`|
 |[steal inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732095-steal-inventory.html)|`2026-01-25 00:52:00`|`Alternative Online Mods`|
 |[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-25 00:54:00`|`Insurgency`|
