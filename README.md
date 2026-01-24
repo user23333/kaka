@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate HvH Cheat &#123; Better Resolver : More config AA : Prediction &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685209-ultimate-hvh-cheat-resolver-config-aa-prediction.html)|`2026-01-25 07:45:00`|`Garry's Mod`|
+|[how unlock &#91;removed&#93; T&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735292-unlock-removed-shirt.html)|`2026-01-25 07:44:00`|`Grand Theft Auto V`|
+|[Aether&#46;lua Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735291-aether-lua-source-code.html)|`2026-01-25 07:38:00`|`Garry's Mod`|
+|[How to unlock the mullet haircut &#40;From Independence Day&#41; with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735290-unlock-mullet-haircut-independence-day-yimmenuv2.html)|`2026-01-25 07:26:00`|`Grand Theft Auto V`|
 |[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2026-01-25 07:34:00`|`Call of Duty: Black Ops 7`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2026-01-25 07:29:00`|`Marvel Rivals`|
 |[CS2 Cheat development help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735289-cs2-cheat-development-help.html)|`2026-01-25 07:23:00`|`Counter-Strike 2`|
