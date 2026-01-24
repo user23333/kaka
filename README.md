@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chudette injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735201-chudette-injector.html)|`2026-01-24 19:25:00`|`Counter-Strike 2`|
+|[UEFITool BIOS Modify](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735202-uefitool-bios-modify.html)|`2026-01-24 19:24:00`|`Anti-Cheat Bypass`|
+|[February 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/734266-february-2026-motm-nominations.html)|`2026-01-24 19:19:00`|`Member of the Month`|
+|[Python &#43; Raspberry Pi 5 Valorant Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735067-python-raspberry-pi-5-valorant-colorbot.html)|`2026-01-24 19:13:00`|`Valorant`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/724336-demonologist-internal.html)|`2026-01-24 18:51:00`|`Other Games`|
 |[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2026-01-24 18:48:00`|`Anti-Cheat Bypass`|
 |[Purpose of BEClient&#95;x64&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735200-purpose-beclient_x64-dll.html)|`2026-01-24 18:42:00`|`Anti-Cheat Bypass`|
