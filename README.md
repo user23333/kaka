@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino Rig doesnt work anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735266-casino-rig-doesnt-anymore.html)|`2026-01-25 04:10:00`|`Grand Theft Auto V`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2026-01-25 04:07:00`|`Counter-Strike 2`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-01-25 04:01:00`|`Grand Theft Auto V`|
+|[how good is the sot anticheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/735139-sot-anticheat.html)|`2026-01-25 03:56:00`|`Sea of Thieves`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-25 03:55:00`|`Apex Legends`|
 |[how do I run multiple cs2 windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735245-run-multiple-cs2-windows.html)|`2026-01-25 03:55:00`|`Counter-Strike 2`|
 |[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734965-night-shift-cheat.html)|`2026-01-25 03:46:00`|`Other MMORPG and Strategy`|
