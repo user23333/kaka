@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2026-01-24 18:13:00`|`Off Topic`|
+|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-24 18:13:00`|`Escape from Tarkov`|
+|[When Cheat Development Stopped Being a Hobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/732387-cheat-development-stopped-hobby.html)|`2026-01-24 18:08:00`|`Off Topic`|
+|[Cheat developers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734940-cheat-developers.html)|`2026-01-24 18:04:00`|`Off Topic`|
+|[Arduino Vs KmBox Vs Makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734597-arduino-vs-kmbox-vs-makcu.html)|`2026-01-24 18:01:00`|`Valorant`|
+|[General UE4 reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735157-ue4-reversal.html)|`2026-01-24 17:59:00`|`General Programming and Reversing`|
 |[Are BugCrowd and HackerOne Good Options for Finding Easy Vuln and Bug Bounty Programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734519-bugcrowd-hackerone-options-finding-easy-vuln-bug-bounty-programs.html)|`2026-01-24 17:52:00`|`Off Topic`|
 |[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2026-01-24 17:50:00`|`Other MMORPG and Strategy`|
 |[Driver Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735083-driver-traces.html)|`2026-01-24 17:50:00`|`Anti-Cheat Bypass`|
