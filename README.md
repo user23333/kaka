@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-25 06:14:00`|`Anti-Cheat Bypass`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-25 06:09:00`|`Marvel Rivals`|
+|[did they changed some with weapons?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734958-changed-weapons.html)|`2026-01-25 06:08:00`|`Counter-Strike 2`|
 |[BF2 Alpha Tools 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/376400-bf2-alpha-tools-1-5-a.html)|`2026-01-25 05:56:00`|`Battlefield 2`|
 |[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-25 05:56:00`|`Anti-Cheat Bypass`|
 |[How to fix the offline ban in PUBG GLOBAL 32BIT ENJOY 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735217-fix-offline-ban-pubg-global-32bit-enjoy-4-2-a.html)|`2026-01-25 05:46:00`|`PUBG Mobile`|
