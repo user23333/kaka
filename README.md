@@ -26,9 +26,12 @@
 |2|[NARAKA GAMEASSEMBLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52774)|`2026-01-25 00:19:09`|
 |14|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52786)|`2026-01-25 00:42:59`|
 |5|[berserk 24&#46;01 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52788)|`2026-01-25 00:54:46`|
+|1|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52792)|`2026-01-25 05:58:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF2 Alpha Tools 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/376400-bf2-alpha-tools-1-5-a.html)|`2026-01-25 05:56:00`|`Battlefield 2`|
+|[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-25 05:56:00`|`Anti-Cheat Bypass`|
 |[How to fix the offline ban in PUBG GLOBAL 32BIT ENJOY 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735217-fix-offline-ban-pubg-global-32bit-enjoy-4-2-a.html)|`2026-01-25 05:46:00`|`PUBG Mobile`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-01-25 05:35:00`|`Garry's Mod`|
 |[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-25 05:32:00`|`Other Single Player Games`|
