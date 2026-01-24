@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant replay system makes triggerbot speed looks normal ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735203-valorant-replay-system-makes-triggerbot-speed-looks-normal.html)|`2026-01-24 19:33:00`|`Valorant`|
+|[OutOfAction Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727805-outofaction-internal-cheat.html)|`2026-01-24 19:29:00`|`Other FPS Games`|
 |[chudette injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735201-chudette-injector.html)|`2026-01-24 19:25:00`|`Counter-Strike 2`|
 |[UEFITool BIOS Modify](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735202-uefitool-bios-modify.html)|`2026-01-24 19:24:00`|`Anti-Cheat Bypass`|
 |[February 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/734266-february-2026-motm-nominations.html)|`2026-01-24 19:19:00`|`Member of the Month`|
