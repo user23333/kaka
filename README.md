@@ -25,9 +25,15 @@
 |10|[IW7 Simple ESP&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52775)|`2026-01-25 00:19:09`|
 |2|[NARAKA GAMEASSEMBLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52774)|`2026-01-25 00:19:09`|
 |14|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52786)|`2026-01-25 00:42:59`|
+|5|[berserk 24&#46;01 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52788)|`2026-01-25 00:54:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-01-25 00:54:00`|`Insurgency`|
+|[How to change Weapon Orientation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735237-change-weapon-orientation.html)|`2026-01-25 00:53:00`|`Call of Duty: Black Ops 7`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-25 00:48:00`|`Escape from Tarkov`|
+|[All i need to spoof nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735215-spoof-nowadays.html)|`2026-01-25 00:45:00`|`Valorant`|
+|[Access S2 game files &#45; map and prop textures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/735233-access-s2-game-files-map-prop-textures.html)|`2026-01-25 00:43:00`|`THE FINALS`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-25 00:42:00`|`Call of Duty: Black Ops 7`|
 |[tool to kill AcSDKThread & RTHeartBeat threads automaticallyfull anticheat disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734744-tool-kill-acsdkthread-rtheartbeat-threads-automaticallyfull-anticheat-disabler.html)|`2026-01-25 00:38:00`|`Marvel Rivals`|
 |[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-25 00:38:00`|`Payday 3`|
