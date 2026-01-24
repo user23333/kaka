@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are BugCrowd and HackerOne Good Options for Finding Easy Vuln and Bug Bounty Programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734519-bugcrowd-hackerone-options-finding-easy-vuln-bug-bounty-programs.html)|`2026-01-24 17:52:00`|`Off Topic`|
+|[Pax Dei](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/642787-pax-dei.html)|`2026-01-24 17:50:00`|`Other MMORPG and Strategy`|
 |[Driver Traces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735083-driver-traces.html)|`2026-01-24 17:50:00`|`Anti-Cheat Bypass`|
 |[Hand chams Weapons chams free past](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/734614-hand-chams-weapons-chams-free-past.html)|`2026-01-24 17:37:00`|`Rust`|
 |[Modern mapping & comms for EAC? &#40;Fresh install after BSOD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735124-modern-mapping-comms-eac-fresh-install-bsod.html)|`2026-01-24 17:20:00`|`Anti-Cheat Bypass`|
