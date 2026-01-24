@@ -45,6 +45,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[inventory changer crashes when I change a team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735216-inventory-changer-crashes-change-team.html)|`2026-01-24 22:32:00`|`Counter-Strike 2`|
+|[wall tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/735040-wall-tech.html)|`2026-01-24 22:27:00`|`Rainbow Six Siege`|
+|[How to fix the offline ban in PUBG GLOBAL 32BIT ENJOY 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735217-fix-offline-ban-pubg-global-32bit-enjoy-4-2-a.html)|`2026-01-24 22:23:00`|`PUBG Mobile`|
+|[All i need to spoof nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735215-spoof-nowadays.html)|`2026-01-24 22:20:00`|`Valorant`|
 |[VAC modules fully disabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/723657-vac-modules-disabled.html)|`2026-01-24 22:07:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-01-24 22:01:00`|`ARMA 3`|
 |[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-01-24 21:58:00`|`Anti-Cheat Bypass`|
