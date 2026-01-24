@@ -38,9 +38,12 @@
 |1|[BloodTypersMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52749)|`2026-01-24 07:39:34`|
 |3|[warthunder dma SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52769)|`2026-01-24 07:49:33`|
 |2|[Dump Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52757)|`2026-01-24 07:55:22`|
+|3|[chudette&#45;injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52784)|`2026-01-24 21:49:57`|
+|1|[ArcRadar&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52783)|`2026-01-24 21:49:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[echo&#46;ac &#45; Minecraft/FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695485-echo-ac-minecraft-fivem.html)|`2026-01-24 21:39:00`|`Anti-Cheat Bypass`|
 |[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2026-01-24 21:30:00`|`Other FPS Games`|
 |[Did VAC become more aggressive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734911-vac-aggressive.html)|`2026-01-24 20:59:00`|`Counter-Strike 2`|
 |[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-01-24 20:57:00`|`Marvel Rivals`|
