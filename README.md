@@ -24,9 +24,18 @@
 |69|[cs2&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52777)|`2026-01-25 00:19:09`|
 |10|[IW7 Simple ESP&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52775)|`2026-01-25 00:19:09`|
 |2|[NARAKA GAMEASSEMBLY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52774)|`2026-01-25 00:19:09`|
+|14|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52786)|`2026-01-25 00:42:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-25 00:42:00`|`Call of Duty: Black Ops 7`|
+|[tool to kill AcSDKThread & RTHeartBeat threads automaticallyfull anticheat disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734744-tool-kill-acsdkthread-rtheartbeat-threads-automaticallyfull-anticheat-disabler.html)|`2026-01-25 00:38:00`|`Marvel Rivals`|
+|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-25 00:38:00`|`Payday 3`|
+|[inventory changer crashes when I change a team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735216-inventory-changer-crashes-change-team.html)|`2026-01-25 00:37:00`|`Counter-Strike 2`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-25 00:34:00`|`Counter-Strike 2 Releases`|
+|[Hello UnKnoWnCheaTs Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735230-hello-unknowncheats-community.html)|`2026-01-25 00:34:00`|`Introductions`|
+|[Bypassing BlueBook SAT screenshot prevention](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/728472-bypassing-bluebook-sat-screenshot-prevention.html)|`2026-01-25 00:30:00`|`Anti-Cheat Bypass`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-25 00:25:00`|`Valorant`|
 |[GTAV&#95;Trainer&#95;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734442-gtav_trainer_2026-a.html)|`2026-01-25 00:16:00`|`Grand Theft Auto V`|
 |[chudette injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735201-chudette-injector.html)|`2026-01-25 00:15:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-25 00:12:00`|`Deadlock`|
