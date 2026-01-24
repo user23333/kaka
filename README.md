@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-01-25 02:48:00`|`Other FPS Games`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-01-25 02:47:00`|`Sea of Thieves`|
+|[Payday: The Heist Ultimate Trainer 2&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/125204-payday-heist-ultimate-trainer-2-11-a.html)|`2026-01-25 02:40:00`|`Payday: The Heist`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-01-25 02:35:00`|`ARC Raiders`|
+|[Engine Chams bo2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/623369-engine-chams-bo2.html)|`2026-01-25 02:32:00`|`Call of Duty: Black Ops 2`|
 |[DUPE ANY ITEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735250-dupe-item.html)|`2026-01-25 02:20:00`|`ARC Raiders`|
 |[SimplePatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/735248-simplepatch.html)|`2026-01-25 02:17:00`|`C and C++`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-25 02:17:00`|`Counter-Strike 2`|
