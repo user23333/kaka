@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Did VAC become more aggressive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734911-vac-aggressive.html)|`2026-01-24 20:59:00`|`Counter-Strike 2`|
+|[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-01-24 20:57:00`|`Marvel Rivals`|
 |[trying to get money using a mod menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734806-trying-money-using-mod-menu.html)|`2026-01-24 20:17:00`|`Grand Theft Auto V`|
 |[Metadata Dumper &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733790-metadata-dumper-source.html)|`2026-01-24 20:04:00`|`Escape from Tarkov`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-01-24 19:39:00`|`Grand Theft Auto V`|
