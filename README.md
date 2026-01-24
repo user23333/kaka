@@ -47,6 +47,7 @@
 |1|[REPOssessed v1&#46;0&#46;1 &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52771)|`2026-01-24 22:53:03`|
 |1|[Tarkov Meta Dumper Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52785)|`2026-01-24 22:59:01`|
 |3|[TarkovAddons v1&#46;0 Hotfix 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52781)|`2026-01-24 23:51:49`|
+|1|[HMW Unlock All &#43; Stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52782)|`2026-01-24 23:57:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
