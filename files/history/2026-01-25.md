@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VORTEX Emulator for Warzone &#40;1ms Latency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/726718-vortex-emulator-warzone-1ms-latency.html)|`2026-01-25 07:34:00`|`Call of Duty: Black Ops 7`|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2026-01-25 07:29:00`|`Marvel Rivals`|
 |[CS2 Cheat development help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735289-cs2-cheat-development-help.html)|`2026-01-25 07:23:00`|`Counter-Strike 2`|
 |[These method are detaclabe and most propably ban you](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/733437-method-detaclabe-propably-ban.html)|`2026-01-25 07:09:00`|`Grand Theft Auto V`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-25 07:05:00`|`Other FPS Games`|
