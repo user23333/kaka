@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixmenu &#45; An opensource colorbot with config menu&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735400-pixmenu-opensource-colorbot-config-menu.html)|`2026-01-26 03:36:00`|`Valorant`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-01-26 03:36:00`|`Sea of Thieves`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-26 03:35:00`|`Valorant`|
+|[rapid fire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735308-rapid-fire.html)|`2026-01-26 03:30:00`|`Introductions`|
+|[Red dead online limits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/735408-red-dead-online-limits.html)|`2026-01-26 03:28:00`|`Red Dead Redemption 2`|
 |[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2026-01-26 03:22:00`|`Rainbow Six Siege`|
 |[skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735407-skinchanger.html)|`2026-01-26 03:21:00`|`Counter-Strike 2`|
 |[Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734409-heartopia.html)|`2026-01-26 03:06:00`|`Other Games`|
