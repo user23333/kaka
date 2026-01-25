@@ -24,9 +24,15 @@
 |76|[chudette&#45;injector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52784)|`2026-01-26 00:23:02`|
 |56|[ArcRadar&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52783)|`2026-01-26 00:23:02`|
 |31|[HMW Unlock All &#43; Stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52782)|`2026-01-26 00:23:02`|
+|1|[GMan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52803)|`2026-01-26 01:44:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox Macro for THE STRONGEST BATTLEGROUNDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735394-roblox-macro-strongest-battlegrounds.html)|`2026-01-26 01:44:00`|`Other FPS Games`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-01-26 01:43:00`|`Garry's Mod`|
+|[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2026-01-26 01:36:00`|`Grand Theft Auto V`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-01-26 01:36:00`|`Other FPS Games`|
+|[Looking for a Good External Cheat for Arc Raiders – Interested in Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735365-looking-external-cheat-arc-raiders-collaboration.html)|`2026-01-26 01:35:00`|`ARC Raiders`|
 |[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-26 01:31:00`|`ARC Raiders`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-26 01:29:00`|`HELLDIVERS 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-26 01:28:00`|`Escape from Tarkov`|
