@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-26 01:31:00`|`ARC Raiders`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-26 01:29:00`|`HELLDIVERS 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-26 01:28:00`|`Escape from Tarkov`|
+|[Interested in Low&#45;Level Programming & Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735138-low-level-programming-reverse-engineering.html)|`2026-01-26 01:26:00`|`Introductions`|
+|[Hi from a new member&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735272-hi.html)|`2026-01-26 01:24:00`|`Introductions`|
+|[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-26 01:23:00`|`Anti-Cheat Bypass`|
+|[Sup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735339-sup.html)|`2026-01-26 01:21:00`|`Introductions`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-26 01:19:00`|`Apex Legends`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-26 01:11:00`|`Other FPS Games`|
 |[Mass&#45;Remove Friends Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734160-mass-remove-friends-tool.html)|`2026-01-26 01:09:00`|`Other FPS Games`|
 |[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-01-26 01:09:00`|`Escape from Tarkov`|
