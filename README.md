@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2026-01-25 13:45:00`|`Valorant`|
+|[Plutonium BO2&#40;zombies&#41; ESP Tutorial/ Address&Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735333-plutonium-bo2-zombies-esp-tutorial-address-offsets.html)|`2026-01-25 13:45:00`|`Call of Duty: Black Ops 2`|
 |[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-01-25 13:25:00`|`CrossFire`|
 |[How to Resolve virtualized native handlers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734159-resolve-virtualized-native-handlers.html)|`2026-01-25 13:24:00`|`Alternative Online Mods`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-01-25 13:24:00`|`Other MMORPG and Strategy`|
