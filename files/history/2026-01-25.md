@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-01-25 13:25:00`|`CrossFire`|
+|[How to Resolve virtualized native handlers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734159-resolve-virtualized-native-handlers.html)|`2026-01-25 13:24:00`|`Alternative Online Mods`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-01-25 13:24:00`|`Other MMORPG and Strategy`|
+|[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-25 13:16:00`|`Red Dead Redemption 2`|
 |[Problem with knife models &#45; cmodelstate not updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735311-knife-models-cmodelstate-updating.html)|`2026-01-25 13:01:00`|`Counter-Strike 2`|
 |[Undetected Mouse Driver / Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731888-undetected-mouse-driver-script.html)|`2026-01-25 12:57:00`|`Rust`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-25 12:48:00`|`League of Legends`|
