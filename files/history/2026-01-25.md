@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2026-01-25 22:54:00`|`Anti-Cheat Bypass`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-25 22:47:00`|`Alternative Online Mods`|
 |[CS2 External Recoil Helper &#124; Humanized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735371-cs2-external-recoil-helper-humanized.html)|`2026-01-25 22:27:00`|`Counter-Strike 2`|
 |[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-01-25 22:18:00`|`Marvel Rivals`|
