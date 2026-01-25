@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for a Reliable External Cheat for Call of Duty Warzone – Interested in Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735366-looking-reliable-external-cheat-call-duty-warzone-collab.html)|`2026-01-26 05:13:00`|`Call of Duty: Black Ops 7`|
+|[Gmod Offsets/Netvars Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735362-gmod-offsets-netvars-dumper-x64.html)|`2026-01-26 05:11:00`|`Garry's Mod`|
+|[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-01-26 05:11:00`|`Anti-Cheat Bypass`|
+|[how do manual bans work? &#43; question abt vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734857-manual-bans-question-abt-vgc.html)|`2026-01-26 05:09:00`|`Valorant`|
+|[DISK SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735432-disk-spoofer.html)|`2026-01-26 05:07:00`|`Anti-Cheat Bypass`|
 |[Override Hook Thirdperson stoped work after update??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735426-override-hook-thirdperson-stoped-update.html)|`2026-01-26 04:34:00`|`Counter-Strike 2`|
 |[Script Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735009-script-logic.html)|`2026-01-26 04:31:00`|`Rust`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-01-26 04:27:00`|`ARMA 3`|
