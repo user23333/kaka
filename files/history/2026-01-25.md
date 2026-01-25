@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex offsets and debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/735324-apex-offsets-debugger.html)|`2026-01-25 20:30:00`|`Apex Legends`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2026-01-25 20:30:00`|`Titanfall`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-01-25 20:27:00`|`Other FPS Games`|
+|[Initial Drift Online &#45; Money Mod&#43;&#43; v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734850-initial-drift-online-money-mod-v1-0-a.html)|`2026-01-25 20:13:00`|`Other Games`|
 |[help w my cheat what would u change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735357-help-cheat-change.html)|`2026-01-25 19:48:00`|`Counter-Strike 2`|
 |[PEAK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/726174-peak-internal.html)|`2026-01-25 19:37:00`|`Other Games`|
 |[rapid fire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735308-rapid-fire.html)|`2026-01-25 19:16:00`|`Introductions`|
