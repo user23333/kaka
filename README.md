@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-25 11:17:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-25 11:09:00`|`Other FPS Games`|
+|[What happened to animationsystem&#46;dll after the update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735118-happened-animationsystem-dll-update.html)|`2026-01-25 11:02:00`|`Counter-Strike 2`|
 |[SDK NARAKA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734930-sdk-naraka.html)|`2026-01-25 09:14:00`|`Other FPS Games`|
 |[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-25 09:08:00`|`PUBG Mobile`|
 |[PLS HELP wild terra 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734912-pls-help-wild-terra-2-a.html)|`2026-01-25 09:05:00`|`Other Games`|
