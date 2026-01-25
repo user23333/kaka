@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-26 00:53:00`|`PUBG Mobile`|
+|[February 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/734266-february-2026-motm-nominations.html)|`2026-01-26 00:52:00`|`Member of the Month`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-26 00:51:00`|`Other MMORPG and Strategy`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-01-26 00:42:00`|`Overwatch`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-26 00:41:00`|`ARC Raiders`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-26 00:41:00`|`Alternative Online Mods`|
