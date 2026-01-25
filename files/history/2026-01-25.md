@@ -12,6 +12,7 @@
 |20|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-01-25 00:19:09`|`marvel-rivals`|
 |18|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-01-25 00:19:09`|`escape-from-tarkov`|
 |11|[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-25 22:08:47`|`anti-cheat-bypass`|
+|12|[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-25 23:35:07`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-01-25 23:28:00`|`Other FPS Games`|
 |[changing the controlled character](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/735376-changing-controlled-character.html)|`2026-01-25 23:14:00`|`Warface`|
 |[Val 5 with Emulators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735370-val-5-emulators.html)|`2026-01-25 23:10:00`|`Valorant`|
 |[Valorant Code &#124; NEED HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735358-valorant-code-help.html)|`2026-01-25 23:05:00`|`Valorant`|
