@@ -27,9 +27,16 @@
 |14|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52786)|`2026-01-25 00:42:59`|
 |5|[berserk 24&#46;01 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52788)|`2026-01-25 00:54:46`|
 |1|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52792)|`2026-01-25 05:58:41`|
+|13|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52794)|`2026-01-25 09:26:35`|
+|1|[SimplePatchv1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52790)|`2026-01-25 09:26:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK NARAKA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734930-sdk-naraka.html)|`2026-01-25 09:14:00`|`Other FPS Games`|
+|[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-25 09:08:00`|`PUBG Mobile`|
+|[PLS HELP wild terra 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734912-pls-help-wild-terra-2-a.html)|`2026-01-25 09:05:00`|`Other Games`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2026-01-25 08:56:00`|`Other Games`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-01-25 08:52:00`|`HELLDIVERS 2`|
 |[Ultimate HvH Cheat &#123; Better Resolver : More config AA : Prediction &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/685209-ultimate-hvh-cheat-resolver-config-aa-prediction.html)|`2026-01-25 07:45:00`|`Garry's Mod`|
 |[how unlock &#91;removed&#93; T&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735292-unlock-removed-shirt.html)|`2026-01-25 07:44:00`|`Grand Theft Auto V`|
 |[Aether&#46;lua Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735291-aether-lua-source-code.html)|`2026-01-25 07:38:00`|`Garry's Mod`|
