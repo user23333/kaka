@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cerebro Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732919-cerebro-analysis.html)|`2026-01-25 21:33:00`|`Anti-Cheat Bypass`|
+|[where should I start learning how to write cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735267-start-learning-write-cheats.html)|`2026-01-25 21:26:00`|`Programming for Beginners`|
+|[Looking for a Reliable External Cheat for Call of Duty Warzone – Interested in Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735366-looking-reliable-external-cheat-call-duty-warzone-collab.html)|`2026-01-25 21:25:00`|`Call of Duty: Black Ops 7`|
+|[Looking for a Good External Cheat for Arc Raiders – Interested in Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735365-looking-external-cheat-arc-raiders-collaboration.html)|`2026-01-25 21:24:00`|`ARC Raiders`|
 |[source2gen fix/replacement?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735309-source2gen-fix-replacement.html)|`2026-01-25 21:16:00`|`Deadlock`|
 |[D3D Menu Wallhack &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/734935-d3d-menu-wallhack-aimbot.html)|`2026-01-25 21:05:00`|`CrossFire`|
 |[remove screenshake??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735363-remove-screenshake.html)|`2026-01-25 20:49:00`|`Counter-Strike 2`|
