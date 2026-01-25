@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-01-26 02:18:00`|`Other FPS Games`|
+|[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-01-26 02:17:00`|`Rust`|
+|[hot to do kill effects &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735369-hot-kill-effects-external.html)|`2026-01-26 02:17:00`|`Counter-Strike 2`|
+|[What happened with cs2 ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735401-happened-cs2.html)|`2026-01-26 02:14:00`|`Counter-Strike 2`|
+|[necromancer open fortess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734499-necromancer-fortess.html)|`2026-01-26 02:07:00`|`Team Fortress 2`|
+|[Breach XP pointerchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729887-breach-xp-pointerchain.html)|`2026-01-26 02:07:00`|`Escape from Tarkov`|
+|[METRIA Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734087-metria-trainer.html)|`2026-01-26 02:05:00`|`Other MMORPG and Strategy`|
+|[Old python coloraimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734096-python-coloraimbot.html)|`2026-01-26 02:04:00`|`Valorant`|
+|[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-01-26 01:58:00`|`Valorant`|
 |[KKD &#45; Kallmek3nnys Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734379-kkd-kallmek3nnys-kernel-driver.html)|`2026-01-26 01:56:00`|`Call of Duty: Black Ops 7`|
 |[fellow coder here &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735395-fellow-coder.html)|`2026-01-26 01:45:00`|`Introductions`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-26 01:50:00`|`Other FPS Games`|
