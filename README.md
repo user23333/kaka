@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-01-25 14:18:00`|`Among Us`|
 |[TPM Spoofer for free &#40;signed driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/713720-tpm-spoofer-free-signed-driver.html)|`2026-01-25 13:45:00`|`Valorant`|
 |[Plutonium BO2&#40;zombies&#41; ESP Tutorial/ Address&Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735333-plutonium-bo2-zombies-esp-tutorial-address-offsets.html)|`2026-01-25 13:45:00`|`Call of Duty: Black Ops 2`|
 |[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-01-25 13:25:00`|`CrossFire`|
