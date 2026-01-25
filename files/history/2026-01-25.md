@@ -30,9 +30,13 @@
 |1|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52792)|`2026-01-25 05:58:41`|
 |13|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52794)|`2026-01-25 09:26:35`|
 |1|[SimplePatchv1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52790)|`2026-01-25 09:26:35`|
+|2|[ArcRader&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52801)|`2026-01-25 23:18:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[changing the controlled character](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/735376-changing-controlled-character.html)|`2026-01-25 23:14:00`|`Warface`|
+|[Val 5 with Emulators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735370-val-5-emulators.html)|`2026-01-25 23:10:00`|`Valorant`|
+|[Valorant Code &#124; NEED HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735358-valorant-code-help.html)|`2026-01-25 23:05:00`|`Valorant`|
 |[Mindshare arbor software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731845-mindshare-arbor-software.html)|`2026-01-25 22:54:00`|`Anti-Cheat Bypass`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-25 22:47:00`|`Alternative Online Mods`|
 |[CS2 External Recoil Helper &#124; Humanized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735371-cs2-external-recoil-helper-humanized.html)|`2026-01-25 22:27:00`|`Counter-Strike 2`|
