@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-01-26 19:45:00`|`Other FPS Games`|
 |[New Skin Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735519-skin-files.html)|`2026-01-26 19:34:00`|`League of Legends`|
 |[2 MONTH BAN FIX FROZEN DAY ATA GLOBAL 32BIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735518-2-month-ban-fix-frozen-day-ata-global-32bit.html)|`2026-01-26 19:31:00`|`PUBG Mobile`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2026-01-26 19:17:00`|`Other Games`|
