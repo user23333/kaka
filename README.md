@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please i need aimbot wallhack for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/735551-please-aimbot-wallhack-division-2-a.html)|`2026-01-26 22:15:00`|`Tom Clancy's The Division`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-26 22:15:00`|`Counter-Strike 2 Releases`|
+|[Division 1 QOL Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/731015-division-1-qol-tools.html)|`2026-01-26 22:11:00`|`Tom Clancy's The Division`|
+|[MANUAL SERIAL DISK CHANGING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/680056-manual-serial-disk-changing.html)|`2026-01-26 22:09:00`|`Anti-Cheat Bypass`|
 |[Lethal Menu &#45; Lethal Company Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/615575-lethal-menu-lethal-company-cheat.html)|`2026-01-26 21:48:00`|`Lethal Company`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-01-26 21:31:00`|`Other FPS Games`|
 |[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-01-26 21:26:00`|`Marvel Rivals`|
