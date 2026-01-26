@@ -26,9 +26,16 @@
 |56|[ArcRadar&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52783)|`2026-01-26 00:23:02`|
 |31|[HMW Unlock All &#43; Stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52782)|`2026-01-26 00:23:02`|
 |1|[GMan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52803)|`2026-01-26 01:44:18`|
+|23|[BloodStrike&#95;Internal&#95;steam&#95;Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52818)|`2026-01-26 10:08:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-26 10:00:00`|`Other Games`|
+|[How are people doing internal grenade prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/735466-people-doing-internal-grenade-prediction.html)|`2026-01-26 09:58:00`|`Counterstrike Global Offensive`|
+|[Theoretical 2&#45;PC Hardware Stack for External Colorbot &#40;Vanguard Mitigation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735439-theoretical-2-pc-hardware-stack-external-colorbot-vanguard-mitigation.html)|`2026-01-26 09:55:00`|`Valorant`|
+|[hkDrawArray CS2 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735467-hkdrawarray-cs2-update.html)|`2026-01-26 09:54:00`|`Counter-Strike 2`|
+|[help me with debug &#40;c&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735169-help-debug.html)|`2026-01-26 09:50:00`|`Programming for Beginners`|
+|[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2026-01-26 09:49:00`|`Apex Legends`|
 |[Team Check via DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734567-team-check-via-dma.html)|`2026-01-26 07:56:00`|`Call of Duty: Black Ops 7`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-01-26 07:31:00`|`HELLDIVERS 2`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-01-26 07:25:00`|`HELLDIVERS 2`|
