@@ -13,6 +13,7 @@
 |27|[necromancer open fortess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734499-necromancer-fortess.html)|`2026-01-27 00:35:39`|`team-fortress-2-a`|
 |6|[Release Arknights: Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/735061-release-arknights-endfield.html)|`2026-01-27 01:02:43`|`other-mmorpg-and-strategy`|
 |9|[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-01-27 05:17:33`|`overwatch`|
+|6|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-27 07:11:50`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Screenshot Protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735607-screenshot-protection.html)|`2026-01-27 07:02:00`|`Call of Duty: Black Ops 7`|
+|[helldivers2 cheating CT table, hoping more people will join the CT production](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733515-helldivers2-cheating-ct-table-hoping-people-join-ct-production.html)|`2026-01-27 07:02:00`|`HELLDIVERS 2`|
+|[Atomic Forge – Automated for CE 7&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735606-atomic-forge-automated-ce-7-5-a.html)|`2026-01-27 07:01:00`|`Programming for Beginners`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-27 06:57:00`|`Counter-Strike 2`|
 |[problem with hidden/ghost vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735286-hidden-ghost-vehicles.html)|`2026-01-27 06:54:00`|`Grand Theft Auto V`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-27 06:31:00`|`Apex Legends`|
 |[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-01-27 06:30:00`|`Rust`|
