@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OpenIV&#95;Enhanced&#95;Fix for GTA V v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734139-openiv_enhanced_fix-gta-v2-1-a.html)|`2026-01-26 23:43:00`|`Grand Theft Auto V`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-01-26 23:36:00`|`Valorant`|
+|[Vanguard service CPU usage increases up to 10% after repeatedly spamming INSERT&#43;HOME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735393-vanguard-service-cpu-usage-increases-10-repeatedly-spamming-insert-home.html)|`2026-01-26 23:24:00`|`Valorant`|
 |[Help with ACE and detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734810-help-ace-detection.html)|`2026-01-26 23:10:00`|`Anti-Cheat Bypass`|
 |[New Hourglass Exploit that includes ALT&#43;F4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/595204-hourglass-exploit-includes-alt-f4.html)|`2026-01-26 23:05:00`|`Sea of Thieves`|
 |[How to fix webradar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735550-fix-webradar.html)|`2026-01-26 22:58:00`|`Counter-Strike 2`|
