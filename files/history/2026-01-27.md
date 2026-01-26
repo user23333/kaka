@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-01-27 05:31:00`|`Call of Duty: Black Ops 2`|
+|[finding function that detects by tracing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735597-finding-function-detects-tracing-crash.html)|`2026-01-27 05:25:00`|`Anti-Cheat Bypass`|
+|[tool to kill AcSDKThread & RTHeartBeat threads automaticallyfull anticheat disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734744-tool-kill-acsdkthread-rtheartbeat-threads-automaticallyfull-anticheat-disabler.html)|`2026-01-27 05:23:00`|`Marvel Rivals`|
+|[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-01-27 05:22:00`|`Anti-Cheat Bypass`|
 |[Hogwarts Legacy Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/729701-hogwarts-legacy-internal.html)|`2026-01-27 05:06:00`|`Other Single Player Games`|
 |[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-01-27 05:01:00`|`Valorant`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-27 04:52:00`|`League of Legends`|
