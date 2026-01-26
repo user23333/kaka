@@ -38,9 +38,14 @@
 |1|[NightFall &#45; Dying Light Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52817)|`2026-01-26 13:55:38`|
 |1|[Roblox&#95;Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52812)|`2026-01-26 14:22:29`|
 |1|[SimplePatchv1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52811)|`2026-01-26 14:22:29`|
+|3|[heartopai mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52815)|`2026-01-26 14:57:42`|
+|5|[Pixmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52813)|`2026-01-26 14:57:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No one can crack this crackme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735377-crack-crackme.html)|`2026-01-26 14:52:00`|`General Programming and Reversing`|
+|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-01-26 14:43:00`|`ARC Raiders`|
+|[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2026-01-26 14:41:00`|`Sea of Thieves`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-01-26 13:40:00`|`Other Games`|
 |[Grounded Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735473-grounded-internal-cheat.html)|`2026-01-26 13:33:00`|`Other FPS Games`|
 |[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-26 13:31:00`|`Anti-Cheat Bypass`|
