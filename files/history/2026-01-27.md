@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-01-27 01:23:00`|`Overwatch`|
+|[Looking for updated classes for CSceneLightObject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735567-looking-updated-classes-cscenelightobject.html)|`2026-01-27 01:22:00`|`Counter-Strike 2`|
+|[skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735407-skinchanger.html)|`2026-01-27 01:12:00`|`Counter-Strike 2`|
+|[Out Of Action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735477-action.html)|`2026-01-27 01:04:00`|`Other FPS Games`|
 |[Heartopia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/734409-heartopia.html)|`2026-01-27 01:01:00`|`Other Games`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2026-01-27 00:58:00`|`Anti-Cheat Bypass`|
 |[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-01-27 00:56:00`|`Team Fortress 2`|
