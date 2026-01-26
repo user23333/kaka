@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pass Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/735579-pass-items.html)|`2026-01-27 02:50:00`|`Red Dead Redemption 2`|
+|[Faceit secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735424-faceit-secure-boot.html)|`2026-01-27 02:35:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-01-27 02:34:00`|`Other FPS Games`|
+|[LORT multiplayer cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735575-lort-multiplayer-cheat.html)|`2026-01-27 02:25:00`|`Other Games`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-27 02:16:00`|`ARC Raiders`|
 |[Rocket League &#45; Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/402519-rocket-league-dumper-x64.html)|`2026-01-27 02:14:00`|`Other FPS Games`|
 |[New Skin Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735519-skin-files.html)|`2026-01-27 02:12:00`|`League of Legends`|
