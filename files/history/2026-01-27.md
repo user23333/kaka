@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-01-27 07:30:00`|`Other FPS Games`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-27 07:30:00`|`Battlefield 6`|
+|[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-01-27 07:24:00`|`League of Legends`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-01-27 07:22:00`|`Garry's Mod`|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-27 07:16:00`|`ARC Raiders`|
+|[roprw &#45; Kernel ROP implant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735609-roprw-kernel-rop-implant.html)|`2026-01-27 07:14:00`|`Anti-Cheat Bypass`|
 |[Screenshot Protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735607-screenshot-protection.html)|`2026-01-27 07:02:00`|`Call of Duty: Black Ops 7`|
 |[helldivers2 cheating CT table, hoping more people will join the CT production](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733515-helldivers2-cheating-ct-table-hoping-people-join-ct-production.html)|`2026-01-27 07:02:00`|`HELLDIVERS 2`|
 |[Atomic Forge – Automated for CE 7&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735606-atomic-forge-automated-ce-7-5-a.html)|`2026-01-27 07:01:00`|`Programming for Beginners`|
