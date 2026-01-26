@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-27 06:31:00`|`Apex Legends`|
+|[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-01-27 06:30:00`|`Rust`|
+|[Dayz Private Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/735603-dayz-private-cheat.html)|`2026-01-27 06:30:00`|`DayZ SA`|
+|[Bubble Reach's PC/RGH GSC Menu Maker Free Bo1/Bo2/WAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/722592-bubble-reachs-pc-rgh-gsc-menu-maker-free-bo1-bo2-waw.html)|`2026-01-27 06:26:00`|`Call of Duty: Black Ops`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-01-27 06:23:00`|`Other MMORPG and Strategy`|
 |[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-01-27 06:16:00`|`Other Single Player Games`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-27 06:13:00`|`Valorant`|
 |[BEDaisy&#46;sys &#45; TslGame&#46;exe &#45; UnProtect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/735601-bedaisy-sys-tslgame-exe-unprotect.html)|`2026-01-27 06:07:00`|`Playerunknown's Battlegrounds`|
