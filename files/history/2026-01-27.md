@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-01-27 04:10:00`|`Scum`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-27 04:05:00`|`Counter-Strike 2 Releases`|
+|[&#91;Tutorial&#93; Blocking Unauthenticated Memory Writes and Remote Kicks &#40;Xbox 360&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/731792-tutorial-blocking-unauthenticated-memory-writes-remote-kicks-xbox-360-a.html)|`2026-01-27 04:05:00`|`Call of Duty: Black Ops 2`|
+|[How to get patterns and signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735584-patterns-signatures.html)|`2026-01-27 04:01:00`|`Counter-Strike 2`|
+|[Darling v1&#46;1 &#40;RGH/JTAG&#41; BO2/BO1 RME WITH SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/674759-darling-v1-1-rgh-jtag-bo2-bo1-rme-source.html)|`2026-01-27 03:56:00`|`Call of Duty: Black Ops 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-01-27 03:56:00`|`Call of Duty: Black Ops 7`|
 |[Hunchclient v3 External &#45; Updated ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735583-hunchclient-v3-external-updated-esp.html)|`2026-01-27 03:54:00`|`ARC Raiders`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-01-27 03:52:00`|`Rust`|
