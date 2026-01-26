@@ -28,9 +28,15 @@
 |31|[HMW Unlock All &#43; Stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52782)|`2026-01-26 00:23:02`|
 |1|[GMan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52803)|`2026-01-26 01:44:18`|
 |23|[BloodStrike&#95;Internal&#95;steam&#95;Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52818)|`2026-01-26 10:08:09`|
+|5|[BloodStrike&#95;Internal&#95;steamV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52824)|`2026-01-26 13:32:06`|
+|5|[mapper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52821)|`2026-01-26 13:32:06`|
+|4|[Driver&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52820)|`2026-01-26 13:32:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Process Explorer &#40;Any Ver&#41; 0day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734401-process-explorer-ver-0day.html)|`2026-01-26 13:31:00`|`Anti-Cheat Bypass`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-26 13:29:00`|`Other FPS Games`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-01-26 13:01:00`|`Counter-Strike 2`|
 |[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2026-01-26 12:56:00`|`Call of Duty 6: Modern Warfare 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-01-26 12:45:00`|`DayZ SA`|
 |[Purpose of BEClient&#95;x64&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735200-purpose-beclient_x64-dll.html)|`2026-01-26 12:33:00`|`Anti-Cheat Bypass`|
