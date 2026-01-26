@@ -12,6 +12,7 @@
 |11|[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-26 00:23:02`|`anti-cheat-bypass`|
 |12|[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-26 00:23:02`|`arc-raiders`|
 |15|[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-01-26 02:59:22`|`arc-raiders`|
+|27|[necromancer open fortess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734499-necromancer-fortess.html)|`2026-01-26 12:02:49`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for a stable drawing module for Apex Legends&#46; Is ImGui stable for this purpos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/734783-looking-stable-drawing-module-apex-legends-imgui-stable-purpos.html)|`2026-01-26 11:56:00`|`Apex Legends`|
+|[Out Of Action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735477-action.html)|`2026-01-26 11:24:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-26 11:21:00`|`Other FPS Games`|
+|[Auto Parry Standalone Tested and Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/735354-auto-parry-standalone-tested.html)|`2026-01-26 11:16:00`|`Star Wars Battlefront 2`|
 |[roblox external esp V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733033-roblox-external-esp-v1-1-a.html)|`2026-01-26 10:00:00`|`Other Games`|
 |[How are people doing internal grenade prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/735466-people-doing-internal-grenade-prediction.html)|`2026-01-26 09:58:00`|`Counterstrike Global Offensive`|
 |[Theoretical 2&#45;PC Hardware Stack for External Colorbot &#40;Vanguard Mitigation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735439-theoretical-2-pc-hardware-stack-external-colorbot-vanguard-mitigation.html)|`2026-01-26 09:55:00`|`Valorant`|
