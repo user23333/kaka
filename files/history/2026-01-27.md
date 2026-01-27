@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-01-27 20:41:00`|`Phasmophobia`|
+|[&#91;360&#93; xbIzzy's BO2 Camo Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/734801-360-xbizzys-bo2-camo-tool.html)|`2026-01-27 20:40:00`|`Call of Duty: Black Ops 2`|
+|[Cs2 Internal Source Code Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730080-cs2-internal-source-code-cheat-base.html)|`2026-01-27 20:33:00`|`Counter-Strike 2`|
 |[CS2 External Recoil Helper &#124; Humanized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735371-cs2-external-recoil-helper-humanized.html)|`2026-01-27 19:55:00`|`Counter-Strike 2`|
 |[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-01-27 19:49:00`|`ARC Raiders`|
 |[Kernel Driver for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733910-kernel-driver-linux.html)|`2026-01-27 19:34:00`|`Forum General`|
