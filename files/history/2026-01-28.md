@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-01-28 01:14:00`|`Marvel Rivals`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-28 01:09:00`|`Apex Legends`|
+|[Native Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721392-native-research.html)|`2026-01-28 01:06:00`|`Alternative Online Mods`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-28 01:00:00`|`Deadlock`|
+|[finding function that detects by tracing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735597-finding-function-detects-tracing-crash.html)|`2026-01-28 00:57:00`|`Anti-Cheat Bypass`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-01-28 00:53:00`|`Alternative Online Mods`|
 |[Theoretical 2&#45;PC Hardware Stack for External Colorbot &#40;Vanguard Mitigation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735439-theoretical-2-pc-hardware-stack-external-colorbot-vanguard-mitigation.html)|`2026-01-28 00:45:00`|`Valorant`|
 |[Day of Dragons Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/731055-day-dragons-cheat.html)|`2026-01-28 00:45:00`|`Other MMORPG and Strategy`|
 |[How to get patterns and signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735584-patterns-signatures.html)|`2026-01-28 00:44:00`|`Counter-Strike 2`|
