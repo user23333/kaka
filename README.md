@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-01-28 07:54:00`|`Call of Duty: Black Ops 2`|
 |[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-28 07:45:00`|`Call of Duty: Black Ops 7`|
 |[DUPE ANY ITEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735250-dupe-item.html)|`2026-01-28 07:43:00`|`ARC Raiders`|
 |[Plutonium ZM Enigne Drawing/HooK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735739-plutonium-zm-enigne-drawing-hook.html)|`2026-01-28 07:41:00`|`Call of Duty: Black Ops 2`|
