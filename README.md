@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-01-28 06:52:00`|`Palworld`|
+|[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-01-28 06:52:00`|`Forum General`|
+|[Perfect &#91;External&#93; Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735731-perfect-external-chams.html)|`2026-01-28 06:52:00`|`Counter-Strike 2`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-28 06:40:00`|`Valorant`|
 |[how can i spoof my arduino r4 wifi ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735726-spoof-arduino-r4-wifi.html)|`2026-01-28 06:24:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-28 06:08:00`|`League of Legends`|
