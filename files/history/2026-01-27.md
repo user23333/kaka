@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no recoil?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733419-recoil.html)|`2026-01-27 23:48:00`|`Payday 3`|
+|[✪✪✪✪✪ &#124; ☆ Zen ☆ &#124; Triggerbot &#124; Full User Guide &#124; ✪✪✪✪✪](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730792-zen-triggerbot-user-guide.html)|`2026-01-27 23:44:00`|`Valorant`|
+|[Simple ESP for COD:IW &#40;IW7 / IW7&#45;mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/735047-simple-esp-cod-iw-iw7-iw7-mod.html)|`2026-01-27 23:40:00`|`Call of Duty 4: Modern Warfare`|
 |[Bo7 Zombies Tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735367-bo7-zombies-tool.html)|`2026-01-27 23:33:00`|`Call of Duty: Black Ops 7`|
 |[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-27 23:24:00`|`Palworld`|
 |[How to prevent Dota 2 low priority on VM bots &#40;sandbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734822-prevent-dota-2-low-priority-vm-bots-sandbox.html)|`2026-01-27 23:18:00`|`Other MMORPG and Strategy`|
