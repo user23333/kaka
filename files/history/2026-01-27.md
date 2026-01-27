@@ -14,6 +14,7 @@
 |6|[Release Arknights: Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/735061-release-arknights-endfield.html)|`2026-01-27 01:02:43`|`other-mmorpg-and-strategy`|
 |9|[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-01-27 05:17:33`|`overwatch`|
 |6|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-27 07:11:50`|`other-mmorpg-and-strategy`|
+|9|[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-01-27 09:04:45`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-01-27 08:41:00`|`Other FPS Games`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-27 08:18:00`|`Other FPS Games`|
 |[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-01-27 07:30:00`|`Other FPS Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-27 07:30:00`|`Battlefield 6`|
 |[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-01-27 07:24:00`|`League of Legends`|
