@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need a dev to help with puyo puyo cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/735649-dev-help-puyo-puyo-cheat.html)|`2026-01-27 16:20:00`|`Forum General`|
+|[Icon Class/Display Name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/734166-icon-class-display-name.html)|`2026-01-27 16:01:00`|`Call of Duty: Black Ops 3`|
 |[Rust Cheat Development VS Fortnite Cheat Developmen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/735630-rust-cheat-development-vs-fortnite-cheat-developmen.html)|`2026-01-27 15:46:00`|`Forum General`|
 |[necromancer open fortess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/734499-necromancer-fortess.html)|`2026-01-27 15:29:00`|`Team Fortress 2`|
 |[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-01-27 15:13:00`|`Call of Duty: Black Ops 2`|
