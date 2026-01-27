@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Infinite &#45; Poor Man's Radar &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721231-arena-breakout-infinite-poor-mans-radar-dma.html)|`2026-01-28 05:49:00`|`Other FPS Games`|
+|[Is it safe to use the "restore deleted cars from DLC" feature from yimmenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735723-safe-restore-deleted-cars-dlc-feature-yimmenuv2.html)|`2026-01-28 05:48:00`|`Grand Theft Auto V`|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-01-28 05:47:00`|`ARC Raiders`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-01-28 05:43:00`|`Grand Theft Auto V`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-28 05:41:00`|`Apex Legends`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-01-28 05:39:00`|`Garry's Mod`|
 |[Vein Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723246-vein-reversal-structs-offsets.html)|`2026-01-28 05:34:00`|`Other FPS Games`|
