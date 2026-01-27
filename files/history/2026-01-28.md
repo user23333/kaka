@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734018-hytale-trainer.html)|`2026-01-28 02:34:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-01-28 02:32:00`|`Other FPS Games`|
+|[Visible check error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735552-visible-check-error.html)|`2026-01-28 02:32:00`|`Counter-Strike 2`|
+|[actor filtering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735704-actor-filtering.html)|`2026-01-28 02:31:00`|`ARC Raiders`|
+|[Kernel Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734156-kernel-mapper.html)|`2026-01-28 02:30:00`|`General Programming and Reversing`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-01-28 02:29:00`|`Counter-Strike 2`|
 |[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-28 01:56:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-01-28 01:52:00`|`Other FPS Games`|
 |[Ped Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/735700-ped-rotation.html)|`2026-01-28 01:48:00`|`Alternative Online Mods`|
