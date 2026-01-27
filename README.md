@@ -16,6 +16,7 @@
 |6|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-27 07:11:50`|`other-mmorpg-and-strategy`|
 |9|[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-01-27 09:04:45`|`rust`|
 |28|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-01-27 19:16:33`|`arc-raiders`|
+|19|[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-01-27 23:35:48`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo7 Zombies Tool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735367-bo7-zombies-tool.html)|`2026-01-27 23:33:00`|`Call of Duty: Black Ops 7`|
+|[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-01-27 23:24:00`|`Palworld`|
+|[How to prevent Dota 2 low priority on VM bots &#40;sandbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734822-prevent-dota-2-low-priority-vm-bots-sandbox.html)|`2026-01-27 23:18:00`|`Other MMORPG and Strategy`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-01-27 22:49:00`|`Grand Theft Auto V`|
 |[HotelCheat — My Isekai Hotel &#40;BepInEx&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735676-hotelcheat-isekai-hotel-bepinex.html)|`2026-01-27 22:48:00`|`Other Games`|
 |[Camera without decryption or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733040-camera-decryption-emulation.html)|`2026-01-27 22:26:00`|`ARC Raiders`|
