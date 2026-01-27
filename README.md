@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CHAMS/Glow effect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735738-chams-glow-effect.html)|`2026-01-28 07:34:00`|`Deadlock`|
 |[Did VAC become more aggressive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734911-vac-aggressive.html)|`2026-01-28 07:20:00`|`Counter-Strike 2`|
 |[copy&#43;paste friendly fire&#95;projectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735735-copy-paste-friendly-fire_projectile.html)|`2026-01-28 07:14:00`|`Team Fortress 2`|
 |[steal inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732095-steal-inventory.html)|`2026-01-28 07:14:00`|`Alternative Online Mods`|
