@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2PC setup &#40;Leonardo &#43; Host Shield&#41; &#45; stealth and logic tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735640-2pc-setup-leonardo-host-shield-stealth-logic-tips.html)|`2026-01-27 13:43:00`|`Valorant`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-01-27 13:23:00`|`Farlight 84`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-27 13:08:00`|`Grand Theft Auto V`|
 |[GTAV&#95;Trainer&#95;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/734442-gtav_trainer_2026-a.html)|`2026-01-27 13:05:00`|`Grand Theft Auto V`|
 |[Native Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721392-native-research.html)|`2026-01-27 13:04:00`|`Alternative Online Mods`|
