@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-29 06:18:00`|`ARC Raiders`|
+|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-01-29 06:15:00`|`Payday 3`|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-01-29 06:09:00`|`Star Wars Battlefront 2`|
+|[how to change this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735899-change.html)|`2026-01-29 06:05:00`|`Rust`|
 |[Vis check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735788-vis-check.html)|`2026-01-29 05:44:00`|`Deadlock`|
 |[Is KmBox Net actually detected by vgk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735808-kmbox-net-actually-detected-vgk.html)|`2026-01-29 05:40:00`|`Valorant`|
 |[Kernel Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/734156-kernel-mapper.html)|`2026-01-29 05:23:00`|`General Programming and Reversing`|
