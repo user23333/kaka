@@ -37,6 +37,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any free working genshin cheats for EU and asia ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/711926-free-genshin-cheats-eu-asia.html)|`2026-01-28 19:39:00`|`Genshin Impact`|
 |[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-01-28 19:32:00`|`League of Legends`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-01-28 19:31:00`|`Battlefield 6`|
 |[Iw5 ViewAngle offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/735802-iw5-viewangle-offsets.html)|`2026-01-28 19:19:00`|`Call of Duty: Modern Warfare 3`|
