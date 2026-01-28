@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[class c&#95;global&#95;variables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735875-class-c_global_variables.html)|`2026-01-29 03:04:00`|`Counter-Strike 2`|
+|[D4 one hit kill](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/735873-d4-hit-kill.html)|`2026-01-29 02:58:00`|`Diablo Series`|
+|[Signed RW driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734284-signed-rw-driver.html)|`2026-01-29 02:55:00`|`Anti-Cheat Bypass`|
+|[&#91;ASA&#93; Ark Survival Ascended Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733412-asa-ark-survival-ascended-internal.html)|`2026-01-29 02:51:00`|`Other Games`|
+|[ARK Survival Ascended/Evolved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734934-ark-survival-ascended-evolved.html)|`2026-01-29 02:51:00`|`Other FPS Games`|
+|[ARK: Surivival Evolved &#45; Need help getting dumper&#45;7 to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735581-ark-surivival-evolved-help-getting-dumper-7-a.html)|`2026-01-29 02:50:00`|`Other FPS Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-29 02:47:00`|`Deadlock`|
 |[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-01-29 02:44:00`|`Other FPS Games`|
 |[Some funcs in UE5 game run properly local, not work on server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735869-funcs-ue5-game-run-properly-local-server.html)|`2026-01-29 02:39:00`|`Other FPS Games`|
 |[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-01-29 02:38:00`|`Anti-Cheat Bypass`|
