@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-01-29 01:48:00`|`Valorant`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-01-29 01:48:00`|`Valorant`|
+|[Any PUBG macro for razer ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/735859-pubg-macro-razer.html)|`2026-01-29 01:46:00`|`Playerunknown's Battlegrounds`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-29 01:44:00`|`Playerunknown's Battlegrounds`|
+|[cs2 problem with memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735853-cs2-memory.html)|`2026-01-29 01:43:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-29 01:43:00`|`Apex Legends`|
+|[copy&#43;paste friendly fire&#95;projectile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735735-copy-paste-friendly-fire_projectile.html)|`2026-01-29 01:42:00`|`Team Fortress 2`|
+|[Rust Cheat Development VS Fortnite Cheat Developmen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/735630-rust-cheat-development-vs-fortnite-cheat-developmen.html)|`2026-01-29 01:41:00`|`Forum General`|
 |[chudette injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735201-chudette-injector.html)|`2026-01-29 01:13:00`|`Counter-Strike 2`|
 |[Can Arduino still be used for Valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735852-arduino-valorant.html)|`2026-01-29 01:09:00`|`Valorant`|
 |[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-29 01:00:00`|`Call of Duty: Black Ops 7`|
