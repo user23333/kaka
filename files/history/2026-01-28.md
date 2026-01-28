@@ -34,9 +34,12 @@
 |4|[eft internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52855)|`2026-01-28 14:32:22`|
 |4|[Chams External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52854)|`2026-01-28 14:32:22`|
 |2|[amazon prime video](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52844)|`2026-01-28 14:32:22`|
+|3|[LdrNT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52862)|`2026-01-28 21:32:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offsets / dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/735812-offsets-dumper.html)|`2026-01-28 21:31:00`|`Call of Duty: Modern Warfare III`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-01-28 21:30:00`|`Call of Duty: Modern Warfare III`|
 |[Val 5 after swapping SSD's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735571-val-5-swapping-ssds.html)|`2026-01-28 20:30:00`|`Valorant`|
 |[Is KmBox Net actually detected by vgk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735808-kmbox-net-actually-detected-vgk.html)|`2026-01-28 20:20:00`|`Valorant`|
 |[Any free working genshin cheats for EU and asia ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/711926-free-genshin-cheats-eu-asia.html)|`2026-01-28 19:39:00`|`Genshin Impact`|
