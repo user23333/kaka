@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-01-28 23:00:00`|`ARC Raiders`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-28 22:56:00`|`Other FPS Games`|
+|[How to launch multiple steam game clients?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733214-launch-multiple-steam-game-clients.html)|`2026-01-28 22:55:00`|`Forum General`|
+|[Get resources runtimes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/735829-resources-runtimes.html)|`2026-01-28 22:51:00`|`Alternative Online Mods`|
+|[NEON MANAGER v2&#46;6 &#124; R6 External &#124; Reactive UI &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/732985-neon-manager-v2-6-r6-external-reactive-ui-source-code.html)|`2026-01-28 22:48:00`|`Rainbow Six Siege`|
 |[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2026-01-28 22:29:00`|`Other MMORPG and Strategy`|
 |[Interested in Low&#45;Level Programming & Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735138-low-level-programming-reverse-engineering.html)|`2026-01-28 22:24:00`|`Introductions`|
 |[fellow coder here &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735395-fellow-coder.html)|`2026-01-28 22:22:00`|`Introductions`|
