@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-01-28 12:59:00`|`Other FPS Games`|
+|[Arc Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735779-arc-icons.html)|`2026-01-28 12:58:00`|`ARC Raiders`|
+|[&#91;RELEASE&#93; Codex External ESP &#43; Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/716934-release-codex-external-esp-aim.html)|`2026-01-28 12:50:00`|`Counter-Strike 2 Releases`|
 |[bone ptr randomly going null &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735778-bone-ptr-randomly-null-dma.html)|`2026-01-28 12:42:00`|`Call of Duty: Black Ops 7`|
 |[Cannot read classnames after last update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735427-read-classnames-update.html)|`2026-01-28 12:13:00`|`Counter-Strike 2`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-28 11:53:00`|`Playerunknown's Battlegrounds`|
