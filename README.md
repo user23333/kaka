@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-28 21:58:00`|`PUBG Mobile`|
+|[help with offsets and patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735817-help-offsets-patterns.html)|`2026-01-28 21:53:00`|`Deadlock`|
+|[My Grust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735816-grust-cheat.html)|`2026-01-28 21:53:00`|`Garry's Mod`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-01-28 21:43:00`|`Other FPS Games`|
 |[offsets / dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/735812-offsets-dumper.html)|`2026-01-28 21:31:00`|`Call of Duty: Modern Warfare III`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-01-28 21:30:00`|`Call of Duty: Modern Warfare III`|
 |[Val 5 after swapping SSD's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735571-val-5-swapping-ssds.html)|`2026-01-28 20:30:00`|`Valorant`|
