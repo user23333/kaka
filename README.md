@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-01-29 03:46:00`|`Other FPS Games`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-01-29 03:45:00`|`Escape from Tarkov`|
+|[any free redM cheats that released in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735878-free-redm-cheats-released-2026-a.html)|`2026-01-29 03:23:00`|`Introductions`|
 |[Battlefield 6 Logitech Anti&#45;Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/723124-battlefield-6-logitech-anti-recoil.html)|`2026-01-29 03:31:00`|`Battlefield 6`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-01-29 03:22:00`|`Apex Legends`|
 |[Camera without decryption or emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733040-camera-decryption-emulation.html)|`2026-01-29 03:21:00`|`ARC Raiders`|
