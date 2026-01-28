@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-01-28 10:27:00`|`Tom Clancy's The Division`|
+|[damage modification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/735768-damage-modification.html)|`2026-01-28 10:23:00`|`HELLDIVERS 2`|
 |[Technical Collaboration & Research: Handling Weekly Patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735762-technical-collaboration-research-handling-weekly-patches.html)|`2026-01-28 09:08:00`|`ARC Raiders`|
 |[Hunchclient v3 External &#45; Updated ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735583-hunchclient-v3-external-updated-esp.html)|`2026-01-28 09:05:00`|`ARC Raiders`|
 |[Pixmenu &#45; An opensource colorbot with config menu&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735400-pixmenu-opensource-colorbot-config-menu.html)|`2026-01-28 08:45:00`|`Valorant`|
