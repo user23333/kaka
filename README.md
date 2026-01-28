@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2026-01-28 22:29:00`|`Other MMORPG and Strategy`|
+|[Interested in Low&#45;Level Programming & Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735138-low-level-programming-reverse-engineering.html)|`2026-01-28 22:24:00`|`Introductions`|
+|[fellow coder here &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735395-fellow-coder.html)|`2026-01-28 22:22:00`|`Introductions`|
+|[Hey There&#46; Here to learn and to make friend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/735821-hey-learn-friend.html)|`2026-01-28 22:20:00`|`Introductions`|
 |[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-28 21:58:00`|`PUBG Mobile`|
 |[help with offsets and patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735817-help-offsets-patterns.html)|`2026-01-28 21:53:00`|`Deadlock`|
 |[My Grust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735816-grust-cheat.html)|`2026-01-28 21:53:00`|`Garry's Mod`|
