@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-29 07:10:00`|`Counter-Strike 2`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-01-29 06:55:00`|`HELLDIVERS 2`|
+|[Marvel Rivals Colorbot&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/709989-marvel-rivals-colorbot.html)|`2026-01-29 06:53:00`|`Marvel Rivals`|
 |[I'm looking to buy DMA hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/735912-im-looking-buy-dma-hardware.html)|`2026-01-29 06:49:00`|`Other Hardware`|
 |[Faceit secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735424-faceit-secure-boot.html)|`2026-01-29 06:47:00`|`Anti-Cheat Bypass`|
 |[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-29 06:18:00`|`ARC Raiders`|
