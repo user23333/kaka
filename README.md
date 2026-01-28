@@ -14,6 +14,7 @@
 |10|[Did VAC become more aggressive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734911-vac-aggressive.html)|`2026-01-28 03:50:13`|`counter-strike-2-a`|
 |1|[Arc raiders Fullbright working 21/01/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734708-arc-raiders-fullbright-21-01-2026-a.html)|`2026-01-28 04:18:37`|`arc-raiders`|
 |1|[DUPE ANY ITEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735250-dupe-item.html)|`2026-01-28 06:58:57`|`arc-raiders`|
+|12|[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-01-28 09:21:20`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Technical Collaboration & Research: Handling Weekly Patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735762-technical-collaboration-research-handling-weekly-patches.html)|`2026-01-28 09:08:00`|`ARC Raiders`|
+|[Hunchclient v3 External &#45; Updated ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735583-hunchclient-v3-external-updated-esp.html)|`2026-01-28 09:05:00`|`ARC Raiders`|
+|[Pixmenu &#45; An opensource colorbot with config menu&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735400-pixmenu-opensource-colorbot-config-menu.html)|`2026-01-28 08:45:00`|`Valorant`|
+|[How i can create Viewmodel changer&#46; X,Y,Z?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/733023-create-viewmodel-changer.html)|`2026-01-28 08:43:00`|`Rust`|
 |[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-01-28 07:54:00`|`Call of Duty: Black Ops 2`|
 |[Cronus Zen Studio &#45; Communication Protocol Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733829-cronus-zen-studio-communication-protocol-reversal.html)|`2026-01-28 07:45:00`|`Call of Duty: Black Ops 7`|
 |[DUPE ANY ITEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735250-dupe-item.html)|`2026-01-28 07:43:00`|`ARC Raiders`|
