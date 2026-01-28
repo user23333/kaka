@@ -31,9 +31,16 @@
 |1|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52840)|`2026-01-28 13:46:20`|
 |1|[VacEmulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52834)|`2026-01-28 13:46:20`|
 |1|[Scum SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52833)|`2026-01-28 13:58:27`|
+|4|[eft internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52855)|`2026-01-28 14:32:22`|
+|4|[Chams External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52854)|`2026-01-28 14:32:22`|
+|2|[amazon prime video](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52844)|`2026-01-28 14:32:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone interested in ColorBot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735763-colorbot.html)|`2026-01-28 14:29:00`|`Valorant`|
+|[Amazons Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/735629-amazons-recoil-reducer.html)|`2026-01-28 14:10:00`|`Rainbow Six Siege`|
+|[animal bones&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735785-animal-bones.html)|`2026-01-28 14:06:00`|`Rust`|
+|[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-01-28 14:00:00`|`Escape from Tarkov`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-01-28 13:49:00`|`Scum`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-28 13:46:00`|`Other MMORPG and Strategy`|
 |[VAC Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735587-vac-emulator.html)|`2026-01-28 13:44:00`|`Anti-Cheat Bypass`|
