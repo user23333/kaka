@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Theoretical 2&#45;PC Hardware Stack for External Colorbot &#40;Vanguard Mitigation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735439-theoretical-2-pc-hardware-stack-external-colorbot-vanguard-mitigation.html)|`2026-01-29 13:49:00`|`Valorant`|
+|[Casino Rig doesnt work anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735266-casino-rig-doesnt-anymore.html)|`2026-01-29 13:42:00`|`Grand Theft Auto V`|
 |[Arc Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735779-arc-icons.html)|`2026-01-29 13:12:00`|`ARC Raiders`|
 |[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-01-29 12:59:00`|`Anti-Cheat Bypass`|
 |[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-01-29 12:56:00`|`Call of Duty: Black Ops 2`|
