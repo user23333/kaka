@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-29 22:20:00`|`Apex Legends`|
+|[Warhammer darktide lua mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729337-warhammer-darktide-lua-mods.html)|`2026-01-29 22:08:00`|`Other FPS Games`|
+|[DMA Captain 75T: Firmware, Donor Card Choice, and Anti&#45;Cheat Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735991-dma-captain-75t-firmware-donor-card-choice-anti-cheat-questions.html)|`2026-01-29 22:05:00`|`Anti-Cheat Bypass`|
+|[Anyone using KMBox Net for macros? Looking for real&#45;world experience and detection ri](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735989-using-kmbox-net-macros-looking-real-world-experience-detection-ri.html)|`2026-01-29 21:54:00`|`Rust`|
 |[Mercy AI &#40;Pocket AI Assistant&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/638038-mercy-ai-pocket-ai-assistant.html)|`2026-01-29 21:30:00`|`Overwatch`|
 |[theHunter &#45; External &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/157784-thehunter-external-steam.html)|`2026-01-29 21:18:00`|`Other FPS Games`|
 |[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-01-29 21:17:00`|`Valorant`|
