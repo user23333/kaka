@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-29 14:32:00`|`Other MMORPG and Strategy`|
+|[Nexus&#45;Sentinel v0&#46;9 beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735953-nexus-sentinel-v0-9-beta.html)|`2026-01-29 14:27:00`|`General Programming and Reversing`|
+|[Simple Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735952-simple-marvel-rivals-internal.html)|`2026-01-29 14:05:00`|`Marvel Rivals`|
 |[Theoretical 2&#45;PC Hardware Stack for External Colorbot &#40;Vanguard Mitigation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735439-theoretical-2-pc-hardware-stack-external-colorbot-vanguard-mitigation.html)|`2026-01-29 13:49:00`|`Valorant`|
 |[Casino Rig doesnt work anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735266-casino-rig-doesnt-anymore.html)|`2026-01-29 13:42:00`|`Grand Theft Auto V`|
 |[Arc Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735779-arc-icons.html)|`2026-01-29 13:12:00`|`ARC Raiders`|
