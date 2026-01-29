@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-29 22:54:00`|`Valorant`|
+|[Visible check error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735552-visible-check-error.html)|`2026-01-29 22:35:00`|`Counter-Strike 2`|
+|[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2026-01-29 22:30:00`|`C and C++`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-29 22:20:00`|`Apex Legends`|
 |[Warhammer darktide lua mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729337-warhammer-darktide-lua-mods.html)|`2026-01-29 22:08:00`|`Other FPS Games`|
 |[DMA Captain 75T: Firmware, Donor Card Choice, and Anti&#45;Cheat Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735991-dma-captain-75t-firmware-donor-card-choice-anti-cheat-questions.html)|`2026-01-29 22:05:00`|`Anti-Cheat Bypass`|
