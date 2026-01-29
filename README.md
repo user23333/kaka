@@ -12,6 +12,7 @@
 |20|[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-01-30 00:06:11`|`anti-cheat-bypass`|
 |28|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-01-30 00:06:11`|`garry-s-mod`|
 |17|[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-01-30 04:00:03`|`other-fps-games`|
+|18|[Pixmenu &#45; An opensource colorbot with config menu&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735400-pixmenu-opensource-colorbot-config-menu.html)|`2026-01-30 07:12:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735587-vac-emulator.html)|`2026-01-30 07:12:00`|`Anti-Cheat Bypass`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-01-30 07:07:00`|`Marvel Rivals`|
+|[Skinchanger / knife flickering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735939-skinchanger-knife-flickering.html)|`2026-01-30 06:54:00`|`Counter-Strike 2`|
 |[FiveM Native Invokers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736055-fivem-native-invokers.html)|`2026-01-30 06:42:00`|`Alternative Online Mods`|
 |[ESP VALORANT FREE &#40;wallhack hack&#41; HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736054-esp-valorant-free-wallhack-hack-help.html)|`2026-01-30 06:42:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-30 06:38:00`|`Other Games`|
