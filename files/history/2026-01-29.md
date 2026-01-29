@@ -12,6 +12,7 @@
 |11|[Did VAC become more aggressive?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734911-vac-aggressive.html)|`2026-01-29 00:01:23`|`counter-strike-2-a`|
 |15|[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-01-29 00:01:23`|`anti-cheat-bypass`|
 |18|[Hunchclient v3 External &#45; Updated ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735583-hunchclient-v3-external-updated-esp.html)|`2026-01-29 05:59:20`|`arc-raiders`|
+|24|[roprw &#45; Kernel ROP implant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735609-roprw-kernel-rop-implant.html)|`2026-01-29 15:58:51`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Kettle Macro &#40;Visual Studio&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733791-simple-kettle-macro-visual-studio.html)|`2026-01-29 15:46:00`|`ARC Raiders`|
+|[Rust external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735957-rust-external-p2c-ready.html)|`2026-01-29 15:45:00`|`Rust`|
+|[Is the New World Order real?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/735956-world-real.html)|`2026-01-29 15:36:00`|`Off Topic`|
 |[Hytale &#124; Teleport Menu &#43; 6b6t bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734559-hytale-teleport-menu-6b6t-bypass.html)|`2026-01-29 14:32:00`|`Other MMORPG and Strategy`|
 |[Nexus&#45;Sentinel v0&#46;9 beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735953-nexus-sentinel-v0-9-beta.html)|`2026-01-29 14:27:00`|`General Programming and Reversing`|
 |[Simple Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735952-simple-marvel-rivals-internal.html)|`2026-01-29 14:05:00`|`Marvel Rivals`|
