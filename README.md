@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone interested in ColorBot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735763-colorbot.html)|`2026-01-29 23:39:00`|`Valorant`|
+|[External hitbox overlay aka ""chams""](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732412-external-hitbox-overlay-aka-chams.html)|`2026-01-29 23:38:00`|`Counter-Strike 2`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-29 22:54:00`|`Valorant`|
 |[Visible check error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735552-visible-check-error.html)|`2026-01-29 22:35:00`|`Counter-Strike 2`|
 |[obfuscxx: C&#43;&#43; variables obfuscation library &#40;msvc/clang/gcc &#124; x86&#45;64/arm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/720612-obfuscxx-variables-obfuscation-library-msvc-clang-gcc-x86-64-arm.html)|`2026-01-29 22:30:00`|`C and C++`|
