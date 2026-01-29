@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-01-30 07:41:00`|`ARC Raiders`|
 |[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2026-01-30 07:31:00`|`Sea of Thieves`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-30 07:22:00`|`Valorant`|
 |[Online Enabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/663128-online-enabler.html)|`2026-01-30 07:21:00`|`Grand Theft Auto V`|
