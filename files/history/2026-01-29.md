@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server ignores attack1&#95;start&#95;history&#95;index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734684-server-ignores-attack1_start_history_index.html)|`2026-01-29 17:54:00`|`Counter-Strike 2`|
+|[How to solve the two&#45;month ban problem for PUBG Global 32bit 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/734494-solve-month-ban-pubg-global-32bit-4-2-a.html)|`2026-01-29 17:53:00`|`PUBG Mobile`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-29 17:51:00`|`Other FPS Games`|
+|[Looking for a Reliable External Cheat for Call of Duty Warzone – Interested in Collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735366-looking-reliable-external-cheat-call-duty-warzone-collab.html)|`2026-01-29 17:42:00`|`Call of Duty: Black Ops 7`|
+|[Looking for a Good External Cheat for Arc Raiders – Interested in Collaboration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735365-looking-external-cheat-arc-raiders-collaboration.html)|`2026-01-29 17:41:00`|`ARC Raiders`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-01-29 16:59:00`|`Counter-Strike 2`|
 |[VALORANT View Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735963-valorant-view-model-changer.html)|`2026-01-29 16:57:00`|`Valorant`|
 |[Simple Kettle Macro &#40;Visual Studio&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733791-simple-kettle-macro-visual-studio.html)|`2026-01-29 15:46:00`|`ARC Raiders`|
