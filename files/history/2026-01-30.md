@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Native Invokers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736055-fivem-native-invokers.html)|`2026-01-30 06:42:00`|`Alternative Online Mods`|
+|[ESP VALORANT FREE &#40;wallhack hack&#41; HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736054-esp-valorant-free-wallhack-hack-help.html)|`2026-01-30 06:42:00`|`Valorant`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-01-30 06:38:00`|`Other Games`|
+|[Gta not found](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735860-gta-found.html)|`2026-01-30 06:32:00`|`Grand Theft Auto V`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-01-30 06:22:00`|`Deadlock`|
 |[Simple Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735952-simple-marvel-rivals-internal.html)|`2026-01-30 06:16:00`|`Marvel Rivals`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-01-30 06:11:00`|`Other FPS Games`|
