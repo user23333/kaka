@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OLD HARDWARE DONT SUPPORT TPM 2&#46;0 HOW TO BYPASS ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736077-hardware-dont-support-tpm-2-0-bypass.html)|`2026-01-30 15:38:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-01-30 14:57:00`|`League of Legends`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-01-30 14:34:00`|`Sea of Thieves`|
 |[got a working external for Roblox Criminality?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736060-external-roblox-criminality.html)|`2026-01-30 13:54:00`|`Other FPS Games`|
