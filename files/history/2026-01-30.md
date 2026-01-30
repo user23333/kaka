@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Block&#45;Events](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727908-block-events.html)|`2026-01-30 19:26:00`|`Alternative Online Mods`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-01-30 19:24:00`|`Playerunknown's Battlegrounds`|
+|[ESP for valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736118-esp-valorant.html)|`2026-01-30 19:15:00`|`Valorant`|
+|[How are people doing internal grenade prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/735466-people-doing-internal-grenade-prediction.html)|`2026-01-30 19:13:00`|`Counterstrike Global Offensive`|
+|[Tarkov Item Search&#40;menu helper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/736117-tarkov-item-search-menu-helper.html)|`2026-01-30 19:09:00`|`Escape from Tarkov`|
 |[Help with ViewMatrix AssaultCube 1&#46;2&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731980-help-viewmatrix-assaultcube-1-2-0-2-a.html)|`2026-01-30 18:55:00`|`General Programming and Reversing`|
 |[EVGA Driver Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/722300-evga-driver-exploit.html)|`2026-01-30 18:48:00`|`Anti-Cheat Bypass`|
 |[OutOfAction Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727805-outofaction-internal-cheat.html)|`2026-01-30 18:44:00`|`Other FPS Games`|
