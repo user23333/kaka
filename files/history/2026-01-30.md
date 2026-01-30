@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-30 23:48:00`|`Other FPS Games`|
+|[External 1&#46;20&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/736145-external-1-20-a.html)|`2026-01-30 23:40:00`|`Minecraft`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-01-30 23:37:00`|`Counter-Strike 2 Releases`|
 |[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-01-30 23:11:00`|`Overwatch`|
 |[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-01-30 23:11:00`|`Other MMORPG and Strategy`|
 |[hwid bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/734502-hwid-bans.html)|`2026-01-30 22:47:00`|`Rainbow Six Siege`|
