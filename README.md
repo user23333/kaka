@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-30 08:48:00`|`Other FPS Games`|
+|[Is there any blueprint duplication or detection method in ARC Raide??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735039-blueprint-duplication-detection-method-arc-raide.html)|`2026-01-30 08:47:00`|`ARC Raiders`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-01-30 08:46:00`|`Other FPS Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-01-30 08:38:00`|`Other FPS Games`|
 |[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-01-30 07:41:00`|`ARC Raiders`|
 |[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2026-01-30 07:31:00`|`Sea of Thieves`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-30 07:22:00`|`Valorant`|
