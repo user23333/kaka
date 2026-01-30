@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make Anti silent ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729782-anti-silent.html)|`2026-01-30 13:23:00`|`Alternative Online Mods`|
+|[Is KmBox Net actually detected by vgk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735808-kmbox-net-actually-detected-vgk.html)|`2026-01-30 13:20:00`|`Valorant`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-30 13:10:00`|`Counter-Strike 2 Releases`|
+|[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-01-30 12:56:00`|`Anti-Cheat Bypass`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-01-30 12:47:00`|`ARMA 3`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-01-30 12:34:00`|`Red Dead Redemption 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-01-30 11:58:00`|`Escape from Tarkov`|
