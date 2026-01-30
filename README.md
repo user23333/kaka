@@ -28,9 +28,14 @@
 |1|[OutOfAction SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52831)|`2026-01-31 05:54:58`|
 |1|[unkbronx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52838)|`2026-01-31 06:11:30`|
 |4|[Deep Rock Galactic Internal 1&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52900)|`2026-01-31 06:44:33`|
+|1|[OutOfAction&#95;Internal&#95;new&#95;game&#95;patch&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52898)|`2026-01-31 07:00:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[manually perm spoofing disk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736110-manually-perm-spoofing-disk.html)|`2026-01-31 06:53:00`|`Valorant`|
+|[Roblox Movement Recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735940-roblox-movement-recorder.html)|`2026-01-31 06:52:00`|`Other Games`|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-01-31 06:51:00`|`Grand Theft Auto V`|
+|[ue4 base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/736058-ue4-base.html)|`2026-01-31 06:47:00`|`PUBG Mobile`|
 |[Gta not found](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735860-gta-found.html)|`2026-01-31 06:42:00`|`Grand Theft Auto V`|
 |[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-01-31 06:39:00`|`Other Single Player Games`|
 |[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-01-31 06:39:00`|`Valorant`|
