@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pfn shared memory causes security check failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736132-pfn-shared-memory-causes-security-check-failure.html)|`2026-01-30 22:02:00`|`Anti-Cheat Bypass`|
+|[Visible check error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735552-visible-check-error.html)|`2026-01-30 21:52:00`|`Counter-Strike 2`|
+|[Arduino Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734402-arduino-spoofing.html)|`2026-01-30 21:44:00`|`Valorant`|
 |[Darmoshark driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736130-darmoshark-driver.html)|`2026-01-30 21:24:00`|`Rust`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-01-30 21:22:00`|`Call of Duty: Black Ops 7`|
 |[how do i get r6s offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736112-r6s-offsets.html)|`2026-01-30 21:17:00`|`Rainbow Six Siege`|
