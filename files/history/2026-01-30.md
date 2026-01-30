@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[help with offsets and patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/735817-help-offsets-patterns.html)|`2026-01-30 16:29:00`|`Deadlock`|
+|[Age of Empires II Definitive Edition Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720448-age-empires-ii-definitive-edition-reversal-structs-offsets.html)|`2026-01-30 16:08:00`|`Age of Empires`|
 |[Game Stats Data&#45;Mine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736072-game-stats-data-mine.html)|`2026-01-30 15:59:00`|`ARC Raiders`|
 |[R6 Account Checkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736082-r6-account-checkers.html)|`2026-01-30 15:55:00`|`Rainbow Six Siege`|
 |[OLD HARDWARE DONT SUPPORT TPM 2&#46;0 HOW TO BYPASS ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736077-hardware-dont-support-tpm-2-0-bypass.html)|`2026-01-30 15:38:00`|`Anti-Cheat Bypass`|
