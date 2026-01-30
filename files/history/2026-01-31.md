@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Xbox 360&#93; Engine chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/736169-xbox-360-engine-chams.html)|`2026-01-31 03:21:00`|`Call of Duty: Black Ops 2`|
+|[how to skip heroe entrance cinematic with "Start match on H &#45; Multiplayer"???????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/735833-skip-heroe-entrance-cinematic-start-match-multiplayer.html)|`2026-01-31 03:16:00`|`Star Wars Battlefront 2`|
+|[New VGC Restiction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736160-vgc-restiction.html)|`2026-01-31 03:14:00`|`Valorant`|
+|[executor fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732421-executor-fivem.html)|`2026-01-31 03:09:00`|`Alternative Online Mods`|
+|[Out Of Action Internal Cheat With Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736115-action-internal-cheat-silent-aim.html)|`2026-01-31 03:07:00`|`Other FPS Games`|
+|[Running Valorant in a KVM in 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736161-running-valorant-kvm-2026-a.html)|`2026-01-31 03:05:00`|`Valorant`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-01-31 03:03:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-01-31 03:00:00`|`ARC Raiders`|
 |[Better visibility after console &#43; NVIDIA filters patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734714-visibility-console-nvidia-filters-patches.html)|`2026-01-31 02:53:00`|`ARC Raiders`|
 |[CS2 External Recoil Helper &#124; Humanized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735371-cs2-external-recoil-helper-humanized.html)|`2026-01-31 02:52:00`|`Counter-Strike 2`|
 |[i keep getting an error when starting the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734811-getting-error-starting-game.html)|`2026-01-31 02:51:00`|`ARC Raiders`|
