@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Out Of Action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735477-action.html)|`2026-01-30 11:10:00`|`Other FPS Games`|
+|[latest offsets request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/734761-offsets-request.html)|`2026-01-30 11:00:00`|`Garry's Mod`|
+|[Unnamed/Akuma R6 &#40;cracked&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736080-unnamed-akuma-r6-cracked.html)|`2026-01-30 10:59:00`|`Rainbow Six Siege`|
+|[Help with exploit, recycled bullet / repeated damage cycle?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/736079-help-exploit-recycled-bullet-repeated-damage-cycle.html)|`2026-01-30 10:47:00`|`DayZ SA`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-01-30 08:48:00`|`Other FPS Games`|
 |[Is there any blueprint duplication or detection method in ARC Raide??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735039-blueprint-duplication-detection-method-arc-raide.html)|`2026-01-30 08:47:00`|`ARC Raiders`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-01-30 08:46:00`|`Other FPS Games`|
