@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[got a working external for Roblox Criminality?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736060-external-roblox-criminality.html)|`2026-01-30 13:54:00`|`Other FPS Games`|
+|[how to change this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735899-change.html)|`2026-01-30 13:49:00`|`Rust`|
 |[how to make Anti silent ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/729782-anti-silent.html)|`2026-01-30 13:23:00`|`Alternative Online Mods`|
 |[Is KmBox Net actually detected by vgk?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735808-kmbox-net-actually-detected-vgk.html)|`2026-01-30 13:20:00`|`Valorant`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-01-30 13:10:00`|`Counter-Strike 2 Releases`|
