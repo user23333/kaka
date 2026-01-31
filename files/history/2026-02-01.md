@@ -40,6 +40,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-01 05:12:00`|`Other Games`|
+|[best ow cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/736235-ow-cheat.html)|`2026-02-01 05:10:00`|`Overwatch`|
+|[Rust source pack 2025&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736332-rust-source-pack-2025-a.html)|`2026-02-01 05:08:00`|`Rust`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-02-01 05:03:00`|`Counter-Strike 2`|
+|[RCS not working after the update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736331-rcs-update.html)|`2026-02-01 05:03:00`|`Counter-Strike 2`|
+|[BO2 Plutonium: ESP works in customs but fails on hosted servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735462-bo2-plutonium-esp-customs-fails-hosted-servers.html)|`2026-02-01 05:01:00`|`Call of Duty: Black Ops 2`|
+|[Any PUBG macro for razer ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/735859-pubg-macro-razer.html)|`2026-02-01 05:01:00`|`Playerunknown's Battlegrounds`|
 |[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-02-01 04:52:00`|`Other FPS Games`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-01 04:48:00`|`Other FPS Games`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-01 04:47:00`|`Other MMORPG and Strategy`|
