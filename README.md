@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bones transform into cords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736277-bones-transform-cords.html)|`2026-01-31 22:51:00`|`Alternative Online Mods`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-01-31 22:47:00`|`HELLDIVERS 2`|
 |[new structs/classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736276-structs-classes.html)|`2026-01-31 22:40:00`|`Counter-Strike 2`|
 |[Any Working Cheat For Linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/578435-cheat-linux.html)|`2026-01-31 22:32:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Adryan pack blaster deflect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/736273-adryan-pack-blaster-deflect.html)|`2026-01-31 22:10:00`|`Star Wars Battlefront 2`|
