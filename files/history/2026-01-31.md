@@ -30,9 +30,18 @@
 |4|[Deep Rock Galactic Internal 1&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52900)|`2026-01-31 06:44:33`|
 |1|[OutOfAction&#95;Internal&#95;new&#95;game&#95;patch&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52898)|`2026-01-31 07:00:09`|
 |3|[arc&#95;esp&#95;dist&#95;01&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52848)|`2026-01-31 09:43:35`|
+|52|[Heartopia Buddy&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52878)|`2026-01-31 11:52:19`|
+|46|[Heartopia Farm &#43; Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52875)|`2026-01-31 11:52:19`|
+|2|[EgguWare&#95;V6 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52863)|`2026-01-31 11:52:19`|
+|2|[MHUR CE 1&#46;14&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52853)|`2026-01-31 11:52:19`|
+|1|[HotelCheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52850)|`2026-01-31 11:52:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-01-31 11:33:00`|`Other Single Player Games`|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-01-31 11:28:00`|`Other FPS Games`|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-01-31 11:27:00`|`Other Games`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-01-31 11:17:00`|`ARC Raiders`|
 |[make this mod only "skipabble cutscenes" &#40;hero entering in for hvv hero showdown&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/736213-mod-skipabble-cutscenes-hero-entering-hvv-hero-showdown.html)|`2026-01-31 09:42:00`|`Star Wars Battlefront 2`|
 |[ESP VALORANT FREE &#40;wallhack hack&#41; HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736054-esp-valorant-free-wallhack-hack-help.html)|`2026-01-31 09:34:00`|`Valorant`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-01-31 09:28:00`|`Counter-Strike 2 Releases`|
