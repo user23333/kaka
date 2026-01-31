@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ped Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/735700-ped-rotation.html)|`2026-01-31 18:13:00`|`Alternative Online Mods`|
+|[Simple Alt:v esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732416-simple-alt-esp-aimbot.html)|`2026-01-31 18:12:00`|`Alternative Online Mods`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-01-31 17:35:00`|`Other FPS Games`|
 |[Somebody should totally post their reforger cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/736244-totally-post-reforger-cheat.html)|`2026-01-31 17:41:00`|`ARMA 3`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-01-31 17:31:00`|`Overwatch`|
