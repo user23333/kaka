@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-01 01:10:00`|`Marvel Rivals`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-01 01:07:00`|`Other MMORPG and Strategy`|
+|[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-02-01 01:02:00`|`Rust`|
+|[Any Fov changer ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736113-fov-changer.html)|`2026-02-01 01:00:00`|`ARC Raiders`|
+|[Python &#43; Raspberry Pi 5 Valorant Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735067-python-raspberry-pi-5-valorant-colorbot.html)|`2026-02-01 01:00:00`|`Valorant`|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-02-01 00:55:00`|`Other FPS Games`|
+|[VANGUARD Shadow Region](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736296-vanguard-shadow-region.html)|`2026-02-01 00:55:00`|`Anti-Cheat Bypass`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-01 00:51:00`|`Other FPS Games`|
 |[&#91;EAC&#93; fortnite delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736214-eac-fortnite-delay-ban.html)|`2026-02-01 00:51:00`|`Anti-Cheat Bypass`|
 |[Simple Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735952-simple-marvel-rivals-internal.html)|`2026-02-01 00:49:00`|`Marvel Rivals`|
