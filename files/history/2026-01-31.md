@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D12 Wallhack with imgui overlay &#43; src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/736269-d3d12-wallhack-imgui-overlay-src.html)|`2026-01-31 21:57:00`|`D3D Tutorials and Source`|
+|[Kernel Mode window application](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736272-kernel-mode-window-application.html)|`2026-01-31 21:54:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-01-31 21:48:00`|`Grand Theft Auto V`|
 |[How do I bypass the Fivem NAPSE scanner?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734294-bypass-fivem-napse-scanner.html)|`2026-01-31 21:29:00`|`Alternative Online Mods`|
 |[R6 Account Checkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736082-r6-account-checkers.html)|`2026-01-31 21:25:00`|`Rainbow Six Siege`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-01-31 21:07:00`|`Valorant`|
