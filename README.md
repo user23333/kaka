@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hardware ban or detecting SecureBoot spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/736114-hardware-ban-detecting-secureboot-spoof.html)|`2026-01-31 15:28:00`|`Battlefield 6`|
+|[Is this still valid？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/736236-valid.html)|`2026-01-31 15:28:00`|`Apex Legends`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-01-31 15:23:00`|`Counter-Strike 2 Releases`|
+|[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-01-31 15:15:00`|`Other FPS Games`|
 |[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-01-31 15:04:00`|`Marvel Rivals`|
 |[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-31 15:02:00`|`Other MMORPG and Strategy`|
 |[skinchanger in chinese server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736233-skinchanger-chinese-server.html)|`2026-01-31 14:57:00`|`Valorant`|
