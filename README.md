@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-01 05:30:00`|`Other FPS Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-01 05:30:00`|`Other FPS Games`|
+|[Pagetable checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736341-pagetable-checks.html)|`2026-02-01 05:23:00`|`Anti-Cheat Bypass`|
+|[&#91;VOTE&#93; February 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/735698-vote-february-2026-month.html)|`2026-02-01 05:22:00`|`Member of the Month`|
+|[DELAY ban, need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728359-delay-ban-help.html)|`2026-02-01 05:20:00`|`Valorant`|
+|[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-02-01 05:20:00`|`Counter-Strike 2`|
 |[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-01 05:12:00`|`Other Games`|
 |[best ow cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/736235-ow-cheat.html)|`2026-02-01 05:10:00`|`Overwatch`|
 |[Rust source pack 2025&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736332-rust-source-pack-2025-a.html)|`2026-02-01 05:08:00`|`Rust`|
