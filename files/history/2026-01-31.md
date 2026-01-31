@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP does not show for 1 Team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736256-esp-1-team.html)|`2026-01-31 23:50:00`|`Call of Duty: Black Ops 7`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-01-31 23:48:00`|`Other MMORPG and Strategy`|
+|[&#91;EAC&#93; fortnite delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736214-eac-fortnite-delay-ban.html)|`2026-01-31 23:37:00`|`Anti-Cheat Bypass`|
+|[Fivem ModMenu Injection Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/735368-fivem-modmenu-injection-help.html)|`2026-01-31 23:36:00`|`C and C++`|
 |[Vanguard Pipe System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736210-vanguard-pipe-system.html)|`2026-01-31 23:39:00`|`Valorant`|
 |[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-31 23:37:00`|`ARC Raiders`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-31 23:34:00`|`Apex Legends`|
