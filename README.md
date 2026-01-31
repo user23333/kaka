@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-01-31 16:27:00`|`Apex Legends`|
+|[Hollow Knight ModMenu External v1&#46;9 by Chibby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736239-hollow-knight-modmenu-external-v1-9-chibby.html)|`2026-01-31 16:26:00`|`Other Games`|
+|[ESP on MacOS ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736092-esp-macos.html)|`2026-01-31 16:10:00`|`Rust`|
+|[Dark and Darker Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/690457-dark-darker-internal.html)|`2026-01-31 16:03:00`|`Other FPS Games`|
 |[what should i add before releasing pro p2c?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736012-add-releasing-pro-p2c.html)|`2026-01-31 15:58:00`|`Rust`|
 |[Hardware ban or detecting SecureBoot spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/736114-hardware-ban-detecting-secureboot-spoof.html)|`2026-01-31 15:28:00`|`Battlefield 6`|
 |[Is this still valid？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/736236-valid.html)|`2026-01-31 15:28:00`|`Apex Legends`|
