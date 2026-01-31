@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Pipe System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736210-vanguard-pipe-system.html)|`2026-01-31 23:39:00`|`Valorant`|
+|[ARC RAIDERS XP &#124; MONEY &#124; RESOURCE FARM ARCBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/727726-arc-raiders-xp-money-resource-farm-arcbot.html)|`2026-01-31 23:37:00`|`ARC Raiders`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-01-31 23:34:00`|`Apex Legends`|
+|[Ark: Survival Ascended Tribute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736285-ark-survival-ascended-tribute.html)|`2026-01-31 23:23:00`|`Other FPS Games`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-01-31 23:19:00`|`Other FPS Games`|
 |[Inversia x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/689644-inversia-x64.html)|`2026-01-31 23:09:00`|`Team Fortress 2`|
 |[spawn vehicles externally &#40;shellcode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736278-spawn-vehicles-externally-shellcode.html)|`2026-01-31 22:57:00`|`Alternative Online Mods`|
 |[Bones transform into cords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736277-bones-transform-cords.html)|`2026-01-31 22:51:00`|`Alternative Online Mods`|
