@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dayz Private Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/735603-dayz-private-cheat.html)|`2026-02-01 01:38:00`|`DayZ SA`|
+|[spawn vehicles externally &#40;shellcode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736278-spawn-vehicles-externally-shellcode.html)|`2026-02-01 01:27:00`|`Alternative Online Mods`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-01 01:26:00`|`Rust`|
+|[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-02-01 01:26:00`|`Alternative Online Mods`|
+|[Somebody should totally post their reforger cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/736244-totally-post-reforger-cheat.html)|`2026-02-01 01:25:00`|`ARMA 3`|
+|[familiar duckies duplication glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736154-familiar-duckies-duplication-glitch.html)|`2026-02-01 01:21:00`|`ARC Raiders`|
+|[R6 Account Checkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736082-r6-account-checkers.html)|`2026-02-01 01:19:00`|`Rainbow Six Siege`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-01 01:10:00`|`Marvel Rivals`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-01 01:07:00`|`Other MMORPG and Strategy`|
 |[vlone&#46;dev source i purchased from owner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735259-vlone-dev-source-purchased-owner.html)|`2026-02-01 01:02:00`|`Rust`|
