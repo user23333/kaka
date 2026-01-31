@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-01-31 15:04:00`|`Marvel Rivals`|
+|[V Rising ESP based on RetroCamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732992-rising-esp-based-retrocamera.html)|`2026-01-31 15:02:00`|`Other MMORPG and Strategy`|
+|[skinchanger in chinese server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736233-skinchanger-chinese-server.html)|`2026-01-31 14:57:00`|`Valorant`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-01-31 14:55:00`|`Other FPS Games`|
 |[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2026-01-31 13:45:00`|`Call of Duty 6: Modern Warfare 2`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-01-31 13:44:00`|`Other FPS Games`|
 |[Cant Find entities within entity list for T6ZM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/736039-cant-entities-entity-list-t6zm.html)|`2026-01-31 13:35:00`|`Call of Duty: Black Ops 2`|
