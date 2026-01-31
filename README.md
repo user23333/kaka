@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-01-31 13:24:00`|`Anti-Cheat Bypass`|
+|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-01-31 13:21:00`|`ARC Raiders`|
+|[Arduino &#43; USB Host Shield &#43; ESP32 &#40;UDP over Wi&#45;Fi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734385-arduino-usb-host-shield-esp32-udp-wi-fi.html)|`2026-01-31 13:03:00`|`Valorant`|
 |[Rust external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735957-rust-external-p2c-ready.html)|`2026-01-31 12:28:00`|`Rust`|
 |[Bypass EAC for cheat&#45;engine table&#40;tutorial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736221-bypass-eac-cheat-engine-table-tutorial.html)|`2026-01-31 12:21:00`|`Anti-Cheat Bypass`|
 |[Any Working Skin/Inventory Changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736220-skin-inventory-changer.html)|`2026-01-31 12:03:00`|`Counter-Strike 2`|
