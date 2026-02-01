@@ -13,6 +13,7 @@
 |13|[Faceit secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735424-faceit-secure-boot.html)|`2026-02-02 00:23:16`|`anti-cheat-bypass`|
 |6|[Scooby V2 &#45; Legacy & Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736144-scooby-v2-legacy-enhanced.html)|`2026-02-02 02:18:55`|`grand-theft-auto-v`|
 |13|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-02 03:57:00`|`anti-cheat-bypass`|
+|30|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-02 05:18:50`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-02-02 05:13:00`|`Insurgency`|
+|[Insane Spike Assistant – Region Preference Tool for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/716496-insane-spike-assistant-region-preference-tool-sea-thieves.html)|`2026-02-02 05:11:00`|`Sea of Thieves`|
+|[Controller Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736579-controller-movement.html)|`2026-02-02 05:10:00`|`Call of Duty: Black Ops 7`|
+|[How do people come up with DLL injection methods&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736578-people-dll-injection-methods.html)|`2026-02-02 05:07:00`|`Anti-Cheat Bypass`|
 |[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-02-02 04:53:00`|`Forum General`|
 |[Simple PaliaTable 0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/733442-simple-paliatable-0-198-a.html)|`2026-02-02 04:41:00`|`Palia`|
 |[need roblox offsets please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/736553-roblox-offsets-please.html)|`2026-02-02 04:40:00`|`General Programming and Reversing`|
