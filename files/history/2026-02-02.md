@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Denuvo HyperVisor Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736544-denuvo-hypervisor-bypass.html)|`2026-02-02 03:13:00`|`Anti-Cheat Bypass`|
+|[external ultimate charge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736547-external-ultimate-charge.html)|`2026-02-02 03:02:00`|`Marvel Rivals`|
+|[Hey Everyone&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/736536-hey.html)|`2026-02-02 02:57:00`|`Introductions`|
+|[Is there any chance of HWID ban instead of 30d? How can i protect my main then](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736538-chance-hwid-ban-instead-30d-protect-main.html)|`2026-02-02 02:57:00`|`ARC Raiders`|
+|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-02-02 02:57:00`|`ARC Raiders`|
 |[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2026-02-02 02:54:00`|`Escape from Tarkov`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-02 02:52:00`|`Overwatch`|
 |[Arc Raiders Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736542-arc-raiders-exploits.html)|`2026-02-02 02:52:00`|`ARC Raiders`|
