@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-02-02 01:11:00`|`Other Games`|
+|[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-02-02 01:07:00`|`Other FPS Games`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-02 01:06:00`|`ARC Raiders`|
+|[&#91;CS 1&#46;6&#93; WorldToScreen issue: Point drifts away on Z&#45;axis/distance in OpenGL mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/734574-cs-1-6-worldtoscreen-issue-drifts-axis-distance-opengl-mode.html)|`2026-02-02 00:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[cant manually spoof anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736025-cant-manually-spoof-anymore.html)|`2026-02-02 00:54:00`|`Valorant`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-02 00:53:00`|`Escape from Tarkov`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-02-02 00:51:00`|`Marvel Rivals`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-02 00:47:00`|`Valorant`|
 |[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-02-02 00:46:00`|`ARC Raiders`|
