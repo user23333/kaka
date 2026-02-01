@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recommandation mod menu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/731078-recommandation-mod-menu.html)|`2026-02-02 03:22:00`|`Red Dead Redemption 2`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-02-02 03:22:00`|`Other Games`|
+|[Dayz Private Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/735603-dayz-private-cheat.html)|`2026-02-02 03:21:00`|`DayZ SA`|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2026-02-02 03:16:00`|`Combat Master`|
 |[Denuvo HyperVisor Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736544-denuvo-hypervisor-bypass.html)|`2026-02-02 03:13:00`|`Anti-Cheat Bypass`|
 |[external ultimate charge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736547-external-ultimate-charge.html)|`2026-02-02 03:02:00`|`Marvel Rivals`|
 |[Hey Everyone&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/736536-hey.html)|`2026-02-02 02:57:00`|`Introductions`|
