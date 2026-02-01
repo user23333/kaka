@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-02-02 06:19:00`|`Anti-Cheat Bypass`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-02 06:18:00`|`Valorant`|
+|[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717679-roblox-external-updated.html)|`2026-02-02 06:16:00`|`Other FPS Games`|
+|[Question about actor identification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/736073-question-actor-identification.html)|`2026-02-02 06:07:00`|`Playerunknown's Battlegrounds`|
+|[The Midnight Walker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736034-midnight-walker-reversal-structs-offsets.html)|`2026-02-02 06:01:00`|`Other FPS Games`|
 |[ESP does not show for 1 Team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736256-esp-1-team.html)|`2026-02-02 05:38:00`|`Call of Duty: Black Ops 7`|
 |[PRBF2 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/736469-prbf2-esp.html)|`2026-02-02 05:30:00`|`Battlefield 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-02 05:22:00`|`Alternative Online Mods`|
