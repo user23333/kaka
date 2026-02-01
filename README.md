@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-02-02 04:53:00`|`Forum General`|
 |[Simple PaliaTable 0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/733442-simple-paliatable-0-198-a.html)|`2026-02-02 04:41:00`|`Palia`|
 |[need roblox offsets please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/736553-roblox-offsets-please.html)|`2026-02-02 04:40:00`|`General Programming and Reversing`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-02 04:36:00`|`Escape from Tarkov`|
