@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple PaliaTable 0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/733442-simple-paliatable-0-198-a.html)|`2026-02-02 04:41:00`|`Palia`|
+|[need roblox offsets please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/736553-roblox-offsets-please.html)|`2026-02-02 04:40:00`|`General Programming and Reversing`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-02 04:36:00`|`Escape from Tarkov`|
+|[Clang vs&#46; MSVC &#45; Does it make a difference for detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736457-clang-vs-msvc-difference-detection.html)|`2026-02-02 04:34:00`|`Anti-Cheat Bypass`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-02-02 04:34:00`|`Rust`|
+|[D3D12 Wallhack with imgui overlay &#43; src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/736269-d3d12-wallhack-imgui-overlay-src.html)|`2026-02-02 04:25:00`|`D3D Tutorials and Source`|
 |[kdmapper & cr3 page walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736543-kdmapper-cr3-page-walk.html)|`2026-02-02 04:14:00`|`Rust`|
 |[vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736319-vischeck.html)|`2026-02-02 04:10:00`|`Rust`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-02 04:08:00`|`Rust`|
