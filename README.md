@@ -14,6 +14,7 @@
 |5|[Perfect &#91;External&#93; Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735731-perfect-external-chams.html)|`2026-02-01 03:33:56`|`counter-strike-2-a`|
 |13|[Faceit secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735424-faceit-secure-boot.html)|`2026-02-01 03:53:03`|`anti-cheat-bypass`|
 |5|[Amazons Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/735629-amazons-recoil-reducer.html)|`2026-02-01 04:23:41`|`rainbow-six-siege`|
+|18|[Simple Marvel Rivals Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/735952-simple-marvel-rivals-internal.html)|`2026-02-01 08:00:09`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
