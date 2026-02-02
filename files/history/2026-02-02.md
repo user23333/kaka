@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape The Backrooms ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733615-escape-backrooms-esp.html)|`2026-02-02 16:45:00`|`Other FPS Games`|
+|[Ingame Steam account switching?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/729276-ingame-steam-account-switching.html)|`2026-02-02 16:44:00`|`Counterstrike Global Offensive`|
+|[How to make a Starfall EX client crasher?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/736637-starfall-ex-client-crasher.html)|`2026-02-02 16:44:00`|`Garry's Mod`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2026-02-02 16:41:00`|`Other Games`|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2026-02-02 16:33:00`|`Other MMORPG and Strategy`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-02 15:37:00`|`Apex Legends`|
 |[Questions about hacks/bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/736631-questions-hacks-bots.html)|`2026-02-02 15:33:00`|`Maple Story`|
 |[Leaked Paid Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736629-leaked-paid-recoil-macro.html)|`2026-02-02 15:12:00`|`Rainbow Six Siege`|
