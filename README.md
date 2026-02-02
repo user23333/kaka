@@ -14,6 +14,7 @@
 |6|[Scooby V2 &#45; Legacy & Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736144-scooby-v2-legacy-enhanced.html)|`2026-02-02 02:18:55`|`grand-theft-auto-v`|
 |13|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-02 03:57:00`|`anti-cheat-bypass`|
 |30|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-02 05:18:50`|`other-games`|
+|9|[familiar duckies duplication glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736154-familiar-duckies-duplication-glitch.html)|`2026-02-02 15:36:11`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Leaked Paid Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736629-leaked-paid-recoil-macro.html)|`2026-02-02 15:12:00`|`Rainbow Six Siege`|
+|[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-02-02 14:54:00`|`Other FPS Games`|
+|[📋 PUBG Mobile Bone Array &#45; Working for v4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735241-pubg-mobile-bone-array-v4-2-a.html)|`2026-02-02 14:52:00`|`PUBG Mobile`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-02 14:37:00`|`Grand Theft Auto V`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-02-02 14:16:00`|`Valorant`|
 |[GTA Online Enhanced: Price Catalog: Requesting for Steps to get the latest Catalog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735999-gta-online-enhanced-price-catalog-requesting-steps-catalog.html)|`2026-02-02 14:15:00`|`Grand Theft Auto V`|
