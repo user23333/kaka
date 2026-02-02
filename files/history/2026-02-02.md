@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-02 15:37:00`|`Apex Legends`|
+|[Questions about hacks/bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/736631-questions-hacks-bots.html)|`2026-02-02 15:33:00`|`Maple Story`|
 |[Leaked Paid Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736629-leaked-paid-recoil-macro.html)|`2026-02-02 15:12:00`|`Rainbow Six Siege`|
 |[Highguard, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735612-highguard-structs-offsets.html)|`2026-02-02 14:54:00`|`Other FPS Games`|
 |[📋 PUBG Mobile Bone Array &#45; Working for v4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/735241-pubg-mobile-bone-array-v4-2-a.html)|`2026-02-02 14:52:00`|`PUBG Mobile`|
