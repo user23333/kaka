@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[24h2 EProcess Decryption From MmPfn Entry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736645-24h2-eprocess-decryption-mmpfn-entry.html)|`2026-02-02 18:15:00`|`Anti-Cheat Bypass`|
+|[My static Addresses disappear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/736291-static-addresses-disappear.html)|`2026-02-02 18:05:00`|`Phasmophobia`|
+|[How rare are genuine private/slotted cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736386-rare-genuine-private-slotted-cheats.html)|`2026-02-02 17:56:00`|`Valorant`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-02-02 17:32:00`|`Other FPS Games`|
 |[is these optins still unsafe for cayo and casino hiest in yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736639-optins-unsafe-cayo-casino-hiest-yimmenuv2.html)|`2026-02-02 17:13:00`|`Grand Theft Auto V`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-02-02 16:59:00`|`Sea of Thieves`|
