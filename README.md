@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-02 18:42:00`|`Other Games`|
+|[MODDED Nuke and classes how?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/736648-modded-nuke-classes.html)|`2026-02-02 18:41:00`|`Call of Duty: Black Ops Cold War`|
+|[Tarkov Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/736199-tarkov-helper.html)|`2026-02-02 18:39:00`|`Escape from Tarkov`|
 |[24h2 EProcess Decryption From MmPfn Entry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736645-24h2-eprocess-decryption-mmpfn-entry.html)|`2026-02-02 18:15:00`|`Anti-Cheat Bypass`|
 |[My static Addresses disappear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/736291-static-addresses-disappear.html)|`2026-02-02 18:05:00`|`Phasmophobia`|
 |[How rare are genuine private/slotted cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736386-rare-genuine-private-slotted-cheats.html)|`2026-02-02 17:56:00`|`Valorant`|
