@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get cr3, in rust eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736656-cr3-rust-eac.html)|`2026-02-02 19:45:00`|`Rust`|
+|[ARK: Surivival Evolved &#45; Need help getting dumper&#45;7 to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735581-ark-surivival-evolved-help-getting-dumper-7-a.html)|`2026-02-02 19:35:00`|`Other FPS Games`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-02-02 19:34:00`|`Other MMORPG and Strategy`|
+|[Dumper&#45;7 &#45; A universal, automatic Unreal Engine SDK Generator for UE4 and UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/594092-dumper-7-universal-automatic-unreal-engine-sdk-generator-ue4-ue5.html)|`2026-02-02 19:32:00`|`Unreal Engine 4`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-02 18:42:00`|`Other Games`|
 |[MODDED Nuke and classes how?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/736648-modded-nuke-classes.html)|`2026-02-02 18:41:00`|`Call of Duty: Black Ops Cold War`|
 |[Tarkov Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/736199-tarkov-helper.html)|`2026-02-02 18:39:00`|`Escape from Tarkov`|
