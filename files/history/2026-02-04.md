@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem external adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736926-fivem-external-adhesive.html)|`2026-02-04 05:29:00`|`Alternative Online Mods`|
+|[L4D2 cheat with gamesense ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736854-l4d2-cheat-gamesense-ui.html)|`2026-02-04 05:28:00`|`Other FPS Games`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-02-04 05:26:00`|`Other FPS Games`|
+|[Directly writing to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736925-directly-writing-natives.html)|`2026-02-04 05:25:00`|`Alternative Online Mods`|
 |[How to use any triggerbot on my arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736905-triggerbot-arduino.html)|`2026-02-04 04:58:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-02-04 04:55:00`|`Other FPS Games`|
 |[Rain Reach Academy For Bo1 &#40;Jtag/RGH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/736908-rain-reach-academy-bo1-jtag-rgh.html)|`2026-02-04 04:53:00`|`Call of Duty: Black Ops`|
