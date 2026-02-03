@@ -15,6 +15,7 @@
 |22|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-02-03 07:02:02`|`palworld`|
 |17|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-03 07:19:11`|`valorant`|
 |3|[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-02-03 07:46:13`|`escape-from-tarkov`|
+|12|[kill&#46;ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736431-kill-ac.html)|`2026-02-03 10:24:40`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla Pointers & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/710555-brawlhalla-pointers-offsets.html)|`2026-02-03 10:21:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-03 10:10:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-02-03 09:56:00`|`ARC Raiders`|
+|[Why is it so hard to find cheats nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/736641-hard-cheats-nowadays.html)|`2026-02-03 09:46:00`|`Garry's Mod`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-03 09:46:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-03 09:44:00`|`Other FPS Games`|
+|[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-02-03 09:42:00`|`Call of Duty: Black Ops 2`|
 |[Pubg Enemy Aim Warning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/736598-pubg-enemy-aim-warning.html)|`2026-02-03 07:58:00`|`Playerunknown's Battlegrounds`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-03 07:55:00`|`Marvel Rivals`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-03 07:46:00`|`Sea of Thieves`|
