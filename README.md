@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best free external cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736872-free-external-cheats.html)|`2026-02-03 23:38:00`|`Counter-Strike 2`|
+|[Java injectable for Minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/736871-java-injectable-minecraft.html)|`2026-02-03 23:36:00`|`Minecraft`|
+|[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-03 23:30:00`|`Other Games`|
 |[Simple ESP for COD:IW &#40;IW7 / IW7&#45;mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/735047-simple-esp-cod-iw-iw7-iw7-mod.html)|`2026-02-03 22:56:00`|`Call of Duty 4: Modern Warfare`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-03 22:52:00`|`Valorant`|
 |[YimMenu Legacy 1&#46;72 b3725](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729969-yimmenu-legacy-1-72-b3725.html)|`2026-02-03 22:47:00`|`Grand Theft Auto V`|
