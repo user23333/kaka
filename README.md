@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Reality The logic of anti&#45;cheating scanning and detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/732538-project-reality-logic-anti-cheating-scanning-detection.html)|`2026-02-03 16:58:00`|`Battlefield 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-03 16:46:00`|`Rust`|
+|[Driver gets killed when game launches &#45; need help with memory read method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736459-driver-killed-game-launches-help-memory-read-method.html)|`2026-02-03 16:40:00`|`Anti-Cheat Bypass`|
 |[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-03 16:08:00`|`Anti-Cheat Bypass`|
 |[banana shooter rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736827-banana-shooter-rage-cheat.html)|`2026-02-03 16:00:00`|`Other FPS Games`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-02-03 15:44:00`|`Valorant`|
