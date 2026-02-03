@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-02-03 14:54:00`|`Call of Duty: Black Ops 7`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-03 14:50:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-03 14:46:00`|`Payday 3`|
+|[Searching For CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736821-searching-cs2-skin-changer.html)|`2026-02-03 14:26:00`|`Counter-Strike 2`|
 |[24h2 EProcess Decryption From MmPfn Entry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736645-24h2-eprocess-decryption-mmpfn-entry.html)|`2026-02-03 13:50:00`|`Anti-Cheat Bypass`|
 |[computer vision models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/736100-computer-vision-models.html)|`2026-02-03 13:28:00`|`Apex Legends`|
 |[League of Legends hack  guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/736321-league-legends-hack-guide.html)|`2026-02-03 13:25:00`|`League of Legends`|
