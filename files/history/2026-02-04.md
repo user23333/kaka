@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use any triggerbot on my arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736905-triggerbot-arduino.html)|`2026-02-04 04:58:00`|`Valorant`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-02-04 04:55:00`|`Other FPS Games`|
+|[Rain Reach Academy For Bo1 &#40;Jtag/RGH&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/736908-rain-reach-academy-bo1-jtag-rgh.html)|`2026-02-04 04:53:00`|`Call of Duty: Black Ops`|
+|[Foxhole Internal &#91;COLONIAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/724701-foxhole-internal-colonial.html)|`2026-02-04 04:48:00`|`Other MMORPG and Strategy`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-02-04 04:46:00`|`Overwatch`|
+|[Get Help/Info From Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/736599-help-info.html)|`2026-02-04 04:44:00`|`Off Topic`|
 |[Any working genshin impact cheat / modmenu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/736539-genshin-impact-cheat-modmenu.html)|`2026-02-04 04:24:00`|`Genshin Impact`|
 |[new Apex Predictive Nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/736902-apex-predictive-nospread.html)|`2026-02-04 04:10:00`|`Apex Legends`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-02-04 04:05:00`|`Other FPS Games`|
