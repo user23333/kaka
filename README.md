@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-02-03 21:00:00`|`League of Legends`|
+|[BlueTooth Mac spoofing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736483-bluetooth-mac-spoofing.html)|`2026-02-03 20:58:00`|`Anti-Cheat Bypass`|
+|[Does reading CR3 from EPROCESS work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736846-reading-cr3-eprocess.html)|`2026-02-03 20:43:00`|`ARC Raiders`|
+|[Introduction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736772-introduction.html)|`2026-02-03 20:41:00`|`Forum General`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-03 19:54:00`|`Roblox`|
 |[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-02-03 19:46:00`|`Paladins`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-02-03 19:41:00`|`Grand Theft Auto V`|
