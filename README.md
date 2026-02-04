@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Amazons Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/735629-amazons-recoil-reducer.html)|`2026-02-04 19:36:00`|`Rainbow Six Siege`|
+|[Apex External Source &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730413-apex-external-source-esp-aimbot.html)|`2026-02-04 19:36:00`|`Apex Legends`|
+|[Has anyone figured out why people still can't Migrate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736533-figured-people-cant-migrate.html)|`2026-02-04 19:29:00`|`Grand Theft Auto V`|
+|[Deadlock AC state](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/736247-deadlock-ac.html)|`2026-02-04 19:23:00`|`Deadlock`|
+|[Nba 2k26 AutoGreener](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/730715-nba-2k26-autogreener.html)|`2026-02-04 19:14:00`|`Other Games`|
 |[Cs2 Internal Source Code Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730080-cs2-internal-source-code-cheat-base.html)|`2026-02-04 18:48:00`|`Counter-Strike 2`|
 |[CS2 Chams material applied but enemies are transparent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733699-cs2-chams-material-applied-enemies-transparent.html)|`2026-02-04 18:37:00`|`Counter-Strike 2`|
 |[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2026-02-04 18:36:00`|`Rust`|
