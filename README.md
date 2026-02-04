@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-04 13:03:00`|`Anti-Cheat Bypass`|
+|[Scooby V2 &#45; Legacy & Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736144-scooby-v2-legacy-enhanced.html)|`2026-02-04 12:55:00`|`Grand Theft Auto V`|
+|[skinchanger in chinese server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736233-skinchanger-chinese-server.html)|`2026-02-04 12:49:00`|`Valorant`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-02-04 11:52:00`|`Farlight 84`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-02-04 11:29:00`|`Playerunknown's Battlegrounds`|
 |[Clang vs&#46; MSVC &#45; Does it make a difference for detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736457-clang-vs-msvc-difference-detection.html)|`2026-02-04 11:26:00`|`Anti-Cheat Bypass`|
