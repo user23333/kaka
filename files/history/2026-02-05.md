@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-02-05 05:48:00`|`Deadlock`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-02-05 05:47:00`|`Counter-Strike 2 Releases`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-02-05 05:47:00`|`Other Single Player Games`|
+|[Emulate Eidolon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734223-emulate-eidolon.html)|`2026-02-05 05:40:00`|`Overwatch`|
+|[Searching For CS2 Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736821-searching-cs2-skin-changer.html)|`2026-02-05 05:38:00`|`Counter-Strike 2`|
+|[Best free external cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736872-free-external-cheats.html)|`2026-02-05 05:38:00`|`Counter-Strike 2`|
+|[Valorant delay bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737081-valorant-delay-bans.html)|`2026-02-05 05:32:00`|`Valorant`|
 |[Free CS2 external / skinchanger / customizable aim curve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736989-free-cs2-external-skinchanger-customizable-aim-curve.html)|`2026-02-05 05:20:00`|`Counter-Strike 2`|
 |[Rocket league bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/708048-rocket-league-bots.html)|`2026-02-05 05:18:00`|`Other Games`|
 |[I got HWID banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/731619-hwid-banned.html)|`2026-02-05 05:17:00`|`Valorant`|
