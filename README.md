@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Large page allocation in normal process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737052-page-allocation-normal-process.html)|`2026-02-05 03:18:00`|`Anti-Cheat Bypass`|
+|[Directly writing to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736925-directly-writing-natives.html)|`2026-02-05 03:16:00`|`Alternative Online Mods`|
+|[Could someone update Imperial?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/736151-update-imperial.html)|`2026-02-05 03:15:00`|`Overwatch`|
+|[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-02-05 03:14:00`|`Forum General`|
+|[triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736688-triggerbot.html)|`2026-02-05 02:55:00`|`Counter-Strike 2`|
+|[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-02-05 02:48:00`|`Team Fortress 2`|
 |[introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/737031-introduction.html)|`2026-02-05 02:29:00`|`Introductions`|
 |[Need exact SMBIOS offsets for Win11 24H2/25H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736700-exact-smbios-offsets-win11-24h2-25h2.html)|`2026-02-05 02:25:00`|`Anti-Cheat Bypass`|
 |[automatically r&#42; account switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736497-automatically-account-switcher.html)|`2026-02-05 02:20:00`|`Alternative Online Mods`|
