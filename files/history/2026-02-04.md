@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse Driver Help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736955-mouse-driver-help.html)|`2026-02-04 23:19:00`|`Call of Duty: Black Ops 7`|
+|[AntiFrogLock &#91;internal deadlock&#93; cheat&#43;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/733656-antifroglock-internal-deadlock-cheat-source.html)|`2026-02-04 23:17:00`|`Deadlock`|
+|[EAC Banwave / Any info?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/731586-eac-banwave-info.html)|`2026-02-04 23:11:00`|`Rust`|
+|[Grenade helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737025-grenade-helper.html)|`2026-02-04 23:00:00`|`Counter-Strike 2`|
+|[Plant/Animal Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737024-plant-animal-chams.html)|`2026-02-04 22:57:00`|`Rust`|
 |[Entity List &#45; Names, Teams etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/737022-entity-list-names-teams-etc.html)|`2026-02-04 22:53:00`|`Deadlock`|
 |[valorant hacking to sell accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736924-valorant-hacking-sell-accounts.html)|`2026-02-04 22:40:00`|`Valorant`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-02-04 22:39:00`|`Grand Theft Auto V`|
