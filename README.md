@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2026-02-05 06:51:00`|`Rainbow Six Siege`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-02-05 06:49:00`|`Apex Legends`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-05 06:42:00`|`HELLDIVERS 2`|
+|[Dayz Private Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/735603-dayz-private-cheat.html)|`2026-02-05 06:37:00`|`DayZ SA`|
 |[Is there a ways to Hook Java Native API?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/736877-hook-java-native-api.html)|`2026-02-05 06:20:00`|`C and C++`|
 |[Project Reality The logic of anti&#45;cheating scanning and detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/732538-project-reality-logic-anti-cheating-scanning-detection.html)|`2026-02-05 06:15:00`|`Battlefield 2`|
 |[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-05 06:09:00`|`Anti-Cheat Bypass`|
