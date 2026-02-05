@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for experienced cheaters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737211-looking-experienced-cheaters.html)|`2026-02-06 04:37:00`|`ARC Raiders`|
+|[Cheat Engine can't read Arma Reforger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/736832-cheat-engine-cant-read-arma-reforger.html)|`2026-02-06 04:33:00`|`ARMA 3`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-06 04:30:00`|`Other FPS Games`|
+|[How to avoid HWID bans in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737184-avoid-hwid-bans-apex-legends.html)|`2026-02-06 04:27:00`|`Apex Legends`|
+|[Grounded Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735473-grounded-internal-cheat.html)|`2026-02-06 04:23:00`|`Other FPS Games`|
 |[Internal ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-06 03:53:00`|`Combat Master`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-02-06 03:42:00`|`Other Games`|
 |[Simple Kettle Macro &#40;Visual Studio&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733791-simple-kettle-macro-visual-studio.html)|`2026-02-06 03:41:00`|`ARC Raiders`|
