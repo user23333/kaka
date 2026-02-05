@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Host shield &#43; CP2102 &#40;Full Spoof&#41; detection status](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737156-host-shield-cp2102-spoof-detection-status.html)|`2026-02-05 19:43:00`|`Valorant`|
+|[HV detection vectors on kernel anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737154-hv-detection-vectors-kernel-anticheats.html)|`2026-02-05 19:29:00`|`Anti-Cheat Bypass`|
+|[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-02-05 19:22:00`|`Other MMORPG and Strategy`|
 |[VALORANT UE 5 CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736895-valorant-ue-5-code.html)|`2026-02-05 19:07:00`|`Valorant`|
 |[Nobody is updating scripts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/737057-updating-scripts.html)|`2026-02-05 19:06:00`|`Maple Story`|
 |[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-02-05 19:03:00`|`Other MMORPG and Strategy`|
