@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-06 06:18:00`|`Anti-Cheat Bypass`|
+|[External D3D11 Shader Chams – Models Rendering "Hollow" &#40;Culling Issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736907-external-d3d11-shader-chams-models-rendering-hollow-culling-issue.html)|`2026-02-06 06:09:00`|`Counter-Strike 2`|
+|[eac blocks mmcopyvirtualmemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737222-eac-blocks-mmcopyvirtualmemory.html)|`2026-02-06 06:03:00`|`Anti-Cheat Bypass`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-06 05:56:00`|`Valorant`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-06 05:55:00`|`Valorant`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-02-06 05:46:00`|`HELLDIVERS 2`|
