@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-05 22:27:00`|`ARC Raiders`|
+|[My post was deleted with no reasons given&#46; Read the rules several times](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/737171-post-deleted-reasons-read-rules-times.html)|`2026-02-05 22:26:00`|`Forum General`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-05 22:17:00`|`League of Legends`|
 |[TPM & FTPM 100% manual&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737164-tpm-ftpm-100-manual.html)|`2026-02-05 21:41:00`|`Valorant`|
 |[staffbesting analog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737160-staffbesting-analog.html)|`2026-02-05 21:20:00`|`Valorant`|
 |[Banned and need another main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/736176-banned-main.html)|`2026-02-05 21:11:00`|`Escape from Tarkov`|
