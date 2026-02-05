@@ -25,9 +25,14 @@
 |26|[Payday3&#45;Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52940)|`2026-02-05 00:06:33`|
 |32|[Payday3&#45;Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52939)|`2026-02-05 00:06:33`|
 |13|[valorant 12&#46;02 sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52982)|`2026-02-05 03:54:11`|
+|1|[Half Sword CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52992)|`2026-02-05 11:44:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World Of Sea Battle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736753-world-sea-battle.html)|`2026-02-05 11:31:00`|`Other MMORPG and Strategy`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-05 11:22:00`|`Roblox`|
+|[Hardware ban or detecting SecureBoot spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/736114-hardware-ban-detecting-secureboot-spoof.html)|`2026-02-05 11:15:00`|`Battlefield 6`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-05 11:03:00`|`Counter-Strike 2`|
 |[Why do some Apex cheats require LSA &#43; Driver Blocklist off?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737077-apex-cheats-require-lsa-driver-blocklist.html)|`2026-02-05 09:26:00`|`Apex Legends`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-05 09:17:00`|`Apex Legends`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-05 09:13:00`|`Rust`|
