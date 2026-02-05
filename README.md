@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What do you use for internal rendering with modern ACs &#40;EAC/BE/Vanguard&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737180-internal-rendering-modern-acs-eac-vanguard.html)|`2026-02-05 23:52:00`|`Anti-Cheat Bypass`|
+|[BAN HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733348-ban-hwid.html)|`2026-02-05 23:44:00`|`Valorant`|
+|[Your experience with ItsGamerDoc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734305-experience-itsgamerdoc.html)|`2026-02-05 23:42:00`|`Valorant`|
 |[Is a 2&#45;PC &#43; Raspberry Pi &#40;UDP&#41; setup overkill for ARC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737145-2-pc-raspberry-pi-udp-setup-overkill-arc.html)|`2026-02-05 22:56:00`|`ARC Raiders`|
 |[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-02-05 22:32:00`|`Overwatch`|
 |[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-05 22:27:00`|`ARC Raiders`|
