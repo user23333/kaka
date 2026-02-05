@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-06 07:02:00`|`Counter-Strike 2`|
+|[DayZ Nvidia Inspector black screen bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737249-dayz-nvidia-inspector-black-screen-bypass.html)|`2026-02-06 06:54:00`|`DayZ SA`|
 |[Arc Raiders Cracked Version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737246-arc-raiders-cracked-version.html)|`2026-02-06 06:37:00`|`ARC Raiders`|
 |[Any LoL scripts avaliable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722594-lol-scripts-avaliable.html)|`2026-02-06 06:36:00`|`League of Legends`|
 |[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-06 06:18:00`|`Anti-Cheat Bypass`|
