@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KKD &#45; Kallmek3nnys Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734379-kkd-kallmek3nnys-kernel-driver.html)|`2026-02-05 20:20:00`|`Call of Duty: Black Ops 7`|
+|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-02-05 20:18:00`|`Anti-Cheat Bypass`|
 |[Host shield &#43; CP2102 &#40;Full Spoof&#41; detection status](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737156-host-shield-cp2102-spoof-detection-status.html)|`2026-02-05 19:43:00`|`Valorant`|
 |[HV detection vectors on kernel anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737154-hv-detection-vectors-kernel-anticheats.html)|`2026-02-05 19:29:00`|`Anti-Cheat Bypass`|
 |[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-02-05 19:22:00`|`Other MMORPG and Strategy`|
