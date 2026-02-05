@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-02-06 02:02:00`|`HELLDIVERS 2`|
+|[Working ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737177-esp-source.html)|`2026-02-06 01:58:00`|`Valorant`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-06 01:56:00`|`Counter-Strike 2`|
+|[Reading and writing methods for kernel drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733912-reading-writing-methods-kernel-drivers.html)|`2026-02-06 01:55:00`|`Anti-Cheat Bypass`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-06 01:53:00`|`Garry's Mod`|
+|[DDR5 Rams without serial number?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737085-ddr5-rams-serial.html)|`2026-02-06 01:51:00`|`Anti-Cheat Bypass`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-02-06 01:51:00`|`Farlight 84`|
+|[pml4 walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737189-pml4-walk.html)|`2026-02-06 01:48:00`|`Rust`|
 |[Aniimo &#45; LUA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736013-aniimo-lua-tool.html)|`2026-02-06 01:23:00`|`Other MMORPG and Strategy`|
 |[KingAndy1506 V 0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736552-kingandy1506-0-2-a.html)|`2026-02-06 01:20:00`|`Counter-Strike 2`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-02-06 01:19:00`|`Scum`|
