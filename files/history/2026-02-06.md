@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kWalk: Stealth Auto&#45;Resolved R/W via Manual PT Walk & MDL Remap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726345-kwalk-stealth-auto-resolved-via-manual-pt-walk-mdl-remap.html)|`2026-02-06 23:02:00`|`Anti-Cheat Bypass`|
+|[D3D12 Wallhack with imgui overlay &#43; src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/736269-d3d12-wallhack-imgui-overlay-src.html)|`2026-02-06 22:59:00`|`D3D Tutorials and Source`|
+|[Spoofing disks serials using bootmgfw bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731532-spoofing-disks-serials-using-bootmgfw-bootkit.html)|`2026-02-06 22:58:00`|`Anti-Cheat Bypass`|
+|[&#91;Valorant&#93;What Hardware/Windows Changes for Perm Hwid Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728010-valorant-hardware-windows-changes-perm-hwid-unban.html)|`2026-02-06 22:51:00`|`Valorant`|
+|[Helldivers 2 &#45; Stratagem Hotkey Manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/708700-helldivers-2-stratagem-hotkey-manager.html)|`2026-02-06 22:37:00`|`HELLDIVERS 2`|
+|[ScriptHookV Online With GTA Online Custom Server Cyprus/Paragon Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728157-scripthookv-online-gta-online-custom-server-cyprus-paragon.html)|`2026-02-06 22:33:00`|`Grand Theft Auto V`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-02-06 22:02:00`|`Forum General`|
 |[HV detection vectors on kernel anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737154-hv-detection-vectors-kernel-anticheats.html)|`2026-02-06 21:56:00`|`Anti-Cheat Bypass`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-02-06 21:55:00`|`Other FPS Games`|
