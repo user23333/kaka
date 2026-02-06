@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[class ids similar to prefab ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737370-class-ids-similar-prefab-ids.html)|`2026-02-07 05:51:00`|`Rust`|
+|[need new patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736106-patterns.html)|`2026-02-07 05:51:00`|`Counter-Strike 2`|
+|[Simple Kettle Macro &#40;Visual Studio&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733791-simple-kettle-macro-visual-studio.html)|`2026-02-07 05:49:00`|`ARC Raiders`|
 |[Aimbot Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737369-aimbot-memory-aim.html)|`2026-02-07 05:40:00`|`Call of Duty: Black Ops 7`|
 |[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-07 05:39:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-07 05:29:00`|`Other FPS Games`|
