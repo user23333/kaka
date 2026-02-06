@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Changing UID on pirate ZoS Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/736484-changing-uid-pirate-zos-launcher.html)|`2026-02-07 06:18:00`|`DayZ SA`|
+|[Clang vs&#46; MSVC &#45; Does it make a difference for detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736457-clang-vs-msvc-difference-detection.html)|`2026-02-07 06:17:00`|`Anti-Cheat Bypass`|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-07 06:13:00`|`Valorant`|
+|[Free CS2 external / skinchanger / customizable aim curve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736989-free-cs2-external-skinchanger-customizable-aim-curve.html)|`2026-02-07 06:11:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-02-07 06:04:00`|`Rainbow Six Siege`|
 |[class ids similar to prefab ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737370-class-ids-similar-prefab-ids.html)|`2026-02-07 05:51:00`|`Rust`|
 |[need new patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736106-patterns.html)|`2026-02-07 05:51:00`|`Counter-Strike 2`|
 |[Simple Kettle Macro &#40;Visual Studio&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733791-simple-kettle-macro-visual-studio.html)|`2026-02-07 05:49:00`|`ARC Raiders`|
