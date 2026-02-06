@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New ricochet dump&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728944-ricochet-dump.html)|`2026-02-07 01:51:00`|`Call of Duty: Black Ops 7`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-07 01:49:00`|`DayZ SA`|
+|[Bo7 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737061-bo7-ban.html)|`2026-02-07 01:48:00`|`Call of Duty: Black Ops 7`|
+|[Pubg Enemy Aim Warning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/736598-pubg-enemy-aim-warning.html)|`2026-02-07 01:47:00`|`Playerunknown's Battlegrounds`|
+|[D3D12 Wallhack with imgui overlay &#43; src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/736269-d3d12-wallhack-imgui-overlay-src.html)|`2026-02-07 01:47:00`|`D3D Tutorials and Source`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2026-02-07 01:47:00`|`Team Fortress 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-07 01:38:00`|`Other FPS Games`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-07 01:34:00`|`Apex Legends`|
+|[Finding current map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737343-finding-current-map.html)|`2026-02-07 01:34:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-07 01:07:00`|`Rust`|
 |[Windows 11 25H2: Issues retrieving encrypted CR3 from kernel under EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737341-windows-11-25h2-issues-retrieving-encrypted-cr3-kernel-eac.html)|`2026-02-07 01:07:00`|`Anti-Cheat Bypass`|
 |[Am i missing any bones?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/737188-am-missing-bones.html)|`2026-02-07 00:57:00`|`Call of Duty: Black Ops 2`|
