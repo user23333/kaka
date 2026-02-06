@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[familiar duckies duplication glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736154-familiar-duckies-duplication-glitch.html)|`2026-02-07 06:54:00`|`ARC Raiders`|
 |[How to find GetCGCClient Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737378-getcgcclient-offset.html)|`2026-02-07 06:34:00`|`Counter-Strike 2`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-02-07 06:21:00`|`Grand Theft Auto V`|
 |[Changing UID on pirate ZoS Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/736484-changing-uid-pirate-zos-launcher.html)|`2026-02-07 06:18:00`|`DayZ SA`|
