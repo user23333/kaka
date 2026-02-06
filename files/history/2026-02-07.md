@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-02-07 07:43:00`|`Other Games`|
+|[Identifying BYOVD variants for BattlEye &#40;ASA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737383-identifying-byovd-variants-battleye-asa.html)|`2026-02-07 07:41:00`|`Anti-Cheat Bypass`|
+|[&#91;Valorant&#93;What Hardware/Windows Changes for Perm Hwid Unban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/728010-valorant-hardware-windows-changes-perm-hwid-unban.html)|`2026-02-07 07:39:00`|`Valorant`|
+|[Rust Bone Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737385-rust-bone-issue.html)|`2026-02-07 07:35:00`|`Rust`|
+|[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2026-02-07 07:32:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-07 07:08:00`|`Grand Theft Auto V`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-07 07:05:00`|`Apex Legends`|
 |[familiar duckies duplication glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736154-familiar-duckies-duplication-glitch.html)|`2026-02-07 06:54:00`|`ARC Raiders`|
