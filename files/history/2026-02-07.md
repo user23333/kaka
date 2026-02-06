@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[2PC External ESP32&#45;S3 Colorbot on iGPU Laptop &#45; Latency and HID Safety](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737348-2pc-external-esp32-s3-colorbot-igpu-laptop-latency-hid-safety.html)|`2026-02-07 04:46:00`|`Valorant`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-07 04:45:00`|`Other Games`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-02-07 04:44:00`|`Overwatch`|
+|[Safe limit gta 5 legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736120-safe-limit-gta-5-legacy.html)|`2026-02-07 04:38:00`|`Grand Theft Auto V`|
+|[AMONG US Cheat / Town of Us / Mira?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731683-cheat-town-mira.html)|`2026-02-07 04:34:00`|`Among Us`|
 |[Best &#40;worst&#41; of UC Discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/227202-worst-uc-discord.html)|`2026-02-07 04:09:00`|`Off Topic`|
 |[bounding box for dropped weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737084-bounding-box-dropped-weapons.html)|`2026-02-07 03:53:00`|`Counter-Strike 2`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-07 03:51:00`|`Marvel Rivals`|
