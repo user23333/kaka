@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to read CurrentTime and CurrentTime2 from globalVarsPtr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737361-read-currenttime-currenttime2-globalvarsptr.html)|`2026-02-07 05:13:00`|`Counter-Strike 2`|
+|[Big Win Today For Older CoD Here’s Why](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/737362-win-cod.html)|`2026-02-07 05:01:00`|`Call of Duty: Black Ops 2`|
 |[2PC External ESP32&#45;S3 Colorbot on iGPU Laptop &#45; Latency and HID Safety](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737348-2pc-external-esp32-s3-colorbot-igpu-laptop-latency-hid-safety.html)|`2026-02-07 04:46:00`|`Valorant`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-07 04:45:00`|`Other Games`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-02-07 04:44:00`|`Overwatch`|
