@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-07 12:56:00`|`Sea of Thieves`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-07 12:42:00`|`Other FPS Games`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-07 11:53:00`|`Garry's Mod`|
 |[Why is it so hard to find cheats nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/736641-hard-cheats-nowadays.html)|`2026-02-07 11:52:00`|`Garry's Mod`|
 |[Spring & Easter Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/736705-spring-easter-banner-contest-2026-a.html)|`2026-02-07 11:46:00`|`General Graphics`|
