@@ -13,6 +13,8 @@
 |21|[Free CS2 external / skinchanger / customizable aim curve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736989-free-cs2-external-skinchanger-customizable-aim-curve.html)|`2026-02-07 00:27:15`|`counter-strike-2-a`|
 |37|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-07 02:36:20`|`payday-3-a`|
 |20|[Clang vs&#46; MSVC &#45; Does it make a difference for detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736457-clang-vs-msvc-difference-detection.html)|`2026-02-07 02:36:20`|`anti-cheat-bypass`|
+|9|[VANGUARD Shadow Region](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736296-vanguard-shadow-region.html)|`2026-02-07 11:54:23`|`anti-cheat-bypass`|
+|4|[KingAndy1506 V 0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736552-kingandy1506-0-2-a.html)|`2026-02-07 11:54:23`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-07 11:53:00`|`Garry's Mod`|
+|[Why is it so hard to find cheats nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/736641-hard-cheats-nowadays.html)|`2026-02-07 11:52:00`|`Garry's Mod`|
+|[Spring & Easter Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/736705-spring-easter-banner-contest-2026-a.html)|`2026-02-07 11:46:00`|`General Graphics`|
+|[Mouse Driver Help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736955-mouse-driver-help.html)|`2026-02-07 11:39:00`|`Call of Duty: Black Ops 7`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-02-07 11:37:00`|`Deadlock`|
+|[New VGC Restiction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736160-vgc-restiction.html)|`2026-02-07 11:37:00`|`Valorant`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-02-07 11:27:00`|`Other FPS Games`|
+|[&#91;POC&#93; grabbing hwid using glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/731272-poc-grabbing-hwid-using-glua.html)|`2026-02-07 11:27:00`|`Garry's Mod`|
 |[Teleportation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737393-teleportation.html)|`2026-02-07 09:44:00`|`ARC Raiders`|
 |[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2026-02-07 09:25:00`|`Age of Empires`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-02-07 09:24:00`|`HELLDIVERS 2`|
