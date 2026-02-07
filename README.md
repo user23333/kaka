@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase &#40;external glow esp&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737442-showcase-external-glow-esp.html)|`2026-02-07 23:36:00`|`Alternative Online Mods`|
+|[Directly writing to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736925-directly-writing-natives.html)|`2026-02-07 23:33:00`|`Alternative Online Mods`|
+|[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-07 23:31:00`|`Anti-Cheat Bypass`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-07 23:30:00`|`Overwatch`|
+|[AoE II DE &#45; AntiCheat And How To Bypass It](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/737441-aoe-ii-de-anticheat-bypass.html)|`2026-02-07 23:21:00`|`Age of Empires`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/717679-roblox-external-updated.html)|`2026-02-07 22:54:00`|`Roblox`|
 |[apex new hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737440-apex-hook.html)|`2026-02-07 22:41:00`|`Apex Legends`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-02-07 22:40:00`|`Apex Legends`|
