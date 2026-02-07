@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hostage Rescue Zone Bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737097-hostage-rescue-zone-bounds.html)|`2026-02-08 05:31:00`|`Counter-Strike 2`|
+|[NEPatch &#45; Marvel Rivals Kernel AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737242-nepatch-marvel-rivals-kernel-ac-bypass.html)|`2026-02-08 05:26:00`|`Marvel Rivals`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-08 05:24:00`|`Overwatch`|
+|[Hunchclient v3 External &#45; Updated ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735583-hunchclient-v3-external-updated-esp.html)|`2026-02-08 05:22:00`|`ARC Raiders`|
 |[cs2 extenral/internal skin changer source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737495-cs2-extenral-internal-skin-changer-source-code.html)|`2026-02-08 04:58:00`|`Counter-Strike 2`|
 |[Showcase &#40;external glow esp&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737442-showcase-external-glow-esp.html)|`2026-02-08 04:57:00`|`Alternative Online Mods`|
 |[External Dropped Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737384-external-dropped-weapon.html)|`2026-02-08 04:54:00`|`Counter-Strike 2`|
