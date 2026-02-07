@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-07 23:55:00`|`General Programming and Reversing`|
+|[Heartopia Stove&#45;Limit Breaker &#124; Intelligent AFK Patrol System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737296-heartopia-stove-limit-breaker-intelligent-afk-patrol-system.html)|`2026-02-07 23:51:00`|`Other Games`|
+|[Hollow Knight ModMenu External v1&#46;9 by Chibby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736239-hollow-knight-modmenu-external-v1-9-chibby.html)|`2026-02-07 23:50:00`|`Other Games`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-02-07 23:45:00`|`Rust`|
 |[Showcase &#40;external glow esp&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737442-showcase-external-glow-esp.html)|`2026-02-07 23:36:00`|`Alternative Online Mods`|
 |[Directly writing to natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736925-directly-writing-natives.html)|`2026-02-07 23:33:00`|`Alternative Online Mods`|
 |[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-07 23:31:00`|`Anti-Cheat Bypass`|
