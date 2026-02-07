@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Dropped Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737384-external-dropped-weapon.html)|`2026-02-07 16:27:00`|`Counter-Strike 2`|
+|[impulse RCS written in RUST &#91;IMGUI&#93;&#91;Logitech exploit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/737412-impulse-rcs-written-rust-imgui-logitech-exploit.html)|`2026-02-07 16:12:00`|`Rainbow Six Siege`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2026-02-07 16:06:00`|`Other FPS Games`|
 |[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-02-07 15:58:00`|`Call of Duty: Black Ops 7`|
 |[Old python coloraimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734096-python-coloraimbot.html)|`2026-02-07 15:51:00`|`Valorant`|
 |[automatically r&#42; account switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736497-automatically-account-switcher.html)|`2026-02-07 15:49:00`|`Alternative Online Mods`|
