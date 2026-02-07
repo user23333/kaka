@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 extenral/internal skin changer source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737495-cs2-extenral-internal-skin-changer-source-code.html)|`2026-02-08 04:58:00`|`Counter-Strike 2`|
+|[Showcase &#40;external glow esp&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737442-showcase-external-glow-esp.html)|`2026-02-08 04:57:00`|`Alternative Online Mods`|
+|[External Dropped Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737384-external-dropped-weapon.html)|`2026-02-08 04:54:00`|`Counter-Strike 2`|
+|[How to read CurrentTime and CurrentTime2 from globalVarsPtr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737361-read-currenttime-currenttime2-globalvarsptr.html)|`2026-02-08 04:51:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-08 04:49:00`|`Overwatch`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-02-08 04:41:00`|`Sea of Thieves`|
 |[Aniimo &#45; LUA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736013-aniimo-lua-tool.html)|`2026-02-08 04:33:00`|`Other MMORPG and Strategy`|
 |[new structs/classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736276-structs-classes.html)|`2026-02-08 04:30:00`|`Counter-Strike 2`|
