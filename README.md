@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofer for laptop asus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725957-spoofer-laptop-asus.html)|`2026-02-08 06:39:00`|`Valorant`|
+|[Best possible hardware for cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737501-hardware-cheating.html)|`2026-02-08 06:34:00`|`Valorant`|
 |[Controller Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736579-controller-movement.html)|`2026-02-08 06:28:00`|`Call of Duty: Black Ops 7`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-02-08 06:27:00`|`HELLDIVERS 2`|
 |[Valorant ColorBot Base &#45; LGHUB Exploit &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737499-valorant-colorbot-base-lghub-exploit-2026-a.html)|`2026-02-08 06:16:00`|`Valorant`|
