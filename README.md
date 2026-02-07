@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721188-skin-changer.html)|`2026-02-08 03:55:00`|`Marvel Rivals`|
+|[Offset problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/737070-offset.html)|`2026-02-08 03:54:00`|`CounterStrike Source`|
+|[Difficulty using cheats in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737354-difficulty-using-cheats-arc-raiders.html)|`2026-02-08 03:52:00`|`ARC Raiders`|
 |[SPOOF MAC PERMANENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737476-spoof-mac-permanent.html)|`2026-02-08 03:49:00`|`Anti-Cheat Bypass`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-08 03:45:00`|`Other FPS Games`|
 |[Offset problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737475-offset.html)|`2026-02-08 03:44:00`|`Counter-Strike 2`|
