@@ -28,9 +28,13 @@
 |5|[QuasarDMA 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53005)|`2026-02-09 00:01:50`|
 |5|[hunchclient&#45;v2&#95;updatedoffsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53028)|`2026-02-09 00:38:50`|
 |1|[Kernelcloak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53022)|`2026-02-09 00:38:50`|
+|0|[NtLdr&#95;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53048)|`2026-02-09 06:32:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alya&#45;Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734925-alya-endfield.html)|`2026-02-09 06:29:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-02-09 06:23:00`|`Apex Legends`|
+|[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2026-02-09 06:07:00`|`Call of Duty 5: World at War`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-09 05:56:00`|`HELLDIVERS 2`|
 |[Fivem movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737358-fivem-movement.html)|`2026-02-09 05:54:00`|`Alternative Online Mods`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-09 05:49:00`|`Marvel Rivals`|
