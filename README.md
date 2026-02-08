@@ -17,6 +17,7 @@
 |10|[External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736486-external-visible-check.html)|`2026-02-08 15:41:54`|`alternative-online-mods`|
 |8|[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-02-08 15:41:54`|`anti-cheat-bypass`|
 |13|[Heartopia Stove&#45;Limit Breaker &#124; Intelligent AFK Patrol System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737296-heartopia-stove-limit-breaker-intelligent-afk-patrol-system.html)|`2026-02-08 16:00:16`|`other-games`|
+|20|[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-08 22:47:36`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-08 22:23:00`|`Other FPS Games`|
 |[Korean suppliers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/737601-korean-suppliers.html)|`2026-02-08 22:13:00`|`Playerunknown's Battlegrounds`|
 |[Fivem movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737358-fivem-movement.html)|`2026-02-08 21:58:00`|`Alternative Online Mods`|
 |[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-02-08 21:53:00`|`Valorant`|
