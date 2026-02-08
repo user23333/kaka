@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Force quit someone's game? &#91;RDO&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/737375-force-quit-someones-game-rdo.html)|`2026-02-09 03:47:00`|`Red Dead Redemption 2`|
+|[Can't find EntityList&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/737117-cant-entitylist.html)|`2026-02-09 03:43:00`|`Deadlock`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-02-09 03:31:00`|`Other FPS Games`|
 |[Muzzle/Tracer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737478-muzzle-tracer.html)|`2026-02-09 03:27:00`|`Rust`|
 |[name revealers stopped working in new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737683-name-revealers-stopped-update.html)|`2026-02-09 03:24:00`|`Valorant`|
