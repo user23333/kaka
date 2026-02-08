@@ -29,9 +29,16 @@
 |5|[hunchclient&#45;v2&#95;updatedoffsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53028)|`2026-02-09 00:38:50`|
 |1|[Kernelcloak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53022)|`2026-02-09 00:38:50`|
 |0|[NtLdr&#95;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53048)|`2026-02-09 06:32:41`|
+|0|[NtLdr&#95;x86](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53049)|`2026-02-09 07:25:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-09 07:23:00`|`Alternative Online Mods`|
+|[Simple Apex ESP Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737293-simple-apex-esp-wallhack.html)|`2026-02-09 07:21:00`|`Apex Legends`|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-09 07:10:00`|`General Programming and Reversing`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-09 07:07:00`|`Payday 3`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-09 07:03:00`|`Valorant`|
+|[Player Chams through ListComponent &#40; No Encryption &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/721330-player-chams-listcomponent-encryption.html)|`2026-02-09 06:58:00`|`Rust`|
 |[DayZ External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737286-dayz-external-source.html)|`2026-02-09 06:56:00`|`DayZ SA`|
 |[how to exchange a specific number of casino chips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/737702-exchange-specific-casino-chips.html)|`2026-02-09 06:46:00`|`Grand Theft Auto V`|
 |[Alya&#45;Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734925-alya-endfield.html)|`2026-02-09 06:29:00`|`Other MMORPG and Strategy`|
