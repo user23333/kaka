@@ -24,9 +24,19 @@
 |28|[DayZ External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53007)|`2026-02-09 00:01:50`|
 |211|[LilBaby&#95;Multi&#95;Cooker&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53006)|`2026-02-09 00:01:50`|
 |5|[QuasarDMA 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53005)|`2026-02-09 00:01:50`|
+|5|[hunchclient&#45;v2&#95;updatedoffsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53028)|`2026-02-09 00:38:50`|
+|1|[Kernelcloak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53022)|`2026-02-09 00:38:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2026-02-09 00:34:00`|`Age of Empires`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-09 00:32:00`|`Other FPS Games`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-02-09 00:31:00`|`Valorant`|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-02-09 00:30:00`|`ARC Raiders`|
+|[Cheat Engine Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729989-cheat-engine-obfuscator.html)|`2026-02-09 00:27:00`|`Battlefield 6`|
+|[type2 hypervisor bsod when vmlaunch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737614-type2-hypervisor-bsod-vmlaunch.html)|`2026-02-09 00:26:00`|`Anti-Cheat Bypass`|
+|[Looking for guidance in Rust cheat development &#40;C&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737595-looking-guidance-rust-cheat-development.html)|`2026-02-09 00:22:00`|`Rust`|
+|[Valorant ColorBot Base &#45; LGHUB Exploit &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737499-valorant-colorbot-base-lghub-exploit-2026-a.html)|`2026-02-09 00:22:00`|`Valorant`|
 |[Marvel rival AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737447-marvel-rival-ac.html)|`2026-02-09 00:00:00`|`Marvel Rivals`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-08 23:57:00`|`Rust`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-02-08 23:56:00`|`Other Games`|
