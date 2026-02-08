@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/726957-external-base.html)|`2026-02-09 04:42:00`|`Playerunknown's Battlegrounds`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-02-09 04:29:00`|`Call of Duty: Black Ops 3`|
+|[Failed to inject YimMenuV2 on GTA v enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/737689-failed-inject-yimmenuv2-gta-enhanced.html)|`2026-02-09 04:25:00`|`Grand Theft Auto V`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-02-09 04:17:00`|`Garry's Mod`|
 |[Error while doing kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733341-error-doing-kernel-driver.html)|`2026-02-09 04:08:00`|`Call of Duty: Black Ops 7`|
 |[NtQuerySystemInformation bsod on 24h2&#43; when checking security attributes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737413-ntquerysysteminformation-bsod-24h2-checking-security-attributes.html)|`2026-02-09 04:07:00`|`Anti-Cheat Bypass`|
