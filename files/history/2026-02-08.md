@@ -43,6 +43,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting Network Protocol for Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737430-decrypting-network-protocol-web-radar.html)|`2026-02-08 16:57:00`|`Counter-Strike 2`|
+|[Val 5 with Emulators](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735370-val-5-emulators.html)|`2026-02-08 16:56:00`|`Valorant`|
+|[Simple Alt:v esp/aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/732416-simple-alt-esp-aimbot.html)|`2026-02-08 16:53:00`|`Alternative Online Mods`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-08 16:51:00`|`Sea of Thieves`|
+|[eac blocks mmcopyvirtualmemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737222-eac-blocks-mmcopyvirtualmemory.html)|`2026-02-08 16:50:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-08 16:45:00`|`Other MMORPG and Strategy`|
 |[Bo7 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737061-bo7-ban.html)|`2026-02-08 16:35:00`|`Call of Duty: Black Ops 7`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-02-08 16:10:00`|`Apex Legends`|
 |[Cheat Engine Obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729989-cheat-engine-obfuscator.html)|`2026-02-08 16:01:00`|`Battlefield 6`|
