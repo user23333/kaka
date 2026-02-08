@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Foxhole DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736069-foxhole-dma.html)|`2026-02-08 14:00:00`|`Other MMORPG and Strategy`|
+|[Rust external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735957-rust-external-p2c-ready.html)|`2026-02-08 13:56:00`|`Rust`|
+|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-08 13:54:00`|`Anti-Cheat Bypass`|
+|[custom iw4x build &#43; ban bypass info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/736177-custom-iw4x-build-ban-bypass-info.html)|`2026-02-08 13:47:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Rust source pack 2025&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736332-rust-source-pack-2025-a.html)|`2026-02-08 13:43:00`|`Rust`|
 |[Where Winds Meet cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736699-winds-meet-cheat.html)|`2026-02-08 13:10:00`|`Other MMORPG and Strategy`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-08 13:09:00`|`Other FPS Games`|
 |[New Signature or Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737546-signature-bypass.html)|`2026-02-08 13:04:00`|`Valorant`|
