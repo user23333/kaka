@@ -16,6 +16,7 @@
 |12|[Reezi's Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736867-reezis-internal-source.html)|`2026-02-08 11:27:54`|`valorant`|
 |10|[External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736486-external-visible-check.html)|`2026-02-08 15:41:54`|`alternative-online-mods`|
 |8|[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-02-08 15:41:54`|`anti-cheat-bypass`|
+|13|[Heartopia Stove&#45;Limit Breaker &#124; Intelligent AFK Patrol System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737296-heartopia-stove-limit-breaker-intelligent-afk-patrol-system.html)|`2026-02-08 16:00:16`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Read memory method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735056-read-memory-method.html)|`2026-02-08 15:50:00`|`Anti-Cheat Bypass`|
+|[MONITOR EDID SPOOF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737214-monitor-edid-spoof.html)|`2026-02-08 15:45:00`|`Anti-Cheat Bypass`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-02-08 15:15:00`|`Other MMORPG and Strategy`|
 |[Internal Tibia Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737337-internal-tibia-bot.html)|`2026-02-08 14:59:00`|`Other MMORPG and Strategy`|
 |[kill&#46;ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736431-kill-ac.html)|`2026-02-08 14:57:00`|`Rust`|
