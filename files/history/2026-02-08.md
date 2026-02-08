@@ -12,6 +12,8 @@
 |9|[VANGUARD Shadow Region](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736296-vanguard-shadow-region.html)|`2026-02-08 00:21:50`|`anti-cheat-bypass`|
 |4|[KingAndy1506 V 0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736552-kingandy1506-0-2-a.html)|`2026-02-08 00:21:50`|`counter-strike-2-a`|
 |15|[Working ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737177-esp-source.html)|`2026-02-08 01:14:13`|`valorant`|
+|13|[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-08 11:27:54`|`anti-cheat-bypass`|
+|12|[Reezi's Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736867-reezis-internal-source.html)|`2026-02-08 11:27:54`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-08 11:01:00`|`Anti-Cheat Bypass`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-02-08 10:59:00`|`Genshin Impact`|
+|[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-02-08 10:45:00`|`Rust`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-08 08:02:00`|`Counter-Strike 2`|
 |[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-02-08 07:57:00`|`Team Fortress 2`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-08 07:50:00`|`Garry's Mod`|
