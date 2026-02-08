@@ -12,6 +12,7 @@
 |8|[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-02-09 00:01:50`|`anti-cheat-bypass`|
 |20|[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-09 00:01:50`|`anti-cheat-bypass`|
 |3|[old razer colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736857-razer-colorbot.html)|`2026-02-09 03:57:21`|`valorant`|
+|23|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-02-09 05:31:16`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-09 05:30:00`|`Counter-Strike 2`|
+|[External Dropped Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737384-external-dropped-weapon.html)|`2026-02-09 05:20:00`|`Counter-Strike 2`|
+|[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-02-09 05:19:00`|`Rust`|
+|[AMD SVM hang when certain intercepts are set](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/731474-amd-svm-hang-intercepts-set.html)|`2026-02-09 05:15:00`|`General Programming and Reversing`|
+|[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-02-09 05:10:00`|`Team Fortress 2`|
+|[Arc raiders external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/735489-arc-raiders-external-p2c-ready.html)|`2026-02-09 05:06:00`|`ARC Raiders`|
 |[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2026-02-09 04:59:00`|`Overwatch`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-02-09 04:58:00`|`Call of Duty: Black Ops 7`|
 |[How safe is Arduino triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737433-safe-arduino-triggerbot.html)|`2026-02-09 04:48:00`|`Valorant`|
