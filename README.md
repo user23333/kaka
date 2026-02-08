@@ -28,9 +28,23 @@
 |30|[Helldivers 2 &#45; Stratagem Hotkey Manager v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52983)|`2026-02-08 00:21:50`|
 |131|[valorant 12&#46;02 sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52982)|`2026-02-08 00:21:50`|
 |7|[Dead By Daylight Tool &#45; External &#45; V1&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52995)|`2026-02-08 13:12:49`|
+|1|[EasyBot Repo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53013)|`2026-02-08 15:03:23`|
+|1|[2&#45;6&#45;26 rico dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53012)|`2026-02-08 15:03:23`|
+|2|[valorant 12&#46;02 sdk fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53010)|`2026-02-08 15:03:23`|
+|1|[DayZ External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53007)|`2026-02-08 15:03:23`|
+|1|[QuasarDMA 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53005)|`2026-02-08 15:03:23`|
+|1|[Fortnite SDK&#40; one single header sdk &#43; enums &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53002)|`2026-02-08 15:03:23`|
+|1|[02052026SDKDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=52999)|`2026-02-08 15:03:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Tibia Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737337-internal-tibia-bot.html)|`2026-02-08 14:59:00`|`Other MMORPG and Strategy`|
+|[kill&#46;ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/736431-kill-ac.html)|`2026-02-08 14:57:00`|`Rust`|
+|[New ricochet dump&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728944-ricochet-dump.html)|`2026-02-08 14:54:00`|`Call of Duty: Black Ops 7`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-08 14:53:00`|`Other MMORPG and Strategy`|
+|[DayZ External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737286-dayz-external-source.html)|`2026-02-08 14:47:00`|`DayZ SA`|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2026-02-08 14:45:00`|`Rust`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-02-08 14:41:00`|`Other MMORPG and Strategy`|
 |[Foxhole DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736069-foxhole-dma.html)|`2026-02-08 14:00:00`|`Other MMORPG and Strategy`|
 |[Rust external p2c ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735957-rust-external-p2c-ready.html)|`2026-02-08 13:56:00`|`Rust`|
 |[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736216-eac-injector.html)|`2026-02-08 13:54:00`|`Anti-Cheat Bypass`|
