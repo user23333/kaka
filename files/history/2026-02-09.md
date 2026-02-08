@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-02-09 04:17:00`|`Garry's Mod`|
+|[Error while doing kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733341-error-doing-kernel-driver.html)|`2026-02-09 04:08:00`|`Call of Duty: Black Ops 7`|
+|[NtQuerySystemInformation bsod on 24h2&#43; when checking security attributes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737413-ntquerysysteminformation-bsod-24h2-checking-security-attributes.html)|`2026-02-09 04:07:00`|`Anti-Cheat Bypass`|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-02-09 04:07:00`|`Counter-Strike 2 Releases`|
+|[Is it possible to port cheat from csgo to cs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737333-port-cheat-csgo-cs.html)|`2026-02-09 04:06:00`|`Counter-Strike 2`|
+|[Schlaktfeld help Battlefield 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/737688-schlaktfeld-help-battlefield-1-a.html)|`2026-02-09 04:06:00`|`Battlefield 1`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-09 03:55:00`|`Garry's Mod`|
 |[Force quit someone's game? &#91;RDO&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/737375-force-quit-someones-game-rdo.html)|`2026-02-09 03:47:00`|`Red Dead Redemption 2`|
 |[Can't find EntityList&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/737117-cant-entitylist.html)|`2026-02-09 03:43:00`|`Deadlock`|
