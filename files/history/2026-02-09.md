@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Update External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/614771-auto-update-external.html)|`2026-02-09 04:59:00`|`Overwatch`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-02-09 04:58:00`|`Call of Duty: Black Ops 7`|
+|[How safe is Arduino triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737433-safe-arduino-triggerbot.html)|`2026-02-09 04:48:00`|`Valorant`|
+|[Delta Force 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/613405-delta-force-2-cheat.html)|`2026-02-09 04:47:00`|`Other FPS Games`|
 |[External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/726957-external-base.html)|`2026-02-09 04:42:00`|`Playerunknown's Battlegrounds`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-02-09 04:29:00`|`Call of Duty: Black Ops 3`|
 |[Failed to inject YimMenuV2 on GTA v enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/737689-failed-inject-yimmenuv2-gta-enhanced.html)|`2026-02-09 04:25:00`|`Grand Theft Auto V`|
