@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-02-10 01:58:00`|`Counter-Strike 2`|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2026-02-10 01:58:00`|`Alternative Online Mods`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-10 01:57:00`|`Counter-Strike 2`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-02-10 01:53:00`|`Counter-Strike 2`|
+|[Free CS2 external / skinchanger / customizable aim curve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736989-free-cs2-external-skinchanger-customizable-aim-curve.html)|`2026-02-10 01:52:00`|`Counter-Strike 2`|
+|[Python orbwalker / Easy to use &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/737275-python-orbwalker-easy.html)|`2026-02-10 01:42:00`|`League of Legends`|
+|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-02-10 01:39:00`|`Palworld`|
 |[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-02-10 01:25:00`|`PlanetSide 2`|
 |[type2 hypervisor bsod when vmlaunch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737614-type2-hypervisor-bsod-vmlaunch.html)|`2026-02-10 01:21:00`|`Anti-Cheat Bypass`|
 |[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-02-10 01:14:00`|`Overwatch`|
