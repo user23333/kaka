@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for new injection methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/737786-looking-injection-methods.html)|`2026-02-09 21:16:00`|`League of Legends`|
+|[All item IDs &#40;quest items included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/730280-item-ids-quest-items-included.html)|`2026-02-09 21:12:00`|`Escape from Tarkov`|
+|[cs2 bone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737784-cs2-bone.html)|`2026-02-09 21:06:00`|`Counter-Strike 2`|
+|[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-02-09 21:03:00`|`Other FPS Games`|
+|[External Among Us overlay &#40;undetectable&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/685399-external-overlay-undetectable.html)|`2026-02-09 21:02:00`|`Among Us`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2026-02-09 20:43:00`|`Among Us`|
 |[&#40;Brawlhalla&#41; EntityList & LocalPlayer pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732829-brawlhalla-entitylist-localplayer-pointer.html)|`2026-02-09 19:52:00`|`Other Games`|
 |[win32kfull GetProp returns null ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731288-win32kfull-getprop-returns-null.html)|`2026-02-09 19:51:00`|`Anti-Cheat Bypass`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-02-09 19:17:00`|`Other FPS Games`|
