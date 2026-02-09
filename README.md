@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-02-09 23:29:00`|`Other Games`|
+|[TraceFilter initialisation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737778-tracefilter-initialisation.html)|`2026-02-09 23:13:00`|`Counter-Strike 2`|
 |[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-02-09 22:29:00`|`Call of Duty: Black Ops 7`|
 |[CS2 External RM Only UM Cheat &#91;inkabanium&#46;xyz paste&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732212-cs2-external-rm-um-cheat-inkabanium-xyz-paste.html)|`2026-02-09 22:00:00`|`Counter-Strike 2`|
 |[Internal ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-09 21:55:00`|`Combat Master`|
