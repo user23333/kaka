@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-10 07:46:00`|`Other FPS Games`|
+|[Error while doing kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733341-error-doing-kernel-driver.html)|`2026-02-10 07:45:00`|`Call of Duty: Black Ops 7`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-02-10 07:38:00`|`Other FPS Games`|
+|[equip item in loadout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737847-equip-item-loadout.html)|`2026-02-10 07:36:00`|`Counter-Strike 2`|
+|[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-02-10 07:31:00`|`Other Games`|
+|[Drop service thread &#40;Money/Vehicles/Weapons etc&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/392996-drop-service-thread-money-vehicles-weapons-etc.html)|`2026-02-10 07:20:00`|`Alternative Online Mods`|
 |[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2026-02-10 07:19:00`|`Anti-Cheat Bypass`|
 |[Vehicle skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/734718-vehicle-skeleton.html)|`2026-02-10 07:03:00`|`Alternative Online Mods`|
 |[Game Pass Cloud Gaming Xbox BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737845-game-pass-cloud-gaming-xbox-bo7.html)|`2026-02-10 07:03:00`|`Call of Duty: Black Ops 7`|
