@@ -13,6 +13,7 @@
 |20|[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-09 00:01:50`|`anti-cheat-bypass`|
 |3|[old razer colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736857-razer-colorbot.html)|`2026-02-09 03:57:21`|`valorant`|
 |23|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-02-09 05:31:16`|`valorant`|
+|16|[Valorant ColorBot Base &#45; LGHUB Exploit &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737499-valorant-colorbot-base-lghub-exploit-2026-a.html)|`2026-02-09 10:53:18`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Manual Spoof issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737390-manual-spoof-issues.html)|`2026-02-09 10:48:00`|`Valorant`|
+|[PVE Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731701-pve-helper.html)|`2026-02-09 10:28:00`|`Escape from Tarkov`|
+|[2pc colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737725-2pc-colorbot.html)|`2026-02-09 10:15:00`|`Valorant`|
 |[Render on sound ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737394-render-sound-esp.html)|`2026-02-09 07:48:00`|`Valorant`|
 |[Heartopia Stove&#45;Limit Breaker &#124; Intelligent AFK Patrol System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737296-heartopia-stove-limit-breaker-intelligent-afk-patrol-system.html)|`2026-02-09 07:47:00`|`Other Games`|
 |[External Offsets 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732694-external-offsets-4-2-a.html)|`2026-02-09 07:45:00`|`PUBG Mobile`|
