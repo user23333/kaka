@@ -13,6 +13,8 @@
 |3|[old razer colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736857-razer-colorbot.html)|`2026-02-10 00:31:50`|`valorant`|
 |9|[Windows 11 25H2: Issues retrieving encrypted CR3 from kernel under EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737341-windows-11-25h2-issues-retrieving-encrypted-cr3-kernel-eac.html)|`2026-02-10 01:27:41`|`anti-cheat-bypass`|
 |5|[hunchclient v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737628-hunchclient-v4.html)|`2026-02-10 12:04:18`|`arc-raiders`|
+|8|[Difficulty using cheats in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737354-difficulty-using-cheats-arc-raiders.html)|`2026-02-10 22:44:46`|`arc-raiders`|
+|17|[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-02-10 22:44:46`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-02-10 22:34:00`|`Valorant`|
+|[EFT&#95;Internal&#123;Source&#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/737908-eft_internal-source.html)|`2026-02-10 22:33:00`|`Escape from Tarkov`|
 |[Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737904-skin-changer.html)|`2026-02-10 21:42:00`|`Marvel Rivals`|
 |[DELTA FORCE &#124; No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723681-delta-force-recoil.html)|`2026-02-10 21:34:00`|`Other FPS Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-10 21:17:00`|`DayZ SA`|
