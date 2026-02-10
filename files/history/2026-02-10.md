@@ -12,6 +12,7 @@
 |20|[eac blocks virtual mem reads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736826-eac-blocks-virtual-mem-reads.html)|`2026-02-10 00:31:50`|`anti-cheat-bypass`|
 |3|[old razer colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736857-razer-colorbot.html)|`2026-02-10 00:31:50`|`valorant`|
 |9|[Windows 11 25H2: Issues retrieving encrypted CR3 from kernel under EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737341-windows-11-25h2-issues-retrieving-encrypted-cr3-kernel-eac.html)|`2026-02-10 01:27:41`|`anti-cheat-bypass`|
+|5|[hunchclient v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737628-hunchclient-v4.html)|`2026-02-10 12:04:18`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-10 11:51:00`|`Other Games`|
+|[Safe limit gta 5 legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/736120-safe-limit-gta-5-legacy.html)|`2026-02-10 11:50:00`|`Grand Theft Auto V`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-02-10 11:48:00`|`Counter-Strike 2 Releases`|
+|[&#91;FXAP/Stream Files&#93; Dumper, Fixer & Decryptor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/723012-fxap-stream-files-dumper-fixer-decryptor.html)|`2026-02-10 11:44:00`|`Alternative Online Mods`|
+|[Can FSL Players play together?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/737869-fsl-players-play.html)|`2026-02-10 11:36:00`|`Grand Theft Auto V`|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-02-10 11:33:00`|`Age of Empires`|
+|[Deadlock DMA &#40;with source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/723221-deadlock-dma-source.html)|`2026-02-10 11:32:00`|`Deadlock`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-10 09:06:00`|`Apex Legends`|
 |[1d ban fix gl 32 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/737863-1d-ban-fix-gl-32-bit.html)|`2026-02-10 09:03:00`|`PUBG Mobile`|
 |[introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/737815-introduction.html)|`2026-02-10 08:41:00`|`Introductions`|
