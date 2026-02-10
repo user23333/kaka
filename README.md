@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hostage Rescue Zone Bounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737097-hostage-rescue-zone-bounds.html)|`2026-02-10 23:36:00`|`Counter-Strike 2`|
 |[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-02-10 22:34:00`|`Valorant`|
 |[EFT&#95;Internal&#123;Source&#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/737908-eft_internal-source.html)|`2026-02-10 22:33:00`|`Escape from Tarkov`|
 |[Skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737904-skin-changer.html)|`2026-02-10 21:42:00`|`Marvel Rivals`|
