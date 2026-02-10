@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does running external ESP &#40;legit play only&#41; affect Trust Factor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737890-running-external-esp-legit-play-affect-trust-factor.html)|`2026-02-10 19:17:00`|`Counter-Strike 2`|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-10 19:03:00`|`General Programming and Reversing`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-02-10 18:51:00`|`Escape from Tarkov`|
+|[Flickering Esp Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736028-flickering-esp-fix.html)|`2026-02-10 18:38:00`|`ARC Raiders`|
 |[arc raiders esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737707-arc-raiders-esp.html)|`2026-02-10 18:26:00`|`ARC Raiders`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-02-10 18:08:00`|`Grand Theft Auto V`|
 |[Using Engine W2s And Hooking  to draw two errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/737852-using-engine-w2s-hooking-draw-errors.html)|`2026-02-10 17:57:00`|`Call of Duty: Black Ops 2`|
