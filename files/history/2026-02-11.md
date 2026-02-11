@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[not banned on my tpm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738025-banned-tpm.html)|`2026-02-11 17:47:00`|`Valorant`|
+|[Heartopia Stove&#45;Limit Breaker &#124; Intelligent AFK Patrol System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737296-heartopia-stove-limit-breaker-intelligent-afk-patrol-system.html)|`2026-02-11 17:44:00`|`Other Games`|
+|[Rockstar dev grey t&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738024-rockstar-dev-grey-shirt.html)|`2026-02-11 17:42:00`|`Grand Theft Auto V`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-02-11 17:30:00`|`Other MMORPG and Strategy`|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-11 17:29:00`|`General Programming and Reversing`|
 |[Going 1&#45;PC with Arduino &#43; Host Shield: What am I missing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738016-1-pc-arduino-host-shield-am-missing.html)|`2026-02-11 16:46:00`|`Valorant`|
 |[EAC Updated/ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738013-eac-updated-ban.html)|`2026-02-11 16:30:00`|`Rust`|
 |[Flickering Esp Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736028-flickering-esp-fix.html)|`2026-02-11 15:59:00`|`ARC Raiders`|
