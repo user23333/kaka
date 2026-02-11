@@ -13,6 +13,7 @@
 |17|[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-02-11 00:44:40`|`marvel-rivals`|
 |3|[dupe in seconds no lag needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737822-dupe-lag.html)|`2026-02-11 06:25:15`|`arc-raiders`|
 |8|[arc raiders esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737707-arc-raiders-esp.html)|`2026-02-11 14:35:55`|`arc-raiders`|
+|2|[Duplicate glitch after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737905-duplicate-glitch-patch.html)|`2026-02-11 22:39:26`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how long apex legends is hwid ban last](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738041-apex-legends-hwid-ban.html)|`2026-02-11 22:36:00`|`Apex Legends`|
+|[Finding current map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737343-finding-current-map.html)|`2026-02-11 22:29:00`|`Counter-Strike 2`|
+|[Skyblock Client in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/738037-skyblock-client-2026-a.html)|`2026-02-11 22:10:00`|`Minecraft`|
 |[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-02-11 21:41:00`|`Other FPS Games`|
 |[What does vanguard detect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737994-vanguard-detect.html)|`2026-02-11 21:38:00`|`Valorant`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-11 21:37:00`|`Other FPS Games`|
