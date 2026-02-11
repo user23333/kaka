@@ -24,9 +24,15 @@
 |60|[&#43;&#43;Fortnite&#43;Release&#45;39&#46;40&#45;CL&#45;50577083&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53024)|`2026-02-12 00:38:38`|
 |36|[Kernelcloak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53022)|`2026-02-12 00:38:38`|
 |19|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53018)|`2026-02-12 00:38:38`|
+|0|[NtLdr&#95;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53088)|`2026-02-12 05:52:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does githacks exists?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738046-githacks-exists.html)|`2026-02-12 05:50:00`|`Anti-Cheat Bypass`|
+|[Regarding the character resurrection issue？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738035-regarding-character-resurrection-issue.html)|`2026-02-12 05:46:00`|`Counter-Strike 2`|
+|[Updated in use currently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738120-updated-currently.html)|`2026-02-12 05:46:00`|`Anti-Cheat Bypass`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-02-12 05:31:00`|`Valorant`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-02-12 05:27:00`|`Counter-Strike 2 Releases`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-12 05:20:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-12 05:20:00`|`Call of Duty: Black Ops 7`|
 |[Kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738118-kernel-driver.html)|`2026-02-12 05:17:00`|`Counter-Strike 2`|
