@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-12 07:37:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-12 07:37:00`|`Payday 3`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-02-12 07:30:00`|`Escape from Tarkov`|
 |[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-12 06:54:00`|`General Programming and Reversing`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-02-12 06:46:00`|`Apex Legends`|
 |[new interrupt method eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738104-interrupt-method-eac.html)|`2026-02-12 06:42:00`|`Anti-Cheat Bypass`|
