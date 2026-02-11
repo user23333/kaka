@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duplicate glitch after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737905-duplicate-glitch-patch.html)|`2026-02-11 19:50:00`|`ARC Raiders`|
+|[Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738034-dead-daylight-external-windows.html)|`2026-02-11 19:39:00`|`Other FPS Games`|
 |[6&#46;2&#46;0 GI Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/733716-6-2-0-gi-bypass.html)|`2026-02-11 19:29:00`|`Genshin Impact`|
 |[BF2 Grenade Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/727291-bf2-grenade-prediction.html)|`2026-02-11 19:13:00`|`Battlefield 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-11 19:02:00`|`Other MMORPG and Strategy`|
