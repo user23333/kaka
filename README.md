@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The End Of Magic Bullets On Unturned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738121-magic-bullets-unturned.html)|`2026-02-12 06:04:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-12 06:03:00`|`DayZ SA`|
 |[Does githacks exists?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738046-githacks-exists.html)|`2026-02-12 05:50:00`|`Anti-Cheat Bypass`|
 |[Regarding the character resurrection issue？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738035-regarding-character-resurrection-issue.html)|`2026-02-12 05:46:00`|`Counter-Strike 2`|
 |[Updated in use currently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738120-updated-currently.html)|`2026-02-12 05:46:00`|`Anti-Cheat Bypass`|
