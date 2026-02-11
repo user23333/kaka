@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to rebuild CL&#95;Move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737833-trying-rebuild-cl_move.html)|`2026-02-11 11:41:00`|`Team Fortress 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-11 11:39:00`|`Call of Duty: Black Ops 7`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-02-11 11:36:00`|`Valorant`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-11 11:29:00`|`Overwatch`|
+|[Trove Playerdata&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736594-trove-playerdata.html)|`2026-02-11 11:16:00`|`Other MMORPG and Strategy`|
 |[DMI EDIT TO BYPASS HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737965-dmi-edit-bypass-hwid-ban.html)|`2026-02-11 08:53:00`|`Rust`|
 |[How safe is Arduino triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737433-safe-arduino-triggerbot.html)|`2026-02-11 08:42:00`|`Valorant`|
 |[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-11 08:36:00`|`Marvel Rivals`|
