@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Going 1&#45;PC with Arduino &#43; Host Shield: What am I missing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738016-1-pc-arduino-host-shield-am-missing.html)|`2026-02-11 16:46:00`|`Valorant`|
+|[EAC Updated/ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738013-eac-updated-ban.html)|`2026-02-11 16:30:00`|`Rust`|
 |[Flickering Esp Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736028-flickering-esp-fix.html)|`2026-02-11 15:59:00`|`ARC Raiders`|
 |[EAC Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737864-eac-updated.html)|`2026-02-11 15:38:00`|`Rust`|
 |[Val Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738010-val-colorbot.html)|`2026-02-11 15:35:00`|`Valorant`|
