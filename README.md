@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Implementing Process&#45;Specific EPT Hooks using DdiMon &#40;CR3 Filtering & Stealth&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738042-implementing-process-specific-ept-hooks-using-ddimon-cr3-filtering-stealth.html)|`2026-02-11 23:35:00`|`Anti-Cheat Bypass`|
+|[Does running external ESP &#40;legit play only&#41; affect Trust Factor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737890-running-external-esp-legit-play-affect-trust-factor.html)|`2026-02-11 22:59:00`|`Counter-Strike 2`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-02-11 22:59:00`|`Other Single Player Games`|
+|[Please help me to solve the problem of not being able to get localplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738026-please-help-solve-able-localplayer.html)|`2026-02-11 22:58:00`|`Apex Legends`|
+|[How to avoid HWID bans in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737184-avoid-hwid-bans-apex-legends.html)|`2026-02-11 22:51:00`|`Apex Legends`|
 |[how long apex legends is hwid ban last](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738041-apex-legends-hwid-ban.html)|`2026-02-11 22:36:00`|`Apex Legends`|
 |[Finding current map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737343-finding-current-map.html)|`2026-02-11 22:29:00`|`Counter-Strike 2`|
 |[Skyblock Client in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/738037-skyblock-client-2026-a.html)|`2026-02-11 22:10:00`|`Minecraft`|
