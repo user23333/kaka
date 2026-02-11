@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I win?&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738015-win.html)|`2026-02-12 02:26:00`|`Introductions`|
+|[Any reversing gods wanna help a total newbie out?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737765-reversing-gods-wanna-help-total-newbie.html)|`2026-02-12 02:22:00`|`Anti-Cheat Bypass`|
+|[GTA 5 Online Yimmenu Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738091-gta-5-online-yimmenu.html)|`2026-02-12 02:20:00`|`Grand Theft Auto V`|
+|[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-12 02:07:00`|`Genshin Impact`|
+|[EA ANTICHEAT &#40;JAVELIN&#41; Telemetry/Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738059-ea-anticheat-javelin-telemetry-detections.html)|`2026-02-12 02:03:00`|`Anti-Cheat Bypass`|
+|[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-02-12 01:57:00`|`Marvel Rivals`|
 |[Silent / Aim external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737194-silent-aim-external.html)|`2026-02-12 01:30:00`|`ARC Raiders`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-12 01:28:00`|`Counter-Strike 2`|
 |[GetBoneFromHitbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738061-getbonefromhitbox.html)|`2026-02-12 01:28:00`|`Apex Legends`|
