@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Val Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738010-val-colorbot.html)|`2026-02-11 15:35:00`|`Valorant`|
+|[norec &#43; aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738011-norec-aim.html)|`2026-02-11 15:29:00`|`Rust`|
+|[Clang vs&#46; MSVC &#45; Does it make a difference for detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736457-clang-vs-msvc-difference-detection.html)|`2026-02-11 15:25:00`|`Anti-Cheat Bypass`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-11 15:02:00`|`Red Dead Redemption 2`|
 |[internal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738008-internal-chams.html)|`2026-02-11 14:09:00`|`DayZ SA`|
 |[HxPosed&#46; Hypervisor level NT kernel standardizer for user&#45;mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/737813-hxposed-hypervisor-level-nt-kernel-standardizer-user-mode.html)|`2026-02-11 13:54:00`|`General Programming and Reversing`|
 |[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-11 13:34:00`|`Other MMORPG and Strategy`|
