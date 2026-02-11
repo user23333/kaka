@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to spot aimbotter in replay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735634-spot-aimbotter-replay.html)|`2026-02-12 07:59:00`|`Valorant`|
+|[How do I safely make a bought account my main?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738129-safely-bought-account-main.html)|`2026-02-12 07:58:00`|`Counter-Strike 2`|
+|[Best possible hardware for cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737501-hardware-cheating.html)|`2026-02-12 07:50:00`|`Valorant`|
+|[How to Implement Auto&#45;Accept in CS2 &#40;IDA research&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738115-implement-auto-accept-cs2-ida-research.html)|`2026-02-12 07:50:00`|`Counter-Strike 2`|
+|[Val Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738010-val-colorbot.html)|`2026-02-12 07:48:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-12 07:37:00`|`Other FPS Games`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-12 07:37:00`|`Payday 3`|
 |[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-02-12 07:30:00`|`Escape from Tarkov`|
