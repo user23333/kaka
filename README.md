@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2026-02-13 06:25:00`|`Call of Duty: Black Ops 6`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-13 06:23:00`|`HELLDIVERS 2`|
+|[intro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738250-intro.html)|`2026-02-13 06:17:00`|`Introductions`|
 |[Script Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/735009-script-logic.html)|`2026-02-13 06:15:00`|`Rust`|
 |[HVCI/VBS &#124; Full Impost Mode &#124; Driver Mapped without Cert &#124; HELP to Read Mesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737800-hvci-vbs-impost-mode-driver-mapped-cert-help-read-mesh.html)|`2026-02-13 05:59:00`|`Anti-Cheat Bypass`|
 |[Difficulty using cheats in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737354-difficulty-using-cheats-arc-raiders.html)|`2026-02-13 05:59:00`|`ARC Raiders`|
