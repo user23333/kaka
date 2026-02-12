@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Could any experienced developer share a code snippet for iterating through the weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738138-experienced-developer-share-code-snippet-iterating-weapon.html)|`2026-02-12 10:04:00`|`Apex Legends`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-12 09:38:00`|`Escape from Tarkov`|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2026-02-12 09:37:00`|`Off Topic`|
+|[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738140-dma.html)|`2026-02-12 09:34:00`|`Call of Duty: Black Ops 7`|
+|[You can now advertise cheats in the /r/arcraiders subreddit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738139-advertise-cheats-arcraiders-subreddit.html)|`2026-02-12 09:33:00`|`ARC Raiders`|
 |[How to spot aimbotter in replay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735634-spot-aimbotter-replay.html)|`2026-02-12 07:59:00`|`Valorant`|
 |[How do I safely make a bought account my main?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738129-safely-bought-account-main.html)|`2026-02-12 07:58:00`|`Counter-Strike 2`|
 |[Best possible hardware for cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737501-hardware-cheating.html)|`2026-02-12 07:50:00`|`Valorant`|
