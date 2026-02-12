@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safe zone circles location](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/738231-safe-zone-circles-location.html)|`2026-02-13 01:02:00`|`PUBG Mobile`|
+|[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-02-13 01:01:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-13 00:58:00`|`Rust`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-02-13 00:58:00`|`Other FPS Games`|
+|[YimV2 Weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/737924-yimv2-weapons.html)|`2026-02-13 00:57:00`|`Grand Theft Auto V`|
+|[A question about C4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738214-question-c4.html)|`2026-02-13 00:56:00`|`Counter-Strike 2`|
+|[&#91;Release&#93; SARAB — Kernel Manual Map Injector &#124; GTA V Legacy &#124; YimMenu Public Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738163-release-sarab-kernel-manual-map-injector-gta-legacy-yimmenu-public-session.html)|`2026-02-13 00:55:00`|`Grand Theft Auto V`|
+|[Rockstar dev grey t&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738024-rockstar-dev-grey-shirt.html)|`2026-02-13 00:50:00`|`Grand Theft Auto V`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-13 00:50:00`|`Other Games`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-12 23:59:00`|`Other MMORPG and Strategy`|
 |[EFT&#95;Internal&#123;Source&#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/737908-eft_internal-source.html)|`2026-02-12 23:53:00`|`Escape from Tarkov`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-12 23:52:00`|`Other FPS Games`|
