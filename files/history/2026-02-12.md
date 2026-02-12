@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hunchclient v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737628-hunchclient-v4.html)|`2026-02-12 17:52:00`|`ARC Raiders`|
+|[Implementing Process&#45;Specific EPT Hooks using DdiMon &#40;CR3 Filtering & Stealth&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738042-implementing-process-specific-ept-hooks-using-ddimon-cr3-filtering-stealth.html)|`2026-02-12 17:39:00`|`Anti-Cheat Bypass`|
+|[new Apex Predictive Nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/736902-apex-predictive-nospread.html)|`2026-02-12 17:37:00`|`Apex Legends`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2026-02-12 17:25:00`|`Rainbow Six Siege`|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-02-12 17:22:00`|`Grand Theft Auto V`|
 |[Can't Logitech script be used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/733664-cant-logitech-script.html)|`2026-02-12 16:57:00`|`THE FINALS`|
 |[skinchanger on 2pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735142-skinchanger-2pc.html)|`2026-02-12 16:50:00`|`Valorant`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-12 14:35:00`|`Valorant`|
