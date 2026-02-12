@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free CS2 external / skinchanger / customizable aim curve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736989-free-cs2-external-skinchanger-customizable-aim-curve.html)|`2026-02-12 19:55:00`|`Counter-Strike 2`|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-02-12 19:50:00`|`Other Games`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-02-12 19:46:00`|`Other FPS Games`|
+|[Problems with the knife in Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738191-knife-skin-changer.html)|`2026-02-12 19:41:00`|`Counter-Strike 2`|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-02-12 19:37:00`|`PlanetSide 2`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-12 19:26:00`|`Other MMORPG and Strategy`|
+|[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-02-12 19:25:00`|`Other FPS Games`|
 |[bullet speed doesn't work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738027-bullet-speed-doesnt.html)|`2026-02-12 19:20:00`|`Apex Legends`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-12 18:08:00`|`Other MMORPG and Strategy`|
 |[hunchclient v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737628-hunchclient-v4.html)|`2026-02-12 17:52:00`|`ARC Raiders`|
