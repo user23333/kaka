@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-13 02:57:00`|`Anti-Cheat Bypass`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-02-13 02:49:00`|`Other FPS Games`|
+|[Vape client Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711187-vape-client-free.html)|`2026-02-13 02:48:00`|`Minecraft`|
+|[Regarding the character resurrection issue？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738035-regarding-character-resurrection-issue.html)|`2026-02-13 02:39:00`|`Counter-Strike 2`|
+|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-02-13 02:34:00`|`Palworld`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-13 01:57:00`|`Other MMORPG and Strategy`|
 |[PUBG Mobile &#40;x86&#95;64&#41; &#45; Valid GWorld/Level, but failing to read Enemy Locations &#40;Actor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/732805-pubg-mobile-x86_64-valid-gworld-level-failing-read-enemy-locations-actor.html)|`2026-02-13 01:45:00`|`PUBG Mobile`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-02-13 01:43:00`|`Playerunknown's Battlegrounds`|
