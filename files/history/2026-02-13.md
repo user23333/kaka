@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding the offset in Apex Legends 3&#46;03 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738264-finding-offset-apex-legends-3-03-update.html)|`2026-02-13 05:16:00`|`Apex Legends`|
+|[Any CS 1&#46;6 hacks &#40;Steam, Linux&#41; working?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/737186-cs-1-6-hacks-steam-linux.html)|`2026-02-13 05:11:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-13 05:09:00`|`Call of Duty: Black Ops 2`|
+|[First permanent ban I've gotten using cheats, RICOCHET is going crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728851-permanent-ban-ive-gotten-using-cheats-ricochet-crazy.html)|`2026-02-13 05:06:00`|`Call of Duty: Black Ops 7`|
 |[cr3 help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738254-cr3-help.html)|`2026-02-13 04:46:00`|`Valorant`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-13 04:44:00`|`Apex Legends`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-13 04:40:00`|`Other FPS Games`|
