@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-12 14:35:00`|`Valorant`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-12 14:31:00`|`Escape from Tarkov`|
+|[Resources/Books for learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/738158-resources-books-learning.html)|`2026-02-12 13:52:00`|`C and C++`|
 |[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-02-12 13:42:00`|`Other FPS Games`|
 |[Is there any safe bedrock cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/731555-safe-bedrock-cheat.html)|`2026-02-12 13:22:00`|`Minecraft`|
 |[Vape client Free](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/711187-vape-client-free.html)|`2026-02-12 13:18:00`|`Minecraft`|
