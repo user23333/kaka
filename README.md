@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Javelin Journey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718655-javelin-journey.html)|`2026-02-13 04:12:00`|`Anti-Cheat Bypass`|
+|[cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/738211-cheat.html)|`2026-02-13 04:06:00`|`Garry's Mod`|
+|[Learn offset dumping for UE Anti&#45;Cheat protected games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/737973-learn-offset-dumping-ue-anti-cheat-protected-games.html)|`2026-02-13 04:02:00`|`General Programming and Reversing`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2026-02-13 03:59:00`|`Red Dead Redemption 2`|
+|[Attempting to make a simple ESP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/738248-attempting-simple-esp.html)|`2026-02-13 03:53:00`|`Rainbow Six Siege`|
 |[NVIDIA Token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738237-nvidia-token.html)|`2026-02-13 03:48:00`|`Alternative Online Mods`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-02-13 03:48:00`|`Other MMORPG and Strategy`|
 |[spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737954-spectator-list.html)|`2026-02-13 03:48:00`|`Counter-Strike 2`|
