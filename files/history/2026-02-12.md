@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE AI AIM C&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other/712751-free-ai-aim.html)|`2026-02-12 23:02:00`|`Other`|
+|[NEPatch &#45; Marvel Rivals Kernel AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737242-nepatch-marvel-rivals-kernel-ac-bypass.html)|`2026-02-12 22:58:00`|`Marvel Rivals`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-12 22:56:00`|`ARC Raiders`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-02-12 22:46:00`|`Sea of Thieves`|
+|[Rockstar dev grey t&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738024-rockstar-dev-grey-shirt.html)|`2026-02-12 22:40:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-12 22:08:00`|`Alternative Online Mods`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-12 21:57:00`|`Other FPS Games`|
 |[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2026-02-12 20:48:00`|`Other MMORPG and Strategy`|
