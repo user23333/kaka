@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-02-13 20:09:00`|`Apex Legends`|
+|[Could any experienced developer share a code snippet for iterating through the weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738138-experienced-developer-share-code-snippet-iterating-weapon.html)|`2026-02-13 19:59:00`|`Apex Legends`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-02-13 19:26:00`|`Valorant`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738344-colorbot.html)|`2026-02-13 19:20:00`|`Valorant`|
 |[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-13 19:10:00`|`Apex Legends`|
