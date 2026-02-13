@@ -38,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-13 18:58:00`|`Other FPS Games`|
+|[Sapphire BIOS Flash Driver &#45; Physical Memory R/W POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738353-sapphire-bios-flash-driver-physical-memory-poc.html)|`2026-02-13 18:57:00`|`Anti-Cheat Bypass`|
+|[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-02-13 18:51:00`|`Marvel Rivals`|
+|[SPOOF MAC PERMANENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737476-spoof-mac-permanent.html)|`2026-02-13 18:43:00`|`Anti-Cheat Bypass`|
+|[Shika 6&#46;3&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/738340-shika-6-3-0-1-a.html)|`2026-02-13 18:42:00`|`Genshin Impact`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-13 18:35:00`|`Roblox`|
 |[win32k&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737681-win32k-hook.html)|`2026-02-13 18:09:00`|`Anti-Cheat Bypass`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-02-13 18:02:00`|`Counter-Strike 2 Releases`|
 |[IdaSaveMode &#91;No kick on fortnite with Ida&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737468-idasavemode-kick-fortnite-ida.html)|`2026-02-13 18:00:00`|`Anti-Cheat Bypass`|
