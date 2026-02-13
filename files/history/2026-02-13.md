@@ -33,6 +33,7 @@
 |1|[Deep Rock Galactic Internal 1&#46;22](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53099)|`2026-02-13 15:35:03`|
 |2|[SastashaFied T4 MP MultiHack v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53098)|`2026-02-13 15:35:03`|
 |1|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53095)|`2026-02-13 15:35:03`|
+|1|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53092)|`2026-02-13 16:05:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
