@@ -14,6 +14,7 @@
 |13|[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-13 12:33:15`|`apex-legends`|
 |10|[Difficulty using cheats in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737354-difficulty-using-cheats-arc-raiders.html)|`2026-02-13 14:39:30`|`arc-raiders`|
 |14|[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-13 14:39:30`|`valorant`|
+|9|[win32k&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737681-win32k-hook.html)|`2026-02-13 19:29:55`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,12 @@
 |1|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53095)|`2026-02-13 15:35:03`|
 |1|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53092)|`2026-02-13 16:05:32`|
 |3|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53089)|`2026-02-13 16:56:27`|
+|5|[Sapphire&#45;Vulnrable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53106)|`2026-02-13 19:29:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738344-colorbot.html)|`2026-02-13 19:20:00`|`Valorant`|
+|[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-13 19:10:00`|`Apex Legends`|
 |[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-13 18:58:00`|`Other FPS Games`|
 |[Sapphire BIOS Flash Driver &#45; Physical Memory R/W POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738353-sapphire-bios-flash-driver-physical-memory-poc.html)|`2026-02-13 18:57:00`|`Anti-Cheat Bypass`|
 |[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-02-13 18:51:00`|`Marvel Rivals`|
