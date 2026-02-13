@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there a way to bypass VGC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738384-bypass-vgc.html)|`2026-02-14 01:12:00`|`Valorant`|
+|[Introduction&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736772-introduction.html)|`2026-02-14 01:08:00`|`Forum General`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-14 01:06:00`|`Sea of Thieves`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-14 01:06:00`|`Other Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-14 01:06:00`|`Other FPS Games`|
+|[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-14 01:05:00`|`Counter-Strike 2 Releases`|
+|[SPOOF MAC PERMANENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737476-spoof-mac-permanent.html)|`2026-02-14 01:03:00`|`Anti-Cheat Bypass`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-02-14 00:59:00`|`THE FINALS`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-02-14 00:59:00`|`ARC Raiders`|
 |[&#91;UE4&#93; &#45; Physx Writeup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/738382-ue4-physx-writeup.html)|`2026-02-14 00:27:00`|`General Programming and Reversing`|
 |[asphyxia base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738105-asphyxia-base.html)|`2026-02-14 00:25:00`|`Counter-Strike 2`|
 |[Valorant ColorBot Base &#45; LGHUB Exploit &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737499-valorant-colorbot-base-lghub-exploit-2026-a.html)|`2026-02-14 00:22:00`|`Valorant`|
