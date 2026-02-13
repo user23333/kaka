@@ -40,6 +40,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-02-13 19:26:00`|`Valorant`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738344-colorbot.html)|`2026-02-13 19:20:00`|`Valorant`|
 |[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-13 19:10:00`|`Apex Legends`|
 |[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-13 18:58:00`|`Other FPS Games`|
