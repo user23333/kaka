@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[asphyxia base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738105-asphyxia-base.html)|`2026-02-13 23:53:00`|`Counter-Strike 2`|
+|[re&#45;release of PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/732468-re-release-palworld-netcrack.html)|`2026-02-13 23:30:00`|`Palworld`|
+|[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738140-dma.html)|`2026-02-13 23:24:00`|`Call of Duty: Black Ops 7`|
+|[How can i get started with coding/learn programming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/638740-started-coding-learn-programming.html)|`2026-02-13 23:21:00`|`Programming for Beginners`|
 |[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-02-13 22:53:00`|`Marvel Rivals`|
 |[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738150-inventory-changer.html)|`2026-02-13 22:40:00`|`Counter-Strike 2`|
 |[oxWARE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/580057-oxware.html)|`2026-02-13 22:33:00`|`CounterStrike 1.5, 1.6 and Mods`|
