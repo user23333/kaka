@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant ColorBot Base &#45; LGHUB Exploit &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737499-valorant-colorbot-base-lghub-exploit-2026-a.html)|`2026-02-13 22:20:00`|`Valorant`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-02-13 22:12:00`|`Escape from Tarkov`|
+|[&#91;Release&#93; CS2 Internal Cheat — ESP, Aimbot, Radar, FOV Changer &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738367-release-cs2-internal-cheat-esp-aimbot-radar-fov-changer-source-code.html)|`2026-02-13 21:56:00`|`Counter-Strike 2`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-02-13 21:35:00`|`Grand Theft Auto V`|
 |[Getting kicked instantly when a heist starts while using YimMenu &#43; FSL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738218-getting-kicked-instantly-heist-starts-using-yimmenu-fsl.html)|`2026-02-13 21:31:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-13 21:26:00`|`Grand Theft Auto V`|
