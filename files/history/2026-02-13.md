@@ -34,9 +34,13 @@
 |2|[SastashaFied T4 MP MultiHack v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53098)|`2026-02-13 15:35:03`|
 |1|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53095)|`2026-02-13 15:35:03`|
 |1|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53092)|`2026-02-13 16:05:32`|
+|3|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53089)|`2026-02-13 16:56:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-13 16:54:00`|`Sea of Thieves`|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2026-02-13 16:38:00`|`Rainbow Six Siege`|
+|[Schlaktfeld help Battlefield 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/737688-schlaktfeld-help-battlefield-1-a.html)|`2026-02-13 16:36:00`|`Battlefield 1`|
 |[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-13 15:31:00`|`Counter-Strike 2 Releases`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-02-13 15:24:00`|`Call of Duty: Black Ops 7`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-02-13 15:20:00`|`Red Dead Redemption 2`|
