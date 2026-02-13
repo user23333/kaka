@@ -12,6 +12,8 @@
 |8|[arc raiders esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737707-arc-raiders-esp.html)|`2026-02-13 00:01:20`|`arc-raiders`|
 |3|[EA ANTICHEAT &#40;JAVELIN&#41; Telemetry/Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738059-ea-anticheat-javelin-telemetry-detections.html)|`2026-02-13 00:01:20`|`anti-cheat-bypass`|
 |13|[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-13 12:33:15`|`apex-legends`|
+|10|[Difficulty using cheats in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737354-difficulty-using-cheats-arc-raiders.html)|`2026-02-13 14:39:30`|`arc-raiders`|
+|14|[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-13 14:39:30`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +27,18 @@
 |55|[TarkovAddons&#95;1&#46;1&#95;source&#95;modified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53039)|`2026-02-13 00:01:20`|
 |16|[skill issue linux 08&#45;02&#45;26 and source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53036)|`2026-02-13 00:01:20`|
 |77|[hunchclient&#45;v2&#95;updatedoffsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53028)|`2026-02-13 00:01:20`|
+|1|[TRCheatv1&#46;6&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53104)|`2026-02-13 14:39:30`|
+|1|[DF2&#95;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53102)|`2026-02-13 14:39:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2026-02-13 14:33:00`|`Other Games`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-13 14:30:00`|`Escape from Tarkov`|
+|[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-02-13 14:30:00`|`Team Fortress 2`|
+|[Controller Support Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736733-controller-support-externally.html)|`2026-02-13 14:29:00`|`Call of Duty: Black Ops 7`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-02-13 14:21:00`|`Rainbow Six Siege`|
+|[looking for a buddy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/734205-looking-buddy.html)|`2026-02-13 14:16:00`|`Off Topic`|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-13 14:13:00`|`Other MMORPG and Strategy`|
 |[Internal Bhop question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738323-internal-bhop-question.html)|`2026-02-13 13:32:00`|`Counter-Strike 2`|
 |[Maple story v83 Keyboard Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/738322-maple-story-v83-keyboard-hook.html)|`2026-02-13 13:25:00`|`Maple Story`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-13 12:58:00`|`Overwatch`|
