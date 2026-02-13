@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding current map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737343-finding-current-map.html)|`2026-02-14 06:00:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-14 05:56:00`|`Apex Legends`|
+|[Alya&#45;Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734925-alya-endfield.html)|`2026-02-14 05:55:00`|`Other MMORPG and Strategy`|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-14 05:47:00`|`Anti-Cheat Bypass`|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-02-14 05:44:00`|`Marvel Rivals`|
 |[Rockstar dev grey t&#45;shirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738024-rockstar-dev-grey-shirt.html)|`2026-02-14 05:33:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-14 05:32:00`|`Counter-Strike 2`|
 |[Squad DMA ESP&#46; AI makes cheating too easy&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738418-squad-dma-esp-ai-makes-cheating-easy.html)|`2026-02-14 05:27:00`|`Other MMORPG and Strategy`|
