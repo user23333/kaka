@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-15 03:13:00`|`Alternative Online Mods`|
+|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-02-15 03:13:00`|`Anti-Cheat Bypass`|
+|[Pluto T6zm aimlock question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/738535-pluto-t6zm-aimlock-question.html)|`2026-02-15 03:07:00`|`Call of Duty: Black Ops 2`|
 |[overlay optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738526-overlay-optimization.html)|`2026-02-15 02:58:00`|`Rust`|
 |[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-15 02:57:00`|`Valorant`|
 |[How to make a superglide macro &#91;EASIEST METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/722516-superglide-macro-easiest-method.html)|`2026-02-15 02:48:00`|`Apex Legends`|
