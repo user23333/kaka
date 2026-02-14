@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-02-15 06:39:00`|`Overwatch`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-02-15 06:22:00`|`Escape from Tarkov`|
+|[How to get started in making C&#43;&#43; Externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/736976-started-externals.html)|`2026-02-15 06:17:00`|`Programming for Beginners`|
+|[How can i get started with coding/learn programming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/638740-started-coding-learn-programming.html)|`2026-02-15 06:14:00`|`Programming for Beginners`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2026-02-15 06:09:00`|`Garry's Mod`|
 |[How to spot aimbotter in replay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735634-spot-aimbotter-replay.html)|`2026-02-15 06:04:00`|`Valorant`|
 |[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-02-15 05:57:00`|`ARC Raiders`|
