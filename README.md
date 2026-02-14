@@ -25,9 +25,13 @@
 |21|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53095)|`2026-02-15 00:00:58`|
 |153|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53092)|`2026-02-15 00:00:58`|
 |107|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53089)|`2026-02-15 00:00:58`|
+|1|[SDK&#45;14&#45;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53119)|`2026-02-15 07:41:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2026-02-15 07:37:00`|`Combat Master`|
+|[thickbullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738588-thickbullet.html)|`2026-02-15 07:33:00`|`Rust`|
+|[Rocket league boost timer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738587-rocket-league-boost-timer.html)|`2026-02-15 07:27:00`|`Other Games`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-15 07:16:00`|`Other FPS Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-15 07:15:00`|`Other FPS Games`|
 |[glow hack problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738580-glow-hack.html)|`2026-02-15 07:06:00`|`Counter-Strike 2`|
