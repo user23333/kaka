@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is subtracting imagebase enough to get mmpfndatabase rva](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738529-subtracting-imagebase-mmpfndatabase-rva.html)|`2026-02-15 02:25:00`|`Anti-Cheat Bypass`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-15 02:11:00`|`Grand Theft Auto V`|
+|[Shika 6&#46;3&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/738340-shika-6-3-0-1-a.html)|`2026-02-15 02:06:00`|`Genshin Impact`|
+|[injector for testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735428-injector-testing.html)|`2026-02-15 02:05:00`|`Call of Duty: Black Ops 7`|
 |[RayCast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738525-raycast.html)|`2026-02-15 01:56:00`|`DayZ SA`|
 |[How Heartopia Mod/Cheat is Maded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737340-heartopia-mod-cheat-maded.html)|`2026-02-15 01:54:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-15 01:44:00`|`Escape from Tarkov`|
