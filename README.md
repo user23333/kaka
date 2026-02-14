@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-02-14 11:27:00`|`Other FPS Games`|
+|[Simple ESP for COD:IW &#40;IW7 / IW7&#45;mod&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/735047-simple-esp-cod-iw-iw7-iw7-mod.html)|`2026-02-14 11:17:00`|`Call of Duty 4: Modern Warfare`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-14 11:06:00`|`Other FPS Games`|
+|[China P2C Remote Physical Memory Read &#91;Remote leechCore&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737298-china-p2c-remote-physical-memory-read-remote-leechcore.html)|`2026-02-14 10:33:00`|`Anti-Cheat Bypass`|
 |[Bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/738441-bones.html)|`2026-02-14 09:24:00`|`Rainbow Six Siege`|
 |[xbox game bar hide ss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737593-xbox-game-bar-hide-ss.html)|`2026-02-14 09:14:00`|`Anti-Cheat Bypass`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-14 09:00:00`|`Apex Legends`|
