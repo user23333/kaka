@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-15 01:18:00`|`Escape from Tarkov`|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2026-02-15 01:15:00`|`Among Us`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-15 01:06:00`|`Grand Theft Auto V`|
+|[BDO &#45; NAK and &#95;Auto replays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738431-bdo-nak-_auto-replays.html)|`2026-02-15 01:01:00`|`Other MMORPG and Strategy`|
 |[Why do cheats use Imgui?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/738397-cheats-imgui.html)|`2026-02-15 00:53:00`|`Team Fortress 2`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-02-15 00:41:00`|`Marvel Rivals`|
 |[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-15 00:40:00`|`Other MMORPG and Strategy`|
