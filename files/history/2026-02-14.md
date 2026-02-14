@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[injector for testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735428-injector-testing.html)|`2026-02-14 23:30:00`|`Call of Duty: Black Ops 7`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738510-introduction.html)|`2026-02-14 23:25:00`|`Introductions`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-02-14 23:23:00`|`Counter-Strike 2 Releases`|
+|[Null Bind / Snap Tap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738162-null-bind-snap-tap.html)|`2026-02-14 23:18:00`|`Overwatch`|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-14 23:12:00`|`General Programming and Reversing`|
+|[Valorant Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738507-valorant-skinchanger.html)|`2026-02-14 23:09:00`|`Introductions`|
 |[Can't find EntityList&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/737117-cant-entitylist.html)|`2026-02-14 22:57:00`|`Deadlock`|
 |[Black Ops 4 &#45; get Centity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/738506-black-ops-4-centity.html)|`2026-02-14 22:38:00`|`Call of Duty: Black Ops 4`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-14 22:23:00`|`Other MMORPG and Strategy`|
