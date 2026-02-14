@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can VAN 152 bypassed with no delayed ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738470-van-152-bypassed-delayed-ban.html)|`2026-02-14 13:59:00`|`Valorant`|
+|[fixing wrong sequences for glock burst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/738469-fixing-wrong-sequences-glock-burst.html)|`2026-02-14 13:56:00`|`Counterstrike Global Offensive`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-02-14 13:55:00`|`Other FPS Games`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-14 13:30:00`|`Red Dead Redemption 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-02-14 13:22:00`|`ARMA 3`|
 |[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-02-14 13:07:00`|`ARC Raiders`|
