@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-14 18:21:00`|`Grand Theft Auto V`|
+|[Regarding Editing Items in Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729912-regarding-editing-items-inventory.html)|`2026-02-14 18:20:00`|`Escape from Tarkov`|
+|[ValidateInput hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738487-validateinput-hook.html)|`2026-02-14 18:16:00`|`Counter-Strike 2`|
+|[&#91;DRAF&#93; DISTRIBUTED REVERSE AGENTIC FRAMWORK Proposal 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/738486-draf-distributed-reverse-agentic-framwork-proposal-1-0-a.html)|`2026-02-14 18:14:00`|`Forum General`|
+|[external visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738485-external-visible-check.html)|`2026-02-14 18:05:00`|`Counter-Strike 2`|
+|[Glow not work on player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738484-glow-player.html)|`2026-02-14 18:01:00`|`Apex Legends`|
 |[What does vanguard detect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737994-vanguard-detect.html)|`2026-02-14 17:52:00`|`Valorant`|
 |[wonderking online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733434-wonderking-online.html)|`2026-02-14 17:46:00`|`Other MMORPG and Strategy`|
 |[Help With refdef&#95;t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/685315-help-refdef_t.html)|`2026-02-14 17:17:00`|`Call of Duty: Black Ops 2`|
