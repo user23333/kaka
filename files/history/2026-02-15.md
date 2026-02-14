@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spring & Easter Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/736705-spring-easter-banner-contest-2026-a.html)|`2026-02-15 04:42:00`|`General Graphics`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-02-15 04:32:00`|`HELLDIVERS 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-15 04:25:00`|`Overwatch`|
 |[What does vanguard detect?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737994-vanguard-detect.html)|`2026-02-15 04:20:00`|`Valorant`|
 |[EAC Banned 1 day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738545-eac-banned-1-day.html)|`2026-02-15 04:18:00`|`Anti-Cheat Bypass`|
 |[Does anyone need a mod that removes player names and health bars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738497-mod-removes-player-names-health-bars.html)|`2026-02-15 04:16:00`|`Marvel Rivals`|
