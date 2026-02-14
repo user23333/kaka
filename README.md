@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-02-14 14:51:00`|`HELLDIVERS 2`|
+|[Valorant skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738373-valorant-skinchanger.html)|`2026-02-14 14:33:00`|`Valorant`|
 |[Can VAN 152 bypassed with no delayed ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738470-van-152-bypassed-delayed-ban.html)|`2026-02-14 13:59:00`|`Valorant`|
 |[fixing wrong sequences for glock burst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/738469-fixing-wrong-sequences-glock-burst.html)|`2026-02-14 13:56:00`|`Counterstrike Global Offensive`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-02-14 13:55:00`|`Other FPS Games`|
