@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ring&#45;1&#46;io hypervisor spoofer dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738516-ring-1-io-hypervisor-spoofer-dump.html)|`2026-02-14 23:35:00`|`Valorant`|
+|[cs2 GameTraceManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738370-cs2-gametracemanager.html)|`2026-02-14 23:28:00`|`Counter-Strike 2`|
 |[injector for testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735428-injector-testing.html)|`2026-02-14 23:30:00`|`Call of Duty: Black Ops 7`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738510-introduction.html)|`2026-02-14 23:25:00`|`Introductions`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-02-14 23:23:00`|`Counter-Strike 2 Releases`|
