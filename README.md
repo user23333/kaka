@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex offset dumper &#91;windows&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/705886-apex-offset-dumper-windows.html)|`2026-02-14 19:51:00`|`Apex Legends`|
 |[Project Reality The logic of anti&#45;cheating scanning and detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/732538-project-reality-logic-anti-cheating-scanning-detection.html)|`2026-02-14 19:45:00`|`Battlefield 2`|
 |[Sapphire BIOS Flash Driver &#45; Physical Memory R/W POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738353-sapphire-bios-flash-driver-physical-memory-poc.html)|`2026-02-14 19:44:00`|`Anti-Cheat Bypass`|
 |[Simple triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/738493-simple-triggerbot.html)|`2026-02-14 19:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
