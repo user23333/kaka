@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XignCode3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738385-xigncode3.html)|`2026-02-14 16:25:00`|`Anti-Cheat Bypass`|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-14 16:08:00`|`Marvel Rivals`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-02-14 15:53:00`|`Apex Legends`|
 |[EA ANTICHEAT &#40;JAVELIN&#41; Telemetry/Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738059-ea-anticheat-javelin-telemetry-detections.html)|`2026-02-14 15:48:00`|`Anti-Cheat Bypass`|
 |[cs2 internal aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738136-cs2-internal-aimbot.html)|`2026-02-14 15:31:00`|`Counter-Strike 2`|
