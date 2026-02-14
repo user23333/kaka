@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Albion Online&#93; C&#43;&#43;/C&#35; port of The Gatherer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736713-albion-online-port-gatherer.html)|`2026-02-14 18:49:00`|`Other MMORPG and Strategy`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-14 18:37:00`|`Other MMORPG and Strategy`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-02-14 18:21:00`|`Grand Theft Auto V`|
 |[Regarding Editing Items in Inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729912-regarding-editing-items-inventory.html)|`2026-02-14 18:20:00`|`Escape from Tarkov`|
 |[ValidateInput hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738487-validateinput-hook.html)|`2026-02-14 18:16:00`|`Counter-Strike 2`|
