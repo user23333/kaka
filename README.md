@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Your experience with ItsGamerDoc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734305-experience-itsgamerdoc.html)|`2026-02-15 06:54:00`|`Valorant`|
+|[First permanent ban I've gotten using cheats, RICOCHET is going crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728851-permanent-ban-ive-gotten-using-cheats-ricochet-crazy.html)|`2026-02-15 06:49:00`|`Call of Duty: Black Ops 7`|
+|[Analysing EasyAntiCheat's Cryptographic Protocol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738562-analysing-easyanticheats-cryptographic-protocol.html)|`2026-02-15 06:43:00`|`Anti-Cheat Bypass`|
+|[Overlay detection on CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738542-overlay-detection-cs2.html)|`2026-02-15 06:41:00`|`Anti-Cheat Bypass`|
 |[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-02-15 06:39:00`|`Overwatch`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-02-15 06:22:00`|`Escape from Tarkov`|
 |[How to get started in making C&#43;&#43; Externals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/736976-started-externals.html)|`2026-02-15 06:17:00`|`Programming for Beginners`|
