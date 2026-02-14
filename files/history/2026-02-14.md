@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/738493-simple-triggerbot.html)|`2026-02-14 19:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Unturned Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738483-unturned-offsets.html)|`2026-02-14 19:09:00`|`Other FPS Games`|
 |[Basic Python Unturned Spray Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738479-basic-python-unturned-spray-macro.html)|`2026-02-14 19:08:00`|`Other FPS Games`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/738475-hi.html)|`2026-02-14 19:07:00`|`Introductions`|
