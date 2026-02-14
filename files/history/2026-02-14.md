@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-14 13:30:00`|`Red Dead Redemption 2`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-02-14 13:22:00`|`ARMA 3`|
+|[PioneerGame &#45; DMA EXE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734581-pioneergame-dma-exe-dumper.html)|`2026-02-14 13:07:00`|`ARC Raiders`|
+|[First permanent ban I've gotten using cheats, RICOCHET is going crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728851-permanent-ban-ive-gotten-using-cheats-ricochet-crazy.html)|`2026-02-14 13:01:00`|`Call of Duty: Black Ops 7`|
+|[battleyent PVE Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726288-battleyent-pve-patch.html)|`2026-02-14 12:59:00`|`Escape from Tarkov`|
+|[Dayz Lag Switch with AutoHotkey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/373091-dayz-lag-switch-autohotkey.html)|`2026-02-14 12:50:00`|`DayZ SA`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-02-14 12:41:00`|`Other FPS Games`|
 |[Help with offsets/decrypts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738149-help-offsets-decrypts.html)|`2026-02-14 12:31:00`|`Rust`|
 |[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-14 12:23:00`|`Marvel Rivals`|
 |[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-14 12:07:00`|`Call of Duty: Black Ops 2`|
