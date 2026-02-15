@@ -12,6 +12,7 @@
 |15|[HVCI/VBS &#124; Full Impost Mode &#124; Driver Mapped without Cert &#124; HELP to Read Mesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737800-hvci-vbs-impost-mode-driver-mapped-cert-help-read-mesh.html)|`2026-02-16 00:32:10`|`valorant`|
 |9|[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-16 00:32:10`|`counter-strike-2-releases`|
 |7|[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-16 01:45:34`|`genshin-impact`|
+|11|[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738150-inventory-changer.html)|`2026-02-16 03:33:19`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-16 03:27:00`|`Escape from Tarkov`|
+|[XignCode3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738385-xigncode3.html)|`2026-02-16 03:26:00`|`Anti-Cheat Bypass`|
+|[Banned, how to start over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/738638-banned-start.html)|`2026-02-16 03:25:00`|`Escape from Tarkov`|
+|[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738140-dma.html)|`2026-02-16 03:21:00`|`Call of Duty: Black Ops 7`|
+|[External Dropped Weapon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737384-external-dropped-weapon.html)|`2026-02-16 03:20:00`|`Counter-Strike 2`|
+|[Object Pos Chain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738688-object-pos-chain.html)|`2026-02-16 03:18:00`|`Rust`|
+|[How do I safely make a bought account my main?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738129-safely-bought-account-main.html)|`2026-02-16 03:16:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-16 03:01:00`|`Call of Duty: Black Ops 7`|
 |[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-02-16 02:59:00`|`Counter-Strike 2 Releases`|
 |[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-02-16 02:53:00`|`Counter-Strike 2`|
