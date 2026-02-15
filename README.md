@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is it safe to use the "restore deleted cars from DLC" feature from yimmenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735723-safe-restore-deleted-cars-dlc-feature-yimmenuv2.html)|`2026-02-16 06:13:00`|`Grand Theft Auto V`|
+|[Internal ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-16 06:10:00`|`Combat Master`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-16 06:02:00`|`Apex Legends`|
+|[Advanced Simple ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737757-advanced-simple-esp-source.html)|`2026-02-16 05:58:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-02-16 05:41:00`|`Escape from Tarkov`|
 |[How do you get glitched guns?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/738719-glitched-guns.html)|`2026-02-16 05:31:00`|`Call of Duty: Modern Warfare III`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-16 05:27:00`|`Other Games`|
