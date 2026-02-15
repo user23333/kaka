@@ -11,6 +11,7 @@
 |16|[win32k&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737681-win32k-hook.html)|`2026-02-16 00:32:10`|`anti-cheat-bypass`|
 |15|[HVCI/VBS &#124; Full Impost Mode &#124; Driver Mapped without Cert &#124; HELP to Read Mesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737800-hvci-vbs-impost-mode-driver-mapped-cert-help-read-mesh.html)|`2026-02-16 00:32:10`|`valorant`|
 |9|[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-16 00:32:10`|`counter-strike-2-releases`|
+|7|[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-16 01:45:34`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-16 01:43:00`|`Grand Theft Auto V`|
+|[First permanent ban I've gotten using cheats, RICOCHET is going crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728851-permanent-ban-ive-gotten-using-cheats-ricochet-crazy.html)|`2026-02-16 01:35:00`|`Call of Duty: Black Ops 7`|
+|[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-16 01:35:00`|`Counter-Strike 2 Releases`|
+|[Rust Internal Rage Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/728703-rust-internal-rage-source-code.html)|`2026-02-16 01:34:00`|`Rust`|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-16 01:31:00`|`Marvel Rivals`|
 |[just got unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738615-unbanned.html)|`2026-02-16 01:21:00`|`Valorant`|
 |[calling games functions externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738678-calling-games-functions-externaly.html)|`2026-02-16 01:20:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-16 01:19:00`|`DayZ SA`|
