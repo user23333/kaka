@@ -12,6 +12,7 @@
 |16|[win32k&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737681-win32k-hook.html)|`2026-02-15 00:00:58`|`anti-cheat-bypass`|
 |7|[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-15 00:00:58`|`genshin-impact`|
 |13|[&#91;Release&#93; SARAB — Kernel Manual Map Injector &#124; GTA V Legacy &#124; YimMenu Public Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738163-release-sarab-kernel-manual-map-injector-gta-legacy-yimmenu-public-session.html)|`2026-02-15 00:58:10`|`grand-theft-auto-v`|
+|12|[HVCI/VBS &#124; Full Impost Mode &#124; Driver Mapped without Cert &#124; HELP to Read Mesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737800-hvci-vbs-impost-mode-driver-mapped-cert-help-read-mesh.html)|`2026-02-15 13:11:32`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,14 @@
 |153|[OwHelper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53092)|`2026-02-15 00:00:58`|
 |107|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53089)|`2026-02-15 00:00:58`|
 |1|[SDK&#45;14&#45;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53119)|`2026-02-15 07:41:14`|
+|3|[bo7 external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53112)|`2026-02-15 13:11:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-02-15 12:50:00`|`Forum General`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-02-15 12:40:00`|`Call of Duty: Black Ops 7`|
+|[dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738140-dma.html)|`2026-02-15 12:39:00`|`Call of Duty: Black Ops 7`|
+|[roblox injector &#45; no offsets & shellcode&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/737970-roblox-injector-offsets-shellcode.html)|`2026-02-15 12:34:00`|`Roblox`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-15 11:47:00`|`Apex Legends`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-02-15 11:05:00`|`Sea of Thieves`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-02-15 09:04:00`|`Other FPS Games`|
