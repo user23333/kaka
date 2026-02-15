@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-15 18:12:00`|`Other MMORPG and Strategy`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-15 18:09:00`|`Other FPS Games`|
+|[Bright nights that are only modified once&#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/685838-bright-nights-modified-dma.html)|`2026-02-15 18:03:00`|`Rust`|
+|[Trying to figure out how to get lua&#95;classes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/738637-trying-figure-lua_classes.html)|`2026-02-15 17:58:00`|`Garry's Mod`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-15 17:58:00`|`Apex Legends`|
 |[HxPosed&#46; Hypervisor level NT kernel standardizer for user&#45;mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/737813-hxposed-hypervisor-level-nt-kernel-standardizer-user-mode.html)|`2026-02-15 17:56:00`|`General Programming and Reversing`|
 |[just got unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738615-unbanned.html)|`2026-02-15 17:39:00`|`Valorant`|
 |[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-02-15 17:36:00`|`Grand Theft Auto V`|
