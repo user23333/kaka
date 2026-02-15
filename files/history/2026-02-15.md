@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About rog strixx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/738656-rog-strixx.html)|`2026-02-15 21:32:00`|`Other Hardware`|
+|[Getting the position of the bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/738655-getting-position-bones.html)|`2026-02-15 21:20:00`|`Warface`|
 |[A new member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/738601-team.html)|`2026-02-15 21:13:00`|`Information and Announcements`|
 |[&#91;Release&#93; CS2 Internal Cheat — ESP, Aimbot, Radar, FOV Changer &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738367-release-cs2-internal-cheat-esp-aimbot-radar-fov-changer-source-code.html)|`2026-02-15 21:11:00`|`Counter-Strike 2`|
 |[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-15 21:08:00`|`Marvel Rivals`|
