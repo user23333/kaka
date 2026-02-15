@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-02-16 04:57:00`|`General Programming and Reversing`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-16 04:56:00`|`Overwatch`|
+|[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-16 04:54:00`|`Overwatch`|
+|[Cant get the player hitboxes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738711-cant-player-hitboxes.html)|`2026-02-16 04:54:00`|`Counter-Strike 2`|
+|[bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738710-bhop.html)|`2026-02-16 04:54:00`|`Counter-Strike 2`|
+|[Can VAN 152 bypassed with no delayed ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738470-van-152-bypassed-delayed-ban.html)|`2026-02-16 04:53:00`|`Valorant`|
+|[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/733234-dma.html)|`2026-02-16 04:53:00`|`PC Hardware`|
+|[My static Addresses disappear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/736291-static-addresses-disappear.html)|`2026-02-16 04:52:00`|`Phasmophobia`|
+|[tips on makcu cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738669-tips-makcu-cheating.html)|`2026-02-16 04:51:00`|`Valorant`|
 |[All i need to spoof nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735215-spoof-nowadays.html)|`2026-02-16 04:44:00`|`Valorant`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-16 04:43:00`|`Valorant`|
 |[Overlays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738709-overlays.html)|`2026-02-16 04:42:00`|`Rust`|
