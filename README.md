@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing ARP Tables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738723-spoofing-arp-tables.html)|`2026-02-16 07:19:00`|`Valorant`|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-16 07:10:00`|`Anti-Cheat Bypass`|
 |[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-16 06:55:00`|`Valorant`|
 |[Making Scripting Software for Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738721-scripting-software-rust.html)|`2026-02-16 06:33:00`|`Rust`|
 |[is subtracting imagebase enough to get mmpfndatabase rva](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738529-subtracting-imagebase-mmpfndatabase-rva.html)|`2026-02-16 06:26:00`|`Anti-Cheat Bypass`|
