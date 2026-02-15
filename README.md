@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HxPosed&#46; Hypervisor level NT kernel standardizer for user&#45;mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/737813-hxposed-hypervisor-level-nt-kernel-standardizer-user-mode.html)|`2026-02-15 17:56:00`|`General Programming and Reversing`|
+|[just got unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738615-unbanned.html)|`2026-02-15 17:39:00`|`Valorant`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-02-15 17:36:00`|`Grand Theft Auto V`|
 |[Delete hidden devies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738636-delete-hidden-devies.html)|`2026-02-15 17:19:00`|`Anti-Cheat Bypass`|
 |[Internal ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-15 16:51:00`|`Combat Master`|
 |[The Quinfall Resource Gathering Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737937-quinfall-resource-gathering-cheat.html)|`2026-02-15 16:45:00`|`Other MMORPG and Strategy`|
