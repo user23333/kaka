@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tips on makcu cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738669-tips-makcu-cheating.html)|`2026-02-15 23:48:00`|`Valorant`|
+|[Unturned Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738483-unturned-offsets.html)|`2026-02-15 23:37:00`|`Other FPS Games`|
 |[&#91;UE4&#93; &#45; Physx Writeup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/738382-ue4-physx-writeup.html)|`2026-02-15 23:22:00`|`General Programming and Reversing`|
 |[Grabbing user avatars&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738664-grabbing-user-avatars.html)|`2026-02-15 22:49:00`|`Counter-Strike 2`|
 |[DELTA FORCE &#124; No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723681-delta-force-recoil.html)|`2026-02-15 22:31:00`|`Other FPS Games`|
