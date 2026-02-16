@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Heartopia Mod/Cheat is Maded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737340-heartopia-mod-cheat-maded.html)|`2026-02-16 12:23:00`|`Other Games`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-16 12:09:00`|`HELLDIVERS 2`|
+|[🔥 DEUS — POLYGON PROJECT CONTINUATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/737278-deus-polygon-project-continuation.html)|`2026-02-16 11:57:00`|`Other FPS Games`|
+|[arc raiders esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737707-arc-raiders-esp.html)|`2026-02-16 11:55:00`|`ARC Raiders`|
+|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-16 11:53:00`|`Marvel Rivals`|
+|[Simple PaliaTable 0&#46;198](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/733442-simple-paliatable-0-198-a.html)|`2026-02-16 11:49:00`|`Palia`|
 |[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-02-16 10:08:00`|`Other FPS Games`|
 |[Processor Tracing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738741-processor-tracing.html)|`2026-02-16 10:06:00`|`Anti-Cheat Bypass`|
 |[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-02-16 09:55:00`|`Overwatch`|
