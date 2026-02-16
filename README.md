@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-17 07:57:00`|`Alternative Online Mods`|
+|[EFT&#95;Internal&#123;Source&#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/737908-eft_internal-source.html)|`2026-02-17 07:45:00`|`Escape from Tarkov`|
 |[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737880-injector.html)|`2026-02-17 07:41:00`|`Counter-Strike 2`|
 |[Trace Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/738839-trace-issue.html)|`2026-02-17 07:38:00`|`Deadlock`|
 |[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-02-17 07:36:00`|`Other Games`|
