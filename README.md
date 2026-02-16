@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I tried, and I failed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738748-tried-failed.html)|`2026-02-17 01:48:00`|`ARC Raiders`|
+|[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-17 01:45:00`|`Valorant`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-02-17 01:43:00`|`Counter-Strike 2 Releases`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-17 01:38:00`|`Red Dead Redemption 2`|
+|[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-02-17 01:37:00`|`Alternative Online Mods`|
+|[Getting the position of the bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/738655-getting-position-bones.html)|`2026-02-17 01:29:00`|`Warface`|
+|[&#91;UE4&#93; &#45; Physx Writeup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/738382-ue4-physx-writeup.html)|`2026-02-17 01:28:00`|`General Programming and Reversing`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-17 01:22:00`|`Other Games`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-02-17 01:01:00`|`Palworld`|
 |[&#91;Release&#93; CS2 Internal Cheat — ESP, Aimbot, Radar, FOV Changer &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738367-release-cs2-internal-cheat-esp-aimbot-radar-fov-changer-source-code.html)|`2026-02-17 00:59:00`|`Counter-Strike 2`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-02-17 00:58:00`|`Overwatch`|
