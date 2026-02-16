@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grabbing user avatars&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738664-grabbing-user-avatars.html)|`2026-02-16 17:45:00`|`Counter-Strike 2`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-16 17:20:00`|`Escape from Tarkov`|
 |[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2026-02-16 17:03:00`|`Other FPS Games`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-16 16:52:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-16 16:51:00`|`Other FPS Games`|
