@@ -14,6 +14,7 @@
 |7|[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-16 01:45:34`|`genshin-impact`|
 |11|[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738150-inventory-changer.html)|`2026-02-16 03:33:19`|`counter-strike-2-a`|
 |20|[super ud rust external&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738318-super-ud-rust-external.html)|`2026-02-16 07:59:46`|`anti-cheat-bypass`|
+|21|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-16 10:12:52`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-02-16 10:08:00`|`Other FPS Games`|
+|[Processor Tracing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738741-processor-tracing.html)|`2026-02-16 10:06:00`|`Anti-Cheat Bypass`|
+|[&#40;Undetectable&#41; Overwatch 2 &#45; ColorBot Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/724800-undetectable-overwatch-2-colorbot-release.html)|`2026-02-16 09:55:00`|`Overwatch`|
+|[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-02-16 09:40:00`|`Rust`|
 |[Duplicate glitch after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737905-duplicate-glitch-patch.html)|`2026-02-16 07:58:00`|`ARC Raiders`|
 |[BDO &#45; NAK and &#95;Auto replays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738431-bdo-nak-_auto-replays.html)|`2026-02-16 07:52:00`|`Other MMORPG and Strategy`|
 |[what happened to aim punch angles cache offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738730-happened-aim-punch-angles-cache-offset.html)|`2026-02-16 07:30:00`|`Counter-Strike 2`|
