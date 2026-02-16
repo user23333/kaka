@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune Awakening Repair Exploit After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707561-dune-awakening-repair-exploit-patch.html)|`2026-02-16 17:03:00`|`Other FPS Games`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-16 16:52:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-16 16:51:00`|`Other FPS Games`|
+|[kuromi csgo movement cheat &#40;paste&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/738639-kuromi-csgo-movement-cheat-paste.html)|`2026-02-16 16:39:00`|`Half Life`|
+|[lobotomy v2 csgo movement cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/738758-lobotomy-v2-csgo-movement-cheat-source-code.html)|`2026-02-16 16:35:00`|`Counterstrike Global Offensive`|
 |[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-02-16 15:56:00`|`Age of Empires`|
 |[Finding the offset in Apex Legends 3&#46;03 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738264-finding-offset-apex-legends-3-03-update.html)|`2026-02-16 15:13:00`|`Apex Legends`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-16 13:46:00`|`Payday 3`|
