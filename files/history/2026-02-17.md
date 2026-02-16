@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-17 05:10:00`|`Counter-Strike 2`|
+|[is that some kind of new exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/738816-exploit.html)|`2026-02-17 05:03:00`|`Rainbow Six Siege`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-17 04:58:00`|`Grand Theft Auto V`|
+|[exe that reads game internet trafic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/733463-exe-reads-game-internet-trafic.html)|`2026-02-17 04:56:00`|`Sea of Thieves`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-02-17 04:56:00`|`Other Games`|
+|[Going 1&#45;PC with Arduino &#43; Host Shield: What am I missing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738016-1-pc-arduino-host-shield-am-missing.html)|`2026-02-17 04:56:00`|`Valorant`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-02-17 04:53:00`|`Other FPS Games`|
 |[super ud rust external&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738318-super-ud-rust-external.html)|`2026-02-17 04:49:00`|`Anti-Cheat Bypass`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-17 04:39:00`|`Other MMORPG and Strategy`|
 |[Trying Spoof MSI motherboard B760](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738814-trying-spoof-msi-motherboard-b760.html)|`2026-02-17 04:38:00`|`Valorant`|
