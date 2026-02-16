@@ -29,9 +29,20 @@
 |236|[Kaizer &#40;SigmaRivals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53105)|`2026-02-16 00:32:10`|
 |109|[TRCheatv1&#46;6&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53104)|`2026-02-16 00:32:10`|
 |40|[DF2&#95;Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53102)|`2026-02-16 00:32:10`|
+|1|[Dead Island Definitive Edition Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53151)|`2026-02-16 23:39:25`|
+|1|[lobotomy v2 csgo movement cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53149)|`2026-02-16 23:39:25`|
+|1|[commandlist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53141)|`2026-02-16 23:39:25`|
+|1|[witcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53140)|`2026-02-16 23:39:25`|
+|1|[ByteRivals Skins 1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53127)|`2026-02-16 23:39:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Squad DMA ESP&#46; AI makes cheating too easy&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738418-squad-dma-esp-ai-makes-cheating-easy.html)|`2026-02-16 23:37:00`|`Other MMORPG and Strategy`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-02-16 23:33:00`|`Other FPS Games`|
+|[Basic Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738781-basic-triggerbot.html)|`2026-02-16 23:30:00`|`Apex Legends`|
+|[Invisible Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738737-invisible-player.html)|`2026-02-16 23:28:00`|`Alternative Online Mods`|
+|[External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737704-external-skin-changer.html)|`2026-02-16 23:28:00`|`Marvel Rivals`|
+|[The Witcher: Enhanced Edition &#45; Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738734-witcher-enhanced-edition-trainer.html)|`2026-02-16 23:21:00`|`Other MMORPG and Strategy`|
 |[overlay optimization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738526-overlay-optimization.html)|`2026-02-16 22:45:00`|`Rust`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-02-16 22:38:00`|`Palworld`|
 |[fixing wrong sequences for glock burst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/738469-fixing-wrong-sequences-glock-burst.html)|`2026-02-16 22:36:00`|`Counterstrike Global Offensive`|
