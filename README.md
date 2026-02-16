@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-17 06:52:00`|`Call of Duty: Black Ops 2`|
+|[how to make a wallhack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/737927-wallhack.html)|`2026-02-17 06:50:00`|`Counter-Strike 2 Releases`|
+|[Friendly Executor &#124; 64BIT GMOD &#124; SAFE MOSTLY LOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/648602-friendly-executor-64bit-gmod-safe-lol.html)|`2026-02-17 06:43:00`|`Garry's Mod`|
+|[&#91;Release&#93; SARAB — Kernel Manual Map Injector &#124; GTA V Legacy &#124; YimMenu Public Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738163-release-sarab-kernel-manual-map-injector-gta-legacy-yimmenu-public-session.html)|`2026-02-17 06:41:00`|`Grand Theft Auto V`|
+|[How can i get started with coding/learn programming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/638740-started-coding-learn-programming.html)|`2026-02-17 06:34:00`|`Programming for Beginners`|
 |[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-17 06:20:00`|`Other MMORPG and Strategy`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-02-17 06:18:00`|`Grand Theft Auto V`|
 |[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-02-17 06:13:00`|`Call of Duty: Black Ops 2`|
