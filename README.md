@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734965-night-shift-cheat.html)|`2026-02-17 05:57:00`|`Other MMORPG and Strategy`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-17 05:57:00`|`Garry's Mod`|
+|[class ids similar to prefab ids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737370-class-ids-similar-prefab-ids.html)|`2026-02-17 05:53:00`|`Rust`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-17 05:51:00`|`Other Games`|
+|[AoE2 DE &#45; Fog of War Removal &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/736532-aoe2-de-fog-war-removal-esp.html)|`2026-02-17 05:51:00`|`Age of Empires`|
+|[tips on makcu cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738669-tips-makcu-cheating.html)|`2026-02-17 05:45:00`|`Valorant`|
 |[UpGun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737399-upgun-cheat.html)|`2026-02-17 05:34:00`|`Other Games`|
 |[lobotomy v1 csgo movement cheat source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/738819-lobotomy-v1-csgo-movement-cheat-source-code.html)|`2026-02-17 05:31:00`|`Counterstrike Global Offensive`|
 |[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-02-17 05:24:00`|`Marvel Rivals`|
