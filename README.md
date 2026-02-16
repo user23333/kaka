@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-02-17 07:14:00`|`Rust`|
+|[HxPosed&#46; Hypervisor level NT kernel standardizer for user&#45;mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/737813-hxposed-hypervisor-level-nt-kernel-standardizer-user-mode.html)|`2026-02-17 07:13:00`|`General Programming and Reversing`|
 |[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-17 06:52:00`|`Call of Duty: Black Ops 2`|
 |[how to make a wallhack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/737927-wallhack.html)|`2026-02-17 06:50:00`|`Counter-Strike 2 Releases`|
 |[Friendly Executor &#124; 64BIT GMOD &#124; SAFE MOSTLY LOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/648602-friendly-executor-64bit-gmod-safe-lol.html)|`2026-02-17 06:43:00`|`Garry's Mod`|
