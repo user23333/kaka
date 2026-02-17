@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-17 16:04:00`|`Overwatch`|
+|[APEX DMA Kmbox move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738618-apex-dma-kmbox-move.html)|`2026-02-17 15:40:00`|`Apex Legends`|
+|[Advice for beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/738887-advice-beginner.html)|`2026-02-17 15:36:00`|`HELLDIVERS 2`|
 |[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-17 15:32:00`|`Counter-Strike 2`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-02-17 15:32:00`|`Overwatch`|
 |[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-02-17 15:18:00`|`Marvel Rivals`|
