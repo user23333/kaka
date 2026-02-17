@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Master Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/580878-combat-master-reversal-structs-offsets.html)|`2026-02-17 21:43:00`|`Combat Master`|
+|[Native obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738928-native-obfuscation.html)|`2026-02-17 21:38:00`|`Alternative Online Mods`|
+|[EXTERNAL ESP&#43;TRIGGERBOT SOURCECODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/727202-external-esp-triggerbot-sourcecode.html)|`2026-02-17 21:36:00`|`Apex Legends`|
+|[Fastest screen capture method &#45; less than 1ms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/705058-fastest-screen-capture-method-1ms.html)|`2026-02-17 21:31:00`|`Valorant`|
 |[black ops 7 internal source &#40;base&#41; &#45; with latest steam offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738846-black-ops-7-internal-source-base-steam-offsets.html)|`2026-02-17 20:39:00`|`Call of Duty: Black Ops 7`|
 |[bug in my code JNI dll 1&#46;21&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/738911-bug-code-jni-dll-1-21-1-a.html)|`2026-02-17 20:26:00`|`Minecraft`|
 |[I keep getting game banned &#124; pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738903-getting-game-banned-pls-help.html)|`2026-02-17 19:50:00`|`Rust`|
