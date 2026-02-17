@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I keep getting game banned &#124; pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738903-getting-game-banned-pls-help.html)|`2026-02-17 19:50:00`|`Rust`|
+|[weapon ammo type](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737900-weapon-ammo-type.html)|`2026-02-17 19:42:00`|`Rust`|
 |[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-02-17 19:19:00`|`Rust`|
 |[Limited Matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738901-limited-matchmaking.html)|`2026-02-17 18:56:00`|`Call of Duty: Black Ops 7`|
 |[Sea of Thieves Telemetry Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/738803-sea-thieves-telemetry-reader.html)|`2026-02-17 18:55:00`|`Sea of Thieves`|
