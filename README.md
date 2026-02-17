@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[black ops 7 internal source &#40;base&#41; &#45; with latest steam offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738846-black-ops-7-internal-source-base-steam-offsets.html)|`2026-02-17 20:39:00`|`Call of Duty: Black Ops 7`|
+|[bug in my code JNI dll 1&#46;21&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/738911-bug-code-jni-dll-1-21-1-a.html)|`2026-02-17 20:26:00`|`Minecraft`|
 |[I keep getting game banned &#124; pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738903-getting-game-banned-pls-help.html)|`2026-02-17 19:50:00`|`Rust`|
 |[weapon ammo type](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737900-weapon-ammo-type.html)|`2026-02-17 19:42:00`|`Rust`|
 |[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-02-17 19:19:00`|`Rust`|
