@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-02-18 04:55:00`|`Other FPS Games`|
+|[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-18 04:53:00`|`Valorant`|
+|[data ptr swap win 11 24h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/683598-data-ptr-swap-win-11-24h2.html)|`2026-02-18 04:42:00`|`Anti-Cheat Bypass`|
+|[No Smoke Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738266-smoke-internal.html)|`2026-02-18 04:36:00`|`Valorant`|
+|[CS2 External &#45; v1&#46;0&#46;0 &#124; Neon Visuals Tkz Credit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738185-cs2-external-v1-0-0-neon-visuals-tkz-credit.html)|`2026-02-18 04:26:00`|`Counter-Strike 2 Releases`|
+|[&#91;Release&#93; SARAB — Kernel Manual Map Injector &#124; GTA V Legacy &#124; YimMenu Public Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738163-release-sarab-kernel-manual-map-injector-gta-legacy-yimmenu-public-session.html)|`2026-02-18 04:20:00`|`Grand Theft Auto V`|
+|[Morst&#46;lol CS2 External V1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739000-morst-lol-cs2-external-v1-0-0-a.html)|`2026-02-18 04:17:00`|`Counter-Strike 2 Releases`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-18 04:17:00`|`DayZ SA`|
 |[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-02-18 04:17:00`|`Playerunknown's Battlegrounds`|
 |[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-02-18 04:07:00`|`Counter-Strike 2 Releases`|
