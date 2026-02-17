@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-18 04:17:00`|`DayZ SA`|
+|[PUBG Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/214976-pubg-reversal-structs-offsets.html)|`2026-02-18 04:17:00`|`Playerunknown's Battlegrounds`|
+|[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-02-18 04:07:00`|`Counter-Strike 2 Releases`|
+|[How to Make Permanent Advanced UAV &#40;Read Only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/710574-permanent-advanced-uav-read.html)|`2026-02-18 04:00:00`|`Call of Duty: Black Ops 6`|
+|[HVCI/VBS &#124; Full Impost Mode &#124; Driver Mapped without Cert &#124; HELP to Read Mesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737800-hvci-vbs-impost-mode-driver-mapped-cert-help-read-mesh.html)|`2026-02-18 04:00:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-18 04:00:00`|`Call of Duty: Black Ops 7`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-02-18 03:45:00`|`Apex Legends`|
 |[Vanguard Kernel Mode Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738673-vanguard-kernel-mode-analysis.html)|`2026-02-18 03:43:00`|`Anti-Cheat Bypass`|
 |[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-02-18 03:42:00`|`HELLDIVERS 2`|
