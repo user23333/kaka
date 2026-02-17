@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone successfully migrated modded legacy to enhanced usng r&#42; customer support?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738873-successfully-migrated-modded-legacy-enhanced-usng-customer-support.html)|`2026-02-17 13:38:00`|`Grand Theft Auto V`|
+|[cl&#95;move ""custom"" timeout notif](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/733427-cl_move-custom-timeout-notif.html)|`2026-02-17 13:33:00`|`Team Fortress 2`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-02-17 13:27:00`|`Marvel Rivals`|
+|[Glow not work on player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738484-glow-player.html)|`2026-02-17 13:13:00`|`Apex Legends`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-17 12:01:00`|`Valorant`|
 |[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-02-17 11:53:00`|`Other FPS Games`|
 |[Memory Aim Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738850-memory-aim-externally.html)|`2026-02-17 10:09:00`|`Call of Duty: Black Ops 7`|
