@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All i need to spoof nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735215-spoof-nowadays.html)|`2026-02-18 02:07:00`|`Valorant`|
+|[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-02-18 02:06:00`|`Other FPS Games`|
+|[I keep getting game banned &#124; pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738903-getting-game-banned-pls-help.html)|`2026-02-18 02:06:00`|`Rust`|
+|[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-02-18 02:06:00`|`Marvel Rivals`|
+|[New UI&#95;SHOWMENU plutonium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/738979-ui_showmenu-plutonium.html)|`2026-02-18 02:01:00`|`Call of Duty: Modern Warfare 3`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-18 01:55:00`|`Overwatch`|
 |[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-02-18 01:24:00`|`Anti-Cheat Bypass`|
 |[Banana Paper Hearts AFK Farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738973-banana-paper-hearts-afk-farming.html)|`2026-02-18 01:24:00`|`Other Games`|
 |[Silent / Aim external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737194-silent-aim-external.html)|`2026-02-18 01:24:00`|`ARC Raiders`|
