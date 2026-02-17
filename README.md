@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Unpacker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732470-vanguard-unpacker.html)|`2026-02-18 01:24:00`|`Anti-Cheat Bypass`|
+|[Banana Paper Hearts AFK Farming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738973-banana-paper-hearts-afk-farming.html)|`2026-02-18 01:24:00`|`Other Games`|
+|[Silent / Aim external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737194-silent-aim-external.html)|`2026-02-18 01:24:00`|`ARC Raiders`|
+|[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-02-18 01:24:00`|`Marvel Rivals`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-02-18 01:24:00`|`Other FPS Games`|
+|[arc raiders cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738268-arc-raiders-cheat.html)|`2026-02-18 01:22:00`|`ARC Raiders`|
+|[:439: Arena breakout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738972-439-arena-breakout.html)|`2026-02-18 01:22:00`|`Other FPS Games`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-02-18 00:26:00`|`Overwatch`|
 |[Native obfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738928-native-obfuscation.html)|`2026-02-18 00:25:00`|`Alternative Online Mods`|
 |[Chams not covering all players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738861-chams-covering-players.html)|`2026-02-18 00:25:00`|`Counter-Strike 2`|
