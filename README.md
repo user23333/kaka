@@ -47,6 +47,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-02-18 14:37:00`|`HELLDIVERS 2`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-18 14:31:00`|`Other MMORPG and Strategy`|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-18 14:25:00`|`Other MMORPG and Strategy`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-02-18 14:20:00`|`Other MMORPG and Strategy`|
+|[moneyless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727410-moneyless.html)|`2026-02-18 14:18:00`|`Team Fortress 2`|
 |[injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738937-injector.html)|`2026-02-18 13:43:00`|`ARC Raiders`|
 |[Excited Smite 2 cheaters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738192-excited-smite-2-cheaters.html)|`2026-02-18 13:37:00`|`Other FPS Games`|
 |[FAM MENU UNKNOWN CHARACTERS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/739016-fam-menu-unknown-characters.html)|`2026-02-18 13:17:00`|`Red Dead Redemption 2`|
