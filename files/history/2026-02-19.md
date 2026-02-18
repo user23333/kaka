@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-02-19 02:56:00`|`ARC Raiders`|
+|[NoRecoil All Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-releases/698289-norecoil-mouse.html)|`2026-02-19 02:52:00`|`PUBG Releases`|
+|[What are they using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739166-using.html)|`2026-02-19 02:48:00`|`ARC Raiders`|
+|[Simple triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/738493-simple-triggerbot.html)|`2026-02-19 02:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-19 02:41:00`|`Apex Legends`|
+|[Can anyone help regarding BO7 ban how to find working spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739127-help-regarding-bo7-ban-spoofer.html)|`2026-02-19 02:41:00`|`Call of Duty: Black Ops 7`|
+|[Grabbing user avatars&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738664-grabbing-user-avatars.html)|`2026-02-19 02:38:00`|`Counter-Strike 2`|
 |[Sea of Thieves Telemetry Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/738803-sea-thieves-telemetry-reader.html)|`2026-02-19 01:58:00`|`Sea of Thieves`|
 |[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-02-19 01:58:00`|`Age of Empires`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-19 01:56:00`|`Other Games`|
