@@ -41,9 +41,13 @@
 |3|[Fish&#43;&#43; Hytale 18/02/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53179)|`2026-02-18 10:34:29`|
 |3|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53178)|`2026-02-18 10:34:29`|
 |2|[Bhop cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53177)|`2026-02-18 10:34:29`|
+|8|[CocaineHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53182)|`2026-02-18 12:32:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-18 12:12:00`|`Other MMORPG and Strategy`|
+|[AoE4 No Fog of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/500872-aoe4-fog-war.html)|`2026-02-18 12:01:00`|`Age of Empires`|
+|[Anyone successfully migrated modded legacy to enhanced usng r&#42; customer support?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738873-successfully-migrated-modded-legacy-enhanced-usng-customer-support.html)|`2026-02-18 11:59:00`|`Grand Theft Auto V`|
 |[Need Help Improving FlickBot Accuracy with Lower Sensitivity Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739053-help-improving-flickbot-accuracy-lower-sensitivity-settings.html)|`2026-02-18 10:32:00`|`Valorant`|
 |[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-18 10:23:00`|`Counter-Strike 2 Releases`|
 |[Arduino Mouse Movement Is Too Fast and Jittery When Targeting Enemy Health Bars &#40;Colo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/739052-arduino-mouse-movement-fast-jittery-targeting-enemy-health-bars-colo.html)|`2026-02-18 10:20:00`|`League of Legends`|
