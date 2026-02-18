@@ -47,6 +47,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FGunz ColorAimbot/Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/731517-fgunz-coloraimbot-assist.html)|`2026-02-18 18:16:00`|`GunZ`|
+|[GWorld Brute Forcer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739083-gworld-brute-forcer.html)|`2026-02-18 18:13:00`|`Valorant`|
+|[❤️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739088-10084-65039-a.html)|`2026-02-18 18:09:00`|`Introductions`|
+|[raycast call shellcode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739082-raycast-call-shellcode.html)|`2026-02-18 18:07:00`|`Rust`|
+|[Conan Exiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628443-conan-exiles.html)|`2026-02-18 18:05:00`|`Other FPS Games`|
 |[Menu My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713007-menu-hero-ultra-rumble.html)|`2026-02-18 17:33:00`|`Other Games`|
 |[&#91;1&#46;0&#46;0&#46;5&#93; PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/729340-1-0-0-5-pve-cheat.html)|`2026-02-18 17:30:00`|`Escape from Tarkov`|
 |[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-02-18 17:24:00`|`Team Fortress 2`|
