@@ -47,6 +47,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-02-18 16:05:00`|`Other FPS Games`|
+|[black ops 7 internal source &#40;base&#41; &#45; with latest steam offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738846-black-ops-7-internal-source-base-steam-offsets.html)|`2026-02-18 16:04:00`|`Call of Duty: Black Ops 7`|
+|[cubes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734762-cubes.html)|`2026-02-18 16:02:00`|`Valorant`|
+|[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-02-18 15:46:00`|`Alternative Online Mods`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-18 15:28:00`|`Valorant`|
 |[super ud rust external&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738318-super-ud-rust-external.html)|`2026-02-18 15:13:00`|`Anti-Cheat Bypass`|
 |[This is a lib driver I previously created for Apex Legends external ESP&#46; I'm making i](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738874-lib-driver-previously-created-apex-legends-external-esp-im.html)|`2026-02-18 15:10:00`|`Anti-Cheat Bypass`|
