@@ -47,6 +47,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Silent Aim&#40;External&#43;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/726512-cs2-silent-aim-external-internal.html)|`2026-02-18 22:28:00`|`Counter-Strike 2`|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-02-18 22:27:00`|`Star Wars Battlefront 2`|
+|[makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739124-makcu.html)|`2026-02-18 22:26:00`|`Rainbow Six Siege`|
+|[Reversing Fake Github project malware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/739121-reversing-fake-github-project-malware.html)|`2026-02-18 22:21:00`|`General Programming and Reversing`|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2026-02-18 22:20:00`|`DayZ SA`|
 |[Rocket League Walldash Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739117-rocket-league-walldash-macro.html)|`2026-02-18 21:45:00`|`Other Games`|
 |[Perfect COD exe dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739111-perfect-cod-exe-dumper.html)|`2026-02-18 21:29:00`|`Call of Duty: Black Ops 7`|
 |[Sever Side AntiCheat MouseMovement Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739114-sever-anticheat-mousemovement-bypass.html)|`2026-02-18 21:19:00`|`Anti-Cheat Bypass`|
