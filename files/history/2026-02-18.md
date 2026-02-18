@@ -47,6 +47,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rocket League Walldash Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739117-rocket-league-walldash-macro.html)|`2026-02-18 21:45:00`|`Other Games`|
+|[Perfect COD exe dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739111-perfect-cod-exe-dumper.html)|`2026-02-18 21:29:00`|`Call of Duty: Black Ops 7`|
+|[Sever Side AntiCheat MouseMovement Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739114-sever-anticheat-mousemovement-bypass.html)|`2026-02-18 21:19:00`|`Anti-Cheat Bypass`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-18 21:16:00`|`Other MMORPG and Strategy`|
 |[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-02-18 20:27:00`|`Rust`|
 |[NoSpread need some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738387-nospread-help.html)|`2026-02-18 20:20:00`|`Counter-Strike 2`|
 |[Hyperv Leechcore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735125-hyperv-leechcore.html)|`2026-02-18 20:06:00`|`Anti-Cheat Bypass`|
