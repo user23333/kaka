@@ -36,9 +36,19 @@
 |2|[BattleCry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53174)|`2026-02-18 03:51:43`|
 |6|[Khytt's External v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53171)|`2026-02-18 03:51:43`|
 |2|[BYOVD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53170)|`2026-02-18 03:51:43`|
+|16|[buddy&#46;dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53181)|`2026-02-18 10:34:29`|
+|6|[ArcRadar&#95;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53180)|`2026-02-18 10:34:29`|
+|3|[Fish&#43;&#43; Hytale 18/02/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53179)|`2026-02-18 10:34:29`|
+|3|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53178)|`2026-02-18 10:34:29`|
+|2|[Bhop cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53177)|`2026-02-18 10:34:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Improving FlickBot Accuracy with Lower Sensitivity Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739053-help-improving-flickbot-accuracy-lower-sensitivity-settings.html)|`2026-02-18 10:32:00`|`Valorant`|
+|[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-18 10:23:00`|`Counter-Strike 2 Releases`|
+|[Arduino Mouse Movement Is Too Fast and Jittery When Targeting Enemy Health Bars &#40;Colo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/739052-arduino-mouse-movement-fast-jittery-targeting-enemy-health-bars-colo.html)|`2026-02-18 10:20:00`|`League of Legends`|
+|[Arc Raiders 3 Hour 1&#45;75 LEVEL UP METHOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738986-arc-raiders-3-hour-1-75-level-method.html)|`2026-02-18 10:17:00`|`ARC Raiders`|
+|[&#91;DMA&#93; Arc Raiders &#40;partial&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/728727-dma-arc-raiders-partial.html)|`2026-02-18 10:07:00`|`ARC Raiders`|
 |[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2026-02-18 08:00:00`|`Other MMORPG and Strategy`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-02-18 07:52:00`|`ARMA 3`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-02-18 07:50:00`|`Other FPS Games`|
