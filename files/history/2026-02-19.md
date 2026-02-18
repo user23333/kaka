@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-02-19 04:58:00`|`Scum`|
+|[Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/736694-loader.html)|`2026-02-19 04:55:00`|`C and C++`|
+|[Cheat GTA V ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739164-cheat-gta-enhanced.html)|`2026-02-19 04:50:00`|`Grand Theft Auto V`|
+|[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2026-02-19 04:46:00`|`Other MMORPG and Strategy`|
+|[Method for cheaper upgrade to unheard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/739181-method-cheaper-upgrade-unheard.html)|`2026-02-19 04:42:00`|`Escape from Tarkov`|
+|[Finding the offset in Apex Legends 3&#46;03 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738264-finding-offset-apex-legends-3-03-update.html)|`2026-02-19 04:39:00`|`Apex Legends`|
 |[Detecting In&#45;Game Events to Trigger LED Reactions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739179-detecting-game-events-trigger-led-reactions.html)|`2026-02-19 04:19:00`|`Counter-Strike 2`|
 |[not really aware of what im doing wrong here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/738794-aware-im-doing-wrong.html)|`2026-02-19 04:15:00`|`HELLDIVERS 2`|
 |[External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737704-external-skin-changer.html)|`2026-02-19 04:11:00`|`Marvel Rivals`|
