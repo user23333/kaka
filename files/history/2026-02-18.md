@@ -47,6 +47,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-18 16:51:00`|`Other FPS Games`|
+|[Memory Aim Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738850-memory-aim-externally.html)|`2026-02-18 16:50:00`|`Call of Duty: Black Ops 7`|
+|[engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738852-engine-prediction.html)|`2026-02-18 16:47:00`|`Counter-Strike 2`|
+|[injector for testing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/735428-injector-testing.html)|`2026-02-18 16:34:00`|`Call of Duty: Black Ops 7`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-18 16:31:00`|`Other Games`|
+|[Engine Limitations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738538-engine-limitations.html)|`2026-02-18 16:31:00`|`Call of Duty: Black Ops 7`|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-18 16:30:00`|`Marvel Rivals`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-02-18 16:05:00`|`Other FPS Games`|
 |[black ops 7 internal source &#40;base&#41; &#45; with latest steam offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738846-black-ops-7-internal-source-base-steam-offsets.html)|`2026-02-18 16:04:00`|`Call of Duty: Black Ops 7`|
 |[cubes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734762-cubes.html)|`2026-02-18 16:02:00`|`Valorant`|
