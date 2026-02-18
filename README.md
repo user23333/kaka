@@ -47,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-18 19:10:00`|`Counter-Strike 2`|
+|[CS2 DMA &#45; Some Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738798-cs2-dma-questions.html)|`2026-02-18 19:04:00`|`Counter-Strike 2`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2026-02-18 19:00:00`|`Other MMORPG and Strategy`|
 |[FGunz ColorAimbot/Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/731517-fgunz-coloraimbot-assist.html)|`2026-02-18 18:16:00`|`GunZ`|
 |[GWorld Brute Forcer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739083-gworld-brute-forcer.html)|`2026-02-18 18:13:00`|`Valorant`|
 |[❤️](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739088-10084-65039-a.html)|`2026-02-18 18:09:00`|`Introductions`|
