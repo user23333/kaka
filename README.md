@@ -47,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to read the actual health](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739096-unable-read-actual-health.html)|`2026-02-18 19:50:00`|`Apex Legends`|
+|[AoE2 DE &#45; Fog of War Removal &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/736532-aoe2-de-fog-war-removal-esp.html)|`2026-02-18 19:46:00`|`Age of Empires`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-02-18 19:29:00`|`Other FPS Games`|
 |[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-18 19:10:00`|`Counter-Strike 2`|
 |[CS2 DMA &#45; Some Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738798-cs2-dma-questions.html)|`2026-02-18 19:04:00`|`Counter-Strike 2`|
 |[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2026-02-18 19:00:00`|`Other MMORPG and Strategy`|
