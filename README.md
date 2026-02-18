@@ -42,9 +42,16 @@
 |3|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53178)|`2026-02-18 10:34:29`|
 |2|[Bhop cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53177)|`2026-02-18 10:34:29`|
 |8|[CocaineHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53182)|`2026-02-18 12:32:55`|
+|2|[Eterspirepublic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53184)|`2026-02-18 13:44:38`|
+|2|[AoE2 DE Simple ESP v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53183)|`2026-02-18 13:44:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738937-injector.html)|`2026-02-18 13:43:00`|`ARC Raiders`|
+|[Excited Smite 2 cheaters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738192-excited-smite-2-cheaters.html)|`2026-02-18 13:37:00`|`Other FPS Games`|
+|[FAM MENU UNKNOWN CHARACTERS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/739016-fam-menu-unknown-characters.html)|`2026-02-18 13:17:00`|`Red Dead Redemption 2`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-18 13:14:00`|`Call of Duty: Black Ops 2`|
+|[AoE2 DE Simple ESP v1&#46;0 &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/734356-aoe2-de-simple-esp-v1-0-steam.html)|`2026-02-18 13:00:00`|`Age of Empires`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-18 12:12:00`|`Other MMORPG and Strategy`|
 |[AoE4 No Fog of War](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/500872-aoe4-fog-war.html)|`2026-02-18 12:01:00`|`Age of Empires`|
 |[Anyone successfully migrated modded legacy to enhanced usng r&#42; customer support?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738873-successfully-migrated-modded-legacy-enhanced-usng-customer-support.html)|`2026-02-18 11:59:00`|`Grand Theft Auto V`|
