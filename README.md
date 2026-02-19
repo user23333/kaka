@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get Viewmatrix in x64 PUBG Mobile 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/739355-viewmatrix-x64-pubg-mobile-4-2-a.html)|`2026-02-20 05:49:00`|`PUBG Mobile`|
+|[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-02-20 05:44:00`|`Marvel Rivals`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-20 05:42:00`|`Other FPS Games`|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-20 05:36:00`|`Counter-Strike 2`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-20 05:33:00`|`Red Dead Redemption 2`|
 |[Genshin Impact Cheats mostly dead? 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/739015-genshin-impact-cheats-dead-3-6-a.html)|`2026-02-20 05:15:00`|`Genshin Impact`|
 |[DayZ Nvidia Inspector black screen bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737249-dayz-nvidia-inspector-black-screen-bypass.html)|`2026-02-20 04:59:00`|`DayZ SA`|
 |[RayCast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738525-raycast.html)|`2026-02-20 04:55:00`|`DayZ SA`|
