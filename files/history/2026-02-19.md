@@ -14,6 +14,8 @@
 |42|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-19 03:52:48`|`other-mmorpg-and-strategy`|
 |8|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-19 11:57:57`|`anti-cheat-bypass`|
 |21|[VALO Hybrid Colorbot V9 &#40;External &#124; Dual FOV &#124; Box Merging&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738899-valo-hybrid-colorbot-v9-external-dual-fov-box-merging.html)|`2026-02-19 14:15:41`|`valorant`|
+|23|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-19 19:02:42`|`marvel-rivals`|
+|12|[Sapphire BIOS Flash Driver &#45; Physical Memory R/W POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738353-sapphire-bios-flash-driver-physical-memory-poc.html)|`2026-02-19 19:02:42`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New multifunctional Apex source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738991-multifunctional-apex-source-code.html)|`2026-02-19 18:59:00`|`Apex Legends`|
+|[colorbot release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738598-colorbot-release.html)|`2026-02-19 18:55:00`|`Overwatch`|
+|[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739258-hi.html)|`2026-02-19 18:51:00`|`Introductions`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-19 18:51:00`|`Other MMORPG and Strategy`|
 |[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-02-19 18:07:00`|`Other FPS Games`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-19 17:44:00`|`Red Dead Redemption 2`|
 |[Advice for beginner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/738887-advice-beginner.html)|`2026-02-19 17:42:00`|`HELLDIVERS 2`|
