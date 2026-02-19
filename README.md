@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact Cheats mostly dead? 3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/739015-genshin-impact-cheats-dead-3-6-a.html)|`2026-02-20 05:15:00`|`Genshin Impact`|
+|[DayZ Nvidia Inspector black screen bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737249-dayz-nvidia-inspector-black-screen-bypass.html)|`2026-02-20 04:59:00`|`DayZ SA`|
+|[RayCast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738525-raycast.html)|`2026-02-20 04:55:00`|`DayZ SA`|
 |[Counter&#45;Strike 2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739342-counter-strike-2-external.html)|`2026-02-20 04:54:00`|`Counter-Strike 2`|
 |[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-20 04:53:00`|`Other Games`|
 |[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-20 04:38:00`|`Counter-Strike 2 Releases`|
