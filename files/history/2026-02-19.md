@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-19 19:44:00`|`Marvel Rivals`|
+|[engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738852-engine-prediction.html)|`2026-02-19 19:27:00`|`Counter-Strike 2`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-19 19:25:00`|`Other MMORPG and Strategy`|
+|[Bot to study/learn windows internals, cheating, c&#43;&#43;, bypasses etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733965-bot-study-learn-windows-internals-cheating-bypasses-etc.html)|`2026-02-19 19:23:00`|`General Programming and Reversing`|
+|[where should I start learning how to write cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/735267-start-learning-write-cheats.html)|`2026-02-19 19:22:00`|`Programming for Beginners`|
 |[New multifunctional Apex source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738991-multifunctional-apex-source-code.html)|`2026-02-19 18:59:00`|`Apex Legends`|
 |[colorbot release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738598-colorbot-release.html)|`2026-02-19 18:55:00`|`Overwatch`|
 |[hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739258-hi.html)|`2026-02-19 18:51:00`|`Introductions`|
