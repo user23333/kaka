@@ -27,9 +27,23 @@
 |2|[Cod Dumper by Fatdad61](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53188)|`2026-02-20 06:16:17`|
 |2|[CocaineHookl1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53186)|`2026-02-20 06:16:17`|
 |8|[Khytt's External v2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53185)|`2026-02-20 06:16:17`|
+|1|[5&#46;3&#46;2&#45;4261391&#43;&#43;&#43;Ares&#45;Core&#43;release&#45;12&#46;03&#45;Shoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53199)|`2026-02-20 06:51:36`|
+|0|[Deadlock Signature Dump &#45; 18&#46;02&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53196)|`2026-02-20 06:51:36`|
+|0|[NoStagger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53195)|`2026-02-20 06:51:36`|
+|2|[Fortnite AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53194)|`2026-02-20 06:51:36`|
+|1|[SastashaFied T6 MP MultiHack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53193)|`2026-02-20 06:51:36`|
+|2|[AoE2DEControl &#40;AoE 2 Multitool&#41; v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53192)|`2026-02-20 06:51:36`|
+|3|[SemiInfVats Syringer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53191)|`2026-02-20 06:51:36`|
+|59|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53190)|`2026-02-20 06:51:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-20 06:49:00`|`Valorant`|
+|[super ud rust external&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738318-super-ud-rust-external.html)|`2026-02-20 06:47:00`|`Anti-Cheat Bypass`|
+|[internal cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739113-internal-cs2-cheat.html)|`2026-02-20 06:47:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-20 06:41:00`|`Other FPS Games`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-20 06:32:00`|`Call of Duty: Black Ops 2`|
+|[MOUSE MOVEMENT DRIVER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/598346-mouse-movement-driver.html)|`2026-02-20 06:30:00`|`Anti-Cheat Bypass`|
 |[Arma Reforger get bullet velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/739359-arma-reforger-bullet-velocity.html)|`2026-02-20 06:13:00`|`ARMA 3`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-20 06:07:00`|`League of Legends`|
 |[Invisible Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738737-invisible-player.html)|`2026-02-20 06:06:00`|`Alternative Online Mods`|
