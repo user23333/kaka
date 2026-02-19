@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[has anyone ever been banned for macro usage? like bhop?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738946-banned-macro-usage-bhop.html)|`2026-02-19 13:13:00`|`Apex Legends`|
+|[Pubg Mobile recoil data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/739228-pubg-mobile-recoil-data.html)|`2026-02-19 13:06:00`|`PUBG Mobile`|
+|[GTAModsManager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739225-gtamodsmanager.html)|`2026-02-19 13:05:00`|`Grand Theft Auto V`|
+|[Best BO7 Bot Lobby Tool &#40;Ranked&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731105-bo7-bot-lobby-tool-ranked.html)|`2026-02-19 12:54:00`|`Call of Duty: Black Ops 7`|
+|[Controller Support Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/736733-controller-support-externally.html)|`2026-02-19 12:51:00`|`Call of Duty: Black Ops 7`|
+|[New Vpn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738592-vpn.html)|`2026-02-19 12:49:00`|`Call of Duty: Black Ops 7`|
+|[Windrose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739072-windrose.html)|`2026-02-19 12:44:00`|`Other Games`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-02-19 11:46:00`|`Valorant`|
 |[Perfect COD exe dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739111-perfect-cod-exe-dumper.html)|`2026-02-19 11:43:00`|`Call of Duty: Black Ops 7`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-02-19 11:15:00`|`Escape from Tarkov`|
