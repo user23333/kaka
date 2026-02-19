@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739342-counter-strike-2-external.html)|`2026-02-20 04:54:00`|`Counter-Strike 2`|
+|[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-20 04:53:00`|`Other Games`|
+|[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-20 04:38:00`|`Counter-Strike 2 Releases`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-02-20 04:37:00`|`Grand Theft Auto V`|
+|[How do public CE tables bypass &#46;text Integrity Checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/738806-public-ce-tables-bypass-text-integrity-checks.html)|`2026-02-20 04:32:00`|`HELLDIVERS 2`|
+|[Vehicles Creator v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739340-vehicles-creator-v1-5-a.html)|`2026-02-20 04:29:00`|`Grand Theft Auto V`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-20 04:22:00`|`Apex Legends`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-02-20 04:17:00`|`Call of Duty: Black Ops 3`|
 |[No Smoke Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738266-smoke-internal.html)|`2026-02-20 04:15:00`|`Valorant`|
