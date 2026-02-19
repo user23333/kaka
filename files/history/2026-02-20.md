@@ -24,9 +24,17 @@
 |23|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53178)|`2026-02-20 00:07:40`|
 |43|[Bhop cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53177)|`2026-02-20 00:07:40`|
 |43|[LORT Internal V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53175)|`2026-02-20 00:07:40`|
+|2|[Cod Dumper by Fatdad61](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53188)|`2026-02-20 06:16:17`|
+|2|[CocaineHookl1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53186)|`2026-02-20 06:16:17`|
+|8|[Khytt's External v2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53185)|`2026-02-20 06:16:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arma Reforger get bullet velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/739359-arma-reforger-bullet-velocity.html)|`2026-02-20 06:13:00`|`ARMA 3`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-20 06:07:00`|`League of Legends`|
+|[Invisible Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738737-invisible-player.html)|`2026-02-20 06:06:00`|`Alternative Online Mods`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-20 06:06:00`|`Roblox`|
+|[Foxhole DMA release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737985-foxhole-dma-release.html)|`2026-02-20 06:02:00`|`Other MMORPG and Strategy`|
 |[How to get Viewmatrix in x64 PUBG Mobile 4&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pubg-mobile/739355-viewmatrix-x64-pubg-mobile-4-2-a.html)|`2026-02-20 05:49:00`|`PUBG Mobile`|
 |[Is there any working internal or external cheetos around ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/732291-internal-external-cheetos.html)|`2026-02-20 05:44:00`|`Marvel Rivals`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-20 05:42:00`|`Other FPS Games`|
