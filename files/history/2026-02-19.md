@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-02-19 16:27:00`|`Other MMORPG and Strategy`|
+|[TF2 Classified](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/736284-tf2-classified.html)|`2026-02-19 16:06:00`|`Team Fortress 2`|
 |[Roblox External &#45; &#91;ALWAYS UPDATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/717679-roblox-external-updated.html)|`2026-02-19 15:33:00`|`Roblox`|
 |[Overlays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738709-overlays.html)|`2026-02-19 15:15:00`|`Rust`|
 |[Signature file check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/729680-signature-file-check.html)|`2026-02-19 15:01:00`|`Age of Empires`|
