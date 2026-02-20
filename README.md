@@ -24,9 +24,18 @@
 |21|[vehbutnot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53217)|`2026-02-21 00:29:01`|
 |5|[5&#46;3&#46;2&#45;3006564&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;5&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53216)|`2026-02-21 00:29:01`|
 |34|[latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53215)|`2026-02-21 00:29:01`|
+|1|[METRIA PUBLIC Updatet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53229)|`2026-02-21 01:06:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-21 01:05:00`|`Apex Legends`|
+|[VehButNot Ring 3 API Hooking via HW Breakpoints &#43; KiUED Pre&#45;Filter &#40;no VEH, no detour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739366-vehbutnot-ring-3-api-hooking-via-hw-breakpoints-kiued-pre-filter-veh-detour.html)|`2026-02-21 01:04:00`|`Anti-Cheat Bypass`|
+|[Facepunch Official Ban &#45; Abusive Chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739272-facepunch-official-ban-abusive-chat.html)|`2026-02-21 01:03:00`|`Rust`|
+|[p&p undetected rust cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738523-undetected-rust-cheat.html)|`2026-02-21 01:02:00`|`Rust`|
+|[OBS UDP & OBS NDI Latency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738783-obs-udp-obs-ndi-latency.html)|`2026-02-21 01:02:00`|`Valorant`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-21 00:57:00`|`Call of Duty: Black Ops 2`|
+|[Vanguard Kernel Mode Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738673-vanguard-kernel-mode-analysis.html)|`2026-02-21 00:56:00`|`Anti-Cheat Bypass`|
+|[METRIA Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734087-metria-trainer.html)|`2026-02-21 00:53:00`|`Other MMORPG and Strategy`|
 |[EA Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739453-ea-account.html)|`2026-02-21 00:28:00`|`Apex Legends`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-02-21 00:28:00`|`Other FPS Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-21 00:25:00`|`Other FPS Games`|
