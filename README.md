@@ -25,9 +25,17 @@
 |5|[5&#46;3&#46;2&#45;3006564&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;5&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53216)|`2026-02-21 00:29:01`|
 |34|[latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53215)|`2026-02-21 00:29:01`|
 |1|[METRIA PUBLIC Updatet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53229)|`2026-02-21 01:06:03`|
+|49|[Heartopia Buddy&#33; 5&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53230)|`2026-02-21 01:50:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739465-kdmapper-detected.html)|`2026-02-21 01:47:00`|`Apex Legends`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-21 01:43:00`|`Other FPS Games`|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-21 01:37:00`|`Other MMORPG and Strategy`|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-21 01:37:00`|`Anti-Cheat Bypass`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-21 01:35:00`|`Counter-Strike 2`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-21 01:33:00`|`Other FPS Games`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-21 01:30:00`|`Other MMORPG and Strategy`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-21 01:05:00`|`Apex Legends`|
 |[VehButNot Ring 3 API Hooking via HW Breakpoints &#43; KiUED Pre&#45;Filter &#40;no VEH, no detour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739366-vehbutnot-ring-3-api-hooking-via-hw-breakpoints-kiued-pre-filter-veh-detour.html)|`2026-02-21 01:04:00`|`Anti-Cheat Bypass`|
 |[Facepunch Official Ban &#45; Abusive Chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739272-facepunch-official-ban-abusive-chat.html)|`2026-02-21 01:03:00`|`Rust`|
