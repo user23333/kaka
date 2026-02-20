@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Nvidia Inspector black screen bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737249-dayz-nvidia-inspector-black-screen-bypass.html)|`2026-02-21 04:27:00`|`DayZ SA`|
+|[Cheat GTA V ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739164-cheat-gta-enhanced.html)|`2026-02-21 04:18:00`|`Grand Theft Auto V`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-21 04:15:00`|`Alternative Online Mods`|
+|[Arc Raiders 3 Hour 1&#45;75 LEVEL UP METHOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738986-arc-raiders-3-hour-1-75-level-method.html)|`2026-02-21 04:12:00`|`ARC Raiders`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-21 04:08:00`|`HELLDIVERS 2`|
 |[colorbot release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738598-colorbot-release.html)|`2026-02-21 03:55:00`|`Overwatch`|
 |[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-21 03:48:00`|`Marvel Rivals`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/733234-dma.html)|`2026-02-21 03:47:00`|`PC Hardware`|
