@@ -49,9 +49,15 @@
 |2|[5&#46;3&#46;2&#45;3006564&#43;&#43;&#43;depot&#95;marvel&#43;S6&#46;5&#95;release&#45;Mar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53216)|`2026-02-20 10:21:53`|
 |9|[latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53215)|`2026-02-20 10:21:53`|
 |3|[LORT Internal V4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53212)|`2026-02-20 10:21:53`|
+|1|[Rivals Raper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53224)|`2026-02-20 22:53:02`|
+|1|[AoE2DEControl &#40;AoE 2 Tool&#41; v1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53222)|`2026-02-20 22:53:02`|
+|2|[S2Cheat&#45;2026&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53221)|`2026-02-20 22:53:02`|
+|4|[BloodStrike&#95;Internal&#95;steamV3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53218)|`2026-02-20 22:53:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-02-20 22:35:00`|`Marvel Rivals`|
+|[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-02-20 22:34:00`|`Other MMORPG and Strategy`|
 |[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-02-20 21:59:00`|`Paladins`|
 |[Simple Apex ESP Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/737293-simple-apex-esp-wallhack.html)|`2026-02-20 20:48:00`|`Apex Legends`|
 |[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-02-20 20:47:00`|`ARC Raiders`|
