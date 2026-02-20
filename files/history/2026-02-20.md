@@ -51,6 +51,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A new member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/738601-team.html)|`2026-02-20 19:52:00`|`Information and Announcements`|
 |[Where do I find updated CS2 maps?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737876-updated-cs2-maps.html)|`2026-02-20 19:34:00`|`Counter-Strike 2`|
 |[Epin Sitesi Nasıl Açabilirim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739419-epin-sitesi-nas-abilirim.html)|`2026-02-20 19:33:00`|`Introductions`|
 |[Creating a spoofed QEMU/KVM that bypasses everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736390-creating-spoofed-qemu-kvm-bypasses.html)|`2026-02-20 19:25:00`|`Anti-Cheat Bypass`|
