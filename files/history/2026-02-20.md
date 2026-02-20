@@ -51,6 +51,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New here&#46;&#46; looking for guidance on where to start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/739379-looking-guidance-start.html)|`2026-02-20 15:25:00`|`Programming for Beginners`|
+|[which non&#45;solo heists/missions can I do solo using Yim ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739403-solo-heists-missions-solo-using-yim.html)|`2026-02-20 15:21:00`|`Grand Theft Auto V`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-02-20 15:01:00`|`ARMA 3`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-20 14:55:00`|`Counter-Strike 2`|
 |[TF2 Classified &#45; Enemy Glow?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739401-tf2-classified-enemy-glow.html)|`2026-02-20 14:05:00`|`Team Fortress 2`|
 |[GWorld Brute Forcer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739083-gworld-brute-forcer.html)|`2026-02-20 14:00:00`|`Valorant`|
 |[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-02-20 13:57:00`|`Grand Theft Auto V`|
