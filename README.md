@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DKOM Process unlinking without triggering Patchguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739470-dkom-process-unlinking-triggering-patchguard.html)|`2026-02-21 02:16:00`|`Anti-Cheat Bypass`|
+|[Valorant vgk&#46;sys Disable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738103-valorant-vgk-sys-disable.html)|`2026-02-21 02:15:00`|`Valorant`|
+|[VTL1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739469-vtl1.html)|`2026-02-21 02:12:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-21 02:05:00`|`Rust`|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-21 02:04:00`|`Marvel Rivals`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-02-21 02:00:00`|`Call of Duty: Black Ops 3`|
+|[DeepSea Scientist NPC's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739265-deepsea-scientist-npcs.html)|`2026-02-21 01:58:00`|`Rust`|
 |[Kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739465-kdmapper-detected.html)|`2026-02-21 01:47:00`|`Apex Legends`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-21 01:43:00`|`Other FPS Games`|
 |[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-02-21 01:37:00`|`Other MMORPG and Strategy`|
