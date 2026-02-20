@@ -51,6 +51,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NVIDIA Token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738237-nvidia-token.html)|`2026-02-20 18:01:00`|`Alternative Online Mods`|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-20 17:58:00`|`Anti-Cheat Bypass`|
+|[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-02-20 17:51:00`|`Rust`|
+|[nvidia uuid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739416-nvidia-uuid-spoofing.html)|`2026-02-20 17:47:00`|`Valorant`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-20 17:44:00`|`ARC Raiders`|
 |[PDB server broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739415-pdb-server-broken.html)|`2026-02-20 17:17:00`|`Alternative Online Mods`|
 |[hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739413-hardware-ban.html)|`2026-02-20 17:09:00`|`Call of Duty: Black Ops 7`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-02-20 16:46:00`|`Counter-Strike 2`|
