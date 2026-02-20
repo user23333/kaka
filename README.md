@@ -56,6 +56,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding More BPs and Entity Names in Arc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738423-finding-bps-entity-names-arc.html)|`2026-02-20 23:24:00`|`ARC Raiders`|
+|[The Classrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739445-classrooms-internal.html)|`2026-02-20 23:22:00`|`Other FPS Games`|
+|[Username HTML Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739438-username-html-exploit.html)|`2026-02-20 23:09:00`|`Rainbow Six Siege`|
+|[How to make cracked rust dedicated server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/722742-cracked-rust-dedicated-server.html)|`2026-02-20 22:53:00`|`Rust`|
 |[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-02-20 22:35:00`|`Marvel Rivals`|
 |[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-02-20 22:34:00`|`Other MMORPG and Strategy`|
 |[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-02-20 21:59:00`|`Paladins`|
