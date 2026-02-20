@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating a spoofed QEMU/KVM that bypasses everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736390-creating-spoofed-qemu-kvm-bypasses.html)|`2026-02-21 06:46:00`|`Anti-Cheat Bypass`|
+|[Icon Class/Display Name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/734166-icon-class-display-name.html)|`2026-02-21 06:37:00`|`Call of Duty: Black Ops 3`|
+|[I need linux offsets for cs2 please help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738555-linux-offsets-cs2-please-help.html)|`2026-02-21 06:36:00`|`Counter-Strike 2`|
+|[Airport city](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739509-airport-city.html)|`2026-02-21 06:33:00`|`Other Games`|
 |[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-02-21 06:26:00`|`Grand Theft Auto V`|
 |[Chivalry 2 Basic &#46;pak &#45; Parera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720632-chivalry-2-basic-pak-parera.html)|`2026-02-21 06:20:00`|`Other Games`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-21 06:19:00`|`Grand Theft Auto V`|
