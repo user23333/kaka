@@ -11,6 +11,7 @@
 |16|[colorbot release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738598-colorbot-release.html)|`2026-02-22 00:28:35`|`overwatch`|
 |14|[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-22 00:28:35`|`counter-strike-2-releases`|
 |9|[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-22 00:28:35`|`counter-strike-2-a`|
+|4|[Windrose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739072-windrose.html)|`2026-02-22 02:23:00`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can I spoof my PC from a HWID ban with an HP motherboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/739534-spoof-pc-hwid-ban-hp-motherboard.html)|`2026-02-22 02:20:00`|`Marvel Rivals`|
+|[Does this game hardware ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/739537-game-hardware-ban.html)|`2026-02-22 02:15:00`|`Marvel Rivals`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-02-22 02:15:00`|`ARC Raiders`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-02-22 02:12:00`|`Other FPS Games`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-22 02:09:00`|`Sea of Thieves`|
+|[Best screen capture method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739585-screen-capture-method.html)|`2026-02-22 02:09:00`|`Overwatch`|
+|[Combat Master CE Godmode, MEGA XP, Instant Weapon/Player Max Level, Attachment Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/583715-combat-master-ce-godmode-mega-xp-instant-weapon-player-max-level-attachment-mod.html)|`2026-02-22 02:07:00`|`Combat Master`|
+|[struggling with HID driver for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739592-struggling-hid-driver-external.html)|`2026-02-22 02:06:00`|`Counter-Strike 2`|
 |[&#91;HELP&#93; DMA Scatter reads causing massive frame drops / CPU spikes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/730567-help-dma-scatter-reads-causing-massive-frame-drops-cpu-spikes.html)|`2026-02-22 01:52:00`|`Introductions`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-22 01:52:00`|`Other MMORPG and Strategy`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-22 01:52:00`|`Valorant`|
