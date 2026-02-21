@@ -32,9 +32,14 @@
 |0|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53232)|`2026-02-21 12:57:45`|
 |2|[Spiritvale Bot ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53233)|`2026-02-21 15:26:43`|
 |1|[Spiritvale Bot 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53234)|`2026-02-21 16:32:56`|
+|3|[processhacker&#45;mcp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53237)|`2026-02-21 21:32:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-02-21 21:21:00`|`Marvel Rivals`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-21 21:17:00`|`Roblox`|
+|[Ragnarok Memory Structures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/739581-ragnarok-memory-structures.html)|`2026-02-21 20:54:00`|`Ragnarok`|
+|[Fivem b3258 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739572-fivem-b3258-external.html)|`2026-02-21 20:52:00`|`Alternative Online Mods`|
 |[Inspect BO7 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739576-inspect-bo7-offsets.html)|`2026-02-21 20:50:00`|`Call of Duty: Black Ops 7`|
 |[Outfit Editor   and  BBOB&#40;browser extension that generates Outfits Code for Bincohax&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/624819-outfit-editor-bbob-browser-extension-generates-outfits-code-bincohax.html)|`2026-02-21 20:45:00`|`Grand Theft Auto V`|
 |[ESP&#40;WH&#41; &#43; GameVersion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739580-esp-wh-gameversion.html)|`2026-02-21 20:44:00`|`Rust`|
