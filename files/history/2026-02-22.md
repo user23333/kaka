@@ -27,9 +27,17 @@
 |12|[Fish&#43;&#43; Hytale 20/02/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53226)|`2026-02-22 00:28:35`|
 |61|[Rivals Raper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53224)|`2026-02-22 00:28:35`|
 |0|[dump1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53241)|`2026-02-22 03:16:49`|
+|1|[Spankerfield 2026 &#43; Improvements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53239)|`2026-02-22 04:20:01`|
+|1|[CS2&#95;VibeSignatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53238)|`2026-02-22 04:20:01`|
+|1|[Prestiger and Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53236)|`2026-02-22 04:20:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ God Mode Via Bullet Redirection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/739528-dayz-god-mode-via-bullet-redirection.html)|`2026-02-22 04:18:00`|`DayZ SA`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-02-22 04:09:00`|`Palworld`|
+|[CS2&#95;VibeSignatures &#45; kits for generating signatures/offsets, updating SDK headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739563-cs2_vibesignatures-kits-generating-signatures-offsets-updating-sdk-headers.html)|`2026-02-22 04:09:00`|`Counter-Strike 2`|
+|[DayZ Nvidia Inspector black screen bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/737249-dayz-nvidia-inspector-black-screen-bypass.html)|`2026-02-22 04:07:00`|`DayZ SA`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-02-22 04:00:00`|`Other FPS Games`|
 |[find ISwapChainDx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739639-iswapchaindx11.html)|`2026-02-22 03:55:00`|`Counter-Strike 2`|
 |[Valorant HWID Ban &#45; do you need a new tpm chip?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739638-valorant-hwid-ban-tpm-chip.html)|`2026-02-22 03:48:00`|`Valorant`|
 |[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-02-22 03:49:00`|`Other FPS Games`|
