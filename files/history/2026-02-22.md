@@ -26,9 +26,15 @@
 |5|[Classroom Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53228)|`2026-02-22 00:28:35`|
 |12|[Fish&#43;&#43; Hytale 20/02/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53226)|`2026-02-22 00:28:35`|
 |61|[Rivals Raper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53224)|`2026-02-22 00:28:35`|
+|0|[dump1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53241)|`2026-02-22 03:16:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Driver BSOD &#45; KMODE&#95;EXCEPTION&#95;NOT&#95;HANDLED &#45; Need Minidump Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/739538-kernel-driver-bsod-kmode_exception_not_handled-minidump-analysis.html)|`2026-02-22 03:12:00`|`Forum General`|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-22 03:12:00`|`Counter-Strike 2`|
+|[processhacker mcp &#40; this is dynamic mcp server for runtime analysis and process hacki](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739579-processhacker-mcp-dynamic-mcp-server-runtime-analysis-process-hacki.html)|`2026-02-22 03:11:00`|`Anti-Cheat Bypass`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-22 03:03:00`|`Escape from Tarkov`|
+|[Banned, how to start over?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/738638-banned-start.html)|`2026-02-22 02:56:00`|`Escape from Tarkov`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-22 02:53:00`|`Payday 3`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-22 02:46:00`|`Alternative Online Mods`|
 |[hunchclient v4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737628-hunchclient-v4.html)|`2026-02-22 02:37:00`|`ARC Raiders`|
