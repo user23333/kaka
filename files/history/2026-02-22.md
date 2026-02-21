@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-02-22 00:51:00`|`Battlefield 4`|
+|[Looking for a black ops 4 mod menu MP Ps4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/739618-looking-black-ops-4-mod-menu-mp-ps4.html)|`2026-02-22 00:48:00`|`Call of Duty: Black Ops 4`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-22 00:47:00`|`Call of Duty: Black Ops 7`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-22 00:43:00`|`DayZ SA`|
+|[Driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739616-driver-help.html)|`2026-02-22 00:41:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-22 00:30:00`|`Other FPS Games`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-22 00:26:00`|`Roblox`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-22 00:25:00`|`Other Games`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-22 00:24:00`|`Valorant`|
