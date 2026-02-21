@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-02-21 13:58:00`|`Rainbow Six Siege`|
+|[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-02-21 13:51:00`|`Rust`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-21 13:37:00`|`Garry's Mod`|
 |[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-02-21 13:33:00`|`Call of Duty: Black Ops 2`|
 |[FSL method for macOS and YimMenu injection for macOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739542-fsl-method-macos-yimmenu-injection-macos.html)|`2026-02-21 13:00:00`|`Grand Theft Auto V`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738865-eac-injector.html)|`2026-02-21 12:59:00`|`ARC Raiders`|
