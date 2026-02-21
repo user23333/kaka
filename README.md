@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2026-02-22 05:31:00`|`Among Us`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-02-22 05:29:00`|`Phasmophobia`|
+|[VAL 5 vs VAN 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739652-val-5-vs-van-152-a.html)|`2026-02-22 05:21:00`|`Valorant`|
 |[Overlays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738709-overlays.html)|`2026-02-22 05:14:00`|`Rust`|
 |[Structure for CSceneObject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739648-structure-csceneobject.html)|`2026-02-22 05:06:00`|`Counter-Strike 2`|
 |[LOOT ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739646-loot-esp.html)|`2026-02-22 04:37:00`|`Call of Duty: Black Ops 7`|
