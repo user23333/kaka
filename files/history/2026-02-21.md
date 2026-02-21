@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-02-21 13:33:00`|`Call of Duty: Black Ops 2`|
+|[FSL method for macOS and YimMenu injection for macOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739542-fsl-method-macos-yimmenu-injection-macos.html)|`2026-02-21 13:00:00`|`Grand Theft Auto V`|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738865-eac-injector.html)|`2026-02-21 12:59:00`|`ARC Raiders`|
 |[Kernel Driver BSOD &#45; KMODE&#95;EXCEPTION&#95;NOT&#95;HANDLED &#45; Need Minidump Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/739538-kernel-driver-bsod-kmode_exception_not_handled-minidump-analysis.html)|`2026-02-21 12:55:00`|`Forum General`|
 |[&#91;STEAM&#93; Terraria 1&#46;4&#46;5&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738308-steam-terraria-1-4-5-4-cheat-table.html)|`2026-02-21 12:47:00`|`Other Games`|
 |[read only sniper crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739541-read-sniper-crosshair.html)|`2026-02-21 12:47:00`|`Counter-Strike 2`|
