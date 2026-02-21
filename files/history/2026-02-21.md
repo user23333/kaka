@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2&#95;VibeSignatures &#45; kits for generating signatures/offsets, updating SDK headers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739563-cs2_vibesignatures-kits-generating-signatures-offsets-updating-sdk-headers.html)|`2026-02-21 18:43:00`|`Counter-Strike 2`|
+|[Preview 5M Native Dump/Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/727743-preview-5m-native-dump-decrypt.html)|`2026-02-21 18:30:00`|`Alternative Online Mods`|
 |[Chams not covering all players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738861-chams-covering-players.html)|`2026-02-21 17:53:00`|`Counter-Strike 2`|
 |[LostLight Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/479889-lostlight-reversal-structs-offsets.html)|`2026-02-21 17:38:00`|`Other FPS Games`|
 |[GPU object detection arduino aimbot&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/446359-gpu-object-detection-arduino-aimbot.html)|`2026-02-21 17:23:00`|`Overwatch`|
