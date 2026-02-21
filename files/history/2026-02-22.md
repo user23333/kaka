@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-02-22 03:49:00`|`Other FPS Games`|
+|[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-02-22 03:48:00`|`Anti-Cheat Bypass`|
+|[CS2 Perma green trust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739637-cs2-perma-green-trust.html)|`2026-02-22 03:48:00`|`Counter-Strike 2`|
+|[Deadzone Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717089-deadzone-rogue-internal.html)|`2026-02-22 03:48:00`|`Other FPS Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-02-22 03:45:00`|`Deadlock`|
+|[SyncTree Manipulation &#45; Weapon Visual Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739474-synctree-manipulation-weapon-visual-spoof.html)|`2026-02-22 03:44:00`|`Alternative Online Mods`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-02-22 03:42:00`|`Tom Clancy's The Division`|
 |[Kernel Driver BSOD &#45; KMODE&#95;EXCEPTION&#95;NOT&#95;HANDLED &#45; Need Minidump Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/739538-kernel-driver-bsod-kmode_exception_not_handled-minidump-analysis.html)|`2026-02-22 03:12:00`|`Forum General`|
 |[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-22 03:12:00`|`Counter-Strike 2`|
 |[processhacker mcp &#40; this is dynamic mcp server for runtime analysis and process hacki](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739579-processhacker-mcp-dynamic-mcp-server-runtime-analysis-process-hacki.html)|`2026-02-22 03:11:00`|`Anti-Cheat Bypass`|
