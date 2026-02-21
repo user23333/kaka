@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[triggetbot with akh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739595-triggetbot-akh.html)|`2026-02-21 22:48:00`|`Valorant`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-21 22:59:00`|`Valorant`|
 |[Getting current map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739593-getting-current-map.html)|`2026-02-21 22:43:00`|`Counter-Strike 2`|
 |[struggling with HID driver for external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739592-struggling-hid-driver-external.html)|`2026-02-21 22:36:00`|`Counter-Strike 2`|
