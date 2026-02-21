@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[find ISwapChainDx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739639-iswapchaindx11.html)|`2026-02-22 03:55:00`|`Counter-Strike 2`|
+|[Valorant HWID Ban &#45; do you need a new tpm chip?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739638-valorant-hwid-ban-tpm-chip.html)|`2026-02-22 03:48:00`|`Valorant`|
 |[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-02-22 03:49:00`|`Other FPS Games`|
 |[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-02-22 03:48:00`|`Anti-Cheat Bypass`|
 |[CS2 Perma green trust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739637-cs2-perma-green-trust.html)|`2026-02-22 03:48:00`|`Counter-Strike 2`|
