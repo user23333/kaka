@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739577-offsets.html)|`2026-02-21 22:10:00`|`Apex Legends`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-21 21:58:00`|`League of Legends`|
 |[Best screen capture method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739585-screen-capture-method.html)|`2026-02-21 21:53:00`|`Overwatch`|
 |[Is there any cheat for Yu&#45;Gi&#45;Oh&#33; Duel Links &#91;STEAM&#93; to earn more than 8000 points?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739434-cheat-yu-gi-oh-duel-links-steam-earn-8000-a.html)|`2026-02-21 21:40:00`|`Other Games`|
