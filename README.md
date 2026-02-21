@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-21 21:58:00`|`League of Legends`|
+|[Best screen capture method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739585-screen-capture-method.html)|`2026-02-21 21:53:00`|`Overwatch`|
+|[Is there any cheat for Yu&#45;Gi&#45;Oh&#33; Duel Links &#91;STEAM&#93; to earn more than 8000 points?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739434-cheat-yu-gi-oh-duel-links-steam-earn-8000-a.html)|`2026-02-21 21:40:00`|`Other Games`|
+|[skip puzzle of The White House heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/713796-skip-puzzle-white-house-heist.html)|`2026-02-21 21:39:00`|`Payday 2`|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-02-21 21:22:00`|`Other FPS Games`|
 |[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-02-21 21:21:00`|`Marvel Rivals`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-02-21 21:17:00`|`Roblox`|
 |[Ragnarok Memory Structures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/739581-ragnarok-memory-structures.html)|`2026-02-21 20:54:00`|`Ragnarok`|
