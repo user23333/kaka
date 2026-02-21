@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739422-makcu.html)|`2026-02-21 19:36:00`|`Apex Legends`|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-21 19:28:00`|`Other FPS Games`|
 |[&#91;Release&#93; CS2 Internal Cheat — ESP, Aimbot, Radar, FOV Changer &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738367-release-cs2-internal-cheat-esp-aimbot-radar-fov-changer-source-code.html)|`2026-02-21 19:18:00`|`Counter-Strike 2`|
 |[AoE2 DE &#45; Fog of War Removal &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/736532-aoe2-de-fog-war-removal-esp.html)|`2026-02-21 19:15:00`|`Age of Empires`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-02-21 19:13:00`|`Other FPS Games`|
