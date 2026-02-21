@@ -37,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-22 06:57:00`|`Counter-Strike 2`|
+|[External Triggerbot that shoots through a wall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739667-external-triggerbot-shoots-wall.html)|`2026-02-22 06:56:00`|`Counter-Strike 2`|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-02-22 06:54:00`|`Insurgency`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-02-22 06:41:00`|`Rainbow Six Siege`|
 |[sv&#95;legacy&#95;jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739495-sv_legacy_jump.html)|`2026-02-22 06:39:00`|`Counter-Strike 2`|
 |[Wicked Menu/ Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/372512-wicked-menu-cheat-engine.html)|`2026-02-22 06:38:00`|`Red Dead Redemption 2`|
