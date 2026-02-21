@@ -30,9 +30,14 @@
 |49|[Heartopia Buddy&#33; 5&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53230)|`2026-02-21 01:50:33`|
 |11|[&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53231)|`2026-02-21 11:53:52`|
 |0|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53232)|`2026-02-21 12:57:45`|
+|2|[Spiritvale Bot ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53233)|`2026-02-21 15:26:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can I spoof my PC from a HWID ban with an HP motherboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/739534-spoof-pc-hwid-ban-hp-motherboard.html)|`2026-02-21 15:20:00`|`Marvel Rivals`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-21 15:16:00`|`Red Dead Redemption 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-02-21 15:03:00`|`Counter-Strike 2`|
+|[Expected time to get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739552-expected-time-banned.html)|`2026-02-21 15:03:00`|`ARC Raiders`|
 |[A new member on the team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/738601-team.html)|`2026-02-21 14:36:00`|`Information and Announcements`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-02-21 13:58:00`|`Rainbow Six Siege`|
 |[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-02-21 13:51:00`|`Rust`|
