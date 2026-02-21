@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;HELP&#93; DMA Scatter reads causing massive frame drops / CPU spikes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/730567-help-dma-scatter-reads-causing-massive-frame-drops-cpu-spikes.html)|`2026-02-22 01:52:00`|`Introductions`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-22 01:52:00`|`Other MMORPG and Strategy`|
+|[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-22 01:52:00`|`Valorant`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-02-22 01:49:00`|`Other FPS Games`|
+|[nvidia uuid spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739416-nvidia-uuid-spoofing.html)|`2026-02-22 01:48:00`|`Valorant`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-22 01:47:00`|`Counter-Strike 2`|
 |[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-22 01:40:00`|`Rust`|
 |[Valorant Triggerbot Outline issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739313-valorant-triggerbot-outline-issues.html)|`2026-02-22 01:37:00`|`Valorant`|
 |[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-02-22 01:31:00`|`Other FPS Games`|
