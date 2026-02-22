@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age Of Empires 4 SCAR Lua Injection &#45; Fog&#45;of&#45;War Reveal, HUD Tweaks &#45; Steam/Xbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/707091-age-empires-4-scar-lua-injection-fog-war-reveal-hud-tweaks-steam-xbox.html)|`2026-02-23 03:36:00`|`Age of Empires`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-23 03:25:00`|`Garry's Mod`|
+|[Yu&#45;Gi&#45;Oh&#33; Master Duel PvP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739775-yu-gi-oh-master-duel-pvp.html)|`2026-02-23 03:23:00`|`Other Games`|
+|[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-02-23 03:22:00`|`Team Fortress 2`|
+|[Catching in game xp level by memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/737632-catching-game-xp-level-memory.html)|`2026-02-23 03:18:00`|`Counter-Strike 2`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-23 03:16:00`|`Overwatch`|
 |[Chams not covering all players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738861-chams-covering-players.html)|`2026-02-23 03:15:00`|`Counter-Strike 2`|
 |[PdFwKrnl&#46;sys Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704764-pdfwkrnl-sys-detected.html)|`2026-02-23 03:11:00`|`Anti-Cheat Bypass`|
