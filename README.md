@@ -11,6 +11,7 @@
 |10|[cs2 valve server lag exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738877-cs2-valve-server-lag-exploit.html)|`2026-02-23 00:00:34`|`counter-strike-2-a`|
 |6|[I tried, and I failed&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738748-tried-failed.html)|`2026-02-23 00:00:34`|`arc-raiders`|
 |14|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-02-23 00:00:34`|`marvel-rivals`|
+|5|[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-02-23 00:34:20`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,17 @@
 |15|[Spiritvale Bot 1&#46;0&#46;1 &#40;Real&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53244)|`2026-02-23 00:00:34`|
 |21|[Instalocker For Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53243)|`2026-02-23 00:00:34`|
 |5|[&#46;sys file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53242)|`2026-02-23 00:00:34`|
+|1|[Spiritvale Bot 1&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53253)|`2026-02-23 00:34:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-02-23 00:33:00`|`Other FPS Games`|
+|[Pixel Strike 3D Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/739711-pixel-strike-3d-simple-cheat.html)|`2026-02-23 00:32:00`|`Half Life`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-23 00:31:00`|`Other MMORPG and Strategy`|
+|[R6S External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/711453-r6s-external-base.html)|`2026-02-23 00:28:00`|`Rainbow Six Siege`|
+|[Question about Internal Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739756-question-internal-injection.html)|`2026-02-23 00:27:00`|`Garry's Mod`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-02-23 00:25:00`|`Grand Theft Auto V`|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-02-23 00:25:00`|`Marvel Rivals`|
 |[Triggerbot Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739703-triggerbot-prediction.html)|`2026-02-22 23:59:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-02-22 23:54:00`|`Rust`|
 |[Fivem Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739715-fivem-update.html)|`2026-02-22 23:52:00`|`Alternative Online Mods`|
