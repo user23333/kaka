@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-23 03:16:00`|`Overwatch`|
+|[Chams not covering all players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738861-chams-covering-players.html)|`2026-02-23 03:15:00`|`Counter-Strike 2`|
+|[PdFwKrnl&#46;sys Detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/704764-pdfwkrnl-sys-detected.html)|`2026-02-23 03:11:00`|`Anti-Cheat Bypass`|
+|[Perfect &#91;External&#93; Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735731-perfect-external-chams.html)|`2026-02-23 03:11:00`|`Counter-Strike 2`|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-23 03:08:00`|`Marvel Rivals`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-23 03:00:00`|`Escape from Tarkov`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-23 02:58:00`|`Grand Theft Auto V`|
 |[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-23 02:53:00`|`Counter-Strike 2`|
