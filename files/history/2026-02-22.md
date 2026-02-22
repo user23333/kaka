@@ -39,9 +39,17 @@
 |2|[FarFarWest&#45;Win64&#45;Shipping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53247)|`2026-02-22 12:27:52`|
 |1|[Insurgency&#95;x64&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53246)|`2026-02-22 12:27:52`|
 |4|[Spiritvale Bot 1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53245)|`2026-02-22 12:27:52`|
+|1|[TRCheatv1&#46;7&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53251)|`2026-02-22 14:09:42`|
+|6|[OutOfAction Internal &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53250)|`2026-02-22 14:09:42`|
+|1|[Spiritvale Bot 1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53249)|`2026-02-22 14:09:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-22 14:09:00`|`Apex Legends`|
+|[ArcRadar &#45; DMA Radar for Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734521-arcradar-dma-radar-arc-raiders.html)|`2026-02-22 14:08:00`|`ARC Raiders`|
+|[Pixmenu &#45; An opensource colorbot with config menu&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/735400-pixmenu-opensource-colorbot-config-menu.html)|`2026-02-22 14:08:00`|`Valorant`|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-22 14:04:00`|`Other FPS Games`|
+|[How to spoof 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738228-spoof-152-a.html)|`2026-02-22 13:44:00`|`Valorant`|
 |[Is there any safe bedrock cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/731555-safe-bedrock-cheat.html)|`2026-02-22 13:22:00`|`Minecraft`|
 |[First permanent ban I've gotten using cheats, RICOCHET is going crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728851-permanent-ban-ive-gotten-using-cheats-ricochet-crazy.html)|`2026-02-22 13:16:00`|`Call of Duty: Black Ops 7`|
 |[Internal ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-22 13:03:00`|`Combat Master`|
