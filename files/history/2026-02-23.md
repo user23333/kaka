@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current state of memory aim & mouse input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739789-current-memory-aim-mouse-input.html)|`2026-02-23 05:08:00`|`Apex Legends`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2026-02-23 05:06:00`|`Alternative Online Mods`|
 |[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-02-23 04:55:00`|`Call of Duty: Black Ops 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-23 04:54:00`|`Other FPS Games`|
 |[A perk on a weapon with an impossible number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/739721-perk-weapon-impossible.html)|`2026-02-23 04:48:00`|`Escape from Tarkov`|
