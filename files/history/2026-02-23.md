@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2026-02-23 05:54:00`|`Other FPS Games`|
+|[C&#43;&#43; Header&#45;Only Kernel&#45;Mode Obfuscation Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/737418-header-kernel-mode-obfuscation-library.html)|`2026-02-23 05:52:00`|`C and C++`|
+|[Undetected C&#35; Roblox External &#91;ALWAYS UDPATED&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/739797-undetected-roblox-external-udpated.html)|`2026-02-23 05:48:00`|`Roblox`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-23 05:45:00`|`Other FPS Games`|
 |[Anti anti&#45;cheat tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739757-anti-anti-cheat-tips.html)|`2026-02-23 05:30:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-23 05:21:00`|`Call of Duty: Black Ops 7`|
 |[Current state of memory aim & mouse input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739789-current-memory-aim-mouse-input.html)|`2026-02-23 05:08:00`|`Apex Legends`|
