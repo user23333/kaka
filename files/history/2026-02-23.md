@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-23 03:00:00`|`Escape from Tarkov`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-23 02:58:00`|`Grand Theft Auto V`|
+|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-23 02:53:00`|`Counter-Strike 2`|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2026-02-23 02:49:00`|`Call of Duty 6: Modern Warfare 2`|
+|[2 pc OBS UDP setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739768-2-pc-obs-udp-setup.html)|`2026-02-23 02:49:00`|`Valorant`|
+|[PUBG Blindspot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playerunknown-s-battlegrounds/737013-pubg-blindspot.html)|`2026-02-23 02:47:00`|`Playerunknown's Battlegrounds`|
+|[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-02-23 02:46:00`|`Paladins`|
 |[BattleBit Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/485886-battlebit-remastered.html)|`2026-02-23 02:29:00`|`BattleBit Remastered`|
 |[API Gateway routes — anyone mapped the endpoints?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739171-api-gateway-routes-mapped-endpoints.html)|`2026-02-23 02:28:00`|`ARC Raiders`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-02-23 02:14:00`|`Counter-Strike 2 Releases`|
