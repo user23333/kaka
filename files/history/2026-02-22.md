@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-02-22 18:06:00`|`Call of Duty: Black Ops 7`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-22 17:59:00`|`Other MMORPG and Strategy`|
 |[Is WutheringWaves F2P cheating dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739322-wutheringwaves-f2p-cheating-dead.html)|`2026-02-22 17:35:00`|`Other MMORPG and Strategy`|
 |[Triggerbot Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739703-triggerbot-prediction.html)|`2026-02-22 17:17:00`|`Valorant`|
 |[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-02-22 17:00:00`|`Other MMORPG and Strategy`|
