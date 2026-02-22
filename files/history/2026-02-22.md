@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-22 23:00:00`|`Overwatch`|
+|[Palia &#45; Plushie Duplication or Spawning Possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/714333-palia-plushie-duplication-spawning.html)|`2026-02-22 22:53:00`|`Palia`|
+|[Tips for a begginer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/739736-tips-begginer.html)|`2026-02-22 22:53:00`|`Introductions`|
+|[Dumper&#45;7 &#45; A universal, automatic Unreal Engine SDK Generator for UE4 and UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/594092-dumper-7-universal-automatic-unreal-engine-sdk-generator-ue4-ue5.html)|`2026-02-22 22:51:00`|`Unreal Engine 4`|
 |[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-22 22:28:00`|`Counter-Strike 2 Releases`|
 |[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739137-silent-aim.html)|`2026-02-22 22:24:00`|`Rust`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739733-offsets.html)|`2026-02-22 22:23:00`|`Rust`|
