@@ -26,9 +26,17 @@
 |21|[Instalocker For Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53243)|`2026-02-23 00:00:34`|
 |5|[&#46;sys file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53242)|`2026-02-23 00:00:34`|
 |1|[Spiritvale Bot 1&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53253)|`2026-02-23 00:34:20`|
+|2|[Heartopia Buddy&#33; 5&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53256)|`2026-02-23 04:13:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dumping valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739780-dumping-valorant.html)|`2026-02-23 04:10:00`|`Valorant`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-23 04:10:00`|`Marvel Rivals`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-02-23 04:09:00`|`Battlefield 4`|
+|[Can I spoof my PC from a HWID ban with an HP motherboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/739534-spoof-pc-hwid-ban-hp-motherboard.html)|`2026-02-23 04:05:00`|`Marvel Rivals`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-02-23 04:03:00`|`Other Games`|
+|[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-02-23 04:03:00`|`Marvel Rivals`|
+|[Razer Synapse Jitter macro that doesn't drift and actually worksl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/713579-razer-synapse-jitter-macro-doesnt-drift-actually-worksl.html)|`2026-02-23 04:02:00`|`Apex Legends`|
 |[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-23 03:54:00`|`Other FPS Games`|
 |[Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739739-inventory-changer.html)|`2026-02-23 03:52:00`|`Counter-Strike 2`|
 |[C/C&#43;&#43; Code Obfuscation Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/729138-code-obfuscation-techniques.html)|`2026-02-23 03:50:00`|`C and C++`|
