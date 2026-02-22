@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti anti&#45;cheat tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739757-anti-anti-cheat-tips.html)|`2026-02-23 05:30:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-23 05:21:00`|`Call of Duty: Black Ops 7`|
 |[Current state of memory aim & mouse input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739789-current-memory-aim-mouse-input.html)|`2026-02-23 05:08:00`|`Apex Legends`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2026-02-23 05:06:00`|`Alternative Online Mods`|
 |[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-02-23 04:55:00`|`Call of Duty: Black Ops 2`|
