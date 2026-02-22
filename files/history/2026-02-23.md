@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-02-23 04:55:00`|`Call of Duty: Black Ops 2`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-23 04:54:00`|`Other FPS Games`|
+|[A perk on a weapon with an impossible number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/739721-perk-weapon-impossible.html)|`2026-02-23 04:48:00`|`Escape from Tarkov`|
+|[If I get banned on a Steam family member account is the parent account banned too?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733850-banned-steam-family-account-parent-account-banned.html)|`2026-02-23 04:44:00`|`ARC Raiders`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-23 04:35:00`|`Counter-Strike 2`|
 |[anti silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715322-anti-silent-aim.html)|`2026-02-23 04:35:00`|`Alternative Online Mods`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-02-23 04:34:00`|`Other FPS Games`|
