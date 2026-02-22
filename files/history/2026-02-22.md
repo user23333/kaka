@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-02-22 22:28:00`|`Counter-Strike 2 Releases`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739137-silent-aim.html)|`2026-02-22 22:24:00`|`Rust`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739733-offsets.html)|`2026-02-22 22:23:00`|`Rust`|
 |[HOW DO I LEVEL UP IN LS CAR MEET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739107-level-ls-car-meet.html)|`2026-02-22 21:50:00`|`Grand Theft Auto V`|
 |[Native Spoofing/Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739460-native-spoofing-hooking.html)|`2026-02-22 21:49:00`|`Alternative Online Mods`|
