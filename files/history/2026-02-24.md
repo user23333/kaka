@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-02-24 04:03:00`|`Rainbow Six Siege`|
+|[Implementing humanized projectile prediction & movement logic for OW2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739929-implementing-humanized-projectile-prediction-movement-logic-ow2.html)|`2026-02-24 03:47:00`|`Overwatch`|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-24 03:43:00`|`Apex Legends`|
+|[Who has the signatures GameplayCamHolder and GameplayCamTarget?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739931-signatures-gameplaycamholder-gameplaycamtarget.html)|`2026-02-24 03:42:00`|`Alternative Online Mods`|
+|[Internal silent aim &#45; need help finding the right sub&#45;function to hook &#40;Feb 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739930-internal-silent-aim-help-finding-sub-function-hook-feb-2026-a.html)|`2026-02-24 03:41:00`|`Counter-Strike 2`|
+|[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-02-24 03:39:00`|`Sea of Thieves`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-02-24 03:17:00`|`HELLDIVERS 2`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2026-02-24 03:16:00`|`Anti-Cheat Bypass`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-24 03:14:00`|`Overwatch`|
 |[Shimmy Impact 6&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/737835-shimmy-impact-6-3-a.html)|`2026-02-24 03:07:00`|`Genshin Impact`|
