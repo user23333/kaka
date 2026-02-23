@@ -24,9 +24,22 @@
 |88|[TRCheatv1&#46;7&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53251)|`2026-02-24 00:07:50`|
 |17|[OutOfAction Internal &#40;latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53250)|`2026-02-24 00:07:50`|
 |12|[Spiritvale Bot 1&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53249)|`2026-02-24 00:07:50`|
+|1|[Spiritvale Bot 1&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53275)|`2026-02-24 06:57:11`|
+|1|[Nuclear Option Trainer BepInEx  20features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53274)|`2026-02-24 06:57:11`|
+|2|[StrafeHelper Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53273)|`2026-02-24 06:57:11`|
+|5|[StrafeHelper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53272)|`2026-02-24 06:57:11`|
+|1|[Laura](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53267)|`2026-02-24 06:57:11`|
+|3|[SWBF2 Internal SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53265)|`2026-02-24 06:57:11`|
+|21|[Heartopia Buddy&#33; 5&#46;0&#46;1a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53264)|`2026-02-24 06:57:11`|
+|1|[strafe optimizer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53263)|`2026-02-24 06:57:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-24 06:53:00`|`Other MMORPG and Strategy`|
+|[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-02-24 06:41:00`|`Other Games`|
+|[Pixel Strike 3D Simple Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/739711-pixel-strike-3d-simple-cheat.html)|`2026-02-24 06:32:00`|`Half Life`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-24 06:30:00`|`Counter-Strike 2`|
+|[Hytale CT 02/22/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739814-hytale-ct-02-22-2026-a.html)|`2026-02-24 06:30:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-24 05:31:00`|`Escape from Tarkov`|
 |[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-02-24 05:26:00`|`Apex Legends`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-24 05:28:00`|`Grand Theft Auto V`|
