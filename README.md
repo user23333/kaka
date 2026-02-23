@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-02-23 18:58:00`|`Apex Legends`|
+|[2 pc ethernet/LAN cable setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739558-2-pc-ethernet-lan-cable-setup.html)|`2026-02-23 18:56:00`|`Valorant`|
+|[Rocket League — Titles Spawner &#40;Full SRC&#41; — by KingMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721099-rocket-league-titles-spawner-src-kingmod.html)|`2026-02-23 18:25:00`|`Other Games`|
 |[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-23 18:05:00`|`Counter-Strike 2`|
 |[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-23 18:00:00`|`Rust`|
 |[Test Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739859-test-arduino.html)|`2026-02-23 17:10:00`|`Valorant`|
