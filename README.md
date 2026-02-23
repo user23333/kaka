@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-02-23 15:34:00`|`ARMA 3`|
+|[EPT hooks on page fault with AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739854-ept-hooks-page-fault-ac.html)|`2026-02-23 15:31:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-02-23 15:22:00`|`Other MMORPG and Strategy`|
+|[Valorant Temp Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/733200-valorant-temp-ban.html)|`2026-02-23 14:55:00`|`Valorant`|
 |[antiaim internal cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739851-antiaim-internal-cs2.html)|`2026-02-23 14:39:00`|`Counter-Strike 2`|
 |[how to make Vehicle spawnner Externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/731692-vehicle-spawnner-externally.html)|`2026-02-23 13:52:00`|`Alternative Online Mods`|
 |[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2026-02-23 13:39:00`|`Phasmophobia`|
