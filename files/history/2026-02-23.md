@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-23 18:05:00`|`Counter-Strike 2`|
+|[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-23 18:00:00`|`Rust`|
 |[Test Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739859-test-arduino.html)|`2026-02-23 17:10:00`|`Valorant`|
 |[CS2 External Radar &#45; ESP32S3/T7789 &#45; Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732715-cs2-external-radar-esp32s3-t7789-source-release.html)|`2026-02-23 17:05:00`|`Counter-Strike 2`|
 |[Vanguard flagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739857-vanguard-flagging.html)|`2026-02-23 16:54:00`|`Valorant`|
