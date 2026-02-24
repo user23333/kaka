@@ -14,6 +14,8 @@
 |8|[External R6 Aimbot &#43; ESP &#124; Outdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739695-external-r6-aimbot-esp-outdated.html)|`2026-02-24 15:14:10`|`rainbow-six-siege`|
 |6|[New multifunctional Apex source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738991-multifunctional-apex-source-code.html)|`2026-02-24 15:58:36`|`apex-legends`|
 |6|[internal cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739113-internal-cs2-cheat.html)|`2026-02-24 18:27:51`|`counter-strike-2-a`|
+|20|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-24 19:11:13`|`overwatch`|
+|16|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-24 19:11:13`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -49,6 +51,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard flagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739857-vanguard-flagging.html)|`2026-02-24 19:03:00`|`Valorant`|
+|[INACCESSIBLE&#95;BOOT&#95;DEVICE BSOD after Valorant install](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734270-inaccessible_boot_device-bsod-valorant-install.html)|`2026-02-24 18:53:00`|`Valorant`|
+|[Test Arduino](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739859-test-arduino.html)|`2026-02-24 18:35:00`|`Valorant`|
+|[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-24 18:11:00`|`Escape from Tarkov`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-02-24 18:08:00`|`Marvel Rivals`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-02-24 18:21:00`|`Battlefield 4`|
 |[Arc Raiders Cracked Version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737246-arc-raiders-cracked-version.html)|`2026-02-24 18:08:00`|`ARC Raiders`|
 |[Current state of memory aim & mouse input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739789-current-memory-aim-mouse-input.html)|`2026-02-24 17:56:00`|`Apex Legends`|
