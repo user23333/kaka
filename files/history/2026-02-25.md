@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-25 07:53:00`|`Other FPS Games`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-25 07:45:00`|`Grand Theft Auto V`|
 |[guess im not good enough at this](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740068-guess-im.html)|`2026-02-25 07:31:00`|`Grand Theft Auto V`|
 |[External exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740109-external-exploits.html)|`2026-02-25 07:30:00`|`Alternative Online Mods`|
 |[Is Pseudo&#45;C better? or ASM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/739937-pseudo-asm.html)|`2026-02-25 06:52:00`|`Assembly`|
