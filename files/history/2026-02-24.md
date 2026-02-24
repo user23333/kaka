@@ -51,6 +51,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot targeting wrong position when shooting from vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740014-aimbot-targeting-wrong-position-shooting-vehicle.html)|`2026-02-24 20:24:00`|`Alternative Online Mods`|
+|[Native Spoofing/Hooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739460-native-spoofing-hooking.html)|`2026-02-24 20:13:00`|`Alternative Online Mods`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-24 19:57:00`|`Red Dead Redemption 2`|
 |[I am Back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740010-am.html)|`2026-02-24 19:16:00`|`Introductions`|
 |[Vanguard flagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739857-vanguard-flagging.html)|`2026-02-24 19:03:00`|`Valorant`|
 |[INACCESSIBLE&#95;BOOT&#95;DEVICE BSOD after Valorant install](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734270-inaccessible_boot_device-bsod-valorant-install.html)|`2026-02-24 18:53:00`|`Valorant`|
