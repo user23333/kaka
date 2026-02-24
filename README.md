@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Pseudo&#45;C better? or ASM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/739937-pseudo-asm.html)|`2026-02-25 06:52:00`|`Assembly`|
+|[issue with map parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739719-issue-map-parsing.html)|`2026-02-25 06:44:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-02-25 06:41:00`|`Counter-Strike 2`|
 |[Kdmapper detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739465-kdmapper-detected.html)|`2026-02-25 06:42:00`|`Apex Legends`|
 |[dynamic skeletons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740101-dynamic-skeletons.html)|`2026-02-25 06:41:00`|`Rust`|
 |[Rounds &#45; Bepinex Card Select](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740100-rounds-bepinex-card-select.html)|`2026-02-25 06:40:00`|`Other Games`|
