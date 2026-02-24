@@ -11,6 +11,8 @@
 |18|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-25 00:38:57`|`counter-strike-2-a`|
 |6|[New multifunctional Apex source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738991-multifunctional-apex-source-code.html)|`2026-02-25 00:38:57`|`apex-legends`|
 |6|[internal cs2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739113-internal-cs2-cheat.html)|`2026-02-25 00:38:58`|`counter-strike-2-a`|
+|7|[CS2 Internal Cheat — ESP, Aimbot, Triggerbot, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739763-cs2-internal-cheat-esp-aimbot-triggerbot-radar.html)|`2026-02-25 03:31:17`|`counter-strike-2-a`|
+|8|[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-25 03:31:17`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-25 03:26:00`|`Other MMORPG and Strategy`|
+|[External R6 Aimbot &#43; ESP &#124; Outdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739695-external-r6-aimbot-esp-outdated.html)|`2026-02-25 03:18:00`|`Rainbow Six Siege`|
+|[New System &#45; New Account, Still HWID banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739995-system-account-hwid-banned.html)|`2026-02-25 03:18:00`|`Anti-Cheat Bypass`|
+|[Super Battle Golf &#45; Unlock All &#40;Cosmetics, Dances, Achievements&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740063-super-battle-golf-unlock-cosmetics-dances-achievements.html)|`2026-02-25 03:18:00`|`Other Games`|
+|[Unable to avoid HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740058-unable-avoid-hwid-ban.html)|`2026-02-25 03:15:00`|`Apex Legends`|
+|[Windrose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739072-windrose.html)|`2026-02-25 03:06:00`|`Other Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-02-25 03:03:00`|`League of Legends`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-25 02:33:00`|`Other Games`|
 |[Getting Server IP Externally FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740057-getting-server-ip-externally-fivem.html)|`2026-02-25 02:31:00`|`Alternative Online Mods`|
 |[Carbon Spoofer Driver Leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740025-carbon-spoofer-driver-leak.html)|`2026-02-25 02:27:00`|`Anti-Cheat Bypass`|
