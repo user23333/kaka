@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-25 03:57:00`|`Overwatch`|
+|[HELP NEW UPDATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740056-help-update.html)|`2026-02-25 03:55:00`|`Counter-Strike 2`|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-25 03:52:00`|`Overwatch`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-25 03:49:00`|`Counter-Strike 2`|
+|[API Gateway routes — anyone mapped the endpoints?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739171-api-gateway-routes-mapped-endpoints.html)|`2026-02-25 03:38:00`|`ARC Raiders`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-02-25 03:26:00`|`Other MMORPG and Strategy`|
 |[External R6 Aimbot &#43; ESP &#124; Outdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739695-external-r6-aimbot-esp-outdated.html)|`2026-02-25 03:18:00`|`Rainbow Six Siege`|
 |[New System &#45; New Account, Still HWID banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739995-system-account-hwid-banned.html)|`2026-02-25 03:18:00`|`Anti-Cheat Bypass`|
