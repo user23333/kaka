@@ -12,6 +12,7 @@
 |48|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-24 00:07:50`|`other-mmorpg-and-strategy`|
 |8|[VehButNot Ring 3 API Hooking via HW Breakpoints &#43; KiUED Pre&#45;Filter &#40;no VEH, no detour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739366-vehbutnot-ring-3-api-hooking-via-hw-breakpoints-kiued-pre-filter-veh-detour.html)|`2026-02-24 00:07:50`|`anti-cheat-bypass`|
 |8|[External R6 Aimbot &#43; ESP &#124; Outdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739695-external-r6-aimbot-esp-outdated.html)|`2026-02-24 15:14:10`|`rainbow-six-siege`|
+|6|[New multifunctional Apex source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738991-multifunctional-apex-source-code.html)|`2026-02-24 15:58:36`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -47,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-24 15:55:00`|`Rust`|
+|[Foxhole DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736069-foxhole-dma.html)|`2026-02-24 15:45:00`|`Other MMORPG and Strategy`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-02-24 15:36:00`|`Call of Duty: Black Ops 7`|
+|[XBOX Black ops 2 Tool &#43; Custom camo &#43; Wireframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735507-xbox-black-ops-2-tool-custom-camo-wireframe.html)|`2026-02-24 15:35:00`|`Call of Duty: Black Ops 2`|
 |[Internal ESP &#43; Aimbot /](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-02-24 15:06:00`|`Combat Master`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-02-24 15:03:00`|`Other FPS Games`|
 |[help &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740003-help.html)|`2026-02-24 14:46:00`|`Introductions`|
