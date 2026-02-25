@@ -12,6 +12,7 @@
 |6|[What are they using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739166-using.html)|`2026-02-26 00:42:11`|`arc-raiders`|
 |5|[Cheat GTA V ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739164-cheat-gta-enhanced.html)|`2026-02-26 00:42:11`|`grand-theft-auto-v`|
 |5|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-26 02:38:44`|`counter-strike-2-a`|
+|17|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-02-26 03:35:12`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740144-spectator-list.html)|`2026-02-26 03:31:00`|`Alternative Online Mods`|
+|[Driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739616-driver-help.html)|`2026-02-26 03:31:00`|`Anti-Cheat Bypass`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-26 03:28:00`|`Other MMORPG and Strategy`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-02-26 03:21:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-26 03:20:00`|`Overwatch`|
+|[SastashaFied Iw4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/730992-sastashafied-iw4x-multihack.html)|`2026-02-26 03:16:00`|`Call of Duty 6: Modern Warfare 2`|
+|[VCloud ONE searching 5 Test Users](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740242-vcloud-searching-5-test-users.html)|`2026-02-26 03:15:00`|`Valorant`|
+|[CSGOInput class and Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736541-csgoinput-class-bhop.html)|`2026-02-26 03:11:00`|`Counter-Strike 2`|
+|[What are they using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739166-using.html)|`2026-02-26 03:11:00`|`ARC Raiders`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-02-26 02:32:00`|`Counter-Strike 2 Releases`|
 |[CS2 Weapon icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740215-cs2-weapon-icons.html)|`2026-02-26 02:31:00`|`Counter-Strike 2`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-02-26 02:29:00`|`HELLDIVERS 2`|
