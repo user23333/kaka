@@ -11,6 +11,7 @@
 |8|[VehButNot Ring 3 API Hooking via HW Breakpoints &#43; KiUED Pre&#45;Filter &#40;no VEH, no detour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739366-vehbutnot-ring-3-api-hooking-via-hw-breakpoints-kiued-pre-filter-veh-detour.html)|`2026-02-26 00:42:11`|`anti-cheat-bypass`|
 |6|[What are they using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739166-using.html)|`2026-02-26 00:42:11`|`arc-raiders`|
 |5|[Cheat GTA V ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739164-cheat-gta-enhanced.html)|`2026-02-26 00:42:11`|`grand-theft-auto-v`|
+|5|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-26 02:38:44`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-02-26 02:32:00`|`Counter-Strike 2 Releases`|
+|[CS2 Weapon icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740215-cs2-weapon-icons.html)|`2026-02-26 02:31:00`|`Counter-Strike 2`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-02-26 02:29:00`|`HELLDIVERS 2`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-02-26 02:23:00`|`Counter-Strike 2`|
+|[SYNC TREE CODE &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740212-sync-tree-code-external.html)|`2026-02-26 02:18:00`|`Alternative Online Mods`|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-02-26 02:13:00`|`Overwatch`|
 |[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-02-26 01:24:00`|`Other Games`|
 |[Spoof Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740171-spoof-driver.html)|`2026-02-26 01:22:00`|`Anti-Cheat Bypass`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-02-26 01:20:00`|`Sea of Thieves`|
