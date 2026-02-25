@@ -53,6 +53,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-25 20:03:00`|`Counter-Strike 2`|
+|[processhacker mcp &#40; this is dynamic mcp server for runtime analysis and process hacki](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739579-processhacker-mcp-dynamic-mcp-server-runtime-analysis-process-hacki.html)|`2026-02-25 19:55:00`|`Anti-Cheat Bypass`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-02-25 19:53:00`|`Grand Theft Auto V`|
+|[which non&#45;solo heists/missions can I do solo using Yim ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739403-solo-heists-missions-solo-using-yim.html)|`2026-02-25 19:47:00`|`Grand Theft Auto V`|
 |[Spoof Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740171-spoof-driver.html)|`2026-02-25 19:35:00`|`Anti-Cheat Bypass`|
 |[C&#43;&#43; Header&#45;Only Kernel&#45;Mode Obfuscation Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/737418-header-kernel-mode-obfuscation-library.html)|`2026-02-25 19:26:00`|`C and C++`|
 |[adheslime&#46;dll :&#41; ac native layer rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740108-adheslime-dll-ac-native-layer-rebuilt.html)|`2026-02-25 19:15:00`|`Alternative Online Mods`|
