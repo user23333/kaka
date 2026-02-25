@@ -15,6 +15,7 @@
 |8|[Decryptions and Offsets in Under 10 Minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739589-decryptions-offsets-10-minutes.html)|`2026-02-25 03:31:17`|`rust`|
 |5|[What are they using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739166-using.html)|`2026-02-25 10:11:16`|`arc-raiders`|
 |12|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-02-25 15:37:18`|`counter-strike-2-releases`|
+|5|[Cheat GTA V ENHANCED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739164-cheat-gta-enhanced.html)|`2026-02-25 21:26:14`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -53,6 +54,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[spoofing IoGetDmaAdapter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/740179-spoofing-iogetdmaadapter.html)|`2026-02-25 21:19:00`|`General Programming and Reversing`|
+|[Updated from my last post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738198-updated-post.html)|`2026-02-25 21:07:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-25 20:03:00`|`Counter-Strike 2`|
 |[processhacker mcp &#40; this is dynamic mcp server for runtime analysis and process hacki](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739579-processhacker-mcp-dynamic-mcp-server-runtime-analysis-process-hacki.html)|`2026-02-25 19:55:00`|`Anti-Cheat Bypass`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-02-25 19:53:00`|`Grand Theft Auto V`|
