@@ -47,9 +47,16 @@
 |3|[Once Human Source Part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53313)|`2026-02-25 15:37:18`|
 |3|[Palia Simple Ore ESP v25](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53311)|`2026-02-25 15:37:18`|
 |0|[sdk latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53315)|`2026-02-25 16:08:55`|
+|0|[Spoof&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53318)|`2026-02-25 19:37:48`|
+|0|[Kernelcloak v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53317)|`2026-02-25 19:37:48`|
+|8|[Sleepy's Internal &#45; 2&#46;21&#46;0&#46;0&#46;146948 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53316)|`2026-02-25 19:37:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoof Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740171-spoof-driver.html)|`2026-02-25 19:35:00`|`Anti-Cheat Bypass`|
+|[C&#43;&#43; Header&#45;Only Kernel&#45;Mode Obfuscation Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/737418-header-kernel-mode-obfuscation-library.html)|`2026-02-25 19:26:00`|`C and C++`|
+|[adheslime&#46;dll :&#41; ac native layer rebuilt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740108-adheslime-dll-ac-native-layer-rebuilt.html)|`2026-02-25 19:15:00`|`Alternative Online Mods`|
+|[Velocity graph &#40;CS2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740038-velocity-graph-cs2.html)|`2026-02-25 19:09:00`|`Counter-Strike 2`|
 |[Suche Betatester](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/740165-suche-betatester.html)|`2026-02-25 18:42:00`|`Forum General`|
 |[Hell Let Loose DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701419-hell-loose-dma.html)|`2026-02-25 17:31:00`|`Other FPS Games`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-25 17:29:00`|`Garry's Mod`|
