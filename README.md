@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-26 07:56:00`|`Apex Legends`|
+|[Read&#45;Only VisCheck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740290-read-vischeck.html)|`2026-02-26 07:51:00`|`Counter-Strike 2`|
+|[laggy external esp fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740289-laggy-external-esp-fix.html)|`2026-02-26 07:48:00`|`Counter-Strike 2`|
+|[Ashe Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/734681-ashe-triggerbot.html)|`2026-02-26 07:44:00`|`Overwatch`|
 |[Arma Reforger get bullet velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/739359-arma-reforger-bullet-velocity.html)|`2026-02-26 07:25:00`|`ARMA 3`|
 |[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-02-26 07:25:00`|`Alternative Online Mods`|
 |[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-02-26 07:24:00`|`Counter-Strike 2 Releases`|
