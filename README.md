@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-02-26 04:56:00`|`Call of Duty: Black Ops 2`|
+|[some of ya legends find me money exploit on eliteleplus server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/736205-ya-legends-money-exploit-eliteleplus-server.html)|`2026-02-26 04:56:00`|`Garry's Mod`|
+|[Unable to take control of vehicle entities on certain servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740173-unable-control-vehicle-entities-servers.html)|`2026-02-26 04:51:00`|`Alternative Online Mods`|
+|[&#91;WORKING&#93; FemboyHook &#45; CS2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740250-femboyhook-cs2-internal-esp.html)|`2026-02-26 04:49:00`|`Counter-Strike 2`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2026-02-26 04:48:00`|`Other Games`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-26 04:36:00`|`Apex Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-02-26 04:29:00`|`Rainbow Six Siege`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-02-26 04:28:00`|`Other FPS Games`|
