@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arma Reforger get bullet velocity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/739359-arma-reforger-bullet-velocity.html)|`2026-02-26 07:25:00`|`ARMA 3`|
+|[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-02-26 07:25:00`|`Alternative Online Mods`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-02-26 07:24:00`|`Counter-Strike 2 Releases`|
+|[Looking for up&#45;to&#45;date FiveM Lua Offsets &#40;luaL&#95;loadstring, lua&#95;pcall, lua&#95;state, etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740274-looking-date-fivem-lua-offsets-lual_loadstring-lua_pcall-lua_state-etc.html)|`2026-02-26 07:14:00`|`Alternative Online Mods`|
+|[Tarkov Internal &#45; Manual Map &#43; BattlEye Evasion Advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740197-tarkov-internal-manual-map-battleye-evasion-advice.html)|`2026-02-26 07:14:00`|`Escape from Tarkov`|
+|[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-02-26 07:13:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Playing valorant while banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740284-playing-valorant-banned.html)|`2026-02-26 07:12:00`|`Valorant`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-02-26 07:02:00`|`Other FPS Games`|
 |[Memory Struct Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-memory-struct-offset.html)|`2026-02-26 07:00:00`|`Valorant`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-02-26 06:43:00`|`Other FPS Games`|
