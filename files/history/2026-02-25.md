@@ -54,6 +54,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-25 23:25:00`|`Apex Legends`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-25 22:27:00`|`Call of Duty: Black Ops 7`|
 |[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-02-25 22:26:00`|`HELLDIVERS 2`|
 |[makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740181-makcu.html)|`2026-02-25 22:16:00`|`Rainbow Six Siege`|
