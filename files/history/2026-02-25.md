@@ -50,6 +50,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Suche Betatester](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/740165-suche-betatester.html)|`2026-02-25 18:42:00`|`Forum General`|
 |[Hell Let Loose DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/701419-hell-loose-dma.html)|`2026-02-25 17:31:00`|`Other FPS Games`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-02-25 17:29:00`|`Garry's Mod`|
 |[6&#46;3&#46;0 GI BAN/Banwave Bypass &#40;temporary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/734835-6-3-0-gi-ban-banwave-bypass-temporary.html)|`2026-02-25 17:28:00`|`Genshin Impact`|
