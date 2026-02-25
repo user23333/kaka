@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-02-26 03:59:00`|`Escape from Tarkov`|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-02-26 03:58:00`|`Garry's Mod`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-02-26 03:54:00`|`Other FPS Games`|
+|[Help me figure out how to abuse the return system &#40;Dupe&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739315-help-figure-abuse-return-system-dupe.html)|`2026-02-26 03:54:00`|`ARC Raiders`|
+|[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-02-26 03:52:00`|`Anti-Cheat Bypass`|
+|[Does r6 Hwid ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740214-r6-hwid-ban.html)|`2026-02-26 03:51:00`|`Rainbow Six Siege`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-02-26 03:50:00`|`Anti-Cheat Bypass`|
+|[CLOCK&#95;WATCHDOG&#95;TIMEOUT when restoring custom EPTP after Hyper&#45;V's VMEXIT handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740244-clock_watchdog_timeout-restoring-custom-eptp-hyper-vs-vmexit-handler.html)|`2026-02-26 03:49:00`|`Anti-Cheat Bypass`|
 |[Spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740144-spectator-list.html)|`2026-02-26 03:31:00`|`Alternative Online Mods`|
 |[Driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739616-driver-help.html)|`2026-02-26 03:31:00`|`Anti-Cheat Bypass`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-26 03:28:00`|`Other MMORPG and Strategy`|
