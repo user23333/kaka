@@ -24,9 +24,19 @@
 |367|[Sleepy's Internal &#45; 2&#46;21&#46;0&#46;0&#46;146948 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53316)|`2026-02-27 00:28:18`|
 |40|[sdk latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53315)|`2026-02-27 00:28:18`|
 |325|[Khytt External v2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53314)|`2026-02-27 00:28:18`|
+|1|[KaizerPool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53325)|`2026-02-27 06:18:03`|
+|3|[Bitcraft&#95;Automation&#95;Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53323)|`2026-02-27 06:18:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone have Cheat Multi Theft Auto &#45; GTA SA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740123-cheat-multi-theft-auto-gta-sa.html)|`2026-02-27 06:17:00`|`Other Games`|
+|[KaizerPool &#45; minimal trajectory suite for Shooter's Pool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740217-kaizerpool-minimal-trajectory-suite-shooters-pool.html)|`2026-02-27 06:15:00`|`Other Games`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-02-27 06:14:00`|`Counter-Strike 2`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-02-27 06:07:00`|`Other MMORPG and Strategy`|
+|[Evelyn &#45; Simple Unlocker for Dead By Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740210-evelyn-simple-unlocker-dead-daylight.html)|`2026-02-27 06:06:00`|`Other FPS Games`|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-02-27 06:03:00`|`Counter-Strike 2 Releases`|
+|[ARC Raiders Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740374-arc-raiders-dumping.html)|`2026-02-27 06:00:00`|`ARC Raiders`|
+|[BitCraft AutoCrafter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740199-bitcraft-autocrafter.html)|`2026-02-27 05:57:00`|`Other MMORPG and Strategy`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-02-27 05:47:00`|`Counter-Strike 2 Releases`|
 |[Hello, im new here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740395-hello-im.html)|`2026-02-27 05:39:00`|`Introductions`|
 |[DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/740393-dma.html)|`2026-02-27 05:31:00`|`Call of Duty: Black Ops 2`|
