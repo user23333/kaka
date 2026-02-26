@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1pc cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740316-1pc-cheating.html)|`2026-02-26 15:11:00`|`Valorant`|
+|[Get Quick Offsets & Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740317-quick-offsets-dumping.html)|`2026-02-26 15:07:00`|`Valorant`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-02-26 14:58:00`|`Deadlock`|
 |[Trace Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/738839-trace-issue.html)|`2026-02-26 14:08:00`|`Deadlock`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-02-26 13:36:00`|`Counter-Strike 2 Releases`|
 |[Python &#124; Simple AimBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707836-python-simple-aimbot.html)|`2026-02-26 13:27:00`|`Counter-Strike 2 Releases`|
