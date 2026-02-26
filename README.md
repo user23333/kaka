@@ -11,6 +11,7 @@
 |8|[CS2 Internal Cheat — ESP, Aimbot, Triggerbot, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739763-cs2-internal-cheat-esp-aimbot-triggerbot-radar.html)|`2026-02-27 00:28:18`|`counter-strike-2-a`|
 |8|[VehButNot Ring 3 API Hooking via HW Breakpoints &#43; KiUED Pre&#45;Filter &#40;no VEH, no detour](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739366-vehbutnot-ring-3-api-hooking-via-hw-breakpoints-kiued-pre-filter-veh-detour.html)|`2026-02-27 00:28:18`|`anti-cheat-bypass`|
 |5|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-27 00:28:18`|`counter-strike-2-a`|
+|18|[Far Far West Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739383-west-demo.html)|`2026-02-27 07:46:58`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypass vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740400-bypass-vgc.html)|`2026-02-27 07:46:00`|`Valorant`|
+|[External R6 Aimbot &#43; ESP &#124; Outdated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/739695-external-r6-aimbot-esp-outdated.html)|`2026-02-27 07:33:00`|`Rainbow Six Siege`|
+|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-02-27 07:32:00`|`Marvel Rivals`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-02-27 07:10:00`|`Payday 3`|
 |[kernel mouse event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740335-kernel-mouse-event.html)|`2026-02-27 07:03:00`|`Counter-Strike 2`|
 |[Createmove hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740406-createmove-hook.html)|`2026-02-27 06:37:00`|`Counter-Strike 2`|
