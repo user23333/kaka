@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dear friends, I want to teach myself to become a cheat developer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/740159-dear-friends-teach-cheat-developer.html)|`2026-02-27 04:54:00`|`C and C++`|
+|[I'd like a clean and simple internal base&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740381-id-clean-simple-internal-base.html)|`2026-02-27 04:44:00`|`Counter-Strike 2`|
+|[I have reached 10k rep&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714190-reached-10k-rep.html)|`2026-02-27 04:42:00`|`Off Topic`|
+|[MONITOR EDID SPOOF](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737214-monitor-edid-spoof.html)|`2026-02-27 04:37:00`|`Anti-Cheat Bypass`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-02-27 04:37:00`|`Counter-Strike 2`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-27 04:29:00`|`Other MMORPG and Strategy`|
 |[Would like some feedback on GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740155-feedback-gui.html)|`2026-02-27 04:09:00`|`Call of Duty: Black Ops 7`|
 |[Palia &#45; Plushie Duplication or Spawning Possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/714333-palia-plushie-duplication-spawning.html)|`2026-02-27 04:05:00`|`Palia`|
 |[Far Far West Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739383-west-demo.html)|`2026-02-27 03:49:00`|`Other FPS Games`|
