@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[prevstate and curstate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/729076-prevstate-curstate.html)|`2026-02-26 22:24:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[HELP NEW UPDATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740056-help-update.html)|`2026-02-26 22:14:00`|`Counter-Strike 2`|
 |[Unable to avoid HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740058-unable-avoid-hwid-ban.html)|`2026-02-26 21:33:00`|`Apex Legends`|
 |[Movement recorder&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/736809-movement-recorder.html)|`2026-02-26 21:31:00`|`CounterStrike Source`|
 |[SmmInfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739758-smminfect.html)|`2026-02-26 21:27:00`|`Anti-Cheat Bypass`|
