@@ -31,9 +31,13 @@
 |1|[Esd&#46;AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53321)|`2026-02-26 11:42:15`|
 |1|[Fortnite SDK&#40; one s hdr sdk &#43; enums &#43; etc &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53322)|`2026-02-26 11:42:15`|
 |1|[Movement Recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53320)|`2026-02-26 11:42:15`|
+|1|[Cloakwork V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53338)|`2026-02-26 13:10:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/695972-eac-injector.html)|`2026-02-26 12:54:00`|`Anti-Cheat Bypass`|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/Polymorphism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-polymorphism.html)|`2026-02-26 12:51:00`|`C and C++`|
+|[Arknight Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734448-arknight-endfield.html)|`2026-02-26 12:40:00`|`Other MMORPG and Strategy`|
 |[Would like some feedback on GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740155-feedback-gui.html)|`2026-02-26 11:40:00`|`Call of Duty: Black Ops 7`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-26 11:31:00`|`Counter-Strike 2`|
 |[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-26 11:27:00`|`Counter-Strike 2`|
