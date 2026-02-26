@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unable to avoid HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740058-unable-avoid-hwid-ban.html)|`2026-02-26 21:33:00`|`Apex Legends`|
+|[Movement recorder&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/736809-movement-recorder.html)|`2026-02-26 21:31:00`|`CounterStrike Source`|
+|[SmmInfect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739758-smminfect.html)|`2026-02-26 21:27:00`|`Anti-Cheat Bypass`|
+|[Autocomplete mission Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740336-autocomplete-mission-code.html)|`2026-02-26 21:23:00`|`HELLDIVERS 2`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2026-02-26 20:20:00`|`Combat Arms`|
 |[kernel mouse event](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740335-kernel-mouse-event.html)|`2026-02-26 20:20:00`|`Counter-Strike 2`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-02-26 20:00:00`|`Other FPS Games`|
