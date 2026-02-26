@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[anyone got a roblox noclip external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/740350-roblox-noclip-external.html)|`2026-02-26 23:15:00`|`Roblox`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-02-26 23:02:00`|`Deadlock`|
 |[prevstate and curstate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/729076-prevstate-curstate.html)|`2026-02-26 22:24:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[HELP NEW UPDATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740056-help-update.html)|`2026-02-26 22:14:00`|`Counter-Strike 2`|
 |[Unable to avoid HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740058-unable-avoid-hwid-ban.html)|`2026-02-26 21:33:00`|`Apex Legends`|
