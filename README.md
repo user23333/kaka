@@ -26,9 +26,19 @@
 |325|[Khytt External v2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53314)|`2026-02-27 00:28:18`|
 |1|[KaizerPool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53325)|`2026-02-27 06:18:03`|
 |3|[Bitcraft&#95;Automation&#95;Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53323)|`2026-02-27 06:18:03`|
+|1|[Laurav1&#46;1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53329)|`2026-02-27 06:54:34`|
+|1|[AoE2DEControl &#40;AoE 2 Tool&#41; v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53328)|`2026-02-27 06:54:34`|
+|5|[FemboyHook Internal ESP v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53327)|`2026-02-27 06:54:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-02-27 06:54:00`|`Off Topic`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-02-27 06:52:00`|`Escape from Tarkov`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-02-27 06:48:00`|`Other MMORPG and Strategy`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-27 06:36:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-27 06:28:00`|`Other Games`|
+|[New System &#45; New Account, Still HWID banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739995-system-account-hwid-banned.html)|`2026-02-27 06:28:00`|`Anti-Cheat Bypass`|
+|[AoE2 DE &#45; Fog of War Removal &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/736532-aoe2-de-fog-war-removal-esp.html)|`2026-02-27 06:28:00`|`Age of Empires`|
 |[Anyone have Cheat Multi Theft Auto &#45; GTA SA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740123-cheat-multi-theft-auto-gta-sa.html)|`2026-02-27 06:17:00`|`Other Games`|
 |[KaizerPool &#45; minimal trajectory suite for Shooter's Pool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740217-kaizerpool-minimal-trajectory-suite-shooters-pool.html)|`2026-02-27 06:15:00`|`Other Games`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-02-27 06:14:00`|`Counter-Strike 2`|
