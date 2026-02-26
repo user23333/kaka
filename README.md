@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to ban evade on gmod perpheads and other servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/740389-ban-evade-gmod-perpheads-servers.html)|`2026-02-27 05:24:00`|`Garry's Mod`|
+|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-27 05:22:00`|`Counter-Strike 2`|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-27 05:19:00`|`Other FPS Games`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-27 05:17:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-02-27 05:15:00`|`Overwatch`|
 |[Dear friends, I want to teach myself to become a cheat developer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/740159-dear-friends-teach-cheat-developer.html)|`2026-02-27 04:54:00`|`C and C++`|
 |[I'd like a clean and simple internal base&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740381-id-clean-simple-internal-base.html)|`2026-02-27 04:44:00`|`Counter-Strike 2`|
 |[I have reached 10k rep&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/714190-reached-10k-rep.html)|`2026-02-27 04:42:00`|`Off Topic`|
