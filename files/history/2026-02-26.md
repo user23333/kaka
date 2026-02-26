@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xigncode 3 Bypass for Ghost Online VTC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740299-xigncode-3-bypass-ghost-online-vtc.html)|`2026-02-26 09:15:00`|`Anti-Cheat Bypass`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-02-26 09:10:00`|`Counter-Strike 2`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-02-26 07:56:00`|`Apex Legends`|
 |[Read&#45;Only VisCheck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740290-read-vischeck.html)|`2026-02-26 07:51:00`|`Counter-Strike 2`|
 |[laggy external esp fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740289-laggy-external-esp-fix.html)|`2026-02-26 07:48:00`|`Counter-Strike 2`|
