@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740332-visor.html)|`2026-02-27 18:19:00`|`Counter-Strike 2`|
+|[Is there a cs2 offset dumper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740458-cs2-offset-dumper.html)|`2026-02-27 18:18:00`|`Counter-Strike 2`|
+|[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2026-02-27 18:10:00`|`Battlefield Bad Company 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-02-27 17:58:00`|`Valorant`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-02-27 17:53:00`|`Grand Theft Auto V`|
 |[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2026-02-27 17:52:00`|`DayZ SA`|
 |[Cs2 external overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740456-cs2-external-overlay-delay.html)|`2026-02-27 17:52:00`|`Counter-Strike 2`|
