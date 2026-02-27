@@ -27,9 +27,22 @@
 |2|[Kdmapper&#95;Win25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53365)|`2026-02-28 04:00:01`|
 |0|[NtKrnl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53364)|`2026-02-28 04:00:01`|
 |1|[NtLdr&#95;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53363)|`2026-02-28 04:00:01`|
+|1|[Khytt External v2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53334)|`2026-02-28 05:43:50`|
+|5|[Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53333)|`2026-02-28 05:43:50`|
+|4|[Yes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53332)|`2026-02-28 05:43:50`|
+|6|[catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53331)|`2026-02-28 05:43:50`|
+|1|[KRYPTON ENGINE V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53330)|`2026-02-28 05:43:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal or external ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740595-internal-external.html)|`2026-02-28 05:43:00`|`Counter-Strike 2`|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-02-28 05:42:00`|`Valorant`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2026-02-28 05:41:00`|`Other MMORPG and Strategy`|
+|[Is there a cs2 offset dumper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740458-cs2-offset-dumper.html)|`2026-02-28 05:40:00`|`Counter-Strike 2`|
+|[Downgrading from 64&#45;bit to 32&#45;bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/740482-downgrading-64-bit-32-bit.html)|`2026-02-28 05:39:00`|`Garry's Mod`|
+|[How can I get the spectator offset / detect who is spectating me in BO7?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740593-spectator-offset-detect-spectating-bo7.html)|`2026-02-28 05:39:00`|`Call of Duty: Black Ops 7`|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-02-28 05:39:00`|`Counter-Strike 2`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-02-28 05:36:00`|`Call of Duty: Black Ops 3`|
 |[Reading Hulls From Map Without Map Parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740363-reading-hulls-map-map-parsing.html)|`2026-02-28 05:13:00`|`Counter-Strike 2`|
 |[Bhop&#40;external&#41; &#45; Not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740523-bhop-external-properly.html)|`2026-02-28 05:11:00`|`Counter-Strike 2`|
 |[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-02-28 05:01:00`|`ARC Raiders`|
