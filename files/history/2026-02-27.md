@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[im starting into making internals in csgo &#40;i am a new user&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740483-im-starting-internals-csgo-am-user.html)|`2026-02-27 22:18:00`|`Counter-Strike 2`|
+|[Internal silent aim &#45; need help finding the right sub&#45;function to hook &#40;Feb 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739930-internal-silent-aim-help-finding-sub-function-hook-feb-2026-a.html)|`2026-02-27 21:55:00`|`Counter-Strike 2`|
 |[bo3 igorr source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/738757-bo3-igorr-source-code.html)|`2026-02-27 21:42:00`|`Call of Duty: Black Ops 3`|
 |[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-02-27 21:21:00`|`Anti-Cheat Bypass`|
 |[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-02-27 20:35:00`|`Escape from Tarkov`|
