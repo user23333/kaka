@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-02-28 00:49:00`|`Overwatch`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-02-28 00:46:00`|`Counter-Strike 2`|
+|[im starting into making internals in csgo &#40;i am a new user&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740483-im-starting-internals-csgo-am-user.html)|`2026-02-28 00:38:00`|`Counter-Strike 2`|
+|[DOOMZDALE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740505-doomzdale.html)|`2026-02-28 00:31:00`|`Introductions`|
+|[Duplicate glitch after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/737905-duplicate-glitch-patch.html)|`2026-02-28 00:28:00`|`ARC Raiders`|
+|[Point blank player name string](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740414-blank-player-name-string.html)|`2026-02-28 00:26:00`|`Other FPS Games`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-02-28 00:24:00`|`Apex Legends`|
+|[Decoding native handler hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740504-decoding-native-handler-hooks.html)|`2026-02-28 00:21:00`|`Alternative Online Mods`|
+|[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-02-28 00:20:00`|`Off Topic`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-02-28 00:03:00`|`HELLDIVERS 2`|
 |[How can I start making a cheat for mw19?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/740497-start-cheat-mw19.html)|`2026-02-28 00:00:00`|`Call of Duty: Modern Warfare`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-02-27 23:52:00`|`Other Games`|
