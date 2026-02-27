@@ -45,9 +45,20 @@
 |1|[Nuclear Option Trainer BepInEx v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53351)|`2026-02-28 06:58:16`|
 |13|[Sleepy's Internal &#45; 2&#46;21&#46;0&#46;0&#46;147329 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53349)|`2026-02-28 06:58:16`|
 |2|[GrimApostles&#45;CS2 Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53348)|`2026-02-28 06:58:16`|
+|2|[Laurav1&#46;1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53356)|`2026-02-28 07:21:27`|
+|1|[StrafeHelper 27&#46;06&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53355)|`2026-02-28 07:21:27`|
+|2|[S2Cheat&#45;2026&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53354)|`2026-02-28 07:21:27`|
+|6|[Khytt External v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53353)|`2026-02-28 07:21:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-02-28 07:20:00`|`Apex Legends`|
+|[Encrypted Game Class And Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/740435-encrypted-game-class-functions.html)|`2026-02-28 07:20:00`|`General Programming and Reversing`|
+|[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-02-28 07:18:00`|`ARC Raiders`|
+|[ARC Raiders Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740374-arc-raiders-dumping.html)|`2026-02-28 07:17:00`|`ARC Raiders`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-02-28 07:16:00`|`Counter-Strike 2`|
+|[Bot to study/learn windows internals, cheating, c&#43;&#43;, bypasses etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733965-bot-study-learn-windows-internals-cheating-bypasses-etc.html)|`2026-02-28 07:12:00`|`General Programming and Reversing`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-02-28 07:10:00`|`Other FPS Games`|
 |[Rose Online Bot 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740436-rose-online-bot-2026-a.html)|`2026-02-28 06:56:00`|`Other MMORPG and Strategy`|
 |[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-02-28 06:53:00`|`Other Games`|
 |[GrimApostles CS2 DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740311-grimapostles-cs2-dma-radar.html)|`2026-02-28 06:46:00`|`Counter-Strike 2`|
