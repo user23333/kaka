@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-02-28 03:39:00`|`Call of Duty: Black Ops 7`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-02-28 03:38:00`|`HELLDIVERS 2`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-02-28 03:37:00`|`Valorant`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-02-28 03:20:00`|`Other Games`|
+|[can't debug altv &#40;majestic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740544-cant-debug-altv-majestic.html)|`2026-02-28 03:20:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-02-28 03:15:00`|`Other FPS Games`|
+|[leveller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740324-leveller.html)|`2026-02-28 03:14:00`|`HELLDIVERS 2`|
 |[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-02-28 02:57:00`|`Counter-Strike 2`|
 |[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-02-28 02:54:00`|`Counter-Strike 2 Releases`|
 |[pirate generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/740535-pirate-generator.html)|`2026-02-28 02:53:00`|`Sea of Thieves`|
