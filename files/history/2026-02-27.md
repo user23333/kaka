@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass VGC On a MacBook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740349-bypass-vgc-macbook.html)|`2026-02-27 13:29:00`|`Valorant`|
+|[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740422-mouse-movement.html)|`2026-02-27 13:27:00`|`Valorant`|
+|[Rose Online Bot 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740436-rose-online-bot-2026-a.html)|`2026-02-27 13:25:00`|`Other MMORPG and Strategy`|
+|[NoClip ON COMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/740331-noclip-comp.html)|`2026-02-27 13:14:00`|`Counter-Strike 2 Releases`|
+|[Encrypted Game Class And Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/740435-encrypted-game-class-functions.html)|`2026-02-27 13:13:00`|`General Programming and Reversing`|
+|[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-02-27 12:53:00`|`Rust`|
 |[Updated from my last post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738198-updated-post.html)|`2026-02-27 12:23:00`|`Anti-Cheat Bypass`|
 |[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-02-27 12:20:00`|`Anti-Cheat Bypass`|
 |[PVE Tegridy Farms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/728143-pve-tegridy-farms.html)|`2026-02-27 12:16:00`|`Escape from Tarkov`|
