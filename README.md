@@ -49,9 +49,18 @@
 |1|[StrafeHelper 27&#46;06&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53355)|`2026-02-28 07:21:27`|
 |2|[S2Cheat&#45;2026&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53354)|`2026-02-28 07:21:27`|
 |6|[Khytt External v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53353)|`2026-02-28 07:21:27`|
+|3|[ED Features Merge v6&#46;0&#46;3 &#45; 27&#46;02&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53367)|`2026-02-28 07:41:44`|
+|1|[Out Of Action Internal 022726](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53362)|`2026-02-28 07:41:44`|
+|3|[unheard apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53359)|`2026-02-28 07:41:44`|
+|1|[AcrossKVM example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53358)|`2026-02-28 07:41:44`|
+|1|[StrafeHelper Source 27&#46;06&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53357)|`2026-02-28 07:41:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-02-28 07:41:00`|`Call of Duty: Black Ops 7`|
+|[Out of Action – Internal Cheat V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/736219-action-internal-cheat-v2.html)|`2026-02-28 07:34:00`|`Other FPS Games`|
+|[Can't Logitech script be used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/733664-cant-logitech-script.html)|`2026-02-28 07:23:00`|`THE FINALS`|
+|[AcrossKVM mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740514-acrosskvm-mouse-movement.html)|`2026-02-28 07:21:00`|`Rust`|
 |[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-02-28 07:20:00`|`Apex Legends`|
 |[Encrypted Game Class And Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/740435-encrypted-game-class-functions.html)|`2026-02-28 07:20:00`|`General Programming and Reversing`|
 |[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-02-28 07:18:00`|`ARC Raiders`|
