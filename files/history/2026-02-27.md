@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-02-27 20:35:00`|`Escape from Tarkov`|
+|[Get dropped bomb entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740469-dropped-bomb-entity.html)|`2026-02-27 20:30:00`|`Counter-Strike 2`|
+|[Assault Cube Internal &#45; Esd&#46;AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740200-assault-cube-internal-esd-ac.html)|`2026-02-27 20:28:00`|`Other Games`|
+|[How to implement glowing in Counter&#45;Strike 2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736478-implement-glowing-counter-strike-2-a.html)|`2026-02-27 20:22:00`|`Counter-Strike 2`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-02-27 19:55:00`|`Grand Theft Auto V`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-02-27 19:27:00`|`Other FPS Games`|
 |[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-02-27 18:53:00`|`ARC Raiders`|
