@@ -59,6 +59,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Signed RW driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734284-signed-rw-driver.html)|`2026-02-28 13:02:00`|`Anti-Cheat Bypass`|
+|[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-02-28 12:43:00`|`Anti-Cheat Bypass`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-02-28 12:35:00`|`Other MMORPG and Strategy`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-02-28 12:35:00`|`Grand Theft Auto V`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-02-28 12:23:00`|`DayZ SA`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-02-28 12:12:00`|`Other FPS Games`|
 |[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-02-28 11:58:00`|`Team Fortress 2`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-02-28 11:49:00`|`Counter-Strike 2`|
