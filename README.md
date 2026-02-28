@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-03-01 03:31:00`|`Counter-Strike 2`|
+|[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-03-01 03:29:00`|`Rainbow Six Siege`|
+|[Tarkov Internal &#45; Manual Map &#43; BattlEye Evasion Advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740197-tarkov-internal-manual-map-battleye-evasion-advice.html)|`2026-03-01 03:28:00`|`Escape from Tarkov`|
 |[OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/740651-ow-colorbot.html)|`2026-03-01 03:21:00`|`Overwatch`|
 |[can't debug altv &#40;majestic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740544-cant-debug-altv-majestic.html)|`2026-03-01 03:17:00`|`Alternative Online Mods`|
 |[Raspberry Pi Pico still ud?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738249-raspberry-pi-pico-ud.html)|`2026-03-01 03:14:00`|`Valorant`|
