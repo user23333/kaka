@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-02-28 10:56:00`|`Anti-Cheat Bypass`|
+|[skin changer &#45; vanilla skin on knife](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740600-skin-changer-vanilla-skin-knife.html)|`2026-02-28 10:48:00`|`Counter-Strike 2`|
+|[Game Hacking on Linux 2026 &#40;Dirty Bomb / PINCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740622-game-hacking-linux-2026-dirty-bomb-pince.html)|`2026-02-28 10:34:00`|`Other FPS Games`|
+|[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2026-02-28 10:33:00`|`DayZ SA`|
 |[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-02-28 08:42:00`|`Other Games`|
 |[I need some patterns for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740275-patterns-cs2.html)|`2026-02-28 08:37:00`|`Counter-Strike 2`|
 |[Createmove hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740406-createmove-hook.html)|`2026-02-28 08:36:00`|`Counter-Strike 2`|
