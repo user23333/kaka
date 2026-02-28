@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RayCast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738525-raycast.html)|`2026-03-01 06:48:00`|`DayZ SA`|
 |[Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740675-entity-list.html)|`2026-03-01 06:32:00`|`Counter-Strike 2`|
 |[Dumping Unity Chams Materials Programmatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729102-dumping-unity-chams-materials-programmatically.html)|`2026-03-01 06:27:00`|`Rust`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-03-01 06:26:00`|`Rust`|
