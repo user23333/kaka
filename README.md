@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reading the offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740645-reading-offsets.html)|`2026-02-28 15:31:00`|`Valorant`|
+|[The End Of Magic Bullets On Unturned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738121-magic-bullets-unturned.html)|`2026-02-28 15:19:00`|`Other FPS Games`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2026-02-28 15:16:00`|`Anti-Cheat Bypass`|
+|[Best 5M cheat to grief power tripping mods for cringe RPs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740644-5m-cheat-grief-power-tripping-mods-cringe-rps.html)|`2026-02-28 15:10:00`|`Grand Theft Auto V`|
 |[Get Quick Offsets & Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740317-quick-offsets-dumping.html)|`2026-02-28 14:51:00`|`Valorant`|
 |[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-02-28 14:44:00`|`Other Games`|
 |[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-02-28 14:27:00`|`Rainbow Six Siege`|
