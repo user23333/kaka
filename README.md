@@ -59,6 +59,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wargod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/740346-wargod.html)|`2026-02-28 17:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-02-28 17:24:00`|`Paladins`|
+|[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2026-02-28 17:03:00`|`Other Single Player Games`|
 |[Dreadmyst No Steam and Multi&#45;client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740650-dreadmyst-steam-multi-client.html)|`2026-02-28 16:53:00`|`Other MMORPG and Strategy`|
 |[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2026-02-28 16:51:00`|`Other FPS Games`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-02-28 16:18:00`|`Red Dead Redemption 2`|
