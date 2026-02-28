@@ -59,6 +59,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-02-28 17:40:00`|`Anti-Cheat Bypass`|
+|[Vanguard Bypass &#45; Source Code &#45; Lennox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740538-vanguard-bypass-source-code-lennox.html)|`2026-02-28 17:31:00`|`Valorant`|
 |[Wargod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/740346-wargod.html)|`2026-02-28 17:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-02-28 17:24:00`|`Paladins`|
 |[Borderlands 4 Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/717789-borderlands-4-reversal-structs-offsets.html)|`2026-02-28 17:03:00`|`Other Single Player Games`|
