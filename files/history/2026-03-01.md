@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740485-silent-aim.html)|`2026-03-01 04:35:00`|`Call of Duty: Black Ops 7`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-03-01 04:33:00`|`Paladins`|
+|[Allocation&#45;Free Native Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740754-allocation-free-native-decryption.html)|`2026-03-01 04:28:00`|`Alternative Online Mods`|
+|[Engine Limitations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/738538-engine-limitations.html)|`2026-03-01 04:21:00`|`Call of Duty: Black Ops 7`|
+|[Epitome Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738123-epitome-reversal-structs-offsets.html)|`2026-03-01 04:17:00`|`Other MMORPG and Strategy`|
+|[Flipping view&#45;model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740753-flipping-view-model.html)|`2026-03-01 04:15:00`|`Counter-Strike 2`|
 |[skin changer &#45; vanilla skin on knife](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740600-skin-changer-vanilla-skin-knife.html)|`2026-03-01 04:08:00`|`Counter-Strike 2`|
 |[Reading memory on XIGNCODE3 &#40;Build 105025&#41; &#45; CE shows "??"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740423-reading-memory-xigncode3-build-105025-ce.html)|`2026-03-01 04:01:00`|`Anti-Cheat Bypass`|
 |[Ban help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740749-ban-help.html)|`2026-03-01 03:44:00`|`Escape from Tarkov`|
