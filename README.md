@@ -59,6 +59,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-02-28 12:12:00`|`Other FPS Games`|
+|[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-02-28 11:58:00`|`Team Fortress 2`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-02-28 11:49:00`|`Counter-Strike 2`|
+|[HavocHub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740627-havochub.html)|`2026-02-28 11:36:00`|`HELLDIVERS 2`|
+|[is subtracting imagebase enough to get mmpfndatabase rva](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738529-subtracting-imagebase-mmpfndatabase-rva.html)|`2026-02-28 11:23:00`|`Anti-Cheat Bypass`|
+|[SYNC TREE CODE &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740212-sync-tree-code-external.html)|`2026-02-28 11:10:00`|`Alternative Online Mods`|
 |[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-02-28 10:56:00`|`Anti-Cheat Bypass`|
 |[skin changer &#45; vanilla skin on knife](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740600-skin-changer-vanilla-skin-knife.html)|`2026-02-28 10:48:00`|`Counter-Strike 2`|
 |[Game Hacking on Linux 2026 &#40;Dirty Bomb / PINCE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740622-game-hacking-linux-2026-dirty-bomb-pince.html)|`2026-02-28 10:34:00`|`Other FPS Games`|
