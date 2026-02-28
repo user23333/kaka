@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skin changer &#45; vanilla skin on knife](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740600-skin-changer-vanilla-skin-knife.html)|`2026-03-01 04:08:00`|`Counter-Strike 2`|
+|[Reading memory on XIGNCODE3 &#40;Build 105025&#41; &#45; CE shows "??"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740423-reading-memory-xigncode3-build-105025-ce.html)|`2026-03-01 04:01:00`|`Anti-Cheat Bypass`|
+|[Ban help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740749-ban-help.html)|`2026-03-01 03:44:00`|`Escape from Tarkov`|
 |[&#91;Release&#93; Once Human &#45; Fully Decompiled Python Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739928-release-human-decompiled-python-source.html)|`2026-03-01 03:53:00`|`Other MMORPG and Strategy`|
 |[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-03-01 03:42:00`|`Among Us`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-01 03:41:00`|`Escape from Tarkov`|
