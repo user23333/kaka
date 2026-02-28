@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-02-28 08:42:00`|`Other Games`|
+|[I need some patterns for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740275-patterns-cs2.html)|`2026-02-28 08:37:00`|`Counter-Strike 2`|
+|[Createmove hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740406-createmove-hook.html)|`2026-02-28 08:36:00`|`Counter-Strike 2`|
+|[Far Far West Demo MOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740610-west-demo-mod.html)|`2026-02-28 08:24:00`|`Other FPS Games`|
 |[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-02-28 07:49:00`|`Rust`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-02-28 07:48:00`|`Other FPS Games`|
 |[CS2 DMA ESP RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740540-cs2-dma-esp-radar.html)|`2026-02-28 07:47:00`|`Counter-Strike 2`|
