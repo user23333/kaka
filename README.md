@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kick menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/737574-kick-menu.html)|`2026-03-01 01:37:00`|`Red Dead Redemption 2`|
+|[isAlive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/740697-isalive.html)|`2026-03-01 01:35:00`|`Call of Duty: Black Ops 2`|
 |[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-03-01 01:31:00`|`Anti-Cheat Bypass`|
 |[Latest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740739-offsets.html)|`2026-03-01 01:26:00`|`Rainbow Six Siege`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-01 01:25:00`|`ARC Raiders`|
