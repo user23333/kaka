@@ -11,6 +11,7 @@
 |25|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-01 00:24:45`|`apex-legends`|
 |9|[CS2 Internal Cheat — ESP, Aimbot, Triggerbot, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739763-cs2-internal-cheat-esp-aimbot-triggerbot-radar.html)|`2026-03-01 00:24:45`|`counter-strike-2-a`|
 |5|[Spoof Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740171-spoof-driver.html)|`2026-03-01 00:24:45`|`anti-cheat-bypass`|
+|21|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-01 07:38:20`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AcrossKVM mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740514-acrosskvm-mouse-movement.html)|`2026-03-01 07:35:00`|`Rust`|
+|[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-03-01 07:31:00`|`Other Games`|
+|[FName decrypt working, need help with FText for Item ESP names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739402-fname-decrypt-help-ftext-item-esp-names.html)|`2026-03-01 07:31:00`|`ARC Raiders`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-03-01 07:24:00`|`Rainbow Six Siege`|
 |[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-01 07:19:00`|`Apex Legends`|
 |[Keeping VPs on custom EPTP with VMCS ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740769-keeping-vps-custom-eptp-vmcs.html)|`2026-03-01 07:19:00`|`Anti-Cheat Bypass`|
 |[MLB Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740768-mlb-rivals.html)|`2026-03-01 07:08:00`|`Other MMORPG and Strategy`|
