@@ -60,6 +60,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SigmaRivals Reborn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/736234-sigmarivals-reborn.html)|`2026-02-28 22:53:00`|`Marvel Rivals`|
+|[CS2 Reversed Vtables / API / SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/740718-cs2-reversed-vtables-api-sdk.html)|`2026-02-28 22:53:00`|`Counterstrike Global Offensive`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740715-silent-aim.html)|`2026-02-28 22:45:00`|`Counter-Strike 2`|
 |[WRAITH OPS &#45; Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740713-wraith-ops-demo.html)|`2026-02-28 22:37:00`|`Other FPS Games`|
 |[Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740675-entity-list.html)|`2026-02-28 22:36:00`|`Counter-Strike 2`|
 |[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-02-28 22:17:00`|`Garry's Mod`|
