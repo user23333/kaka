@@ -59,6 +59,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get Quick Offsets & Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740317-quick-offsets-dumping.html)|`2026-02-28 14:51:00`|`Valorant`|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-02-28 14:44:00`|`Other Games`|
 |[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-02-28 14:27:00`|`Rainbow Six Siege`|
 |[DNS &#124; &#91;removed&#93; &#45; up Bypazz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738206-dns-removed-bypazz.html)|`2026-02-28 13:57:00`|`Valorant`|
 |[Looking to Develop Custom Firmware, Where to start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740636-looking-develop-custom-firmware-start.html)|`2026-02-28 13:57:00`|`Anti-Cheat Bypass`|
