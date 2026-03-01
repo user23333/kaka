@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hardware ban or detecting SecureBoot spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/736114-hardware-ban-detecting-secureboot-spoof.html)|`2026-03-01 13:32:00`|`Battlefield 6`|
+|[Protocol Architecture Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/736061-protocol-architecture-overview.html)|`2026-03-01 13:28:00`|`Battlefield 2`|
+|[Do I need a spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740813-spoofer.html)|`2026-03-01 13:22:00`|`Apex Legends`|
+|[Vanguard Bypass &#45; Source Code &#45; Lennox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740538-vanguard-bypass-source-code-lennox.html)|`2026-03-01 13:06:00`|`Valorant`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-03-01 13:01:00`|`Grand Theft Auto V`|
+|[esp code source base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740796-esp-code-source-base.html)|`2026-03-01 12:54:00`|`Valorant`|
+|[Xigncode 3 Bypass for Ghost Online VTC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740299-xigncode-3-bypass-ghost-online-vtc.html)|`2026-03-01 12:30:00`|`Anti-Cheat Bypass`|
 |[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-03-01 12:05:00`|`Anti-Cheat Bypass`|
 |[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-03-01 11:34:00`|`Other FPS Games`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-01 11:33:00`|`Grand Theft Auto V`|
