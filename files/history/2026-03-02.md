@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-02 06:15:00`|`Red Dead Redemption 2`|
+|[S4UDI Color Aimbot &#45; BO7 &#40;C&#35;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731878-s4udi-color-aimbot-bo7.html)|`2026-03-02 06:12:00`|`Call of Duty: Black Ops 7`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-03-02 06:07:00`|`Other FPS Games`|
+|[Any Injectors for Mac OS &#40;M Chip&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/740842-injectors-mac-os-chip.html)|`2026-03-02 06:02:00`|`Garry's Mod`|
+|[MarlBot fix v1&#46;6&#46;1&#45;dev1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/680404-marlbot-fix-v1-6-1-dev1.html)|`2026-03-02 06:00:00`|`Other Games`|
+|[Does anyone have the full offsets for GameplayCamHolder and GameplayCamTarget?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740722-offsets-gameplaycamholder-gameplaycamtarget.html)|`2026-03-02 05:57:00`|`Alternative Online Mods`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-02 05:52:00`|`Counter-Strike 2`|
 |[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-03-02 05:52:00`|`Counter-Strike 2`|
 |[GTA V online mod menu thats safe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740933-gta-online-mod-menu-thats-safe.html)|`2026-03-02 05:51:00`|`Grand Theft Auto V`|
