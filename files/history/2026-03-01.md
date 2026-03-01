@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any Injectors for Mac OS &#40;M Chip&#41; ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/740842-injectors-mac-os-chip.html)|`2026-03-01 20:28:00`|`Garry's Mod`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-01 20:13:00`|`Other FPS Games`|
 |[TF2: Finding The View Matrix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/740598-tf2-finding-view-matrix.html)|`2026-03-01 19:36:00`|`Team Fortress 2`|
 |[Sleepy's External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/719835-sleepys-external.html)|`2026-03-01 19:32:00`|`Overwatch`|
 |[Frame Limiter Patch &#40;GTA: Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740821-frame-limiter-patch-gta-enhanced.html)|`2026-03-01 19:21:00`|`Grand Theft Auto V`|
