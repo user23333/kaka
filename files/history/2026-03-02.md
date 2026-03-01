@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-03-02 01:50:00`|`Valorant`|
 |[hypervisor freezes the system on wrmsr exit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740885-hypervisor-freezes-system-wrmsr-exit.html)|`2026-03-02 01:39:00`|`Anti-Cheat Bypass`|
 |[Chivalry 2 Internal: Mounting Modified &#46;uassets via Kernel DLL &#40;Post&#45;April Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740508-chivalry-2-internal-mounting-modified-uassets-via-kernel-dll-post-april-update.html)|`2026-03-02 01:31:00`|`Other Games`|
 |[Spoofer for laptop asus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/725957-spoofer-laptop-asus.html)|`2026-03-02 01:12:00`|`Valorant`|
