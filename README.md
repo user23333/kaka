@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-03-02 03:38:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-02 03:34:00`|`Call of Duty: Black Ops 7`|
+|[Makcu 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/723888-makcu-1pc.html)|`2026-03-02 03:20:00`|`Valorant`|
+|[Latest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740739-offsets.html)|`2026-03-02 03:18:00`|`Rainbow Six Siege`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-03-02 03:17:00`|`Other MMORPG and Strategy`|
 |[Subtick "when" fraction calculation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740766-subtick-fraction-calculation.html)|`2026-03-02 03:10:00`|`Counter-Strike 2`|
 |[MmCopyMemory walk vs Self&#45;Map direct dereference? AKA no attach vs attach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740736-mmcopymemory-walk-vs-self-map-direct-dereference-aka-attach-vs-attach.html)|`2026-03-02 03:06:00`|`Anti-Cheat Bypass`|
