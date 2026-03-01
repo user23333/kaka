@@ -33,9 +33,22 @@
 |1|[netvar&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53370)|`2026-03-01 15:00:57`|
 |1|[Payday3&#45;Internal Source V1&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53369)|`2026-03-01 15:00:57`|
 |1|[Payday3&#45;Internal V1&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53368)|`2026-03-01 15:00:57`|
+|2|[SastashaFied T6 MP MultiHack v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53400)|`2026-03-01 15:35:26`|
+|4|[Laurav1&#46;1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53399)|`2026-03-01 15:35:26`|
+|1|[marvel rivals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53387)|`2026-03-01 15:35:26`|
+|1|[Dreadmyst NO Steam&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53380)|`2026-03-01 15:35:26`|
+|1|[StrafeHelper&#95;hotfix 28&#46;02&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53379)|`2026-03-01 15:35:26`|
+|1|[Spiritvale Bot 2&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53378)|`2026-03-01 15:35:26`|
+|1|[R6 AI Model 45k](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53377)|`2026-03-01 15:35:26`|
+|1|[Anomaly 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53376)|`2026-03-01 15:35:26`|
+|2|[Spiritvale Bot 2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53375)|`2026-03-01 15:35:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dreadmyst No Steam and Multi&#45;client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740650-dreadmyst-steam-multi-client.html)|`2026-03-01 15:32:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-01 15:30:00`|`Marvel Rivals`|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-01 15:29:00`|`Apex Legends`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-03-01 15:20:00`|`Rainbow Six Siege`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2026-03-01 14:56:00`|`Anti-Cheat Bypass`|
 |[WRAITH OPS &#45; Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740713-wraith-ops-demo.html)|`2026-03-01 14:55:00`|`Other FPS Games`|
 |[AutoParry issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/739608-autoparry-issues.html)|`2026-03-01 14:50:00`|`Deadlock`|
