@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740926-inventory-changer.html)|`2026-03-02 05:08:00`|`Counter-Strike 2`|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-02 05:07:00`|`Counter-Strike 2 Releases`|
+|[calling games functions externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738678-calling-games-functions-externaly.html)|`2026-03-02 05:06:00`|`Alternative Online Mods`|
+|[Controller Emulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/673578-controller-emulation.html)|`2026-03-02 05:01:00`|`Call of Duty: Black Ops 6`|
+|[how to make Troll options External ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740837-troll-options-external.html)|`2026-03-02 05:00:00`|`Alternative Online Mods`|
+|[can't debug altv &#40;majestic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740544-cant-debug-altv-majestic.html)|`2026-03-02 05:00:00`|`Alternative Online Mods`|
+|[Need answers as blizzard isnt responding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/740925-answers-blizzard-isnt-responding.html)|`2026-03-02 04:57:00`|`Overwatch`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-03-02 04:52:00`|`Rust`|
 |[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-02 04:48:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Helldivers 2 &#45; Stratagem Radial Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740370-helldivers-2-stratagem-radial-menu.html)|`2026-03-02 04:42:00`|`HELLDIVERS 2`|
