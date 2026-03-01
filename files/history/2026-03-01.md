@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-03-01 17:57:00`|`Sea of Thieves`|
+|[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-03-01 17:52:00`|`Other FPS Games`|
 |[pirate generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/740535-pirate-generator.html)|`2026-03-01 17:46:00`|`Sea of Thieves`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-01 17:45:00`|`Rainbow Six Siege`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-01 17:19:00`|`Valorant`|
