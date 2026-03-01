@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-03-01 13:43:00`|`Other FPS Games`|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-03-01 13:30:00`|`ARC Raiders`|
+|[Coming back around](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740814-coming.html)|`2026-03-01 13:27:00`|`Introductions`|
 |[Hardware ban or detecting SecureBoot spoof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/736114-hardware-ban-detecting-secureboot-spoof.html)|`2026-03-01 13:32:00`|`Battlefield 6`|
 |[Protocol Architecture Overview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/736061-protocol-architecture-overview.html)|`2026-03-01 13:28:00`|`Battlefield 2`|
 |[Do I need a spoofer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740813-spoofer.html)|`2026-03-01 13:22:00`|`Apex Legends`|
