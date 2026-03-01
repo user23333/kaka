@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ValidateInput VTable Index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740931-validateinput-vtable-index.html)|`2026-03-02 05:29:00`|`Counter-Strike 2`|
+|[Need help spoofing ASUS &#40;AM5&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740930-help-spoofing-asus-am5.html)|`2026-03-02 05:24:00`|`Valorant`|
+|[Warfame offsets, dump, or sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740928-warfame-offsets-dump-sigs.html)|`2026-03-02 05:18:00`|`Other FPS Games`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-02 05:17:00`|`Other MMORPG and Strategy`|
 |[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740926-inventory-changer.html)|`2026-03-02 05:08:00`|`Counter-Strike 2`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-02 05:07:00`|`Counter-Strike 2 Releases`|
 |[calling games functions externaly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738678-calling-games-functions-externaly.html)|`2026-03-02 05:06:00`|`Alternative Online Mods`|
