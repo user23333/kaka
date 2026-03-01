@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Perfect COD exe dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739111-perfect-cod-exe-dumper.html)|`2026-03-01 18:17:00`|`Call of Duty: Black Ops 7`|
+|[Apex, could you tell me how to get the number and names of people currently spectatin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740835-apex-tell-names-people-currently-spectatin.html)|`2026-03-01 18:07:00`|`Apex Legends`|
 |[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-03-01 17:57:00`|`Sea of Thieves`|
 |[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-03-01 17:52:00`|`Other FPS Games`|
 |[pirate generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/740535-pirate-generator.html)|`2026-03-01 17:46:00`|`Sea of Thieves`|
