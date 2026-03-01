@@ -42,9 +42,17 @@
 |1|[R6 AI Model 45k](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53377)|`2026-03-01 15:35:26`|
 |1|[Anomaly 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53376)|`2026-03-01 15:35:26`|
 |2|[Spiritvale Bot 2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53375)|`2026-03-01 15:35:26`|
+|2|[quirk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53401)|`2026-03-01 15:53:26`|
+|1|[Spiritvale Bot 2&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53397)|`2026-03-01 15:53:26`|
+|3|[Skeleton ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53393)|`2026-03-01 15:53:26`|
+|4|[FO76 Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53392)|`2026-03-01 15:53:26`|
+|2|[cs2 kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53391)|`2026-03-01 15:53:26`|
+|1|[BlueFirePaladinsHack&#45;master2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53385)|`2026-03-01 15:53:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Kernel Cheat w Map Parser, WB & a lot more stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740684-cs2-kernel-cheat-map-parser-wb-lot-stuff.html)|`2026-03-01 15:51:00`|`Counter-Strike 2`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-01 15:40:00`|`Deadlock`|
 |[Dreadmyst No Steam and Multi&#45;client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740650-dreadmyst-steam-multi-client.html)|`2026-03-01 15:32:00`|`Other MMORPG and Strategy`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-01 15:30:00`|`Marvel Rivals`|
 |[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-01 15:29:00`|`Apex Legends`|
