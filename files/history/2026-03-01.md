@@ -51,6 +51,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-01 17:19:00`|`Valorant`|
+|[how long apex legends is hwid ban last](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738041-apex-legends-hwid-ban.html)|`2026-03-01 17:14:00`|`Apex Legends`|
+|[CLOCK&#95;WATCHDOG&#95;TIMEOUT when restoring custom EPTP after Hyper&#45;V's VMEXIT handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740244-clock_watchdog_timeout-restoring-custom-eptp-hyper-vs-vmexit-handler.html)|`2026-03-01 17:10:00`|`Anti-Cheat Bypass`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-01 16:49:00`|`Other MMORPG and Strategy`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-03-01 16:22:00`|`Other MMORPG and Strategy`|
 |[Java injectable for Minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/736871-java-injectable-minecraft.html)|`2026-03-01 16:16:00`|`Minecraft`|
