@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Frostbite Engine Internal Input System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/738048-frostbite-engine-internal-input-system.html)|`2026-03-02 20:56:00`|`Battlefield 6`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-02 20:44:00`|`Valorant`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-03-02 20:42:00`|`Sea of Thieves`|
+|[Battlefield 2 Server Bot Seeder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/740980-battlefield-2-server-bot-seeder.html)|`2026-03-02 20:12:00`|`Battlefield 2`|
 |[The division 2 free cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/733441-division-2-free-cheat-menu.html)|`2026-03-02 19:43:00`|`Tom Clancy's The Division`|
 |[Helping you build your first magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/739967-helping-build-magic-bullet.html)|`2026-03-02 18:49:00`|`DayZ SA`|
 |[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2026-03-02 18:38:00`|`Call of Duty: Black Ops`|
