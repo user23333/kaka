@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-03-03 03:25:00`|`Escape from Tarkov`|
+|[The Safety of Logitech GHUB Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741038-safety-logitech-ghub-scripts.html)|`2026-03-03 03:14:00`|`Rainbow Six Siege`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-03 03:13:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-03 03:09:00`|`Alternative Online Mods`|
+|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-03 03:07:00`|`Genshin Impact`|
 |[Any good pattern finding tutorials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741020-pattern-finding-tutorials.html)|`2026-03-03 03:07:00`|`Counter-Strike 2`|
 |[how is this done?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741031-how-is-this-done.html)|`2026-03-03 03:06:00`|`Counter-Strike 2`|
 |[External python cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/714196-external-python-cheat.html)|`2026-03-03 03:04:00`|`CounterStrike 1.5, 1.6 and Mods`|
