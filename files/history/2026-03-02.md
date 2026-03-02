@@ -14,6 +14,8 @@
 |4|[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-03-02 02:36:33`|`sea-of-thieves`|
 |7|[CS2 High Quality Yolo Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739897-cs2-quality-yolo-model.html)|`2026-03-02 03:21:10`|`counter-strike-2-a`|
 |2|[Any online Arc Raiders Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740018-online-arc-raiders-cheats.html)|`2026-03-02 04:43:14`|`arc-raiders`|
+|11|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-02 10:11:18`|`apex-legends`|
+|19|[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-03-02 10:11:18`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadside Internal Semi&#45;Silentaim &#40;gun manipulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740955-deadside-internal-semi-silentaim-gun-manipulation.html)|`2026-03-02 10:08:00`|`Other FPS Games`|
+|[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-02 10:07:00`|`Call of Duty: Black Ops 7`|
+|[Deadside External Bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740954-deadside-external-bones.html)|`2026-03-02 10:06:00`|`Other FPS Games`|
+|[warzone console ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740953-warzone-console-ai-aimbot.html)|`2026-03-02 09:59:00`|`Call of Duty: Black Ops 7`|
+|[I server side exploited a mobile game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/740952-server-exploited-mobile-game.html)|`2026-03-02 09:59:00`|`Off Topic`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-02 09:48:00`|`Other MMORPG and Strategy`|
+|[Getting Server IP Externally FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740057-getting-server-ip-externally-fivem.html)|`2026-03-02 09:47:00`|`Alternative Online Mods`|
 |[Dreadmyst No Steam and Multi&#45;client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740650-dreadmyst-steam-multi-client.html)|`2026-03-02 07:35:00`|`Other MMORPG and Strategy`|
 |[TEKKEN 8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/628298-tekken-8-a.html)|`2026-03-02 07:33:00`|`Other Games`|
 |[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-03-02 07:31:00`|`Farlight 84`|
