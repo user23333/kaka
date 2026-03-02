@@ -16,6 +16,7 @@
 |2|[Any online Arc Raiders Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740018-online-arc-raiders-cheats.html)|`2026-03-02 04:43:14`|`arc-raiders`|
 |11|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-02 10:11:18`|`apex-legends`|
 |19|[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-03-02 10:11:18`|`anti-cheat-bypass`|
+|20|[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-03-02 19:23:27`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
