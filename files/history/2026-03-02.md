@@ -29,9 +29,13 @@
 |83|[cs2 kernel cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53391)|`2026-03-02 00:22:05`|
 |4|[marvel rivals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53387)|`2026-03-02 00:22:05`|
 |11|[BlueFirePaladinsHack&#45;master2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53385)|`2026-03-02 00:22:05`|
+|36|[PaladinsHack2&#46;3&#45;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53384)|`2026-03-02 12:21:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740960-db-fighterz-sdk.html)|`2026-03-02 12:08:00`|`Other Games`|
+|[Injecting DLL into EAC&#45;protected process from Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739720-injecting-dll-eac-protected-process-kernel-driver.html)|`2026-03-02 11:43:00`|`ARC Raiders`|
+|[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738865-eac-injector.html)|`2026-03-02 11:29:00`|`ARC Raiders`|
 |[Deadside Internal Semi&#45;Silentaim &#40;gun manipulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740955-deadside-internal-semi-silentaim-gun-manipulation.html)|`2026-03-02 10:08:00`|`Other FPS Games`|
 |[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-02 10:07:00`|`Call of Duty: Black Ops 7`|
 |[Deadside External Bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740954-deadside-external-bones.html)|`2026-03-02 10:06:00`|`Other FPS Games`|
