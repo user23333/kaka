@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2026-03-03 07:13:00`|`Anti-Cheat Bypass`|
+|[Help Reversing Super Animal Royale Obfuscated IL2CPP Dump &#40;Photon?&#41;, Need Entity Li](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741065-help-reversing-super-animal-royale-obfuscated-il2cpp-dump-photon-entity-li.html)|`2026-03-03 07:10:00`|`General Programming and Reversing`|
+|[ValidateInput hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738487-validateinput-hook.html)|`2026-03-03 07:04:00`|`Counter-Strike 2`|
 |[&#40;RGH&#41; BO2 Theater Custom Image Tool by Rain Reach&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741062-rgh-bo2-theater-custom-image-tool-rain-reach.html)|`2026-03-03 06:58:00`|`Call of Duty: Black Ops 2`|
 |[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-03-03 06:56:00`|`ARC Raiders`|
 |[EAC usermode checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741061-eac-usermode-checks.html)|`2026-03-03 06:48:00`|`Anti-Cheat Bypass`|
