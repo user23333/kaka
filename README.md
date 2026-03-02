@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-03 04:03:00`|`Other FPS Games`|
+|[discord overlay block](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741041-discord-overlay-block.html)|`2026-03-03 03:59:00`|`Valorant`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-03-03 03:49:00`|`Paladins`|
 |[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-03-03 03:25:00`|`Escape from Tarkov`|
 |[The Safety of Logitech GHUB Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741038-safety-logitech-ghub-scripts.html)|`2026-03-03 03:14:00`|`Rainbow Six Siege`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-03 03:13:00`|`Rust`|
