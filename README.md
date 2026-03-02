@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-02 13:21:00`|`League of Legends`|
+|[I am new to coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/740098-am-coding.html)|`2026-03-02 13:20:00`|`Introductions`|
+|[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2026-03-02 13:14:00`|`Anti-Cheat Bypass`|
+|[bypass battleeye gta online from kernel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737346-bypass-battleeye-gta-online-kernel.html)|`2026-03-02 12:34:00`|`Anti-Cheat Bypass`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-03-02 12:29:00`|`Other FPS Games`|
 |[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740960-db-fighterz-sdk.html)|`2026-03-02 12:08:00`|`Other Games`|
 |[Injecting DLL into EAC&#45;protected process from Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739720-injecting-dll-eac-protected-process-kernel-driver.html)|`2026-03-02 11:43:00`|`ARC Raiders`|
 |[EAC injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738865-eac-injector.html)|`2026-03-02 11:29:00`|`ARC Raiders`|
