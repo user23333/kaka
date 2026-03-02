@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;RGH&#41; BO2 Theater Custom Image Tool by Rain Reach&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741062-rgh-bo2-theater-custom-image-tool-rain-reach.html)|`2026-03-03 06:58:00`|`Call of Duty: Black Ops 2`|
+|[Arc Raiders Reversal Notes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/732490-arc-raiders-reversal-notes.html)|`2026-03-03 06:56:00`|`ARC Raiders`|
+|[EAC usermode checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741061-eac-usermode-checks.html)|`2026-03-03 06:48:00`|`Anti-Cheat Bypass`|
 |[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-03-03 06:46:00`|`Marvel Rivals`|
 |[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-03-03 06:44:00`|`Counter-Strike 2`|
 |[lineup helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740935-lineup-helper.html)|`2026-03-03 06:44:00`|`Counter-Strike 2`|
