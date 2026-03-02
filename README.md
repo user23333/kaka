@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crossplay between GTA Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740994-crossplay-gta-enhanced.html)|`2026-03-02 23:16:00`|`Grand Theft Auto V`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-03-02 23:10:00`|`Counter-Strike 2 Releases`|
+|[EGS Unlink method on xbox pc launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738541-egs-unlink-method-xbox-pc-launcher.html)|`2026-03-02 23:10:00`|`Grand Theft Auto V`|
 |[Does anyone have the latest HitboxSets offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740991-hitboxsets-offsets.html)|`2026-03-02 22:46:00`|`Counter-Strike 2`|
 |[Bot/Cheats for SpiritVale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730828-bot-cheats-spiritvale.html)|`2026-03-02 22:31:00`|`Other MMORPG and Strategy`|
 |[Cheating with another PC without getting caught on my main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740969-cheating-pc-getting-caught-main.html)|`2026-03-02 22:27:00`|`Rust`|
