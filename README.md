@@ -27,9 +27,18 @@
 |1|[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53415)|`2026-03-03 08:00:58`|
 |1|[Fate Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53409)|`2026-03-03 08:00:58`|
 |1|[Abyssus 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53414)|`2026-03-03 10:33:25`|
+|2|[WonderKing Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53424)|`2026-03-03 12:26:24`|
+|3|[IDA lol plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53417)|`2026-03-03 12:26:24`|
+|3|[LOLDUMPER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53416)|`2026-03-03 12:26:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do you get glitched guns?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/738719-glitched-guns.html)|`2026-03-03 12:20:00`|`Call of Duty: Modern Warfare III`|
+|[Hunchclient for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740950-hunchclient-windows.html)|`2026-03-03 12:12:00`|`ARC Raiders`|
+|[GrimApostles CS2 DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740311-grimapostles-cs2-dma-radar.html)|`2026-03-03 11:59:00`|`Counter-Strike 2`|
+|[Venom &#45; Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/740719-venom-roblox-external.html)|`2026-03-03 11:49:00`|`Roblox`|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-03 11:45:00`|`League of Legends`|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-03-03 11:38:00`|`Other Games`|
 |[Getting held entity child](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740973-getting-held-entity-child.html)|`2026-03-03 10:20:00`|`Rust`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-03-03 10:10:00`|`HELLDIVERS 2`|
 |[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-03-03 10:09:00`|`Grand Theft Auto V`|
