@@ -26,9 +26,14 @@
 |43|[PaladinsHack2&#46;3&#45;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53384)|`2026-03-03 00:04:47`|
 |1|[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53415)|`2026-03-03 08:00:58`|
 |1|[Fate Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53409)|`2026-03-03 08:00:58`|
+|1|[Abyssus 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53414)|`2026-03-03 10:33:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting held entity child](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740973-getting-held-entity-child.html)|`2026-03-03 10:20:00`|`Rust`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-03-03 10:10:00`|`HELLDIVERS 2`|
+|[Epic Games Unlink Method Patched &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731716-epic-games-unlink-method-patched.html)|`2026-03-03 10:09:00`|`Grand Theft Auto V`|
+|[Just Another Night Shift Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734965-night-shift-cheat.html)|`2026-03-03 10:07:00`|`Other MMORPG and Strategy`|
 |[hwid unban method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741072-hwid-unban-method.html)|`2026-03-03 07:58:00`|`Rust`|
 |[&#40;c&#43;&#41; Bubble's Darling V2 Infection detector for rgh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741070-bubbles-darling-v2-infection-detector-rgh.html)|`2026-03-03 07:57:00`|`Call of Duty: Black Ops 2`|
 |[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-03-03 07:52:00`|`Other FPS Games`|
