@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reading memory on XIGNCODE3 &#40;Build 105025&#41; &#45; CE shows "??"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740423-reading-memory-xigncode3-build-105025-ce.html)|`2026-03-03 16:21:00`|`Anti-Cheat Bypass`|
+|[Xigncode 3 Bypass for Ghost Online VTC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740299-xigncode-3-bypass-ghost-online-vtc.html)|`2026-03-03 16:20:00`|`Anti-Cheat Bypass`|
+|[hypervisor freezes the system on wrmsr exit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740885-hypervisor-freezes-system-wrmsr-exit.html)|`2026-03-03 16:08:00`|`Anti-Cheat Bypass`|
+|[Best approach for modding this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741110-approach-modding-game.html)|`2026-03-03 16:04:00`|`Other Games`|
+|[&#91;BETA RELEA&#93;Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/741081-beta-relea-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-03 16:01:00`|`Half Life`|
 |[Finding More BPs and Entity Names in Arc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738423-finding-bps-entity-names-arc.html)|`2026-03-03 15:47:00`|`ARC Raiders`|
 |[Free FiveM DMA ESP / Aimbot / Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740882-free-fivem-dma-esp-aimbot-web-radar.html)|`2026-03-03 15:36:00`|`Alternative Online Mods`|
 |[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2026-03-03 15:15:00`|`CounterStrike 1.5, 1.6 and Mods`|
