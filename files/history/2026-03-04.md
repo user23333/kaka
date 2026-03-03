@@ -12,6 +12,7 @@
 |8|[CS2 Kernel Cheat w Map Parser, WB & a lot more stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740684-cs2-kernel-cheat-map-parser-wb-lot-stuff.html)|`2026-03-04 00:04:07`|`counter-strike-2-a`|
 |19|[Load Virtual Pages manually via driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740049-load-virtual-pages-manually-via-driver.html)|`2026-03-04 00:04:07`|`anti-cheat-bypass`|
 |10|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-04 01:46:01`|`genshin-impact`|
+|9|[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-03-04 03:49:55`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GrimApostles CS2 DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740311-grimapostles-cs2-dma-radar.html)|`2026-03-04 03:49:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-04 03:48:00`|`Apex Legends`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-03-04 03:47:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-03-04 03:39:00`|`Other FPS Games`|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-03-04 03:24:00`|`DayZ SA`|
 |[EAC no longer loads a module into game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741026-eac-loads-module-game.html)|`2026-03-04 03:12:00`|`Anti-Cheat Bypass`|
 |[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-03-04 03:08:00`|`Counter-Strike 2`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-03-04 03:05:00`|`Phasmophobia`|
