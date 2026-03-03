@@ -41,9 +41,20 @@
 |1|[Kuboom&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53429)|`2026-03-04 06:55:57`|
 |1|[EtherHack&#45;3&#46;0&#46;3&#45;B42](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53432)|`2026-03-04 07:17:04`|
 |2|[Proton Injector for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53430)|`2026-03-04 07:17:04`|
+|1|[Diamond Color Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53436)|`2026-03-04 07:43:02`|
+|0|[GZW&#95;Mapping&#46;usmap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53435)|`2026-03-04 07:43:02`|
+|1|[Prestiger v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53434)|`2026-03-04 07:43:02`|
+|1|[S2Cheat&#45;2026&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53433)|`2026-03-04 07:43:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;360&#41; Diamond Color Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741154-360-diamond-color-tool.html)|`2026-03-04 07:41:00`|`Call of Duty: Black Ops 2`|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2026-03-04 07:33:00`|`Call of Duty: Modern Warfare 3`|
+|[OP Builds with ED Features CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741223-op-builds-ed-features-ct.html)|`2026-03-04 07:32:00`|`HELLDIVERS 2`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-04 07:29:00`|`Counter-Strike 2`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-03-04 07:29:00`|`Other FPS Games`|
+|[Ragnarok Memory Structures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/739581-ragnarok-memory-structures.html)|`2026-03-04 07:27:00`|`Ragnarok`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-03-04 07:27:00`|`Other FPS Games`|
 |[Linux DLL Injector 64bit and 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/741101-linux-dll-injector-64bit-32bit.html)|`2026-03-04 07:12:00`|`PC Software`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-03-04 07:06:00`|`Elite: Dangerous`|
 |[Kuboom internal Esp & Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741094-kuboom-internal-esp-silent-aim.html)|`2026-03-04 06:50:00`|`Other FPS Games`|
