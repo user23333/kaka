@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-03 13:08:00`|`Valorant`|
+|[paladins silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/741097-paladins-silent-aim.html)|`2026-03-03 12:57:00`|`Paladins`|
+|[four UniqueIDs that few people pay attention to](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741096-uniqueids-people-pay-attention.html)|`2026-03-03 12:56:00`|`Anti-Cheat Bypass`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-03 12:43:00`|`Other FPS Games`|
 |[How do you get glitched guns?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/738719-glitched-guns.html)|`2026-03-03 12:20:00`|`Call of Duty: Modern Warfare III`|
 |[Hunchclient for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740950-hunchclient-windows.html)|`2026-03-03 12:12:00`|`ARC Raiders`|
 |[GrimApostles CS2 DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740311-grimapostles-cs2-dma-radar.html)|`2026-03-03 11:59:00`|`Counter-Strike 2`|
