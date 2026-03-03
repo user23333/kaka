@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Finding More BPs and Entity Names in Arc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738423-finding-bps-entity-names-arc.html)|`2026-03-03 15:47:00`|`ARC Raiders`|
+|[Free FiveM DMA ESP / Aimbot / Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740882-free-fivem-dma-esp-aimbot-web-radar.html)|`2026-03-03 15:36:00`|`Alternative Online Mods`|
+|[CS 1&#46;6 Simple WallHack by KkK1337](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/496671-cs-1-6-simple-wallhack-kkk1337.html)|`2026-03-03 15:15:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Small B&#45;Hop/Soldier 76 RCS AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/684397-hop-soldier-76-rcs-ahk-script.html)|`2026-03-03 15:11:00`|`Overwatch`|
 |[apex memory dump june 9th 2025](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741107-apex-memory-dump-june-9th-2025-a.html)|`2026-03-03 14:48:00`|`Apex Legends`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-03 14:40:00`|`Apex Legends`|
 |[Are there any menus for legacy that I can use while playing with legit friends?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741105-menus-legacy-playing-legit-friends.html)|`2026-03-03 14:27:00`|`Grand Theft Auto V`|
