@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2026-03-03 22:12:00`|`Anti-Cheat Bypass`|
+|[Map parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741137-map-parsing.html)|`2026-03-03 22:10:00`|`Counter-Strike 2`|
 |[internal or external ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740595-internal-external.html)|`2026-03-03 21:46:00`|`Counter-Strike 2`|
 |[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2026-03-03 21:39:00`|`Counter-Strike 2`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-03-03 21:32:00`|`Phasmophobia`|
