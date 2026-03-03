@@ -24,9 +24,16 @@
 |11|[marvel rivals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53387)|`2026-03-03 00:04:47`|
 |20|[BlueFirePaladinsHack&#45;master2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53385)|`2026-03-03 00:04:47`|
 |43|[PaladinsHack2&#46;3&#45;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53384)|`2026-03-03 00:04:47`|
+|1|[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53415)|`2026-03-03 08:00:58`|
+|1|[Fate Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53409)|`2026-03-03 08:00:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hwid unban method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741072-hwid-unban-method.html)|`2026-03-03 07:58:00`|`Rust`|
+|[&#40;c&#43;&#41; Bubble's Darling V2 Infection detector for rgh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741070-bubbles-darling-v2-infection-detector-rgh.html)|`2026-03-03 07:57:00`|`Call of Duty: Black Ops 2`|
+|[Fate Trigger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/713396-fate-trigger-reversal-structs-offsets.html)|`2026-03-03 07:52:00`|`Other FPS Games`|
+|[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-03-03 07:49:00`|`Rust`|
+|[DB FighterZ SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740960-db-fighterz-sdk.html)|`2026-03-03 07:48:00`|`Other Games`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2026-03-03 07:29:00`|`Rust`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2026-03-03 07:13:00`|`Anti-Cheat Bypass`|
 |[Help Reversing Super Animal Royale Obfuscated IL2CPP Dump &#40;Photon?&#41;, Need Entity Li](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741065-help-reversing-super-animal-royale-obfuscated-il2cpp-dump-photon-entity-li.html)|`2026-03-03 07:10:00`|`General Programming and Reversing`|
