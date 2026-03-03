@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC no longer loads a module into game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741026-eac-loads-module-game.html)|`2026-03-04 03:12:00`|`Anti-Cheat Bypass`|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-03-04 03:08:00`|`Counter-Strike 2`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-03-04 03:05:00`|`Phasmophobia`|
+|[Eterspire Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738938-eterspire-mod.html)|`2026-03-04 03:02:00`|`Other MMORPG and Strategy`|
+|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-04 02:58:00`|`Genshin Impact`|
+|[More adhesive hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737069-adhesive-hooks.html)|`2026-03-04 02:52:00`|`Alternative Online Mods`|
 |[Spring & Easter Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/741177-spring-easter-banner-contest-2026-winners.html)|`2026-03-04 02:27:00`|`Information and Announcements`|
 |[OBS UDP Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741178-obs-udp-plugin.html)|`2026-03-04 02:23:00`|`Valorant`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/676059-2024-unban-method-eac.html)|`2026-03-04 02:18:00`|`Anti-Cheat Bypass`|
