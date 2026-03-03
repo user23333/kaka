@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i feel like i'm addicted to cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/739500-feel-im-addicted-cheating.html)|`2026-03-03 23:20:00`|`Forum General`|
+|[newbie&#46; how do i start cheating in arc raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740461-newbie-start-cheating-arc-raiders.html)|`2026-03-03 23:16:00`|`ARC Raiders`|
+|[glitch ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740338-glitch.html)|`2026-03-03 23:16:00`|`ARC Raiders`|
 |[acceleron&#46;tech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715059-acceleron-tech.html)|`2026-03-03 22:12:00`|`Anti-Cheat Bypass`|
 |[Map parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741137-map-parsing.html)|`2026-03-03 22:10:00`|`Counter-Strike 2`|
 |[internal or external ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740595-internal-external.html)|`2026-03-03 21:46:00`|`Counter-Strike 2`|
