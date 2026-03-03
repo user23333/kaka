@@ -39,9 +39,13 @@
 |1|[BO2 Theater Custom Image Tool by Rain Reach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53427)|`2026-03-04 06:35:45`|
 |2|[QuasarDMA 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53426)|`2026-03-04 06:35:45`|
 |1|[Kuboom&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53429)|`2026-03-04 06:55:57`|
+|1|[EtherHack&#45;3&#46;0&#46;3&#45;B42](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53432)|`2026-03-04 07:17:04`|
+|2|[Proton Injector for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53430)|`2026-03-04 07:17:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Linux DLL Injector 64bit and 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/741101-linux-dll-injector-64bit-32bit.html)|`2026-03-04 07:12:00`|`PC Software`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-03-04 07:06:00`|`Elite: Dangerous`|
 |[Kuboom internal Esp & Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741094-kuboom-internal-esp-silent-aim.html)|`2026-03-04 06:50:00`|`Other FPS Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-04 06:30:00`|`Battlefield 6`|
 |[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-03-04 06:30:00`|`Escape from Tarkov`|
