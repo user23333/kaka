@@ -61,6 +61,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cast Spell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741269-cast-spell.html)|`2026-03-04 16:06:00`|`League of Legends`|
+|[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-03-04 16:00:00`|`Insurgency`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-04 15:26:00`|`Other FPS Games`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-04 15:11:00`|`HELLDIVERS 2`|
 |[The division 2 free cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/733441-division-2-free-cheat-menu.html)|`2026-03-04 15:08:00`|`Tom Clancy's The Division`|
