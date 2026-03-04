@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737185-injection-methods.html)|`2026-03-05 07:12:00`|`Anti-Cheat Bypass`|
+|[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-03-05 07:09:00`|`Other MMORPG and Strategy`|
 |[CS2 Reversed Vtables / API / SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740718-cs2-reversed-vtables-api-sdk.html)|`2026-03-05 06:48:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-05 06:47:00`|`Overwatch`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741377-colorbot.html)|`2026-03-05 06:27:00`|`Valorant`|
