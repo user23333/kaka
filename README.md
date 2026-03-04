@@ -61,6 +61,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does Valorant's anti&#45;cheat &#40;Vanguard&#41; monitor python&#46;exe processes running in the bac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741275-valorants-anti-cheat-vanguard-monitor-python-exe-processes-running-bac.html)|`2026-03-04 18:50:00`|`Anti-Cheat Bypass`|
+|[need some help with autoclicker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741273-help-autoclicker.html)|`2026-03-04 18:24:00`|`Minecraft`|
+|[Skyblock Client in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/738037-skyblock-client-2026-a.html)|`2026-03-04 18:11:00`|`Minecraft`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-03-04 17:08:00`|`Other FPS Games`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-04 17:29:00`|`Other FPS Games`|
 |[VALO Hybrid Colorbot V9 &#40;External &#124; Dual FOV &#124; Box Merging&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738899-valo-hybrid-colorbot-v9-external-dual-fov-box-merging.html)|`2026-03-04 17:09:00`|`Valorant`|
