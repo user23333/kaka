@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting Lua Byte Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/717448-decrypting-lua-byte-code.html)|`2026-03-05 01:04:00`|`Alternative Online Mods`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-05 01:04:00`|`Counter-Strike 2`|
+|[Kuboom internal Esp & Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741094-kuboom-internal-esp-silent-aim.html)|`2026-03-05 01:02:00`|`Other FPS Games`|
+|[vmhv very minimalistic x64 intel hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741323-vmhv-minimalistic-x64-intel-hypervisor-base.html)|`2026-03-05 01:02:00`|`Anti-Cheat Bypass`|
+|[Eterspire Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738938-eterspire-mod.html)|`2026-03-05 01:00:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-05 00:55:00`|`Rust`|
+|[vis check using LOS &#40;shellcode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741174-vis-check-using-los-shellcode.html)|`2026-03-05 00:53:00`|`Escape from Tarkov`|
+|[2k26 autogreen vip or secret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737408-2k26-autogreen-vip-secret.html)|`2026-03-05 00:52:00`|`Other Games`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-05 00:49:00`|`Other FPS Games`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-05 00:26:00`|`ARC Raiders`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-05 00:24:00`|`Apex Legends`|
 |[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-03-05 00:24:00`|`Valorant`|
