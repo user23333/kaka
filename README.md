@@ -55,9 +55,18 @@
 |2|[GrimApostles&#45;CS2 Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53443)|`2026-03-04 09:42:01`|
 |4|[Eterspire Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53441)|`2026-03-04 09:42:01`|
 |1|[Spiritvale Bot 2&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53440)|`2026-03-04 09:42:01`|
+|5|[EterspirePublic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53452)|`2026-03-04 11:53:25`|
+|10|[Andromeda&#45;DeadLock&#45;2&#46;0&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53451)|`2026-03-04 11:53:25`|
+|3|[Terraria 1&#46;4&#46;5&#46;5 Table Ver 2&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53450)|`2026-03-04 11:53:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ndisGlobalFilterList pattern for Windows 11 25H2 &#40;ndis&#46;sys&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741253-ndisglobalfilterlist-pattern-windows-11-25h2-ndis-sys.html)|`2026-03-04 11:47:00`|`Anti-Cheat Bypass`|
+|[Ways to Force Disable TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741254-force-disable-tpm.html)|`2026-03-04 11:43:00`|`Valorant`|
+|[apex dma cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741246-apex-dma-cheats.html)|`2026-03-04 11:38:00`|`Apex Legends`|
+|[My first internal Valorant project in my life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741249-internal-valorant-project-life.html)|`2026-03-04 11:36:00`|`Valorant`|
+|[Bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740856-bones.html)|`2026-03-04 11:29:00`|`Deadlock`|
+|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-04 11:29:00`|`Apex Legends`|
 |[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-04 09:41:00`|`Apex Legends`|
 |[Liar's Bar Mod &#124; 0&#46;981 &#124; DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739845-liars-bar-mod-0-981-dll.html)|`2026-03-04 09:37:00`|`Other Games`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-04 09:25:00`|`Overwatch`|
