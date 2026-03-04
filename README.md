@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-05 06:11:00`|`Other Games`|
+|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-05 06:07:00`|`Apex Legends`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-05 06:04:00`|`Escape from Tarkov`|
+|[How to find classes or other things in reverse?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741372-classes-reverse.html)|`2026-03-05 05:58:00`|`General Programming and Reversing`|
+|[&#91;WORKING&#93; FemboyHook &#45; CS2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740250-femboyhook-cs2-internal-esp.html)|`2026-03-05 05:56:00`|`Counter-Strike 2`|
+|[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2026-03-05 05:52:00`|`DayZ SA`|
 |[Quarantine Zone The Last Check Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/741369-quarantine-zone-check-internal.html)|`2026-03-05 05:45:00`|`Other Single Player Games`|
 |[strafe optimizer &#43; movement recorder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/739804-strafe-optimizer-movement-recorder.html)|`2026-03-05 05:38:00`|`CounterStrike Source`|
 |[Evelyn &#45; Simple Unlocker for Dead By Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740210-evelyn-simple-unlocker-dead-daylight.html)|`2026-03-05 05:38:00`|`Other FPS Games`|
