@@ -61,6 +61,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any good clients out there atm?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/740936-clients-atm.html)|`2026-03-04 13:00:00`|`Sea of Thieves`|
+|[Let It Die &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/713564-die-internal.html)|`2026-03-04 12:47:00`|`Other Games`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-03-04 12:40:00`|`Other MMORPG and Strategy`|
+|[about league of legends offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741258-league-legends-offsets.html)|`2026-03-04 12:39:00`|`League of Legends`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-04 12:36:00`|`League of Legends`|
 |[ndisGlobalFilterList pattern for Windows 11 25H2 &#40;ndis&#46;sys&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741253-ndisglobalfilterlist-pattern-windows-11-25h2-ndis-sys.html)|`2026-03-04 11:47:00`|`Anti-Cheat Bypass`|
 |[Ways to Force Disable TPM?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741254-force-disable-tpm.html)|`2026-03-04 11:43:00`|`Valorant`|
 |[apex dma cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741246-apex-dma-cheats.html)|`2026-03-04 11:38:00`|`Apex Legends`|
