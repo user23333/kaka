@@ -11,6 +11,7 @@
 |10|[CS2 Kernel Cheat w Map Parser, WB & a lot more stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740684-cs2-kernel-cheat-map-parser-wb-lot-stuff.html)|`2026-03-05 00:26:50`|`counter-strike-2-a`|
 |9|[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-03-05 00:26:50`|`rainbow-six-siege`|
 |3|[&#91;WORKING&#93; FemboyHook &#45; CS2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740250-femboyhook-cs2-internal-esp.html)|`2026-03-05 00:26:50`|`counter-strike-2-a`|
+|18|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740485-silent-aim.html)|`2026-03-05 04:49:38`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,15 @@
 |5|[syscall&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53454)|`2026-03-05 03:48:44`|
 |5|[valorant 12&#46;04 sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53453)|`2026-03-05 03:48:44`|
 |1|[Wanderburg1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53461)|`2026-03-05 04:17:14`|
+|6|[vmhv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53463)|`2026-03-05 04:49:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-05 04:46:00`|`Other MMORPG and Strategy`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-03-05 04:39:00`|`Other MMORPG and Strategy`|
+|[ndisGlobalFilterList pattern for Windows 11 25H2 &#40;ndis&#46;sys&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741253-ndisglobalfilterlist-pattern-windows-11-25h2-ndis-sys.html)|`2026-03-05 04:37:00`|`Anti-Cheat Bypass`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-05 04:29:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-05 04:25:00`|`Marvel Rivals`|
 |[Jump Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734088-jump-bug.html)|`2026-03-05 04:15:00`|`Counter-Strike 2`|
 |[What is schema? How do i find it? How do i use it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741299-schema.html)|`2026-03-05 04:12:00`|`General Programming and Reversing`|
 |[Vanguard Bypass &#45; Source Code &#45; Lennox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740538-vanguard-bypass-source-code-lennox.html)|`2026-03-05 04:10:00`|`Valorant`|
