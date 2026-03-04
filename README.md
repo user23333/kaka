@@ -61,6 +61,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pre&#45;Searing Bot 2026 &#40;Reforged Update working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars/741270-pre-searing-bot-2026-reforged-update.html)|`2026-03-04 16:38:00`|`Guild Wars`|
+|[paladins silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/741097-paladins-silent-aim.html)|`2026-03-04 16:38:00`|`Paladins`|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2026-03-04 16:37:00`|`Paladins`|
 |[Cast Spell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741269-cast-spell.html)|`2026-03-04 16:06:00`|`League of Legends`|
 |[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-03-04 16:00:00`|`Insurgency`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-04 15:26:00`|`Other FPS Games`|
