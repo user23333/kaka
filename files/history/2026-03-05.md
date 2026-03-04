@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Reversed Vtables / API / SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740718-cs2-reversed-vtables-api-sdk.html)|`2026-03-05 06:48:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-05 06:47:00`|`Overwatch`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741377-colorbot.html)|`2026-03-05 06:27:00`|`Valorant`|
+|[All Quiet Roads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/741376-quiet-roads.html)|`2026-03-05 06:26:00`|`Cheat Engine Tables`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-05 06:24:00`|`Red Dead Redemption 2`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-05 06:11:00`|`Other Games`|
 |[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-05 06:07:00`|`Apex Legends`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-05 06:04:00`|`Escape from Tarkov`|
