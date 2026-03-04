@@ -62,6 +62,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal ESP &#43; Aimbot /](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-03-04 22:43:00`|`Combat Master`|
 |[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-03-04 22:23:00`|`Anti-Cheat Bypass`|
 |[Map parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741137-map-parsing.html)|`2026-03-04 22:16:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-03-04 22:10:00`|`Other Games`|
