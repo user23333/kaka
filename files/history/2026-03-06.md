@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cod dumper updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733254-cod-dumper-updated.html)|`2026-03-06 06:04:00`|`Call of Duty: Black Ops 7`|
+|[Python orbwalker / Easy to use &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/737275-python-orbwalker-easy.html)|`2026-03-06 06:03:00`|`League of Legends`|
+|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-06 05:52:00`|`Apex Legends`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-03-06 05:44:00`|`Phasmophobia`|
 |[BattleCry &#45; Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732168-battlecry-loader.html)|`2026-03-06 05:41:00`|`Escape from Tarkov`|
 |[I need some patterns for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740275-patterns-cs2.html)|`2026-03-06 05:38:00`|`Counter-Strike 2`|
