@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[D3D12 Wallhack with imgui overlay &#43; src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/736269-d3d12-wallhack-imgui-overlay-src.html)|`2026-03-05 18:51:00`|`D3D Tutorials and Source`|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-05 18:47:00`|`Other MMORPG and Strategy`|
+|[Ponelys DMA EFT Dumper &#43; More&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740040-ponelys-dma-eft-dumper.html)|`2026-03-05 18:36:00`|`Escape from Tarkov`|
+|[Visible Check by AggGeom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741423-visible-check-agggeom.html)|`2026-03-05 18:32:00`|`Valorant`|
+|[Does Valorant's anti&#45;cheat &#40;Vanguard&#41; monitor python&#46;exe processes running in the bac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741275-valorants-anti-cheat-vanguard-monitor-python-exe-processes-running-bac.html)|`2026-03-05 18:29:00`|`Anti-Cheat Bypass`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-03-05 18:29:00`|`Valorant`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-03-05 17:59:00`|`Rainbow Six Siege`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-03-05 17:44:00`|`Apex Legends`|
 |[VPhysics2 internals and Source 2 movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741390-vphysics2-internals-source-2-movement.html)|`2026-03-05 17:42:00`|`Counter-Strike 2`|
