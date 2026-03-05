@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wanderburg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/741438-wanderburg.html)|`2026-03-05 22:27:00`|`Cheat Engine Tables`|
+|[DMI EDIT TO BYPASS HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737965-dmi-edit-bypass-hwid-ban.html)|`2026-03-05 21:59:00`|`Rust`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-05 21:39:00`|`HELLDIVERS 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-05 21:30:00`|`Escape from Tarkov`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-05 21:30:00`|`Call of Duty: Black Ops 7`|
