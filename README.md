@@ -45,6 +45,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I have issues compiling my driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741058-issues-compiling-driver.html)|`2026-03-05 13:52:00`|`General Programming and Reversing`|
+|[HOW DO I LEVEL UP IN LS CAR MEET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/739107-level-ls-car-meet.html)|`2026-03-05 13:39:00`|`Grand Theft Auto V`|
+|[Any methods in using Cheat Engine anymore?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/740721-methods-using-cheat-engine-anymore.html)|`2026-03-05 13:30:00`|`Grand Theft Auto V`|
+|[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-03-05 13:29:00`|`Anti-Cheat Bypass`|
 |[I'm getting insta banned after using AC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/741395-im-getting-insta-banned-using-ac-bypass.html)|`2026-03-05 13:09:00`|`Marvel Rivals`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2026-03-05 13:06:00`|`Rust`|
 |[Free FiveM DMA ESP / Aimbot / Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740882-free-fivem-dma-esp-aimbot-web-radar.html)|`2026-03-05 12:50:00`|`Alternative Online Mods`|
