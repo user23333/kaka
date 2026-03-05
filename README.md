@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-03-06 07:20:00`|`ARC Raiders`|
+|[Kernel & UM Communication Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741531-kernel-um-communication-methods.html)|`2026-03-06 07:15:00`|`Anti-Cheat Bypass`|
+|[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-03-06 07:11:00`|`ARC Raiders`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-06 07:10:00`|`Overwatch`|
+|[CS2 Entity List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741532-cs2-entity-list.html)|`2026-03-06 07:09:00`|`Counter-Strike 2`|
+|[Finding the offset in Apex Legends 3&#46;03 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/738264-finding-offset-apex-legends-3-03-update.html)|`2026-03-06 07:08:00`|`Apex Legends`|
 |[cod dumper updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733254-cod-dumper-updated.html)|`2026-03-06 06:04:00`|`Call of Duty: Black Ops 7`|
 |[Python orbwalker / Easy to use &#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/737275-python-orbwalker-easy.html)|`2026-03-06 06:03:00`|`League of Legends`|
 |[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-06 05:52:00`|`Apex Legends`|
