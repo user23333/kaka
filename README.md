@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-05 17:12:00`|`Overwatch`|
+|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-03-05 17:06:00`|`Counter-Strike 2`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-03-05 17:02:00`|`Grand Theft Auto V`|
 |[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-05 16:55:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-03-05 16:53:00`|`Sea of Thieves`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-05 16:42:00`|`Call of Duty: Black Ops 7`|
