@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-05 16:55:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-03-05 16:53:00`|`Sea of Thieves`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-05 16:42:00`|`Call of Duty: Black Ops 7`|
+|[Epitome Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738123-epitome-reversal-structs-offsets.html)|`2026-03-05 16:19:00`|`Other MMORPG and Strategy`|
 |[devirtualizing vmp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741409-devirtualizing-vmp.html)|`2026-03-05 15:53:00`|`General Programming and Reversing`|
 |[AMD DirectML Aimbot/ESP Basic PY Script with Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740638-amd-directml-aimbot-esp-basic-py-script-model.html)|`2026-03-05 15:51:00`|`Rainbow Six Siege`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/721188-skin-changer.html)|`2026-03-05 15:43:00`|`Marvel Rivals`|
