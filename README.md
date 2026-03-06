@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-03-07 06:13:00`|`Other Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-03-07 06:04:00`|`Deadlock`|
 |[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-03-07 05:51:00`|`Grand Theft Auto V`|
 |[Ways to test driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741667-test-driver-detection.html)|`2026-03-07 05:48:00`|`Forum General`|
 |[can make minimap radar external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741599-minimap-radar-external.html)|`2026-03-07 05:41:00`|`Apex Legends`|
