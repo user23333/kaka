@@ -12,6 +12,7 @@
 |18|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740485-silent-aim.html)|`2026-03-06 00:00:19`|`call-of-duty-black-ops-7-a`|
 |4|[newbie&#46; how do i start cheating in arc raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740461-newbie-start-cheating-arc-raiders.html)|`2026-03-06 00:00:19`|`arc-raiders`|
 |14|[My first internal Valorant project in my life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741249-internal-valorant-project-life.html)|`2026-03-06 02:06:03`|`valorant`|
+|14|[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-03-06 13:58:46`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-06 13:39:00`|`Call of Duty: Black Ops 7`|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-03-06 13:35:00`|`Other Games`|
+|[Anticheats AntiSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740857-anticheats-antispoof.html)|`2026-03-06 13:18:00`|`Alternative Online Mods`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-06 13:08:00`|`Roblox`|
 |[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2026-03-06 13:01:00`|`Other MMORPG and Strategy`|
 |[Valorant SDK & Offsets Website for Reversal Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741565-valorant-sdk-offsets-website-reversal-thread.html)|`2026-03-06 12:50:00`|`Valorant`|
