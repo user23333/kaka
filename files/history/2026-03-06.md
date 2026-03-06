@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-06 09:57:00`|`Other FPS Games`|
+|[weapon inv changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741552-weapon-inv-changer.html)|`2026-03-06 09:54:00`|`Counter-Strike 2`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-06 09:54:00`|`HELLDIVERS 2`|
+|[vis check using LOS &#40;shellcode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741174-vis-check-using-los-shellcode.html)|`2026-03-06 09:53:00`|`Escape from Tarkov`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-03-06 09:37:00`|`Rust`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-06 09:35:00`|`Other FPS Games`|
+|[Chivalry 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741550-chivalry-2-a.html)|`2026-03-06 09:35:00`|`Other Games`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2026-03-06 09:34:00`|`Escape from Tarkov`|
 |[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-03-06 07:58:00`|`Counter-Strike 2`|
 |[My first internal Valorant project in my life](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741249-internal-valorant-project-life.html)|`2026-03-06 07:56:00`|`Valorant`|
 |[FN/Rust eac dump with fixed IAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733504-fn-rust-eac-dump-fixed-iat.html)|`2026-03-06 07:54:00`|`Anti-Cheat Bypass`|
