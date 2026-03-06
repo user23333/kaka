@@ -26,9 +26,14 @@
 |3|[Borderlands 4 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53464)|`2026-03-06 00:00:19`|
 |62|[vmhv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53463)|`2026-03-06 00:00:19`|
 |4|[Wanderburg1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53461)|`2026-03-06 00:00:19`|
+|2|[expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53491)|`2026-03-06 20:51:27`|
+|1|[marvelrivals sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53482)|`2026-03-06 20:51:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-06 20:42:00`|`THE FINALS`|
+|[Spring & Easter Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/741177-spring-easter-banner-contest-2026-winners.html)|`2026-03-06 20:34:00`|`Information and Announcements`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-06 20:27:00`|`Other FPS Games`|
 |[some expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741608-expired-cert.html)|`2026-03-06 19:58:00`|`Anti-Cheat Bypass`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-06 19:42:00`|`Valorant`|
 |[OW2 Resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/741604-ow2-resources.html)|`2026-03-06 19:42:00`|`Overwatch`|
