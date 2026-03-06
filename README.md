@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-06 13:08:00`|`Roblox`|
+|[GM Menu &#124; Where Winds Meet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725991-gm-menu-winds-meet.html)|`2026-03-06 13:01:00`|`Other MMORPG and Strategy`|
+|[Valorant SDK & Offsets Website for Reversal Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741565-valorant-sdk-offsets-website-reversal-thread.html)|`2026-03-06 12:50:00`|`Valorant`|
+|[YimMenu not loading&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741509-yimmenu-loading.html)|`2026-03-06 12:29:00`|`Grand Theft Auto V`|
+|[Dumping val SDKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741561-dumping-val-sdks.html)|`2026-03-06 12:19:00`|`Valorant`|
 |[YimMenu Injection Error – “Some patterns could not be found, unloading&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741474-yimmenu-injection-error-patterns-found-unloading.html)|`2026-03-06 12:00:00`|`Grand Theft Auto V`|
 |[Delta Force WeGame， Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741559-delta-force-wegame-structs-offsets.html)|`2026-03-06 11:54:00`|`Other FPS Games`|
 |[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-03-06 11:48:00`|`Anti-Cheat Bypass`|
