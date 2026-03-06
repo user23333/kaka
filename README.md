@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat master cheat buying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741595-combat-master-cheat-buying.html)|`2026-03-06 18:01:00`|`Combat Master`|
+|[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-06 17:44:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-06 17:37:00`|`League of Legends`|
 |[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-06 17:35:00`|`Call of Duty 6: Modern Warfare 2`|
 |[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740422-mouse-movement.html)|`2026-03-06 17:29:00`|`Valorant`|
