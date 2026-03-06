@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-03-06 16:03:00`|`Off Topic`|
 |[EAC no longer loads a module into game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741026-eac-loads-module-game.html)|`2026-03-06 15:16:00`|`Anti-Cheat Bypass`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-03-06 15:08:00`|`Age of Empires`|
 |[access &#45; noseh     windows 11 23H2  problem with x64 bit process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741580-access-noseh-windows-11-23h2-x64-bit-process.html)|`2026-03-06 15:04:00`|`Anti-Cheat Bypass`|
