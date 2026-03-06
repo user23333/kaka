@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glitch ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740338-glitch.html)|`2026-03-06 21:52:00`|`ARC Raiders`|
+|[How Heartopia Mod/Cheat is Maded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737340-heartopia-mod-cheat-maded.html)|`2026-03-06 21:47:00`|`Other Games`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-03-06 21:45:00`|`Call of Duty: Black Ops 7`|
 |[Help with the 12&#46;04 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741616-help-12-04-offsets.html)|`2026-03-06 21:41:00`|`Valorant`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-06 21:32:00`|`Overwatch`|
 |[Adhesive RetnAddr checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741491-adhesive-retnaddr-checking.html)|`2026-03-06 21:27:00`|`Alternative Online Mods`|
