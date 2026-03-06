@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-06 19:42:00`|`Valorant`|
+|[OW2 Resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/741604-ow2-resources.html)|`2026-03-06 19:42:00`|`Overwatch`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-06 19:21:00`|`Deadlock`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-06 18:54:00`|`Counter-Strike 2`|
 |[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2026-03-06 18:53:00`|`Other Games`|
 |[Offsets Dump Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736019-offsets-dump-steam-version.html)|`2026-03-06 18:51:00`|`Combat Master`|
