@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-06 18:49:00`|`Overwatch`|
+|[can make minimap radar external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741599-minimap-radar-external.html)|`2026-03-06 18:45:00`|`Apex Legends`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-03-06 18:37:00`|`Other MMORPG and Strategy`|
+|[anybody knows how to get the nuke stratagem?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741598-nuke-stratagem.html)|`2026-03-06 18:36:00`|`HELLDIVERS 2`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741377-colorbot.html)|`2026-03-06 18:29:00`|`Valorant`|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-03-06 18:18:00`|`Other MMORPG and Strategy`|
 |[Combat master cheat buying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741595-combat-master-cheat-buying.html)|`2026-03-06 18:01:00`|`Combat Master`|
 |[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-06 17:44:00`|`Anti-Cheat Bypass`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-06 17:37:00`|`League of Legends`|
