@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-06 17:37:00`|`League of Legends`|
+|[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-06 17:35:00`|`Call of Duty 6: Modern Warfare 2`|
+|[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740422-mouse-movement.html)|`2026-03-06 17:29:00`|`Valorant`|
+|[Free 1 hour Spoofer HWID &#45; Bypass VAN 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741590-free-1-hour-spoofer-hwid-bypass-van-152-a.html)|`2026-03-06 17:26:00`|`League of Legends`|
+|[Free 1 hour Spoofer HWID &#45; Bypass VAN 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741589-free-1-hour-spoofer-hwid-bypass-van-152-a.html)|`2026-03-06 17:22:00`|`League of Legends`|
+|[Reading memory on XIGNCODE3 &#40;Build 105025&#41; &#45; CE shows "??"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740423-reading-memory-xigncode3-build-105025-ce.html)|`2026-03-06 17:11:00`|`Anti-Cheat Bypass`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-06 16:40:00`|`Escape from Tarkov`|
 |[HWID Ban BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741585-hwid-ban-bo7.html)|`2026-03-06 16:23:00`|`Call of Duty: Black Ops 7`|
 |[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-03-06 16:03:00`|`Off Topic`|
