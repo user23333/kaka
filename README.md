@@ -14,6 +14,7 @@
 |17|[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-03-07 01:55:39`|`arc-raiders`|
 |9|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740926-inventory-changer.html)|`2026-03-07 03:08:51`|`counter-strike-2-a`|
 |6|[vmhv very minimalistic x64 intel hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741323-vmhv-minimalistic-x64-intel-hypervisor-base.html)|`2026-03-07 04:35:04`|`anti-cheat-bypass`|
+|19|[Latest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740739-offsets.html)|`2026-03-07 07:43:32`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-07 07:34:00`|`Rainbow Six Siege`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-07 07:27:00`|`Roblox`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-03-07 07:18:00`|`Grand Theft Auto V`|
 |[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-03-07 07:12:00`|`Other Single Player Games`|
 |[Ban help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/740749-ban-help.html)|`2026-03-07 07:01:00`|`Escape from Tarkov`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-07 06:53:00`|`Marvel Rivals`|
