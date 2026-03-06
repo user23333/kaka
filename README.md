@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-03-07 05:23:00`|`Sea of Thieves`|
+|[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-07 05:12:00`|`Call of Duty 6: Modern Warfare 2`|
+|[OW2 Resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/741604-ow2-resources.html)|`2026-03-07 05:12:00`|`Overwatch`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-07 05:11:00`|`Red Dead Redemption 2`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-03-07 05:02:00`|`Tom Clancy's The Division`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-07 04:29:00`|`Other Games`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-07 04:29:00`|`ARMA 3`|
 |[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-03-07 04:20:00`|`Team Fortress 2`|
