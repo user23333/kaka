@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu Injection Error – “Some patterns could not be found, unloading&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741474-yimmenu-injection-error-patterns-found-unloading.html)|`2026-03-06 12:00:00`|`Grand Theft Auto V`|
+|[Delta Force WeGame， Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741559-delta-force-wegame-structs-offsets.html)|`2026-03-06 11:54:00`|`Other FPS Games`|
+|[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-03-06 11:48:00`|`Anti-Cheat Bypass`|
+|[Mapping 'gameAssetId' from Inventory API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741198-mapping-gameassetid-inventory-api.html)|`2026-03-06 11:47:00`|`ARC Raiders`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-06 11:41:00`|`Red Dead Redemption 2`|
+|[Rose Online Bot 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740436-rose-online-bot-2026-a.html)|`2026-03-06 11:41:00`|`Other MMORPG and Strategy`|
+|[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-03-06 11:22:00`|`Team Fortress 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-06 09:57:00`|`Other FPS Games`|
 |[weapon inv changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741552-weapon-inv-changer.html)|`2026-03-06 09:54:00`|`Counter-Strike 2`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-06 09:54:00`|`HELLDIVERS 2`|
