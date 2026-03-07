@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Imperium free inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741542-imperium-free-inventory-changer.html)|`2026-03-07 17:29:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-03-07 17:25:00`|`Rainbow Six Siege`|
 |["Dear teachers, could you please advise how to get the number and names of people cur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741727-dear-teachers-please-advise-names-people-cur.html)|`2026-03-07 17:08:00`|`Apex Legends`|
 |[ndisGlobalFilterList pattern for Windows 11 25H2 &#40;ndis&#46;sys&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741253-ndisglobalfilterlist-pattern-windows-11-25h2-ndis-sys.html)|`2026-03-07 17:05:00`|`Anti-Cheat Bypass`|
 |[Viewmodel chams weapon and hands separation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741115-viewmodel-chams-weapon-hands-separation.html)|`2026-03-07 17:04:00`|`Rust`|
