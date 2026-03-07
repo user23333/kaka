@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Dear teachers, could you please advise how to get the number and names of people cur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741727-dear-teachers-please-advise-names-people-cur.html)|`2026-03-07 17:08:00`|`Apex Legends`|
+|[ndisGlobalFilterList pattern for Windows 11 25H2 &#40;ndis&#46;sys&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741253-ndisglobalfilterlist-pattern-windows-11-25h2-ndis-sys.html)|`2026-03-07 17:05:00`|`Anti-Cheat Bypass`|
+|[Viewmodel chams weapon and hands separation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741115-viewmodel-chams-weapon-hands-separation.html)|`2026-03-07 17:04:00`|`Rust`|
 |[Apex, could you tell me how to get the number and names of people currently spectatin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740835-apex-tell-names-people-currently-spectatin.html)|`2026-03-07 16:55:00`|`Apex Legends`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-07 16:33:00`|`Counter-Strike 2`|
 |[how to bypass the Easy Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716706-bypass-easy-anti-cheat.html)|`2026-03-07 15:55:00`|`Anti-Cheat Bypass`|
