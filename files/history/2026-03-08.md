@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal &#45; Aimbot, ESP, Radar, Triggerbot, Silent Aim & more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741544-cs2-internal-aimbot-esp-radar-triggerbot-silent-aim.html)|`2026-03-08 04:43:00`|`Counter-Strike 2`|
+|[Updated &#46;pak Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/741820-updated-pak-files.html)|`2026-03-08 04:26:00`|`Payday 3`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-08 04:24:00`|`Call of Duty: Black Ops 7`|
 |[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2026-03-08 04:19:00`|`Rust`|
 |[Spring & Easter Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/741177-spring-easter-banner-contest-2026-winners.html)|`2026-03-08 04:12:00`|`Information and Announcements`|
