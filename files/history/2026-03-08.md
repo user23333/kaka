@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-08 06:24:00`|`Other FPS Games`|
+|[GrimApostles CS2 DMA Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740311-grimapostles-cs2-dma-radar.html)|`2026-03-08 06:20:00`|`Counter-Strike 2`|
+|[Spawn Stratum 255 with hidden mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/703767-spawn-stratum-255-hidden-mods.html)|`2026-03-08 06:18:00`|`Grand Theft Auto V`|
+|[YimMenu Injection Error – “Some patterns could not be found, unloading&#46;”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741474-yimmenu-injection-error-patterns-found-unloading.html)|`2026-03-08 06:06:00`|`Grand Theft Auto V`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-03-08 05:59:00`|`Payday 3`|
 |[&#40;RGH&#41; BO2 Theater Custom Image Tool by Rain Reach&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741062-rgh-bo2-theater-custom-image-tool-rain-reach.html)|`2026-03-08 05:58:00`|`Call of Duty: Black Ops 2`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-03-08 05:53:00`|`Sea of Thieves`|
