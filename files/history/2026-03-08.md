@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to Make my own esp and aimbot for r6 but idk how to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741811-trying-own-esp-aimbot-r6-idk-code.html)|`2026-03-08 03:58:00`|`Rainbow Six Siege`|
 |[Arduino help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741321-arduino-help.html)|`2026-03-08 03:53:00`|`Valorant`|
 |[What's the easiest aimbot/triggerbot to use? exe file preferably](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741407-whats-easiest-aimbot-triggerbot-exe-file-preferably.html)|`2026-03-08 03:50:00`|`Valorant`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-08 03:48:00`|`Valorant`|
