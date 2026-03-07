@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-03-08 05:13:00`|`Other FPS Games`|
+|[Roblox External Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/739489-roblox-external-help.html)|`2026-03-08 05:02:00`|`Roblox`|
+|[where do i start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/741662-start.html)|`2026-03-08 04:59:00`|`Roblox`|
+|[Battlefield 2 Server Bot Seeder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/740980-battlefield-2-server-bot-seeder.html)|`2026-03-08 04:57:00`|`Battlefield 2`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-08 04:54:00`|`Grand Theft Auto V`|
 |[Visibility Check/Tracing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741754-visibility-check-tracing-crash.html)|`2026-03-08 04:52:00`|`Counter-Strike 2`|
 |[CS2 DMA ESP RADAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740540-cs2-dma-esp-radar.html)|`2026-03-08 04:51:00`|`Counter-Strike 2`|
