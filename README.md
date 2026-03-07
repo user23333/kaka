@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone know about the GWorld SDK and the decryption method for GWorld? I can't f](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741747-gworld-sdk-decryption-method-gworld-cant.html)|`2026-03-07 19:25:00`|`Valorant`|
+|[Super Battle Golf v313 &#45; Infinite Slot Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740975-super-battle-golf-v313-infinite-slot-items.html)|`2026-03-07 19:22:00`|`Other Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-07 19:20:00`|`Other FPS Games`|
 |[Razer Aim Color 2026 JFDev](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741742-razer-aim-color-2026-jfdev.html)|`2026-03-07 19:05:00`|`Valorant`|
 |[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-03-07 18:58:00`|`Valorant`|
 |[Updated PVZ GW2 Cheat&#40;s&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/686351-updated-pvz-gw2-cheat.html)|`2026-03-07 18:46:00`|`Forum General`|
