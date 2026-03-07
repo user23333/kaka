@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chicken Bone ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730969-chicken-bone-esp.html)|`2026-03-07 20:44:00`|`Counter-Strike 2`|
+|[Dead Frontier 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/483551-dead-frontier-2-a.html)|`2026-03-07 20:34:00`|`Other FPS Games`|
+|[About kernel driver and hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741756-kernel-driver-hypervisor.html)|`2026-03-07 20:33:00`|`Anti-Cheat Bypass`|
+|[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-07 20:21:00`|`Alternative Online Mods`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-07 19:34:00`|`League of Legends`|
 |[League of Legends PDB/IDB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/632397-league-legends-pdb-idb.html)|`2026-03-07 19:28:00`|`League of Legends`|
 |[Free Spoofer Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733731-free-spoofer-arena-breakout-infinite.html)|`2026-03-07 19:27:00`|`Other FPS Games`|
