@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-07 13:17:00`|`Minecraft`|
+|[External Raycasting &#40;PhysX recreation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/673196-external-raycasting-physx-recreation.html)|`2026-03-07 13:06:00`|`Escape from Tarkov`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-03-07 13:05:00`|`Other MMORPG and Strategy`|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-07 13:03:00`|`Overwatch`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-07 13:00:00`|`Other FPS Games`|
+|[Recommend me an obscure mouse brands with good onboard capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741718-recommend-obscure-mouse-brands-onboard-capabilities.html)|`2026-03-07 12:36:00`|`Valorant`|
 |[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-03-07 12:25:00`|`Other MMORPG and Strategy`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-07 12:25:00`|`Other MMORPG and Strategy`|
 |[Spawning npcs anywhere?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741716-spawning-npcs.html)|`2026-03-07 12:22:00`|`HELLDIVERS 2`|
