@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-03-08 07:36:00`|`Rainbow Six Siege`|
+|[Where to begin in reverse engineering for Vanguard&#45;protected games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741517-begin-reverse-engineering-vanguard-protected-games.html)|`2026-03-08 07:35:00`|`General Programming and Reversing`|
+|[Cheat table to spawn in enemies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741261-cheat-table-spawn-enemies.html)|`2026-03-08 07:30:00`|`HELLDIVERS 2`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-08 07:10:00`|`HELLDIVERS 2`|
 |[YimMenuV2 &#124; Themes, Vehicles, Outfits & Locations Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741656-yimmenuv2-themes-vehicles-outfits-locations-collection-thread.html)|`2026-03-08 07:09:00`|`Grand Theft Auto V`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-08 07:08:00`|`Red Dead Redemption 2`|
