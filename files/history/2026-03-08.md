@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-03-08 05:59:00`|`Payday 3`|
+|[&#40;RGH&#41; BO2 Theater Custom Image Tool by Rain Reach&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741062-rgh-bo2-theater-custom-image-tool-rain-reach.html)|`2026-03-08 05:58:00`|`Call of Duty: Black Ops 2`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-03-08 05:53:00`|`Sea of Thieves`|
 |[does anyone have sigmaker for ida 9&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741824-sigmaker-ida-9-0-a.html)|`2026-03-08 05:44:00`|`General Programming and Reversing`|
 |[BE&#95;Daisy Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741790-be_daisy-runtime-analysis.html)|`2026-03-08 05:43:00`|`Anti-Cheat Bypass`|
 |[rocket boost in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741808-rocket-boost-car.html)|`2026-03-08 05:41:00`|`Grand Theft Auto V`|
