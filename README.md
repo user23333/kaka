@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-03-08 03:12:00`|`Star Wars Battlefront 2`|
+|[SSKBot2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/318636-sskbot2-0-a.html)|`2026-03-08 03:11:00`|`Battlefield 2`|
+|[Is WutheringWaves F2P cheating dead?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739322-wutheringwaves-f2p-cheating-dead.html)|`2026-03-08 03:10:00`|`Other MMORPG and Strategy`|
+|[Arknight Endfield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734448-arknight-endfield.html)|`2026-03-08 03:09:00`|`Other MMORPG and Strategy`|
 |[Eterspire Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738938-eterspire-mod.html)|`2026-03-08 02:45:00`|`Other MMORPG and Strategy`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-08 02:44:00`|`Other FPS Games`|
 |[DMA VMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741677-dma-vmd.html)|`2026-03-08 02:41:00`|`Anti-Cheat Bypass`|
