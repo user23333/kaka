@@ -40,6 +40,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex, could you tell me how to get the number and names of people currently spectatin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740835-apex-tell-names-people-currently-spectatin.html)|`2026-03-07 16:55:00`|`Apex Legends`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-07 16:33:00`|`Counter-Strike 2`|
 |[how to bypass the Easy Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716706-bypass-easy-anti-cheat.html)|`2026-03-07 15:55:00`|`Anti-Cheat Bypass`|
 |[FemboyChanger &#45; A &#46;NET External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741720-femboychanger-net-external-skin-changer.html)|`2026-03-07 15:38:00`|`Counter-Strike 2`|
 |[BF2 Grenade Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/727291-bf2-grenade-prediction.html)|`2026-03-07 15:37:00`|`Battlefield 2`|
