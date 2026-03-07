@@ -11,6 +11,7 @@
 |9|[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740926-inventory-changer.html)|`2026-03-08 00:12:05`|`counter-strike-2-a`|
 |24|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-08 00:12:05`|`apex-legends`|
 |6|[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-08 00:12:05`|`anti-cheat-bypass`|
+|11|[Anticheats AntiSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740857-anticheats-antispoof.html)|`2026-03-08 01:36:46`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-08 01:33:00`|`Other MMORPG and Strategy`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-08 01:31:00`|`Alternative Online Mods`|
+|[&#91;WORKING&#93; FemboyHook &#45; CS2 Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740250-femboyhook-cs2-internal-esp.html)|`2026-03-08 01:30:00`|`Counter-Strike 2`|
+|[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-08 01:26:00`|`Alternative Online Mods`|
+|[HWID Ban BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741585-hwid-ban-bo7.html)|`2026-03-08 01:18:00`|`Call of Duty: Black Ops 7`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741377-colorbot.html)|`2026-03-08 01:13:00`|`Valorant`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-08 01:10:00`|`Escape from Tarkov`|
 |[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-03-08 01:07:00`|`Team Fortress 2`|
