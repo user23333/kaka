@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eterspire Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738938-eterspire-mod.html)|`2026-03-08 02:45:00`|`Other MMORPG and Strategy`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-08 02:44:00`|`Other FPS Games`|
+|[DMA VMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741677-dma-vmd.html)|`2026-03-08 02:41:00`|`Anti-Cheat Bypass`|
+|[how to bypass the Easy Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716706-bypass-easy-anti-cheat.html)|`2026-03-08 02:33:00`|`Anti-Cheat Bypass`|
+|[The division 2 free cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/733441-division-2-free-cheat-menu.html)|`2026-03-08 02:33:00`|`Tom Clancy's The Division`|
+|[Ways to test driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741667-test-driver-detection.html)|`2026-03-08 02:31:00`|`Forum General`|
 |[vmhv very minimalistic x64 intel hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741323-vmhv-minimalistic-x64-intel-hypervisor-base.html)|`2026-03-08 02:28:00`|`Anti-Cheat Bypass`|
 |[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-03-08 02:04:00`|`Counter-Strike 2`|
 |[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-03-08 02:04:00`|`Valorant`|
