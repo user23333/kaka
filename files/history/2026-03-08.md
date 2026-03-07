@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-08 04:24:00`|`Call of Duty: Black Ops 7`|
+|[QuasarDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/697510-quasardma-update.html)|`2026-03-08 04:19:00`|`Rust`|
+|[Spring & Easter Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/741177-spring-easter-banner-contest-2026-winners.html)|`2026-03-08 04:12:00`|`Information and Announcements`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-08 04:10:00`|`Other FPS Games`|
 |[Trying to Make my own esp and aimbot for r6 but idk how to code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741811-trying-own-esp-aimbot-r6-idk-code.html)|`2026-03-08 03:58:00`|`Rainbow Six Siege`|
 |[Arduino help needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741321-arduino-help.html)|`2026-03-08 03:53:00`|`Valorant`|
 |[What's the easiest aimbot/triggerbot to use? exe file preferably](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741407-whats-easiest-aimbot-triggerbot-exe-file-preferably.html)|`2026-03-08 03:50:00`|`Valorant`|
