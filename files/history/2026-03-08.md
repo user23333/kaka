@@ -32,9 +32,14 @@
 |1|[nvidiaCapture&#45;1&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53488)|`2026-03-08 22:40:15`|
 |1|[arcraiders&#45;steamauth&#45;token&#45;generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53487)|`2026-03-08 22:40:15`|
 |1|[Super Battle Golf Unlock All 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53486)|`2026-03-08 22:40:15`|
+|2|[marvel rivals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53502)|`2026-03-08 22:55:40`|
+|2|[apbexternaldriverless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53493)|`2026-03-08 22:55:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2026-03-08 22:51:00`|`All Points Bulletin`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-08 22:44:00`|`Marvel Rivals`|
+|[Neo strafe cfg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/726244-neo-strafe-cfg.html)|`2026-03-08 22:39:00`|`Apex Legends`|
 |[EAC no longer loads a module into game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741026-eac-loads-module-game.html)|`2026-03-08 22:38:00`|`Anti-Cheat Bypass`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-08 22:30:00`|`Deadlock`|
 |[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-03-08 22:29:00`|`Counter-Strike 2`|
