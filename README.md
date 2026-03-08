@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-03-09 06:56:00`|`Other MMORPG and Strategy`|
 |[zsCrypt &#45; C&#35; Compile&#45;time &#43; Runtime Encryption &#40;Fody&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742005-zscrypt-compile-time-runtime-encryption-fody.html)|`2026-03-09 06:41:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-09 06:36:00`|`Counter-Strike 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-09 06:24:00`|`Other FPS Games`|
