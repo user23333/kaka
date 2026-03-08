@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742011-silent.html)|`2026-03-09 07:31:00`|`Rust`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-09 07:28:00`|`Counter-Strike 2`|
 |[How to bypass a dayzavr ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/741686-bypass-dayzavr-ban.html)|`2026-03-09 07:17:00`|`DayZ SA`|
 |[vmhv very minimalistic x64 intel hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741323-vmhv-minimalistic-x64-intel-hypervisor-base.html)|`2026-03-09 07:16:00`|`Anti-Cheat Bypass`|
 |[Projectile stats for non standard ammo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741537-projectile-stats-standard-ammo.html)|`2026-03-09 07:15:00`|`Rust`|
