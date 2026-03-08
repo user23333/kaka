@@ -12,6 +12,7 @@
 |24|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-08 00:12:05`|`apex-legends`|
 |6|[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-08 00:12:05`|`anti-cheat-bypass`|
 |11|[Anticheats AntiSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740857-anticheats-antispoof.html)|`2026-03-08 01:36:46`|`alternative-online-mods`|
+|13|[Imperium free inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741542-imperium-free-inventory-changer.html)|`2026-03-08 14:26:14`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New tool for making 1:1 emulation fw&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741890-tool-1-1-emulation-fw.html)|`2026-03-08 15:19:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-03-08 15:14:00`|`Rainbow Six Siege`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-03-08 15:09:00`|`Elite: Dangerous`|
 |[Offsets MP plutonium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741886-offsets-mp-plutonium.html)|`2026-03-08 14:54:00`|`Call of Duty: Black Ops 2`|
 |[Help: DMA device speed test is blocked, are there any free solutions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741887-help-dma-device-speed-test-blocked-free-solutions.html)|`2026-03-08 14:53:00`|`Rust`|
 |[hwid spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741883-hwid-spoof.html)|`2026-03-08 14:42:00`|`Anti-Cheat Bypass`|
