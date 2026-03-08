@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is there any more players mod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/741996-players-mod.html)|`2026-03-09 05:34:00`|`Phasmophobia`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-09 05:24:00`|`Valorant`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-09 05:22:00`|`Valorant`|
 |[Hi guys does anyone know how to bypass DayZavr Ban &#46; THANKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/741907-hi-guys-bypass-dayzavr-ban-thanks.html)|`2026-03-09 05:04:00`|`DayZ SA`|
 |[Apex Legends weapon icon pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741823-apex-legends-weapon-icon-pack.html)|`2026-03-09 05:02:00`|`Apex Legends`|
 |[fivem internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740864-fivem-internal.html)|`2026-03-09 05:00:00`|`Alternative Online Mods`|
