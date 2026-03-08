@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740422-mouse-movement.html)|`2026-03-09 05:58:00`|`Valorant`|
+|[What's the easiest aimbot/triggerbot to use? exe file preferably](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741407-whats-easiest-aimbot-triggerbot-exe-file-preferably.html)|`2026-03-09 05:57:00`|`Valorant`|
+|[Recommend me an obscure mouse brands with good onboard capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741718-recommend-obscure-mouse-brands-onboard-capabilities.html)|`2026-03-09 05:55:00`|`Valorant`|
+|[What does it take to get hardware ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741791-hardware-ban.html)|`2026-03-09 05:54:00`|`Valorant`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-03-09 05:52:00`|`Other MMORPG and Strategy`|
 |[Vanguard Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739875-vanguard-emulator.html)|`2026-03-09 05:49:00`|`Valorant`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-09 05:45:00`|`Other FPS Games`|
 |[is there any more players mod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/741996-players-mod.html)|`2026-03-09 05:34:00`|`Phasmophobia`|
