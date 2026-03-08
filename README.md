@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-09 04:18:00`|`Counter-Strike 2 Releases`|
+|[NoClip ON COMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/740331-noclip-comp.html)|`2026-03-09 04:16:00`|`Counter-Strike 2 Releases`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-03-09 04:15:00`|`Other FPS Games`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-03-09 04:15:00`|`HELLDIVERS 2`|
+|[I want to find a way to bypass GameGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741637-bypass-gameguard.html)|`2026-03-09 04:15:00`|`HELLDIVERS 2`|
+|[hwid spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741883-hwid-spoof.html)|`2026-03-09 04:12:00`|`Anti-Cheat Bypass`|
+|[Fortnite external cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741846-fortnite-external-cheating.html)|`2026-03-09 04:09:00`|`General Programming and Reversing`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-09 03:55:00`|`ARC Raiders`|
 |[How to Manual Map League of Legends???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741983-manual-map-league-legends.html)|`2026-03-09 03:51:00`|`League of Legends`|
 |[Learning Partner 🙏](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/647839-learning-partner.html)|`2026-03-09 03:36:00`|`Programming for Beginners`|
