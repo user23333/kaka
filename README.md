@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for specific esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/741903-looking-specific-esp.html)|`2026-03-08 18:41:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Defense zone 3 HD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/741902-defense-zone-3-hd.html)|`2026-03-08 18:39:00`|`General Programming and Reversing`|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/Polymorphism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-polymorphism.html)|`2026-03-08 18:31:00`|`C and C++`|
 |[Updated Fallout 76 Cheat Mod BA2s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732580-updated-fallout-76-cheat-mod-ba2s.html)|`2026-03-08 18:01:00`|`Other FPS Games`|
 |[League dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/735030-league-dumper.html)|`2026-03-08 17:28:00`|`League of Legends`|
 |[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-03-08 17:09:00`|`Anti-Cheat Bypass`|
