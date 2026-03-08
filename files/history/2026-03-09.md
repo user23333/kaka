@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Emulator &#40;Old Codes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733382-vanguard-emulator-codes.html)|`2026-03-09 06:17:00`|`Anti-Cheat Bypass`|
+|[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732031-spoofer.html)|`2026-03-09 06:09:00`|`Overwatch`|
 |[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740422-mouse-movement.html)|`2026-03-09 05:58:00`|`Valorant`|
 |[What's the easiest aimbot/triggerbot to use? exe file preferably](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741407-whats-easiest-aimbot-triggerbot-exe-file-preferably.html)|`2026-03-09 05:57:00`|`Valorant`|
 |[Recommend me an obscure mouse brands with good onboard capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741718-recommend-obscure-mouse-brands-onboard-capabilities.html)|`2026-03-09 05:55:00`|`Valorant`|
