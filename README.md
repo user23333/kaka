@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveMApi&ASMJit Dumper Data &#40;Different versions soon&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741856-fivemapi-asmjit-dumper-data-versions-soon.html)|`2026-03-08 20:30:00`|`Alternative Online Mods`|
+|[creating a thread without crashing roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/741908-creating-thread-crashing-roblox.html)|`2026-03-08 20:23:00`|`Roblox`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-08 20:19:00`|`Roblox`|
+|[Cheating with another PC without getting caught on my main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740969-cheating-pc-getting-caught-main.html)|`2026-03-08 20:14:00`|`Rust`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-03-08 20:12:00`|`Other FPS Games`|
 |[inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741331-inventory-changer.html)|`2026-03-08 19:44:00`|`Counter-Strike 2`|
 |[Help making my first kernel driver bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741536-help-kernel-driver-bypass.html)|`2026-03-08 19:16:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-03-08 19:08:00`|`Other FPS Games`|
