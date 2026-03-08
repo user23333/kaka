@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-03-09 01:44:00`|`Paladins`|
+|[Internal SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741787-internal-sdk-dumper.html)|`2026-03-09 01:42:00`|`Valorant`|
+|[Lumen AI &#45; Rainbow Six Siege AI Cheat &#91;Source Code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741857-lumen-ai-rainbow-six-siege-ai-cheat-source-code.html)|`2026-03-09 01:29:00`|`Rainbow Six Siege`|
 |[Visibility Check/Tracing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741754-visibility-check-tracing-crash.html)|`2026-03-09 01:22:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-03-09 01:22:00`|`Deadlock`|
 |[AutoParry issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/739608-autoparry-issues.html)|`2026-03-09 01:15:00`|`Deadlock`|
