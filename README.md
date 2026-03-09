@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-03-09 17:52:00`|`Phasmophobia`|
+|[HWID Ban BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741585-hwid-ban-bo7.html)|`2026-03-09 17:44:00`|`Call of Duty: Black Ops 7`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-03-09 16:44:00`|`Counter-Strike 2 Releases`|
 |[Hello everyone, I want to know if a ban in THE FINLAS will record your HWID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/742056-hello-ban-finlas-record-hwid.html)|`2026-03-09 16:38:00`|`THE FINALS`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-09 16:12:00`|`Other FPS Games`|
