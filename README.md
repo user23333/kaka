@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheating with another PC without getting caught on my main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740969-cheating-pc-getting-caught-main.html)|`2026-03-09 20:08:00`|`Rust`|
 |[Patchguard Assembly Bypass  22H2 // 23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742064-patchguard-assembly-bypass-22h2-23h2.html)|`2026-03-09 19:28:00`|`Anti-Cheat Bypass`|
 |[&#91;VAC&#93; Started working with my first AC, got questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741750-vac-started-ac-questions.html)|`2026-03-09 19:07:00`|`Anti-Cheat Bypass`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-03-09 19:05:00`|`Counter-Strike 2`|
