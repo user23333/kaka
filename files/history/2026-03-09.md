@@ -13,6 +13,7 @@
 |7|[CS2 Internal &#45; Aimbot, ESP, Radar, Triggerbot, Silent Aim & more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741544-cs2-internal-aimbot-esp-radar-triggerbot-silent-aim.html)|`2026-03-09 00:27:54`|`counter-strike-2-a`|
 |5|[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-09 01:11:47`|`counter-strike-2-a`|
 |11|[some expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741608-expired-cert.html)|`2026-03-09 05:18:00`|`anti-cheat-bypass`|
+|21|[Lumen AI &#45; Rainbow Six Siege AI Cheat &#91;Source Code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741857-lumen-ai-rainbow-six-siege-ai-cheat-source-code.html)|`2026-03-09 19:59:19`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
