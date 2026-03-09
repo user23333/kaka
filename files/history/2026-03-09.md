@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CoD: Black Ops 1 &#124; Plutonium T6 MP Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742034-cod-black-ops-1-plutonium-t6-mp-structs-offsets.html)|`2026-03-09 12:24:00`|`Call of Duty: Black Ops`|
+|[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-03-09 12:20:00`|`Anti-Cheat Bypass`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-03-09 12:18:00`|`Call of Duty: Black Ops 7`|
+|[Skeleton problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741469-skeleton.html)|`2026-03-09 12:15:00`|`Call of Duty: Black Ops 7`|
+|[cod dumper updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/733254-cod-dumper-updated.html)|`2026-03-09 12:10:00`|`Call of Duty: Black Ops 7`|
+|[SteelSeries Overlay Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695354-steelseries-overlay-rendering.html)|`2026-03-09 12:03:00`|`Rust`|
 |[Updated &#46;pak Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/741820-updated-pak-files.html)|`2026-03-09 11:26:00`|`Payday 3`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-09 11:20:00`|`Other FPS Games`|
 |[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2026-03-09 11:17:00`|`Other Games`|
