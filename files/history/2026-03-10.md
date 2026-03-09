@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dumping Unity Chams Materials Programmatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729102-dumping-unity-chams-materials-programmatically.html)|`2026-03-10 07:21:00`|`Rust`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-03-10 07:14:00`|`Sea of Thieves`|
 |[Any tips on how to start anything on here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742088-tips-start.html)|`2026-03-10 06:50:00`|`Forum General`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-10 06:45:00`|`Counter-Strike 2`|
 |[Ways to test driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741667-test-driver-detection.html)|`2026-03-10 06:45:00`|`Forum General`|
