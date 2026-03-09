@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any tips on how to start anything on here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742088-tips-start.html)|`2026-03-10 06:50:00`|`Forum General`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-10 06:45:00`|`Counter-Strike 2`|
+|[Ways to test driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741667-test-driver-detection.html)|`2026-03-10 06:45:00`|`Forum General`|
 |[Updated &#46;pak Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/741820-updated-pak-files.html)|`2026-03-10 06:27:00`|`Payday 3`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-10 06:23:00`|`ARMA 3`|
 |[Best ways to learn how to code cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742050-learn-code-cheats.html)|`2026-03-10 06:20:00`|`Counter-Strike 2`|
