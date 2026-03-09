@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Patchguard Assembly Bypass  22H2 // 23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742064-patchguard-assembly-bypass-22h2-23h2.html)|`2026-03-09 19:28:00`|`Anti-Cheat Bypass`|
+|[&#91;VAC&#93; Started working with my first AC, got questions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741750-vac-started-ac-questions.html)|`2026-03-09 19:07:00`|`Anti-Cheat Bypass`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-03-09 19:05:00`|`Counter-Strike 2`|
 |[Help making my first kernel driver bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741536-help-kernel-driver-bypass.html)|`2026-03-09 18:53:00`|`Anti-Cheat Bypass`|
 |[SastashaFied T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-t5-mp-multihack.html)|`2026-03-09 18:22:00`|`Call of Duty: Black Ops`|
 |[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-09 18:17:00`|`Roblox`|
