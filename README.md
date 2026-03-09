@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does faceit take screenshots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733802-faceit-screenshots.html)|`2026-03-10 07:54:00`|`Anti-Cheat Bypass`|
+|[skin glitch knife issue Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742158-skin-glitch-knife-issue-help.html)|`2026-03-10 07:50:00`|`Counter-Strike 2`|
 |[fivem internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740864-fivem-internal.html)|`2026-03-10 07:42:00`|`Alternative Online Mods`|
 |[sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741910-sig.html)|`2026-03-10 07:33:00`|`Counter-Strike 2`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-10 07:27:00`|`HELLDIVERS 2`|
