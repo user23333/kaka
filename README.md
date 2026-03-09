@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help making my first kernel driver bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741536-help-kernel-driver-bypass.html)|`2026-03-10 04:12:00`|`Anti-Cheat Bypass`|
+|[Lumen AI &#45; Rainbow Six Siege AI Cheat &#91;Source Code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741857-lumen-ai-rainbow-six-siege-ai-cheat-source-code.html)|`2026-03-10 04:09:00`|`Rainbow Six Siege`|
+|[rocket boost in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741808-rocket-boost-car.html)|`2026-03-10 04:08:00`|`Grand Theft Auto V`|
+|[Vehicle License Plate Creator Options Available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742126-vehicle-license-plate-creator-options-available.html)|`2026-03-10 04:08:00`|`Grand Theft Auto V`|
+|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-10 04:04:00`|`Genshin Impact`|
+|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-03-10 04:03:00`|`Palworld`|
+|[Sot offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/742125-sot-offsets.html)|`2026-03-10 03:58:00`|`Sea of Thieves`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-03-10 03:54:00`|`Call of Duty: Black Ops 7`|
 |[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-03-10 03:52:00`|`Grand Theft Auto V`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-03-10 03:46:00`|`Tom Clancy's The Division`|
