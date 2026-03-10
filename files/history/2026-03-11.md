@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-03-11 05:15:00`|`ARC Raiders`|
+|[sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741910-sig.html)|`2026-03-11 05:14:00`|`Counter-Strike 2`|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-11 05:14:00`|`THE FINALS`|
+|[Anticheats AntiSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740857-anticheats-antispoof.html)|`2026-03-11 05:09:00`|`Alternative Online Mods`|
+|[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-03-11 05:08:00`|`Anti-Cheat Bypass`|
+|[Avoiding Delay Ban / TPM Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742306-avoiding-delay-ban-tpm-spoofing.html)|`2026-03-11 05:05:00`|`Valorant`|
 |[World Esp Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742302-world-esp-arc-raiders.html)|`2026-03-11 04:42:00`|`ARC Raiders`|
 |[R6 Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741938-r6-recoil-script.html)|`2026-03-11 04:40:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-11 04:16:00`|`Overwatch`|
