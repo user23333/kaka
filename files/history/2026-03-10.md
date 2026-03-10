@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to add custom item in esp Dayz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/742243-add-custom-item-esp-dayz.html)|`2026-03-10 23:01:00`|`DayZ SA`|
+|[Honkai Star Rail 4&#46;0&#46;0&#124; Cheast TP &#124; NoClip &#124; AutoPazzle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739712-honkai-star-rail-4-0-0-cheast-tp-noclip-autopazzle.html)|`2026-03-10 22:57:00`|`Other MMORPG and Strategy`|
+|[&#91;Linux&#93;hunchclient v3 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/734487-linux-hunchclient-v3-external.html)|`2026-03-10 22:45:00`|`ARC Raiders`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-10 22:32:00`|`Valorant`|
 |[Bone glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741650-bone-glitch.html)|`2026-03-10 21:55:00`|`Apex Legends`|
 |[dma card](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/741172-dma-card.html)|`2026-03-10 21:43:00`|`PC Hardware`|
 |[is manual mapped ESP enough for VAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742225-manual-mapped-esp-vac.html)|`2026-03-10 21:03:00`|`Anti-Cheat Bypass`|
