@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-11 00:53:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-03-11 00:49:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-11 00:49:00`|`Valorant`|
+|[&#91;SMBIOS&#93; Type 1 UUID Layout, Generation & RFC4122 Format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742256-smbios-type-1-uuid-layout-generation-rfc4122-format.html)|`2026-03-11 00:48:00`|`Anti-Cheat Bypass`|
+|[Chat Spam / Kill Say](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742255-chat-spam-kill.html)|`2026-03-11 00:47:00`|`Valorant`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-11 00:47:00`|`Overwatch`|
+|[Shadow PML4 CR3 keeps going stale after VGK rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742254-shadow-pml4-cr3-stale-vgk-rotation.html)|`2026-03-11 00:47:00`|`Valorant`|
+|[Writing Fov scale Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741633-writing-fov-scale-apex-legends.html)|`2026-03-11 00:44:00`|`Apex Legends`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-03-11 00:42:00`|`Other FPS Games`|
 |[TraceShape crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742134-traceshape-crash.html)|`2026-03-11 00:00:00`|`Counter-Strike 2`|
 |[Can I get VAC Banned with External ReadOnly Kernel driver cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742142-vac-banned-external-readonly-kernel-driver-cheat.html)|`2026-03-10 23:58:00`|`Counter-Strike 2`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-10 23:56:00`|`Red Dead Redemption 2`|
