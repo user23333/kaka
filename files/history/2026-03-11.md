@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cheats not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742258-cheats.html)|`2026-03-11 03:18:00`|`Counter-Strike 2`|
+|[Ways to test driver detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741667-test-driver-detection.html)|`2026-03-11 03:17:00`|`Forum General`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-11 03:17:00`|`Other FPS Games`|
+|[Epitome Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738123-epitome-reversal-structs-offsets.html)|`2026-03-11 03:16:00`|`Other MMORPG and Strategy`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-03-11 03:08:00`|`Sea of Thieves`|
+|[HV &#45; System freezes after VMLAUNCH — possible triple fault in VMX root](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742264-hv-system-freezes-vmlaunch-triple-fault-vmx-root.html)|`2026-03-11 03:07:00`|`Anti-Cheat Bypass`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-11 02:28:00`|`Escape from Tarkov`|
 |[Patchguard Assembly Bypass  22H2 // 23H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742064-patchguard-assembly-bypass-22h2-23h2.html)|`2026-03-11 02:26:00`|`Anti-Cheat Bypass`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-11 02:26:00`|`Overwatch`|
