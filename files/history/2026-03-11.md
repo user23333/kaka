@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[World Esp Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742302-world-esp-arc-raiders.html)|`2026-03-11 04:42:00`|`ARC Raiders`|
+|[R6 Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741938-r6-recoil-script.html)|`2026-03-11 04:40:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-11 04:16:00`|`Overwatch`|
 |[TD2 &#45; Find Client & View Offset with IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742292-td2-client-view-offset-ida-pro.html)|`2026-03-11 04:14:00`|`Tom Clancy's The Division`|
 |[dnSpy RVA not resolving to a function in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742290-dnspy-rva-resolving-function-ida.html)|`2026-03-11 04:11:00`|`Forum General`|
