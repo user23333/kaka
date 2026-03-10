@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-11 04:16:00`|`Overwatch`|
+|[TD2 &#45; Find Client & View Offset with IDA Pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742292-td2-client-view-offset-ida-pro.html)|`2026-03-11 04:14:00`|`Tom Clancy's The Division`|
+|[dnSpy RVA not resolving to a function in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742290-dnspy-rva-resolving-function-ida.html)|`2026-03-11 04:11:00`|`Forum General`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-11 04:02:00`|`Other FPS Games`|
+|[four UniqueIDs that few people pay attention to](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741096-uniqueids-people-pay-attention.html)|`2026-03-11 03:59:00`|`Anti-Cheat Bypass`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-11 03:49:00`|`Tom Clancy's The Division`|
 |[How to use Idea to get a signature&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742281-idea-signature.html)|`2026-03-11 03:47:00`|`Counter-Strike 2`|
 |[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-03-11 03:43:00`|`Grand Theft Auto V`|
