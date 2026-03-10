@@ -27,9 +27,15 @@
 |15|[ABI SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53508)|`2026-03-10 00:08:26`|
 |3|[GW2&#45;ALPHA B](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53507)|`2026-03-10 00:08:26`|
 |7|[InfinityHook&#45;Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53547)|`2026-03-10 03:25:21`|
+|4|[RDR2&#95;VEROX&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53568)|`2026-03-10 09:23:38`|
+|1|[ghostmaster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53544)|`2026-03-10 09:23:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-t5-mp-multihack.html)|`2026-03-10 09:20:00`|`Call of Duty: Black Ops`|
+|[OW2 Resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/741604-ow2-resources.html)|`2026-03-10 09:19:00`|`Overwatch`|
+|[Xbox Local Save File Exploit: Achieving Infinite Item Dismantle & Duplication via Clo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742109-xbox-local-save-file-exploit-achieving-infinite-item-dismantle-duplication-via-clo.html)|`2026-03-10 09:00:00`|`ARC Raiders`|
+|[little phasmo internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/742103-little-phasmo-internal.html)|`2026-03-10 08:59:00`|`Phasmophobia`|
 |[Does faceit take screenshots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733802-faceit-screenshots.html)|`2026-03-10 07:54:00`|`Anti-Cheat Bypass`|
 |[skin glitch knife issue Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742158-skin-glitch-knife-issue-help.html)|`2026-03-10 07:50:00`|`Counter-Strike 2`|
 |[fivem internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740864-fivem-internal.html)|`2026-03-10 07:42:00`|`Alternative Online Mods`|
