@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need these sigs/offsets, or a way to get them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742190-sigs-offsets.html)|`2026-03-10 14:24:00`|`Rust`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-10 13:48:00`|`League of Legends`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-10 13:34:00`|`Counter-Strike 2 Releases`|
 |[GetBulletSpread index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/742187-getbulletspread-index.html)|`2026-03-10 13:31:00`|`Garry's Mod`|
 |[Temporal Consistency Layer for Color&#45;Based Vision Tracking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742186-temporal-consistency-layer-color-based-vision-tracking.html)|`2026-03-10 13:11:00`|`Valorant`|
