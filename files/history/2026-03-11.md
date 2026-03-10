@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[name revealers stopped working in new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737683-name-revealers-stopped-update.html)|`2026-03-11 07:00:00`|`Valorant`|
+|[AI rant and how I became a wealthy individual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742318-ai-rant-wealthy-individual.html)|`2026-03-11 07:00:00`|`Off Topic`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-11 06:42:00`|`Other FPS Games`|
 |[Help: DMA device speed test is blocked, are there any free solutions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741887-help-dma-device-speed-test-blocked-free-solutions.html)|`2026-03-11 06:42:00`|`Rust`|
 |[some expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741608-expired-cert.html)|`2026-03-11 06:40:00`|`Anti-Cheat Bypass`|
