@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox External Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/739489-roblox-external-help.html)|`2026-03-11 05:54:00`|`Roblox`|
+|[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-11 05:51:00`|`Counter-Strike 2`|
+|[Dumping Unity Chams Materials Programmatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/729102-dumping-unity-chams-materials-programmatically.html)|`2026-03-11 05:44:00`|`Rust`|
+|[UwUware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734082-uwuware.html)|`2026-03-11 05:40:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-11 05:35:00`|`Apex Legends`|
 |[Cheat table to spawn in enemies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741261-cheat-table-spawn-enemies.html)|`2026-03-11 05:35:00`|`HELLDIVERS 2`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-11 05:32:00`|`Battlefield 6`|
