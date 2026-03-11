@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bone glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741650-bone-glitch.html)|`2026-03-11 15:50:00`|`Apex Legends`|
+|[The cold hard truth about pvp chairs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742354-cold-hard-truth-pvp-chairs.html)|`2026-03-11 15:34:00`|`Apex Legends`|
+|[Help for a beginner: Making a safe dumper for PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742111-help-beginner-safe-dumper-pubg.html)|`2026-03-11 15:27:00`|`Forum General`|
+|[OBS UDP Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741178-obs-udp-plugin.html)|`2026-03-11 15:25:00`|`Valorant`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-11 15:23:00`|`Counter-Strike 2`|
 |[player tracker top screen like news feed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742151-player-tracker-top-screen-news-feed.html)|`2026-03-11 15:04:00`|`Apex Legends`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-11 15:01:00`|`Counter-Strike 2`|
 |[New Update Aimbot Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742349-update-aimbot-detection.html)|`2026-03-11 14:59:00`|`Apex Legends`|
