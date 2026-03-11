@@ -33,9 +33,16 @@
 |1|[krb&#95;research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53584)|`2026-03-12 04:16:36`|
 |1|[DayZInternal v2&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53572)|`2026-03-12 04:16:36`|
 |1|[RDR2&#95;VEROX&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53570)|`2026-03-12 05:48:42`|
+|1|[EpitomeUIModule](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53569)|`2026-03-12 06:01:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New tool for making 1:1 emulation fw&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741890-tool-1-1-emulation-fw.html)|`2026-03-12 06:01:00`|`Anti-Cheat Bypass`|
+|[WaveShield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742503-waveshield.html)|`2026-03-12 06:01:00`|`Alternative Online Mods`|
+|[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-03-12 06:00:00`|`Counter-Strike 2`|
+|[fivem internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740864-fivem-internal.html)|`2026-03-12 05:59:00`|`Alternative Online Mods`|
+|[Epitome Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738123-epitome-reversal-structs-offsets.html)|`2026-03-12 05:55:00`|`Other MMORPG and Strategy`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742502-silent-aim.html)|`2026-03-12 05:51:00`|`Marvel Rivals`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-12 05:47:00`|`Red Dead Redemption 2`|
 |[Metadata Dumper &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/733790-metadata-dumper-source.html)|`2026-03-12 05:47:00`|`Escape from Tarkov`|
 |[&#91;Python&#93; Palia Trainer v1&#46;0 &#45; Ore ESP / Teleport / Fishing / Cooking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/741809-python-palia-trainer-v1-0-ore-esp-teleport-fishing-cooking.html)|`2026-03-12 05:44:00`|`Palia`|
