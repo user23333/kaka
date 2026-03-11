@@ -11,6 +11,7 @@
 |34|[【Zen Spoofer】 &#124; Disk ✔ &#124; Secure Boot ✔ &#124; fTPM / TPM ✔](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741915-zen-spoofer-disk-secure-boot-ftpm-tpm.html)|`2026-03-12 00:35:41`|`valorant`|
 |20|[Imperium free inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741542-imperium-free-inventory-changer.html)|`2026-03-12 00:35:41`|`counter-strike-2-a`|
 |15|[FemboyChanger &#45; A &#46;NET External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741720-femboychanger-net-external-skin-changer.html)|`2026-03-12 00:35:41`|`counter-strike-2-a`|
+|20|[some expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741608-expired-cert.html)|`2026-03-12 01:30:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kingdom Rush Battles, RE Breakdown&#40;Save Enc cracked,API Exploits, PvP Bot&#46;&#46;And More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/742428-kingdom-rush-battles-re-breakdown-save-enc-cracked-api-exploits-pvp-bot.html)|`2026-03-12 01:26:00`|`Unity`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-12 01:23:00`|`Other FPS Games`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/742427-introduction.html)|`2026-03-12 01:20:00`|`Introductions`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-12 01:18:00`|`Other FPS Games`|
+|[Has Valorant/Vanguard made any changes to their HWID ban system recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742419-valorant-vanguard-changes-hwid-ban-system-recently.html)|`2026-03-12 01:12:00`|`Valorant`|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-12 01:09:00`|`THE FINALS`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-12 01:03:00`|`Valorant`|
+|[STALCRAFT X Simple chams and fullbright by Alzzz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731633-stalcraft-simple-chams-fullbright-alzzz.html)|`2026-03-12 01:02:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-12 00:34:00`|`Other Games`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-12 00:32:00`|`Battlefield 6`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-12 00:31:00`|`Call of Duty: Black Ops 7`|
