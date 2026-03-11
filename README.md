@@ -12,6 +12,7 @@
 |26|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-11 00:05:10`|`apex-legends`|
 |14|[FemboyChanger &#45; A &#46;NET External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741720-femboychanger-net-external-skin-changer.html)|`2026-03-11 00:05:10`|`counter-strike-2-a`|
 |4|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-11 02:32:03`|`escape-from-tarkov`|
+|32|[【Zen Spoofer】 &#124; Disk ✔ &#124; Secure Boot ✔ &#124; fTPM / TPM ✔](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741915-zen-spoofer-disk-secure-boot-ftpm-tpm.html)|`2026-03-11 12:17:05`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ULTRA AIMBOB BY GDOG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742337-ultra-aimbob-gdog.html)|`2026-03-11 12:15:00`|`Apex Legends`|
+|[Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737185-injection-methods.html)|`2026-03-11 12:04:00`|`Anti-Cheat Bypass`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-11 12:03:00`|`Paladins`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742335-strongest-paladins-dll.html)|`2026-03-11 12:02:00`|`Paladins`|
+|[Working Magic Bullet/Bullet TP cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742180-magic-bullet-bullet-tp-cheat.html)|`2026-03-11 12:02:00`|`Marvel Rivals`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-03-11 11:43:00`|`Sea of Thieves`|
+|[Texture Map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742333-texture-map.html)|`2026-03-11 11:34:00`|`Alternative Online Mods`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-11 09:58:00`|`Valorant`|
 |[rocket boost in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741808-rocket-boost-car.html)|`2026-03-11 09:55:00`|`Grand Theft Auto V`|
 |[CS2 Internal &#45; Aimbot, ESP, Radar, Triggerbot, Silent Aim & more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741544-cs2-internal-aimbot-esp-radar-triggerbot-silent-aim.html)|`2026-03-11 09:51:00`|`Counter-Strike 2`|
