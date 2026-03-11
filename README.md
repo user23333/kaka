@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eac spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742098-eac-spoofing.html)|`2026-03-11 16:20:00`|`Anti-Cheat Bypass`|
+|[dnSpy RVA not resolving to a function in IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742290-dnspy-rva-resolving-function-ida.html)|`2026-03-11 16:09:00`|`General Programming and Reversing`|
+|[How to add custom item in esp Dayz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/742243-add-custom-item-esp-dayz.html)|`2026-03-11 15:51:00`|`DayZ SA`|
 |[Bone glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741650-bone-glitch.html)|`2026-03-11 15:50:00`|`Apex Legends`|
 |[The cold hard truth about pvp chairs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742354-cold-hard-truth-pvp-chairs.html)|`2026-03-11 15:34:00`|`Apex Legends`|
 |[Help for a beginner: Making a safe dumper for PUBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742111-help-beginner-safe-dumper-pubg.html)|`2026-03-11 15:27:00`|`Forum General`|
