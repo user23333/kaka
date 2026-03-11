@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-03-11 19:34:00`|`Rainbow Six Siege`|
+|[Xbox Local Save File Exploit: Achieving Infinite Item Dismantle & Duplication via Clo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742109-xbox-local-save-file-exploit-achieving-infinite-item-dismantle-duplication-via-clo.html)|`2026-03-11 19:10:00`|`ARC Raiders`|
+|[can I play with friends with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741433-play-friends-yimmenuv2.html)|`2026-03-11 19:03:00`|`Grand Theft Auto V`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-11 18:41:00`|`Other Games`|
 |[fix "error" models on modded servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/742235-fix-error-models-modded-servers.html)|`2026-03-11 18:39:00`|`CounterStrike Source`|
 |[Ac Anti ESP fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742347-ac-anti-esp-fivem.html)|`2026-03-11 18:37:00`|`Alternative Online Mods`|
