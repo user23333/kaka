@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-03-12 07:47:00`|`Counter-Strike 2`|
+|[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-03-12 07:43:00`|`Marvel Rivals`|
+|[Diablo Immortal FOV &#45; Attack Speed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732290-diablo-immortal-fov-attack-speed.html)|`2026-03-12 07:38:00`|`Other MMORPG and Strategy`|
 |[SastashaFied T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-t5-mp-multihack.html)|`2026-03-12 07:24:00`|`Call of Duty: Black Ops`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-03-12 07:17:00`|`Payday 3`|
 |[zsCrypt &#45; C&#35; Compile&#45;time &#43; Runtime Encryption &#40;Fody&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742005-zscrypt-compile-time-runtime-encryption-fody.html)|`2026-03-12 07:15:00`|`Anti-Cheat Bypass`|
