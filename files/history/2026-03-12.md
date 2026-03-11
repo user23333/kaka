@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No new updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742346-updates.html)|`2026-03-12 02:59:00`|`Marvel Rivals`|
+|[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-03-12 02:55:00`|`Anti-Cheat Bypass`|
+|[Inaccurate fakeduck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/742439-inaccurate-fakeduck.html)|`2026-03-12 02:52:00`|`Garry's Mod`|
+|[CS2 Internal &#45; Aimbot, ESP, Radar, Triggerbot, Silent Aim & more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741544-cs2-internal-aimbot-esp-radar-triggerbot-silent-aim.html)|`2026-03-12 02:51:00`|`Counter-Strike 2`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2026-03-12 02:47:00`|`Other FPS Games`|
+|[Proper Viewmodel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/658247-proper-viewmodel-changer.html)|`2026-03-12 02:47:00`|`Counter-Strike 2`|
 |[EXTERNAL apb&#46;one](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/710621-external-apb.html)|`2026-03-12 02:08:00`|`All Points Bulletin`|
 |[OW2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/741658-ow2-internal.html)|`2026-03-12 02:06:00`|`Overwatch`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-12 02:02:00`|`Rust`|
