@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-11 22:55:00`|`Minecraft`|
+|[Raft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/570450-raft.html)|`2026-03-11 22:44:00`|`Unity`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-03-11 21:51:00`|`Counter-Strike 2 Releases`|
 |[Internal Apex Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731418-internal-apex-rage-cheat.html)|`2026-03-11 21:28:00`|`Apex Legends`|
 |[Gmod Offsets/Netvars Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735362-gmod-offsets-netvars-dumper-x64.html)|`2026-03-11 20:56:00`|`Garry's Mod`|
