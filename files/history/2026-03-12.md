@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Instalocker For Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739727-instalocker-valorant.html)|`2026-03-12 20:25:00`|`Valorant`|
+|[Who has the signatures GameplayCamHolder and GameplayCamTarget?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739931-signatures-gameplaycamholder-gameplaycamtarget.html)|`2026-03-12 20:19:00`|`Alternative Online Mods`|
+|[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2026-03-12 20:17:00`|`Alternative Online Mods`|
+|[Valorant TPM Bypass For Locked BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742590-valorant-tpm-bypass-locked-bios.html)|`2026-03-12 20:07:00`|`Valorant`|
+|[Anticheats AntiSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740857-anticheats-antispoof.html)|`2026-03-12 19:55:00`|`Alternative Online Mods`|
 |[External Spectator List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742356-external-spectator-list.html)|`2026-03-12 19:53:00`|`Alternative Online Mods`|
 |[no mo' free undetected ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/742582-mo-free-undetected.html)|`2026-03-12 19:20:00`|`Overwatch`|
 |[Any ASUS Ryzen users who have been banned and spoofed recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638048-asus-ryzen-users-banned-spoofed-recently.html)|`2026-03-12 19:06:00`|`Valorant`|
