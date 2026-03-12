@@ -41,6 +41,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Spectator List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742356-external-spectator-list.html)|`2026-03-12 19:53:00`|`Alternative Online Mods`|
 |[no mo' free undetected ^^](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/742582-mo-free-undetected.html)|`2026-03-12 19:20:00`|`Overwatch`|
 |[Any ASUS Ryzen users who have been banned and spoofed recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638048-asus-ryzen-users-banned-spoofed-recently.html)|`2026-03-12 19:06:00`|`Valorant`|
 |[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-03-12 19:02:00`|`Rainbow Six Siege`|
