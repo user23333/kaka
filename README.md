@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-13 03:44:00`|`Other FPS Games`|
+|[New Update Aimbot Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742349-update-aimbot-detection.html)|`2026-03-13 03:39:00`|`Apex Legends`|
+|[safe money making](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742659-safe-money.html)|`2026-03-13 03:36:00`|`Grand Theft Auto V`|
+|[help new modder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742657-help-modder.html)|`2026-03-13 03:35:00`|`Apex Legends`|
+|[Visibility Check/Tracing crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741754-visibility-check-tracing-crash.html)|`2026-03-13 03:34:00`|`Counter-Strike 2`|
+|[TraceShape fraction always 1&#46;0f &#40;Ignoring World Geometry / Brushes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742604-traceshape-fraction-1-0f-ignoring-world-geometry-brushes.html)|`2026-03-13 03:28:00`|`Counter-Strike 2`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-13 03:28:00`|`Rust`|
+|[ONNX & YOLOv8 DETECTION LAG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/742656-onnx-yolov8-detection-lag.html)|`2026-03-13 03:26:00`|`Rainbow Six Siege`|
 |[temp spoofer drv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/735433-temp-spoofer-drv.html)|`2026-03-13 03:02:00`|`Anti-Cheat Bypass`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-13 03:00:00`|`ARMA 3`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-03-13 02:54:00`|`Sea of Thieves`|
