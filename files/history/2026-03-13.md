@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-13 05:18:00`|`League of Legends`|
+|[ElectronAC Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742511-electronac-source-code.html)|`2026-03-13 05:16:00`|`Alternative Online Mods`|
+|[ada yang bisa membuat cheat shooters pool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742666-ada-yang-bisa-membuat-cheat-shooters-pool.html)|`2026-03-13 05:09:00`|`Forum General`|
+|[The cold hard truth about pvp chairs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742354-cold-hard-truth-pvp-chairs.html)|`2026-03-13 05:06:00`|`Apex Legends`|
+|[which motherboards are locked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742664-motherboards-locked.html)|`2026-03-13 05:04:00`|`Anti-Cheat Bypass`|
 |[Kernel Drivers Making &#124; Valorant Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742571-kernel-drivers-valorant-injection.html)|`2026-03-13 04:48:00`|`Valorant`|
 |[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-03-13 04:47:00`|`Other FPS Games`|
 |[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-03-13 04:46:00`|`Paladins`|
