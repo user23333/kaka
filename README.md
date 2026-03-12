@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-03-12 19:02:00`|`Rainbow Six Siege`|
+|[Among us internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/731032-internal-cheat.html)|`2026-03-12 18:45:00`|`Among Us`|
+|[how to install character mods in enhanced online?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741427-install-character-mods-enhanced-online.html)|`2026-03-12 18:44:00`|`Grand Theft Auto V`|
 |[what kind of hwid they ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739104-hwid-ban.html)|`2026-03-12 18:28:00`|`Overwatch`|
 |[Overwatch ban hardware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/737401-overwatch-ban-hardware.html)|`2026-03-12 18:23:00`|`Overwatch`|
 |[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732031-spoofer.html)|`2026-03-12 18:11:00`|`Overwatch`|
