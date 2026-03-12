@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-12 17:34:00`|`Alternative Online Mods`|
+|[Over The Top WW1&#45; Cheat Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741715-top-ww1-cheat-request.html)|`2026-03-12 17:34:00`|`Forum General`|
+|[updated valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741876-updated-valorant-internal-source.html)|`2026-03-12 17:33:00`|`Valorant`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-12 17:26:00`|`Valorant`|
 |[Exteral w/ KM Performace Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742351-exteral-km-performace-issues.html)|`2026-03-12 17:02:00`|`Counter-Strike 2`|
 |[【Zen Spoofer】 &#124; Disk ✔ &#124; Secure Boot ✔ &#124; fTPM / TPM ✔](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741915-zen-spoofer-disk-secure-boot-ftpm-tpm.html)|`2026-03-12 17:02:00`|`Valorant`|
 |[Kernel Drivers Making &#124; Valorant Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742571-kernel-drivers-valorant-injection.html)|`2026-03-12 16:57:00`|`Valorant`|
