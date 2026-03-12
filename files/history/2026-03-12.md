@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TraceShape crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742134-traceshape-crash.html)|`2026-03-12 21:37:00`|`Counter-Strike 2`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-12 21:22:00`|`Grand Theft Auto V`|
 |[Instalocker For Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739727-instalocker-valorant.html)|`2026-03-12 20:25:00`|`Valorant`|
 |[Who has the signatures GameplayCamHolder and GameplayCamTarget?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739931-signatures-gameplaycamholder-gameplaycamtarget.html)|`2026-03-12 20:19:00`|`Alternative Online Mods`|
 |[Solid Dupe Glitch for fivem server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719921-solid-dupe-glitch-fivem-server.html)|`2026-03-12 20:17:00`|`Alternative Online Mods`|
