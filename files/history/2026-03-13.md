@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-13 01:24:00`|`Roblox`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-13 01:21:00`|`Other Games`|
+|[SteelSeries Overlay Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/695354-steelseries-overlay-rendering.html)|`2026-03-13 01:19:00`|`Rust`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-03-13 01:16:00`|`Apex Legends`|
+|[Xbox Local Save File Exploit: Achieving Infinite Item Dismantle & Duplication via Clo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742109-xbox-local-save-file-exploit-achieving-infinite-item-dismantle-duplication-via-clo.html)|`2026-03-13 01:15:00`|`ARC Raiders`|
+|[Help locating GetPedConfigFlag native function](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742618-help-locating-getpedconfigflag-native-function.html)|`2026-03-13 01:14:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-13 01:12:00`|`Overwatch`|
+|[knife/skin changer problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741620-knife-skin-changer.html)|`2026-03-13 01:11:00`|`Counter-Strike 2`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-13 01:04:00`|`Counter-Strike 2`|
 |[Bypassing kernel Fac Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742405-bypassing-kernel-fac-anti-cheat.html)|`2026-03-13 00:33:00`|`Anti-Cheat Bypass`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-13 00:31:00`|`Other FPS Games`|
 |[What’s The Plans Today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742478-plans.html)|`2026-03-13 00:31:00`|`Off Topic`|
