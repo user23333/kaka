@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel Drivers Making &#124; Valorant Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742571-kernel-drivers-valorant-injection.html)|`2026-03-13 04:48:00`|`Valorant`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-03-13 04:47:00`|`Other FPS Games`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-03-13 04:46:00`|`Paladins`|
+|[need help in valorant i cant spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742663-help-valorant-cant-spoofer.html)|`2026-03-13 04:39:00`|`Valorant`|
+|[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-13 04:38:00`|`Anti-Cheat Bypass`|
+|[【Zen Spoofer】 &#124; Disk ✔ &#124; Secure Boot ✔ &#124; fTPM / TPM ✔](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741915-zen-spoofer-disk-secure-boot-ftpm-tpm.html)|`2026-03-13 04:36:00`|`Valorant`|
 |[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-03-13 04:12:00`|`Rust`|
 |[legacy model without skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742660-legacy-model-skin.html)|`2026-03-13 04:06:00`|`Counter-Strike 2`|
 |[Exteral w/ KM Performace Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742351-exteral-km-performace-issues.html)|`2026-03-13 04:00:00`|`Counter-Strike 2`|
