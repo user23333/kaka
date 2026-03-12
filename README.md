@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-12 12:10:00`|`Minecraft`|
+|[Bot to study/learn windows internals, cheating, c&#43;&#43;, bypasses etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/733965-bot-study-learn-windows-internals-cheating-bypasses-etc.html)|`2026-03-12 11:52:00`|`General Programming and Reversing`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-12 10:23:00`|`Apex Legends`|
 |[checking for visibility](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/742546-checking-visibility.html)|`2026-03-12 10:23:00`|`Deadlock`|
 |[rocket boost in the car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741808-rocket-boost-car.html)|`2026-03-12 10:22:00`|`Grand Theft Auto V`|
