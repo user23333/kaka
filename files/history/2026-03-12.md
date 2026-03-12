@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xbox Local Save File Exploit: Achieving Infinite Item Dismantle & Duplication via Clo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742109-xbox-local-save-file-exploit-achieving-infinite-item-dismantle-duplication-via-clo.html)|`2026-03-12 22:27:00`|`ARC Raiders`|
+|[GScript Sig Scan Python Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/742596-gscript-sig-scan-python-closet-cheat.html)|`2026-03-12 22:23:00`|`Counter-Strike 2 Releases`|
+|[Holdfast: Nations at War Internal &#45; Esd&#46;HNAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741388-holdfast-nations-war-internal-esd-hnaw.html)|`2026-03-12 22:21:00`|`Other FPS Games`|
 |[TraceShape crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742134-traceshape-crash.html)|`2026-03-12 21:37:00`|`Counter-Strike 2`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-12 21:22:00`|`Grand Theft Auto V`|
 |[Instalocker For Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739727-instalocker-valorant.html)|`2026-03-12 20:25:00`|`Valorant`|
