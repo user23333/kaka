@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741910-sig.html)|`2026-03-13 07:53:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-13 07:43:00`|`Other FPS Games`|
 |[Developing an AI&#45;Powered Bot for a New MMORPG Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742509-developing-ai-powered-bot-mmorpg-game.html)|`2026-03-13 07:16:00`|`Other MMORPG and Strategy`|
 |[Fixing legacy skins in skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742684-fixing-legacy-skins-skin-changer.html)|`2026-03-13 07:03:00`|`Counter-Strike 2`|
