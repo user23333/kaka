@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[who can make cheat shooters pool game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742739-cheat-shooters-pool-game.html)|`2026-03-13 18:46:00`|`Forum General`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2026-03-13 18:43:00`|`Rainbow Six Siege`|
+|[&#91;Linux&#93; hunchclient v2 &#40;Arc Raiders Radar &#43; esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733709-linux-hunchclient-v2-arc-raiders-radar-esp.html)|`2026-03-13 18:41:00`|`ARC Raiders`|
+|[Who has the signatures GameplayCamHolder and GameplayCamTarget?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/739931-signatures-gameplaycamholder-gameplaycamtarget.html)|`2026-03-13 18:40:00`|`Alternative Online Mods`|
+|[How Does EAC Ban Really Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742737-eac-ban.html)|`2026-03-13 18:34:00`|`Anti-Cheat Bypass`|
+|[how to make this cheat hide from obs &#40; stream proof&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742342-cheat-hide-obs-stream-proof.html)|`2026-03-13 18:32:00`|`Anti-Cheat Bypass`|
+|[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-13 18:31:00`|`Counter-Strike 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-13 18:05:00`|`Alternative Online Mods`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-13 17:41:00`|`Grand Theft Auto V`|
 |[TPM Banned&#46; Now What?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742734-tpm-banned.html)|`2026-03-13 17:31:00`|`Call of Duty: Black Ops 7`|
