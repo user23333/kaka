@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-13 17:41:00`|`Grand Theft Auto V`|
+|[TPM Banned&#46; Now What?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742734-tpm-banned.html)|`2026-03-13 17:31:00`|`Call of Duty: Black Ops 7`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-13 17:24:00`|`Other FPS Games`|
+|[How are boosters farming $ on console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742735-boosters-farming-console.html)|`2026-03-13 17:24:00`|`Grand Theft Auto V`|
 |[hardware ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/739413-hardware-ban.html)|`2026-03-13 16:42:00`|`Call of Duty: Black Ops 7`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-03-13 16:38:00`|`Age of Empires`|
 |[HWID Ban BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741585-hwid-ban-bo7.html)|`2026-03-13 16:37:00`|`Call of Duty: Black Ops 7`|
