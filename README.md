@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dumped protobufs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742762-dumped-protobufs.html)|`2026-03-13 22:21:00`|`ARC Raiders`|
+|[Any LoL scripts avaliable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722594-lol-scripts-avaliable.html)|`2026-03-13 21:54:00`|`League of Legends`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-13 21:54:00`|`HELLDIVERS 2`|
+|[CS2 External Rader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742759-cs2-external-rader.html)|`2026-03-13 21:47:00`|`Counter-Strike 2`|
 |[How to check if I am HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/740295-check-am-hwid.html)|`2026-03-13 21:27:00`|`Overwatch`|
 |[how do i change my username on the forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742755-change-username-forum.html)|`2026-03-13 21:20:00`|`Forum General`|
 |[Internal SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741787-internal-sdk-dumper.html)|`2026-03-13 21:02:00`|`Valorant`|
