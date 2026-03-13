@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-13 19:50:00`|`Rainbow Six Siege`|
+|[newbie&#46; how do i start cheating in arc raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740461-newbie-start-cheating-arc-raiders.html)|`2026-03-13 19:50:00`|`ARC Raiders`|
+|[TPM Banned&#46; Now What? Spending on spoofers work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742732-tpm-banned-spending-spoofers.html)|`2026-03-13 19:49:00`|`Call of Duty: Black Ops 7`|
+|[Overwatch acc purchasing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/742685-overwatch-acc-purchasing.html)|`2026-03-13 19:43:00`|`Overwatch`|
 |[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2026-03-13 19:23:00`|`Other MMORPG and Strategy`|
 |[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2026-03-13 19:22:00`|`Among Us`|
 |[Valorant External Source Driver,Mapper Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742742-valorant-external-source-driver-mapper-included.html)|`2026-03-13 19:17:00`|`Valorant`|
