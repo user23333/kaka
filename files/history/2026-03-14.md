@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GameAssembly&#46;dll & UnityPlayer&#46;dll returning the exact same base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742525-gameassembly-dll-unityplayer-dll-returning-exact-base-address.html)|`2026-03-14 07:11:00`|`Rust`|
 |[IDirect3DTexture9 textures randomly becoming invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/732917-idirect3dtexture9-textures-randomly-becoming-invalid.html)|`2026-03-14 06:51:00`|`Direct3D`|
 |[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-03-14 06:50:00`|`Other Games`|
 |[roblox offsets needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/742828-roblox-offsets.html)|`2026-03-14 06:42:00`|`Roblox`|
