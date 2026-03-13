@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-13 23:00:00`|`Other MMORPG and Strategy`|
+|[Looking for a cleaner way to ban evade](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/742315-looking-cleaner-ban-evade.html)|`2026-03-13 22:59:00`|`Sea of Thieves`|
+|[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-03-13 22:53:00`|`Team Fortress 2`|
 |[dumped protobufs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742762-dumped-protobufs.html)|`2026-03-13 22:21:00`|`ARC Raiders`|
 |[Any LoL scripts avaliable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/722594-lol-scripts-avaliable.html)|`2026-03-13 21:54:00`|`League of Legends`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-13 21:54:00`|`HELLDIVERS 2`|
