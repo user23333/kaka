@@ -14,6 +14,7 @@
 |16|[Xbox Local Save File Exploit: Achieving Infinite Item Dismantle & Duplication via Clo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742109-xbox-local-save-file-exploit-achieving-infinite-item-dismantle-duplication-via-clo.html)|`2026-03-13 09:46:50`|`arc-raiders`|
 |29|[Windows Kernel Driver Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742461-windows-kernel-driver-temp-spoofer.html)|`2026-03-13 09:46:50`|`anti-cheat-bypass`|
 |25|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-13 18:18:28`|`combat-master`|
+|14|[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-13 20:24:58`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BLACK OPS 7 COLOR AIMBOT &#40;python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742746-black-ops-7-color-aimbot-python.html)|`2026-03-13 20:23:00`|`Call of Duty: Black Ops 7`|
+|[I'm looking for the latest Valorant source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742506-im-looking-valorant-source.html)|`2026-03-13 20:23:00`|`Valorant`|
+|[&#91;external&#93; Chams gpu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739670-external-chams-gpu.html)|`2026-03-13 19:51:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-13 19:50:00`|`Rainbow Six Siege`|
 |[newbie&#46; how do i start cheating in arc raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740461-newbie-start-cheating-arc-raiders.html)|`2026-03-13 19:50:00`|`ARC Raiders`|
 |[TPM Banned&#46; Now What? Spending on spoofers work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742732-tpm-banned-spending-spoofers.html)|`2026-03-13 19:49:00`|`Call of Duty: Black Ops 7`|
