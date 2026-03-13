@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thick Bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742726-thick-bullets.html)|`2026-03-13 14:58:00`|`Rust`|
+|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-03-13 14:47:00`|`Marvel Rivals`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-13 14:47:00`|`Apex Legends`|
+|[Kuboom internal Esp & Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741094-kuboom-internal-esp-silent-aim.html)|`2026-03-13 14:42:00`|`Other FPS Games`|
 |[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-03-13 13:51:00`|`Other MMORPG and Strategy`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-13 13:51:00`|`ARC Raiders`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-03-13 13:37:00`|`HELLDIVERS 2`|
