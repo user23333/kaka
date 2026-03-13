@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-03-14 03:18:00`|`Other FPS Games`|
+|[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742803-deceit-2-internal.html)|`2026-03-14 03:12:00`|`Other FPS Games`|
+|[SigmaRivals &#124;  Hacking Isn't Cool &#124; Xenos injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738436-sigmarivals-hacking-isnt-cool-xenos-injector.html)|`2026-03-14 03:08:00`|`Marvel Rivals`|
+|[FREE EXTERNAL UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/742305-free-external-updated.html)|`2026-03-14 03:06:00`|`Sea of Thieves`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-03-14 02:54:00`|`Other MMORPG and Strategy`|
 |[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-03-14 02:51:00`|`Marvel Rivals`|
 |[How can I reach TFT's gameobjectmanager?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/742462-reach-tfts-gameobjectmanager.html)|`2026-03-14 02:49:00`|`League of Legends`|
