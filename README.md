@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-14 07:30:00`|`Red Dead Redemption 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-14 07:24:00`|`Valorant`|
+|[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-03-14 07:22:00`|`Grand Theft Auto V`|
+|[What’s The Plans Today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742478-plans.html)|`2026-03-14 07:20:00`|`Off Topic`|
 |[GameAssembly&#46;dll & UnityPlayer&#46;dll returning the exact same base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742525-gameassembly-dll-unityplayer-dll-returning-exact-base-address.html)|`2026-03-14 07:11:00`|`Rust`|
 |[IDirect3DTexture9 textures randomly becoming invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/direct3d/732917-idirect3dtexture9-textures-randomly-becoming-invalid.html)|`2026-03-14 06:51:00`|`Direct3D`|
 |[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-03-14 06:50:00`|`Other Games`|
