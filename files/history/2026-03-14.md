@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[nikitas triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/734950-nikitas-triggerbot.html)|`2026-03-14 05:17:00`|`Valorant`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-03-14 05:14:00`|`Other MMORPG and Strategy`|
+|[Need advice analyzing suspicious RAR archive &#40;Minecraft cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742775-advice-analyzing-suspicious-rar-archive-minecraft-cheat.html)|`2026-03-14 04:59:00`|`Off Topic`|
 |[drawing raw RGBA data with ImGui & Dx9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/d3d-tutorials-and-source/742818-drawing-raw-rgba-data-imgui-dx9.html)|`2026-03-14 04:52:00`|`D3D Tutorials and Source`|
 |[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-03-14 04:50:00`|`Valorant`|
 |[is it acceptable to be a newgen here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/742781-acceptable-newgen.html)|`2026-03-14 04:39:00`|`Introductions`|
