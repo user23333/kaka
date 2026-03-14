@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-03-14 18:18:00`|`Valorant`|
+|[DTC driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742899-dtc-driver.html)|`2026-03-14 18:12:00`|`Rust`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-14 18:11:00`|`Apex Legends`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-03-14 18:08:00`|`Other FPS Games`|
 |[Change serial number on my motherboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742767-change-serial-motherboard.html)|`2026-03-14 17:44:00`|`Forum General`|
 |[Valorant External Source Driver,Mapper Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742742-valorant-external-source-driver-mapper-included.html)|`2026-03-14 17:21:00`|`Valorant`|
 |[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-14 17:10:00`|`Marvel Rivals`|
