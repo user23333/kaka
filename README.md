@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-15 07:29:00`|`Overwatch`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-03-15 07:27:00`|`Grand Theft Auto V`|
+|[AHK Script for YTMDesktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742922-ahk-script-ytmdesktop.html)|`2026-03-15 07:26:00`|`Off Topic`|
+|[BlueMonday hns cheat 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/742391-bluemonday-hns-cheat-1-6-a.html)|`2026-03-15 07:17:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[ow2 keep getting auto banned from reports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743028-ow2-getting-auto-banned-reports.html)|`2026-03-15 06:59:00`|`Overwatch`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-15 06:53:00`|`Other FPS Games`|
 |[Dead By Daylight ESP base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743010-dead-daylight-esp-base.html)|`2026-03-15 06:51:00`|`Other FPS Games`|
