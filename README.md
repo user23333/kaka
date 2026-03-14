@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AIMBOT technique](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741251-aimbot-technique.html)|`2026-03-14 15:17:00`|`Apex Legends`|
+|[Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737185-injection-methods.html)|`2026-03-14 15:01:00`|`Anti-Cheat Bypass`|
 |[Unturned Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738483-unturned-offsets.html)|`2026-03-14 14:52:00`|`Other FPS Games`|
 |[Issue with C&#43;&#43; and bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742182-issue-bypass.html)|`2026-03-14 14:48:00`|`HELLDIVERS 2`|
 |[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-03-14 14:37:00`|`Rust`|
