@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Change serial number on my motherboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742767-change-serial-motherboard.html)|`2026-03-14 17:44:00`|`Forum General`|
+|[Valorant External Source Driver,Mapper Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742742-valorant-external-source-driver-mapper-included.html)|`2026-03-14 17:21:00`|`Valorant`|
 |[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-14 17:10:00`|`Marvel Rivals`|
 |[How Does EAC Ban Really Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742737-eac-ban.html)|`2026-03-14 17:10:00`|`Anti-Cheat Bypass`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-03-14 17:06:00`|`Call of Duty: Black Ops 7`|
