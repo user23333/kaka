@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-14 23:11:00`|`Alternative Online Mods`|
+|[Recommandation mod menu ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/731078-recommandation-mod-menu.html)|`2026-03-14 23:09:00`|`Red Dead Redemption 2`|
+|[Diablo Immortal 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742592-diablo-immortal-2026-a.html)|`2026-03-14 23:05:00`|`Other MMORPG and Strategy`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-03-14 23:05:00`|`Apex Legends`|
+|[Large page allocation in normal process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737052-page-allocation-normal-process.html)|`2026-03-14 23:03:00`|`Anti-Cheat Bypass`|
 |[how to change environment ui theme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741775-change-environment-ui-theme.html)|`2026-03-14 22:39:00`|`Escape from Tarkov`|
 |[Color bot ingame video settings preferences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742903-color-bot-ingame-video-settings-preferences.html)|`2026-03-14 22:34:00`|`Valorant`|
 |[black ops 3 mxt menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/742564-black-ops-3-mxt-menu.html)|`2026-03-14 22:24:00`|`Call of Duty: Black Ops 3`|
