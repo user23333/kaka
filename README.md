@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-15 02:21:00`|`League of Legends`|
+|[cs2 external &#45; catalyst extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742973-cs2-external-catalyst-extension.html)|`2026-03-15 02:21:00`|`Counter-Strike 2`|
+|[Tracing fraction giving inaccurate value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742971-tracing-fraction-giving-inaccurate-value.html)|`2026-03-15 02:01:00`|`Counter-Strike 2`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-15 01:56:00`|`HELLDIVERS 2`|
 |[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742803-deceit-2-internal.html)|`2026-03-15 01:55:00`|`Other FPS Games`|
 |[Player Character Seeds Needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742966-player-character-seeds.html)|`2026-03-15 01:50:00`|`Rust`|
 |[Gamerenderoverlay64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742942-gamerenderoverlay64.html)|`2026-03-15 01:48:00`|`Counter-Strike 2`|
