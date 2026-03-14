@@ -13,6 +13,7 @@
 |14|[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-14 00:22:29`|`other-games`|
 |6|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-03-14 04:53:25`|`counter-strike-2-a`|
 |7|[updated valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741876-updated-valorant-internal-source.html)|`2026-03-14 05:49:50`|`valorant`|
+|18|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-14 12:19:52`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,23 @@
 |33|[paladins launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53575)|`2026-03-14 00:22:29`|
 |1|[BloodStrike&#95;Internal&#95;steamV3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53576)|`2026-03-14 08:00:33`|
 |1|[FPS GAME:DEV TEST internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53579)|`2026-03-14 10:23:11`|
+|3|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53602)|`2026-03-14 12:19:52`|
+|1|[waif&#45;v4&#46;4&#46;1&#95;updated&#95;offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53601)|`2026-03-14 12:19:52`|
+|0|[Shadowverse Global Metadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53600)|`2026-03-14 12:19:52`|
+|2|[ InjectionProofESP THE ISLE EVIRMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53599)|`2026-03-14 12:19:52`|
+|1|[odin v4 source updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53597)|`2026-03-14 12:19:52`|
+|10|[ElectronAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53594)|`2026-03-14 12:19:52`|
+|1|[bluemonday](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53593)|`2026-03-14 12:19:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-03-14 12:16:00`|`Rainbow Six Siege`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-14 12:13:00`|`Deadlock`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-14 12:11:00`|`Escape from Tarkov`|
+|[The King is Leaving&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742865-king-leaving.html)|`2026-03-14 12:10:00`|`Alternative Online Mods`|
+|[CS2 Internal Cheat — ESP, Aimbot, Triggerbot, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739763-cs2-internal-cheat-esp-aimbot-triggerbot-radar.html)|`2026-03-14 12:00:00`|`Counter-Strike 2`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-03-14 11:52:00`|`Other FPS Games`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-03-14 11:48:00`|`Other FPS Games`|
 |[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2026-03-14 10:19:00`|`Other FPS Games`|
 |[tips on how to cheat and not get banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739526-tips-cheat-banned.html)|`2026-03-14 10:18:00`|`Overwatch`|
 |[Overwatch acc purchasing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/742685-overwatch-acc-purchasing.html)|`2026-03-14 10:14:00`|`Overwatch`|
