@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[InterceptIP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742887-interceptip.html)|`2026-03-15 02:58:00`|`General Programming and Reversing`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-15 02:58:00`|`Overwatch`|
+|[Spoof Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740171-spoof-driver.html)|`2026-03-15 02:58:00`|`Anti-Cheat Bypass`|
+|[Hi, UnKnownCheats&#33; How can i improve?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742979-hi-unknowncheats-improve.html)|`2026-03-15 02:58:00`|`Forum General`|
+|[how to change environment ui theme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741775-change-environment-ui-theme.html)|`2026-03-15 02:58:00`|`Escape from Tarkov`|
+|[Advanced HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742915-advanced-hwid-spoofer.html)|`2026-03-15 02:57:00`|`General Programming and Reversing`|
+|[BO2 Zombies &#40;Plutonium&#41; External Aimbot &#43; Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/742980-bo2-zombies-plutonium-external-aimbot-triggerbot.html)|`2026-03-15 02:57:00`|`Call of Duty: Black Ops 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-15 02:21:00`|`League of Legends`|
 |[cs2 external &#45; catalyst extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742973-cs2-external-catalyst-extension.html)|`2026-03-15 02:21:00`|`Counter-Strike 2`|
 |[Tracing fraction giving inaccurate value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742971-tracing-fraction-giving-inaccurate-value.html)|`2026-03-15 02:01:00`|`Counter-Strike 2`|
