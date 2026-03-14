@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[better way of getting fps camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/742910-getting-fps-camera.html)|`2026-03-14 20:23:00`|`Escape from Tarkov`|
+|[Player Names Always Show "BOT" &#45; Need Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/742410-player-names-bot-help.html)|`2026-03-14 20:18:00`|`DayZ SA`|
+|[MEGa Tool Dupe Arc Raiders &#45; EverythingGlitches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742909-mega-tool-dupe-arc-raiders-everythingglitches.html)|`2026-03-14 20:17:00`|`ARC Raiders`|
+|[Free FiveM DMA ESP / Aimbot / Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740882-free-fivem-dma-esp-aimbot-web-radar.html)|`2026-03-14 20:00:00`|`Alternative Online Mods`|
 |[Slay the Spire 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742906-slay-spire-2-internal.html)|`2026-03-14 19:51:00`|`Other Games`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-14 19:34:00`|`HELLDIVERS 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-14 19:16:00`|`Other FPS Games`|
