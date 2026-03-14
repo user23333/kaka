@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-15 00:41:00`|`Other MMORPG and Strategy`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-15 00:33:00`|`ARMA 3`|
+|[Conan Exiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/628443-conan-exiles.html)|`2026-03-15 00:32:00`|`Other FPS Games`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-15 00:29:00`|`Counter-Strike 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-15 00:28:00`|`Battlefield 6`|
+|[What is the safest way to develop/test cheats in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742879-safest-develop-test-cheats-cs2.html)|`2026-03-15 00:28:00`|`Counter-Strike 2`|
 |[The King is Leaving&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742865-king-leaving.html)|`2026-03-15 00:20:00`|`Alternative Online Mods`|
 |[internal nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/742736-internal-nospread.html)|`2026-03-15 00:14:00`|`Garry's Mod`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-03-15 00:12:00`|`Counter-Strike 2 Releases`|
