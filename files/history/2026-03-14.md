@@ -26,9 +26,12 @@
 |4|[RtR&#45;agent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53580)|`2026-03-14 00:22:29`|
 |189|[rust ESP source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53578)|`2026-03-14 00:22:29`|
 |33|[paladins launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53575)|`2026-03-14 00:22:29`|
+|1|[BloodStrike&#95;Internal&#95;steamV3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53576)|`2026-03-14 08:00:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unk bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742721-unk-bug.html)|`2026-03-14 07:58:00`|`Counter-Strike 2`|
+|[Inaccurate fakeduck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/742439-inaccurate-fakeduck.html)|`2026-03-14 07:58:00`|`Garry's Mod`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-14 07:30:00`|`Red Dead Redemption 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-14 07:24:00`|`Valorant`|
 |[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-03-14 07:22:00`|`Grand Theft Auto V`|
