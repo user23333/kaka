@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-03-14 23:54:00`|`Other FPS Games`|
+|[Simple Roblox External Base &#45; Usermode &#40;SOURCE/UPDATED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/734293-simple-roblox-external-base-usermode-source-updated.html)|`2026-03-14 23:52:00`|`Roblox`|
 |[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-14 23:32:00`|`Call of Duty 6: Modern Warfare 2`|
 |[cs2 entity list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/609275-cs2-entity-list.html)|`2026-03-14 23:31:00`|`Counter-Strike 2`|
 |[My animated avatar is not animated for some reason?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/742911-animated-avatar-animated-reason.html)|`2026-03-14 23:30:00`|`Forum General`|
