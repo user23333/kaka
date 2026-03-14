@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Execute Eidolon without unicorn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/742891-execute-eidolon-unicorn.html)|`2026-03-14 16:49:00`|`Overwatch`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-14 16:43:00`|`Overwatch`|
+|[WalkBot Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/733171-walkbot-source-code.html)|`2026-03-14 16:29:00`|`Counter-Strike 2`|
+|[Recommend me an obscure mouse brands with good onboard capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741718-recommend-obscure-mouse-brands-onboard-capabilities.html)|`2026-03-14 16:24:00`|`Valorant`|
 |[InterceptIP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742887-interceptip.html)|`2026-03-14 15:55:00`|`General Programming and Reversing`|
 |[GScript Sig Scan Python Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/742596-gscript-sig-scan-python-closet-cheat.html)|`2026-03-14 15:51:00`|`Counter-Strike 2 Releases`|
 |[Roblox Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/742600-roblox-executor.html)|`2026-03-14 15:45:00`|`Roblox`|
