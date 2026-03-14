@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[black ops 3 mxt menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/742564-black-ops-3-mxt-menu.html)|`2026-03-14 22:24:00`|`Call of Duty: Black Ops 3`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-03-14 22:22:00`|`Sea of Thieves`|
+|[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-14 22:19:00`|`Counter-Strike 2`|
+|[Splitgate Hack&#124; Internal ESP &#43; Rage Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742893-splitgate-hack-internal-esp-rage-aimbot.html)|`2026-03-14 22:16:00`|`Off Topic`|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-03-14 22:05:00`|`Garry's Mod`|
 |[AHK Script for YTMDesktop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742922-ahk-script-ytmdesktop.html)|`2026-03-14 21:53:00`|`Off Topic`|
 |[updated valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741876-updated-valorant-internal-source.html)|`2026-03-14 21:52:00`|`Valorant`|
 |[Epitome Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738123-epitome-reversal-structs-offsets.html)|`2026-03-14 21:47:00`|`Other MMORPG and Strategy`|
