@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is the safest way to develop/test cheats in CS2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742879-safest-develop-test-cheats-cs2.html)|`2026-03-14 21:19:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-14 21:18:00`|`ARC Raiders`|
 |[better way of getting fps camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/742910-getting-fps-camera.html)|`2026-03-14 20:23:00`|`Escape from Tarkov`|
 |[Player Names Always Show "BOT" &#45; Need Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/742410-player-names-bot-help.html)|`2026-03-14 20:18:00`|`DayZ SA`|
 |[MEGa Tool Dupe Arc Raiders &#45; EverythingGlitches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742909-mega-tool-dupe-arc-raiders-everythingglitches.html)|`2026-03-14 20:17:00`|`ARC Raiders`|
