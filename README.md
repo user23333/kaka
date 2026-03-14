@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Does EAC Ban Really Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742737-eac-ban.html)|`2026-03-15 06:06:00`|`Anti-Cheat Bypass`|
+|[mir4 botpro keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743013-mir4-botpro-keys.html)|`2026-03-15 06:04:00`|`Other MMORPG and Strategy`|
 |[VALO Hybrid Colorbot V9 &#40;External &#124; Dual FOV &#124; Box Merging&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738899-valo-hybrid-colorbot-v9-external-dual-fov-box-merging.html)|`2026-03-15 05:53:00`|`Valorant`|
 |[Terraria Character Editor 1&#46;4&#46;5&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743004-terraria-character-editor-1-4-5-a.html)|`2026-03-15 05:51:00`|`Other Games`|
 |[Looking to start exploiting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743007-looking-start-exploiting.html)|`2026-03-15 05:41:00`|`Alternative Online Mods`|
