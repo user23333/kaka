@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 duplication exploit &#40;new&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/656490-fallout-76-duplication-exploit.html)|`2026-03-15 03:49:00`|`Other FPS Games`|
 |[better way of getting fps camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/742910-getting-fps-camera.html)|`2026-03-15 03:46:00`|`Escape from Tarkov`|
 |[UD driver help &#43;  Native  Controller External help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742991-ud-driver-help-native-controller-external-help.html)|`2026-03-15 03:44:00`|`Call of Duty: Black Ops 7`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-15 03:39:00`|`Combat Master`|
