@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-03-15 19:10:00`|`Rust`|
+|[CS2 TriggerBot Made In Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608773-cs2-triggerbot-python.html)|`2026-03-15 19:05:00`|`Counter-Strike 2 Releases`|
+|[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-15 19:03:00`|`Counter-Strike 2`|
+|[Helldivers 2 Sneaky Stuff v1 by Igromanru](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/710419-helldivers-2-sneaky-stuff-v1-igromanru.html)|`2026-03-15 19:03:00`|`HELLDIVERS 2`|
+|[How to make Cheat Engine Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741516-cheat-engine-undetected.html)|`2026-03-15 19:02:00`|`Alternative Online Mods`|
+|[GScript Sig Scan Python Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/742596-gscript-sig-scan-python-closet-cheat.html)|`2026-03-15 19:02:00`|`Counter-Strike 2 Releases`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-03-15 18:36:00`|`DayZ SA`|
 |[Thread Hijack via kernel hooks unreliable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743092-thread-hijack-via-kernel-hooks-unreliable.html)|`2026-03-15 18:26:00`|`Anti-Cheat Bypass`|
 |[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-03-15 18:19:00`|`Paladins`|
