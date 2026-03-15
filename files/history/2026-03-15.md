@@ -11,6 +11,7 @@
 |9|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-03-15 00:20:33`|`counter-strike-2-a`|
 |20|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-15 00:20:33`|`rust`|
 |8|[updated valorant internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741876-updated-valorant-internal-source.html)|`2026-03-15 00:20:33`|`valorant`|
+|15|[New tool for making 1:1 emulation fw&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741890-tool-1-1-emulation-fw.html)|`2026-03-15 13:23:04`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned? Post here&#33; DATA COLLECTION THREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/165200-banned-post-data-collection-thread.html)|`2026-03-15 13:18:00`|`Grand Theft Auto V`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-15 13:09:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-15 13:06:00`|`Escape from Tarkov`|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-15 13:01:00`|`League of Legends`|
+|[【Zen Spoofer】 &#124; Disk ✔ &#124; Secure Boot ✔ &#124; fTPM / TPM ✔](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741915-zen-spoofer-disk-secure-boot-ftpm-tpm.html)|`2026-03-15 12:38:00`|`Valorant`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-15 11:37:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-03-15 11:33:00`|`Grand Theft Auto V`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-15 09:02:00`|`Grand Theft Auto V`|
