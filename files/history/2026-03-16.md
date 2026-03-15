@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-16 03:12:00`|`Rust`|
+|[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-03-16 03:12:00`|`Rust`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-03-16 03:08:00`|`Grand Theft Auto V`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-03-16 03:06:00`|`Other FPS Games`|
+|[OBS UDP PLUGIN FOR VALORANT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743199-obs-udp-plugin-valorant.html)|`2026-03-16 03:03:00`|`Valorant`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-16 03:03:00`|`Grand Theft Auto V`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739137-silent-aim.html)|`2026-03-16 03:02:00`|`Rust`|
 |[CS2 Kernel Cheat w Map Parser, WB & a lot more stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740684-cs2-kernel-cheat-map-parser-wb-lot-stuff.html)|`2026-03-16 02:48:00`|`Counter-Strike 2`|
 |[A Full Production Automation System &#40;Generate Unlimited Weapons&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742983-production-automation-system-generate-unlimited-weapons.html)|`2026-03-16 02:47:00`|`ARC Raiders`|
 |[Chams related structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743193-chams-related-structs.html)|`2026-03-16 02:47:00`|`Counter-Strike 2`|
