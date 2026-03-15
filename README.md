@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[reversing the eidolon — vmp component decrypt to pure math](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743088-reversing-eidolon-vmp-component-decrypt-pure-math.html)|`2026-03-15 17:24:00`|`Overwatch`|
+|[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2026-03-15 17:05:00`|`Counter-Strike 2 Releases`|
 |[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2026-03-15 16:49:00`|`Tom Clancy's The Division`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-15 16:37:00`|`Valorant`|
 |[Can someone teach how to improve and add features to my CS2 Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743077-teach-improve-add-features-cs2-cheat.html)|`2026-03-15 16:36:00`|`Counter-Strike 2`|
