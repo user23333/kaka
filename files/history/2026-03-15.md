@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[legacy model without skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742660-legacy-model-skin.html)|`2026-03-15 19:34:00`|`Counter-Strike 2`|
 |[Rust bones method &#35;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737829-rust-bones-method-2-a.html)|`2026-03-15 19:10:00`|`Rust`|
 |[CS2 TriggerBot Made In Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608773-cs2-triggerbot-python.html)|`2026-03-15 19:05:00`|`Counter-Strike 2 Releases`|
 |[🌟 CS2 Lumen External &#45; Soon Source 🌟](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741666-cs2-lumen-external-soon-source.html)|`2026-03-15 19:03:00`|`Counter-Strike 2`|
