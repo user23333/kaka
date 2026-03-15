@@ -12,6 +12,7 @@
 |12|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-03-16 00:31:24`|`helldivers-2-a`|
 |3|[Updated InfinityHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742108-updated-infinityhook.html)|`2026-03-16 00:31:24`|`anti-cheat-bypass`|
 |12|[ElectronAC Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742511-electronac-source-code.html)|`2026-03-16 03:43:44`|`alternative-online-mods`|
+|12|[A Full Production Automation System &#40;Generate Unlimited Weapons&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742983-production-automation-system-generate-unlimited-weapons.html)|`2026-03-16 07:02:58`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Internal &#124; WideAngle/Viewmodel &#40;real&#41; &#124; aka&#46; "sassy viewmodel"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743262-valorant-internal-wideangle-viewmodel-real-aka-sassy-viewmodel.html)|`2026-03-16 07:00:00`|`Valorant`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-16 06:56:00`|`ARMA 3`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-16 06:55:00`|`Escape from Tarkov`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-16 06:53:00`|`Rainbow Six Siege`|
+|[Valorant Viewmodel Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743260-valorant-viewmodel-changer.html)|`2026-03-16 06:53:00`|`Valorant`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/743261-introduction.html)|`2026-03-16 06:49:00`|`Introductions`|
 |[Valorant Internal Skybox Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743255-valorant-internal-skybox-changer.html)|`2026-03-16 06:42:00`|`Valorant`|
 |[Valorant Internal AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743250-valorant-internal-autowall.html)|`2026-03-16 06:42:00`|`Valorant`|
 |[LEAK &#45;&#45;&#62; Internal &#43; vgc&#46;exe Emulator &#43; HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743254-leak-internal-vgc-exe-emulator-hwid-spoofer.html)|`2026-03-16 06:42:00`|`Valorant`|
