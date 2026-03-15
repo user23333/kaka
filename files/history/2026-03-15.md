@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-15 11:37:00`|`Other FPS Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-03-15 11:33:00`|`Grand Theft Auto V`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-15 09:02:00`|`Grand Theft Auto V`|
 |[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-03-15 08:53:00`|`Other Games`|
 |[J4V3L1N SK1LLS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743040-j4v3l1n-sk1lls.html)|`2026-03-15 08:53:00`|`Anti-Cheat Bypass`|
