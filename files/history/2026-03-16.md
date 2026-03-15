@@ -30,9 +30,17 @@
 |2|[pontificie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53674)|`2026-03-16 01:52:42`|
 |7|[Verox 0&#46;00&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53672)|`2026-03-16 01:52:42`|
 |1|[esd&#46;hnaw&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53671)|`2026-03-16 01:52:42`|
+|8|[berserk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53665)|`2026-03-16 02:49:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Kernel Cheat w Map Parser, WB & a lot more stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740684-cs2-kernel-cheat-map-parser-wb-lot-stuff.html)|`2026-03-16 02:48:00`|`Counter-Strike 2`|
+|[A Full Production Automation System &#40;Generate Unlimited Weapons&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742983-production-automation-system-generate-unlimited-weapons.html)|`2026-03-16 02:47:00`|`ARC Raiders`|
+|[Chams related structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743193-chams-related-structs.html)|`2026-03-16 02:47:00`|`Counter-Strike 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-03-16 02:40:00`|`Palworld`|
+|[script yimmenuV2 GTA Online Enhanced &#45; Master Control Terminal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/743196-script-yimmenuv2-gta-online-enhanced-master-control-terminal.html)|`2026-03-16 02:39:00`|`Grand Theft Auto V`|
+|[Im having issues filtering the actors&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/742826-im-issues-filtering-actors.html)|`2026-03-16 02:38:00`|`Rainbow Six Siege`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-16 02:37:00`|`Overwatch`|
 |[Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737185-injection-methods.html)|`2026-03-16 01:55:00`|`Anti-Cheat Bypass`|
 |[EA Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739453-ea-account.html)|`2026-03-16 01:54:00`|`Apex Legends`|
 |[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-03-16 01:46:00`|`Other Games`|
