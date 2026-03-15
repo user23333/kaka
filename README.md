@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Color bot ingame video settings preferences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742903-color-bot-ingame-video-settings-preferences.html)|`2026-03-16 06:12:00`|`Valorant`|
+|[Valorant Internal &#124; Spawn World Fog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743236-valorant-internal-spawn-world-fog.html)|`2026-03-16 06:09:00`|`Valorant`|
+|[Very Basic Custom DMA Firmware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725509-basic-custom-dma-firmware-guide.html)|`2026-03-16 06:07:00`|`Anti-Cheat Bypass`|
+|[overlay question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743235-overlay-question.html)|`2026-03-16 06:04:00`|`Call of Duty: Black Ops 7`|
+|[Valorant Internal &#124; World Spawn Lightning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743232-valorant-internal-world-spawn-lightning.html)|`2026-03-16 05:59:00`|`Valorant`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-03-16 05:57:00`|`Call of Duty: Black Ops 2`|
 |[How to map a driver for battle eye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743229-map-driver-battle-eye.html)|`2026-03-16 05:49:00`|`Anti-Cheat Bypass`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-16 05:44:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-16 05:38:00`|`Other FPS Games`|
