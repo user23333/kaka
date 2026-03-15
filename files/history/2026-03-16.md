@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-16 05:29:00`|`Counter-Strike 2`|
+|[Eterspire MMO Mod Menu &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726979-eterspire-mmo-mod-menu-steam.html)|`2026-03-16 05:27:00`|`Other MMORPG and Strategy`|
+|[NAKWON: LAST PARADISE, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743117-nakwon-paradise-structs-offsets.html)|`2026-03-16 05:22:00`|`Other FPS Games`|
+|[Spoofing Valorant 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743053-spoofing-valorant-2026-a.html)|`2026-03-16 05:19:00`|`Valorant`|
+|[External Spectator List](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742356-external-spectator-list.html)|`2026-03-16 05:08:00`|`Alternative Online Mods`|
 |[odinv4 source updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742534-odinv4-source-updated.html)|`2026-03-16 04:58:00`|`Paladins`|
 |[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-03-16 04:54:00`|`Marvel Rivals`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-16 04:47:00`|`Counter-Strike 2 Releases`|
