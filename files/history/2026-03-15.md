@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-15 17:42:00`|`Apex Legends`|
+|[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-03-15 17:37:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Thick Bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742726-thick-bullets.html)|`2026-03-15 17:32:00`|`Rust`|
 |[reversing the eidolon — vmp component decrypt to pure math](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743088-reversing-eidolon-vmp-component-decrypt-pure-math.html)|`2026-03-15 17:24:00`|`Overwatch`|
 |[CS2 External Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/604580-cs2-external-bhop.html)|`2026-03-15 17:05:00`|`Counter-Strike 2 Releases`|
 |[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2026-03-15 16:49:00`|`Tom Clancy's The Division`|
