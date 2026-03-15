@@ -28,9 +28,17 @@
 |60|[ElectronAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53594)|`2026-03-15 00:20:33`|
 |15|[bluemonday](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53593)|`2026-03-15 00:20:33`|
 |71|[hybrid internal with overlaying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53592)|`2026-03-15 00:20:33`|
+|1|[Objects&#45;Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53686)|`2026-03-15 23:44:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Account Checkers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/736082-r6-account-checkers.html)|`2026-03-15 23:40:00`|`Rainbow Six Siege`|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-03-15 23:34:00`|`Garry's Mod`|
+|[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2026-03-15 23:34:00`|`Apex Legends`|
+|[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-03-15 23:34:00`|`Other Games`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-03-15 23:30:00`|`Garry's Mod`|
+|[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-03-15 23:25:00`|`Age of Empires`|
+|[Silent aim help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742805-silent-aim-help.html)|`2026-03-15 23:23:00`|`Rust`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-15 23:11:00`|`Valorant`|
 |[Any ASUS Ryzen users who have been banned and spoofed recently?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/638048-asus-ryzen-users-banned-spoofed-recently.html)|`2026-03-15 23:00:00`|`Valorant`|
 |[apex esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743148-apex-esp.html)|`2026-03-15 22:57:00`|`Apex Legends`|
