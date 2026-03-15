@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-03-15 21:47:00`|`Call of Duty: Black Ops 2`|
+|[COD Decryption & Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728601-cod-decryption-memory-dumper.html)|`2026-03-15 21:47:00`|`Call of Duty: Black Ops 7`|
+|[The source code that user Qwerttyyu didn't upload](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743135-source-code-user-qwerttyyu-didnt-upload.html)|`2026-03-15 21:39:00`|`Apex Legends`|
+|[how do you correctly debug Local position](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743134-correctly-debug-local-position.html)|`2026-03-15 21:34:00`|`ARC Raiders`|
+|[Deadside Internal Semi&#45;Silentaim &#40;gun manipulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740955-deadside-internal-semi-silentaim-gun-manipulation.html)|`2026-03-15 21:28:00`|`Other FPS Games`|
 |[Building rust external need driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743119-building-rust-external-driver-help.html)|`2026-03-15 20:57:00`|`Anti-Cheat Bypass`|
 |[How to Spawn Vehicles Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743057-spawn-vehicles-externally.html)|`2026-03-15 20:48:00`|`Alternative Online Mods`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-03-15 19:43:00`|`Tom Clancy's The Division`|
