@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to get updated patterns?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743443-updated-patterns.html)|`2026-03-17 06:51:00`|`Counter-Strike 2`|
+|[Valorant Internal &#124; Galaxy Chams &#40;Enemy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743430-valorant-internal-galaxy-chams-enemy.html)|`2026-03-17 06:46:00`|`Valorant`|
+|[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-03-17 06:34:00`|`Team Fortress 2`|
+|[Vehicle Parachute](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743434-vehicle-parachute.html)|`2026-03-17 06:34:00`|`Alternative Online Mods`|
 |[Driver loading &#43; memory reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743328-driver-loading-memory-reading.html)|`2026-03-17 06:22:00`|`Call of Duty: Black Ops 7`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-17 06:22:00`|`Grand Theft Auto V`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-17 06:21:00`|`Counter-Strike 2 Releases`|
