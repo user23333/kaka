@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ULTRA AIMBOB BY GDOG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742337-ultra-aimbob-gdog.html)|`2026-03-16 15:37:00`|`Apex Legends`|
+|[Chance of getting banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741267-chance-getting-banned.html)|`2026-03-16 15:05:00`|`Grand Theft Auto V`|
+|[FREE C&#35; RAZER COLOR SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743289-free-razer-color-source.html)|`2026-03-16 14:54:00`|`Valorant`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-16 14:00:00`|`Counter-Strike 2`|
 |[Working ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737177-esp-source.html)|`2026-03-16 13:55:00`|`Valorant`|
 |[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-16 13:21:00`|`Rust`|
