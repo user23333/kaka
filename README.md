@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-16 14:00:00`|`Counter-Strike 2`|
+|[Working ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737177-esp-source.html)|`2026-03-16 13:55:00`|`Valorant`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-16 13:21:00`|`Rust`|
+|[Team Fortress 2 Classified Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/737054-team-fortress-2-classified-reversal-structs-offsets.html)|`2026-03-16 13:17:00`|`Team Fortress 2`|
 |[what are these instructions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/730905-instructions.html)|`2026-03-16 12:25:00`|`Assembly`|
 |[How can I eagerly load all Blueprint classes before dumping UE5 SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/743294-eagerly-load-blueprint-classes-dumping-ue5-sdk.html)|`2026-03-16 12:24:00`|`General Programming and Reversing`|
 |[TPM Banned&#46; Now What?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742734-tpm-banned.html)|`2026-03-16 12:00:00`|`Call of Duty: Black Ops 7`|
