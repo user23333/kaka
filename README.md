@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Player Inventory without inventory decrypt?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743348-player-inventory-inventory-decrypt.html)|`2026-03-16 21:41:00`|`Rust`|
+|[old vgcc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743347-vgcc.html)|`2026-03-16 21:36:00`|`Valorant`|
+|[UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743349-usercmd.html)|`2026-03-16 21:32:00`|`Counter-Strike 2`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-03-16 21:24:00`|`Counter-Strike 2 Releases`|
+|[VGC encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743202-vgc-encryption.html)|`2026-03-16 21:23:00`|`Valorant`|
 |[Looking for a simple esp that preferably isnt DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742527-looking-simple-esp-preferably-isnt-dma.html)|`2026-03-16 19:49:00`|`Rust`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-16 19:46:00`|`Other MMORPG and Strategy`|
 |[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-16 19:42:00`|`Other Games`|
