@@ -38,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Game Stats Data&#45;Mine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736072-game-stats-data-mine.html)|`2026-03-16 22:40:00`|`ARC Raiders`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2026-03-16 22:17:00`|`Escape from Tarkov`|
 |[Player Inventory without inventory decrypt?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743348-player-inventory-inventory-decrypt.html)|`2026-03-16 21:41:00`|`Rust`|
 |[old vgcc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743347-vgcc.html)|`2026-03-16 21:36:00`|`Valorant`|
 |[UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743349-usercmd.html)|`2026-03-16 21:32:00`|`Counter-Strike 2`|
