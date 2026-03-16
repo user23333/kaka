@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What should i use for 2pc streaming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743316-2pc-streaming.html)|`2026-03-16 16:33:00`|`Valorant`|
+|[Anticheat kicks bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743107-anticheat-kicks-bypass.html)|`2026-03-16 16:21:00`|`Anti-Cheat Bypass`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-03-16 16:20:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-16 16:19:00`|`Other FPS Games`|
 |[ULTRA AIMBOB BY GDOG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742337-ultra-aimbob-gdog.html)|`2026-03-16 15:37:00`|`Apex Legends`|
 |[Chance of getting banned&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741267-chance-getting-banned.html)|`2026-03-16 15:05:00`|`Grand Theft Auto V`|
 |[FREE C&#35; RAZER COLOR SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743289-free-razer-color-source.html)|`2026-03-16 14:54:00`|`Valorant`|
