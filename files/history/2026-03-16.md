@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-16 23:38:00`|`Other Games`|
+|[Is there any public repo of neural models/images?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743369-public-repo-neural-models-images.html)|`2026-03-16 23:37:00`|`Counter-Strike 2`|
+|[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-03-16 23:26:00`|`ARC Raiders`|
+|[Suggestions for CSGO Python cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/743365-suggestions-csgo-python-cheats.html)|`2026-03-16 23:22:00`|`Counterstrike Global Offensive`|
+|[dumped protobufs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742762-dumped-protobufs.html)|`2026-03-16 23:21:00`|`ARC Raiders`|
 |[Game Stats Data&#45;Mine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/736072-game-stats-data-mine.html)|`2026-03-16 22:40:00`|`ARC Raiders`|
 |[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2026-03-16 22:17:00`|`Escape from Tarkov`|
 |[Player Inventory without inventory decrypt?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743348-player-inventory-inventory-decrypt.html)|`2026-03-16 21:41:00`|`Rust`|
