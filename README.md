@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[sv&#95;legacy&#95;jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739495-sv_legacy_jump.html)|`2026-03-17 05:22:00`|`Counter-Strike 2`|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-17 05:20:00`|`Combat Master`|
+|[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-17 05:18:00`|`Other Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-03-17 05:17:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-03-17 05:12:00`|`Other FPS Games`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-03-17 05:09:00`|`Garry's Mod`|
 |[Valorant Internal &#124; Bullet Tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743402-valorant-internal-bullet-tracers.html)|`2026-03-17 04:45:00`|`Valorant`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-03-17 04:42:00`|`Rust`|
 |[AimLabs View matrix offsets as of 03/15/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743273-aimlabs-view-matrix-offsets-03-15-2026-a.html)|`2026-03-17 04:33:00`|`Other Games`|
