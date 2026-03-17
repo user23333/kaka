@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WeaponManager Crash Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743646-weaponmanager-crash.html)|`2026-03-18 06:50:00`|`Alternative Online Mods`|
+|[Khytt's External v1 w/ Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738931-khytts-external-v1-source.html)|`2026-03-18 06:48:00`|`Counter-Strike 2`|
+|[FiveM Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743466-fivem-offsets-dumper.html)|`2026-03-18 06:46:00`|`Alternative Online Mods`|
+|[BlueMonday hns cheat 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/742391-bluemonday-hns-cheat-1-6-a.html)|`2026-03-18 06:44:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-03-18 06:44:00`|`Grand Theft Auto V`|
 |[LEAK &#45;&#45;&#62; Internal &#43; vgc&#46;exe Emulator &#43; HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743254-leak-internal-vgc-exe-emulator-hwid-spoofer.html)|`2026-03-18 06:19:00`|`Valorant`|
 |[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-18 06:19:00`|`Rust`|
 |[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2026-03-18 06:17:00`|`Apex Legends`|
