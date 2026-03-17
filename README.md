@@ -28,9 +28,18 @@
 |2|[pontificie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53674)|`2026-03-17 00:43:31`|
 |415|[Verox 0&#46;00&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53672)|`2026-03-17 00:43:31`|
 |13|[esd&#46;hnaw&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53671)|`2026-03-17 00:43:31`|
+|1|[MHUR CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53718)|`2026-03-17 12:21:52`|
+|13|[SDS SDK 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53714)|`2026-03-17 12:21:52`|
+|1|[overlay&#95;controller&#95;minimal&#46;js](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53712)|`2026-03-17 12:21:52`|
+|1|[Skill Issue Linux 15&#45;03&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53676)|`2026-03-17 12:21:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Glitch Outside The Map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/743417-glitch-outside-map.html)|`2026-03-17 12:19:00`|`Deadlock`|
+|[DTC driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742899-dtc-driver.html)|`2026-03-17 11:44:00`|`Rust`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-17 11:43:00`|`Alternative Online Mods`|
+|[Grand Theft Ressurection Missionfile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/743243-grand-theft-ressurection-missionfile.html)|`2026-03-17 11:41:00`|`ARMA 3`|
+|[The King is Leaving&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742865-king-leaving.html)|`2026-03-17 11:39:00`|`Alternative Online Mods`|
 |[Valorant External Source Driver,Mapper Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742742-valorant-external-source-driver-mapper-included.html)|`2026-03-17 09:58:00`|`Valorant`|
 |[FiveM Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743466-fivem-offsets-dumper.html)|`2026-03-17 09:56:00`|`Alternative Online Mods`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-17 09:52:00`|`Other Games`|
