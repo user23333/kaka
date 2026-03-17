@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Agent ability icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743472-agent-ability-icons.html)|`2026-03-17 16:21:00`|`Valorant`|
+|[What should i use for 2pc streaming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743316-2pc-streaming.html)|`2026-03-17 16:11:00`|`Valorant`|
+|[Valorant Internal AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743250-valorant-internal-autowall.html)|`2026-03-17 16:02:00`|`Valorant`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-17 15:53:00`|`Red Dead Redemption 2`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-03-17 15:42:00`|`Rust`|
 |[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-03-17 15:34:00`|`Other FPS Games`|
 |[who have signatures for latest update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743376-signatures-update.html)|`2026-03-17 15:32:00`|`Counter-Strike 2`|
 |[GenPatch make GenerGenX not work anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/734238-genpatch-genergenx-anymore.html)|`2026-03-17 15:28:00`|`Generals and Zero Hour`|
