@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-03-17 18:03:00`|`Call of Duty: Black Ops 7`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-17 17:55:00`|`Other MMORPG and Strategy`|
+|[rage mp offsets for triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/738667-rage-mp-offsets-triggerbot.html)|`2026-03-17 17:48:00`|`Alternative Online Mods`|
+|[radar map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743511-radar-map.html)|`2026-03-17 17:41:00`|`Rust`|
 |[Model Resource Not Registered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743507-model-resource-registered.html)|`2026-03-17 16:56:00`|`Counter-Strike 2`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-03-17 16:52:00`|`Overwatch`|
 |[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-03-17 16:52:00`|`Valorant`|
