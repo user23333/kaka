@@ -14,6 +14,7 @@
 |3|[Updated InfinityHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742108-updated-infinityhook.html)|`2026-03-17 02:36:36`|`anti-cheat-bypass`|
 |10|[arc raiders dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742445-arc-raiders-dupe.html)|`2026-03-17 03:35:54`|`arc-raiders`|
 |12|[ElectronAC Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742511-electronac-source-code.html)|`2026-03-17 03:35:54`|`alternative-online-mods`|
+|9|[LEAK &#45;&#45;&#62; Internal &#43; vgc&#46;exe Emulator &#43; HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743254-leak-internal-vgc-exe-emulator-hwid-spoofer.html)|`2026-03-17 10:01:07`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant External Source Driver,Mapper Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742742-valorant-external-source-driver-mapper-included.html)|`2026-03-17 09:58:00`|`Valorant`|
+|[FiveM Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743466-fivem-offsets-dumper.html)|`2026-03-17 09:56:00`|`Alternative Online Mods`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-03-17 09:52:00`|`Other Games`|
+|[eac detects hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742902-eac-detects-hypervisor.html)|`2026-03-17 09:46:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-17 09:38:00`|`Other FPS Games`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-03-17 09:37:00`|`Grand Theft Auto V`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-03-17 09:37:00`|`Other FPS Games`|
+|[paladins internal injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/741394-paladins-internal-injection.html)|`2026-03-17 09:35:00`|`Paladins`|
+|[paladins game launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742319-paladins-game-launcher.html)|`2026-03-17 09:34:00`|`Paladins`|
 |[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-17 07:53:00`|`General Programming and Reversing`|
 |[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-17 07:45:00`|`Genshin Impact`|
 |[Skinchanger &#45; Bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743452-skinchanger-bloodstrike.html)|`2026-03-17 07:34:00`|`Other FPS Games`|
