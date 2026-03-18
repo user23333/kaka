@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[From3266hw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/743700-from3266hw.html)|`2026-03-18 16:46:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Valorant Internal AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743250-valorant-internal-autowall.html)|`2026-03-18 16:38:00`|`Valorant`|
+|[&#91;Bot&#93; RSLExtreme &#45; Free Raid Shadow Legends RSL Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743691-bot-rslextreme-free-raid-shadow-legends-rsl-bot.html)|`2026-03-18 16:34:00`|`Other MMORPG and Strategy`|
+|[HWID Ban BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/741585-hwid-ban-bo7.html)|`2026-03-18 16:23:00`|`Call of Duty: Black Ops 7`|
+|[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-03-18 16:20:00`|`Valorant`|
 |[Is there any women on this site?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743548-women-site.html)|`2026-03-18 15:59:00`|`Off Topic`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-18 15:55:00`|`Counter-Strike 2 Releases`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-03-18 15:53:00`|`Other FPS Games`|
