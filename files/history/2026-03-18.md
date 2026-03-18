@@ -29,9 +29,13 @@
 |154|[cfemen & gir489's Ready or Not hook v1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53678)|`2026-03-18 00:49:50`|
 |6|[bug&#95;cans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53739)|`2026-03-18 08:58:04`|
 |2|[CheatTable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53732)|`2026-03-18 08:58:04`|
+|4|[Ext &#45; PalePale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53705)|`2026-03-18 22:48:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knife animation sequences updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730301-knife-animation-sequences-updated.html)|`2026-03-18 22:43:00`|`Counter-Strike 2`|
+|[Help with stub hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743744-help-stub-hook.html)|`2026-03-18 22:39:00`|`Alternative Online Mods`|
+|[Knifechanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743280-knifechanger.html)|`2026-03-18 22:34:00`|`Counter-Strike 2`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-18 21:40:00`|`Alternative Online Mods`|
 |[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-18 21:40:00`|`Other Games`|
 |[nine vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743664-nine-vulnerable-drivers.html)|`2026-03-18 21:39:00`|`Anti-Cheat Bypass`|
