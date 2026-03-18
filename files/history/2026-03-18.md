@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-18 23:50:00`|`Alternative Online Mods`|
+|[How can I find the signatures to create Chams ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742242-signatures-create-chams-esp.html)|`2026-03-18 23:44:00`|`Counter-Strike 2`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-18 23:38:00`|`Counter-Strike 2`|
+|[Active item breaks on bot servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743746-active-item-breaks-bot-servers.html)|`2026-03-18 23:35:00`|`Rust`|
 |[Knife animation sequences updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/730301-knife-animation-sequences-updated.html)|`2026-03-18 22:43:00`|`Counter-Strike 2`|
 |[Help with stub hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743744-help-stub-hook.html)|`2026-03-18 22:39:00`|`Alternative Online Mods`|
 |[Knifechanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743280-knifechanger.html)|`2026-03-18 22:34:00`|`Counter-Strike 2`|
