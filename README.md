@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xigncode 3 Bypass for Ghost Online VTC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740299-xigncode-3-bypass-ghost-online-vtc.html)|`2026-03-18 13:14:00`|`Anti-Cheat Bypass`|
+|[Which color detection method is the most flagged/detected by modern anti&#45;cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743484-color-detection-method-flagged-detected-modern-anti-cheats.html)|`2026-03-18 12:54:00`|`Valorant`|
+|[&#91;EXTERNAL&#93; SEED Triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743692-external-seed-triggerbot.html)|`2026-03-18 12:48:00`|`Counter-Strike 2`|
+|[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-03-18 12:44:00`|`Age of Empires`|
+|[Hook LogHacker method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/743693-hook-loghacker-method.html)|`2026-03-18 12:33:00`|`Phasmophobia`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-18 11:28:00`|`Tom Clancy's The Division`|
 |[TFT enables automated purchasing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/743687-tft-enables-automated-purchasing.html)|`2026-03-18 11:24:00`|`League of Legends`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-18 11:16:00`|`ARMA 3`|
