@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-03-18 14:37:00`|`Other Single Player Games`|
+|[odinv4 source updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742534-odinv4-source-updated.html)|`2026-03-18 14:34:00`|`Paladins`|
+|[Valorant External Source Driver, Mapper Included &#124; Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743701-valorant-external-source-driver-mapper-included-help.html)|`2026-03-18 14:34:00`|`Valorant`|
+|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-18 14:20:00`|`Other FPS Games`|
 |[counter&#45;strike 1&#46;6 Build 8684 &#40;steam&#95;legacy&#41; &#45; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/743282-counter-strike-1-6-build-8684-steam_legacy-offsets.html)|`2026-03-18 14:11:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-18 14:02:00`|`Apex Legends`|
 |[EAC&#95;EOS Runtime Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/732015-eac_eos-runtime-analysis.html)|`2026-03-18 14:01:00`|`Anti-Cheat Bypass`|
