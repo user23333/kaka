@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2026-03-18 17:09:00`|`Valorant`|
+|[Tried spoofing with a Maxio MAP1202 Controller ssd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743659-tried-spoofing-maxio-map1202-controller-ssd.html)|`2026-03-18 17:06:00`|`Anti-Cheat Bypass`|
+|[AutoParry issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/739608-autoparry-issues.html)|`2026-03-18 17:02:00`|`Deadlock`|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2026-03-18 16:59:00`|`Call of Duty: Modern Warfare 3`|
+|[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-03-18 16:57:00`|`Team Fortress 2`|
 |[From3266hw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/743700-from3266hw.html)|`2026-03-18 16:46:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Valorant Internal AutoWall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743250-valorant-internal-autowall.html)|`2026-03-18 16:38:00`|`Valorant`|
 |[&#91;Bot&#93; RSLExtreme &#45; Free Raid Shadow Legends RSL Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743691-bot-rslextreme-free-raid-shadow-legends-rsl-bot.html)|`2026-03-18 16:34:00`|`Other MMORPG and Strategy`|
