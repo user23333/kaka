@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Codecave and PTR Swap detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743720-codecave-ptr-swap-detections.html)|`2026-03-18 18:02:00`|`Anti-Cheat Bypass`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-18 18:02:00`|`Other MMORPG and Strategy`|
+|[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-03-18 18:01:00`|`Off Topic`|
 |[Spoofing Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712255-spoofing-database.html)|`2026-03-18 17:09:00`|`Valorant`|
 |[Tried spoofing with a Maxio MAP1202 Controller ssd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743659-tried-spoofing-maxio-map1202-controller-ssd.html)|`2026-03-18 17:06:00`|`Anti-Cheat Bypass`|
 |[AutoParry issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/739608-autoparry-issues.html)|`2026-03-18 17:02:00`|`Deadlock`|
