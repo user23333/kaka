@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[first time HWID??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743550-time-hwid.html)|`2026-03-18 19:21:00`|`Overwatch`|
+|[ow2 keep getting auto banned from reports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743028-ow2-getting-auto-banned-reports.html)|`2026-03-18 19:13:00`|`Overwatch`|
+|[External Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743679-external-rage-cheat.html)|`2026-03-18 19:09:00`|`Counter-Strike 2`|
 |[Codecave and PTR Swap detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743720-codecave-ptr-swap-detections.html)|`2026-03-18 18:02:00`|`Anti-Cheat Bypass`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-18 18:02:00`|`Other MMORPG and Strategy`|
 |[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-03-18 18:01:00`|`Off Topic`|
