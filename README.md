@@ -12,6 +12,7 @@
 |16|[Valorant &#124; Features Collection &#124; Complete list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743290-valorant-features-collection-complete-list.html)|`2026-03-19 00:45:35`|`valorant`|
 |10|[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-03-19 00:45:35`|`valorant`|
 |14|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-03-19 03:31:19`|`valorant`|
+|16|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-19 03:59:10`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ext &#45; PalePale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743345-ext-palepale.html)|`2026-03-19 03:55:00`|`Apex Legends`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-19 03:53:00`|`Marvel Rivals`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-19 03:52:00`|`Other MMORPG and Strategy`|
+|[SastashaFied Plutonium T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-plutonium-t5-mp-multihack.html)|`2026-03-19 03:49:00`|`Call of Duty: Black Ops`|
+|[UCAS Key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743732-ucas-key.html)|`2026-03-19 03:48:00`|`ARC Raiders`|
 |[sig scans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743738-sig-scans.html)|`2026-03-19 03:30:00`|`Anti-Cheat Bypass`|
 |[How does one dump offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/743017-dump-offsets.html)|`2026-03-19 03:28:00`|`General Programming and Reversing`|
 |[Imperium free inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741542-imperium-free-inventory-changer.html)|`2026-03-19 03:21:00`|`Counter-Strike 2`|
