@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fully usermode bypass framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/727001-usermode-bypass-framework.html)|`2026-03-19 07:29:00`|`Anti-Cheat Bypass`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-03-19 07:28:00`|`Sea of Thieves`|
+|[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-19 07:22:00`|`Anti-Cheat Bypass`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-19 07:09:00`|`Other FPS Games`|
 |[Time to give back: Apply for UC Moderator &#40;momentum boost thread&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743817-time-apply-uc-moderator-momentum-boost-thread.html)|`2026-03-19 07:00:00`|`Off Topic`|
 |[Diablo Immortal 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742592-diablo-immortal-2026-a.html)|`2026-03-19 06:58:00`|`Other MMORPG and Strategy`|
 |[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-19 06:55:00`|`Rust`|
