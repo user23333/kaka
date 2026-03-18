@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-19 05:43:00`|`Other Games`|
+|[Marathon by Bungie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/697840-marathon-bungie.html)|`2026-03-19 05:43:00`|`Off Topic`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-19 05:39:00`|`Alternative Online Mods`|
+|[Mesorift Survival](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742811-mesorift-survival.html)|`2026-03-19 05:37:00`|`Other Games`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-03-19 05:37:00`|`Rainbow Six Siege`|
 |[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-03-19 05:04:00`|`Other FPS Games`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-19 05:00:00`|`Other FPS Games`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-03-19 04:54:00`|`Tom Clancy's The Division`|
