@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Whats the most ud way to capture screen for colorbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743487-whats-ud-capture-screen-colorbots.html)|`2026-03-20 06:48:00`|`Valorant`|
+|[Aimbot or Triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743830-aimbot-triggerbot.html)|`2026-03-20 06:45:00`|`Valorant`|
+|[Palia Pro Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/742622-palia-pro-radar.html)|`2026-03-20 06:38:00`|`Palia`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-20 06:34:00`|`Alternative Online Mods`|
+|[assembly 2023 csgo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/739320-assembly-2023-csgo.html)|`2026-03-20 06:30:00`|`Counterstrike Global Offensive`|
+|[Dead Frontier 2 Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/298257-dead-frontier-2-hack.html)|`2026-03-20 06:28:00`|`Other FPS Games`|
+|[No way he got folded by that old fart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/743960-folded-fart.html)|`2026-03-20 06:28:00`|`Music and Videos`|
 |[What other input simulation methods are available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743682-input-simulation-methods-available.html)|`2026-03-20 06:16:00`|`Valorant`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-20 06:15:00`|`Grand Theft Auto V`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-20 06:08:00`|`Other MMORPG and Strategy`|
