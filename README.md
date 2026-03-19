@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-20 07:10:00`|`HELLDIVERS 2`|
+|[aspect ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740301-aspect-ratio.html)|`2026-03-20 07:09:00`|`Counter-Strike 2`|
+|[Injection Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/737185-injection-methods.html)|`2026-03-20 07:09:00`|`Anti-Cheat Bypass`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-20 07:06:00`|`HELLDIVERS 2`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-20 07:04:00`|`Other FPS Games`|
+|[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-03-20 07:04:00`|`Valorant`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-03-20 07:00:00`|`Other FPS Games`|
 |[Whats the most ud way to capture screen for colorbots?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743487-whats-ud-capture-screen-colorbots.html)|`2026-03-20 06:48:00`|`Valorant`|
 |[Aimbot or Triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743830-aimbot-triggerbot.html)|`2026-03-20 06:45:00`|`Valorant`|
 |[Palia Pro Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/742622-palia-pro-radar.html)|`2026-03-20 06:38:00`|`Palia`|
