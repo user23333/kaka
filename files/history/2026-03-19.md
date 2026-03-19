@@ -13,6 +13,7 @@
 |10|[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-03-19 00:45:35`|`valorant`|
 |14|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-03-19 03:31:19`|`valorant`|
 |16|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-19 03:59:10`|`other-fps-games`|
+|35|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-19 11:41:18`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-19 11:38:00`|`Counter-Strike 2`|
+|[How dangerous is injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743842-dangerous-injecting.html)|`2026-03-19 11:15:00`|`Counter-Strike 2`|
+|[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2026-03-19 10:58:00`|`Alternative Online Mods`|
+|[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2026-03-19 10:56:00`|`Anti-Cheat Bypass`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-19 10:52:00`|`Overwatch`|
+|[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-03-19 10:50:00`|`Counter-Strike 2`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-19 09:00:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-19 08:49:00`|`Rust`|
 |[Silent Aim help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743491-silent-aim-help.html)|`2026-03-19 08:49:00`|`Rust`|
