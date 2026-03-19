@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WaveShield Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743032-waveshield-source-code.html)|`2026-03-20 05:55:00`|`Alternative Online Mods`|
+|[Advanced HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742915-advanced-hwid-spoofer.html)|`2026-03-20 05:47:00`|`General Programming and Reversing`|
+|[valorant emulator val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743780-valorant-emulator-val-5-a.html)|`2026-03-20 05:45:00`|`Valorant`|
+|[Arduino Python v&#46; C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743946-arduino-python.html)|`2026-03-20 05:40:00`|`Valorant`|
+|[MAUI'S AI THE FINALS COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/743944-mauis-ai-finals-colorbot.html)|`2026-03-20 05:33:00`|`THE FINALS`|
 |[How to use LoadLibrary without real disk file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743943-loadlibrary-real-disk-file.html)|`2026-03-20 05:30:00`|`Anti-Cheat Bypass`|
 |[Undetected P2C Injector&#43;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743941-undetected-p2c-injector-source.html)|`2026-03-20 05:16:00`|`Counter-Strike 2`|
 |[Knifechanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743280-knifechanger.html)|`2026-03-20 05:12:00`|`Counter-Strike 2`|
