@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-03-19 16:17:00`|`Other MMORPG and Strategy`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-03-19 16:16:00`|`Other Games`|
+|[Kernel Driver Read/Write Issue with EAC &#91;win11 25H2&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743870-kernel-driver-read-write-issue-eac-win11-25h2.html)|`2026-03-19 16:12:00`|`Rust`|
+|[BlueMonday hns cheat 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/742391-bluemonday-hns-cheat-1-6-a.html)|`2026-03-19 16:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-03-19 16:07:00`|`Other FPS Games`|
+|[Used to being spoon&#45;fed, now trying to buy groceries for the first time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/743866-spoon-fed-trying-buy-groceries-time.html)|`2026-03-19 16:05:00`|`Introductions`|
+|[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-03-19 15:56:00`|`Other FPS Games`|
+|[What other input simulation methods are available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743682-input-simulation-methods-available.html)|`2026-03-19 15:55:00`|`Valorant`|
 |[The source code that user Qwerttyyu didn't upload](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743135-source-code-user-qwerttyyu-didnt-upload.html)|`2026-03-19 15:19:00`|`Apex Legends`|
 |[yet another mouse movement method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/733106-mouse-movement-method.html)|`2026-03-19 15:17:00`|`Anti-Cheat Bypass`|
 |[need specific sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743865-specific-sig.html)|`2026-03-19 14:54:00`|`Counter-Strike 2`|
