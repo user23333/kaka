@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why you should donate $400 per month to UC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743858-donate-400-month-uc.html)|`2026-03-19 13:42:00`|`Off Topic`|
+|[Portal 2 cheat with gamesense ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743857-portal-2-cheat-gamesense-ui.html)|`2026-03-19 13:38:00`|`Other MMORPG and Strategy`|
+|[CarbonWare External for Battlefield 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/742836-carbonware-external-battlefield-4-a.html)|`2026-03-19 13:34:00`|`Battlefield 4`|
+|[Latest SIGS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743641-sigs.html)|`2026-03-19 13:23:00`|`Call of Duty: Black Ops 7`|
 |[stuck on mainbuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743855-stuck-mainbuild.html)|`2026-03-19 13:00:00`|`Rainbow Six Siege`|
 |[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-19 12:56:00`|`Alternative Online Mods`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-03-19 12:40:00`|`Counter-Strike 2`|
