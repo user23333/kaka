@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent aim help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743874-silent-aim-help.html)|`2026-03-19 18:32:00`|`Rust`|
+|[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2026-03-19 18:29:00`|`Apex Legends`|
+|[What should i use for 2pc streaming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743316-2pc-streaming.html)|`2026-03-19 17:59:00`|`Valorant`|
 |[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-03-19 17:28:00`|`Team Fortress 2`|
 |[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/739137-silent-aim.html)|`2026-03-19 17:27:00`|`Rust`|
 |[present hook in discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743872-hook-discord.html)|`2026-03-19 17:10:00`|`Rust`|
