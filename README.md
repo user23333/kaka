@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Some ARMA 2 or ARMA 2:OA Cheat engine table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/578586-arma-2-arma-2-oa-cheat-engine-table.html)|`2026-03-19 23:23:00`|`ARMA 2`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-19 23:22:00`|`Counter-Strike 2`|
+|[RayCast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/738525-raycast.html)|`2026-03-19 23:20:00`|`DayZ SA`|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-03-19 23:15:00`|`HELLDIVERS 2`|
+|[Always updated offsets &#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737907-updated-offsets-sdk.html)|`2026-03-19 22:56:00`|`Valorant`|
 |[External Cheat Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743785-external-cheat-cleaner.html)|`2026-03-19 22:31:00`|`Alternative Online Mods`|
 |[External Soldier and Vehicle Entity Iteration &#40;no cr3 fix required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/729166-external-soldier-vehicle-entity-iteration-cr3-fix-required.html)|`2026-03-19 22:25:00`|`Battlefield 6`|
 |[Suggestions for CSGO Python cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/743365-suggestions-csgo-python-cheats.html)|`2026-03-19 22:17:00`|`Counterstrike Global Offensive`|
