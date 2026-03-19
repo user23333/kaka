@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/643621-spankerfield-beautiful-esp-code-base-clean-screenshots-source.html)|`2026-03-19 19:39:00`|`Battlefield 4`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-03-19 19:34:00`|`Rust`|
+|[FiveM Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743466-fivem-offsets-dumper.html)|`2026-03-19 19:29:00`|`Alternative Online Mods`|
+|[Ophion: Building a Stealth Intel VT&#45;x Hypervisor &#40;EAC/BE/ACs/AVs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743584-ophion-building-stealth-intel-vt-hypervisor-eac-acs-avs.html)|`2026-03-19 19:19:00`|`Anti-Cheat Bypass`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-19 19:08:00`|`Escape from Tarkov`|
 |[CS2 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743841-cs2-internal-source.html)|`2026-03-19 19:06:00`|`Counter-Strike 2`|
 |[Color bot ingame video settings preferences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742903-color-bot-ingame-video-settings-preferences.html)|`2026-03-19 18:45:00`|`Valorant`|
