@@ -27,9 +27,14 @@
 |26|[Objects&#45;Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53686)|`2026-03-19 00:45:35`|
 |36|[egui dx11 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53685)|`2026-03-19 00:45:35`|
 |122|[extv2&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53684)|`2026-03-19 00:45:35`|
+|13|[7DSO Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53753)|`2026-03-19 13:12:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[stuck on mainbuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743855-stuck-mainbuild.html)|`2026-03-19 13:00:00`|`Rainbow Six Siege`|
+|[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-19 12:56:00`|`Alternative Online Mods`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-03-19 12:40:00`|`Counter-Strike 2`|
+|[MY HERO ULTRA RUMBLE CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743480-hero-ultra-rumble-ct.html)|`2026-03-19 12:32:00`|`Other Games`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-19 11:38:00`|`Counter-Strike 2`|
 |[How dangerous is injecting?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743842-dangerous-injecting.html)|`2026-03-19 11:15:00`|`Counter-Strike 2`|
 |[FiveM DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/702854-fivem-dma-esp.html)|`2026-03-19 10:58:00`|`Alternative Online Mods`|
