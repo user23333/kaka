@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-03-20 19:20:00`|`Other MMORPG and Strategy`|
+|[Vibecoded Chitz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/744030-vibecoded-chitz.html)|`2026-03-20 19:08:00`|`Forum General`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-20 18:53:00`|`Apex Legends`|
 |[TraceLine always returns hitgroup 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744028-traceline-returns-hitgroup-0-a.html)|`2026-03-20 18:53:00`|`Counter-Strike 2`|
 |[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-20 18:50:00`|`League of Legends`|
