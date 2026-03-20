@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ophion: Building a Stealth Intel VT&#45;x Hypervisor &#40;EAC/BE/ACs/AVs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743584-ophion-building-stealth-intel-vt-hypervisor-eac-acs-avs.html)|`2026-03-21 04:39:00`|`Anti-Cheat Bypass`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-03-21 04:38:00`|`Tom Clancy's The Division`|
+|[stuck on mainbuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743855-stuck-mainbuild.html)|`2026-03-21 04:37:00`|`Rainbow Six Siege`|
+|[2&#46;5d box](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743912-2-5d-box.html)|`2026-03-21 04:28:00`|`Valorant`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-21 04:28:00`|`Other FPS Games`|
+|[glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743935-glow.html)|`2026-03-21 04:24:00`|`CounterStrike Source`|
+|[Barrel&#45;Aligned Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744084-barrel-aligned-crosshair.html)|`2026-03-21 04:14:00`|`Escape from Tarkov`|
+|[All Apex Icons &#40;imgui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744083-apex-icons-imgui.html)|`2026-03-21 04:05:00`|`Apex Legends`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-21 03:47:00`|`Escape from Tarkov`|
 |[valorant dumper with sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744079-valorant-dumper-sigs.html)|`2026-03-21 03:25:00`|`Valorant`|
 |[Sideloading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/744075-sideloading.html)|`2026-03-21 03:15:00`|`Call of Duty: Black Ops 2`|
