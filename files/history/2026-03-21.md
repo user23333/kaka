@@ -11,6 +11,7 @@
 |28|[Ophion: Building a Stealth Intel VT&#45;x Hypervisor &#40;EAC/BE/ACs/AVs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743584-ophion-building-stealth-intel-vt-hypervisor-eac-acs-avs.html)|`2026-03-21 00:26:37`|`anti-cheat-bypass`|
 |14|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-03-21 00:26:37`|`valorant`|
 |22|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-21 00:26:37`|`other-fps-games`|
+|33|[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-03-21 05:55:38`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Script Runtime & Executor Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743887-lua-script-runtime-executor-patterns.html)|`2026-03-21 05:46:00`|`Alternative Online Mods`|
 |[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-21 05:28:00`|`Marvel Rivals`|
 |[How to use LoadLibrary without real disk file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743943-loadlibrary-real-disk-file.html)|`2026-03-21 05:23:00`|`Anti-Cheat Bypass`|
 |[AC Detection in 2026: Separating Fact from Forum Myth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744088-ac-detection-2026-separating-forum-myth.html)|`2026-03-21 05:15:00`|`Anti-Cheat Bypass`|
