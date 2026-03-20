@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-21 07:14:00`|`Other FPS Games`|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-03-21 07:14:00`|`Age of Empires`|
+|[Vibecoded Chitz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/744030-vibecoded-chitz.html)|`2026-03-21 07:08:00`|`Forum General`|
+|[TraceLine always returns hitgroup 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744028-traceline-returns-hitgroup-0-a.html)|`2026-03-21 06:59:00`|`Counter-Strike 2`|
+|[Pak Utoc Files skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744096-pak-utoc-files-skins.html)|`2026-03-21 06:57:00`|`Valorant`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-21 06:45:00`|`ARMA 3`|
 |[aspect ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740301-aspect-ratio.html)|`2026-03-21 06:44:00`|`Counter-Strike 2`|
 |[Thick Bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742726-thick-bullets.html)|`2026-03-21 06:39:00`|`Rust`|
