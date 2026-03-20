@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-21 06:45:00`|`ARMA 3`|
+|[aspect ratio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740301-aspect-ratio.html)|`2026-03-21 06:44:00`|`Counter-Strike 2`|
+|[Thick Bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742726-thick-bullets.html)|`2026-03-21 06:39:00`|`Rust`|
+|[spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744092-spread.html)|`2026-03-21 06:34:00`|`Counter-Strike 2`|
+|[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-03-21 06:34:00`|`Other MMORPG and Strategy`|
+|[bypass vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740400-bypass-vgc.html)|`2026-03-21 06:32:00`|`Valorant`|
 |[RustDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743510-rustdma-update.html)|`2026-03-21 06:12:00`|`Rust`|
 |[Color bot ingame video settings preferences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742903-color-bot-ingame-video-settings-preferences.html)|`2026-03-21 06:11:00`|`Valorant`|
 |[&#91;AMD Hypervisor&#93; system lag/stutter and network drops when reading fast via VMMCALL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743741-amd-hypervisor-system-lag-stutter-network-drops-reading-fast-via-vmmcall.html)|`2026-03-21 06:09:00`|`Anti-Cheat Bypass`|
