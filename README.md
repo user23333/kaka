@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decrypting ASM C&#45;Sharp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731162-decrypting-asm-sharp.html)|`2026-03-20 22:21:00`|`Escape from Tarkov`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-03-20 22:04:00`|`Palworld`|
+|[Rose Online Bot 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/740436-rose-online-bot-2026-a.html)|`2026-03-20 21:57:00`|`Other MMORPG and Strategy`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-03-20 21:19:00`|`Other Games`|
 |[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-03-20 20:25:00`|`Garry's Mod`|
 |[bypass vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740400-bypass-vgc.html)|`2026-03-20 20:21:00`|`Valorant`|
