@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;AMD Hypervisor&#93; system lag/stutter and network drops when reading fast via VMMCALL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743741-amd-hypervisor-system-lag-stutter-network-drops-reading-fast-via-vmmcall.html)|`2026-03-20 16:24:00`|`Anti-Cheat Bypass`|
+|[Which games do you recommend for a beginner to create cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/743573-games-recommend-beginner-create-cheats.html)|`2026-03-20 16:23:00`|`Forum General`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-03-20 16:14:00`|`Call of Duty: Black Ops 2`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-20 16:11:00`|`Counter-Strike 2 Releases`|
 |[CS2 TriggerBot Made In Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608773-cs2-triggerbot-python.html)|`2026-03-20 15:49:00`|`Counter-Strike 2 Releases`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-20 15:46:00`|`Counter-Strike 2`|
 |[Dude just hacked the Xbox One](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743244-dude-hacked-xbox.html)|`2026-03-20 15:20:00`|`Off Topic`|
