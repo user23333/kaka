@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-20 18:53:00`|`Apex Legends`|
+|[TraceLine always returns hitgroup 0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744028-traceline-returns-hitgroup-0-a.html)|`2026-03-20 18:53:00`|`Counter-Strike 2`|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-03-20 18:50:00`|`League of Legends`|
+|[CS2's new reloading update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743864-cs2s-reloading-update.html)|`2026-03-20 18:49:00`|`Counter-Strike 2`|
+|[Some ARMA 2 or ARMA 2:OA Cheat engine table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/578586-arma-2-arma-2-oa-cheat-engine-table.html)|`2026-03-20 18:36:00`|`ARMA 2`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-03-20 18:20:00`|`Other MMORPG and Strategy`|
 |[THE CUBE: SAVE US](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744016-cube-save.html)|`2026-03-20 17:59:00`|`Other FPS Games`|
 |[VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/723560-vein.html)|`2026-03-20 17:44:00`|`Other FPS Games`|
