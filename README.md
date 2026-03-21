@@ -25,9 +25,18 @@
 |20|[overlay&#95;controller&#95;minimal&#46;js](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53712)|`2026-03-21 00:26:37`|
 |142|[Valorant UTOC Signature Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53708)|`2026-03-21 00:26:37`|
 |96|[Ext &#45; PalePale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53705)|`2026-03-21 00:26:37`|
+|4|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;00&#45;CL&#45;51995682](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53803)|`2026-03-21 11:50:46`|
+|4|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53792)|`2026-03-21 11:50:46`|
+|2|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53774)|`2026-03-21 11:50:46`|
+|1|[Dma&#45;hwid&#45;spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53762)|`2026-03-21 11:50:46`|
+|2|[valorant sdk 5&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53745)|`2026-03-21 11:50:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-21 11:50:00`|`Red Dead Redemption 2`|
+|[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-21 11:34:00`|`Anti-Cheat Bypass`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-21 11:30:00`|`ARC Raiders`|
+|[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-03-21 11:19:00`|`Escape from Tarkov`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-21 07:57:00`|`Combat Master`|
 |[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-21 07:52:00`|`Other MMORPG and Strategy`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-03-21 07:52:00`|`Other FPS Games`|
