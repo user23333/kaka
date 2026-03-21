@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-21 12:57:00`|`Other FPS Games`|
+|[sv&#95;jump&#95;spam&#95;penalty&#95;time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744123-sv_jump_spam_penalty_time.html)|`2026-03-21 12:40:00`|`Counter-Strike 2`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-21 12:33:00`|`Counter-Strike 2 Releases`|
+|[&#91;WIP&#93; Buckshot Roulette Multiplayer Cheat &#40;Non&#45;Host &#43; Host Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743897-wip-buckshot-roulette-multiplayer-cheat-host-host-features.html)|`2026-03-21 12:20:00`|`Other Games`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-21 12:19:00`|`Other FPS Games`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-21 11:50:00`|`Red Dead Redemption 2`|
 |[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-21 11:34:00`|`Anti-Cheat Bypass`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-21 11:30:00`|`ARC Raiders`|
