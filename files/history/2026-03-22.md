@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-03-22 02:52:00`|`Call of Duty: Modern Warfare`|
+|[Sending messages/In Console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744204-sending-messages-console.html)|`2026-03-22 02:49:00`|`Counter-Strike 2`|
+|[How to Spawn Vehicles Externally ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743057-spawn-vehicles-externally.html)|`2026-03-22 02:46:00`|`Alternative Online Mods`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-22 02:44:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-22 02:44:00`|`ARC Raiders`|
+|[Which games do you recommend for a beginner to create cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/743573-games-recommend-beginner-create-cheats.html)|`2026-03-22 02:39:00`|`Forum General`|
+|[Reminder: Blizzard adimins are 100 percent reading this Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/744203-reminder-blizzard-adimins-100-percent-reading-forum.html)|`2026-03-22 02:29:00`|`Overwatch`|
 |[inject error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744198-inject-error.html)|`2026-03-22 02:13:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-22 02:11:00`|`Call of Duty: Black Ops 7`|
 |[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-22 02:10:00`|`Marvel Rivals`|
