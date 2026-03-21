@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[inject error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744198-inject-error.html)|`2026-03-22 02:13:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-22 02:11:00`|`Call of Duty: Black Ops 7`|
+|[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-22 02:10:00`|`Marvel Rivals`|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-22 02:05:00`|`THE FINALS`|
+|[New EAC Fortnite HWID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/716908-eac-fortnite-hwid.html)|`2026-03-22 02:03:00`|`Anti-Cheat Bypass`|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2026-03-22 02:00:00`|`Other Games`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-22 01:53:00`|`Other FPS Games`|
 |[&#91;WIP&#93; Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43; &#124; 42&#46;15&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743460-wip-project-zomboid-cheat-ethermenu-lite-powered-java-b42-42-15-2-a.html)|`2026-03-22 01:48:00`|`Other MMORPG and Strategy`|
 |[ACE still banning after full HWID spoof, what else does it check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743571-ace-banning-hwid-spoof-else-check.html)|`2026-03-22 01:48:00`|`Anti-Cheat Bypass`|
