@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-03-22 05:42:00`|`Other MMORPG and Strategy`|
+|[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-03-22 05:31:00`|`Counter-Strike 2 Releases`|
+|[Dude just hacked the Xbox One](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743244-dude-hacked-xbox.html)|`2026-03-22 05:30:00`|`Off Topic`|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-03-22 05:27:00`|`Call of Duty 4: Modern Warfare`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-22 05:26:00`|`HELLDIVERS 2`|
 |[Creating a spoofed QEMU/KVM that bypasses everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736390-creating-spoofed-qemu-kvm-bypasses.html)|`2026-03-22 05:20:00`|`Anti-Cheat Bypass`|
 |[GObjects Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744221-gobjects-decryption.html)|`2026-03-22 05:20:00`|`Valorant`|
 |[Diablo Immortal 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742592-diablo-immortal-2026-a.html)|`2026-03-22 05:14:00`|`Other MMORPG and Strategy`|
