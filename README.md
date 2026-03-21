@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE VALORANT AI CHEAT SOURCE &#43; RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743091-free-valorant-ai-cheat-source-release.html)|`2026-03-22 05:55:00`|`Valorant`|
+|[Fixing legacy skins in skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742684-fixing-legacy-skins-skin-changer.html)|`2026-03-22 05:47:00`|`Counter-Strike 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-22 05:47:00`|`Other MMORPG and Strategy`|
 |[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-03-22 05:42:00`|`Other MMORPG and Strategy`|
 |[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-03-22 05:31:00`|`Counter-Strike 2 Releases`|
 |[Dude just hacked the Xbox One](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743244-dude-hacked-xbox.html)|`2026-03-22 05:30:00`|`Off Topic`|
