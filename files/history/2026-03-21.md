@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-03-21 23:51:00`|`Other FPS Games`|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-21 23:50:00`|`THE FINALS`|
+|[The EFT spoofer I made myself has surprisingly stopped working this year](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744188-eft-spoofer-surprisingly-stopped.html)|`2026-03-21 23:48:00`|`Escape from Tarkov`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-21 23:47:00`|`Counter-Strike 2`|
 |[Injectors: FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744007-injectors-fivem.html)|`2026-03-21 23:42:00`|`Alternative Online Mods`|
 |[community server bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744184-community-server-bans.html)|`2026-03-21 23:36:00`|`Counter-Strike 2`|
 |[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-21 23:18:00`|`Valorant`|
