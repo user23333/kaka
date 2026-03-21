@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do i make a modded outfit job?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744141-modded-outfit-job.html)|`2026-03-22 06:33:00`|`Grand Theft Auto V`|
+|[Updated &#46;pak Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/741820-updated-pak-files.html)|`2026-03-22 06:31:00`|`Payday 3`|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-03-22 06:29:00`|`Elite: Dangerous`|
+|[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-22 06:20:00`|`Valorant`|
 |[Follow&#45;bot / Medic&#45;bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/743850-follow-bot-medic-bot.html)|`2026-03-22 06:09:00`|`Team Fortress 2`|
 |[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-03-22 06:01:00`|`Other MMORPG and Strategy`|
 |[FREE VALORANT AI CHEAT SOURCE &#43; RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743091-free-valorant-ai-cheat-source-release.html)|`2026-03-22 05:55:00`|`Valorant`|
