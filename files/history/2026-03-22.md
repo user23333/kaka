@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-22 07:50:00`|`Apex Legends`|
 |[new intel vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744230-intel-vulnerable-driver.html)|`2026-03-22 07:40:00`|`Anti-Cheat Bypass`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-03-22 07:10:00`|`Payday 3`|
 |[someone can share good overlay code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744163-share-overlay-code.html)|`2026-03-22 06:56:00`|`Counter-Strike 2`|
