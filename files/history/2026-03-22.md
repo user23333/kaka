@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Follow&#45;bot / Medic&#45;bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/743850-follow-bot-medic-bot.html)|`2026-03-22 06:09:00`|`Team Fortress 2`|
+|[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-03-22 06:01:00`|`Other MMORPG and Strategy`|
 |[FREE VALORANT AI CHEAT SOURCE &#43; RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743091-free-valorant-ai-cheat-source-release.html)|`2026-03-22 05:55:00`|`Valorant`|
 |[Fixing legacy skins in skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742684-fixing-legacy-skins-skin-changer.html)|`2026-03-22 05:47:00`|`Counter-Strike 2`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-22 05:47:00`|`Other MMORPG and Strategy`|
