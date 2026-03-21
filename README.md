@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Creating a spoofed QEMU/KVM that bypasses everything](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736390-creating-spoofed-qemu-kvm-bypasses.html)|`2026-03-22 05:20:00`|`Anti-Cheat Bypass`|
+|[GObjects Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744221-gobjects-decryption.html)|`2026-03-22 05:20:00`|`Valorant`|
+|[Diablo Immortal 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742592-diablo-immortal-2026-a.html)|`2026-03-22 05:14:00`|`Other MMORPG and Strategy`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-22 05:11:00`|`Battlefield 6`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2026-03-22 05:03:00`|`Other FPS Games`|
 |[cs2 external &#45; catalyst extension](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742973-cs2-external-catalyst-extension.html)|`2026-03-22 04:57:00`|`Counter-Strike 2`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-03-22 04:53:00`|`Other MMORPG and Strategy`|
 |[FREE INTERNAL VALORANT PATCH 12&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742875-free-internal-valorant-patch-12-04-a.html)|`2026-03-22 04:40:00`|`Valorant`|
