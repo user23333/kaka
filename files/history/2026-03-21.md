@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-03-21 21:17:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-21 20:57:00`|`Counter-Strike 2`|
+|[solo leveling arise](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/740403-solo-leveling-arise.html)|`2026-03-21 20:48:00`|`Half Life`|
 |[Ext &#45; PalePale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743345-ext-palepale.html)|`2026-03-21 20:28:00`|`Apex Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-21 20:23:00`|`Rainbow Six Siege`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-03-21 20:22:00`|`Tom Clancy's The Division`|
