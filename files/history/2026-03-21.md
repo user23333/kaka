@@ -13,6 +13,7 @@
 |22|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-21 00:26:37`|`other-fps-games`|
 |33|[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-03-21 05:55:38`|`anti-cheat-bypass`|
 |9|[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-03-21 14:58:36`|`valorant`|
+|24|[Ext &#45; PalePale](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743345-ext-palepale.html)|`2026-03-21 22:15:49`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2026-03-21 22:06:00`|`Other MMORPG and Strategy`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-21 22:04:00`|`HELLDIVERS 2`|
+|[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-03-21 22:03:00`|`Age of Empires`|
+|[MW 2019 Decryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744174-mw-2019-decryption-dumper.html)|`2026-03-21 22:03:00`|`Call of Duty: Modern Warfare`|
+|[The End of sigma rivals : source code release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/699079-sigma-rivals-source-code-release.html)|`2026-03-21 22:02:00`|`Marvel Rivals`|
+|[CS2 Internal &#45; Aimbot, ESP, Radar, Triggerbot, Silent Aim & more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741544-cs2-internal-aimbot-esp-radar-triggerbot-silent-aim.html)|`2026-03-21 21:59:00`|`Counter-Strike 2`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-03-21 21:51:00`|`Other MMORPG and Strategy`|
 |[UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744171-usercmd.html)|`2026-03-21 21:51:00`|`Counter-Strike 2`|
 |[ESP,AIMBOT,UNLOCK TEMP &#43; DLC UNLOCK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/744164-esp-aimbot-unlock-temp-dlc-unlock.html)|`2026-03-21 21:48:00`|`Call of Duty: Black Ops 4`|
