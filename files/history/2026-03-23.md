@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-03-23 01:30:00`|`Palworld`|
+|[How can I get the offsets I need in Rust?The dump file is encrypted and contains what](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743241-offsets-rust-dump-file-encrypted-contains.html)|`2026-03-23 01:25:00`|`Rust`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-03-23 01:23:00`|`Grand Theft Auto V`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-23 01:19:00`|`HELLDIVERS 2`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-03-23 01:18:00`|`Payday 3`|
+|[Logitech Lua Universal &#45;simulant v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/649742-logitech-lua-universal-simulant-v1-3-a.html)|`2026-03-23 01:17:00`|`Rainbow Six Siege`|
+|[Undetected P2C Injector&#43;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743941-undetected-p2c-injector-source.html)|`2026-03-23 01:14:00`|`Counter-Strike 2`|
 |[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-03-23 01:02:00`|`THE FINALS`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-03-23 00:48:00`|`Grand Theft Auto V`|
 |[Vibecoded Chitz?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/744030-vibecoded-chitz.html)|`2026-03-23 00:48:00`|`Forum General`|
