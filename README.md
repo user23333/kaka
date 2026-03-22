@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant write on a game's memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/744272-cant-write-games-memory.html)|`2026-03-22 19:30:00`|`Programming for Beginners`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-22 19:29:00`|`Rainbow Six Siege`|
+|[offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/741864-offset.html)|`2026-03-22 19:16:00`|`Garry's Mod`|
 |[THE CUBE SAVE US — XIGNCODE3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743933-cube-save-xigncode3-bypass.html)|`2026-03-22 18:58:00`|`Anti-Cheat Bypass`|
 |[New Protection Layer Fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744269-protection-layer-fivem.html)|`2026-03-22 18:43:00`|`Alternative Online Mods`|
 |[Always updated SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744234-updated-sdk.html)|`2026-03-22 18:31:00`|`Valorant`|
