@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-22 17:52:00`|`Marvel Rivals`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2026-03-22 17:36:00`|`Escape from Tarkov`|
 |[Read/Write Driver Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742745-read-write-driver-source.html)|`2026-03-22 17:31:00`|`Anti-Cheat Bypass`|
 |[How to use LoadLibrary without real disk file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743943-loadlibrary-real-disk-file.html)|`2026-03-22 17:30:00`|`Anti-Cheat Bypass`|
