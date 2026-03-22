@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-22 16:33:00`|`Other FPS Games`|
+|[FName decrypt working, need help with FText for Item ESP names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739402-fname-decrypt-help-ftext-item-esp-names.html)|`2026-03-22 16:20:00`|`ARC Raiders`|
+|[The source code that user Qwerttyyu didn't upload](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743135-source-code-user-qwerttyyu-didnt-upload.html)|`2026-03-22 16:10:00`|`Apex Legends`|
 |[ZoomScan &#45; All versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/428824-zoomscan-versions.html)|`2026-03-22 15:57:00`|`League of Legends`|
 |[hvci verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/739998-hvci-verification.html)|`2026-03-22 15:55:00`|`Valorant`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-22 15:41:00`|`Other FPS Games`|
