@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My aimbot feels like &#91;removed&#93;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744177-aimbot-feels-removed.html)|`2026-03-22 22:15:00`|`Apex Legends`|
 |[Nulvex New Client Option Needing Testers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/744290-nulvex-client-option-testers.html)|`2026-03-22 21:57:00`|`Minecraft`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-03-22 21:37:00`|`Other FPS Games`|
 |[Hiding usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744286-hiding-usermode.html)|`2026-03-22 21:30:00`|`Anti-Cheat Bypass`|
