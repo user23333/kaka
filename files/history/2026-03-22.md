@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seeking help with platform selection for website verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744299-seeking-help-platform-selection-website-verification.html)|`2026-03-22 23:09:00`|`Anti-Cheat Bypass`|
+|[FiveGuad detect overlay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744301-fiveguad-detect-overlay.html)|`2026-03-22 23:07:00`|`Alternative Online Mods`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-03-22 23:07:00`|`Alternative Online Mods`|
+|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-03-22 23:04:00`|`Valorant`|
+|[How can I get the offsets I need in Rust?The dump file is encrypted and contains what](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743241-offsets-rust-dump-file-encrypted-contains.html)|`2026-03-22 22:59:00`|`Rust`|
 |[any working esp cheets for r6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740880-esp-cheets-r6.html)|`2026-03-22 22:44:00`|`Rainbow Six Siege`|
 |[Rocket League Season 21 Bot Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741973-rocket-league-season-21-bot-issues.html)|`2026-03-22 22:34:00`|`Other Games`|
 |[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-03-22 22:31:00`|`Rainbow Six Siege`|
