@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-03-23 06:09:00`|`Rainbow Six Siege`|
+|[Pirate101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744390-pirate101.html)|`2026-03-23 06:01:00`|`Other Games`|
+|[Enlisted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/606225-enlisted.html)|`2026-03-23 05:52:00`|`Other FPS Games`|
 |[Hook LogHacker method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/743693-hook-loghacker-method.html)|`2026-03-23 05:51:00`|`Phasmophobia`|
 |[paladins game launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742319-paladins-game-launcher.html)|`2026-03-23 05:47:00`|`Paladins`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-03-23 05:31:00`|`HELLDIVERS 2`|
