@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The source code that user Qwerttyyu didn't upload](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/743135-source-code-user-qwerttyyu-didnt-upload.html)|`2026-03-23 03:16:00`|`Apex Legends`|
+|[Playing FACEIT after ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744352-playing-faceit-ban.html)|`2026-03-23 03:11:00`|`Anti-Cheat Bypass`|
+|[Bloodstrike offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744122-bloodstrike-offsets.html)|`2026-03-23 03:04:00`|`Half Life`|
+|[Which game is the most profitable to cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743709-game-profitable-cheat.html)|`2026-03-23 03:02:00`|`Off Topic`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-23 02:55:00`|`Tom Clancy's The Division`|
+|[Hytale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733573-hytale-reversal-structs-offsets.html)|`2026-03-23 02:55:00`|`Other MMORPG and Strategy`|
+|[phantomcall  x64 call stack spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744265-phantomcall-x64-call-stack-spoofer.html)|`2026-03-23 02:49:00`|`Anti-Cheat Bypass`|
+|[Doubt about trial keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744310-doubt-trial-keys.html)|`2026-03-23 02:46:00`|`Anti-Cheat Bypass`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2026-03-23 02:15:00`|`Other FPS Games`|
 |[Deadlock Bone Extractor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/744334-deadlock-bone-extractor.html)|`2026-03-23 02:03:00`|`Deadlock`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2026-03-23 02:03:00`|`Escape from Tarkov`|
