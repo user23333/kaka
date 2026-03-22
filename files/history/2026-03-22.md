@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[recoil script for any mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744307-recoil-script-mouse.html)|`2026-03-22 23:42:00`|`Rainbow Six Siege`|
+|[silly p2c injection thing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744249-silly-p2c-injection.html)|`2026-03-22 23:40:00`|`Counter-Strike 2`|
+|[Charlie Kirkware R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/717390-charlie-kirkware-r6-cheat.html)|`2026-03-22 23:38:00`|`Rainbow Six Siege`|
 |[A New addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/744306-addition-staff-team.html)|`2026-03-22 23:37:00`|`Information and Announcements`|
 |[Seeking help with platform selection for website verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744299-seeking-help-platform-selection-website-verification.html)|`2026-03-22 23:09:00`|`Anti-Cheat Bypass`|
 |[FiveGuad detect overlay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744301-fiveguad-detect-overlay.html)|`2026-03-22 23:07:00`|`Alternative Online Mods`|
