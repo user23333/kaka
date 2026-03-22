@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[JCarpenters Toxic Commando Rain Reach's UnlockAllTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743397-jcarpenters-toxic-commando-rain-reachs-unlockalltool.html)|`2026-03-22 13:06:00`|`Other FPS Games`|
+|[AC Detection in 2026: Separating Fact from Forum Myth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744088-ac-detection-2026-separating-forum-myth.html)|`2026-03-22 12:55:00`|`Anti-Cheat Bypass`|
+|[Nvidia Screenshot POC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741591-nvidia-screenshot-poc.html)|`2026-03-22 12:40:00`|`Anti-Cheat Bypass`|
+|[NoSpread need some help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738387-nospread-help.html)|`2026-03-22 12:33:00`|`Counter-Strike 2`|
+|[sigs xigmapper windows 11 25h2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/723563-sigs-xigmapper-windows-11-25h2.html)|`2026-03-22 12:03:00`|`Anti-Cheat Bypass`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-22 11:43:00`|`Counter-Strike 2`|
 |[Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742176-silent-aim.html)|`2026-03-22 11:42:00`|`Marvel Rivals`|
 |[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742502-silent-aim.html)|`2026-03-22 11:41:00`|`Marvel Rivals`|
