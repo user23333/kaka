@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-22 11:43:00`|`Counter-Strike 2`|
+|[Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742176-silent-aim.html)|`2026-03-22 11:42:00`|`Marvel Rivals`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742502-silent-aim.html)|`2026-03-22 11:41:00`|`Marvel Rivals`|
+|[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-22 11:40:00`|`Anti-Cheat Bypass`|
+|[TF2: Name From Entity List?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/744246-tf2-name-entity-list.html)|`2026-03-22 11:32:00`|`Team Fortress 2`|
 |[zombie vgk&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744235-zombie-vgk-sys.html)|`2026-03-22 09:14:00`|`Valorant`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-22 09:10:00`|`Escape from Tarkov`|
 |[&#91;L4D2&#93; Cheat Base With Gamesense/&#91;removed&#93; Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726456-l4d2-cheat-base-gamesense-removed-menu.html)|`2026-03-22 09:09:00`|`Other FPS Games`|
