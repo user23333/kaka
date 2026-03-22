@@ -24,9 +24,16 @@
 |220|[7DSO Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53753)|`2026-03-23 00:13:48`|
 |72|[valorant sdk 5&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53745)|`2026-03-23 00:13:48`|
 |146|[bug&#95;cans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53739)|`2026-03-23 00:13:48`|
+|2|[Valorant Latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53822)|`2026-03-23 05:13:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 KnifeChanger &#45; Viewmodel jittering and texture bleeding on other weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744355-cs2-knifechanger-viewmodel-jittering-texture-bleeding-weapons.html)|`2026-03-23 05:10:00`|`Counter-Strike 2`|
+|[reading CDamageRecord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744238-reading-cdamagerecord.html)|`2026-03-23 05:08:00`|`Counter-Strike 2`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-23 05:02:00`|`HELLDIVERS 2`|
+|[Light Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/734508-light-rotation.html)|`2026-03-23 05:01:00`|`Counter-Strike 2`|
+|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-03-23 04:59:00`|`Valorant`|
+|[Bot Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744358-bot-lobbies.html)|`2026-03-23 04:59:00`|`Call of Duty: Modern Warfare`|
 |[Kernel Driver Protection &#43; Send Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744366-kernel-driver-protection-send-input.html)|`2026-03-23 04:19:00`|`Anti-Cheat Bypass`|
 |[Knife Animation OK but model is not updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744229-knife-animation-ok-model-updating.html)|`2026-03-23 04:18:00`|`Counter-Strike 2`|
 |[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-03-23 04:13:00`|`Other Games`|
