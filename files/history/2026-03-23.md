@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I'm developing a Valorant triggerbot, but it won't click&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744467-im-developing-valorant-triggerbot-wont-click.html)|`2026-03-23 23:15:00`|`Valorant`|
+|[clientEntities only shows nearby players &#40;~50m&#41;, is there a better list?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744497-cliententities-nearby-players-50m-list.html)|`2026-03-23 23:14:00`|`Rust`|
+|[NSI / ARP SPOOFING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744475-nsi-arp-spoofing.html)|`2026-03-23 23:13:00`|`Anti-Cheat Bypass`|
+|[stuck on mainbuild](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743855-stuck-mainbuild.html)|`2026-03-23 23:10:00`|`Rainbow Six Siege`|
+|[External Interfaces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/744242-external-interfaces.html)|`2026-03-23 23:09:00`|`CounterStrike Source`|
+|[cs2 spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744482-cs2-spectator-list.html)|`2026-03-23 22:47:00`|`Counter-Strike 2`|
+|[TF2: Name From Entity List?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/744246-tf2-name-entity-list.html)|`2026-03-23 22:22:00`|`Team Fortress 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-23 22:14:00`|`Escape from Tarkov`|
 |[&#91;WIP&#93; Buckshot Roulette Multiplayer Cheat &#40;Non&#45;Host &#43; Host Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743897-wip-buckshot-roulette-multiplayer-cheat-host-host-features.html)|`2026-03-23 22:14:00`|`Other Games`|
 |[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-03-23 22:13:00`|`Anti-Cheat Bypass`|
