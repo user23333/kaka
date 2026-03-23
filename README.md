@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Barrel&#45;Aligned Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744084-barrel-aligned-crosshair.html)|`2026-03-23 19:20:00`|`Escape from Tarkov`|
+|[I need help with the issue of injecting a dll&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744466-help-issue-injecting-dll.html)|`2026-03-23 19:16:00`|`Marvel Rivals`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-23 19:13:00`|`Other FPS Games`|
+|[&#91;SMBIOS&#93; Type 1 UUID Layout, Generation & RFC4122 Format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742256-smbios-type-1-uuid-layout-generation-rfc4122-format.html)|`2026-03-23 19:09:00`|`Anti-Cheat Bypass`|
 |[Chams invisible explosion&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744417-chams-invisible-explosion.html)|`2026-03-23 18:28:00`|`Counter-Strike 2`|
 |[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-03-23 18:28:00`|`Anti-Cheat Bypass`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-23 18:25:00`|`Red Dead Redemption 2`|
