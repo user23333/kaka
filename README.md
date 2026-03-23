@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-24 06:03:00`|`Combat Master`|
+|[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-03-24 06:00:00`|`Rust`|
+|[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-03-24 05:59:00`|`Valorant`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-24 05:53:00`|`Marvel Rivals`|
+|[Thick Bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742726-thick-bullets.html)|`2026-03-24 05:50:00`|`Rust`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2026-03-24 05:51:00`|`Valorant`|
 |[loot ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744392-loot-esp.html)|`2026-03-24 05:37:00`|`Escape from Tarkov`|
 |[Not all skins are displayed correctly in the inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744534-skins-displayed-correctly-inventory.html)|`2026-03-24 05:33:00`|`Counter-Strike 2`|
