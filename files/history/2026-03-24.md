@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2026-03-24 05:51:00`|`Valorant`|
+|[loot ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744392-loot-esp.html)|`2026-03-24 05:37:00`|`Escape from Tarkov`|
+|[Not all skins are displayed correctly in the inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744534-skins-displayed-correctly-inventory.html)|`2026-03-24 05:33:00`|`Counter-Strike 2`|
+|[Looking for a simple esp that preferably isnt DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742527-looking-simple-esp-preferably-isnt-dma.html)|`2026-03-24 05:31:00`|`Rust`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-24 05:30:00`|`HELLDIVERS 2`|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-03-24 05:28:00`|`Call of Duty 4: Modern Warfare`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-03-24 05:28:00`|`Other MMORPG and Strategy`|
+|[Chivalry 2 Internal: Mounting Modified &#46;uassets via Kernel DLL &#40;Post&#45;April Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740508-chivalry-2-internal-mounting-modified-uassets-via-kernel-dll-post-april-update.html)|`2026-03-24 05:26:00`|`Other Games`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-24 05:21:00`|`Alternative Online Mods`|
 |[Tiny Tina's Wonderland Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744414-tiny-tinas-wonderland-reversal.html)|`2026-03-24 05:15:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-24 05:12:00`|`Counter-Strike 2`|
