@@ -26,9 +26,19 @@
 |144|[TryBypassMe v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53760)|`2026-03-24 00:10:49`|
 |240|[7DSO Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53753)|`2026-03-24 00:10:49`|
 |88|[valorant sdk 5&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53745)|`2026-03-24 00:10:49`|
+|1|[Marvel Rivals &#45; DARKSIDE v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53841)|`2026-03-24 04:06:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744482-cs2-spectator-list.html)|`2026-03-24 04:05:00`|`Counter-Strike 2`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-24 04:03:00`|`Marvel Rivals`|
+|[Exposing r6skins&#46;locker for taking your accounts and ubi devs that are corrupt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744501-exposing-r6skins-locker-taking-accounts-ubi-devs-corrupt.html)|`2026-03-24 04:01:00`|`Rainbow Six Siege`|
+|[which option can i use to make mouse movement through kdmapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744524-option-mouse-movement-kdmapper.html)|`2026-03-24 03:54:00`|`Anti-Cheat Bypass`|
+|[UCAS Key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743732-ucas-key.html)|`2026-03-24 03:47:00`|`ARC Raiders`|
+|[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-24 03:46:00`|`Valorant`|
+|[MW 2019 Decryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744174-mw-2019-decryption-dumper.html)|`2026-03-24 03:44:00`|`Call of Duty: Modern Warfare`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-24 03:44:00`|`Apex Legends`|
+|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-24 03:43:00`|`Apex Legends`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-03-24 03:34:00`|`Other FPS Games`|
 |[April 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/743904-april-2026-motm-nominations.html)|`2026-03-24 03:34:00`|`Member of the Month`|
 |[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-24 03:34:00`|`Apex Legends`|
