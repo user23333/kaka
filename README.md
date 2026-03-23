@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-03-24 05:21:00`|`Alternative Online Mods`|
+|[Tiny Tina's Wonderland Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744414-tiny-tinas-wonderland-reversal.html)|`2026-03-24 05:15:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-24 05:12:00`|`Counter-Strike 2`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-24 05:10:00`|`Other Games`|
+|[Cant write on a game's memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/744272-cant-write-games-memory.html)|`2026-03-24 05:07:00`|`Programming for Beginners`|
+|[block mouse input in game when menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744413-block-mouse-input-game-menu.html)|`2026-03-24 05:04:00`|`Counter-Strike 2`|
+|[&#91;Release&#93; V8 Lightweight Python Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744494-release-v8-lightweight-python-triggerbot.html)|`2026-03-24 05:03:00`|`Valorant`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-24 04:49:00`|`Other FPS Games`|
 |[clientEntities only shows nearby players &#40;~50m&#41;, is there a better list?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744497-cliententities-nearby-players-50m-list.html)|`2026-03-24 04:48:00`|`Rust`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-24 04:48:00`|`Other FPS Games`|
