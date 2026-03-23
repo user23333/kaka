@@ -16,6 +16,7 @@
 |12|[CS2 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743841-cs2-internal-source.html)|`2026-03-23 06:44:11`|`counter-strike-2-a`|
 |21|[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-23 11:16:51`|`anti-cheat-bypass`|
 |15|[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-03-23 17:38:34`|`other-mmorpg-and-strategy`|
+|7|[nine vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743664-nine-vulnerable-drivers.html)|`2026-03-23 22:18:23`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-23 22:14:00`|`Escape from Tarkov`|
+|[&#91;WIP&#93; Buckshot Roulette Multiplayer Cheat &#40;Non&#45;Host &#43; Host Features&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743897-wip-buckshot-roulette-multiplayer-cheat-host-host-features.html)|`2026-03-23 22:14:00`|`Other Games`|
+|[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-03-23 22:13:00`|`Anti-Cheat Bypass`|
+|[chudette injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/735201-chudette-injector.html)|`2026-03-23 22:13:00`|`Counter-Strike 2`|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-03-23 22:11:00`|`Other Single Player Games`|
+|[FOV Zoom Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744489-fov-zoom-help.html)|`2026-03-23 22:10:00`|`Rust`|
+|[ClarityV2 &#45; UNDETECT SEMI/LEGIT CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744470-clarityv2-undetect-semi-legit-cheat.html)|`2026-03-23 21:59:00`|`Counter-Strike 2`|
 |[FiveM External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-fivem-external-esp.html)|`2026-03-23 20:56:00`|`Alternative Online Mods`|
 |[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-03-23 20:42:00`|`Anti-Cheat Bypass`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-23 20:42:00`|`Other FPS Games`|
