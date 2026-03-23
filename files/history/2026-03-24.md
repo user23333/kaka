@@ -13,6 +13,7 @@
 |7|[nine vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743664-nine-vulnerable-drivers.html)|`2026-03-24 00:10:49`|`anti-cheat-bypass`|
 |7|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-03-24 01:06:58`|`tom-clancy-s-the-division`|
 |3|[Valorant Internal &#124; Galaxy Chams &#40;Enemy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743430-valorant-internal-galaxy-chams-enemy.html)|`2026-03-24 03:37:37`|`valorant`|
+|8|[CS2 Internal Cheat With Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744206-cs2-internal-cheat-skinchanger.html)|`2026-03-24 06:53:02`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[1pc setup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/732446-1pc-setup.html)|`2026-03-24 06:50:00`|`Valorant`|
+|[I need help with the issue of injecting a dll&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744466-help-issue-injecting-dll.html)|`2026-03-24 06:48:00`|`Marvel Rivals`|
+|[GSC Scripts for MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744546-gsc-scripts-mp.html)|`2026-03-24 06:46:00`|`Call of Duty: Modern Warfare`|
+|[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-03-24 06:43:00`|`Anti-Cheat Bypass`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-24 06:35:00`|`Escape from Tarkov`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-03-24 06:03:00`|`Combat Master`|
 |[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-03-24 06:00:00`|`Rust`|
 |[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-03-24 05:59:00`|`Valorant`|
