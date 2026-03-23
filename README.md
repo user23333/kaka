@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-03-23 19:58:00`|`Other FPS Games`|
+|[Is godmode possible in modern CoD &#40;BO7&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/744462-godmode-modern-cod-bo7.html)|`2026-03-23 19:54:00`|`Call of Duty: Black Ops 7`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-23 19:53:00`|`Other FPS Games`|
+|[Forts cheat table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/625043-forts-cheat-table.html)|`2026-03-23 19:45:00`|`Other MMORPG and Strategy`|
+|[AI Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/744425-ai-cheats.html)|`2026-03-23 19:43:00`|`Forum General`|
+|[CS2 Internal Cheat With Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744206-cs2-internal-cheat-skinchanger.html)|`2026-03-23 19:37:00`|`Counter-Strike 2`|
 |[Barrel&#45;Aligned Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744084-barrel-aligned-crosshair.html)|`2026-03-23 19:20:00`|`Escape from Tarkov`|
 |[I need help with the issue of injecting a dll&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744466-help-issue-injecting-dll.html)|`2026-03-23 19:16:00`|`Marvel Rivals`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-23 19:13:00`|`Other FPS Games`|
