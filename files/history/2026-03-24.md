@@ -27,9 +27,18 @@
 |240|[7DSO Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53753)|`2026-03-24 00:10:49`|
 |88|[valorant sdk 5&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53745)|`2026-03-24 00:10:49`|
 |1|[Marvel Rivals &#45; DARKSIDE v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53841)|`2026-03-24 04:06:04`|
+|1|[VMP Dumper&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53783)|`2026-03-24 04:50:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-24 04:49:00`|`Other FPS Games`|
+|[clientEntities only shows nearby players &#40;~50m&#41;, is there a better list?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744497-cliententities-nearby-players-50m-list.html)|`2026-03-24 04:48:00`|`Rust`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-24 04:48:00`|`Other FPS Games`|
+|[Combat Arms Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/65940-combat-arms-reversal-structs-offsets.html)|`2026-03-24 04:45:00`|`Combat Arms`|
+|[YimMenuV2 Unlock Event Clothing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744526-yimmenuv2-unlock-event-clothing.html)|`2026-03-24 04:37:00`|`Grand Theft Auto V`|
+|[im developing a cheat developer simulator game looking for gameplay ideas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742680-im-developing-cheat-developer-simulator-game-looking-gameplay-ideas.html)|`2026-03-24 04:28:00`|`Off Topic`|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-03-24 04:20:00`|`DayZ SA`|
+|[Rigorz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/infestation-survivor-stories-newz/578589-rigorz.html)|`2026-03-24 04:15:00`|`Infestation Survivor Stories: NewZ`|
 |[cs2 spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744482-cs2-spectator-list.html)|`2026-03-24 04:05:00`|`Counter-Strike 2`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-24 04:03:00`|`Marvel Rivals`|
 |[Exposing r6skins&#46;locker for taking your accounts and ubi devs that are corrupt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744501-exposing-r6skins-locker-taking-accounts-ubi-devs-corrupt.html)|`2026-03-24 04:01:00`|`Rainbow Six Siege`|
