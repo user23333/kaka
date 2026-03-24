@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help &#124; Custom Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/744050-help-custom-drivers.html)|`2026-03-24 19:48:00`|`C and C++`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-24 19:33:00`|`Valorant`|
 |[bhop loss of momentum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744592-bhop-loss-momentum.html)|`2026-03-24 19:03:00`|`Counter-Strike 2`|
 |[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-03-24 18:54:00`|`Escape from Tarkov`|
 |[x32 dbg error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744578-x32-dbg-error.html)|`2026-03-24 18:53:00`|`Anti-Cheat Bypass`|
