@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Prediction Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743560-prediction-aimbot.html)|`2026-03-24 15:35:00`|`Call of Duty: Black Ops 7`|
+|[Is godmode possible in modern CoD &#40;BO7&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/744462-godmode-modern-cod-bo7.html)|`2026-03-24 15:30:00`|`Call of Duty: Black Ops 7`|
+|[Raw Input Buffer turned on Colorbot HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744545-raw-input-buffer-colorbot-help.html)|`2026-03-24 15:29:00`|`Valorant`|
+|[overlay question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743235-overlay-question.html)|`2026-03-24 15:20:00`|`Call of Duty: Black Ops 7`|
+|[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-24 15:17:00`|`Rust`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-24 14:37:00`|`Rainbow Six Siege`|
 |[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-03-24 14:34:00`|`Counter-Strike 2`|
 |[About CowNow and huangyoulaoshi:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744574-cownow-huangyoulaoshi.html)|`2026-03-24 14:30:00`|`Apex Legends`|
