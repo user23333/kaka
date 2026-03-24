@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-24 16:19:00`|`Marvel Rivals`|
+|[Question for private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/744581-question-private-server.html)|`2026-03-24 16:10:00`|`New World`|
+|[Terraria Character Editor 1&#46;4&#46;5&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743004-terraria-character-editor-1-4-5-a.html)|`2026-03-24 15:57:00`|`Other Games`|
+|[Bloodstrike offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744122-bloodstrike-offsets.html)|`2026-03-24 15:54:00`|`Half Life`|
 |[Prediction Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743560-prediction-aimbot.html)|`2026-03-24 15:35:00`|`Call of Duty: Black Ops 7`|
 |[Is godmode possible in modern CoD &#40;BO7&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/744462-godmode-modern-cod-bo7.html)|`2026-03-24 15:30:00`|`Call of Duty: Black Ops 7`|
 |[Raw Input Buffer turned on Colorbot HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744545-raw-input-buffer-colorbot-help.html)|`2026-03-24 15:29:00`|`Valorant`|
