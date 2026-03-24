@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[INJECTOR and EMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744610-injector-emu.html)|`2026-03-24 20:36:00`|`Valorant`|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-03-24 20:28:00`|`Counter-Strike 2`|
+|[External Interfaces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/744242-external-interfaces.html)|`2026-03-24 20:20:00`|`CounterStrike Source`|
 |[Help &#124; Custom Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/744050-help-custom-drivers.html)|`2026-03-24 19:48:00`|`C and C++`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-24 19:33:00`|`Valorant`|
 |[bhop loss of momentum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744592-bhop-loss-momentum.html)|`2026-03-24 19:03:00`|`Counter-Strike 2`|
