@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-24 14:37:00`|`Rainbow Six Siege`|
+|[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-03-24 14:34:00`|`Counter-Strike 2`|
+|[About CowNow and huangyoulaoshi:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744574-cownow-huangyoulaoshi.html)|`2026-03-24 14:30:00`|`Apex Legends`|
+|[Can someone give newest offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744445-offsets.html)|`2026-03-24 14:16:00`|`Call of Duty: Modern Warfare`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-03-24 14:12:00`|`Other FPS Games`|
+|[Looking for a menu to update&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744573-looking-menu-update.html)|`2026-03-24 14:09:00`|`Call of Duty: Modern Warfare`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-24 14:03:00`|`Overwatch`|
 |[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2026-03-24 13:35:00`|`Anti-Cheat Bypass`|
 |[Splitgate Hack&#124; Internal ESP &#43; Rage Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742893-splitgate-hack-internal-esp-rage-aimbot.html)|`2026-03-24 13:28:00`|`Off Topic`|
 |[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-03-24 13:27:00`|`Counterstrike Global Offensive`|
