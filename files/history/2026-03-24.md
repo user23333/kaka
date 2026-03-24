@@ -35,6 +35,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-24 17:12:00`|`Paladins`|
+|[LORT Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735862-lort-internal.html)|`2026-03-24 17:10:00`|`Other Games`|
+|[LORT multiplayer cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735575-lort-multiplayer-cheat.html)|`2026-03-24 17:10:00`|`Other Games`|
+|[Waveshield Client Side March 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744585-waveshield-client-march-2026-a.html)|`2026-03-24 17:07:00`|`Alternative Online Mods`|
+|[OBS udp settings help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743508-obs-udp-settings-help.html)|`2026-03-24 17:06:00`|`Valorant`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-24 17:01:00`|`ARMA 3`|
+|[Solo Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744554-solo-session.html)|`2026-03-24 16:48:00`|`Alternative Online Mods`|
+|[Painkiller&#40;2025&#41; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743072-painkiller-2025-internal-cheat.html)|`2026-03-24 16:47:00`|`Other FPS Games`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-24 16:46:00`|`Battlefield 6`|
 |[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-24 16:19:00`|`Marvel Rivals`|
 |[Question for private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/744581-question-private-server.html)|`2026-03-24 16:10:00`|`New World`|
 |[Terraria Character Editor 1&#46;4&#46;5&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743004-terraria-character-editor-1-4-5-a.html)|`2026-03-24 15:57:00`|`Other Games`|
