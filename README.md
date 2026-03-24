@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-25 03:55:00`|`HELLDIVERS 2`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-25 03:42:00`|`Overwatch`|
+|[Super Battle Golf &#40;Movement Hack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744659-super-battle-golf-movement-hack.html)|`2026-03-25 03:35:00`|`Other Games`|
+|[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 25/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744656-terraria-1-4-5-regrind-cheat-table-update-25-03-2026-1-a.html)|`2026-03-25 03:30:00`|`Other Games`|
+|[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-03-25 03:27:00`|`Anti-Cheat Bypass`|
+|[Skinchanger Knife apply game crash after second death](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744107-skinchanger-knife-apply-game-crash-death.html)|`2026-03-25 03:26:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-03-25 03:17:00`|`Deadlock`|
 |[RainReach’s ultimate universal Script titan 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743862-rainreach-ultimate-universal-script-titan-2-a.html)|`2026-03-25 03:16:00`|`ARC Raiders`|
 |[&#91;Linux&#93; hunchclient &#40;Arc Raiders Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/733448-linux-hunchclient-arc-raiders-radar.html)|`2026-03-25 03:15:00`|`ARC Raiders`|
