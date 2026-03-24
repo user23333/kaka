@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Driver signing certificate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/697690-driver-signing-certificate.html)|`2026-03-24 13:35:00`|`Anti-Cheat Bypass`|
+|[Splitgate Hack&#124; Internal ESP &#43; Rage Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/742893-splitgate-hack-internal-esp-rage-aimbot.html)|`2026-03-24 13:28:00`|`Off Topic`|
+|[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-03-24 13:27:00`|`Counterstrike Global Offensive`|
+|[Need assistance dumping the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/738134-assistance-dumping-game.html)|`2026-03-24 13:22:00`|`ARC Raiders`|
+|[Steam Overlay Performance Monitor vulnerable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744571-steam-overlay-performance-monitor-vulnerable.html)|`2026-03-24 13:16:00`|`Anti-Cheat Bypass`|
+|[Operation: Harsh Doorstop Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/744570-operation-harsh-doorstop-internal.html)|`2026-03-24 13:16:00`|`Off Topic`|
 |[Hwid ban for mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744568-hwid-ban-mw19.html)|`2026-03-24 12:25:00`|`Call of Duty: Modern Warfare`|
 |[How to disable anticheat on Epic Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744011-disable-anticheat-epic-games.html)|`2026-03-24 12:06:00`|`Marvel Rivals`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-03-24 12:02:00`|`Other Games`|
