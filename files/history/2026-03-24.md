@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bhop loss of momentum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744592-bhop-loss-momentum.html)|`2026-03-24 19:03:00`|`Counter-Strike 2`|
+|[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-03-24 18:54:00`|`Escape from Tarkov`|
+|[x32 dbg error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744578-x32-dbg-error.html)|`2026-03-24 18:53:00`|`Anti-Cheat Bypass`|
 |[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-03-24 18:04:00`|`HELLDIVERS 2`|
 |[reversing the eidolon — vmp component decrypt to pure math](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743088-reversing-eidolon-vmp-component-decrypt-pure-math.html)|`2026-03-24 17:51:00`|`Overwatch`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-24 17:50:00`|`Counter-Strike 2`|
