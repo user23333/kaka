@@ -11,6 +11,7 @@
 |9|[CS2 Internal Cheat With Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744206-cs2-internal-cheat-skinchanger.html)|`2026-03-25 00:03:08`|`counter-strike-2-a`|
 |9|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-25 00:03:08`|`counter-strike-2-releases`|
 |9|[Where can I find a yim menu compatible with version 3788?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/743564-yim-menu-compatible-version-3788-a.html)|`2026-03-25 00:03:08`|`grand-theft-auto-v`|
+|6|[zombie vgk&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744235-zombie-vgk-sys.html)|`2026-03-25 01:10:14`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-25 01:09:00`|`Rust`|
+|[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-03-25 01:07:00`|`Counter-Strike 2`|
+|[Knife Animation OK but model is not updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744229-knife-animation-ok-model-updating.html)|`2026-03-25 01:05:00`|`Counter-Strike 2`|
+|[CS2 Internal Cheat With Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744206-cs2-internal-cheat-skinchanger.html)|`2026-03-25 00:59:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-25 00:56:00`|`ARC Raiders`|
+|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744062-seven-deadly-sins-origin-sdk.html)|`2026-03-25 00:55:00`|`Other MMORPG and Strategy`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-25 00:52:00`|`Grand Theft Auto V`|
 |[World Modulation issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744100-world-modulation-issue.html)|`2026-03-25 00:01:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-24 23:55:00`|`Apex Legends`|
 |[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-03-24 23:54:00`|`Anti-Cheat Bypass`|
