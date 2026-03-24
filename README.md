@@ -29,9 +29,14 @@
 |88|[valorant sdk 5&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53745)|`2026-03-24 00:10:49`|
 |1|[Marvel Rivals &#45; DARKSIDE v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53841)|`2026-03-24 04:06:04`|
 |1|[VMP Dumper&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53783)|`2026-03-24 04:50:02`|
+|0|[driverFixer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53848)|`2026-03-24 08:02:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NT Loader &#45; INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-nt-loader-injector.html)|`2026-03-24 07:58:00`|`General Programming and Reversing`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-03-24 07:58:00`|`Other FPS Games`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-24 07:53:00`|`HELLDIVERS 2`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-24 07:50:00`|`HELLDIVERS 2`|
 |[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-24 07:41:00`|`Other Games`|
 |[ByteRivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737548-byterivals.html)|`2026-03-24 07:38:00`|`Marvel Rivals`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-24 07:26:00`|`Other FPS Games`|
