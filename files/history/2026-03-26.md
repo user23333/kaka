@@ -25,9 +25,18 @@
 |161|[Marvel Rivals &#45; DARKSIDE v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53841)|`2026-03-26 00:49:23`|
 |19|[Deadlock&#45;BoneExtractor&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53830)|`2026-03-26 00:49:23`|
 |3|[bo7 external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53878)|`2026-03-26 03:27:31`|
+|1|[PZcheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53876)|`2026-03-26 03:58:51`|
+|2|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53859)|`2026-03-26 03:58:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744171-usercmd.html)|`2026-03-26 03:58:00`|`Counter-Strike 2`|
+|[Free Cheat External CHeat Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742719-free-cheat-external-cheat-arena-breakout-infinite.html)|`2026-03-26 03:56:00`|`Other FPS Games`|
+|[Penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744682-penetration.html)|`2026-03-26 03:55:00`|`Counter-Strike 2`|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-03-26 03:52:00`|`Counter-Strike 2`|
+|[BO1 Xbox 360 Missing Weapon Material/Camo Offset for &#46;xex Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/744831-bo1-xbox-360-missing-weapon-material-camo-offset-xex-plugin.html)|`2026-03-26 03:51:00`|`Call of Duty: Black Ops`|
+|[Python Automatic Updating Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/729064-python-automatic-updating-triggerbot.html)|`2026-03-26 03:51:00`|`Counter-Strike 2 Releases`|
+|[&#91;WIP&#93; Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43; &#124; 42&#46;15&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743460-wip-project-zomboid-cheat-ethermenu-lite-powered-java-b42-42-15-2-a.html)|`2026-03-26 03:48:00`|`Other MMORPG and Strategy`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-03-26 03:27:00`|`Other FPS Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-26 03:20:00`|`Counter-Strike 2`|
 |[antiaim internal cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739851-antiaim-internal-cs2.html)|`2026-03-26 03:20:00`|`Counter-Strike 2`|
