@@ -28,9 +28,19 @@
 |1|[PZcheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53876)|`2026-03-26 03:58:51`|
 |2|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53859)|`2026-03-26 03:58:51`|
 |2|[DBD&#46;exe V1&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53872)|`2026-03-26 04:36:07`|
+|1|[amelease&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53865)|`2026-03-26 05:05:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FRAGPUNK Color Bot — Open Source Color&#45;Based Aim Assist Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744841-fragpunk-color-bot-source-color-based-aim-assist-tool.html)|`2026-03-26 05:04:00`|`Half Life`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-03-26 05:03:00`|`Other FPS Games`|
+|[Og Wall Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744849-og-wall-hack.html)|`2026-03-26 05:02:00`|`Counter-Strike 2`|
+|[VALORANT Color Bot — Open Source Pixel&#45;Based Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744844-valorant-color-bot-source-pixel-based-aim-assist.html)|`2026-03-26 05:02:00`|`Valorant`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-26 05:02:00`|`Rainbow Six Siege`|
+|[world modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744848-world-modulation.html)|`2026-03-26 05:00:00`|`Counter-Strike 2`|
+|[STRINOVA Color Bot — Free Open Source Color Detection Aim Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744843-strinova-color-bot-free-source-color-detection-aim-tool.html)|`2026-03-26 04:59:00`|`Half Life`|
+|[valorant dumper with sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744079-valorant-dumper-sigs.html)|`2026-03-26 04:57:00`|`Valorant`|
+|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-26 04:57:00`|`Marvel Rivals`|
 |[new offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744840-offsets.html)|`2026-03-26 04:32:00`|`Counter-Strike 2`|
 |[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-03-26 04:30:00`|`Anti-Cheat Bypass`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-26 04:29:00`|`Valorant`|
