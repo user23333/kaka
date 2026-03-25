@@ -13,6 +13,7 @@
 |21|[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-03-26 00:49:23`|`anti-cheat-bypass`|
 |6|[new intel vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744230-intel-vulnerable-driver.html)|`2026-03-26 05:50:39`|`anti-cheat-bypass`|
 |26|[Update&#45;proof Internal&#45;External Cheat base for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744356-update-proof-internal-external-cheat-base-cs2.html)|`2026-03-26 06:58:01`|`counter-strike-2-a`|
+|2|[RainReach’s ultimate universal Script titan 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743862-rainreach-ultimate-universal-script-titan-2-a.html)|`2026-03-26 07:30:07`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I wanna know about bypassing pattern scanning&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744881-wanna-bypassing-pattern-scanning.html)|`2026-03-26 07:28:00`|`Anti-Cheat Bypass`|
+|[Steam Overlay Performance Monitor vulnerable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744571-steam-overlay-performance-monitor-vulnerable.html)|`2026-03-26 07:26:00`|`Anti-Cheat Bypass`|
+|[screamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744878-screamer.html)|`2026-03-26 07:18:00`|`Other Games`|
+|[Simple Monitor Spoof &#40;WMI &#43; EDID&#41; – Used by ~50% of P2Cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744877-simple-monitor-spoof-wmi-edid-50-p2cs.html)|`2026-03-26 07:13:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-03-26 07:12:00`|`Call of Duty: Modern Warfare`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-03-26 07:07:00`|`Counter-Strike 2`|
+|[Advanced PCIe RTL Evasion: Going beyond static config shadowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743058-advanced-pcie-rtl-evasion-beyond-static-config-shadowing.html)|`2026-03-26 07:01:00`|`Anti-Cheat Bypass`|
 |[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-26 06:48:00`|`General Programming and Reversing`|
 |[JCarpenters Toxic Commando Rain Reach's UnlockAllTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743397-jcarpenters-toxic-commando-rain-reachs-unlockalltool.html)|`2026-03-26 06:48:00`|`Other FPS Games`|
 |[…allegedly China‑born and still dragging around a decade‑old rootkit&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744875-allegedly-china-born-dragging-decade-rootkit.html)|`2026-03-26 06:46:00`|`Anti-Cheat Bypass`|
