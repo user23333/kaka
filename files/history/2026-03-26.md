@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-26 02:31:00`|`Apex Legends`|
+|[Fallout 4 Multihack &#40;Aimbot, ESP, Rapidfire & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/360649-fallout-4-multihack-aimbot-esp-rapidfire.html)|`2026-03-26 02:27:00`|`Other FPS Games`|
+|[whats really going on with RAM right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/728611-whats-ram.html)|`2026-03-26 02:19:00`|`Off Topic`|
+|[AC Anti Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742438-ac-anti-aimbot.html)|`2026-03-26 02:15:00`|`Alternative Online Mods`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-26 02:15:00`|`Tom Clancy's The Division`|
+|[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-03-26 02:14:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-26 02:10:00`|`Rust`|
+|[&#91;ASA&#93; Ark Survival Ascended Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733412-asa-ark-survival-ascended-internal.html)|`2026-03-26 02:10:00`|`Other Games`|
 |[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-03-26 01:42:00`|`Star Wars Battlefront 2`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-26 01:32:00`|`Other FPS Games`|
 |[Fuser and AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744795-fuser-ac.html)|`2026-03-26 01:27:00`|`Anti-Cheat Bypass`|
