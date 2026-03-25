@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-25 12:44:00`|`Paladins`|
+|[win32k&#46;sys &#46;data ptr hook on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744721-win32k-sys-data-ptr-hook-windows-11-a.html)|`2026-03-25 12:29:00`|`Anti-Cheat Bypass`|
+|[Update&#45;proof Internal&#45;External Cheat base for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744356-update-proof-internal-external-cheat-base-cs2.html)|`2026-03-25 12:24:00`|`Counter-Strike 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-25 12:17:00`|`Tom Clancy's The Division`|
+|[Tiny Tina's Wonderland Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744414-tiny-tinas-wonderland-reversal.html)|`2026-03-25 12:09:00`|`Other FPS Games`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-25 11:58:00`|`Counter-Strike 2`|
 |[hooking overlay &#40;i&#46;e&#46; discord or ss&#41; vs DX11 overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744708-hooking-overlay-discord-ss-vs-dx11-overlay.html)|`2026-03-25 10:45:00`|`Rust`|
 |[Un&#45;Protect and Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/566399-un-protect-dumping.html)|`2026-03-25 10:29:00`|`Valorant`|
 |[Xenon Client 1&#46;8&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/739738-xenon-client-1-8-9-a.html)|`2026-03-25 10:23:00`|`Minecraft`|
