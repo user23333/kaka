@@ -27,9 +27,16 @@
 |3|[bo7 external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53878)|`2026-03-26 03:27:31`|
 |1|[PZcheat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53876)|`2026-03-26 03:58:51`|
 |2|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53859)|`2026-03-26 03:58:51`|
+|2|[DBD&#46;exe V1&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53872)|`2026-03-26 04:36:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744840-offsets.html)|`2026-03-26 04:32:00`|`Counter-Strike 2`|
+|[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-03-26 04:30:00`|`Anti-Cheat Bypass`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-26 04:29:00`|`Valorant`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-26 04:14:00`|`Other FPS Games`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-26 04:09:00`|`Deadlock`|
+|[CS2 AHK AIMBOT TRIGGERBOT BHOP EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/674154-cs2-ahk-aimbot-triggerbot-bhop-external.html)|`2026-03-26 04:09:00`|`Counter-Strike 2 Releases`|
 |[UserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744171-usercmd.html)|`2026-03-26 03:58:00`|`Counter-Strike 2`|
 |[Free Cheat External CHeat Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742719-free-cheat-external-cheat-arena-breakout-infinite.html)|`2026-03-26 03:56:00`|`Other FPS Games`|
 |[Penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744682-penetration.html)|`2026-03-26 03:55:00`|`Counter-Strike 2`|
