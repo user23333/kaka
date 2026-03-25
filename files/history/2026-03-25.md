@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-03-25 19:02:00`|`Escape from Tarkov`|
+|[Tribes 3 Rival hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743300-tribes-3-rival-hacks.html)|`2026-03-25 18:56:00`|`Other FPS Games`|
+|[esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/744686-esp.html)|`2026-03-25 18:52:00`|`Deadlock`|
+|[paladins game launcher &#40; built version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/743287-paladins-game-launcher-built-version.html)|`2026-03-25 18:52:00`|`Paladins`|
+|[CS2 Radar Hack on macOS &#40;CrossOver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743211-cs2-radar-hack-macos-crossover.html)|`2026-03-25 18:49:00`|`Counter-Strike 2`|
+|[OBS udp settings help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743508-obs-udp-settings-help.html)|`2026-03-25 18:45:00`|`Valorant`|
+|[New Update Aimbot Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/742349-update-aimbot-detection.html)|`2026-03-25 18:42:00`|`Apex Legends`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-03-25 18:39:00`|`Apex Legends`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-25 17:41:00`|`Battlefield 6`|
 |[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-25 17:20:00`|`Call of Duty: Modern Warfare`|
 |[External doesnt work properly in some community servers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744739-external-doesnt-properly-community-servers.html)|`2026-03-25 17:19:00`|`Counter-Strike 2`|
