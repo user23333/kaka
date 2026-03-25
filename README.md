@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744725-aimbot-method.html)|`2026-03-25 13:47:00`|`Rust`|
+|[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/741470-introduction.html)|`2026-03-25 13:44:00`|`Forum General`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-25 13:32:00`|`Other MMORPG and Strategy`|
+|[ACE still banning after full HWID spoof, what else does it check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743571-ace-banning-hwid-spoof-else-check.html)|`2026-03-25 13:27:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-25 13:07:00`|`Other FPS Games`|
+|[Hwid ban for mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744568-hwid-ban-mw19.html)|`2026-03-25 13:05:00`|`Call of Duty: Modern Warfare`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-25 12:44:00`|`Paladins`|
 |[win32k&#46;sys &#46;data ptr hook on Windows 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744721-win32k-sys-data-ptr-hook-windows-11-a.html)|`2026-03-25 12:29:00`|`Anti-Cheat Bypass`|
 |[Update&#45;proof Internal&#45;External Cheat base for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744356-update-proof-internal-external-cheat-base-cs2.html)|`2026-03-25 12:24:00`|`Counter-Strike 2`|
