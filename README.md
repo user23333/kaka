@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-03-26 01:42:00`|`Star Wars Battlefront 2`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-26 01:32:00`|`Other FPS Games`|
+|[Fuser and AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744795-fuser-ac.html)|`2026-03-26 01:27:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-03-26 01:24:00`|`Call of Duty: Black Ops 7`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-03-26 01:19:00`|`Other FPS Games`|
+|[FAs playing favorites](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/744798-fas-playing-favorites.html)|`2026-03-26 01:13:00`|`Forum General`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-03-26 01:11:00`|`Other FPS Games`|
+|[AOE4 Fow from lua &#40;STEAM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/738746-aoe4-fow-lua-steam.html)|`2026-03-26 01:09:00`|`Age of Empires`|
 |[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-26 00:48:00`|`Counter-Strike 2`|
 |[World Modulation issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744100-world-modulation-issue.html)|`2026-03-26 00:46:00`|`Counter-Strike 2`|
 |[Exposing r6skins&#46;locker for taking your accounts and ubi devs that are corrupt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744501-exposing-r6skins-locker-taking-accounts-ubi-devs-corrupt.html)|`2026-03-26 00:43:00`|`Rainbow Six Siege`|
