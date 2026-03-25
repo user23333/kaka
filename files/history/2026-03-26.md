@@ -24,9 +24,17 @@
 |18|[Realtek EFUSE Checker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53844)|`2026-03-26 00:49:23`|
 |161|[Marvel Rivals &#45; DARKSIDE v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53841)|`2026-03-26 00:49:23`|
 |19|[Deadlock&#45;BoneExtractor&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53830)|`2026-03-26 00:49:23`|
+|3|[bo7 external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53878)|`2026-03-26 03:27:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-03-26 03:27:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-26 03:20:00`|`Counter-Strike 2`|
+|[antiaim internal cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739851-antiaim-internal-cs2.html)|`2026-03-26 03:20:00`|`Counter-Strike 2`|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-26 03:19:00`|`Counter-Strike 2 Releases`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-03-26 03:18:00`|`Counter-Strike 2 Releases`|
+|[lf for detected soft to ban account in 5&#45;20min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/744644-lf-detected-soft-ban-account-5-20min.html)|`2026-03-26 03:17:00`|`ARC Raiders`|
+|[knife icon and name changes but model and animation doesnt &#40;cs2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744754-knife-icon-name-changes-model-animation-doesnt-cs2.html)|`2026-03-26 03:14:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-26 02:31:00`|`Apex Legends`|
 |[Fallout 4 Multihack &#40;Aimbot, ESP, Rapidfire & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/360649-fallout-4-multihack-aimbot-esp-rapidfire.html)|`2026-03-26 02:27:00`|`Other FPS Games`|
 |[whats really going on with RAM right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/728611-whats-ram.html)|`2026-03-26 02:19:00`|`Off Topic`|
