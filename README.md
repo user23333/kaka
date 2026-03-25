@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-25 17:41:00`|`Battlefield 6`|
+|[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-25 17:20:00`|`Call of Duty: Modern Warfare`|
+|[External doesnt work properly in some community servers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744739-external-doesnt-properly-community-servers.html)|`2026-03-25 17:19:00`|`Counter-Strike 2`|
+|[offsets / dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/735812-offsets-dumper.html)|`2026-03-25 17:18:00`|`Call of Duty: Modern Warfare III`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-03-25 17:07:00`|`Other FPS Games`|
 |[I built a kernel module scanner/dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/743938-built-kernel-module-scanner-dumper.html)|`2026-03-25 16:47:00`|`Call of Duty: Modern Warfare III`|
 |[a noobs guide to making a cheat for warframe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743495-noobs-guide-cheat-warframe.html)|`2026-03-25 16:42:00`|`Other Games`|
