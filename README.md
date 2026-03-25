@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-03-25 19:47:00`|`Anti-Cheat Bypass`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-25 19:39:00`|`Counter-Strike 2`|
+|[reversing the eidolon — vmp component decrypt to pure math](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743088-reversing-eidolon-vmp-component-decrypt-pure-math.html)|`2026-03-25 19:36:00`|`Overwatch`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-03-25 19:34:00`|`Counter-Strike 2`|
+|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-25 19:30:00`|`Marvel Rivals`|
 |[Enhanced EFT Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/732632-enhanced-eft-launcher.html)|`2026-03-25 19:02:00`|`Escape from Tarkov`|
 |[Tribes 3 Rival hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743300-tribes-3-rival-hacks.html)|`2026-03-25 18:56:00`|`Other FPS Games`|
 |[esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/744686-esp.html)|`2026-03-25 18:52:00`|`Deadlock`|
