@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[From external to internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744784-external-internal.html)|`2026-03-25 22:49:00`|`Alternative Online Mods`|
+|[R6 dx12 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744685-r6-dx12-chams.html)|`2026-03-25 22:49:00`|`Rainbow Six Siege`|
+|[I tried spoof but still got van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744758-tried-spoof-van-152-a.html)|`2026-03-25 22:48:00`|`Valorant`|
+|[Lua Script Runtime & Executor Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743887-lua-script-runtime-executor-patterns.html)|`2026-03-25 22:44:00`|`Alternative Online Mods`|
 |[How Internal Chams Work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744641-internal-chams.html)|`2026-03-25 21:38:00`|`Counter-Strike 2`|
 |[Chams invisible explosion&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744417-chams-invisible-explosion.html)|`2026-03-25 21:25:00`|`Counter-Strike 2`|
 |[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-25 21:24:00`|`Rust`|
