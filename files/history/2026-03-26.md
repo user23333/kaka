@@ -12,6 +12,7 @@
 |6|[zombie vgk&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744235-zombie-vgk-sys.html)|`2026-03-26 00:49:23`|`valorant`|
 |21|[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-03-26 00:49:23`|`anti-cheat-bypass`|
 |6|[new intel vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744230-intel-vulnerable-driver.html)|`2026-03-26 05:50:39`|`anti-cheat-bypass`|
+|26|[Update&#45;proof Internal&#45;External Cheat base for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744356-update-proof-internal-external-cheat-base-cs2.html)|`2026-03-26 06:58:01`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-26 06:48:00`|`General Programming and Reversing`|
+|[JCarpenters Toxic Commando Rain Reach's UnlockAllTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743397-jcarpenters-toxic-commando-rain-reachs-unlockalltool.html)|`2026-03-26 06:48:00`|`Other FPS Games`|
+|[…allegedly China‑born and still dragging around a decade‑old rootkit&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744875-allegedly-china-born-dragging-decade-rootkit.html)|`2026-03-26 06:46:00`|`Anti-Cheat Bypass`|
+|[Hunchclient for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740950-hunchclient-windows.html)|`2026-03-26 06:42:00`|`ARC Raiders`|
 |[Free CS2 Total Value inventory tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744861-free-cs2-total-value-inventory-tool.html)|`2026-03-26 06:09:00`|`Counter-Strike 2`|
 |[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-26 06:08:00`|`Rust`|
 |[Latest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740739-offsets.html)|`2026-03-26 06:05:00`|`Rainbow Six Siege`|
