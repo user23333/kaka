@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-03-26 07:57:00`|`Other FPS Games`|
+|[LEAK &#45;&#45;&#62; Internal &#43; vgc&#46;exe Emulator &#43; HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743254-leak-internal-vgc-exe-emulator-hwid-spoofer.html)|`2026-03-26 07:57:00`|`Valorant`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-26 07:48:00`|`Other Games`|
+|[MW 2019 Decryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744174-mw-2019-decryption-dumper.html)|`2026-03-26 07:43:00`|`Call of Duty: Modern Warfare`|
+|[can make minimap radar external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741599-minimap-radar-external.html)|`2026-03-26 07:36:00`|`Apex Legends`|
+|[Pls help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/744883-pls-help.html)|`2026-03-26 07:34:00`|`League of Legends`|
 |[I wanna know about bypassing pattern scanning&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744881-wanna-bypassing-pattern-scanning.html)|`2026-03-26 07:28:00`|`Anti-Cheat Bypass`|
 |[Steam Overlay Performance Monitor vulnerable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744571-steam-overlay-performance-monitor-vulnerable.html)|`2026-03-26 07:26:00`|`Anti-Cheat Bypass`|
 |[screamer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744878-screamer.html)|`2026-03-26 07:18:00`|`Other Games`|
