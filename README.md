@@ -15,6 +15,7 @@
 |26|[Update&#45;proof Internal&#45;External Cheat base for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744356-update-proof-internal-external-cheat-base-cs2.html)|`2026-03-26 06:58:01`|`counter-strike-2-a`|
 |2|[RainReach’s ultimate universal Script titan 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/743862-rainreach-ultimate-universal-script-titan-2-a.html)|`2026-03-26 07:30:07`|`arc-raiders`|
 |7|[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-26 10:07:02`|`valorant`|
+|6|[Steam Overlay Performance Monitor vulnerable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744571-steam-overlay-performance-monitor-vulnerable.html)|`2026-03-26 15:17:22`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-03-26 15:08:00`|`Other Games`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-03-26 15:06:00`|`Call of Duty: Black Ops 3`|
+|[NUI&#45;Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719931-nui-hijack.html)|`2026-03-26 14:53:00`|`Alternative Online Mods`|
+|[Eterspire Cheat and Register](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743342-eterspire-cheat-register.html)|`2026-03-26 14:49:00`|`Other MMORPG and Strategy`|
+|[i need UpdateOnscreenKeyboard and GET&#95;PED&#95;PARACHUTE&#95;STATE pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744845-updateonscreenkeyboard-get_ped_parachute_state-pattern.html)|`2026-03-26 14:47:00`|`Alternative Online Mods`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-26 13:53:00`|`Escape from Tarkov`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-03-26 13:23:00`|`Rust`|
 |[Barrel&#45;Aligned Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744084-barrel-aligned-crosshair.html)|`2026-03-26 13:20:00`|`Escape from Tarkov`|
