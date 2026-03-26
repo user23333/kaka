@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Internal Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744959-fivem-internal-crash.html)|`2026-03-26 20:55:00`|`Alternative Online Mods`|
+|[Dying Light 1 &#40;V1&#46;50&#41; Internal &#124; Aimbot, ESP,&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/688897-dying-light-1-v1-50-internal-aimbot-esp.html)|`2026-03-26 20:50:00`|`Other FPS Games`|
+|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2026-03-26 20:32:00`|`Other FPS Games`|
+|[AMD SVM hypervisor — all reads return 0, EAC CR3 poisoning, 0xeeee0001 &#40;VA not presen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744892-amd-svm-hypervisor-reads-return-0-eac-cr3-poisoning-0xeeee0001-va-presen.html)|`2026-03-26 20:24:00`|`Apex Legends`|
 |[CS2 internal chams filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744934-cs2-internal-chams-filter.html)|`2026-03-26 19:39:00`|`Counter-Strike 2`|
 |[Looking for MP unlock all on PC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/726596-looking-mp-unlock-pc.html)|`2026-03-26 19:34:00`|`Call of Duty: Black Ops 4`|
 |[Where are VAC's binaries??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744871-vacs-binaries.html)|`2026-03-26 19:27:00`|`Anti-Cheat Bypass`|
