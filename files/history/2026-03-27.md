@@ -25,9 +25,21 @@
 |21|[amelease&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53865)|`2026-03-27 00:46:27`|
 |30|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53859)|`2026-03-27 00:46:27`|
 |41|[world&#95;data&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53858)|`2026-03-27 00:46:27`|
+|1|[bodycam dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53894)|`2026-03-27 05:40:57`|
+|1|[ARC Raiders SDK Dumper Patchstate 24&#46;03&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53874)|`2026-03-27 05:40:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-27 05:40:00`|`Minecraft`|
+|[BloodStrike SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745049-bloodstrike-sdk.html)|`2026-03-27 05:35:00`|`Other FPS Games`|
+|[PAC3 Stealers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733786-pac3-stealers.html)|`2026-03-27 05:35:00`|`Garry's Mod`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-03-27 05:31:00`|`Other FPS Games`|
+|[I wanna know about bypassing pattern scanning&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744881-wanna-bypassing-pattern-scanning.html)|`2026-03-27 05:30:00`|`Anti-Cheat Bypass`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-27 05:28:00`|`ARC Raiders`|
+|[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-03-27 05:24:00`|`Escape from Tarkov`|
+|[Lua Script Runtime & Executor Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743887-lua-script-runtime-executor-patterns.html)|`2026-03-27 05:23:00`|`Alternative Online Mods`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-03-27 05:17:00`|`Counter-Strike 2`|
+|[Pixel Dungeon VR &#45; UnityExplorer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745047-pixel-dungeon-vr-unityexplorer.html)|`2026-03-27 05:15:00`|`Other Games`|
 |[Unturned External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743777-unturned-external-base.html)|`2026-03-27 04:57:00`|`Other Games`|
 |[Aimbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744725-aimbot-method.html)|`2026-03-27 04:43:00`|`Rust`|
 |[Rsut C&#35; NoRecoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743426-rsut-norecoil-script.html)|`2026-03-27 04:43:00`|`Rust`|
