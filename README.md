@@ -27,9 +27,16 @@
 |41|[world&#95;data&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53858)|`2026-03-27 00:46:27`|
 |1|[bodycam dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53894)|`2026-03-27 05:40:57`|
 |1|[ARC Raiders SDK Dumper Patchstate 24&#46;03&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53874)|`2026-03-27 05:40:57`|
+|1|[SpecialESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53873)|`2026-03-27 06:23:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-03-27 06:22:00`|`Other FPS Games`|
+|[A New addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/744306-addition-staff-team.html)|`2026-03-27 06:19:00`|`Information and Announcements`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-03-27 06:16:00`|`Other Games`|
+|[black ops 3 mxt menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/742564-black-ops-3-mxt-menu.html)|`2026-03-27 06:09:00`|`Call of Duty: Black Ops 3`|
+|[Payday 2 Trainer Latest Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/744012-payday-2-trainer-update.html)|`2026-03-27 06:09:00`|`Payday 2`|
+|[does anyone know about mod menus on bo3 and why after the update they dont work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/744719-mod-menus-bo3-update-dont.html)|`2026-03-27 06:07:00`|`Call of Duty: Black Ops 3`|
 |[The break in cheat engine table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715790-break-cheat-engine-table.html)|`2026-03-27 05:51:00`|`Other Games`|
 |[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 25/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744656-terraria-1-4-5-regrind-cheat-table-update-25-03-2026-1-a.html)|`2026-03-27 05:48:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-27 05:47:00`|`Rust`|
