@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-27 07:15:00`|`Other Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-27 07:14:00`|`Marvel Rivals`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-27 06:58:00`|`Other MMORPG and Strategy`|
 |[overlay question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743235-overlay-question.html)|`2026-03-27 06:50:00`|`Call of Duty: Black Ops 7`|
 |[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2026-03-27 06:48:00`|`Unreal Engine 4`|
 |[Internal Glow, but only 7&#46;5kb&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745001-internal-glow-7-5kb.html)|`2026-03-27 06:46:00`|`Counter-Strike 2`|
