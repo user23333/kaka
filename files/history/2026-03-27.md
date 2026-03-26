@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-27 02:39:00`|`HELLDIVERS 2`|
+|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-27 02:39:00`|`Apex Legends`|
+|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-03-27 02:36:00`|`Genshin Impact`|
+|[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2026-03-27 02:30:00`|`Team Fortress 2`|
+|[How do I ban evade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734224-ban-evade.html)|`2026-03-27 02:26:00`|`Sea of Thieves`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-03-27 02:23:00`|`ARMA 3`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-27 02:18:00`|`Grand Theft Auto V`|
 |[Fivem Internal Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744959-fivem-internal-crash.html)|`2026-03-27 01:43:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-27 01:43:00`|`Other FPS Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-27 01:37:00`|`Escape from Tarkov`|
