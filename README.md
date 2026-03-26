@@ -28,9 +28,21 @@
 |1|[bodycam dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53894)|`2026-03-27 05:40:57`|
 |1|[ARC Raiders SDK Dumper Patchstate 24&#46;03&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53874)|`2026-03-27 05:40:57`|
 |1|[SpecialESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53873)|`2026-03-27 06:23:11`|
+|1|[FutaGlow&#95;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53906)|`2026-03-27 06:52:05`|
+|1|[kv3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53904)|`2026-03-27 06:52:05`|
+|1|[PersistentLocalPlayerData](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53891)|`2026-03-27 06:52:05`|
+|1|[Cs2InventoryTrackerSourceCode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53885)|`2026-03-27 06:52:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overlay question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/743235-overlay-question.html)|`2026-03-27 06:50:00`|`Call of Duty: Black Ops 7`|
+|[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2026-03-27 06:48:00`|`Unreal Engine 4`|
+|[Internal Glow, but only 7&#46;5kb&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745001-internal-glow-7-5kb.html)|`2026-03-27 06:46:00`|`Counter-Strike 2`|
+|[PMDB Kernel Communication &#40;KM/UM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/744498-pmdb-kernel-communication-km-um.html)|`2026-03-27 06:44:00`|`C and C++`|
+|[keyvalue3 parser&#91;kv3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744960-keyvalue3-parser-kv3.html)|`2026-03-27 06:42:00`|`Counter-Strike 2`|
+|[Free CS2 Total Value inventory tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744861-free-cs2-total-value-inventory-tool.html)|`2026-03-27 06:40:00`|`Counter-Strike 2`|
+|[Plutonium Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/682287-plutonium-internal.html)|`2026-03-27 06:38:00`|`Call of Duty: Modern Warfare 3`|
+|[STRINOVA Color Bot — Free Open Source Color Detection Aim Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744843-strinova-color-bot-free-source-color-detection-aim-tool.html)|`2026-03-27 06:38:00`|`Other FPS Games`|
 |[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-03-27 06:22:00`|`Other FPS Games`|
 |[A New addition to the staff team](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/744306-addition-staff-team.html)|`2026-03-27 06:19:00`|`Information and Announcements`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-03-27 06:16:00`|`Other Games`|
