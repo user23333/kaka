@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-03-26 16:07:00`|`HELLDIVERS 2`|
+|[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-03-26 15:53:00`|`Rainbow Six Siege`|
+|[CS2 TriggerBot Made In Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608773-cs2-triggerbot-python.html)|`2026-03-26 15:48:00`|`Counter-Strike 2 Releases`|
+|[guys i am new dont hate me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744842-guys-am-dont-hate.html)|`2026-03-26 15:48:00`|`Grand Theft Auto V`|
+|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744062-seven-deadly-sins-origin-sdk.html)|`2026-03-26 15:47:00`|`Other MMORPG and Strategy`|
 |[Brawlhalla offsets and structs 2026 &#43; info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737918-brawlhalla-offsets-structs-2026-info.html)|`2026-03-26 15:08:00`|`Other Games`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-03-26 15:06:00`|`Call of Duty: Black Ops 3`|
 |[NUI&#45;Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/719931-nui-hijack.html)|`2026-03-26 14:53:00`|`Alternative Online Mods`|
