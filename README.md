@@ -38,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-03-26 18:01:00`|`Apex Legends`|
+|[Chronicles V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/744416-chronicles-v2.html)|`2026-03-26 17:52:00`|`Call of Duty: Black Ops`|
+|[csgo ChatPrintf color conversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/726234-csgo-chatprintf-color-conversion.html)|`2026-03-26 17:49:00`|`Counterstrike Global Offensive`|
+|[Undetected P2C Injector&#43;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743941-undetected-p2c-injector-source.html)|`2026-03-26 17:46:00`|`Counter-Strike 2`|
+|[From external to internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744784-external-internal.html)|`2026-03-26 17:44:00`|`Alternative Online Mods`|
+|[VALO Hybrid Colorbot V9 &#40;External &#124; Dual FOV &#124; Box Merging&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738899-valo-hybrid-colorbot-v9-external-dual-fov-box-merging.html)|`2026-03-26 17:38:00`|`Valorant`|
 |[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-03-26 16:59:00`|`Other MMORPG and Strategy`|
 |[Aimbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744725-aimbot-method.html)|`2026-03-26 16:58:00`|`Rust`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-26 16:50:00`|`Other FPS Games`|
