@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aimbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744725-aimbot-method.html)|`2026-03-27 04:43:00`|`Rust`|
+|[Rsut C&#35; NoRecoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743426-rsut-norecoil-script.html)|`2026-03-27 04:43:00`|`Rust`|
+|[Ban issue: how to stop getting banned on official servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745035-ban-issue-stop-getting-banned-official-servers.html)|`2026-03-27 04:41:00`|`Rust`|
+|[hooking overlay &#40;i&#46;e&#46; discord or ss&#41; vs DX11 overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744708-hooking-overlay-discord-ss-vs-dx11-overlay.html)|`2026-03-27 04:35:00`|`Rust`|
+|[Eterspire Cheat and Register](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743342-eterspire-cheat-register.html)|`2026-03-27 04:31:00`|`Other MMORPG and Strategy`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-27 04:23:00`|`Counter-Strike 2`|
 |[SendChat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745012-sendchat.html)|`2026-03-27 03:52:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-27 03:51:00`|`Valorant`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-27 03:51:00`|`Overwatch`|
