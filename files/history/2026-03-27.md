@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-27 20:29:00`|`Counter-Strike 2 Releases`|
+|[esp not showing when in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/745079-esp-vehicles.html)|`2026-03-27 20:19:00`|`Battlefield 6`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-03-27 20:13:00`|`Other FPS Games`|
+|[Never Grave: The Witch and The Curse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/745134-grave-witch-curse.html)|`2026-03-27 20:13:00`|`Cheat Engine Tables`|
+|[glb file help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745128-glb-file-help.html)|`2026-03-27 20:10:00`|`Counter-Strike 2`|
 |[The Fisherman &#45; Fishing Planet &#40;Mod Menu, ESP, Alarm Indicator, Instant Catch&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/497933-fisherman-fishing-planet-mod-menu-esp-alarm-indicator-instant-catch.html)|`2026-03-27 19:45:00`|`Other Games`|
 |[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-27 19:15:00`|`Call of Duty: Modern Warfare`|
 |[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-03-27 19:15:00`|`Team Fortress 2`|
