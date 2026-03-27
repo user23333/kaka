@@ -32,9 +32,17 @@
 |1|[kv3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53904)|`2026-03-27 06:52:05`|
 |1|[PersistentLocalPlayerData](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53891)|`2026-03-27 06:52:05`|
 |1|[Cs2InventoryTrackerSourceCode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53885)|`2026-03-27 06:52:05`|
+|5|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53905)|`2026-03-27 09:00:59`|
+|8|[Essentialsv1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53903)|`2026-03-27 09:00:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-27 08:53:00`|`General Programming and Reversing`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-03-27 08:49:00`|`Call of Duty: Black Ops 3`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-03-27 08:49:00`|`HELLDIVERS 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-27 08:48:00`|`Tom Clancy's The Division`|
+|[paladins game launcher &#40; built version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/743287-paladins-game-launcher-built-version.html)|`2026-03-27 08:48:00`|`Paladins`|
+|[valorant 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744820-valorant-152-a.html)|`2026-03-27 08:42:00`|`Valorant`|
 |[esps hotfixed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745027-esps-hotfixed.html)|`2026-03-27 07:45:00`|`Counter-Strike 2`|
 |[Max&#46; safe money amount using various methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745069-max-safe-money-amount-using-various-methods.html)|`2026-03-27 07:40:00`|`Grand Theft Auto V`|
 |[how to make this esp work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745068-esp.html)|`2026-03-27 07:34:00`|`ARC Raiders`|
