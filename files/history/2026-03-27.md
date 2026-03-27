@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-03-27 11:37:00`|`Grand Theft Auto V`|
+|[Help with bone streching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745063-help-bone-streching.html)|`2026-03-27 11:34:00`|`Counter-Strike 2`|
+|[client&#46;dllbase&#43;dwLocalPlayerPawn=0,why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745095-client-dllbase-dwlocalplayerpawn-0-a.html)|`2026-03-27 11:34:00`|`Counter-Strike 2`|
+|[hyperguard 0x18B full chain from securekernel traced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744950-hyperguard-0x18b-chain-securekernel-traced.html)|`2026-03-27 11:16:00`|`Anti-Cheat Bypass`|
+|[Vanguard secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745092-vanguard-secure-boot.html)|`2026-03-27 11:06:00`|`Anti-Cheat Bypass`|
+|[smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745091-smoke-voxels.html)|`2026-03-27 11:01:00`|`Counter-Strike 2`|
 |[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-27 08:53:00`|`General Programming and Reversing`|
 |[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-03-27 08:49:00`|`Call of Duty: Black Ops 3`|
 |[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-03-27 08:49:00`|`HELLDIVERS 2`|
