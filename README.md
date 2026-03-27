@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-03-27 14:39:00`|`Anti-Cheat Bypass`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-27 14:16:00`|`Overwatch`|
+|[valorant delay ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744427-valorant-delay-ban.html)|`2026-03-27 14:09:00`|`Valorant`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-03-27 13:47:00`|`Other FPS Games`|
 |[Overwatch ban hardware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/737401-overwatch-ban-hardware.html)|`2026-03-27 13:20:00`|`Overwatch`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-03-27 12:52:00`|`Forum General`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-27 12:45:00`|`Other FPS Games`|
