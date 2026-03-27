@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Everything I need to Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745188-spoof.html)|`2026-03-28 04:00:00`|`Apex Legends`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-28 03:55:00`|`Other FPS Games`|
+|[Internal Causes Theia Crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745166-internal-causes-theia-crash.html)|`2026-03-28 03:52:00`|`ARC Raiders`|
+|[lf "debug" future in settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745093-lf-debug-future-settings.html)|`2026-03-28 03:46:00`|`ARC Raiders`|
+|[ESP weird with ViewTarget](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745183-esp-weird-viewtarget.html)|`2026-03-28 03:45:00`|`ARC Raiders`|
+|[How is full res UDP slower than moonlight/sunshine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745086-res-udp-slower-moonlight-sunshine.html)|`2026-03-28 03:45:00`|`Valorant`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-03-28 03:44:00`|`DayZ SA`|
+|[Raw Input Buffer turned on Colorbot HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744545-raw-input-buffer-colorbot-help.html)|`2026-03-28 03:43:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-28 03:25:00`|`Other FPS Games`|
 |[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2026-03-28 03:24:00`|`General Programming and Reversing`|
 |[Virtual to Physical Address Translation Explained](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727858-virtual-physical-address-translation-explained.html)|`2026-03-28 03:20:00`|`C and C++`|
