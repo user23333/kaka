@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch ban hardware?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/737401-overwatch-ban-hardware.html)|`2026-03-27 13:20:00`|`Overwatch`|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-03-27 12:52:00`|`Forum General`|
+|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-27 12:45:00`|`Other FPS Games`|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-03-27 12:45:00`|`Apex Legends`|
+|[Fivem internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745102-fivem-internal.html)|`2026-03-27 12:33:00`|`Alternative Online Mods`|
+|[bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745101-bullet-tracers.html)|`2026-03-27 12:31:00`|`Counter-Strike 2`|
+|[The End Of Magic Bullets On Unturned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738121-magic-bullets-unturned.html)|`2026-03-27 12:20:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-03-27 11:37:00`|`Grand Theft Auto V`|
 |[Help with bone streching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745063-help-bone-streching.html)|`2026-03-27 11:34:00`|`Counter-Strike 2`|
 |[client&#46;dllbase&#43;dwLocalPlayerPawn=0,why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745095-client-dllbase-dwlocalplayerpawn-0-a.html)|`2026-03-27 11:34:00`|`Counter-Strike 2`|
