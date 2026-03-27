@@ -38,6 +38,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-27 21:48:00`|`Counter-Strike 2`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-03-27 21:44:00`|`Counter-Strike 2 Releases`|
+|[setpadcanswitchweapon native](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745137-setpadcanswitchweapon-native.html)|`2026-03-27 21:44:00`|`Alternative Online Mods`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-27 21:40:00`|`Escape from Tarkov`|
+|[How Do Cheat Developers Evade Virtual Machine Detection by Game Anti&#45;Cheat System?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744078-cheat-developers-evade-virtual-machine-detection-game-anti-cheat-system.html)|`2026-03-27 21:38:00`|`Anti-Cheat Bypass`|
+|[&#91;Rust&#93; DMA HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743819-rust-dma-hwid-spoofer.html)|`2026-03-27 21:35:00`|`Anti-Cheat Bypass`|
+|[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-03-27 21:34:00`|`Among Us`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-27 20:29:00`|`Counter-Strike 2 Releases`|
 |[esp not showing when in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/745079-esp-vehicles.html)|`2026-03-27 20:19:00`|`Battlefield 6`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-03-27 20:13:00`|`Other FPS Games`|
