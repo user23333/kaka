@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2026-03-28 01:58:00`|`Call of Duty: Modern Warfare`|
+|[MAUI'S AI THE FINALS COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/743944-mauis-ai-finals-colorbot.html)|`2026-03-28 01:55:00`|`THE FINALS`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-28 01:52:00`|`Counter-Strike 2 Releases`|
+|[setpadcanswitchweapon native](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745137-setpadcanswitchweapon-native.html)|`2026-03-28 01:52:00`|`Alternative Online Mods`|
+|[Native Hook disabling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745169-native-hook-disabling.html)|`2026-03-28 01:49:00`|`Alternative Online Mods`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-03-28 01:48:00`|`Apex Legends`|
+|[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-03-28 01:48:00`|`Anti-Cheat Bypass`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-28 01:47:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-28 01:07:00`|`Escape from Tarkov`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-28 01:07:00`|`Valorant`|
 |[Region lock bypass methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744051-region-lock-bypass-methods.html)|`2026-03-28 01:02:00`|`Escape from Tarkov`|
