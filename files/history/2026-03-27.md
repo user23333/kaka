@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Fisherman &#45; Fishing Planet &#40;Mod Menu, ESP, Alarm Indicator, Instant Catch&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/497933-fisherman-fishing-planet-mod-menu-esp-alarm-indicator-instant-catch.html)|`2026-03-27 19:45:00`|`Other Games`|
+|[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-27 19:15:00`|`Call of Duty: Modern Warfare`|
+|[Skill Issue Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/735492-skill-issue-linux.html)|`2026-03-27 19:15:00`|`Team Fortress 2`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-03-27 18:59:00`|`Other MMORPG and Strategy`|
 |[FiveM BannedWare External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/737855-fivem-bannedware-external.html)|`2026-03-27 18:54:00`|`Alternative Online Mods`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-27 18:30:00`|`Other FPS Games`|
