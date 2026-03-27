@@ -11,6 +11,7 @@
 |6|[Steam Overlay Performance Monitor vulnerable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744571-steam-overlay-performance-monitor-vulnerable.html)|`2026-03-28 00:11:19`|`anti-cheat-bypass`|
 |7|[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-28 00:11:19`|`valorant`|
 |26|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-28 00:11:19`|`counter-strike-2-a`|
+|27|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-28 01:08:08`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-28 01:07:00`|`Escape from Tarkov`|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-03-28 01:07:00`|`Valorant`|
+|[Region lock bypass methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744051-region-lock-bypass-methods.html)|`2026-03-28 01:02:00`|`Escape from Tarkov`|
+|[How to change actual knife model?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742835-change-actual-knife-model.html)|`2026-03-28 01:02:00`|`Counter-Strike 2`|
+|[Temp Spoofer Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745150-temp-spoofer-driver.html)|`2026-03-28 00:57:00`|`Anti-Cheat Bypass`|
+|[Max&#46; safe money amount using various methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745069-max-safe-money-amount-using-various-methods.html)|`2026-03-28 00:51:00`|`Grand Theft Auto V`|
+|[guys i am new dont hate me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744842-guys-am-dont-hate.html)|`2026-03-28 00:50:00`|`Grand Theft Auto V`|
 |[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2026-03-28 00:05:00`|`Other MMORPG and Strategy`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-28 00:04:00`|`Alternative Online Mods`|
 |[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-27 23:59:00`|`Apex Legends`|
