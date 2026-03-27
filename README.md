@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-28 03:25:00`|`Other FPS Games`|
+|[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2026-03-28 03:24:00`|`General Programming and Reversing`|
+|[Virtual to Physical Address Translation Explained](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/727858-virtual-physical-address-translation-explained.html)|`2026-03-28 03:20:00`|`C and C++`|
+|[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-03-28 03:19:00`|`Other MMORPG and Strategy`|
+|[ESP without Drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745176-esp-drivers.html)|`2026-03-28 03:17:00`|`Anti-Cheat Bypass`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-28 03:16:00`|`Counter-Strike 2`|
 |[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744062-seven-deadly-sins-origin-sdk.html)|`2026-03-28 02:54:00`|`Other MMORPG and Strategy`|
 |[Xenon Client 1&#46;8&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/739738-xenon-client-1-8-9-a.html)|`2026-03-28 02:53:00`|`Minecraft`|
 |[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-28 02:50:00`|`Minecraft`|
