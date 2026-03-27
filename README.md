@@ -12,6 +12,7 @@
 |7|[latest vgc with imports fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744091-vgc-imports-fixed.html)|`2026-03-28 00:11:19`|`valorant`|
 |26|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-28 00:11:19`|`counter-strike-2-a`|
 |27|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-28 01:08:08`|`apex-legends`|
+|13|[MW 2019 Decryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744174-mw-2019-decryption-dumper.html)|`2026-03-28 06:52:58`|`call-of-duty-modern-warfare`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,15 @@
 |6|[bodycam dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53894)|`2026-03-28 00:11:19`|
 |2|[PersistentLocalPlayerData](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53891)|`2026-03-28 00:11:19`|
 |3|[CustomRules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53889)|`2026-03-28 00:11:19`|
+|1|[SRCW Unlocker v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53899)|`2026-03-28 06:52:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-03-28 06:50:00`|`Counter-Strike 2`|
+|[MY HERO ULTRA RUMBLE CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743480-hero-ultra-rumble-ct.html)|`2026-03-28 06:46:00`|`Other Games`|
+|[Create External UD DevTools FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745215-create-external-ud-devtools-fivem.html)|`2026-03-28 06:37:00`|`Alternative Online Mods`|
+|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-03-28 06:35:00`|`Tom Clancy's The Division`|
+|[Newbie trying to learn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745185-newbie-trying-learn.html)|`2026-03-28 06:25:00`|`Counter-Strike 2`|
 |[A simple heirloom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744561-simple-heirloom.html)|`2026-03-28 06:15:00`|`Apex Legends`|
 |[FRAGPUNK Color Bot — Open Source Color&#45;Based Aim Assist Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744841-fragpunk-color-bot-source-color-based-aim-assist-tool.html)|`2026-03-28 06:14:00`|`Other FPS Games`|
 |[Detect every intel vtx hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744859-detect-intel-vtx-hypervisor.html)|`2026-03-28 06:09:00`|`Anti-Cheat Bypass`|
