@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744062-seven-deadly-sins-origin-sdk.html)|`2026-03-28 02:54:00`|`Other MMORPG and Strategy`|
+|[Xenon Client 1&#46;8&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/739738-xenon-client-1-8-9-a.html)|`2026-03-28 02:53:00`|`Minecraft`|
+|[ChudWare &#45; 1&#46;8&#46;9 forge based cheat for minecraft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/741391-chudware-1-8-9-forge-based-cheat-minecraft.html)|`2026-03-28 02:50:00`|`Minecraft`|
+|[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-03-28 02:49:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-28 02:46:00`|`Marvel Rivals`|
+|[cheat mw19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/687092-cheat-mw19.html)|`2026-03-28 02:39:00`|`Call of Duty: Modern Warfare`|
+|[Shinoko&#45;SS Global &#91; StellaSora Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745179-shinoko-ss-global-stellasora-cheat.html)|`2026-03-28 02:36:00`|`Other MMORPG and Strategy`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-03-28 02:36:00`|`Other Games`|
 |[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2026-03-28 01:58:00`|`Call of Duty: Modern Warfare`|
 |[MAUI'S AI THE FINALS COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/743944-mauis-ai-finals-colorbot.html)|`2026-03-28 01:55:00`|`THE FINALS`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-03-28 01:52:00`|`Counter-Strike 2 Releases`|
