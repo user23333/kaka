@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help improve this AI aimbot&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744458-help-improve-ai-aimbot.html)|`2026-03-28 05:50:00`|`Valorant`|
+|[Heartopia &#45; WEALLSKID Mod Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742257-heartopia-weallskid-mod-menu-v3-0-a.html)|`2026-03-28 05:49:00`|`Other Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-03-28 05:48:00`|`Other FPS Games`|
+|[How Do Cheat Developers Evade Virtual Machine Detection by Game Anti&#45;Cheat System?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744078-cheat-developers-evade-virtual-machine-detection-game-anti-cheat-system.html)|`2026-03-28 05:46:00`|`Anti-Cheat Bypass`|
+|[ESP,AIMBOT,UNLOCK TEMP &#43; DLC UNLOCK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/744164-esp-aimbot-unlock-temp-dlc-unlock.html)|`2026-03-28 05:44:00`|`Call of Duty: Black Ops 4`|
+|[All Apex Icons &#40;imgui&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744083-apex-icons-imgui.html)|`2026-03-28 05:40:00`|`Apex Legends`|
+|[CUserCmd Struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745174-cusercmd-struct.html)|`2026-03-28 05:40:00`|`Counter-Strike 2`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-28 05:36:00`|`Overwatch`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745030-chams.html)|`2026-03-28 05:29:00`|`Counter-Strike 2`|
 |[Rocket League Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/179108-rocket-league-reversal-structs-offsets.html)|`2026-03-28 05:19:00`|`Other FPS Games`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-03-28 05:18:00`|`Tom Clancy's The Division`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-28 05:15:00`|`Other FPS Games`|
