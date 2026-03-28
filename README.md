@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Edge Jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745194-edge-jump.html)|`2026-03-29 06:28:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-29 06:12:00`|`Counter-Strike 2`|
+|[Rounded skeleton esp &#40;smoothed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745391-rounded-skeleton-esp-smoothed.html)|`2026-03-29 06:09:00`|`Counter-Strike 2`|
+|[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-03-29 06:06:00`|`General Programming and Reversing`|
 |[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-29 05:57:00`|`Call of Duty: Modern Warfare`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-03-29 05:52:00`|`Overwatch`|
 |[Hell let loose logitech recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745388-hell-loose-logitech-recoil-script.html)|`2026-03-29 05:50:00`|`Other FPS Games`|
