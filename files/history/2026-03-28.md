@@ -13,6 +13,7 @@
 |26|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-28 00:11:19`|`counter-strike-2-a`|
 |27|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-28 01:08:08`|`apex-legends`|
 |13|[MW 2019 Decryption Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744174-mw-2019-decryption-dumper.html)|`2026-03-28 06:52:58`|`call-of-duty-modern-warfare`|
+|3|[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-28 15:29:39`|`call-of-duty-modern-warfare`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 internal chams filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744934-cs2-internal-chams-filter.html)|`2026-03-28 15:24:00`|`Counter-Strike 2`|
+|[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-28 15:21:00`|`Rust`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-28 15:14:00`|`Marvel Rivals`|
+|[Project Zomboid B42: Chronicles V2 &#40;Ghost Binds &#43; Optimized ESP&#41; &#40;Buggy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745277-project-zomboid-b42-chronicles-v2-ghost-binds-optimized-esp-buggy.html)|`2026-03-28 14:56:00`|`Other FPS Games`|
+|[VALORANT Color Bot — Open Source Pixel&#45;Based Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744844-valorant-color-bot-source-pixel-based-aim-assist.html)|`2026-03-28 14:53:00`|`Valorant`|
+|[PlutoIW5 / Plutonium MW3 External WallHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/399456-plutoiw5-plutonium-mw3-external-wallhack.html)|`2026-03-28 14:37:00`|`Call of Duty: Modern Warfare 3`|
 |[OP Builds with ED Features CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741223-op-builds-ed-features-ct.html)|`2026-03-28 14:33:00`|`HELLDIVERS 2`|
 |[Has the mouseclick method been patched by anti&#45;cheat？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/743581-mouseclick-method-patched-anti-cheat.html)|`2026-03-28 14:29:00`|`League of Legends`|
 |[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2026-03-28 14:26:00`|`Call of Duty: Modern Warfare`|
