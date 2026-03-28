@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Osu cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744504-osu-cheat.html)|`2026-03-28 16:38:00`|`Other Games`|
+|[Mask of Soul](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/745284-mask-soul.html)|`2026-03-28 16:35:00`|`Cheat Engine Tables`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745283-chams.html)|`2026-03-28 16:34:00`|`Counter-Strike 2`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-03-28 16:34:00`|`Alternative Online Mods`|
+|[need some cheat for legacy easy to use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745269-cheat-legacy-easy.html)|`2026-03-28 16:33:00`|`Grand Theft Auto V`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-03-28 16:32:00`|`Other FPS Games`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2026-03-28 16:31:00`|`Apex Legends`|
+|[I tried spoof but still got van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744758-tried-spoof-van-152-a.html)|`2026-03-28 16:24:00`|`Valorant`|
 |[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-03-28 15:54:00`|`CrossFire`|
 |[CS2 internal chams filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744934-cs2-internal-chams-filter.html)|`2026-03-28 15:24:00`|`Counter-Strike 2`|
 |[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-28 15:21:00`|`Rust`|
