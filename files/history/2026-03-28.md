@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-03-28 19:51:00`|`Deadlock`|
+|[External Silent Aim &#45; missing moving targets &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745198-external-silent-aim-missing-moving-targets-fivem.html)|`2026-03-28 19:43:00`|`Alternative Online Mods`|
+|[&#40;New&#41; YAPYAP Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/737846-yapyap-cheat-menu.html)|`2026-03-28 19:39:00`|`Other Games`|
+|[THE CUBE: SAVE US &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744016-cube-save-reversal-structs-offsets.html)|`2026-03-28 19:31:00`|`Other FPS Games`|
 |[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-03-28 19:27:00`|`Counter-Strike 2`|
 |[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2026-03-28 19:22:00`|`Other FPS Games`|
 |[Transitioning from using menus &#40;YimMenu/Kiddion's&#41; to understanding how they work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745278-transitioning-using-menus-yimmenu-kiddions-understanding.html)|`2026-03-28 19:20:00`|`Grand Theft Auto V`|
