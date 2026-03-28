@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-28 08:01:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-03-28 07:49:00`|`Apex Legends`|
 |[Rust Alkad Cheat, 2622 &#45; 25 March and further with updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745070-rust-alkad-cheat-2622-25-march-updates.html)|`2026-03-28 07:45:00`|`Other Games`|
 |[Chams appearing completely black &#40;lighting problem&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745236-chams-appearing-completely-black-lighting.html)|`2026-03-28 07:38:00`|`Garry's Mod`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-03-28 07:36:00`|`Other FPS Games`|
