@@ -13,6 +13,7 @@
 |27|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-29 00:29:35`|`apex-legends`|
 |6|[DA Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744214-da-lobbies.html)|`2026-03-29 03:34:25`|`call-of-duty-modern-warfare`|
 |15|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-03-29 04:48:39`|`counter-strike-2-a`|
+|13|[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-03-29 07:48:36`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will I get banned? &#40;see post for more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745330-banned-post.html)|`2026-03-29 07:39:00`|`Call of Duty: Modern Warfare`|
+|[altv c&#43;&#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745399-altv-sdk.html)|`2026-03-29 07:28:00`|`Alternative Online Mods`|
+|[Rust Clean AutoUpdate ESP w driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745149-rust-clean-autoupdate-esp-driver.html)|`2026-03-29 07:22:00`|`Rust`|
 |[Offsets are not working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/745394-offsets.html)|`2026-03-29 06:51:00`|`DayZ SA`|
 |[How can I get Internal Chams materials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745393-internal-chams-materials.html)|`2026-03-29 06:51:00`|`Counter-Strike 2`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-03-29 06:42:00`|`Counter-Strike 2 Releases`|
