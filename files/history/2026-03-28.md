@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-28 18:48:00`|`Other FPS Games`|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-03-28 18:36:00`|`CounterStrike Source`|
+|[Asking questions to staff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/745293-questions-staff.html)|`2026-03-28 18:25:00`|`Forum General`|
+|[Other players don’t show?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745292-players-don.html)|`2026-03-28 18:19:00`|`Call of Duty: Modern Warfare`|
 |[CS2 Internal Cheat With Skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744206-cs2-internal-cheat-skinchanger.html)|`2026-03-28 18:12:00`|`Counter-Strike 2`|
 |[Practice versus AI progression XP farm bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/745291-practice-versus-ai-progression-xp-farm-bot.html)|`2026-03-28 18:09:00`|`Overwatch`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-03-28 18:03:00`|`Counter-Strike 2`|
