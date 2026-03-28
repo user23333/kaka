@@ -31,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OP Builds with ED Features CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741223-op-builds-ed-features-ct.html)|`2026-03-28 14:33:00`|`HELLDIVERS 2`|
+|[Has the mouseclick method been patched by anti&#45;cheat？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/743581-mouseclick-method-patched-anti-cheat.html)|`2026-03-28 14:29:00`|`League of Legends`|
+|[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2026-03-28 14:26:00`|`Call of Duty: Modern Warfare`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-03-28 14:26:00`|`HELLDIVERS 2`|
+|[remove max player count of 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/745085-remove-max-player-count-4-a.html)|`2026-03-28 14:23:00`|`HELLDIVERS 2`|
+|[Arduino Leonardo Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745274-arduino-leonardo-spoofer.html)|`2026-03-28 14:21:00`|`Valorant`|
+|[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2026-03-28 14:20:00`|`Other MMORPG and Strategy`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-03-28 14:20:00`|`Other MMORPG and Strategy`|
+|[Injectors: FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744007-injectors-fivem.html)|`2026-03-28 14:18:00`|`Alternative Online Mods`|
 |[Valorant hwid ban 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745256-valorant-hwid-ban-152-a.html)|`2026-03-28 13:37:00`|`Valorant`|
 |[SOT Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/745271-sot-unlocker.html)|`2026-03-28 13:34:00`|`Sea of Thieves`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-28 13:33:00`|`Other FPS Games`|
