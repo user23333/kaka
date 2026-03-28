@@ -26,9 +26,16 @@
 |10|[kv3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53904)|`2026-03-29 00:29:35`|
 |238|[Essentialsv1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53903)|`2026-03-29 00:29:35`|
 |13|[SRCW Unlocker v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53899)|`2026-03-29 00:29:35`|
+|5|[DARKSIDE v1 Alpha ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53964)|`2026-03-29 06:55:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets are not working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/745394-offsets.html)|`2026-03-29 06:51:00`|`DayZ SA`|
+|[How can I get Internal Chams materials?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745393-internal-chams-materials.html)|`2026-03-29 06:51:00`|`Counter-Strike 2`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-03-29 06:42:00`|`Counter-Strike 2 Releases`|
+|[Latest YimMenu 1&#46;72 for GTA V Online &#40;Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729605-yimmenu-1-72-gta-online-legacy.html)|`2026-03-29 06:36:00`|`Grand Theft Auto V`|
+|[Surroundead internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730642-surroundead-internal.html)|`2026-03-29 06:35:00`|`Other FPS Games`|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-03-29 06:29:00`|`CounterStrike Source`|
 |[Edge Jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745194-edge-jump.html)|`2026-03-29 06:28:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-29 06:12:00`|`Counter-Strike 2`|
 |[Rounded skeleton esp &#40;smoothed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745391-rounded-skeleton-esp-smoothed.html)|`2026-03-29 06:09:00`|`Counter-Strike 2`|
