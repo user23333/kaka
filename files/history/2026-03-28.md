@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams — Material swap works but through&#45;walls doesn't](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745323-chams-material-swap-walls-doesnt.html)|`2026-03-28 23:01:00`|`Counter-Strike 2`|
+|[Ban issue: how to stop getting banned on official servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745035-ban-issue-stop-getting-banned-official-servers.html)|`2026-03-28 22:56:00`|`Rust`|
+|[Server plugins detecting thick bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745319-server-plugins-detecting-thick-bullet.html)|`2026-03-28 22:55:00`|`Rust`|
+|[Looking for Internal Skin/Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745318-looking-internal-skin-inventory-changer.html)|`2026-03-28 22:54:00`|`Counter-Strike 2`|
 |[Auto Updating FName &#40;no emulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745314-auto-updating-fname-emulation.html)|`2026-03-28 22:21:00`|`Valorant`|
 |[Valorant hwid ban 152 spoffer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745182-valorant-hwid-ban-152-spoffer.html)|`2026-03-28 22:08:00`|`Valorant`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-28 22:04:00`|`Call of Duty: Black Ops 7`|
