@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Silent Aim &#45; missing moving targets &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745198-external-silent-aim-missing-moving-targets-fivem.html)|`2026-03-29 04:08:00`|`Alternative Online Mods`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-29 04:03:00`|`Call of Duty: Black Ops 7`|
+|[Windows 11 Compatibility: Black Screen with External DX11 Overlay in Valorant &#40;Works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745364-windows-11-compatibility-black-screen-external-dx11-overlay-valorant.html)|`2026-03-29 04:00:00`|`Valorant`|
 |[glowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745362-glowing.html)|`2026-03-29 03:51:00`|`Apex Legends`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-29 03:44:00`|`Other FPS Games`|
 |[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-03-29 03:40:00`|`Other Single Player Games`|
