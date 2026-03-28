@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant hwid ban 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745256-valorant-hwid-ban-152-a.html)|`2026-03-28 13:37:00`|`Valorant`|
+|[SOT Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/745271-sot-unlocker.html)|`2026-03-28 13:34:00`|`Sea of Thieves`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-03-28 13:33:00`|`Other FPS Games`|
+|[Question ? Working ESP for PRime Competative VAC LivE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744594-question-esp-prime-competative-vac-live.html)|`2026-03-28 13:31:00`|`Counter-Strike 2 Releases`|
+|[Grand Theft Auto V Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144819-grand-theft-auto-scripting.html)|`2026-03-28 12:36:00`|`Grand Theft Auto V`|
 |[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-03-28 12:22:00`|`Among Us`|
 |[paladins game launcher &#40; built version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/743287-paladins-game-launcher-built-version.html)|`2026-03-28 12:13:00`|`Paladins`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-28 12:06:00`|`Other MMORPG and Strategy`|
