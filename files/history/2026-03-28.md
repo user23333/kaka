@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-28 22:04:00`|`Call of Duty: Black Ops 7`|
+|[Guide needed for Legacy 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744928-guide-legacy-1-72-a.html)|`2026-03-28 22:03:00`|`Grand Theft Auto V`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-03-28 22:02:00`|`Rust`|
+|[Anti&#45;cheat systems on Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/745313-anti-cheat-systems-deadlock.html)|`2026-03-28 21:54:00`|`Deadlock`|
+|[source SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744911-source-sdk.html)|`2026-03-28 21:54:00`|`Counter-Strike 2`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-03-28 21:49:00`|`Rainbow Six Siege`|
+|[Latest offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/740739-offsets.html)|`2026-03-28 21:46:00`|`Rainbow Six Siege`|
 |[Getting started with Cheats in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/745268-getting-started-cheats-2026-a.html)|`2026-03-28 21:15:00`|`Escape from Tarkov`|
 |[Movement Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745304-movement-cheats.html)|`2026-03-28 21:15:00`|`Counter-Strike 2`|
 |[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-03-28 21:14:00`|`Anti-Cheat Bypass`|
