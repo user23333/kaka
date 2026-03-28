@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-03-28 23:12:00`|`Escape from Tarkov`|
 |[Chams — Material swap works but through&#45;walls doesn't](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745323-chams-material-swap-walls-doesnt.html)|`2026-03-28 23:01:00`|`Counter-Strike 2`|
 |[Ban issue: how to stop getting banned on official servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745035-ban-issue-stop-getting-banned-official-servers.html)|`2026-03-28 22:56:00`|`Rust`|
 |[Server plugins detecting thick bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745319-server-plugins-detecting-thick-bullet.html)|`2026-03-28 22:55:00`|`Rust`|
