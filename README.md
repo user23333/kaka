@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-03-28 19:27:00`|`Counter-Strike 2`|
+|[&#91;Updated&#93; Dead by Daylight Unlock All DLC's and Skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/635513-updated-dead-daylight-unlock-dlcs-skins.html)|`2026-03-28 19:22:00`|`Other FPS Games`|
+|[Transitioning from using menus &#40;YimMenu/Kiddion's&#41; to understanding how they work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745278-transitioning-using-menus-yimmenu-kiddions-understanding.html)|`2026-03-28 19:20:00`|`Grand Theft Auto V`|
 |[hooking overlay &#40;i&#46;e&#46; discord or ss&#41; vs DX11 overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744708-hooking-overlay-discord-ss-vs-dx11-overlay.html)|`2026-03-28 19:01:00`|`Rust`|
 |[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-28 18:55:00`|`Call of Duty: Modern Warfare`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-03-28 18:48:00`|`Other FPS Games`|
