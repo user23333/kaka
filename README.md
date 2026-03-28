@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto Updating FName &#40;no emulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745314-auto-updating-fname-emulation.html)|`2026-03-28 22:21:00`|`Valorant`|
+|[Valorant hwid ban 152 spoffer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745182-valorant-hwid-ban-152-spoffer.html)|`2026-03-28 22:08:00`|`Valorant`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-28 22:04:00`|`Call of Duty: Black Ops 7`|
 |[Guide needed for Legacy 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744928-guide-legacy-1-72-a.html)|`2026-03-28 22:03:00`|`Grand Theft Auto V`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-03-28 22:02:00`|`Rust`|
