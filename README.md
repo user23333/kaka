@@ -29,9 +29,16 @@
 |3|[CustomRules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53889)|`2026-03-28 00:11:19`|
 |1|[SRCW Unlocker v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53899)|`2026-03-28 06:52:58`|
 |4|[Unturned External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53953)|`2026-03-28 10:43:42`|
+|1|[Rules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53963)|`2026-03-28 21:35:00`|
+|6|[decrypted metadata 1&#46;0&#46;4&#46;0&#46;44005](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53960)|`2026-03-28 21:35:00`|
+|1|[Mask of Soul CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53959)|`2026-03-28 21:35:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting started with Cheats in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/745268-getting-started-cheats-2026-a.html)|`2026-03-28 21:15:00`|`Escape from Tarkov`|
+|[Movement Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745304-movement-cheats.html)|`2026-03-28 21:15:00`|`Counter-Strike 2`|
+|[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-03-28 21:14:00`|`Anti-Cheat Bypass`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-28 21:10:00`|`Overwatch`|
 |[hyperguard 0x18B full chain from securekernel traced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744950-hyperguard-0x18b-chain-securekernel-traced.html)|`2026-03-28 20:29:00`|`Anti-Cheat Bypass`|
 |[SUP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/745305-sup.html)|`2026-03-28 20:29:00`|`Introductions`|
 |[seed trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745306-seed-trigger.html)|`2026-03-28 20:26:00`|`Counter-Strike 2`|
