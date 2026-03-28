@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-03-28 12:22:00`|`Among Us`|
+|[paladins game launcher &#40; built version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/743287-paladins-game-launcher-built-version.html)|`2026-03-28 12:13:00`|`Paladins`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-28 12:06:00`|`Other MMORPG and Strategy`|
+|[Gman](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735268-gman.html)|`2026-03-28 11:48:00`|`Garry's Mod`|
 |[DMA SIMPLE ORBWALKER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745240-dma-simple-orbwalker.html)|`2026-03-28 10:13:00`|`League of Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-28 10:07:00`|`Rainbow Six Siege`|
 |[&#91;VOTE&#93; April 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/745117-vote-april-2026-month.html)|`2026-03-28 10:07:00`|`Member of the Month`|
