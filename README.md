@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-03-29 00:56:00`|`Team Fortress 2`|
+|[Looking for Internal Skin/Inventory Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745318-looking-internal-skin-inventory-changer.html)|`2026-03-29 00:54:00`|`Counter-Strike 2`|
+|[Vanguard secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745092-vanguard-secure-boot.html)|`2026-03-29 00:53:00`|`Anti-Cheat Bypass`|
+|[any cheat for 64 bit cs source that has norecoil and no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/745340-cheat-64-bit-cs-source-norecoil-spread.html)|`2026-03-29 00:50:00`|`CounterStrike Source`|
+|[authotkey script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/745272-authotkey-script.html)|`2026-03-29 00:47:00`|`Call of Duty: Black Ops 7`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-03-29 00:45:00`|`Rainbow Six Siege`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-29 00:45:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-03-29 00:43:00`|`Rust`|
 |[Seven Deadly Sins: Origin SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744062-seven-deadly-sins-origin-sdk.html)|`2026-03-29 00:28:00`|`Other MMORPG and Strategy`|
 |[Apex Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745337-apex-ban.html)|`2026-03-29 00:23:00`|`Apex Legends`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-03-29 00:16:00`|`Escape from Tarkov`|
