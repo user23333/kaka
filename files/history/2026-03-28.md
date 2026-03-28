@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fixing stack cookie &#40;BSOD&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745307-fixing-stack-cookie-bsod.html)|`2026-03-28 23:57:00`|`Anti-Cheat Bypass`|
+|[Will I get banned? &#40;see post for more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745330-banned-post.html)|`2026-03-28 23:40:00`|`Call of Duty: Modern Warfare`|
 |[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-03-28 23:12:00`|`Escape from Tarkov`|
 |[Chams — Material swap works but through&#45;walls doesn't](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745323-chams-material-swap-walls-doesnt.html)|`2026-03-28 23:01:00`|`Counter-Strike 2`|
 |[Ban issue: how to stop getting banned on official servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745035-ban-issue-stop-getting-banned-official-servers.html)|`2026-03-28 22:56:00`|`Rust`|
