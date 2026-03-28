@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745362-glowing.html)|`2026-03-29 03:51:00`|`Apex Legends`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-03-29 03:44:00`|`Other FPS Games`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-03-29 03:40:00`|`Other Single Player Games`|
+|[Barrel&#45;Aligned Crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744084-barrel-aligned-crosshair.html)|`2026-03-29 03:38:00`|`Escape from Tarkov`|
 |[Updated Gmod cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745036-updated-gmod-cheats.html)|`2026-03-29 03:33:00`|`Garry's Mod`|
 |[Updating instance id / uuid of an item](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745361-updating-instance-id-uuid-item.html)|`2026-03-29 03:25:00`|`ARC Raiders`|
 |[How can I improve my aimbot to accurately identify obstacles?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745350-improve-aimbot-accurately-identify-obstacles.html)|`2026-03-29 03:23:00`|`Apex Legends`|
