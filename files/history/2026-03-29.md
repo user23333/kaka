@@ -12,6 +12,7 @@
 |4|[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-29 00:29:35`|`call-of-duty-modern-warfare`|
 |27|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-03-29 00:29:35`|`apex-legends`|
 |6|[DA Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744214-da-lobbies.html)|`2026-03-29 03:34:25`|`call-of-duty-modern-warfare`|
+|15|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-03-29 04:48:39`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-03-29 04:48:00`|`Other FPS Games`|
+|[external seed triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745375-external-seed-triggerbot.html)|`2026-03-29 04:40:00`|`Counter-Strike 2`|
+|[External Or Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745329-external-internal.html)|`2026-03-29 04:34:00`|`Counter-Strike 2`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-03-29 04:33:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-03-29 04:31:00`|`Other Games`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-03-29 04:29:00`|`Other FPS Games`|
+|[finding GObjects in heavily obfuscated UE3 game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/745369-finding-gobjects-heavily-obfuscated-ue3-game.html)|`2026-03-29 04:26:00`|`General Programming and Reversing`|
 |[External Silent Aim &#45; missing moving targets &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745198-external-silent-aim-missing-moving-targets-fivem.html)|`2026-03-29 04:08:00`|`Alternative Online Mods`|
 |[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-03-29 04:03:00`|`Call of Duty: Black Ops 7`|
 |[Windows 11 Compatibility: Black Screen with External DX11 Overlay in Valorant &#40;Works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745364-windows-11-compatibility-black-screen-external-dx11-overlay-valorant.html)|`2026-03-29 04:00:00`|`Valorant`|
