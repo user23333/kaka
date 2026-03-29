@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Will I get banned? &#40;see post for more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745330-banned-post.html)|`2026-03-30 04:46:00`|`Call of Duty: Modern Warfare`|
+|[TPM Spoofing &#45; No Serial Leaks&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745541-tpm-spoofing-serial-leaks.html)|`2026-03-30 04:46:00`|`Anti-Cheat Bypass`|
+|[Rust Clean AutoUpdate ESP w driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745149-rust-clean-autoupdate-esp-driver.html)|`2026-03-30 04:39:00`|`Rust`|
+|[Hardware ID Identifiers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745539-hardware-id-identifiers.html)|`2026-03-30 04:37:00`|`Valorant`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-03-30 04:35:00`|`Grand Theft Auto V`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-03-30 04:06:00`|`Counter-Strike 2 Releases`|
 |[Anti&#45;cheat systems on Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/745313-anti-cheat-systems-deadlock.html)|`2026-03-30 04:04:00`|`Deadlock`|
 |[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2026-03-30 03:58:00`|`Other Games`|
