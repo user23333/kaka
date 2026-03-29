@@ -12,6 +12,7 @@
 |7|[VALORANT Color Bot — Open Source Pixel&#45;Based Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744844-valorant-color-bot-source-pixel-based-aim-assist.html)|`2026-03-30 00:17:00`|`valorant`|
 |5|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-03-30 00:17:00`|`anti-cheat-bypass`|
 |5|[&#91;Release&#93; V8 Lightweight Python Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744494-release-v8-lightweight-python-triggerbot.html)|`2026-03-30 03:57:40`|`valorant`|
+|7|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-30 04:25:42`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-03-30 04:06:00`|`Counter-Strike 2 Releases`|
+|[Anti&#45;cheat systems on Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/745313-anti-cheat-systems-deadlock.html)|`2026-03-30 04:04:00`|`Deadlock`|
+|[Osussist v3 MultiHack for osu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/671577-osussist-v3-multihack-osu.html)|`2026-03-30 03:58:00`|`Other Games`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-30 03:56:00`|`Marvel Rivals`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-03-30 03:40:00`|`Counter-Strike 2`|
 |[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-03-30 03:39:00`|`Valorant`|
