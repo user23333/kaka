@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-03-29 16:52:00`|`Other FPS Games`|
+|[CS2 SkinChanger issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745443-cs2-skinchanger-issue.html)|`2026-03-29 16:43:00`|`Counter-Strike 2`|
+|[Use DMA without a fuser/OBS &#40;poor mans way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/679488-dma-fuser-obs-poor-mans.html)|`2026-03-29 16:35:00`|`PC Hardware`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2026-03-29 16:14:00`|`Valorant`|
 |[guys i am new dont hate me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/744842-guys-am-dont-hate.html)|`2026-03-29 15:48:00`|`Grand Theft Auto V`|
 |[Rewasd Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745438-rewasd-question.html)|`2026-03-29 15:45:00`|`Apex Legends`|
 |[Can you help me or send an EXTERNAL for the game BLOOD STRIKE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744964-help-send-external-game-blood-strike.html)|`2026-03-29 15:28:00`|`Other FPS Games`|
