@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vehicle spawner externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707570-vehicle-spawner-externally.html)|`2026-03-30 07:31:00`|`Alternative Online Mods`|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-03-30 07:28:00`|`Valorant`|
+|[hyperguard 0x18B full chain from securekernel traced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744950-hyperguard-0x18b-chain-securekernel-traced.html)|`2026-03-30 07:15:00`|`Anti-Cheat Bypass`|
+|[AC Anti Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/742438-ac-anti-aimbot.html)|`2026-03-30 07:14:00`|`Alternative Online Mods`|
+|[fake cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745580-fake-cooldown.html)|`2026-03-30 07:10:00`|`Counter-Strike 2`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-03-30 07:08:00`|`Counter-Strike 2`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-03-30 07:07:00`|`Counter-Strike 2`|
 |[How to disable Battleeye without logging into the launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745578-disable-battleeye-logging-launcher.html)|`2026-03-30 07:02:00`|`Grand Theft Auto V`|
 |[DMA SIMPLE ORBWALKER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745240-dma-simple-orbwalker.html)|`2026-03-30 07:01:00`|`League of Legends`|
 |[PlayerName](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745574-playername.html)|`2026-03-30 06:52:00`|`Alternative Online Mods`|
