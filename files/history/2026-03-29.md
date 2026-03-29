@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-03-29 21:52:00`|`Counter-Strike 2 Releases`|
+|[Marvel Rivals Kernel Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744872-marvel-rivals-kernel-blocker.html)|`2026-03-29 21:36:00`|`Marvel Rivals`|
+|[Entity Health checking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741969-entity-health-checking.html)|`2026-03-29 21:24:00`|`Call of Duty: Black Ops 2`|
 |[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-03-29 20:58:00`|`Counter-Strike 2`|
 |[Color bot ingame video settings preferences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742903-color-bot-ingame-video-settings-preferences.html)|`2026-03-29 20:55:00`|`Valorant`|
 |[Valorant VGC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745476-valorant-vgc.html)|`2026-03-29 20:48:00`|`Anti-Cheat Bypass`|
