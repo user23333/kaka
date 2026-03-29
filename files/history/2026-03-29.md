@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-29 23:19:00`|`Call of Duty: Black Ops 7`|
+|[Is there any alternatives to IDA Pro for sigs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745493-alternatives-ida-pro-sigs.html)|`2026-03-29 23:19:00`|`Counter-Strike 2`|
+|[Valorant Internal &#124; Bullet Shell Spawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745494-valorant-internal-bullet-shell-spawn.html)|`2026-03-29 23:15:00`|`Valorant`|
+|[Valorant hwid ban 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745256-valorant-hwid-ban-152-a.html)|`2026-03-29 23:05:00`|`Valorant`|
 |[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-03-29 22:54:00`|`Rainbow Six Siege`|
 |[block mouse input in game when menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744413-block-mouse-input-game-menu.html)|`2026-03-29 22:53:00`|`Counter-Strike 2`|
 |[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-03-29 22:53:00`|`Valorant`|
