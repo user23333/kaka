@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any working bypass for the game right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/745500-bypass-game.html)|`2026-03-29 23:48:00`|`Genshin Impact`|
+|[Automatic Offsets Updater &#40;no requests&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745425-automatic-offsets-updater-requests.html)|`2026-03-29 23:46:00`|`Counter-Strike 2`|
 |[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-29 23:19:00`|`Call of Duty: Black Ops 7`|
 |[Is there any alternatives to IDA Pro for sigs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745493-alternatives-ida-pro-sigs.html)|`2026-03-29 23:19:00`|`Counter-Strike 2`|
 |[Valorant Internal &#124; Bullet Shell Spawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745494-valorant-internal-bullet-shell-spawn.html)|`2026-03-29 23:15:00`|`Valorant`|
