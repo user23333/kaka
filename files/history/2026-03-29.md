@@ -14,6 +14,7 @@
 |6|[DA Lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744214-da-lobbies.html)|`2026-03-29 03:34:25`|`call-of-duty-modern-warfare`|
 |15|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-03-29 04:48:39`|`counter-strike-2-a`|
 |13|[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-03-29 07:48:36`|`anti-cheat-bypass`|
+|5|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-03-29 11:28:31`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,15 @@
 |238|[Essentialsv1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53903)|`2026-03-29 00:29:35`|
 |13|[SRCW Unlocker v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53899)|`2026-03-29 00:29:35`|
 |5|[DARKSIDE v1 Alpha ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53964)|`2026-03-29 06:55:30`|
+|15|[SimpleM v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53971)|`2026-03-29 11:28:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-29 11:10:00`|`Escape from Tarkov`|
+|[VR WorldToScreen / Drawing players correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745412-vr-worldtoscreen-drawing-players-correctly.html)|`2026-03-29 10:57:00`|`Other FPS Games`|
+|[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-29 10:53:00`|`Rust`|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-03-29 10:46:00`|`Other FPS Games`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-29 10:43:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-03-29 08:00:00`|`League of Legends`|
 |[Will I get banned? &#40;see post for more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745330-banned-post.html)|`2026-03-29 07:39:00`|`Call of Duty: Modern Warfare`|
 |[altv c&#43;&#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745399-altv-sdk.html)|`2026-03-29 07:28:00`|`Alternative Online Mods`|
