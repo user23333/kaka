@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2026-03-30 06:32:00`|`Call of Duty: Modern Warfare`|
+|[Minimal windows 11 UM&#45;KM communication framework using a Win32k syscall hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745572-minimal-windows-11-um-km-communication-framework-using-win32k-syscall-hook.html)|`2026-03-30 06:25:00`|`Anti-Cheat Bypass`|
+|[NEPatch &#45; Marvel Rivals Kernel AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737242-nepatch-marvel-rivals-kernel-ac-bypass.html)|`2026-03-30 06:21:00`|`Marvel Rivals`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-30 06:18:00`|`Red Dead Redemption 2`|
+|[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-03-30 06:12:00`|`Rainbow Six Siege`|
 |[Can't get chams to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745551-cant-chams.html)|`2026-03-30 05:51:00`|`Counter-Strike 2`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-03-30 05:40:00`|`Apex Legends`|
 |[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-03-30 05:34:00`|`Anti-Cheat Bypass`|
