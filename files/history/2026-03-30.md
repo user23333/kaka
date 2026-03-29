@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unk bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742721-unk-bug.html)|`2026-03-30 01:48:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-03-30 01:47:00`|`Escape from Tarkov`|
+|[Chams invisible explosion&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744417-chams-invisible-explosion.html)|`2026-03-30 01:41:00`|`Counter-Strike 2`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-03-30 01:41:00`|`Alternative Online Mods`|
+|[Is VirtualAllocEx detected externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745507-virtualallocex-detected-externally.html)|`2026-03-30 01:39:00`|`Alternative Online Mods`|
+|[altv c&#43;&#43; sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745399-altv-sdk.html)|`2026-03-30 01:38:00`|`Alternative Online Mods`|
+|[Automatic Offsets Updater &#40;no requests&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745425-automatic-offsets-updater-requests.html)|`2026-03-30 01:38:00`|`Counter-Strike 2`|
 |[RGDayZ ban bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/744818-rgdayz-ban-bypass.html)|`2026-03-30 01:16:00`|`DayZ SA`|
 |[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-03-30 01:14:00`|`Anti-Cheat Bypass`|
 |[External ESP without Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745320-external-esp-driver.html)|`2026-03-30 01:13:00`|`Anti-Cheat Bypass`|
