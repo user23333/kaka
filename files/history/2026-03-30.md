@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Logitech Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745510-logitech-script.html)|`2026-03-30 00:51:00`|`Rainbow Six Siege`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-03-30 00:51:00`|`Other FPS Games`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-03-30 00:47:00`|`Other Games`|
+|[How can I get GetInventoryManager signature myself?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745509-getinventorymanager-signature.html)|`2026-03-30 00:46:00`|`Counter-Strike 2`|
+|[Valorant VGC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745476-valorant-vgc.html)|`2026-03-30 00:42:00`|`Anti-Cheat Bypass`|
+|[Internal, esp preview model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736485-internal-esp-preview-model.html)|`2026-03-30 00:40:00`|`Counter-Strike 2`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-03-30 00:39:00`|`Counter-Strike 2`|
+|[Kernel Drivers Making &#124; Valorant Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742571-kernel-drivers-valorant-injection.html)|`2026-03-30 00:38:00`|`Valorant`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-03-30 00:38:00`|`Other FPS Games`|
+|[RedM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/745508-redm-cheat.html)|`2026-03-30 00:33:00`|`Red Dead Redemption 2`|
 |[Ragnarok Origin Global PC cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/624052-ragnarok-origin-global-pc-cheat.html)|`2026-03-30 00:14:00`|`Other MMORPG and Strategy`|
 |[Questions about editing Ref's reputation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/745504-questions-editing-refs-reputation.html)|`2026-03-30 00:13:00`|`Escape from Tarkov`|
 |[What is the offset for the paint kits map?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745467-offset-paint-kits-map.html)|`2026-03-30 00:13:00`|`Counter-Strike 2`|
