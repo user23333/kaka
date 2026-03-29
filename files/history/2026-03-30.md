@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to disable Battleeye without logging into the launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745578-disable-battleeye-logging-launcher.html)|`2026-03-30 07:02:00`|`Grand Theft Auto V`|
+|[DMA SIMPLE ORBWALKER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745240-dma-simple-orbwalker.html)|`2026-03-30 07:01:00`|`League of Legends`|
+|[PlayerName](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745574-playername.html)|`2026-03-30 06:52:00`|`Alternative Online Mods`|
 |[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2026-03-30 06:32:00`|`Call of Duty: Modern Warfare`|
 |[Minimal windows 11 UM&#45;KM communication framework using a Win32k syscall hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745572-minimal-windows-11-um-km-communication-framework-using-win32k-syscall-hook.html)|`2026-03-30 06:25:00`|`Anti-Cheat Bypass`|
 |[NEPatch &#45; Marvel Rivals Kernel AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737242-nepatch-marvel-rivals-kernel-ac-bypass.html)|`2026-03-30 06:21:00`|`Marvel Rivals`|
