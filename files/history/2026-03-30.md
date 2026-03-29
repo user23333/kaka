@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-03-30 03:39:00`|`Valorant`|
+|[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745526-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-03-30 03:33:00`|`Grand Theft Auto V`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-03-30 03:33:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-03-30 03:30:00`|`Other Games`|
+|[SetupBones performance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745405-setupbones-performance.html)|`2026-03-30 03:30:00`|`Garry's Mod`|
+|[Getting Valid Bone Data at Distance for Chams &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732050-getting-valid-bone-data-distance-chams-external.html)|`2026-03-30 03:26:00`|`Counter-Strike 2`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-03-30 03:20:00`|`Other FPS Games`|
 |[External chams &#45; Pixel depth raycasting &#40;vis/invis check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745472-external-chams-pixel-depth-raycasting-vis-invis-check.html)|`2026-03-30 03:03:00`|`Counter-Strike 2`|
 |[CS2 TriggerBot Made In Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/608773-cs2-triggerbot-python.html)|`2026-03-30 03:02:00`|`Counter-Strike 2 Releases`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-03-30 03:00:00`|`HELLDIVERS 2`|
