@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Server plugins detecting thick bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745319-server-plugins-detecting-thick-bullet.html)|`2026-03-29 19:18:00`|`Rust`|
+|[Transitioning from using menus &#40;YimMenu/Kiddion's&#41; to understanding how they work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745278-transitioning-using-menus-yimmenu-kiddions-understanding.html)|`2026-03-29 19:11:00`|`Grand Theft Auto V`|
+|[What is the offset for the paint kits map?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745467-offset-paint-kits-map.html)|`2026-03-29 19:10:00`|`Counter-Strike 2`|
 |[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-03-29 18:49:00`|`Counter-Strike 2 Releases`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-03-29 18:38:00`|`Counter-Strike 2 Releases`|
 |[Foxhole SDK dump &#40;27&#46;03&#46;2026&#41; &#43; dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745154-foxhole-sdk-dump-27-03-2026-dumper-source.html)|`2026-03-29 18:13:00`|`Other MMORPG and Strategy`|
