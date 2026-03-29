@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-03-29 22:54:00`|`Rainbow Six Siege`|
+|[block mouse input in game when menu is open](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744413-block-mouse-input-game-menu.html)|`2026-03-29 22:53:00`|`Counter-Strike 2`|
+|[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-03-29 22:53:00`|`Valorant`|
+|[Undetected P2C Injector&#43;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743941-undetected-p2c-injector-source.html)|`2026-03-29 22:50:00`|`Counter-Strike 2`|
+|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-03-29 22:49:00`|`Counter-Strike 2`|
+|[Can someone explain stack traversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/745488-explain-stack-traversal.html)|`2026-03-29 22:47:00`|`General Programming and Reversing`|
 |[valorant 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744820-valorant-152-a.html)|`2026-03-29 22:05:00`|`Valorant`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-03-29 21:58:00`|`Tom Clancy's The Division`|
 |[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-03-29 21:52:00`|`Counter-Strike 2 Releases`|
