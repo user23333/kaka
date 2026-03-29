@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting started with Cheats in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/745268-getting-started-cheats-2026-a.html)|`2026-03-29 13:02:00`|`Escape from Tarkov`|
+|[What even is detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745365-detected.html)|`2026-03-29 13:01:00`|`Counter-Strike 2`|
+|[How Do I Update The Offsets for an internal cheat on my own?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745044-update-offsets-internal-cheat-own.html)|`2026-03-29 12:52:00`|`Counter-Strike 2`|
+|[Farming banwave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745411-farming-banwave.html)|`2026-03-29 12:48:00`|`Counter-Strike 2`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-03-29 11:10:00`|`Escape from Tarkov`|
 |[VR WorldToScreen / Drawing players correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745412-vr-worldtoscreen-drawing-players-correctly.html)|`2026-03-29 10:57:00`|`Other FPS Games`|
 |[Rusts EAC Update &#40; 1 day bans &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/737627-rusts-eac-update-1-day-bans.html)|`2026-03-29 10:53:00`|`Rust`|
