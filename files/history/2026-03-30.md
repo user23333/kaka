@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Premier rank changer &#40;visible in Lobby/Invite&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745584-premier-rank-changer-visible-lobby-invite.html)|`2026-03-30 11:10:00`|`Counter-Strike 2`|
+|[Unpacked vgc&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745505-unpacked-vgc-exe.html)|`2026-03-30 11:01:00`|`Anti-Cheat Bypass`|
+|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-30 10:59:00`|`Other FPS Games`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-03-30 10:57:00`|`Other FPS Games`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-03-30 10:53:00`|`Other FPS Games`|
+|[Mystery outfit gift](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/745594-mystery-outfit-gift.html)|`2026-03-30 10:52:00`|`Palia`|
+|[Auto Updating FName &#40;no emulation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745314-auto-updating-fname-emulation.html)|`2026-03-30 10:34:00`|`Valorant`|
 |[overlay issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745581-overlay-issue.html)|`2026-03-30 07:28:00`|`Rust`|
 |[Vehicle spawner externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/707570-vehicle-spawner-externally.html)|`2026-03-30 07:31:00`|`Alternative Online Mods`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-03-30 07:28:00`|`Valorant`|
