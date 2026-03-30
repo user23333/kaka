@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-03-30 16:39:00`|`Apex Legends`|
+|[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-03-30 16:33:00`|`Apex Legends`|
+|[Help with MW2019 Cheat/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745435-help-mw2019-cheat-aimbot.html)|`2026-03-30 16:30:00`|`Call of Duty: Modern Warfare`|
+|[EXTERNAL Preview Models in esp preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745621-external-preview-models-esp-preview.html)|`2026-03-30 16:28:00`|`Counter-Strike 2`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-03-30 16:16:00`|`Other FPS Games`|
+|[STAR CITIZEN CHEAT ENGINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/686927-star-citizen-cheat-engine.html)|`2026-03-30 16:15:00`|`Other MMORPG and Strategy`|
+|[Windows Kernel Driver Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742461-windows-kernel-driver-temp-spoofer.html)|`2026-03-30 16:13:00`|`Anti-Cheat Bypass`|
 |[looking for internal that works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745503-looking-internal.html)|`2026-03-30 15:02:00`|`Counter-Strike 2`|
 |[Arduino UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/745615-arduino-ud.html)|`2026-03-30 15:00:00`|`Overwatch`|
 |[Any tutorials on how to get function sigs like SetModel etc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745614-tutorials-function-sigs-setmodel-etc.html)|`2026-03-30 15:00:00`|`Counter-Strike 2`|
