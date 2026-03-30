@@ -13,6 +13,7 @@
 |5|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-03-30 00:17:00`|`anti-cheat-bypass`|
 |5|[&#91;Release&#93; V8 Lightweight Python Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744494-release-v8-lightweight-python-triggerbot.html)|`2026-03-30 03:57:40`|`valorant`|
 |7|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-30 04:25:42`|`marvel-rivals`|
+|5|[GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745125-gsc-injector.html)|`2026-03-30 13:35:34`|`call-of-duty-modern-warfare`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-30 13:32:00`|`Call of Duty: Black Ops 7`|
+|[HWID spoofer guide &#124; every game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/659691-hwid-spoofer-guide-game.html)|`2026-03-30 13:31:00`|`Forum General`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-30 13:23:00`|`Paladins`|
+|[Updated CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721585-updated-cs2-external-esp.html)|`2026-03-30 13:17:00`|`Counter-Strike 2 Releases`|
+|[The Division 2 Byepass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742779-division-2-byepass-eac.html)|`2026-03-30 12:56:00`|`Tom Clancy's The Division`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2026-03-30 12:46:00`|`Other Games`|
+|[Some ARMA 2 or ARMA 2:OA Cheat engine table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/578586-arma-2-arma-2-oa-cheat-engine-table.html)|`2026-03-30 12:42:00`|`ARMA 2`|
 |[Premier rank changer &#40;visible in Lobby/Invite&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745584-premier-rank-changer-visible-lobby-invite.html)|`2026-03-30 11:10:00`|`Counter-Strike 2`|
 |[Unpacked vgc&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745505-unpacked-vgc-exe.html)|`2026-03-30 11:01:00`|`Anti-Cheat Bypass`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-03-30 10:59:00`|`Other FPS Games`|
