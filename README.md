@@ -11,6 +11,7 @@
 |18|[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-03-31 00:42:35`|`anti-cheat-bypass`|
 |5|[GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745125-gsc-injector.html)|`2026-03-31 00:42:35`|`call-of-duty-modern-warfare`|
 |5|[Detect every intel vtx hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744859-detect-intel-vtx-hypervisor.html)|`2026-03-31 00:42:35`|`anti-cheat-bypass`|
+|14|[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-03-31 03:34:22`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-31 03:33:00`|`Deadlock`|
+|[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-03-31 03:30:00`|`CrossFire`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-31 03:29:00`|`Alternative Online Mods`|
+|[External Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745695-external-native-invoker.html)|`2026-03-31 03:29:00`|`Alternative Online Mods`|
+|[Shinoko&#45;NIKKE &#91; Goddess of Victory: Nikke Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744217-shinoko-nikke-goddess-victory-nikke-cheat.html)|`2026-03-31 03:26:00`|`Other MMORPG and Strategy`|
+|[Chams Cheat &#43; Weapon,hand chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/727182-chams-cheat-weapon-hand-chams.html)|`2026-03-31 03:16:00`|`Farlight 84`|
+|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-03-31 03:12:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-03-31 03:09:00`|`Marvel Rivals`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-03-31 02:25:00`|`Other FPS Games`|
 |[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-03-31 02:23:00`|`Sea of Thieves`|
 |[How do game events work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745691-game-events.html)|`2026-03-31 02:23:00`|`Counter-Strike 2`|
