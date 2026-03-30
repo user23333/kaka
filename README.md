@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for internal that works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745503-looking-internal.html)|`2026-03-30 15:02:00`|`Counter-Strike 2`|
+|[Arduino UD?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/745615-arduino-ud.html)|`2026-03-30 15:00:00`|`Overwatch`|
+|[Any tutorials on how to get function sigs like SetModel etc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745614-tutorials-function-sigs-setmodel-etc.html)|`2026-03-30 15:00:00`|`Counter-Strike 2`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-03-30 14:59:00`|`Valorant`|
+|[External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737704-external-skin-changer.html)|`2026-03-30 14:55:00`|`Marvel Rivals`|
+|[Any way to get yprac for free?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/701709-yprac-free.html)|`2026-03-30 14:53:00`|`Counter-Strike 2`|
 |[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-03-30 13:32:00`|`Call of Duty: Black Ops 7`|
 |[HWID spoofer guide &#124; every game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/659691-hwid-spoofer-guide-game.html)|`2026-03-30 13:31:00`|`Forum General`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-03-30 13:23:00`|`Paladins`|
