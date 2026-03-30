@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-03-31 06:45:00`|`Valorant`|
+|[New addition to the staff team&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/745750-addition-staff-team.html)|`2026-03-31 06:38:00`|`Information and Announcements`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-03-31 06:36:00`|`Other FPS Games`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-03-31 06:33:00`|`Red Dead Redemption 2`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-03-31 06:33:00`|`Other MMORPG and Strategy`|
+|[im looking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745745-im-looking.html)|`2026-03-31 06:27:00`|`Anti-Cheat Bypass`|
+|[Eac update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745742-eac-update.html)|`2026-03-31 06:21:00`|`Rust`|
+|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-03-31 06:18:00`|`Apex Legends`|
 |[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-03-31 05:58:00`|`Alternative Online Mods`|
 |[van &#45;102s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744846-van-102s.html)|`2026-03-31 05:56:00`|`Valorant`|
 |[Premier rank changer &#40;visible in Lobby/Invite&#41;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745584-premier-rank-changer-visible-lobby-invite.html)|`2026-03-31 05:41:00`|`Counter-Strike 2`|
