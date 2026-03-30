@@ -15,6 +15,7 @@
 |7|[&#91;RELEASE&#93;&#91;SOURCE&#93; Heartbeat KILLER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744583-release-source-heartbeat-killer.html)|`2026-03-30 04:25:42`|`marvel-rivals`|
 |5|[GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745125-gsc-injector.html)|`2026-03-30 13:35:34`|`call-of-duty-modern-warfare`|
 |16|[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-03-30 19:02:41`|`anti-cheat-bypass`|
+|5|[Detect every intel vtx hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744859-detect-intel-vtx-hypervisor.html)|`2026-03-30 22:45:33`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ 1&#46;28 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/708021-dayz-1-28-offsets.html)|`2026-03-30 22:41:00`|`DayZ SA`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-03-30 22:37:00`|`Marvel Rivals`|
+|[Question about TLS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745663-question-tls.html)|`2026-03-30 22:36:00`|`Alternative Online Mods`|
+|[Developer Computer Vision &#40;Desktop / Realtime, AI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745655-developer-computer-vision-desktop-realtime-ai.html)|`2026-03-30 22:26:00`|`Counter-Strike 2`|
 |[LUA Player kill methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745647-lua-player-kill-methods.html)|`2026-03-30 21:19:00`|`Alternative Online Mods`|
 |[Always updated SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744234-updated-sdk.html)|`2026-03-30 21:05:00`|`Valorant`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-03-30 21:00:00`|`Other Games`|
