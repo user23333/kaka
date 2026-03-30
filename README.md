@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-03-31 04:06:00`|`Garry's Mod`|
+|[Sastasha Injector v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector-v1-7-a.html)|`2026-03-31 04:03:00`|`General Programming and Reversing`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-03-31 04:02:00`|`Counter-Strike 2`|
+|[Max&#46; safe money amount using various methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745069-max-safe-money-amount-using-various-methods.html)|`2026-03-31 03:57:00`|`Grand Theft Auto V`|
+|[How you can actually start decrypting FXAP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745600-actually-start-decrypting-fxap.html)|`2026-03-31 03:42:00`|`Alternative Online Mods`|
+|[SOT Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/745271-sot-unlocker.html)|`2026-03-31 03:36:00`|`Sea of Thieves`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-03-31 03:33:00`|`Deadlock`|
 |[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-03-31 03:30:00`|`CrossFire`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-03-31 03:29:00`|`Alternative Online Mods`|
