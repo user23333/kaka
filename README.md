@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What happened to Borderless Fullscreen in Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745616-happened-borderless-fullscreen-rust.html)|`2026-03-30 19:51:00`|`Rust`|
+|[Free ai That makes cheats Easily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745640-free-ai-makes-cheats-easily.html)|`2026-03-30 19:48:00`|`Counter-Strike 2`|
+|[Free ai That makes cheats Easily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745639-free-ai-makes-cheats-easily.html)|`2026-03-30 19:46:00`|`Counter-Strike 2 Releases`|
+|[new intel vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744230-intel-vulnerable-driver.html)|`2026-03-30 19:46:00`|`Anti-Cheat Bypass`|
 |[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-03-30 18:45:00`|`Among Us`|
 |[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-03-30 18:44:00`|`Rust`|
 |[Need Help With AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745629-help-ai-aimbot.html)|`2026-03-30 17:59:00`|`Counter-Strike 2`|
