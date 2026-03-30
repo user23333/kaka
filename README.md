@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help With AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745629-help-ai-aimbot.html)|`2026-03-30 17:59:00`|`Counter-Strike 2`|
+|[How you can actually start decrypting FXAP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745600-actually-start-decrypting-fxap.html)|`2026-03-30 17:52:00`|`Alternative Online Mods`|
+|[Server plugins detecting thick bullet?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745319-server-plugins-detecting-thick-bullet.html)|`2026-03-30 17:51:00`|`Rust`|
+|[rappel thru walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745628-rappel-thru-walls.html)|`2026-03-30 17:48:00`|`Rainbow Six Siege`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-03-30 16:39:00`|`Apex Legends`|
 |[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-03-30 16:33:00`|`Apex Legends`|
 |[Help with MW2019 Cheat/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745435-help-mw2019-cheat-aimbot.html)|`2026-03-30 16:30:00`|`Call of Duty: Modern Warfare`|
