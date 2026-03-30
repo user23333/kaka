@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LUA Player kill methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745647-lua-player-kill-methods.html)|`2026-03-30 21:19:00`|`Alternative Online Mods`|
+|[Always updated SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744234-updated-sdk.html)|`2026-03-30 21:05:00`|`Valorant`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-03-30 21:00:00`|`Other Games`|
 |[What happened to Borderless Fullscreen in Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745616-happened-borderless-fullscreen-rust.html)|`2026-03-30 19:51:00`|`Rust`|
 |[Free ai That makes cheats Easily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745640-free-ai-makes-cheats-easily.html)|`2026-03-30 19:48:00`|`Counter-Strike 2`|
 |[Free ai That makes cheats Easily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745639-free-ai-makes-cheats-easily.html)|`2026-03-30 19:46:00`|`Counter-Strike 2 Releases`|
