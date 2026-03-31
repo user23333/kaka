@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NEXUS &#45; Internal Mod Menu w/ SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745643-nexus-internal-mod-menu-source-code.html)|`2026-04-01 05:22:00`|`Marvel Rivals`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-04-01 05:18:00`|`Other FPS Games`|
+|[Marvel Rivals AC Killer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745352-marvel-rivals-ac-killer.html)|`2026-04-01 05:12:00`|`Marvel Rivals`|
+|[NEPatch &#45; Marvel Rivals Kernel AC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737242-nepatch-marvel-rivals-kernel-ac-bypass.html)|`2026-04-01 05:07:00`|`Marvel Rivals`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-04-01 05:06:00`|`Other FPS Games`|
+|[Bans and HWID bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745849-bans-hwid-bans.html)|`2026-04-01 05:05:00`|`Call of Duty: Modern Warfare`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-01 05:01:00`|`Tom Clancy's The Division`|
 |[Free CS2 Total Value inventory tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744861-free-cs2-total-value-inventory-tool.html)|`2026-04-01 04:54:00`|`Counter-Strike 2`|
 |[Legit Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745865-legit-aimbot.html)|`2026-04-01 04:49:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-01 04:49:00`|`Call of Duty: Black Ops 7`|
