@@ -13,6 +13,7 @@
 |5|[Detect every intel vtx hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744859-detect-intel-vtx-hypervisor.html)|`2026-03-31 00:42:35`|`anti-cheat-bypass`|
 |14|[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-03-31 03:34:22`|`counter-strike-2-a`|
 |12|[Vanguard secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745092-vanguard-secure-boot.html)|`2026-03-31 13:29:05`|`anti-cheat-bypass`|
+|3|[Internal Glow, but only 7&#46;5kb&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745001-internal-glow-7-5kb.html)|`2026-03-31 16:49:50`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HVCI BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745638-hvci-bypass.html)|`2026-03-31 16:46:00`|`Anti-Cheat Bypass`|
+|[how can I open such a process without using OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745698-process-using-openprocess.html)|`2026-03-31 16:43:00`|`Anti-Cheat Bypass`|
 |[ARDUINO LEONARDO R3 SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745516-arduino-leonardo-r3-spoofer.html)|`2026-03-31 15:43:00`|`Valorant`|
 |[&#91;VOTE&#93; April 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/745117-vote-april-2026-month.html)|`2026-03-31 15:34:00`|`Member of the Month`|
 |[Public working Aio's or Unlock All m](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744732-public-aios-unlock.html)|`2026-03-31 15:30:00`|`Call of Duty: Modern Warfare`|
