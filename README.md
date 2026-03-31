@@ -34,9 +34,14 @@
 |33|[heartopia&#95;buddy&#95;rayyyy2&#46;two](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54001)|`2026-03-31 11:54:07`|
 |13|[CS2 Rage AI internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53981)|`2026-03-31 15:56:54`|
 |0|[Payday3&#45;Internal Source V1&#46;2&#46;8b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54011)|`2026-03-31 18:39:29`|
+|4|[AIOHeader&#46;hpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54012)|`2026-03-31 21:57:26`|
+|6|[DMA discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54010)|`2026-03-31 21:57:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745816-valorant-offsets.html)|`2026-03-31 21:54:00`|`Valorant`|
+|[FiveM Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745811-fivem-internal-base.html)|`2026-03-31 21:50:00`|`Alternative Online Mods`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-03-31 21:44:00`|`Phasmophobia`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-03-31 19:49:00`|`Grand Theft Auto V`|
 |[Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/738530-bug.html)|`2026-03-31 19:48:00`|`CrossFire`|
 |[Permanent MAC change for USB network adapter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/731486-permanent-mac-change-usb-network-adapter.html)|`2026-03-31 19:46:00`|`Anti-Cheat Bypass`|
