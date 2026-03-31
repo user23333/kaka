@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-03-31 08:49:00`|`Other Games`|
+|[How do I ban evade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734224-ban-evade.html)|`2026-03-31 08:48:00`|`Sea of Thieves`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-03-31 08:48:00`|`Rainbow Six Siege`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-03-31 08:45:00`|`Overwatch`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-03-31 08:44:00`|`Counter-Strike 2 Releases`|
 |[DMA SIMPLE ORBWALKER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745240-dma-simple-orbwalker.html)|`2026-03-31 07:45:00`|`League of Legends`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-03-31 07:41:00`|`Rust`|
 |[FREE INTERNAL VALORANT PATCH 12&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742875-free-internal-valorant-patch-12-04-a.html)|`2026-03-31 07:37:00`|`Valorant`|
