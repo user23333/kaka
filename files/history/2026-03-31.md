@@ -15,6 +15,7 @@
 |12|[Vanguard secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745092-vanguard-secure-boot.html)|`2026-03-31 13:29:05`|`anti-cheat-bypass`|
 |3|[Internal Glow, but only 7&#46;5kb&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745001-internal-glow-7-5kb.html)|`2026-03-31 16:49:50`|`counter-strike-2-a`|
 |3|[Roblox Kernel Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/744951-roblox-kernel-cheat.html)|`2026-03-31 17:48:06`|`roblox`|
+|12|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-03-31 18:39:29`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +33,17 @@
 |8|[Andromeda&#45;DeadLock&#45;2&#46;5&#46;5&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54009)|`2026-03-31 11:54:07`|
 |33|[heartopia&#95;buddy&#95;rayyyy2&#46;two](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54001)|`2026-03-31 11:54:07`|
 |13|[CS2 Rage AI internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53981)|`2026-03-31 15:56:54`|
+|0|[Payday3&#45;Internal Source V1&#46;2&#46;8b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54011)|`2026-03-31 18:39:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is VirtualAllocEx detected externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745507-virtualallocex-detected-externally.html)|`2026-03-31 18:34:00`|`Alternative Online Mods`|
+|[EXTERNAL Preview Models in esp preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745621-external-preview-models-esp-preview.html)|`2026-03-31 18:34:00`|`Counter-Strike 2`|
+|[valorant ban hwid serials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745801-valorant-ban-hwid-serials.html)|`2026-03-31 18:34:00`|`Valorant`|
+|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-03-31 18:33:00`|`Counter-Strike 2`|
+|[Hybrid &#40;Internal with Overlaying&#41; with skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738399-hybrid-internal-overlaying-skin-changer.html)|`2026-03-31 18:18:00`|`Marvel Rivals`|
+|[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-03-31 18:17:00`|`Apex Legends`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-03-31 18:08:00`|`ARC Raiders`|
 |[Anti&#45;cheat systems on Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/745313-anti-cheat-systems-deadlock.html)|`2026-03-31 17:45:00`|`Deadlock`|
 |[Localplayer check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/745789-localplayer-check.html)|`2026-03-31 17:43:00`|`Call of Duty: Black Ops 2`|
 |[Penetration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744682-penetration.html)|`2026-03-31 17:41:00`|`Counter-Strike 2`|
