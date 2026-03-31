@@ -37,6 +37,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XShot X0&#46;1 &#45; External AI&#45;CV Assistant &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745100-xshot-x0-1-external-ai-cv-assistant-poc.html)|`2026-03-31 19:19:00`|`Counter-Strike 2 Releases`|
+|[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-03-31 19:18:00`|`Anti-Cheat Bypass`|
+|[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-03-31 19:10:00`|`Among Us`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-03-31 19:08:00`|`Escape from Tarkov`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-03-31 19:07:00`|`Battlefield 6`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-03-31 19:05:00`|`Other MMORPG and Strategy`|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-03-31 19:04:00`|`Call of Duty 4: Modern Warfare`|
+|[Chivalry 2 Internal: Mounting Modified &#46;uassets via Kernel DLL &#40;Post&#45;April Update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/740508-chivalry-2-internal-mounting-modified-uassets-via-kernel-dll-post-april-update.html)|`2026-03-31 19:03:00`|`Other Games`|
+|[Apex DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716473-apex-dma-source.html)|`2026-03-31 19:02:00`|`Apex Legends`|
 |[Is VirtualAllocEx detected externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745507-virtualallocex-detected-externally.html)|`2026-03-31 18:34:00`|`Alternative Online Mods`|
 |[EXTERNAL Preview Models in esp preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745621-external-preview-models-esp-preview.html)|`2026-03-31 18:34:00`|`Counter-Strike 2`|
 |[valorant ban hwid serials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745801-valorant-ban-hwid-serials.html)|`2026-03-31 18:34:00`|`Valorant`|
