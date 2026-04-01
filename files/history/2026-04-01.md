@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Kernel Mode Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738673-vanguard-kernel-mode-analysis.html)|`2026-04-01 07:55:00`|`Anti-Cheat Bypass`|
+|[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-01 07:42:00`|`Other MMORPG and Strategy`|
 |[overlay issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745581-overlay-issue.html)|`2026-04-01 07:24:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-01 07:21:00`|`Overwatch`|
 |[new intel vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744230-intel-vulnerable-driver.html)|`2026-04-01 07:18:00`|`Anti-Cheat Bypass`|
