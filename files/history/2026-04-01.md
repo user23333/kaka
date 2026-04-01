@@ -35,9 +35,13 @@
 |6|[The Division 2 Hack v2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54033)|`2026-04-01 16:17:54`|
 |1|[nasm&#43;golink](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54032)|`2026-04-01 16:17:54`|
 |1|[nasm&#95;SpyroReiginitedTrilogy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54031)|`2026-04-01 16:17:54`|
+|3|[RONFentry &#91;Ready or Not Multitool&#93; v1&#46;0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54025)|`2026-04-01 19:31:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[latest vgc&#46;exe &#40; c files &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745958-vgc-exe-files.html)|`2026-04-01 19:14:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-01 19:13:00`|`Escape from Tarkov`|
+|[🧩 MRON Injector &#43; MW2019 GSC Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/720981-mron-injector-mw2019-gsc-scripts.html)|`2026-04-01 19:12:00`|`Call of Duty: Modern Warfare`|
 |[How do I ban evade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734224-ban-evade.html)|`2026-04-01 18:22:00`|`Sea of Thieves`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-04-01 18:19:00`|`HELLDIVERS 2`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-04-01 18:18:00`|`Battlefield 6`|
