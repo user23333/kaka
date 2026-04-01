@@ -38,6 +38,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I ban evade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734224-ban-evade.html)|`2026-04-01 18:22:00`|`Sea of Thieves`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-04-01 18:19:00`|`HELLDIVERS 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-04-01 18:18:00`|`Battlefield 6`|
+|[HWID BANNED GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745898-hwid-banned-gg.html)|`2026-04-01 18:18:00`|`Apex Legends`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-01 18:11:00`|`Alternative Online Mods`|
+|[XShot X0&#46;1 &#45; External AI&#45;CV Assistant &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745100-xshot-x0-1-external-ai-cv-assistant-poc.html)|`2026-04-01 18:11:00`|`Counter-Strike 2 Releases`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-01 18:09:00`|`Among Us`|
 |[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-04-01 17:31:00`|`Counter-Strike 2`|
 |[Project Zomboid B42: Chronicles V2 &#40;Ghost Binds &#43; Optimized ESP&#41; &#40;Buggy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745277-project-zomboid-b42-chronicles-v2-ghost-binds-optimized-esp-buggy.html)|`2026-04-01 17:27:00`|`Other FPS Games`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-01 17:25:00`|`Marvel Rivals`|
