@@ -30,9 +30,17 @@
 |0|[NtUserHook Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=53990)|`2026-04-01 01:43:53`|
 |1|[dumped from il2cppRuntimeDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54021)|`2026-04-01 04:07:24`|
 |6|[r69&#45;driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54022)|`2026-04-01 06:34:34`|
+|1|[AMDSSG&#45;Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54030)|`2026-04-01 13:35:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AMD SSG Ring 0 File R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745926-amd-ssg-ring-0-file.html)|`2026-04-01 13:25:00`|`Anti-Cheat Bypass`|
+|[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 30/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744656-terraria-1-4-5-regrind-cheat-table-update-30-03-2026-1-a.html)|`2026-04-01 13:23:00`|`Other MMORPG and Strategy`|
+|[Getting Valid Bone Data at Distance for Chams &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732050-getting-valid-bone-data-distance-chams-external.html)|`2026-04-01 13:22:00`|`Counter-Strike 2`|
+|[Native Hook disabling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745169-native-hook-disabling.html)|`2026-04-01 13:18:00`|`Alternative Online Mods`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-01 13:01:00`|`Other FPS Games`|
+|[Combat Arms Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/65940-combat-arms-reversal-structs-offsets.html)|`2026-04-01 12:48:00`|`Combat Arms`|
+|[how do i completely remove the optic &#40;aiming down sight &#41; crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745912-completely-remove-optic-aiming-sight-crosshair.html)|`2026-04-01 12:46:00`|`Rainbow Six Siege`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-01 11:27:00`|`Escape from Tarkov`|
 |[Tangles 2 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744956-tangles-2-tool-internal-cheat-auto-inject.html)|`2026-04-01 11:26:00`|`Other FPS Games`|
 |[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-01 11:11:00`|`Other FPS Games`|
