@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-01 11:27:00`|`Escape from Tarkov`|
+|[Tangles 2 Tool &#45; Internal Cheat With Auto&#45;Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744956-tangles-2-tool-internal-cheat-auto-inject.html)|`2026-04-01 11:26:00`|`Other FPS Games`|
+|[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-01 11:11:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-01 10:55:00`|`Other Games`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-04-01 10:53:00`|`Rainbow Six Siege`|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-04-01 10:53:00`|`Overwatch`|
 |[Vanguard Kernel Mode Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738673-vanguard-kernel-mode-analysis.html)|`2026-04-01 07:55:00`|`Anti-Cheat Bypass`|
 |[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-01 07:42:00`|`Other MMORPG and Strategy`|
 |[overlay issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745581-overlay-issue.html)|`2026-04-01 07:24:00`|`Rust`|
