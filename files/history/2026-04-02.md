@@ -13,6 +13,7 @@
 |7|[Rust Clean AutoUpdate ESP w driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745149-rust-clean-autoupdate-esp-driver.html)|`2026-04-02 00:10:51`|`rust`|
 |14|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-02 04:44:34`|`anti-cheat-bypass`|
 |9|[Marvel Rivals Kernel Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744872-marvel-rivals-kernel-blocker.html)|`2026-04-02 06:01:37`|`marvel-rivals`|
+|2|[EverSiege: Untold Ages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/744918-eversiege-untold-ages.html)|`2026-04-02 06:45:12`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TFT overlay — how to build a compliant/legit overlay?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745836-tft-overlay-build-compliant-legit-overlay.html)|`2026-04-02 06:37:00`|`League of Legends`|
+|[Osu cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744504-osu-cheat.html)|`2026-04-02 06:33:00`|`Other Games`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-04-02 06:32:00`|`Paladins`|
+|[nvidia streamproof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745892-nvidia-streamproof.html)|`2026-04-02 06:23:00`|`Alternative Online Mods`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-04-02 06:21:00`|`Phasmophobia`|
+|[Do vanguard ban gpu and ram too ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738799-vanguard-ban-gpu-ram.html)|`2026-04-02 06:20:00`|`Valorant`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-04-02 05:56:00`|`Other MMORPG and Strategy`|
 |[New Apex Hwid Ban and EAC Hwid Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/730137-apex-hwid-ban-eac-hwid-ban.html)|`2026-04-02 05:48:00`|`Apex Legends`|
 |[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-04-02 05:39:00`|`Other FPS Games`|
