@@ -11,6 +11,7 @@
 |5|[Detect every intel vtx hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744859-detect-intel-vtx-hypervisor.html)|`2026-04-02 00:10:51`|`anti-cheat-bypass`|
 |3|[Internal Glow, but only 7&#46;5kb&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745001-internal-glow-7-5kb.html)|`2026-04-02 00:10:51`|`counter-strike-2-a`|
 |7|[Rust Clean AutoUpdate ESP w driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745149-rust-clean-autoupdate-esp-driver.html)|`2026-04-02 00:10:51`|`rust`|
+|14|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-02 04:44:34`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-04-02 04:43:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-02 04:42:00`|`Rust`|
+|[Subtick Strafe Stuck In Ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746039-subtick-strafe-stuck-ground.html)|`2026-04-02 04:39:00`|`Counter-Strike 2`|
+|[Hijacking driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745809-hijacking-driver.html)|`2026-04-02 04:39:00`|`Anti-Cheat Bypass`|
+|[How do game events work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745691-game-events.html)|`2026-04-02 04:38:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-02 04:36:00`|`Roblox`|
+|[&#91;WIP&#93; Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43; &#124; 42&#46;15&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743460-wip-project-zomboid-cheat-ethermenu-lite-powered-java-b42-42-15-2-a.html)|`2026-04-02 04:31:00`|`Other MMORPG and Strategy`|
+|[AMD SSG Ring 0 File R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745926-amd-ssg-ring-0-file.html)|`2026-04-02 04:27:00`|`Anti-Cheat Bypass`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-04-02 03:59:00`|`Tom Clancy's The Division`|
 |[rustdma Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746031-rustdma-update.html)|`2026-04-02 03:56:00`|`Rust`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-02 03:55:00`|`Apex Legends`|
