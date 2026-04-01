@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Driver Signature Enfrocement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746042-eac-driver-signature-enfrocement.html)|`2026-04-02 05:19:00`|`Anti-Cheat Bypass`|
+|[Temp Spoofer Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745150-temp-spoofer-driver.html)|`2026-04-02 05:17:00`|`Anti-Cheat Bypass`|
+|[Advanced PCIe RTL Evasion: Going beyond static config shadowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743058-advanced-pcie-rtl-evasion-beyond-static-config-shadowing.html)|`2026-04-02 05:14:00`|`Anti-Cheat Bypass`|
+|[Roblox Kernel Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/744951-roblox-kernel-cheat.html)|`2026-04-02 05:08:00`|`Roblox`|
+|[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-04-02 05:07:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-02 05:07:00`|`Other Games`|
 |[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-04-02 04:43:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-02 04:42:00`|`Rust`|
 |[Subtick Strafe Stuck In Ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746039-subtick-strafe-stuck-ground.html)|`2026-04-02 04:39:00`|`Counter-Strike 2`|
