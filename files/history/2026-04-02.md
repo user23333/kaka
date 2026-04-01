@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-02 07:46:00`|`Other FPS Games`|
+|[Ai base aimbot & rcs &#40;python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739984-ai-base-aimbot-rcs-python.html)|`2026-04-02 07:39:00`|`Counter-Strike 2`|
+|[Knife Animation OK but model is not updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744229-knife-animation-ok-model-updating.html)|`2026-04-02 07:29:00`|`Counter-Strike 2`|
 |[how can I open such a process without using OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745698-process-using-openprocess.html)|`2026-04-02 07:15:00`|`Anti-Cheat Bypass`|
 |[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-04-02 07:14:00`|`Overwatch`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-04-02 07:10:00`|`Other MMORPG and Strategy`|
