@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NASM &#43; SpyroReiginitedTrilogy &#40;cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/745930-nasm-spyroreiginitedtrilogy-cheat.html)|`2026-04-01 14:39:00`|`Assembly`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-01 14:33:00`|`HELLDIVERS 2`|
+|[Rust Alkad Cheat, 2622 &#45; 25 March and further with updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745070-rust-alkad-cheat-2622-25-march-updates.html)|`2026-04-01 14:26:00`|`Other Games`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-01 14:24:00`|`Counter-Strike 2`|
+|[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-04-01 14:08:00`|`Call of Duty: Modern Warfare`|
+|[Apex external &#40;aim &#43; visuals&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/740518-apex-external-aim-visuals.html)|`2026-04-01 14:07:00`|`Apex Legends`|
 |[AMD SSG Ring 0 File R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745926-amd-ssg-ring-0-file.html)|`2026-04-01 13:25:00`|`Anti-Cheat Bypass`|
 |[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 30/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744656-terraria-1-4-5-regrind-cheat-table-update-30-03-2026-1-a.html)|`2026-04-01 13:23:00`|`Other MMORPG and Strategy`|
 |[Getting Valid Bone Data at Distance for Chams &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/732050-getting-valid-bone-data-distance-chams-external.html)|`2026-04-01 13:22:00`|`Counter-Strike 2`|
