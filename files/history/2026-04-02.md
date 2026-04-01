@@ -26,9 +26,17 @@
 |205|[Valorant Aimbot/Triggerbot/Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54015)|`2026-04-02 00:10:51`|
 |9|[SimpleM v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54045)|`2026-04-02 01:09:28`|
 |6|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;10&#45;CL&#45;52157884](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54044)|`2026-04-02 03:03:59`|
+|2|[ApexDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54047)|`2026-04-02 03:59:51`|
+|5|[&#91;STEAM&#93; Dead By Daylight Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54046)|`2026-04-02 03:59:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-04-02 03:59:00`|`Tom Clancy's The Division`|
+|[rustdma Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746031-rustdma-update.html)|`2026-04-02 03:56:00`|`Rust`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-02 03:55:00`|`Apex Legends`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-04-02 03:51:00`|`Counter-Strike 2`|
+|[DayZ 1&#46;28 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/708021-dayz-1-28-offsets.html)|`2026-04-02 03:39:00`|`DayZ SA`|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-02 03:38:00`|`Counter-Strike 2`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-02 03:01:00`|`Other FPS Games`|
 |[FREE INTERNAL VALORANT PATCH 12&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742875-free-internal-valorant-patch-12-04-a.html)|`2026-04-02 02:53:00`|`Valorant`|
 |[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746008-apex-dumper.html)|`2026-04-02 02:53:00`|`Apex Legends`|
