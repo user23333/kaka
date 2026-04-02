@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-03 06:59:00`|`Alternative Online Mods`|
+|[Where Winds Meet BUFF Cheat &#40; with source &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746244-winds-meet-buff-cheat-source.html)|`2026-04-03 06:59:00`|`Other MMORPG and Strategy`|
+|[how to compiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/746189-compiler.html)|`2026-04-03 06:51:00`|`Programming for Beginners`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-03 06:51:00`|`Counter-Strike 2 Releases`|
 |[External Silent Aim &#45; missing moving targets &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745198-external-silent-aim-missing-moving-targets-fivem.html)|`2026-04-03 06:31:00`|`Alternative Online Mods`|
 |[Sastasha Injector v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector-v1-7-a.html)|`2026-04-03 06:28:00`|`General Programming and Reversing`|
 |[FiveM Core Lua Patterns / Internal C&#45;API &#40;LTO Bypassed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746240-fivem-core-lua-patterns-internal-api-lto-bypassed.html)|`2026-04-03 06:22:00`|`Alternative Online Mods`|
