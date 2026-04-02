@@ -14,6 +14,7 @@
 |14|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-02 04:44:34`|`anti-cheat-bypass`|
 |9|[Marvel Rivals Kernel Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744872-marvel-rivals-kernel-blocker.html)|`2026-04-02 06:01:37`|`marvel-rivals`|
 |2|[EverSiege: Untold Ages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/744918-eversiege-untold-ages.html)|`2026-04-02 06:45:12`|`cheat-engine-tables`|
+|7|[Valorant &#124; Aimbot, Triggerbot, Spoofer, InstaLock &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745826-valorant-aimbot-triggerbot-spoofer-instalock-source-code.html)|`2026-04-02 09:00:10`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Mouse NoRecoil 1&#46;0 IS OUT &#91;Recoil Helpy&#93;&#91;Auto Config&#93;&#91;probably UD&#93;&#91;UNIVERSAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/620039-mouse-norecoil-1-0-recoil-helpy-auto-config-probably-ud-universal.html)|`2026-04-02 08:54:00`|`Rainbow Six Siege`|
+|[HWID SPOOFING BYPASS &#40;FORTNITE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/726344-hwid-spoofing-bypass-fortnite.html)|`2026-04-02 08:54:00`|`Anti-Cheat Bypass`|
+|[Bloodstrike Python SDK &#91;PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730162-bloodstrike-python-sdk-pc.html)|`2026-04-02 08:46:00`|`Other FPS Games`|
+|[Triggerbot delay for vaclive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746045-triggerbot-delay-vaclive.html)|`2026-04-02 08:43:00`|`Counter-Strike 2`|
+|[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-02 08:39:00`|`Anti-Cheat Bypass`|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-04-02 08:37:00`|`Garry's Mod`|
 |[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-02 07:46:00`|`Other FPS Games`|
 |[Ai base aimbot & rcs &#40;python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739984-ai-base-aimbot-rcs-python.html)|`2026-04-02 07:39:00`|`Counter-Strike 2`|
 |[Knife Animation OK but model is not updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744229-knife-animation-ok-model-updating.html)|`2026-04-02 07:29:00`|`Counter-Strike 2`|
