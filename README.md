@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Silent Aim &#45; missing moving targets &#40;FiveM&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745198-external-silent-aim-missing-moving-targets-fivem.html)|`2026-04-03 06:31:00`|`Alternative Online Mods`|
+|[Sastasha Injector v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector-v1-7-a.html)|`2026-04-03 06:28:00`|`General Programming and Reversing`|
+|[FiveM Core Lua Patterns / Internal C&#45;API &#40;LTO Bypassed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746240-fivem-core-lua-patterns-internal-api-lto-bypassed.html)|`2026-04-03 06:22:00`|`Alternative Online Mods`|
+|[rappel thru walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745628-rappel-thru-walls.html)|`2026-04-03 06:16:00`|`Rainbow Six Siege`|
+|[own cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746236-own-cheat.html)|`2026-04-03 06:16:00`|`Valorant`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-03 05:58:00`|`Counter-Strike 2 Releases`|
 |[Lua executpr rocx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745986-lua-executpr-rocx.html)|`2026-04-03 05:58:00`|`Garry's Mod`|
 |[Cheat development workflow ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746147-cheat-development-workflow.html)|`2026-04-03 05:58:00`|`Counter-Strike 2`|
