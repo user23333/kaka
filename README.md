@@ -40,9 +40,14 @@
 |2|[XSHOT v0&#46;1 &#45; External AI&#45;CV Assistant &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54050)|`2026-04-02 16:39:47`|
 |3|[TModloader 1&#46;4&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54057)|`2026-04-02 17:39:38`|
 |3|[RUSTDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54048)|`2026-04-02 17:39:38`|
+|12|[Apex Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54055)|`2026-04-02 21:46:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get IP address of GTA Online players &#40;working battleye&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/746156-ip-address-gta-online-players-battleye.html)|`2026-04-02 21:46:00`|`Grand Theft Auto V`|
+|[VGC EU SERVERS DOWN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746145-vgc-eu-servers.html)|`2026-04-02 21:43:00`|`Valorant`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-04-02 21:41:00`|`Other FPS Games`|
+|[Valorant VGC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745476-valorant-vgc.html)|`2026-04-02 21:33:00`|`Anti-Cheat Bypass`|
 |[&#91;VOTE&#93; April 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/745117-vote-april-2026-month.html)|`2026-04-02 19:55:00`|`Member of the Month`|
 |[I'm Making ESP for Knives Out but not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745082-im-esp-knives.html)|`2026-04-02 19:51:00`|`Other FPS Games`|
 |[FiveM Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745811-fivem-internal-base.html)|`2026-04-02 19:47:00`|`Alternative Online Mods`|
