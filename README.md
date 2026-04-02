@@ -31,9 +31,19 @@
 |7|[TarkovAddons v1&#46;2&#46;0 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54068)|`2026-04-03 04:56:21`|
 |2|[manlar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54069)|`2026-04-03 05:28:29`|
 |2|[waif&#95;v4&#46;5&#46;0&#95;020406](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54056)|`2026-04-03 05:28:29`|
+|1|[Abi source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54066)|`2026-04-03 05:59:47`|
+|1|[rocx source ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54061)|`2026-04-03 05:59:47`|
+|1|[rocx glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54060)|`2026-04-03 05:59:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-03 05:58:00`|`Counter-Strike 2 Releases`|
+|[Lua executpr rocx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745986-lua-executpr-rocx.html)|`2026-04-03 05:58:00`|`Garry's Mod`|
+|[Cheat development workflow ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746147-cheat-development-workflow.html)|`2026-04-03 05:58:00`|`Counter-Strike 2`|
+|[Payday 2 Trainer Latest Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/744012-payday-2-trainer-update.html)|`2026-04-03 05:58:00`|`Payday 2`|
+|[Free Cheat External CHeat Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742719-free-cheat-external-cheat-arena-breakout-infinite.html)|`2026-04-03 05:51:00`|`Other FPS Games`|
+|[Help with making a Rust "Cheat"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746231-help-rust-cheat.html)|`2026-04-03 05:51:00`|`Rust`|
+|[Do vanguard ban gpu and ram too ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738799-vanguard-ban-gpu-ram.html)|`2026-04-03 05:47:00`|`Valorant`|
 |[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-04-03 05:27:00`|`Other FPS Games`|
 |[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-03 05:19:00`|`Counter-Strike 2`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-03 05:19:00`|`Other FPS Games`|
