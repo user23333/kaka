@@ -38,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How does one hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745922-hack.html)|`2026-04-02 14:28:00`|`Apex Legends`|
+|[introduction from me manis as a new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746093-introduction-manis.html)|`2026-04-02 14:26:00`|`Introductions`|
+|[Valorant collor bot with makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746074-valorant-collor-bot-makcu.html)|`2026-04-02 14:24:00`|`Valorant`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-04-02 14:23:00`|`Call of Duty: Black Ops 7`|
+|[Fix for stream files &#40;ydr, ydd,&#46;&#46;&#46;&#41; &#40;New update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746083-fix-stream-files-ydr-ydd-update.html)|`2026-04-02 14:21:00`|`Alternative Online Mods`|
+|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-02 14:17:00`|`Anti-Cheat Bypass`|
 |[Streamproof visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/746085-streamproof-visuals.html)|`2026-04-02 13:22:00`|`Call of Duty 6: Modern Warfare 2`|
 |[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-02 13:21:00`|`Other FPS Games`|
 |[delta force steam SDK dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746079-delta-force-steam-sdk-dump.html)|`2026-04-02 13:14:00`|`Other FPS Games`|
