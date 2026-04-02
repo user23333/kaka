@@ -29,9 +29,16 @@
 |2|[Test](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54067)|`2026-04-03 03:10:15`|
 |48|[The Division 2 Hack v3&#46;0&#46;0 Rise Up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54070)|`2026-04-03 04:20:36`|
 |7|[TarkovAddons v1&#46;2&#46;0 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54068)|`2026-04-03 04:56:21`|
+|2|[manlar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54069)|`2026-04-03 05:28:29`|
+|2|[waif&#95;v4&#46;5&#46;0&#95;020406](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54056)|`2026-04-03 05:28:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-04-03 05:27:00`|`Other FPS Games`|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-03 05:19:00`|`Counter-Strike 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-03 05:19:00`|`Other FPS Games`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-04-03 05:18:00`|`Other FPS Games`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-03 05:17:00`|`Apex Legends`|
 |[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-04-03 04:47:00`|`Apex Legends`|
 |[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-04-03 04:45:00`|`Rust`|
 |[APEXDMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744606-apexdma-esp.html)|`2026-04-03 04:35:00`|`Apex Legends`|
