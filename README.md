@@ -38,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-02 15:43:00`|`Counter-Strike 2 Releases`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-02 15:38:00`|`Other FPS Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-02 15:33:00`|`Other FPS Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-04-02 15:29:00`|`Other FPS Games`|
+|[mw19 gsc injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745729-mw19-gsc-injector.html)|`2026-04-02 15:25:00`|`Call of Duty: Modern Warfare`|
+|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-04-02 15:02:00`|`Anti-Cheat Bypass`|
 |[How does one hack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745922-hack.html)|`2026-04-02 14:28:00`|`Apex Legends`|
 |[introduction from me manis as a new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746093-introduction-manis.html)|`2026-04-02 14:26:00`|`Introductions`|
 |[Valorant collor bot with makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746074-valorant-collor-bot-makcu.html)|`2026-04-02 14:24:00`|`Valorant`|
