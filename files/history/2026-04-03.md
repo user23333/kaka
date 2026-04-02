@@ -11,6 +11,7 @@
 |7|[Rust Clean AutoUpdate ESP w driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745149-rust-clean-autoupdate-esp-driver.html)|`2026-04-03 00:33:05`|`rust`|
 |6|[Temp Spoofer Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745150-temp-spoofer-driver.html)|`2026-04-03 00:33:05`|`anti-cheat-bypass`|
 |7|[how to make this esp work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745068-esp.html)|`2026-04-03 00:33:05`|`arc-raiders`|
+|5|[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-04-03 07:38:33`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Battle Golf Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746254-super-battle-golf-aim.html)|`2026-04-03 07:28:00`|`Other Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-03 07:28:00`|`Other FPS Games`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-03 07:26:00`|`Alternative Online Mods`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-03 06:59:00`|`Alternative Online Mods`|
 |[Where Winds Meet BUFF Cheat &#40; with source &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746244-winds-meet-buff-cheat-source.html)|`2026-04-03 06:59:00`|`Other MMORPG and Strategy`|
 |[how to compiler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/746189-compiler.html)|`2026-04-03 06:51:00`|`Programming for Beginners`|
