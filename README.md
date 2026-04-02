@@ -28,9 +28,13 @@
 |10|[Darkside V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54059)|`2026-04-03 01:25:36`|
 |2|[Test](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54067)|`2026-04-03 03:10:15`|
 |48|[The Division 2 Hack v3&#46;0&#46;0 Rise Up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54070)|`2026-04-03 04:20:36`|
+|7|[TarkovAddons v1&#46;2&#46;0 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54068)|`2026-04-03 04:56:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-04-03 04:47:00`|`Apex Legends`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-04-03 04:45:00`|`Rust`|
+|[APEXDMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744606-apexdma-esp.html)|`2026-04-03 04:35:00`|`Apex Legends`|
 |[rustdma Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746031-rustdma-update.html)|`2026-04-03 04:16:00`|`Rust`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-04-03 04:14:00`|`Other MMORPG and Strategy`|
 |[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-03 04:05:00`|`Anti-Cheat Bypass`|
