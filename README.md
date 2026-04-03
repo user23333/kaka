@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-03 16:19:00`|`Apex Legends`|
+|[I'm almost spoofing everything and still VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745876-im-spoofing-van152.html)|`2026-04-03 16:08:00`|`Valorant`|
+|[JFL Legs Toggle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746312-jfl-legs-toggle.html)|`2026-04-03 16:06:00`|`Counter-Strike 2`|
+|[Battleye draw method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746311-battleye-draw-method.html)|`2026-04-03 16:05:00`|`Anti-Cheat Bypass`|
 |[Rust Alkad Cheat, 2622 &#45; 25 March and further with updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745070-rust-alkad-cheat-2622-25-march-updates.html)|`2026-04-03 15:36:00`|`Other Games`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-04-03 15:33:00`|`Other MMORPG and Strategy`|
 |[Asking questions to staff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/745293-questions-staff.html)|`2026-04-03 15:22:00`|`Forum General`|
