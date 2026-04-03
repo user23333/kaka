@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unityplayer&#46;dll pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746293-unityplayer-dll-pdb.html)|`2026-04-04 05:51:00`|`Rust`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2026-04-04 05:49:00`|`Call of Duty: Black Ops 6`|
+|[Free Cheat External CHeat Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742719-free-cheat-external-cheat-arena-breakout-infinite.html)|`2026-04-04 05:40:00`|`Other FPS Games`|
+|[Fix for stream files &#40;ydr, ydd,&#46;&#46;&#46;&#41; &#40;New update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746083-fix-stream-files-ydr-ydd-update.html)|`2026-04-04 05:26:00`|`Alternative Online Mods`|
 |[&#91;Release&#93; Darling v2 &#124; The "Final Straw" Project &#40;BO1/BO2 RGH/JTAG&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/746084-release-darling-v2-final-straw-project-bo1-bo2-rgh-jtag.html)|`2026-04-04 05:10:00`|`Call of Duty: Black Ops 2`|
 |[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-04-04 05:05:00`|`Counter-Strike 2`|
 |[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-04-04 04:49:00`|`ARC Raiders`|
