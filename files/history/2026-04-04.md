@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Release&#93; Darling v2 &#124; The "Final Straw" Project &#40;BO1/BO2 RGH/JTAG&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/746084-release-darling-v2-final-straw-project-bo1-bo2-rgh-jtag.html)|`2026-04-04 05:10:00`|`Call of Duty: Black Ops 2`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-04-04 05:05:00`|`Counter-Strike 2`|
 |[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-04-04 04:49:00`|`ARC Raiders`|
 |[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2026-04-04 04:38:00`|`HELLDIVERS 2`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-04 04:31:00`|`HELLDIVERS 2`|
