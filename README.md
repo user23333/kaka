@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744122-bloodstrike-offsets.html)|`2026-04-03 20:02:00`|`Half Life`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-04-03 19:55:00`|`Other MMORPG and Strategy`|
+|[Need help modifying createMove or whatever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746149-help-modifying-createmove-whatever.html)|`2026-04-03 19:49:00`|`Counter-Strike 2`|
 |[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-04-03 19:30:00`|`Other FPS Games`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-03 19:25:00`|`Counter-Strike 2`|
 |[Help running League on KVM &#43; QEMU &#40;Vanguard bypassing?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745113-help-running-league-kvm-qemu-vanguard-bypassing.html)|`2026-04-03 19:19:00`|`League of Legends`|
