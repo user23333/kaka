@@ -36,9 +36,16 @@
 |1|[Abi source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54066)|`2026-04-03 05:59:47`|
 |1|[rocx source ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54061)|`2026-04-03 05:59:47`|
 |1|[rocx glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54060)|`2026-04-03 05:59:47`|
+|14|[The Division 2 Hack v3&#46;0&#46;1 Rise Up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54075)|`2026-04-03 14:18:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-03 14:14:00`|`Anti-Cheat Bypass`|
+|[how can I open such a process without using OpenProcess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745698-process-using-openprocess.html)|`2026-04-03 14:13:00`|`Anti-Cheat Bypass`|
+|[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-04-03 14:11:00`|`Counterstrike Global Offensive`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-04-03 14:09:00`|`Call of Duty: Black Ops 7`|
+|[Different virt &#45;&#62; phys translation method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746206-virt-phys-translation-method.html)|`2026-04-03 14:09:00`|`Anti-Cheat Bypass`|
+|[Failed to allocate memory, write memory, create remote threat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745829-failed-allocate-memory-write-memory-create-remote-threat.html)|`2026-04-03 14:02:00`|`Anti-Cheat Bypass`|
 |[bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746296-bullet-tracers.html)|`2026-04-03 13:12:00`|`Counter-Strike 2`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-04-03 13:10:00`|`Rainbow Six Siege`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-03 13:04:00`|`Tom Clancy's The Division`|
