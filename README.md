@@ -15,6 +15,7 @@
 |34|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-03 11:19:31`|`other-fps-games`|
 |14|[ABYSS RIVALS &#124; Giving Back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745837-abyss-rivals-giving.html)|`2026-04-03 18:07:06`|`marvel-rivals`|
 |7|[External chams &#45; Pixel depth raycasting &#40;vis/invis check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745472-external-chams-pixel-depth-raycasting-vis-invis-check.html)|`2026-04-03 18:58:35`|`counter-strike-2-a`|
+|9|[Rounded skeleton esp &#40;smoothed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745391-rounded-skeleton-esp-smoothed.html)|`2026-04-03 23:36:00`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,9 +43,12 @@
 |4|[DMA&#45;Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54076)|`2026-04-03 15:38:09`|
 |1|[manlar update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54081)|`2026-04-03 21:22:30`|
 |4|[BloodStrike External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54080)|`2026-04-03 22:08:13`|
+|7|[0xFCH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54079)|`2026-04-03 23:36:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introduction Post&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746358-introduction-post.html)|`2026-04-03 23:29:00`|`Introductions`|
+|[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/628883-roblox-offsets.html)|`2026-04-03 23:05:00`|`Roblox`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-03 22:57:00`|`Rust`|
 |[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-04-03 22:53:00`|`Marvel Rivals`|
 |[STALCRAFT X Simple chams and fullbright by Alzzz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731633-stalcraft-simple-chams-fullbright-alzzz.html)|`2026-04-03 22:47:00`|`Other FPS Games`|
