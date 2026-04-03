@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I built an external ESP cheat for Overwatch&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-built-external-esp-cheat-overwatch.html)|`2026-04-04 06:52:00`|`Overwatch`|
+|[Where should I start for Roblox hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/746255-start-roblox-hacking.html)|`2026-04-04 06:47:00`|`Roblox`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2026-04-04 06:47:00`|`Other FPS Games`|
+|[Fatdad61's OW Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739773-fatdad61s-ow-colorbot.html)|`2026-04-04 06:45:00`|`Overwatch`|
+|[Auto offset updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746271-auto-offset-updater.html)|`2026-04-04 06:44:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-04 06:41:00`|`Marvel Rivals`|
 |[Member of the Month &#45; April 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/746397-month-april-2026-a.html)|`2026-04-04 06:10:00`|`Member of the Month`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-04-04 06:05:00`|`Other MMORPG and Strategy`|
 |[unityplayer&#46;dll pdb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746293-unityplayer-dll-pdb.html)|`2026-04-04 05:51:00`|`Rust`|
