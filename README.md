@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IMG Loader in CS2 ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746281-img-loader-cs2-imgui-menu.html)|`2026-04-04 07:15:00`|`Counter-Strike 2`|
+|[how make always shoot? internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746408-shoot-internal.html)|`2026-04-04 07:14:00`|`Rust`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-04-04 07:06:00`|`Other FPS Games`|
+|[CS2 cheat base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746405-cs2-cheat-base.html)|`2026-04-04 06:59:00`|`Counter-Strike 2`|
 |[I built an external ESP cheat for Overwatch&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-built-external-esp-cheat-overwatch.html)|`2026-04-04 06:52:00`|`Overwatch`|
 |[Where should I start for Roblox hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/746255-start-roblox-hacking.html)|`2026-04-04 06:47:00`|`Roblox`|
 |[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2026-04-04 06:47:00`|`Other FPS Games`|
