@@ -40,9 +40,13 @@
 |1|[rocx glua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54060)|`2026-04-03 05:59:47`|
 |14|[The Division 2 Hack v3&#46;0&#46;1 Rise Up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54075)|`2026-04-03 14:18:30`|
 |4|[DMA&#45;Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54076)|`2026-04-03 15:38:09`|
+|1|[manlar update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54081)|`2026-04-03 21:22:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2026-04-03 21:18:00`|`Other MMORPG and Strategy`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-04-03 21:16:00`|`Other FPS Games`|
+|[Bloodstrike skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746065-bloodstrike-skin-changer.html)|`2026-04-03 21:02:00`|`Other FPS Games`|
 |[Bloodstrike offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744122-bloodstrike-offsets.html)|`2026-04-03 20:02:00`|`Half Life`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-04-03 19:55:00`|`Other MMORPG and Strategy`|
 |[Need help modifying createMove or whatever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746149-help-modifying-createmove-whatever.html)|`2026-04-03 19:49:00`|`Counter-Strike 2`|
