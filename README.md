@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-03 22:57:00`|`Rust`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-04-03 22:53:00`|`Marvel Rivals`|
+|[STALCRAFT X Simple chams and fullbright by Alzzz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731633-stalcraft-simple-chams-fullbright-alzzz.html)|`2026-04-03 22:47:00`|`Other FPS Games`|
+|[Fix for stream files &#40;ydr, ydd,&#46;&#46;&#46;&#41; &#40;New update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746083-fix-stream-files-ydr-ydd-update.html)|`2026-04-03 22:46:00`|`Alternative Online Mods`|
+|[TFT In&#45;Game Shop Manager is not collecting the data of shop value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/746164-tft-game-shop-manager-collecting-data-shop-value.html)|`2026-04-03 22:44:00`|`League of Legends`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-03 22:37:00`|`HELLDIVERS 2`|
 |[IMG Loader in CS2 ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746281-img-loader-cs2-imgui-menu.html)|`2026-04-03 22:07:00`|`Counter-Strike 2`|
 |[How to run cs2 offline with skins?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746321-run-cs2-offline-skins.html)|`2026-04-03 22:07:00`|`Counter-Strike 2`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-03 22:01:00`|`Other Games`|
