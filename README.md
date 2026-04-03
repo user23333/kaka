@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Triggerbot delay for vaclive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746045-triggerbot-delay-vaclive.html)|`2026-04-04 03:06:00`|`Counter-Strike 2`|
+|[The Asian](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746368-asian.html)|`2026-04-04 03:01:00`|`Introductions`|
+|[BloodStrike &#45; Steam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746317-bloodstrike-steam-internal.html)|`2026-04-04 02:57:00`|`Other FPS Games`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-04 02:53:00`|`HELLDIVERS 2`|
+|[Aimbot Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/744725-aimbot-method.html)|`2026-04-04 02:47:00`|`Rust`|
 |[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-04 02:26:00`|`Anti-Cheat Bypass`|
 |[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-04-04 02:21:00`|`CounterStrike Source`|
 |[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2026-04-04 02:19:00`|`Phasmophobia`|
