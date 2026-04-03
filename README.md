@@ -24,9 +24,13 @@
 |218|[TarkovAddons v1&#46;2&#46;0 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54068)|`2026-04-04 00:04:38`|
 |19|[Test](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54067)|`2026-04-04 00:04:38`|
 |39|[Abi source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54066)|`2026-04-04 00:04:38`|
+|3|[dump skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54083)|`2026-04-04 04:54:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SDK stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741522-sdk-stuff.html)|`2026-04-04 04:49:00`|`ARC Raiders`|
+|[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2026-04-04 04:38:00`|`HELLDIVERS 2`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-04 04:31:00`|`HELLDIVERS 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-04 04:17:00`|`Overwatch`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-04 04:08:00`|`Apex Legends`|
 |[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-04 04:06:00`|`Anti-Cheat Bypass`|
