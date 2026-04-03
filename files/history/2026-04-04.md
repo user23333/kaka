@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-04 04:17:00`|`Overwatch`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-04 04:08:00`|`Apex Legends`|
+|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-04 04:06:00`|`Anti-Cheat Bypass`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-04 04:06:00`|`Marvel Rivals`|
+|[anyone got a roblox noclip external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/740350-roblox-noclip-external.html)|`2026-04-04 04:01:00`|`Roblox`|
+|[seed trigger improvments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746386-seed-trigger-improvments.html)|`2026-04-04 04:01:00`|`Counter-Strike 2`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-04-04 03:58:00`|`Overwatch`|
 |[live hitlogs &#40;can be considered player&#95;hurt event&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746382-live-hitlogs-considered-player_hurt-event.html)|`2026-04-04 03:44:00`|`Counter-Strike 2`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-04 03:41:00`|`Tom Clancy's The Division`|
 |[Cheats for &#46;r4v3n release?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/745597-cheats-r4v3n-release.html)|`2026-04-04 03:37:00`|`Call of Duty: Modern Warfare III`|
