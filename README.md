@@ -43,6 +43,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-04-03 19:30:00`|`Other FPS Games`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-03 19:25:00`|`Counter-Strike 2`|
+|[Help running League on KVM &#43; QEMU &#40;Vanguard bypassing?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/745113-help-running-league-kvm-qemu-vanguard-bypassing.html)|`2026-04-03 19:19:00`|`League of Legends`|
+|[Free Apex Coins/Cheap Coins Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/693249-free-apex-coins-cheap-coins-thread.html)|`2026-04-03 19:19:00`|`Apex Legends`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-03 19:17:00`|`Other MMORPG and Strategy`|
+|[Arc Raiders Steam Build &#45; UWorld Offset Verification & Encryption Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745941-arc-raiders-steam-build-uworld-offset-verification-encryption-check.html)|`2026-04-03 19:15:00`|`ARC Raiders`|
+|[infinite accounts using Microsoft store to buy arc raiders?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746180-infinite-accounts-using-microsoft-store-buy-arc-raiders.html)|`2026-04-03 19:12:00`|`ARC Raiders`|
 |[mono game offset dumping?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742133-mono-game-offset-dumping.html)|`2026-04-03 18:53:00`|`General Programming and Reversing`|
 |[SoundSight: CS2 Audio ESP &#45; 3D Spatial Sound Radar for Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/691687-soundsight-cs2-audio-esp-3d-spatial-sound-radar-enemy-detection.html)|`2026-04-03 18:44:00`|`Counter-Strike 2`|
 |[Win11 25H2 crash dumps always corrupted &#40;0% written&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746322-win11-25h2-crash-dumps-corrupted-0-written.html)|`2026-04-03 18:42:00`|`Anti-Cheat Bypass`|
