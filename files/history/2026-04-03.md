@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-04-03 17:05:00`|`Counter-Strike 2`|
+|[Manlar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746198-manlar-cheat.html)|`2026-04-03 16:37:00`|`Counter-Strike 2`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-04-03 16:37:00`|`Apex Legends`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-03 16:19:00`|`Apex Legends`|
 |[I'm almost spoofing everything and still VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745876-im-spoofing-van152.html)|`2026-04-03 16:08:00`|`Valorant`|
 |[JFL Legs Toggle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746312-jfl-legs-toggle.html)|`2026-04-03 16:06:00`|`Counter-Strike 2`|
