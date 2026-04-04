@@ -33,9 +33,17 @@
 |2|[Fish&#43;&#43; Hytale 04/04/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54100)|`2026-04-05 05:57:19`|
 |12|[TarkovAddons v1&#46;2&#46;1 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54088)|`2026-04-05 05:57:19`|
 |4|[CS2 SIG Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54090)|`2026-04-05 06:22:51`|
+|8|[rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54103)|`2026-04-05 06:54:19`|
+|4|[JawSnow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54089)|`2026-04-05 06:54:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[nreal Engine 5 Overlay &#45; ESP points are static/frozen &#40;Camera/Actor Logic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746542-nreal-engine-5-overlay-esp-static-frozen-camera-actor-logic.html)|`2026-04-05 06:45:00`|`ARC Raiders`|
+|[Mapping 'gameAssetId' from Inventory API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741198-mapping-gameassetid-inventory-api.html)|`2026-04-05 06:45:00`|`ARC Raiders`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-05 06:42:00`|`League of Legends`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-04-05 06:39:00`|`Marvel Rivals`|
+|[UE5 Visual Inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746540-ue5-visual-inspection.html)|`2026-04-05 06:38:00`|`Valorant`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-04-05 06:31:00`|`Counter-Strike 2`|
 |[Pak Utoc Files skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744096-pak-utoc-files-skins.html)|`2026-04-05 06:18:00`|`Valorant`|
 |[CS2 Sig Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746430-cs2-sig-dumper.html)|`2026-04-05 06:15:00`|`Counter-Strike 2`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-05 06:11:00`|`Counter-Strike 2 Releases`|
