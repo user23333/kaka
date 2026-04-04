@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-05 03:53:00`|`Marvel Rivals`|
 |[How to use LoadLibrary without real disk file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743943-loadlibrary-real-disk-file.html)|`2026-04-05 03:49:00`|`Anti-Cheat Bypass`|
 |[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745526-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-04-05 03:48:00`|`Grand Theft Auto V`|
 |[hvci bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746519-hvci-bypass.html)|`2026-04-05 03:40:00`|`Valorant`|
