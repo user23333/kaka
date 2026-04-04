@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fixing DualPass Chams Color Blending in GeneratePrimitives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746446-fixing-dualpass-chams-color-blending-generateprimitives.html)|`2026-04-04 17:46:00`|`Counter-Strike 2`|
+|[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-04 17:37:00`|`Counter-Strike 2`|
+|[FiveM Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745811-fivem-internal-base.html)|`2026-04-04 17:34:00`|`Alternative Online Mods`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-04-04 17:27:00`|`Other FPS Games`|
 |[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2026-04-04 16:50:00`|`Marvel Rivals`|
 |[An unorthodox way to complete the Original Criminal Mastermind challenge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731747-unorthodox-complete-original-criminal-mastermind-challenge.html)|`2026-04-04 16:36:00`|`Grand Theft Auto V`|
 |[Theia Unreal Engine Patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746443-theia-unreal-engine-patches.html)|`2026-04-04 16:35:00`|`Anti-Cheat Bypass`|
