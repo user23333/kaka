@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2026-04-04 21:40:00`|`Anti-Cheat Bypass`|
+|[Apex Third Person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/505977-apex-third-person.html)|`2026-04-04 21:31:00`|`Apex Legends`|
+|[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-04-04 21:29:00`|`Anti-Cheat Bypass`|
+|[TFT In&#45;Game Shop Manager is not collecting the data of shop value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/746164-tft-game-shop-manager-collecting-data-shop-value.html)|`2026-04-04 21:26:00`|`League of Legends`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-04-04 19:51:00`|`Other FPS Games`|
 |[Combat Arms Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/65940-combat-arms-reversal-structs-offsets.html)|`2026-04-04 19:47:00`|`Combat Arms`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-04-04 19:42:00`|`Counter-Strike 2`|
