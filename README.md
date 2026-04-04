@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Anticheat Disabler &#40;You can play online&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/687866-anticheat-disabler-play-online.html)|`2026-04-04 16:50:00`|`Marvel Rivals`|
+|[An unorthodox way to complete the Original Criminal Mastermind challenge](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731747-unorthodox-complete-original-criminal-mastermind-challenge.html)|`2026-04-04 16:36:00`|`Grand Theft Auto V`|
+|[Theia Unreal Engine Patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746443-theia-unreal-engine-patches.html)|`2026-04-04 16:35:00`|`Anti-Cheat Bypass`|
 |[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-04 15:53:00`|`Counter-Strike 2 Releases`|
 |[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-04-04 15:52:00`|`Other FPS Games`|
 |[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-04-04 15:51:00`|`Counter-Strike 2`|
