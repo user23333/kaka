@@ -11,6 +11,7 @@
 |18|[ABYSS RIVALS &#124; Giving Back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745837-abyss-rivals-giving.html)|`2026-04-05 00:03:18`|`marvel-rivals`|
 |10|[Rounded skeleton esp &#40;smoothed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745391-rounded-skeleton-esp-smoothed.html)|`2026-04-05 00:03:18`|`counter-strike-2-a`|
 |7|[External chams &#45; Pixel depth raycasting &#40;vis/invis check&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745472-external-chams-pixel-depth-raycasting-vis-invis-check.html)|`2026-04-05 00:03:18`|`counter-strike-2-a`|
+|9|[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-05 06:22:51`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,14 @@
 |6|[V1&#46;1 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54087)|`2026-04-05 02:56:36`|
 |2|[Fish&#43;&#43; Hytale 04/04/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54100)|`2026-04-05 05:57:19`|
 |12|[TarkovAddons v1&#46;2&#46;1 Community Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54088)|`2026-04-05 05:57:19`|
+|4|[CS2 SIG Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54090)|`2026-04-05 06:22:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pak Utoc Files skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744096-pak-utoc-files-skins.html)|`2026-04-05 06:18:00`|`Valorant`|
+|[CS2 Sig Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746430-cs2-sig-dumper.html)|`2026-04-05 06:15:00`|`Counter-Strike 2`|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-05 06:11:00`|`Counter-Strike 2 Releases`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-05 06:02:00`|`Other FPS Games`|
 |[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2026-04-05 05:50:00`|`Combat Arms`|
 |[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2026-04-05 05:46:00`|`Call of Duty 4: Modern Warfare`|
 |[Fish&#43;&#43; hytale internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737521-fish-hytale-internal-base.html)|`2026-04-05 05:45:00`|`Other MMORPG and Strategy`|
