@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[a2x dumper offsets invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745116-a2x-dumper-offsets-invalid.html)|`2026-04-04 22:12:00`|`Counter-Strike 2`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-04-04 22:06:00`|`Apex Legends`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-04-04 22:05:00`|`Rainbow Six Siege`|
+|[XShot X0&#46;1 &#45; External AI&#45;CV Assistant &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745100-xshot-x0-1-external-ai-cv-assistant-poc.html)|`2026-04-04 21:58:00`|`Counter-Strike 2 Releases`|
 |[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2026-04-04 21:40:00`|`Anti-Cheat Bypass`|
 |[Apex Third Person](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/505977-apex-third-person.html)|`2026-04-04 21:31:00`|`Apex Legends`|
 |[EAC's december update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740475-eacs-december-update.html)|`2026-04-04 21:29:00`|`Anti-Cheat Bypass`|
