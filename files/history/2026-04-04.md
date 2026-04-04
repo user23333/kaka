@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-04 15:53:00`|`Counter-Strike 2 Releases`|
+|[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-04-04 15:52:00`|`Other FPS Games`|
+|[How to draw chams externally&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744681-draw-chams-externally.html)|`2026-04-04 15:51:00`|`Counter-Strike 2`|
+|["fix" player simulation when using speedhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/746440-fix-player-simulation-using-speedhack.html)|`2026-04-04 15:26:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[New 2FA Requirement For New Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/746439-2fa-requirement-accounts.html)|`2026-04-04 15:13:00`|`Call of Duty: Black Ops 7`|
 |[NEXUS &#45; Internal Mod Menu w/ SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745643-nexus-internal-mod-menu-source-code.html)|`2026-04-04 14:42:00`|`Marvel Rivals`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-04 14:42:00`|`Other Games`|
