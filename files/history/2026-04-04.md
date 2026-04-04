@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sh&#42;ttest QT esp overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746432-sh-ttest-qt-esp-overwatch.html)|`2026-04-04 13:42:00`|`Overwatch`|
+|[Need Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746433-sigs.html)|`2026-04-04 13:28:00`|`Counter-Strike 2`|
 |[mono game offset dumping?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742133-mono-game-offset-dumping.html)|`2026-04-04 13:01:00`|`General Programming and Reversing`|
 |[CS2 Sig Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746430-cs2-sig-dumper.html)|`2026-04-04 12:39:00`|`Counter-Strike 2`|
 |[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-04-04 12:30:00`|`Anti-Cheat Bypass`|
