@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-04-05 07:05:00`|`Counterstrike Global Offensive`|
+|[Phasmo Save Editor &#40;All items/Cosmetics/Money/Lv & Prestige Editor/etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/708592-phasmo-save-editor-items-cosmetics-money-lv-prestige-editor-etc.html)|`2026-04-05 06:56:00`|`Phasmophobia`|
+|[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2026-04-05 06:56:00`|`HELLDIVERS 2`|
 |[nreal Engine 5 Overlay &#45; ESP points are static/frozen &#40;Camera/Actor Logic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746542-nreal-engine-5-overlay-esp-static-frozen-camera-actor-logic.html)|`2026-04-05 06:45:00`|`ARC Raiders`|
 |[Mapping 'gameAssetId' from Inventory API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741198-mapping-gameassetid-inventory-api.html)|`2026-04-05 06:45:00`|`ARC Raiders`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-05 06:42:00`|`League of Legends`|
