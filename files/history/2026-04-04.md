@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mono game offset dumping?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742133-mono-game-offset-dumping.html)|`2026-04-04 13:01:00`|`General Programming and Reversing`|
+|[CS2 Sig Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746430-cs2-sig-dumper.html)|`2026-04-04 12:39:00`|`Counter-Strike 2`|
+|[certain p2c's vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739520-p2cs-vulnerable-driver.html)|`2026-04-04 12:30:00`|`Anti-Cheat Bypass`|
+|[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-04-04 12:14:00`|`Paladins`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-04-04 11:22:00`|`Other FPS Games`|
 |[INSANE&#46;tf2 &#40; new bad cheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/727997-insane-tf2-bad-cheat.html)|`2026-04-04 11:20:00`|`Team Fortress 2`|
 |[CS2 Internal Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746391-cs2-internal-skin-changer.html)|`2026-04-04 11:15:00`|`Counter-Strike 2`|
