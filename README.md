@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[syscall hook&#46; new year new method&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741260-syscall-hook-method.html)|`2026-04-05 00:45:00`|`Anti-Cheat Bypass`|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-04-05 00:43:00`|`Other FPS Games`|
+|[CR3 Bypass needed again?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746482-cr3-bypass.html)|`2026-04-05 00:43:00`|`Apex Legends`|
+|[seed trigger improvments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746386-seed-trigger-improvments.html)|`2026-04-05 00:42:00`|`Counter-Strike 2`|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-04-05 00:41:00`|`CounterStrike Source`|
+|[something is worng with my code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746428-worng-code.html)|`2026-04-05 00:41:00`|`ARC Raiders`|
+|[Getting UWorld Pointer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746462-getting-uworld-pointer.html)|`2026-04-05 00:39:00`|`ARC Raiders`|
+|[New 2FA Requirement For New Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/746439-2fa-requirement-accounts.html)|`2026-04-05 00:33:00`|`Call of Duty: Black Ops 7`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-04-05 00:33:00`|`DayZ SA`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-04 23:58:00`|`Escape from Tarkov`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-04 23:53:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-04 23:51:00`|`Rust`|
