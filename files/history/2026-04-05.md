@@ -28,9 +28,15 @@
 |4|[shittestqtoverwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54091)|`2026-04-05 01:48:47`|
 |4|[Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54084)|`2026-04-05 01:48:47`|
 |1|[S2Cheat&#45;2026&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54077)|`2026-04-05 01:48:47`|
+|6|[V1&#46;1 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54087)|`2026-04-05 02:56:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to find Functions on Ida pro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/746511-functions-ida-pro.html)|`2026-04-05 02:48:00`|`General Programming and Reversing`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-05 02:33:00`|`Rust`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-05 02:31:00`|`ARC Raiders`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-04-05 02:29:00`|`Garry's Mod`|
+|[How to hook CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746452-hook-createmove.html)|`2026-04-05 02:28:00`|`Counter-Strike 2`|
 |[Rounded skeleton esp &#40;smoothed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745391-rounded-skeleton-esp-smoothed.html)|`2026-04-05 02:01:00`|`Counter-Strike 2`|
 |[Valorant collor bot with makcu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746074-valorant-collor-bot-makcu.html)|`2026-04-05 02:01:00`|`Valorant`|
 |[ESP VALORANT FREE &#40;wallhack hack&#41; HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736054-esp-valorant-free-wallhack-hack-help.html)|`2026-04-05 01:59:00`|`Valorant`|
