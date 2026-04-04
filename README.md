@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-04 19:05:00`|`Rust`|
 |[Plutonium &#45; CL&#95;WritePacket VEH Issues&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/746454-plutonium-cl_writepacket-veh-issues.html)|`2026-04-04 18:53:00`|`Call of Duty: Black Ops 2`|
 |[How to hook CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746452-hook-createmove.html)|`2026-04-04 18:48:00`|`Counter-Strike 2`|
 |[hwid unban method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741072-hwid-unban-method.html)|`2026-04-04 18:40:00`|`Rust`|
