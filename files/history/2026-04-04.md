@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-04 08:57:00`|`Alternative Online Mods`|
+|[Friday The 13th Internal &#40;Ressurected&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735493-friday-13th-internal-ressurected.html)|`2026-04-04 08:30:00`|`Other FPS Games`|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-04 08:26:00`|`Anti-Cheat Bypass`|
+|[Fixing issues with MXT menu after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/745360-fixing-issues-mxt-menu-update.html)|`2026-04-04 08:24:00`|`Call of Duty: Black Ops 3`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-04-04 08:19:00`|`Counter-Strike 2 Releases`|
 |[APEX ESPDMA Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745808-apex-espdma-update.html)|`2026-04-04 07:40:00`|`Apex Legends`|
 |[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-04 07:30:00`|`Alternative Online Mods`|
 |[IMG Loader in CS2 ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746281-img-loader-cs2-imgui-menu.html)|`2026-04-04 07:15:00`|`Counter-Strike 2`|
