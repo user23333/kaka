@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New 2FA Requirement For New Accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/746439-2fa-requirement-accounts.html)|`2026-04-04 15:13:00`|`Call of Duty: Black Ops 7`|
+|[NEXUS &#45; Internal Mod Menu w/ SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745643-nexus-internal-mod-menu-source-code.html)|`2026-04-04 14:42:00`|`Marvel Rivals`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-04 14:42:00`|`Other Games`|
+|[ESP not aligned to camera correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745282-esp-aligned-camera-correctly.html)|`2026-04-04 14:39:00`|`Marvel Rivals`|
+|[MAUI'S AI THE FINALS COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/743944-mauis-ai-finals-colorbot.html)|`2026-04-04 14:28:00`|`THE FINALS`|
 |[Sh&#42;ttest QT esp overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746432-sh-ttest-qt-esp-overwatch.html)|`2026-04-04 13:42:00`|`Overwatch`|
 |[Need Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746433-sigs.html)|`2026-04-04 13:28:00`|`Counter-Strike 2`|
 |[mono game offset dumping?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742133-mono-game-offset-dumping.html)|`2026-04-04 13:01:00`|`General Programming and Reversing`|
