@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UEFI Type&#45;1 Hypervisor &#40;Ophion&#41; — Windows hangs after chainload, QEMU nested VT&#45;x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744587-uefi-type-1-hypervisor-ophion-windows-hangs-chainload-qemu-nested-vt.html)|`2026-04-04 23:14:00`|`Anti-Cheat Bypass`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-04 23:07:00`|`Other FPS Games`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-04 23:02:00`|`Other FPS Games`|
 |[Looking for reseller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746475-looking-reseller.html)|`2026-04-04 22:53:00`|`Valorant`|
 |[Minecraft 1&#46;21&#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/746275-minecraft-1-21-injector.html)|`2026-04-04 22:47:00`|`Minecraft`|
 |[Apex Legends DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745431-apex-legends-dma-esp.html)|`2026-04-04 22:34:00`|`Apex Legends`|
