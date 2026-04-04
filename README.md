@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Plutonium &#45; CL&#95;WritePacket VEH Issues&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/746454-plutonium-cl_writepacket-veh-issues.html)|`2026-04-04 18:53:00`|`Call of Duty: Black Ops 2`|
+|[How to hook CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746452-hook-createmove.html)|`2026-04-04 18:48:00`|`Counter-Strike 2`|
+|[hwid unban method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/741072-hwid-unban-method.html)|`2026-04-04 18:40:00`|`Rust`|
+|[Evelyn &#45; Simple Unlocker for Dead By Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740210-evelyn-simple-unlocker-dead-daylight.html)|`2026-04-04 18:32:00`|`Other FPS Games`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-04 18:20:00`|`Other FPS Games`|
 |[something is worng with my code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746428-worng-code.html)|`2026-04-04 18:17:00`|`ARC Raiders`|
 |[Fixing DualPass Chams Color Blending in GeneratePrimitives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746446-fixing-dualpass-chams-color-blending-generateprimitives.html)|`2026-04-04 17:46:00`|`Counter-Strike 2`|
 |[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-04 17:37:00`|`Counter-Strike 2`|
