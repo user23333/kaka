@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to use LoadLibrary without real disk file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743943-loadlibrary-real-disk-file.html)|`2026-04-05 03:49:00`|`Anti-Cheat Bypass`|
+|[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745526-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-04-05 03:48:00`|`Grand Theft Auto V`|
+|[hvci bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746519-hvci-bypass.html)|`2026-04-05 03:40:00`|`Valorant`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-05 03:38:00`|`Overwatch`|
+|[new gmod antiesp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/739017-gmod-antiesp.html)|`2026-04-05 03:31:00`|`Garry's Mod`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-04-05 03:30:00`|`Paladins`|
+|[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-04-05 03:28:00`|`Other MMORPG and Strategy`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2026-04-05 03:24:00`|`Other MMORPG and Strategy`|
 |[Antiflash broken after ANIMGRAPH beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746326-antiflash-broken-animgraph-beta.html)|`2026-04-05 03:22:00`|`Counter-Strike 2`|
 |[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-04-05 03:08:00`|`Anti-Cheat Bypass`|
