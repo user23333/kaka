@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[register callbacks on manual mapped drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746572-register-callbacks-manual-mapped-drivers.html)|`2026-04-05 16:51:00`|`Anti-Cheat Bypass`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-05 16:25:00`|`Alternative Online Mods`|
+|[Native Pattern's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746599-native-patterns.html)|`2026-04-05 16:18:00`|`Alternative Online Mods`|
 |[FREE INTERNAL VALORANT PATCH 12&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742875-free-internal-valorant-patch-12-04-a.html)|`2026-04-05 16:05:00`|`Valorant`|
 |[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-05 15:55:00`|`Apex Legends`|
 |[creating a thread without crashing roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/741908-creating-thread-crashing-roblox.html)|`2026-04-05 15:10:00`|`Roblox`|
