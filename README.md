@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-05 22:22:00`|`HELLDIVERS 2`|
+|[Stupid&#46;Solutions PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/656746-stupid-solutions-pve-cheat.html)|`2026-04-05 22:20:00`|`Escape from Tarkov`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-05 22:17:00`|`HELLDIVERS 2`|
+|[The Finals no recoil, colorbot, ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/741219-finals-recoil-colorbot-ai.html)|`2026-04-05 22:16:00`|`THE FINALS`|
+|[Vac live?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746366-vac-live.html)|`2026-04-05 22:06:00`|`Counter-Strike 2`|
 |[How to do internal visible check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746627-internal-visible-check.html)|`2026-04-05 21:49:00`|`Counter-Strike 2`|
 |[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-05 21:49:00`|`Alternative Online Mods`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-05 21:41:00`|`Other FPS Games`|
