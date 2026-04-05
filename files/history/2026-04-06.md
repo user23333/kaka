@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams using Dx11 Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/507786-chams-using-dx11-hook.html)|`2026-04-06 07:01:00`|`Rainbow Six Siege`|
+|[rappel thru walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745628-rappel-thru-walls.html)|`2026-04-06 06:59:00`|`Rainbow Six Siege`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-06 06:59:00`|`League of Legends`|
+|[Every acc i play gets a ban at around emerald](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/744295-acc-play-ban-emerald.html)|`2026-04-06 06:58:00`|`Rainbow Six Siege`|
+|[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-04-06 06:54:00`|`Other Games`|
+|[dbd offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746695-dbd-offset-dumper.html)|`2026-04-06 06:50:00`|`Other FPS Games`|
+|[TraceShape not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746533-traceshape-properly.html)|`2026-04-06 06:48:00`|`Counter-Strike 2`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-06 06:44:00`|`Grand Theft Auto V`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-06 06:31:00`|`Other MMORPG and Strategy`|
 |[whatamifacing? &#45; ADVANCED CS2 DMA &#91;PEEK ASSIST, AIMBOT & MORE&#33;&#33;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742060-whatamifacing-advanced-cs2-dma-peek-assist-aimbot.html)|`2026-04-06 06:28:00`|`Counter-Strike 2`|
 |[BloodStrike &#45; Steam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746317-bloodstrike-steam-internal.html)|`2026-04-06 06:19:00`|`Other FPS Games`|
