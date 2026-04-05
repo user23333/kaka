@@ -39,6 +39,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glowing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745362-glowing.html)|`2026-04-05 17:21:00`|`Apex Legends`|
 |[register callbacks on manual mapped drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746572-register-callbacks-manual-mapped-drivers.html)|`2026-04-05 16:51:00`|`Anti-Cheat Bypass`|
 |[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-05 16:25:00`|`Alternative Online Mods`|
 |[Native Pattern's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746599-native-patterns.html)|`2026-04-05 16:18:00`|`Alternative Online Mods`|
