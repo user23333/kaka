@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-06 05:11:00`|`Other Games`|
+|[New System &#45; New Account, Still HWID banned ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/739995-system-account-hwid-banned.html)|`2026-04-06 05:11:00`|`Anti-Cheat Bypass`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-04-06 05:05:00`|`Grand Theft Auto V`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746679-vittlock-internal-lots-features.html)|`2026-04-06 05:04:00`|`Deadlock`|
+|[MY HERO ULTRA RUMBLE CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743480-hero-ultra-rumble-ct.html)|`2026-04-06 05:04:00`|`Other Games`|
+|[ESP VALORANT FREE &#40;wallhack hack&#41; HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736054-esp-valorant-free-wallhack-hack-help.html)|`2026-04-06 05:04:00`|`Valorant`|
+|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-06 04:51:00`|`Anti-Cheat Bypass`|
 |[Help Requesting Entity Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746677-help-requesting-entity-control.html)|`2026-04-06 04:45:00`|`Alternative Online Mods`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-06 04:44:00`|`Apex Legends`|
 |[nreal Engine 5 Overlay &#45; ESP points are static/frozen &#40;Camera/Actor Logic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746542-nreal-engine-5-overlay-esp-static-frozen-camera-actor-logic.html)|`2026-04-06 04:44:00`|`ARC Raiders`|
