@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to do internal visible check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746627-internal-visible-check.html)|`2026-04-05 21:49:00`|`Counter-Strike 2`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-05 21:49:00`|`Alternative Online Mods`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-05 21:41:00`|`Other FPS Games`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-05 20:50:00`|`Other FPS Games`|
 |[How are you guys reversing vgk&#46;sys IOCTL responses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746616-guys-reversing-vgk-sys-ioctl-responses.html)|`2026-04-05 20:32:00`|`Anti-Cheat Bypass`|
 |[Arc Raiders CameraManager found but camera position/rotation is invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746292-arc-raiders-cameramanager-found-camera-position-rotation-invalid.html)|`2026-04-05 19:50:00`|`ARC Raiders`|
