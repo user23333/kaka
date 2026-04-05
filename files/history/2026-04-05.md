@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-05 14:32:00`|`Deadlock`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-04-05 14:04:00`|`Phasmophobia`|
+|[Stack Corruption when Aimbot targets Backtrack / nixware&#95;x64 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/744539-stack-corruption-aimbot-targets-backtrack-nixware_x64-fix.html)|`2026-04-05 14:02:00`|`Garry's Mod`|
 |[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-04-05 13:24:00`|`Other Games`|
 |[Dead by Daylight &#45; Permanent Level UP with Item Farmer &#40;with/without Prestige&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746299-dead-daylight-permanent-level-item-farmer-prestige.html)|`2026-04-05 13:16:00`|`Other FPS Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-05 13:12:00`|`Rainbow Six Siege`|
