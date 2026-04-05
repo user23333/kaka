@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-04-06 01:01:00`|`Call of Duty 4: Modern Warfare`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-06 00:56:00`|`Valorant`|
+|[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2026-04-06 00:55:00`|`Escape from Tarkov`|
+|[register callbacks on manual mapped drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746572-register-callbacks-manual-mapped-drivers.html)|`2026-04-06 00:55:00`|`Anti-Cheat Bypass`|
+|[seed trigger improvments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746386-seed-trigger-improvments.html)|`2026-04-06 00:53:00`|`Counter-Strike 2`|
+|[Facility Placement Height](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/730400-facility-placement-height.html)|`2026-04-06 00:38:00`|`Elite: Dangerous`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-06 00:36:00`|`Alternative Online Mods`|
 |[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-06 00:30:00`|`Other FPS Games`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2026-04-06 00:29:00`|`Other Games`|
 |[nvidia streamproof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745892-nvidia-streamproof.html)|`2026-04-06 00:28:00`|`Alternative Online Mods`|
