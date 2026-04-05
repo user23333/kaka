@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[creating a thread without crashing roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/741908-creating-thread-crashing-roblox.html)|`2026-04-05 15:10:00`|`Roblox`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-05 14:57:00`|`Other FPS Games`|
+|[How can I perform an attack or dump memory 5M correctly without crashing or being det](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746584-perform-attack-dump-memory-5m-correctly-crashing-det.html)|`2026-04-05 14:57:00`|`Alternative Online Mods`|
+|[Hired OPS metadata Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/746592-hired-ops-metadata-dumper.html)|`2026-04-05 14:51:00`|`Off Topic`|
+|[Win11 25H2 crash dumps always corrupted &#40;0% written&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746322-win11-25h2-crash-dumps-corrupted-0-written.html)|`2026-04-05 14:51:00`|`Anti-Cheat Bypass`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-05 14:32:00`|`Deadlock`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-04-05 14:04:00`|`Phasmophobia`|
 |[Stack Corruption when Aimbot targets Backtrack / nixware&#95;x64 fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/744539-stack-corruption-aimbot-targets-backtrack-nixware_x64-fix.html)|`2026-04-05 14:02:00`|`Garry's Mod`|
