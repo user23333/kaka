@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745356-silent-aim.html)|`2026-04-05 23:35:00`|`Counter-Strike 2`|
+|[BurnerNet: A Zero&#45;Trust C&#43;&#43;20 HTTP Client Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/746643-burnernet-zero-trust-20-http-client-engine.html)|`2026-04-05 23:21:00`|`C and C++`|
+|[DMA Discord Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745787-dma-discord-overlay.html)|`2026-04-05 23:13:00`|`Anti-Cheat Bypass`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-04-05 23:12:00`|`Red Dead Redemption 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-05 23:00:00`|`Other MMORPG and Strategy`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-05 22:59:00`|`Alternative Online Mods`|
 |[TPM Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746181-tpm-checks.html)|`2026-04-05 22:56:00`|`Valorant`|
 |[VALORANT Color Bot — Open Source Pixel&#45;Based Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744844-valorant-color-bot-source-pixel-based-aim-assist.html)|`2026-04-05 22:54:00`|`Valorant`|
