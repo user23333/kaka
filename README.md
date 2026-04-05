@@ -25,6 +25,7 @@
 |64|[shittestqtoverwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54091)|`2026-04-06 00:35:08`|
 |88|[CS2 SIG Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54090)|`2026-04-06 00:35:08`|
 |98|[JawSnow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54089)|`2026-04-06 00:35:08`|
+|1|[PZ injector new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54120)|`2026-04-06 06:01:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
