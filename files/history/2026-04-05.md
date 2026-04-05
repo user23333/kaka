@@ -43,6 +43,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA introduction VGK/Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746494-dma-introduction-vgk-valorant.html)|`2026-04-05 19:03:00`|`Anti-Cheat Bypass`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-05 18:38:00`|`Grand Theft Auto V`|
 |[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-04-05 18:32:00`|`Marvel Rivals`|
 |[Arc Raiders Steam Build &#45; UWorld Offset Verification & Encryption Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/745941-arc-raiders-steam-build-uworld-offset-verification-encryption-check.html)|`2026-04-05 18:28:00`|`ARC Raiders`|
