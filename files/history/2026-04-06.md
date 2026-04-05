@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-04-06 01:39:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-06 01:37:00`|`Rust`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-06 01:31:00`|`Apex Legends`|
+|[FiveM Internal Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/745811-fivem-internal-base.html)|`2026-04-06 01:31:00`|`Alternative Online Mods`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-06 01:29:00`|`HELLDIVERS 2`|
+|[VALORANT Color Bot — Open Source Pixel&#45;Based Aim Assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/744844-valorant-color-bot-source-pixel-based-aim-assist.html)|`2026-04-06 01:29:00`|`Valorant`|
+|[Sh&#42;ttest QT esp overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746432-sh-ttest-qt-esp-overwatch.html)|`2026-04-06 01:26:00`|`Overwatch`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-04-06 01:23:00`|`Overwatch`|
+|[ULTRAKILL &#45; NyxthalUK &#124; GodMode/Aimbot/ESP/WeaponMods/Shop &#124; MonoSharp &#124; 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743009-ultrakill-nyxthaluk-godmode-aimbot-esp-weaponmods-shop-monosharp-2026-a.html)|`2026-04-06 01:21:00`|`Other FPS Games`|
 |[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-04-06 01:01:00`|`Call of Duty 4: Modern Warfare`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-06 00:56:00`|`Valorant`|
 |[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2026-04-06 00:55:00`|`Escape from Tarkov`|
