@@ -14,6 +14,7 @@
 |9|[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-05 06:22:51`|`anti-cheat-bypass`|
 |38|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-05 11:30:40`|`overwatch`|
 |5|[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/745526-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-04-05 18:04:12`|`grand-theft-auto-v`|
+|7|[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745816-valorant-offsets.html)|`2026-04-05 21:01:30`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-05 20:50:00`|`Other FPS Games`|
+|[How are you guys reversing vgk&#46;sys IOCTL responses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746616-guys-reversing-vgk-sys-ioctl-responses.html)|`2026-04-05 20:32:00`|`Anti-Cheat Bypass`|
 |[Arc Raiders CameraManager found but camera position/rotation is invalid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746292-arc-raiders-cameramanager-found-camera-position-rotation-invalid.html)|`2026-04-05 19:50:00`|`ARC Raiders`|
 |[TFT In&#45;Game Shop Manager is not collecting the data of shop value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/746164-tft-game-shop-manager-collecting-data-shop-value.html)|`2026-04-05 19:37:00`|`League of Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-05 19:33:00`|`Other MMORPG and Strategy`|
