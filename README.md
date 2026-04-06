@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-06 19:52:00`|`ARMA 3`|
+|[UE5 Visual Inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746540-ue5-visual-inspection.html)|`2026-04-06 19:39:00`|`Valorant`|
 |[How to run cs2 offline with skins?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746321-run-cs2-offline-skins.html)|`2026-04-06 19:28:00`|`Counter-Strike 2`|
 |[Injecting DLL into EAC&#45;protected process from Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739720-injecting-dll-eac-protected-process-kernel-driver.html)|`2026-04-06 19:26:00`|`ARC Raiders`|
 |[flSideMove/flForwardMove not setting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746752-flsidemove-flforwardmove-setting.html)|`2026-04-06 19:23:00`|`Counter-Strike 2`|
