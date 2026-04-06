@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is the best architecture for a external R6 kernel radar cheat? &#40;WITHOUT DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746804-architecture-external-r6-kernel-radar-cheat-dma.html)|`2026-04-07 01:42:00`|`Rainbow Six Siege`|
+|[Recoil Script Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746517-recoil-script-help.html)|`2026-04-07 01:41:00`|`Rust`|
+|[Ghetto chams with DX11 DrawIndexedInstanced hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746774-ghetto-chams-dx11-drawindexedinstanced-hook.html)|`2026-04-07 01:40:00`|`Counter-Strike 2`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2026-04-07 01:36:00`|`Red Dead Redemption 2`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-04-07 01:34:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-07 01:28:00`|`Rust`|
+|[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746799-hello.html)|`2026-04-07 01:24:00`|`Introductions`|
+|[ERR&#95;GFX&#95;STATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/746800-err_gfx_state.html)|`2026-04-07 01:22:00`|`Grand Theft Auto V`|
 |[YimMenu Empty Sessions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/746389-yimmenu-empty-sessions.html)|`2026-04-07 00:59:00`|`Grand Theft Auto V`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-04-07 00:58:00`|`Counter-Strike 2`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-07 00:52:00`|`Counter-Strike 2 Releases`|
