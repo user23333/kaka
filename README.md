@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-07 05:22:00`|`ARC Raiders`|
+|[Undetectable among us Cheat&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/637492-undetectable-cheat.html)|`2026-04-07 05:20:00`|`Among Us`|
+|[make dark mode default&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/744231-dark-mode-default.html)|`2026-04-07 05:18:00`|`Off Topic`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-07 05:15:00`|`Other FPS Games`|
+|[How To Bypass The Battle Eye Anti&#45;Cheat in GTAV?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/662823-bypass-battle-eye-anti-cheat-gtav.html)|`2026-04-07 05:11:00`|`Grand Theft Auto V`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-07 05:11:00`|`League of Legends`|
+|[C&#43;&#43; Single Header&#45;Only library for Obfuscation/Polymorphism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/718100-single-header-library-obfuscation-polymorphism.html)|`2026-04-07 05:09:00`|`C and C++`|
+|[Complete Custom Arduino Firmware Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746833-complete-custom-arduino-firmware-source.html)|`2026-04-07 05:07:00`|`Valorant`|
 |[Load files from memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745006-load-files-memory.html)|`2026-04-07 04:42:00`|`Counter-Strike 2`|
 |[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-07 04:39:00`|`Other FPS Games`|
 |[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-07 04:32:00`|`Overwatch`|
