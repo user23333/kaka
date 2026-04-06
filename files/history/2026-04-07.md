@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-04-07 02:34:00`|`Marvel Rivals`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-07 02:28:00`|`Other FPS Games`|
+|[BE reading mouse position and keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746809-reading-mouse-position-keys.html)|`2026-04-07 02:25:00`|`Anti-Cheat Bypass`|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-04-07 02:23:00`|`Call of Duty 4: Modern Warfare`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-07 02:22:00`|`Other Games`|
+|[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2026-04-07 02:14:00`|`Combat Arms`|
+|[CS2 updated patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742119-cs2-updated-patterns.html)|`2026-04-07 02:13:00`|`Counter-Strike 2`|
+|[Combat Arms hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/741865-combat-arms-hacks.html)|`2026-04-07 02:13:00`|`Combat Arms`|
 |[What is the best architecture for a external R6 kernel radar cheat? &#40;WITHOUT DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746804-architecture-external-r6-kernel-radar-cheat-dma.html)|`2026-04-07 01:42:00`|`Rainbow Six Siege`|
 |[Recoil Script Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746517-recoil-script-help.html)|`2026-04-07 01:41:00`|`Rust`|
 |[Ghetto chams with DX11 DrawIndexedInstanced hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746774-ghetto-chams-dx11-drawindexedinstanced-hook.html)|`2026-04-07 01:40:00`|`Counter-Strike 2`|
