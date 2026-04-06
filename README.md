@@ -24,9 +24,18 @@
 |20|[SastashaFied CoD4X MultiHack v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54111)|`2026-04-07 00:04:15`|
 |97|[Elite&#95;Overwatch2&#95;External&#95;ESP&#95;v4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54110)|`2026-04-07 00:04:15`|
 |32|[Drizzly's Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54109)|`2026-04-07 00:04:15`|
+|1|[S2DX12Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54128)|`2026-04-07 06:21:04`|
+|1|[VALORANT ColorBot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54126)|`2026-04-07 06:21:04`|
+|0|[VALORANT ColorBot Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54125)|`2026-04-07 06:21:04`|
+|3|[Process&#45;Dumper &#40;NEW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54124)|`2026-04-07 06:21:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-04-07 06:20:00`|`Other FPS Games`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-07 06:19:00`|`Other FPS Games`|
+|[Triggerbot beeping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746842-triggerbot-beeping.html)|`2026-04-07 06:18:00`|`Counter-Strike 2`|
+|[THE CUBE SAVE US — XIGNCODE3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743933-cube-save-xigncode3-bypass.html)|`2026-04-07 06:17:00`|`Anti-Cheat Bypass`|
+|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-07 06:11:00`|`Valorant`|
 |[Fix for stream files &#40;ydr, ydd,&#46;&#46;&#46;&#41; &#40;New update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746083-fix-stream-files-ydr-ydd-update.html)|`2026-04-07 05:50:00`|`Alternative Online Mods`|
 |[Battleye draw method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746311-battleye-draw-method.html)|`2026-04-07 05:49:00`|`Anti-Cheat Bypass`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-07 05:44:00`|`Alternative Online Mods`|
