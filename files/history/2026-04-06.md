@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to run cs2 offline with skins?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746321-run-cs2-offline-skins.html)|`2026-04-06 19:28:00`|`Counter-Strike 2`|
+|[Injecting DLL into EAC&#45;protected process from Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/739720-injecting-dll-eac-protected-process-kernel-driver.html)|`2026-04-06 19:26:00`|`ARC Raiders`|
+|[flSideMove/flForwardMove not setting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746752-flsidemove-flforwardmove-setting.html)|`2026-04-06 19:23:00`|`Counter-Strike 2`|
+|[Adding Ingame Map Radar &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746755-adding-ingame-map-radar-internal.html)|`2026-04-06 19:21:00`|`Valorant`|
+|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-06 19:19:00`|`ARC Raiders`|
+|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-06 19:03:00`|`Valorant`|
+|[How are you guys reversing vgk&#46;sys IOCTL responses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746616-guys-reversing-vgk-sys-ioctl-responses.html)|`2026-04-06 19:02:00`|`Anti-Cheat Bypass`|
 |[I can add skins to my inventory, but I can't use them in the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746749-add-skins-inventory-cant-game.html)|`2026-04-06 18:32:00`|`Counter-Strike 2`|
 |[Simple edge jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746699-simple-edge-jump.html)|`2026-04-06 18:31:00`|`Counter-Strike 2`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-06 18:30:00`|`Roblox`|
