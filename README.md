@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite Hack :p based on Bluefire 2 and latest SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/736838-smite-hack-based-bluefire-2-sdk.html)|`2026-04-07 04:04:00`|`Paladins`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-07 03:37:00`|`Apex Legends`|
 |[Valorant 2pc ud aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746365-valorant-2pc-ud-aimbot.html)|`2026-04-07 03:34:00`|`Valorant`|
 |[Offsets Dump Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736019-offsets-dump-steam-version.html)|`2026-04-07 03:33:00`|`Combat Master`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-07 03:31:00`|`Rainbow Six Siege`|
