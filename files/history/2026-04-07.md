@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant 2pc ud aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746365-valorant-2pc-ud-aimbot.html)|`2026-04-07 03:34:00`|`Valorant`|
+|[Offsets Dump Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736019-offsets-dump-steam-version.html)|`2026-04-07 03:33:00`|`Combat Master`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-07 03:31:00`|`Rainbow Six Siege`|
+|[Mw19 aio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/635725-mw19-aio.html)|`2026-04-07 03:30:00`|`Call of Duty: Modern Warfare`|
+|[What is the best way of Live testing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/746818-live-testing.html)|`2026-04-07 03:28:00`|`DayZ SA`|
+|[FiveM Resource&#45;Core Patterns / Internal Resource Management & Events &#40;Complete List&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746814-fivem-resource-core-patterns-internal-resource-management-events-complete-list.html)|`2026-04-07 03:28:00`|`Alternative Online Mods`|
+|[BSG, BE, And HWECHO&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/746518-bsg-hwecho-dll.html)|`2026-04-07 03:26:00`|`Escape from Tarkov`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-07 03:24:00`|`Counter-Strike 2`|
 |[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-04-07 02:34:00`|`Marvel Rivals`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-07 02:28:00`|`Other FPS Games`|
 |[BE reading mouse position and keys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746809-reading-mouse-position-keys.html)|`2026-04-07 02:25:00`|`Anti-Cheat Bypass`|
