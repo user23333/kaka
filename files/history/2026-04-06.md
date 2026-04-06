@@ -31,9 +31,15 @@
 |1|[Process&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54123)|`2026-04-06 08:02:41`|
 |1|[source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54131)|`2026-04-06 18:43:08`|
 |1|[build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54130)|`2026-04-06 18:43:08`|
+|1|[Hired Ops ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54133)|`2026-04-06 21:41:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740485-silent-aim.html)|`2026-04-06 21:33:00`|`Call of Duty: Black Ops 7`|
+|[dx12 rainbow 6 siege internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746766-dx12-rainbow-6-siege-internal-cheat.html)|`2026-04-06 21:21:00`|`Rainbow Six Siege`|
+|[Anyone have working item dumping code for CS2 after animgraph2 update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746764-item-dumping-code-cs2-animgraph2-update.html)|`2026-04-06 21:15:00`|`Counter-Strike 2`|
+|[Skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746762-skeleton-esp.html)|`2026-04-06 21:14:00`|`Apex Legends`|
+|[For internal skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746730-internal-skinchanger.html)|`2026-04-06 21:13:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-06 19:52:00`|`ARMA 3`|
 |[UE5 Visual Inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746540-ue5-visual-inspection.html)|`2026-04-06 19:39:00`|`Valorant`|
 |[How to run cs2 offline with skins?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746321-run-cs2-offline-skins.html)|`2026-04-06 19:28:00`|`Counter-Strike 2`|
