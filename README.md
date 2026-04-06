@@ -12,6 +12,7 @@
 |9|[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-06 00:35:08`|`anti-cheat-bypass`|
 |7|[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745816-valorant-offsets.html)|`2026-04-06 00:35:08`|`valorant`|
 |2|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-06 03:52:14`|`anti-cheat-bypass`|
+|10|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-06 11:32:57`|`roblox`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-06 11:26:00`|`Overwatch`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-04-06 11:23:00`|`Counter-Strike 2`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2026-04-06 11:16:00`|`Other Games`|
+|[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-04-06 11:15:00`|`Other Games`|
+|[CS2 updated patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742119-cs2-updated-patterns.html)|`2026-04-06 11:04:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-04-06 10:58:00`|`Other FPS Games`|
+|[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-04-06 10:49:00`|`Escape from Tarkov`|
 |[Process&#45;Dumper Working every Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746708-process-dumper-game.html)|`2026-04-06 07:59:00`|`Anti-Cheat Bypass`|
 |[i cant make an esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746669-cant-esp.html)|`2026-04-06 07:59:00`|`ARC Raiders`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-06 07:55:00`|`ARC Raiders`|
