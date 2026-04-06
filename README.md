@@ -32,9 +32,14 @@
 |1|[source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54131)|`2026-04-06 18:43:08`|
 |1|[build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54130)|`2026-04-06 18:43:08`|
 |1|[Hired Ops ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54133)|`2026-04-06 21:41:33`|
+|16|[dx12&#45;rainbow6&#45;internal&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54119)|`2026-04-06 22:32:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hired Ops ESP Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746746-hired-ops-esp-steam-version.html)|`2026-04-06 22:22:00`|`Other FPS Games`|
+|[TPM Hash "Spoof" &#124; Linux Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/730908-tpm-hash-spoof-linux-method.html)|`2026-04-06 22:18:00`|`Valorant`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-06 22:05:00`|`Other FPS Games`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-04-06 22:03:00`|`Valorant`|
 |[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740485-silent-aim.html)|`2026-04-06 21:33:00`|`Call of Duty: Black Ops 7`|
 |[dx12 rainbow 6 siege internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746766-dx12-rainbow-6-siege-internal-cheat.html)|`2026-04-06 21:21:00`|`Rainbow Six Siege`|
 |[Anyone have working item dumping code for CS2 after animgraph2 update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746764-item-dumping-code-cs2-animgraph2-update.html)|`2026-04-06 21:15:00`|`Counter-Strike 2`|
