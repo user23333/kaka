@@ -12,6 +12,7 @@
 |1|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-07 00:04:15`|`anti-cheat-bypass`|
 |12|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-07 00:04:15`|`roblox`|
 |12|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-07 17:49:27`|`rainbow-six-siege`|
+|9|[Manlar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746198-manlar-cheat.html)|`2026-04-07 22:09:53`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-07 22:09:00`|`Other FPS Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-04-07 22:05:00`|`Other FPS Games`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-07 22:05:00`|`Deadlock`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-04-07 21:58:00`|`Garry's Mod`|
+|[Subtick bunnyhop micro jump/teleport issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746897-subtick-bunnyhop-micro-jump-teleport-issue.html)|`2026-04-07 21:54:00`|`Counter-Strike 2`|
 |[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-04-07 20:25:00`|`Anti-Cheat Bypass`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-07 20:23:00`|`Sea of Thieves`|
 |[infinite accounts using Microsoft store to buy arc raiders?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746180-infinite-accounts-using-microsoft-store-buy-arc-raiders.html)|`2026-04-07 20:21:00`|`ARC Raiders`|
