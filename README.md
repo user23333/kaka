@@ -13,6 +13,7 @@
 |8|[Battleye draw method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746311-battleye-draw-method.html)|`2026-04-08 00:37:16`|`anti-cheat-bypass`|
 |4|[latest vgc&#46;exe &#40; c files &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745958-vgc-exe-files.html)|`2026-04-08 01:35:33`|`valorant`|
 |23|[Fix for stream files &#40;ydr, ydd,&#46;&#46;&#46;&#41; &#40;New update&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746083-fix-stream-files-ydr-ydd-update.html)|`2026-04-08 02:32:14`|`alternative-online-mods`|
+|11|[Process&#45;Dumper Working every Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746708-process-dumper-game.html)|`2026-04-08 05:42:34`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-08 05:34:00`|`Among Us`|
+|[Donations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743784-donations.html)|`2026-04-08 05:30:00`|`Off Topic`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-04-08 05:27:00`|`Call of Duty: Black Ops 7`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-04-08 05:26:00`|`Counter-Strike 2`|
+|[Which Game/Company deserves to be cheated on the most?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/746278-game-company-deserves-cheated.html)|`2026-04-08 05:26:00`|`Off Topic`|
+|[make dark mode default&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/744231-dark-mode-default.html)|`2026-04-08 05:24:00`|`Off Topic`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-04-08 05:23:00`|`Rust`|
 |[Add subtick move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746996-add-subtick-move.html)|`2026-04-08 04:59:00`|`Counter-Strike 2`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-08 04:50:00`|`League of Legends`|
 |[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-08 04:49:00`|`Rust`|
