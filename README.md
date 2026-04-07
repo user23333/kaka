@@ -26,9 +26,19 @@
 |50|[VALORANT ColorBot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54126)|`2026-04-08 00:37:16`|
 |59|[VALORANT ColorBot Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54125)|`2026-04-08 00:37:16`|
 |58|[Process&#45;Dumper &#40;NEW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54124)|`2026-04-08 00:37:16`|
+|1|[1st Gen Rogue &#45; Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54154)|`2026-04-08 03:37:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-04-08 03:34:00`|`Payday 3`|
+|[Rivals UnKnoWn &#91;Internal&#93; &#45; Giving Back to the Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/695531-rivals-unknown-internal-giving-community.html)|`2026-04-08 03:23:00`|`Marvel Rivals`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-08 03:21:00`|`Counter-Strike 2`|
+|[CS2 serverside anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746734-cs2-serverside-anticheat.html)|`2026-04-08 03:21:00`|`Anti-Cheat Bypass`|
+|[Issue when reading memory of binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/746933-issue-reading-memory-binary.html)|`2026-04-08 03:19:00`|`C#`|
+|[How to make spiderman HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746918-spiderman-help.html)|`2026-04-08 03:18:00`|`Rust`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-04-08 03:14:00`|`DayZ SA`|
+|[Rogue Company &#45; 1st Generation Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746942-rogue-company-1st-generation-rogue-internal.html)|`2026-04-08 03:12:00`|`Other Games`|
+|[Offsets Dump Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736019-offsets-dump-steam-version.html)|`2026-04-08 03:11:00`|`Combat Master`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2026-04-08 02:24:00`|`Combat Arms`|
 |[Unsynced "delayed esp"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746960-unsynced-delayed-esp.html)|`2026-04-08 02:22:00`|`Rust`|
 |[Issues with PlayerNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746959-issues-playernames.html)|`2026-04-08 02:20:00`|`Alternative Online Mods`|
