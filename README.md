@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-04-07 12:54:00`|`Valorant`|
+|[Simple manual map injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746776-simple-manual-map-injector.html)|`2026-04-07 12:46:00`|`Anti-Cheat Bypass`|
+|[Custom PAK's for agent models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746876-custom-paks-agent-models.html)|`2026-04-07 12:40:00`|`Valorant`|
+|[BattleEye Anticheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/746605-battleeye-anticheat-bypass.html)|`2026-04-07 12:31:00`|`Off Topic`|
+|[R6 Recoil Method &#91;Help&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746877-r6-recoil-method-help.html)|`2026-04-07 12:30:00`|`Rainbow Six Siege`|
+|[Hired Ops ESP Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746746-hired-ops-esp-steam-version.html)|`2026-04-07 12:18:00`|`Other FPS Games`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-04-07 12:11:00`|`Call of Duty: Black Ops 7`|
 |[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-07 10:34:00`|`Other Games`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-04-07 10:20:00`|`Other FPS Games`|
 |[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-07 10:15:00`|`Overwatch`|
