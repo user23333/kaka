@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-04-07 13:55:00`|`Elite: Dangerous`|
+|[simple triggerbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746879-simple-triggerbot.html)|`2026-04-07 13:52:00`|`Overwatch`|
+|[swag entity list chunked iteration](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746481-swag-entity-list-chunked-iteration.html)|`2026-04-07 13:42:00`|`Counter-Strike 2`|
+|[Super Battle Golf Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746254-super-battle-golf-aim.html)|`2026-04-07 13:19:00`|`Other Games`|
 |[Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/737314-colorbot.html)|`2026-04-07 12:54:00`|`Valorant`|
 |[Simple manual map injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746776-simple-manual-map-injector.html)|`2026-04-07 12:46:00`|`Anti-Cheat Bypass`|
 |[Custom PAK's for agent models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746876-custom-paks-agent-models.html)|`2026-04-07 12:40:00`|`Valorant`|
