@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-08 06:54:00`|`Other Games`|
+|[SC:R and the R is for Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/746064-sc-reversing.html)|`2026-04-08 06:53:00`|`General Programming and Reversing`|
+|[Can someone explain stack traversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/745488-explain-stack-traversal.html)|`2026-04-08 06:49:00`|`General Programming and Reversing`|
+|[Trying to spoof msi mobo b550](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/743683-trying-spoof-msi-mobo-b550.html)|`2026-04-08 06:36:00`|`PC Software`|
+|[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-04-08 06:35:00`|`Marvel Rivals`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-08 06:27:00`|`Deadlock`|
+|[Mapping 'gameAssetId' from Inventory API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/741198-mapping-gameassetid-inventory-api.html)|`2026-04-08 06:26:00`|`ARC Raiders`|
 |[&#40;BloodStrike&#41; Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746927-bloodstrike-internal-aimbot.html)|`2026-04-08 06:17:00`|`Other FPS Games`|
 |[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-04-08 06:09:00`|`Among Us`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-04-08 06:07:00`|`Other Games`|
