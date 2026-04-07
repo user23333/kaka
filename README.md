@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745049-bloodstrike-sdk.html)|`2026-04-07 19:36:00`|`Other FPS Games`|
+|[HI guys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746899-hi-guys.html)|`2026-04-07 19:31:00`|`Introductions`|
+|[UD no recoil &#43; aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746900-ud-recoil-aimbot.html)|`2026-04-07 19:25:00`|`Other FPS Games`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-07 19:25:00`|`Other FPS Games`|
+|[Left 4 dead 1 rainreach’s god menu freezes &#40;Ready To Use&#41; RGH/xb360/pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746898-left-4-dead-1-rainreach-god-menu-freezes-ready-rgh-xb360-pc.html)|`2026-04-07 19:10:00`|`Other FPS Games`|
 |[ACE still banning after full HWID spoof, what else does it check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743571-ace-banning-hwid-spoof-else-check.html)|`2026-04-07 18:39:00`|`Anti-Cheat Bypass`|
 |[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-07 18:36:00`|`Anti-Cheat Bypass`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-07 18:28:00`|`Other FPS Games`|
