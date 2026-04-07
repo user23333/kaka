@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dbd offset dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746695-dbd-offset-dumper.html)|`2026-04-07 16:33:00`|`Other FPS Games`|
+|[Patching out voicelines?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/746753-patching-voicelines.html)|`2026-04-07 16:15:00`|`Team Fortress 2`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-04-07 16:11:00`|`Red Dead Redemption 2`|
+|[CS2 serverside anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746734-cs2-serverside-anticheat.html)|`2026-04-07 15:56:00`|`Anti-Cheat Bypass`|
 |[WonderKing Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738184-wonderking-hack.html)|`2026-04-07 15:48:00`|`Other MMORPG and Strategy`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-07 15:34:00`|`Grand Theft Auto V`|
 |[CS2 BunnyHop Is Giving Me Braindamage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746884-cs2-bunnyhop-giving-braindamage.html)|`2026-04-07 15:31:00`|`Counter-Strike 2`|
