@@ -31,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;BloodStrike&#41; Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746927-bloodstrike-internal-aimbot.html)|`2026-04-08 06:17:00`|`Other FPS Games`|
+|[Overlight Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/743519-overlight-mod.html)|`2026-04-08 06:09:00`|`Among Us`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-04-08 06:07:00`|`Other Games`|
+|[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-04-08 06:05:00`|`Counter-Strike 2`|
+|[Loose cannon rapid&#45;fire?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/747007-loose-cannon-rapid-fire.html)|`2026-04-08 06:03:00`|`Team Fortress 2`|
+|[Need Sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746433-sigs.html)|`2026-04-08 06:03:00`|`Counter-Strike 2`|
+|[CS2 Sig Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746430-cs2-sig-dumper.html)|`2026-04-08 06:03:00`|`Counter-Strike 2`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-04-08 06:02:00`|`Counter-Strike 2`|
+|[Does anyone who knows about League of Legends know how the text in the picture was im](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/743060-league-legends-text-picture-im.html)|`2026-04-08 06:01:00`|`League of Legends`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-08 05:34:00`|`Among Us`|
 |[Donations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743784-donations.html)|`2026-04-08 05:30:00`|`Off Topic`|
 |[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-04-08 05:27:00`|`Call of Duty: Black Ops 7`|
