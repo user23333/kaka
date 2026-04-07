@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE still banning after full HWID spoof, what else does it check?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743571-ace-banning-hwid-spoof-else-check.html)|`2026-04-07 18:39:00`|`Anti-Cheat Bypass`|
+|[new riot advanced ban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746059-riot-advanced-ban-method.html)|`2026-04-07 18:36:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-07 18:28:00`|`Other FPS Games`|
+|[RIP xBox Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746712-rip-xbox-method.html)|`2026-04-07 18:17:00`|`Rainbow Six Siege`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-04-07 18:13:00`|`Alternative Online Mods`|
 |[Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746886-introduction.html)|`2026-04-07 17:41:00`|`Introductions`|
 |[Valorant &#124; Aimbot, Triggerbot, Spoofer, InstaLock &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745826-valorant-aimbot-triggerbot-spoofer-instalock-source-code.html)|`2026-04-07 17:28:00`|`Valorant`|
 |[World Of Sea Battle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736753-world-sea-battle.html)|`2026-04-07 17:18:00`|`Other MMORPG and Strategy`|
