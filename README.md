@@ -11,6 +11,7 @@
 |14|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-08 00:37:16`|`rainbow-six-siege`|
 |9|[Manlar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746198-manlar-cheat.html)|`2026-04-08 00:37:16`|`counter-strike-2-a`|
 |8|[Battleye draw method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746311-battleye-draw-method.html)|`2026-04-08 00:37:16`|`anti-cheat-bypass`|
+|4|[latest vgc&#46;exe &#40; c files &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745958-vgc-exe-files.html)|`2026-04-08 01:35:33`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-08 01:34:00`|`Other FPS Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-08 01:26:00`|`Marvel Rivals`|
+|[Triggerbot beeping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746842-triggerbot-beeping.html)|`2026-04-08 01:25:00`|`Counter-Strike 2`|
+|[Ghetto chams with DX11 DrawIndexedInstanced hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746774-ghetto-chams-dx11-drawindexedinstanced-hook.html)|`2026-04-08 01:22:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-08 01:21:00`|`Roblox`|
+|[I want to achieve local control of the keyboard and mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/740830-achieve-local-control-keyboard-mouse.html)|`2026-04-08 01:19:00`|`C and C++`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-08 01:19:00`|`ARC Raiders`|
+|[UE5 Visual Inspection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746540-ue5-visual-inspection.html)|`2026-04-08 01:17:00`|`Valorant`|
+|[I need linux offsets for cs2 please help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/738555-linux-offsets-cs2-please-help.html)|`2026-04-08 01:17:00`|`Counter-Strike 2`|
+|[Temp Spoofer Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745150-temp-spoofer-driver.html)|`2026-04-08 01:16:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-08 00:36:00`|`Other Games`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-08 00:35:00`|`Other Games`|
 |[Unlock All / Perfect Visible check &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746931-unlock-perfect-visible-check-external.html)|`2026-04-08 00:32:00`|`Valorant`|
