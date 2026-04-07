@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting ban with idle driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744461-getting-ban-idle-driver.html)|`2026-04-07 20:25:00`|`Anti-Cheat Bypass`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-07 20:23:00`|`Sea of Thieves`|
+|[infinite accounts using Microsoft store to buy arc raiders?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746180-infinite-accounts-using-microsoft-store-buy-arc-raiders.html)|`2026-04-07 20:21:00`|`ARC Raiders`|
+|[VGC EU SERVERS DOWN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746145-vgc-eu-servers.html)|`2026-04-07 20:21:00`|`Valorant`|
 |[BloodStrike SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745049-bloodstrike-sdk.html)|`2026-04-07 19:36:00`|`Other FPS Games`|
 |[HI guys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/746899-hi-guys.html)|`2026-04-07 19:31:00`|`Introductions`|
 |[UD no recoil &#43; aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746900-ud-recoil-aimbot.html)|`2026-04-07 19:25:00`|`Other FPS Games`|
