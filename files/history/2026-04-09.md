@@ -30,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-09 06:23:00`|`Escape from Tarkov`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-09 06:21:00`|`Other MMORPG and Strategy`|
+|[Cs2 Internal Base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747167-cs2-internal-base.html)|`2026-04-09 06:20:00`|`Counter-Strike 2`|
+|[Skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746762-skeleton-esp.html)|`2026-04-09 06:18:00`|`Apex Legends`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-04-09 06:16:00`|`Other Games`|
+|[cs2 external semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740298-cs2-external-semirage-cheat.html)|`2026-04-09 06:16:00`|`Counter-Strike 2`|
+|[1&#46;29 Server Patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747172-1-29-server-patcher.html)|`2026-04-09 06:15:00`|`DayZ SA`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-09 06:12:00`|`Other FPS Games`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-09 06:09:00`|`Alternative Online Mods`|
 |[CatInjector v1&#46;0 &#45; Simple DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/746811-catinjector-v1-0-simple-dll-injector.html)|`2026-04-09 05:54:00`|`General Programming and Reversing`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-09 05:53:00`|`Other FPS Games`|
 |[legacy model without skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742660-legacy-model-skin.html)|`2026-04-09 05:50:00`|`Counter-Strike 2`|
