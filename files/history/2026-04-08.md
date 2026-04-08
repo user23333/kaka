@@ -29,9 +29,12 @@
 |59|[VALORANT ColorBot Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54125)|`2026-04-08 00:37:16`|
 |58|[Process&#45;Dumper &#40;NEW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54124)|`2026-04-08 00:37:16`|
 |1|[1st Gen Rogue &#45; Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54154)|`2026-04-08 03:37:28`|
+|19|[Arc Raiders SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54161)|`2026-04-08 22:58:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-08 22:41:00`|`Valorant`|
+|[van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747114-van-152-a.html)|`2026-04-08 22:40:00`|`Valorant`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-04-08 21:53:00`|`Paladins`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-08 21:52:00`|`Other FPS Games`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2026-04-08 21:47:00`|`DayZ SA`|
