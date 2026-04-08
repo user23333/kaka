@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-04-08 11:11:00`|`Other Games`|
+|[Lethal Menu by IcyRelic uptaded for v73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/741084-lethal-menu-icyrelic-uptaded-v73.html)|`2026-04-08 11:09:00`|`Lethal Company`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-04-08 11:08:00`|`HELLDIVERS 2`|
+|[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-08 11:07:00`|`Other MMORPG and Strategy`|
+|[Roblox external for custom games ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/746978-roblox-external-custom-games.html)|`2026-04-08 11:04:00`|`Roblox`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-04-08 10:56:00`|`Other FPS Games`|
+|[Correctly using AI to learn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/747053-correctly-using-ai-learn.html)|`2026-04-08 10:55:00`|`General Programming and Reversing`|
+|[UD driver help &#43;  Native  Controller External help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/742991-ud-driver-help-native-controller-external-help.html)|`2026-04-08 10:50:00`|`Call of Duty: Black Ops 7`|
 |[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-08 08:03:00`|`Other FPS Games`|
 |[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-08 07:59:00`|`Overwatch`|
 |[Patching out voicelines?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/746753-patching-voicelines.html)|`2026-04-08 07:56:00`|`Team Fortress 2`|
