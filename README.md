@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-08 08:03:00`|`Other FPS Games`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-08 07:59:00`|`Overwatch`|
+|[Patching out voicelines?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/746753-patching-voicelines.html)|`2026-04-08 07:56:00`|`Team Fortress 2`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-08 07:55:00`|`Grand Theft Auto V`|
+|[nreal Engine 5 Overlay &#45; ESP points are static/frozen &#40;Camera/Actor Logic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746542-nreal-engine-5-overlay-esp-static-frozen-camera-actor-logic.html)|`2026-04-08 07:52:00`|`ARC Raiders`|
+|[What is the best way of Live testing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/746818-live-testing.html)|`2026-04-08 07:51:00`|`DayZ SA`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-08 07:40:00`|`Other FPS Games`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-08 07:28:00`|`Marvel Rivals`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-08 07:23:00`|`Tom Clancy's The Division`|
