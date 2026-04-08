@@ -31,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2026-04-08 13:11:00`|`Other MMORPG and Strategy`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-08 13:07:00`|`Alternative Online Mods`|
+|[external vis check with rails/bars/fence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747037-external-vis-check-rails-bars-fence.html)|`2026-04-08 13:02:00`|`Counter-Strike 2`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-04-08 13:02:00`|`Elite: Dangerous`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-08 12:56:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-08 12:52:00`|`Valorant`|
+|[delay ban 30 min with tpm sc hvci off, and fully spoof and reinstall windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747029-delay-ban-30-min-tpm-sc-hvci-spoof-reinstall-windows.html)|`2026-04-08 12:17:00`|`Valorant`|
+|[Need some drivers&#33;&#33;&#33; And eac info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746901-drivers-eac-info.html)|`2026-04-08 12:06:00`|`Other FPS Games`|
+|[Accessing panorama ui panels externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747065-accessing-panorama-ui-panels-externally.html)|`2026-04-08 11:56:00`|`Counter-Strike 2`|
 |[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-04-08 11:11:00`|`Other Games`|
 |[Lethal Menu by IcyRelic uptaded for v73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/741084-lethal-menu-icyrelic-uptaded-v73.html)|`2026-04-08 11:09:00`|`Lethal Company`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-04-08 11:08:00`|`HELLDIVERS 2`|
