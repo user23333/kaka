@@ -26,9 +26,17 @@
 |61|[S2DX12Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54128)|`2026-04-09 00:13:06`|
 |104|[VALORANT ColorBot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54126)|`2026-04-09 00:13:06`|
 |1|[global&#45;metadata&#46;dat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54127)|`2026-04-09 05:04:33`|
+|2|[CatInjector&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54143)|`2026-04-09 05:54:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CatInjector v1&#46;0 &#45; Simple DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/746811-catinjector-v1-0-simple-dll-injector.html)|`2026-04-09 05:54:00`|`General Programming and Reversing`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-09 05:53:00`|`Other FPS Games`|
+|[legacy model without skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742660-legacy-model-skin.html)|`2026-04-09 05:50:00`|`Counter-Strike 2`|
+|[Combat Arms Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/65940-combat-arms-reversal-structs-offsets.html)|`2026-04-09 05:46:00`|`Combat Arms`|
+|[BurnerNet: A Zero&#45;Trust C&#43;&#43;20 HTTP Client Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/746643-burnernet-zero-trust-20-http-client-engine.html)|`2026-04-09 05:43:00`|`C and C++`|
+|[Where can I find autoplay cheat for deathmatch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/747168-autoplay-cheat-deathmatch.html)|`2026-04-09 05:42:00`|`Counter-Strike 2 Releases`|
+|[Titan Two &#43; AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744410-titan-amd.html)|`2026-04-09 05:40:00`|`Apex Legends`|
 |[Zydis Example](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747135-zydis-example.html)|`2026-04-09 04:56:00`|`Anti-Cheat Bypass`|
 |[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-09 04:51:00`|`Other FPS Games`|
 |[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-09 04:51:00`|`Valorant`|
