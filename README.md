@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cod4x Silent Aim, Copy and paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/747039-cod4x-silent-aim-copy-paste.html)|`2026-04-08 20:02:00`|`Call of Duty 4: Modern Warfare`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-08 19:50:00`|`Apex Legends`|
+|[detection surface and persistence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747026-detection-surface-persistence.html)|`2026-04-08 19:35:00`|`Anti-Cheat Bypass`|
+|[&#91;Internal&#93; Foenem Menu &#45; FPV Kamikaze Drone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747090-internal-foenem-menu-fpv-kamikaze-drone.html)|`2026-04-08 19:34:00`|`Other FPS Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-08 19:14:00`|`Counter-Strike 2 Releases`|
 |[Offsets BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747088-offsets-bo7.html)|`2026-04-08 18:59:00`|`Call of Duty: Black Ops 7`|
 |[TPM Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746181-tpm-checks.html)|`2026-04-08 18:56:00`|`Valorant`|
