@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[seed trigger improvments](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746386-seed-trigger-improvments.html)|`2026-04-08 14:49:00`|`Counter-Strike 2`|
+|[Reading nav mesh areas externally from server&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747070-reading-nav-mesh-externally-server-dll.html)|`2026-04-08 14:45:00`|`Counter-Strike 2`|
+|[NVIDIA Streamproof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746645-nvidia-streamproof.html)|`2026-04-08 14:40:00`|`Alternative Online Mods`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-08 14:40:00`|`Deadlock`|
+|[Process&#45;Dumper Working every Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746708-process-dumper-game.html)|`2026-04-08 14:39:00`|`Anti-Cheat Bypass`|
+|[Attack range modifier cheat for 1&#46;8&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/732847-attack-range-modifier-cheat-1-8-8-a.html)|`2026-04-08 14:11:00`|`Minecraft`|
+|[Alternative to OpenGl Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/746865-alternative-opengl-hook.html)|`2026-04-08 14:07:00`|`Minecraft`|
+|[&#40;linux&#41; secure dialog bypasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/747064-linux-secure-dialog-bypasses.html)|`2026-04-08 14:07:00`|`Team Fortress 2`|
 |[Broken Arrow &#43;13 Trainer&#40;CT table&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/673542-broken-arrow-13-trainer-ct-table.html)|`2026-04-08 13:11:00`|`Other MMORPG and Strategy`|
 |[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-08 13:07:00`|`Alternative Online Mods`|
 |[external vis check with rails/bars/fence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747037-external-vis-check-rails-bars-fence.html)|`2026-04-08 13:02:00`|`Counter-Strike 2`|
