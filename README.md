@@ -36,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Battle Golf Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746254-super-battle-golf-aim.html)|`2026-04-09 19:33:00`|`Other Games`|
+|[BDO &#45; NAK and &#95;Auto replays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738431-bdo-nak-_auto-replays.html)|`2026-04-09 19:29:00`|`Other MMORPG and Strategy`|
+|[How to get BlackCell for free &#91;METHOD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731095-blackcell-free-method.html)|`2026-04-09 19:26:00`|`Call of Duty: Black Ops 7`|
+|[cheat communication via voice data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/745586-cheat-communication-via-voice-data.html)|`2026-04-09 19:26:00`|`CounterStrike Source`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-04-09 19:25:00`|`Rust`|
+|[CSS V93 OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/733913-css-v93-offsets.html)|`2026-04-09 19:22:00`|`CounterStrike Source`|
+|[dupe tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747235-dupe-tool.html)|`2026-04-09 19:20:00`|`ARC Raiders`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-09 18:33:00`|`Marvel Rivals`|
 |[Xenon client &#40;donutsmp cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/747230-xenon-client-donutsmp-cheat.html)|`2026-04-09 18:29:00`|`Minecraft`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-09 18:26:00`|`Other FPS Games`|
