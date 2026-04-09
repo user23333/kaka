@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-04-09 22:08:00`|`Counter-Strike 2 Releases`|
+|[Chivalry 2 Creating your owns &#46;PAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716143-chivalry-2-creating-owns-pak.html)|`2026-04-09 22:06:00`|`Other FPS Games`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-09 22:00:00`|`Other FPS Games`|
+|[Why am i getting more MORE results with saved pointermaps?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747161-am-getting-results-saved-pointermaps.html)|`2026-04-09 21:58:00`|`Rust`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-04-09 20:08:00`|`Other FPS Games`|
 |[R6 AI Enemy Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/747044-r6-ai-enemy-detection.html)|`2026-04-09 20:07:00`|`Rainbow Six Siege`|
 |[THE CUBE SAVE US — XIGNCODE3 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743933-cube-save-xigncode3-bypass.html)|`2026-04-09 20:04:00`|`Anti-Cheat Bypass`|
