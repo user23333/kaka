@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-09 11:21:00`|`Other Games`|
+|[200/mo arena kick plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/745688-200-mo-arena-kick-plugin.html)|`2026-04-09 11:20:00`|`World of Warcraft`|
+|[VGC EU SERVERS DOWN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746145-vgc-eu-servers.html)|`2026-04-09 11:04:00`|`Valorant`|
+|[ColorBot OW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/739478-colorbot-ow.html)|`2026-04-09 10:55:00`|`Overwatch`|
+|[Best input for rust scripts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746720-input-rust-scripts.html)|`2026-04-09 10:49:00`|`Rust`|
+|[XShot X0&#46;1 &#45; External AI&#45;CV Assistant &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745100-xshot-x0-1-external-ai-cv-assistant-poc.html)|`2026-04-09 10:27:00`|`Counter-Strike 2 Releases`|
 |[External no write aimbot , Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747192-external-write-aimbot-visible-check.html)|`2026-04-09 08:53:00`|`Valorant`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-09 08:41:00`|`Grand Theft Auto V`|
 |[Internal Ragebot vs External "Ragebot"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747191-internal-ragebot-vs-external-ragebot.html)|`2026-04-09 08:37:00`|`Counter-Strike 2`|
