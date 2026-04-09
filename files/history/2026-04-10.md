@@ -12,6 +12,7 @@
 |12|[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-10 00:53:21`|`overwatch`|
 |10|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-10 00:53:21`|`arc-raiders`|
 |18|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-10 03:48:11`|`deadlock`|
+|11|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-10 06:42:51`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple edge jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746699-simple-edge-jump.html)|`2026-04-10 06:37:00`|`Counter-Strike 2`|
+|[apex api](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747339-apex-api.html)|`2026-04-10 06:27:00`|`Apex Legends`|
+|[Colorbot modified release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/747226-colorbot-modified-release.html)|`2026-04-10 06:19:00`|`Overwatch`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-04-10 06:17:00`|`Scum`|
+|[Switching QBs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/747200-switching-qbs.html)|`2026-04-10 06:15:00`|`Rainbow Six Siege`|
+|[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-10 06:13:00`|`ARC Raiders`|
 |[play apex video's and voice clips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747324-play-apex-videos-voice-clips.html)|`2026-04-10 05:58:00`|`Apex Legends`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-04-10 05:57:00`|`Other FPS Games`|
 |[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-10 05:56:00`|`Other Games`|
