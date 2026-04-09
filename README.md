@@ -11,6 +11,7 @@
 |28|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-04-10 00:53:21`|`other-fps-games`|
 |12|[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-10 00:53:21`|`overwatch`|
 |10|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-10 00:53:21`|`arc-raiders`|
+|18|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-10 03:48:11`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-04-10 03:40:00`|`Other MMORPG and Strategy`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-04-10 03:33:00`|`Palworld`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-04-10 03:29:00`|`Other FPS Games`|
+|[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745816-valorant-offsets.html)|`2026-04-10 03:29:00`|`Valorant`|
+|[32&#45;bit x86 Kernel Manual Map Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744361-32-bit-x86-kernel-manual-map-injector.html)|`2026-04-10 03:28:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-10 03:27:00`|`Rust`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-10 03:17:00`|`Other FPS Games`|
+|[nice lil vuln driver from windows xp era&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747275-nice-lil-vuln-driver-windows-xp-era.html)|`2026-04-10 03:13:00`|`Anti-Cheat Bypass`|
 |[About yim menu and latest stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/747080-yim-menu-stuff.html)|`2026-04-10 02:34:00`|`Grand Theft Auto V`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-10 02:34:00`|`Tom Clancy's The Division`|
 |[dupe tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747235-dupe-tool.html)|`2026-04-10 02:31:00`|`ARC Raiders`|
