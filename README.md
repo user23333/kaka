@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747117-arc-raiders-external.html)|`2026-04-10 05:23:00`|`ARC Raiders`|
+|[Advanced HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742915-advanced-hwid-spoofer.html)|`2026-04-10 05:20:00`|`General Programming and Reversing`|
+|[Rapid fire help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747312-rapid-fire-help.html)|`2026-04-10 05:07:00`|`Counter-Strike 2`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-10 05:05:00`|`Other FPS Games`|
+|[Make external skinchanger update hud name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747310-external-skinchanger-update-hud-name.html)|`2026-04-10 04:57:00`|`Counter-Strike 2`|
+|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-10 04:56:00`|`ARC Raiders`|
+|[Rogue Company &#45; 1st Generation Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746942-rogue-company-1st-generation-rogue-internal.html)|`2026-04-10 04:53:00`|`Other Games`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-10 04:32:00`|`Marvel Rivals`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-10 04:30:00`|`ARC Raiders`|
 |[External D3D11 Shader Chams – Models Rendering "Hollow" &#40;Culling Issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/736907-external-d3d11-shader-chams-models-rendering-hollow-culling-issue.html)|`2026-04-10 04:29:00`|`Counter-Strike 2`|
