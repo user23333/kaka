@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ida analysis time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747333-ida-analysis-time.html)|`2026-04-10 15:45:00`|`Call of Duty: Black Ops 7`|
+|[My first CS2 external project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747402-cs2-external-project.html)|`2026-04-10 15:13:00`|`Counter-Strike 2`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-10 15:07:00`|`Other FPS Games`|
+|[Hypervisor future detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747401-hypervisor-future-detection.html)|`2026-04-10 15:04:00`|`Anti-Cheat Bypass`|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-04-10 14:51:00`|`Other FPS Games`|
 |[cs2 internal spectator list c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747395-cs2-internal-spectator-list.html)|`2026-04-10 14:00:00`|`Counter-Strike 2`|
 |[Executed as Admin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747240-executed-admin.html)|`2026-04-10 13:55:00`|`Alternative Online Mods`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-10 13:54:00`|`Alternative Online Mods`|
