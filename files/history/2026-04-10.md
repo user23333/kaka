@@ -34,6 +34,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 internal spectator list c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747395-cs2-internal-spectator-list.html)|`2026-04-10 14:00:00`|`Counter-Strike 2`|
+|[Executed as Admin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747240-executed-admin.html)|`2026-04-10 13:55:00`|`Alternative Online Mods`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-10 13:54:00`|`Alternative Online Mods`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-04-10 13:46:00`|`Other MMORPG and Strategy`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-10 13:45:00`|`Other FPS Games`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-10 13:27:00`|`Apex Legends`|
+|[SendInput](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747393-sendinput.html)|`2026-04-10 13:19:00`|`Valorant`|
+|[C&#43;&#43; Header&#45;Only Kernel&#45;Mode Obfuscation Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/737418-header-kernel-mode-obfuscation-library.html)|`2026-04-10 13:18:00`|`C and C++`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-10 11:58:00`|`Valorant`|
 |[POLYGON Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/496953-polygon-reversal-structs-offsets.html)|`2026-04-10 11:50:00`|`Other FPS Games`|
 |[rhythia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744652-rhythia.html)|`2026-04-10 11:34:00`|`Other Games`|
