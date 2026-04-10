@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bans related to editing schemas &#40;inventory CHANGER&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747528-bans-related-editing-schemas-inventory-changer.html)|`2026-04-11 07:28:00`|`Counter-Strike 2`|
+|[Easter Present &#40;no more clactiveitem decryption&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746579-easter-clactiveitem-decryption.html)|`2026-04-11 07:27:00`|`Rust`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-11 07:21:00`|`Other Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-11 07:21:00`|`Rainbow Six Siege`|
+|[POLYGON Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/496953-polygon-reversal-structs-offsets.html)|`2026-04-11 07:19:00`|`Other FPS Games`|
 |[&#91;Internal&#93; Foenem Menu &#45; FPV Kamikaze Drone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747090-internal-foenem-menu-fpv-kamikaze-drone.html)|`2026-04-11 06:50:00`|`Other FPS Games`|
 |[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-11 06:45:00`|`Overwatch`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-04-11 06:44:00`|`Other FPS Games`|
