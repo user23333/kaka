@@ -27,9 +27,19 @@
 |446|[TarkovAddons v1&#46;1 Hotfix 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54139)|`2026-04-10 00:53:21`|
 |117|[manual&#95;map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54138)|`2026-04-10 00:53:21`|
 |2|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54189)|`2026-04-10 07:24:30`|
+|7|[Unusual &#45; driver base&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54190)|`2026-04-10 09:28:54`|
+|2|[SilentCat&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54187)|`2026-04-10 09:28:54`|
+|1|[TheIsleEvirmaExternalOffsetGen&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54185)|`2026-04-10 09:28:54`|
+|3|[ZulaExt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54164)|`2026-04-10 09:28:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-04-10 09:17:00`|`Grand Theft Auto V`|
+|[VAN 152 without Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747075-van-152-cheats.html)|`2026-04-10 09:15:00`|`Valorant`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-10 08:57:00`|`Overwatch`|
+|[Anybody know anygood injectors for games like fortnite or Apex Legends?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/747127-anygood-injectors-games-fortnite-apex-legends.html)|`2026-04-10 08:54:00`|`Programming for Beginners`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-04-10 08:49:00`|`Other FPS Games`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-04-10 08:47:00`|`Rainbow Six Siege`|
 |[Spwan/clone vehicle external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747340-spwan-clone-vehicle-external.html)|`2026-04-10 07:23:00`|`Alternative Online Mods`|
 |[Shinoko&#45;SS Global &#91; StellaSora Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745179-shinoko-ss-global-stellasora-cheat.html)|`2026-04-10 07:20:00`|`Other MMORPG and Strategy`|
 |[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-10 07:18:00`|`Rainbow Six Siege`|
