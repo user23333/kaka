@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-10 21:02:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-10 20:57:00`|`Apex Legends`|
+|[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2026-04-10 20:56:00`|`Valorant`|
+|[Potassium Crack Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747373-potassium-crack-method.html)|`2026-04-10 20:47:00`|`Roblox`|
 |[Subtick bunnyhop micro jump/teleport issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746897-subtick-bunnyhop-micro-jump-teleport-issue.html)|`2026-04-10 19:54:00`|`Counter-Strike 2`|
 |[filtering items in BaseNetworkable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747178-filtering-items-basenetworkable.html)|`2026-04-10 19:37:00`|`Rust`|
 |[ZulaExt &#45; Simple External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747116-zulaext-simple-external-esp-aimbot.html)|`2026-04-10 19:36:00`|`Other FPS Games`|
