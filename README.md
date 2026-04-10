@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are chams detected? And possible code or how to do it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747451-chams-detected-code.html)|`2026-04-10 23:01:00`|`Rust`|
+|[injecting dll &#40;v27&#46;11 fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740358-injecting-dll-v27-11-fortnite.html)|`2026-04-10 22:57:00`|`Anti-Cheat Bypass`|
+|[Sastasha Injector v1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/711299-sastasha-injector-v1-7-a.html)|`2026-04-10 22:52:00`|`General Programming and Reversing`|
+|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-10 22:51:00`|`ARC Raiders`|
 |[Valorant 2pc ud aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746365-valorant-2pc-ud-aimbot.html)|`2026-04-10 22:08:00`|`Valorant`|
 |[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-10 21:02:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-10 20:57:00`|`Apex Legends`|
