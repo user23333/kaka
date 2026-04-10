@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-11 01:47:00`|`Tom Clancy's The Division`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-11 01:44:00`|`Apex Legends`|
+|[get&#95;inaccuracy weapon&#95;v&#95;data externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623351-get_inaccuracy-weapon_v_data-externally.html)|`2026-04-11 01:44:00`|`Counter-Strike 2`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-04-11 01:44:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-11 01:39:00`|`Rust`|
+|[Zen's being detected more often](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747458-zens-detected.html)|`2026-04-11 01:38:00`|`Call of Duty: Black Ops 7`|
+|[cs2 internal spectator list c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747395-cs2-internal-spectator-list.html)|`2026-04-11 01:37:00`|`Counter-Strike 2`|
+|[Viewmodel & Hands Chams Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747473-viewmodel-hands-chams-filter.html)|`2026-04-11 01:32:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-11 01:29:00`|`Other FPS Games`|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-11 01:26:00`|`Anti-Cheat Bypass`|
 |[World Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747142-world-modulation.html)|`2026-04-11 00:59:00`|`Counter-Strike 2`|
 |[Advanced HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742915-advanced-hwid-spoofer.html)|`2026-04-11 00:53:00`|`General Programming and Reversing`|
 |[Detecting dumping some parameters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747424-detecting-dumping-parameters.html)|`2026-04-11 00:53:00`|`Rust`|
