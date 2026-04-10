@@ -15,6 +15,7 @@
 |11|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-10 06:42:51`|`valorant`|
 |20|[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-10 17:03:25`|`rust`|
 |17|[Simple edge jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746699-simple-edge-jump.html)|`2026-04-10 19:11:49`|`counter-strike-2-a`|
+|15|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747117-arc-raiders-external.html)|`2026-04-10 19:58:16`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Subtick bunnyhop micro jump/teleport issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746897-subtick-bunnyhop-micro-jump-teleport-issue.html)|`2026-04-10 19:54:00`|`Counter-Strike 2`|
+|[filtering items in BaseNetworkable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747178-filtering-items-basenetworkable.html)|`2026-04-10 19:37:00`|`Rust`|
+|[ZulaExt &#45; Simple External ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747116-zulaext-simple-external-esp-aimbot.html)|`2026-04-10 19:36:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-10 19:36:00`|`Counter-Strike 2`|
 |[Detecting dumping some parameters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747424-detecting-dumping-parameters.html)|`2026-04-10 18:56:00`|`Rust`|
 |[get&#95;inaccuracy weapon&#95;v&#95;data externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/623351-get_inaccuracy-weapon_v_data-externally.html)|`2026-04-10 18:55:00`|`Counter-Strike 2`|
 |[Valorant External Free???&#33;&#33; &#40;Needs Fixing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746739-valorant-external-free-fixing.html)|`2026-04-10 18:51:00`|`Valorant`|
