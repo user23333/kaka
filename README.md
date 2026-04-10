@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ida analysis time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747333-ida-analysis-time.html)|`2026-04-11 03:27:00`|`Call of Duty: Black Ops 7`|
+|[KPTI / KVASCODE layout anomaly when scanning backwards for ntoskrnl&#46;exe base from LST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/747491-kpti-kvascode-layout-anomaly-scanning-backwards-ntoskrnl-exe-base-lst.html)|`2026-04-11 03:26:00`|`General Programming and Reversing`|
+|[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-04-11 03:13:00`|`Call of Duty: Modern Warfare`|
+|[Skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746762-skeleton-esp.html)|`2026-04-11 03:12:00`|`Apex Legends`|
+|[Help Requesting Entity Control](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746677-help-requesting-entity-control.html)|`2026-04-11 03:08:00`|`Alternative Online Mods`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-11 03:06:00`|`Rainbow Six Siege`|
 |[skinchanger not applying paintkit properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747357-skinchanger-applying-paintkit-properly.html)|`2026-04-11 02:31:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-11 02:28:00`|`Valorant`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-11 02:26:00`|`Among Us`|
