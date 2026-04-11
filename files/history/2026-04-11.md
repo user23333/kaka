@@ -12,6 +12,7 @@
 |11|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-11 00:04:18`|`arc-raiders`|
 |15|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747117-arc-raiders-external.html)|`2026-04-11 00:04:18`|`arc-raiders`|
 |22|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-11 06:58:30`|`other-fps-games`|
+|44|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-11 16:57:22`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to bypass ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747426-bypass-ban.html)|`2026-04-11 16:28:00`|`Phasmophobia`|
+|[&#91;ASA&#93; Ark Survival Ascended Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733412-asa-ark-survival-ascended-internal.html)|`2026-04-11 16:20:00`|`Other Games`|
 |[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-04-11 15:51:00`|`Genshin Impact`|
 |[nice lil vuln driver from windows xp era&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747275-nice-lil-vuln-driver-windows-xp-era.html)|`2026-04-11 15:32:00`|`Anti-Cheat Bypass`|
 |[Which sigs do i need to make an inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747560-sigs-inventory-changer.html)|`2026-04-11 15:16:00`|`Counter-Strike 2`|
