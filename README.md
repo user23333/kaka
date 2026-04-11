@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-12 05:02:00`|`ARC Raiders`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-04-12 04:54:00`|`Tom Clancy's The Division`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-12 04:50:00`|`Sea of Thieves`|
+|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-04-12 04:50:00`|`Apex Legends`|
+|[C&#95;Inferno](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747638-c_inferno.html)|`2026-04-12 04:49:00`|`Counter-Strike 2`|
 |[llvm&#45;obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747533-llvm-obfuscator.html)|`2026-04-12 04:38:00`|`Anti-Cheat Bypass`|
 |[cant hook ntoskrnl functions in bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747619-cant-hook-ntoskrnl-functions-bootkit.html)|`2026-04-12 04:33:00`|`Anti-Cheat Bypass`|
 |[Playing without Physical TPM&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747634-playing-physical-tpm.html)|`2026-04-12 04:18:00`|`Call of Duty: Black Ops 7`|
