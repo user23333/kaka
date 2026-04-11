@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-12 05:40:00`|`Counter-Strike 2`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-04-12 05:39:00`|`Other Games`|
+|[Question ? Working ESP for PRime Competative VAC LivE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744594-question-esp-prime-competative-vac-live.html)|`2026-04-12 05:35:00`|`Counter-Strike 2 Releases`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-04-12 05:34:00`|`Other MMORPG and Strategy`|
+|[legacy model without skin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/742660-legacy-model-skin.html)|`2026-04-12 05:31:00`|`Counter-Strike 2`|
+|[Which sigs do i need to make an inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747560-sigs-inventory-changer.html)|`2026-04-12 05:25:00`|`Counter-Strike 2`|
 |[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-12 05:02:00`|`ARC Raiders`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-04-12 04:54:00`|`Tom Clancy's The Division`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-12 04:50:00`|`Sea of Thieves`|
