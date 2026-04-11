@@ -31,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAL5 without VAN152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747594-val5-van152.html)|`2026-04-11 23:05:00`|`Valorant`|
 |[DayZ Xbox / Microsoft Store — Dumping & Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747592-dayz-xbox-microsoft-store-dumping-reversing.html)|`2026-04-11 21:48:00`|`DayZ SA`|
 |[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-11 21:39:00`|`Other FPS Games`|
 |[Sea of Thieves Telemetry Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/738803-sea-thieves-telemetry-reader.html)|`2026-04-11 21:38:00`|`Sea of Thieves`|
