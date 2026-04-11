@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[llvm&#45;obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747533-llvm-obfuscator.html)|`2026-04-12 04:38:00`|`Anti-Cheat Bypass`|
+|[cant hook ntoskrnl functions in bootkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747619-cant-hook-ntoskrnl-functions-bootkit.html)|`2026-04-12 04:33:00`|`Anti-Cheat Bypass`|
+|[Playing without Physical TPM&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747634-playing-physical-tpm.html)|`2026-04-12 04:18:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-12 04:07:00`|`Other FPS Games`|
 |[Random/Game State switch crashing &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747630-random-game-switch-crashing-internal.html)|`2026-04-12 04:00:00`|`Counter-Strike 2`|
 |[Any update on Kiddions Mod menu for enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/717314-update-kiddions-mod-menu-enhanced.html)|`2026-04-12 03:47:00`|`Grand Theft Auto V`|
 |[cs2 internal spectator list c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747395-cs2-internal-spectator-list.html)|`2026-04-12 03:46:00`|`Counter-Strike 2`|
