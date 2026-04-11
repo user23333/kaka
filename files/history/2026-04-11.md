@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[decrypting CR3 in vgk&#46;sys / shadow pages](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747308-decrypting-cr3-vgk-sys-shadow-pages.html)|`2026-04-11 17:28:00`|`Valorant`|
+|[Internal skinchanger only sets quality](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747562-internal-skinchanger-sets-quality.html)|`2026-04-11 17:17:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-04-11 17:14:00`|`Other Games`|
+|[Client Failed Anti Cheat Backend Check &#40;need ZCban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747559-client-failed-anti-cheat-backend-check-zcban.html)|`2026-04-11 17:06:00`|`Apex Legends`|
 |[How to bypass ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747426-bypass-ban.html)|`2026-04-11 16:28:00`|`Phasmophobia`|
 |[&#91;ASA&#93; Ark Survival Ascended Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/733412-asa-ark-survival-ascended-internal.html)|`2026-04-11 16:20:00`|`Other Games`|
 |[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-04-11 15:51:00`|`Genshin Impact`|
