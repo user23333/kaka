@@ -27,6 +27,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 DMA External &#45; ESP, Web Radar, Grenade Helper &#40;C&#43;&#43; &#43; FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747648-cs2-dma-external-esp-web-radar-grenade-helper-fpga.html)|`2026-04-12 06:50:00`|`Counter-Strike 2`|
 |[Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747650-glow.html)|`2026-04-12 06:34:00`|`Counter-Strike 2`|
 |[cs2 internal hitmarker wrong trigger c&#43;&#43; fix help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747642-cs2-internal-hitmarker-wrong-trigger-fix-help.html)|`2026-04-12 06:31:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-12 06:28:00`|`Rainbow Six Siege`|
