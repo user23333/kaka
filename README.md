@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC memory dumping methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747233-eac-memory-dumping-methods.html)|`2026-04-11 20:55:00`|`Anti-Cheat Bypass`|
+|[External Flying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747589-external-flying.html)|`2026-04-11 20:54:00`|`Roblox`|
+|[Updating offsets / finding new ones in BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747571-updating-offsets-finding-ones-bo7.html)|`2026-04-11 20:51:00`|`Call of Duty: Black Ops 7`|
+|[Are There Any Server Sided Exploits in EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747537-server-sided-exploits-eac.html)|`2026-04-11 20:50:00`|`Rust`|
+|[External Native Invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747543-external-native-invoker.html)|`2026-04-11 20:48:00`|`Alternative Online Mods`|
 |[Hi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/747579-hi.html)|`2026-04-11 19:43:00`|`Introductions`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-11 19:41:00`|`Deadlock`|
 |[filtering items in BaseNetworkable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747178-filtering-items-basenetworkable.html)|`2026-04-11 19:29:00`|`Rust`|
