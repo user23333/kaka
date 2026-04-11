@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Xbox / Microsoft Store — Dumping & Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747592-dayz-xbox-microsoft-store-dumping-reversing.html)|`2026-04-11 21:48:00`|`DayZ SA`|
+|[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-11 21:39:00`|`Other FPS Games`|
+|[Sea of Thieves Telemetry Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/738803-sea-thieves-telemetry-reader.html)|`2026-04-11 21:38:00`|`Sea of Thieves`|
 |[EAC memory dumping methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747233-eac-memory-dumping-methods.html)|`2026-04-11 20:55:00`|`Anti-Cheat Bypass`|
 |[External Flying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747589-external-flying.html)|`2026-04-11 20:54:00`|`Roblox`|
 |[Updating offsets / finding new ones in BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747571-updating-offsets-finding-ones-bo7.html)|`2026-04-11 20:51:00`|`Call of Duty: Black Ops 7`|
