@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-12 01:48:00`|`Other Games`|
+|[DayZ Xbox / Microsoft Store — Dumping & Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747592-dayz-xbox-microsoft-store-dumping-reversing.html)|`2026-04-12 01:45:00`|`DayZ SA`|
+|[I want to find a way to bypass GameGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741637-bypass-gameguard.html)|`2026-04-12 01:41:00`|`HELLDIVERS 2`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-12 01:40:00`|`HELLDIVERS 2`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-04-12 01:37:00`|`Marvel Rivals`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-12 01:37:00`|`Other Games`|
+|[very bad driver signed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747611-bad-driver-signed.html)|`2026-04-12 01:30:00`|`Anti-Cheat Bypass`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-12 01:15:00`|`Escape from Tarkov`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-04-12 01:15:00`|`Call of Duty: Black Ops 7`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-12 01:05:00`|`Marvel Rivals`|
