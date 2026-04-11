@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IRACING ARCADE CHEAT TABLE ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/747659-iracing-arcade-cheat-table.html)|`2026-04-12 07:30:00`|`Quake Champions`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-12 07:28:00`|`Apex Legends`|
+|[Rogue Company &#45; 1st Generation Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746942-rogue-company-1st-generation-rogue-internal.html)|`2026-04-12 07:27:00`|`Other Games`|
+|[Achievements](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/747657-achievements.html)|`2026-04-12 07:24:00`|`Sea of Thieves`|
+|[GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745125-gsc-injector.html)|`2026-04-12 07:23:00`|`Call of Duty: Modern Warfare`|
+|[free unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747656-free-unlock.html)|`2026-04-12 07:22:00`|`Valorant`|
+|[HWID BANNED GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745898-hwid-banned-gg.html)|`2026-04-12 07:20:00`|`Apex Legends`|
 |[CS2 DMA External &#45; ESP, Web Radar, Grenade Helper &#40;C&#43;&#43; &#43; FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747648-cs2-dma-external-esp-web-radar-grenade-helper-fpga.html)|`2026-04-12 06:50:00`|`Counter-Strike 2`|
 |[Glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747650-glow.html)|`2026-04-12 06:34:00`|`Counter-Strike 2`|
 |[cs2 internal hitmarker wrong trigger c&#43;&#43; fix help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747642-cs2-internal-hitmarker-wrong-trigger-fix-help.html)|`2026-04-12 06:31:00`|`Counter-Strike 2`|
