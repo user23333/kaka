@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-11 13:41:00`|`ARC Raiders`|
+|[ID to Names](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747344-id-names.html)|`2026-04-11 13:23:00`|`ARC Raiders`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-04-11 13:12:00`|`HELLDIVERS 2`|
+|[max distance of certain networked entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747554-max-distance-networked-entities.html)|`2026-04-11 13:05:00`|`Rust`|
+|[AI External &#40;No Reading Memory&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746724-ai-external-reading-memory.html)|`2026-04-11 12:51:00`|`Rainbow Six Siege`|
+|[Any nice cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/734596-nice-cheats.html)|`2026-04-11 12:47:00`|`Among Us`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-11 12:34:00`|`Other FPS Games`|
 |[&#40;BloodStrike&#41; Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746927-bloodstrike-internal-aimbot.html)|`2026-04-11 12:26:00`|`Other FPS Games`|
 |[manual mapping vs dse bypass & ntloaddriver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747550-manual-mapping-vs-dse-bypass-ntloaddriver.html)|`2026-04-11 12:11:00`|`Anti-Cheat Bypass`|
