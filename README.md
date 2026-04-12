@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need correct way to call GetDamageToPoint / AutoWall &#45; what object is the first param](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747821-correct-call-getdamagetopoint-autowall-object-param.html)|`2026-04-13 06:44:00`|`Counter-Strike 2`|
+|[r6 internal source has cool stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/747682-r6-internal-source-cool-stuff.html)|`2026-04-13 06:37:00`|`Rainbow Six Siege`|
+|[Arduino HID Mouse &#43; Free Libraries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/642071-arduino-hid-mouse-free-libraries.html)|`2026-04-13 06:32:00`|`Valorant`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-13 06:30:00`|`Other FPS Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-13 06:21:00`|`Escape from Tarkov`|
 |[I’m going to buy 30 Xbox 360’s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/744136-buy-30-xbox-360-a.html)|`2026-04-13 06:03:00`|`Off Topic`|
 |[Apex Glow Offset Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747660-apex-glow-offset-help.html)|`2026-04-13 05:47:00`|`Apex Legends`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-13 05:47:00`|`Rust`|
