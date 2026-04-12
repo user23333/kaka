@@ -11,6 +11,7 @@
 |12|[Refresh Inventory UUIDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746733-refresh-inventory-uuids.html)|`2026-04-13 00:22:09`|`arc-raiders`|
 |6|[Valorant External Free???&#33;&#33; &#40;Needs Fixing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746739-valorant-external-free-fixing.html)|`2026-04-13 00:22:09`|`valorant`|
 |15|[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-13 00:22:09`|`arc-raiders`|
+|23|[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-13 04:03:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,15 @@
 |23|[TheIsleEvirmaExternalOffsetGen&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54185)|`2026-04-13 00:22:09`|
 |43|[arc xbox dump 08&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54176)|`2026-04-13 00:22:09`|
 |364|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54165)|`2026-04-13 00:22:09`|
+|1|[CNN TinyPointNet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54241)|`2026-04-13 04:03:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-13 04:01:00`|`Other MMORPG and Strategy`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-04-13 03:58:00`|`Grand Theft Auto V`|
+|[Sub ms Latency Convolutional Neural Net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747734-sub-ms-latency-convolutional-neural-net.html)|`2026-04-13 03:55:00`|`Valorant`|
+|[EngineTrace / TraceShape release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747109-enginetrace-traceshape-release.html)|`2026-04-13 03:55:00`|`Counter-Strike 2`|
+|[Cheat SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/744300-cheat-src.html)|`2026-04-13 03:51:00`|`Alternative Online Mods`|
 |[Company Of Heroes 3 &#45; Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747791-company-heroes-3-map-hack.html)|`2026-04-13 03:35:00`|`Other MMORPG and Strategy`|
 |[CS2 Internal &#45; Weapon Name via m&#95;pEntity/m&#95;designerName not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747790-cs2-internal-weapon-name-via-m_pentity-m_designername.html)|`2026-04-13 03:35:00`|`Counter-Strike 2`|
 |[i need working debug camer for my external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747649-debug-camer-external.html)|`2026-04-13 03:35:00`|`Rust`|
