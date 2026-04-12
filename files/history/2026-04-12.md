@@ -26,9 +26,17 @@
 |26|[ZulaExt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54164)|`2026-04-12 00:02:42`|
 |386|[TarkovAddons v1&#46;1 Hotfix 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54162)|`2026-04-12 00:02:42`|
 |1|[EFT 1&#46;0&#46;4&#46;1&#46;44236 Il2Cpp Dump ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54229)|`2026-04-12 17:51:34`|
+|4|[Simple PUBG Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54238)|`2026-04-12 19:02:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-04-12 18:59:00`|`DayZ SA`|
+|[Looking for Visuals Script LoL&#46; $$$](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/747514-looking-visuals-script-lol.html)|`2026-04-12 18:55:00`|`League of Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-12 18:54:00`|`Other MMORPG and Strategy`|
+|[Roblox Offsets &#45; Auto&#45;Updated &#124; Apr 2026 &#124; v668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/746512-roblox-offsets-auto-updated-apr-2026-v668.html)|`2026-04-12 18:53:00`|`Roblox`|
+|[Titanfall 2 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/titanfall/688353-titanfall-2-internal-cheat.html)|`2026-04-12 18:44:00`|`Titanfall`|
+|[EAC and GameAssembly&#46;dll &#46;text patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747727-eac-gameassembly-dll-text-patches.html)|`2026-04-12 18:42:00`|`Rust`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-04-12 18:39:00`|`Grand Theft Auto V`|
 |[Bans related to editing schemas &#40;inventory CHANGER&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747528-bans-related-editing-schemas-inventory-changer.html)|`2026-04-12 18:17:00`|`Counter-Strike 2`|
 |[ARC RAIDERS DUPING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747711-arc-raiders-duping.html)|`2026-04-12 18:09:00`|`ARC Raiders`|
 |[external rcs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747681-external-rcs.html)|`2026-04-12 18:07:00`|`Counter-Strike 2`|
