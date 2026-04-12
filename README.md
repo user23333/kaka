@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-04-12 22:44:00`|`Paladins`|
+|[autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747751-autowall.html)|`2026-04-12 22:44:00`|`Counter-Strike 2`|
+|[need sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747753-sig.html)|`2026-04-12 22:39:00`|`Counter-Strike 2`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-04-12 22:37:00`|`Apex Legends`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-12 22:36:00`|`Grand Theft Auto V`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-12 22:28:00`|`HELLDIVERS 2`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-04-12 21:54:00`|`Other FPS Games`|
 |[Internal skinchanger only sets quality](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747562-internal-skinchanger-sets-quality.html)|`2026-04-12 21:49:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-12 21:48:00`|`Other Games`|
