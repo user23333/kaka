@@ -25,9 +25,14 @@
 |282|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54165)|`2026-04-12 00:02:42`|
 |26|[ZulaExt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54164)|`2026-04-12 00:02:42`|
 |386|[TarkovAddons v1&#46;1 Hotfix 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54162)|`2026-04-12 00:02:42`|
+|1|[EFT 1&#46;0&#46;4&#46;1&#46;44236 Il2Cpp Dump ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54229)|`2026-04-12 17:51:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-04-12 17:50:00`|`HELLDIVERS 2`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-12 17:37:00`|`League of Legends`|
+|[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-04-12 17:32:00`|`Escape from Tarkov`|
+|[Colorbot modified release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/747226-colorbot-modified-release.html)|`2026-04-12 17:16:00`|`Overwatch`|
 |[&#40;BloodStrike&#41; Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746927-bloodstrike-internal-aimbot.html)|`2026-04-12 16:58:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-12 16:46:00`|`Other FPS Games`|
 |[helldivers2 cheating CT table, hoping more people will join the CT production](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733515-helldivers2-cheating-ct-table-hoping-people-join-ct-production.html)|`2026-04-12 16:43:00`|`HELLDIVERS 2`|
