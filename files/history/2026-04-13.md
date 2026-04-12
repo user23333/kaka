@@ -12,6 +12,7 @@
 |6|[Valorant External Free???&#33;&#33; &#40;Needs Fixing&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746739-valorant-external-free-fixing.html)|`2026-04-13 00:22:09`|`valorant`|
 |15|[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-13 00:22:09`|`arc-raiders`|
 |23|[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-13 04:03:37`|`other-fps-games`|
+|17|[Simple edge jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746699-simple-edge-jump.html)|`2026-04-13 05:51:54`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Glow Offset Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747660-apex-glow-offset-help.html)|`2026-04-13 05:47:00`|`Apex Legends`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-13 05:47:00`|`Rust`|
+|[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-04-13 05:44:00`|`Other Games`|
+|[refresh id tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747804-refresh-id-tool.html)|`2026-04-13 05:42:00`|`ARC Raiders`|
+|[TraceShape not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746533-traceshape-properly.html)|`2026-04-13 05:33:00`|`Counter-Strike 2`|
+|[need sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747753-sig.html)|`2026-04-13 05:32:00`|`Counter-Strike 2`|
+|[Marvel Rivals External &#124; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/746771-marvel-rivals-external-updated.html)|`2026-04-13 05:32:00`|`Marvel Rivals`|
+|[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-13 05:24:00`|`Rust`|
 |[Are there any old / new / working cheats for ascension ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/747797-cheats-ascension.html)|`2026-04-13 05:14:00`|`Wow Hacks and Bots`|
 |[neverlose 3&#46;3 source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/747796-neverlose-3-3-source-code.html)|`2026-04-13 05:09:00`|`Counterstrike Global Offensive`|
 |[Client and Engine offsets on 10210 version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/747762-client-engine-offsets-10210-version.html)|`2026-04-13 05:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
