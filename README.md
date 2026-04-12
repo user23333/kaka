@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any old / new / working cheats for ascension ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/747797-cheats-ascension.html)|`2026-04-13 05:14:00`|`Wow Hacks and Bots`|
+|[neverlose 3&#46;3 source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/747796-neverlose-3-3-source-code.html)|`2026-04-13 05:09:00`|`Counterstrike Global Offensive`|
+|[Client and Engine offsets on 10210 version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/747762-client-engine-offsets-10210-version.html)|`2026-04-13 05:07:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-04-13 05:02:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-13 04:46:00`|`Other Games`|
 |[Rust Material dumper external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747462-rust-material-dumper-external.html)|`2026-04-13 04:45:00`|`Rust`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-13 04:44:00`|`Other FPS Games`|
