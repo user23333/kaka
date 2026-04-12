@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Company Of Heroes 3 &#45; Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747791-company-heroes-3-map-hack.html)|`2026-04-13 03:35:00`|`Other MMORPG and Strategy`|
+|[CS2 Internal &#45; Weapon Name via m&#95;pEntity/m&#95;designerName not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747790-cs2-internal-weapon-name-via-m_pentity-m_designername.html)|`2026-04-13 03:35:00`|`Counter-Strike 2`|
+|[i need working debug camer for my external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747649-debug-camer-external.html)|`2026-04-13 03:35:00`|`Rust`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-04-13 03:34:00`|`Paladins`|
+|[rust external realese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747662-rust-external-realese.html)|`2026-04-13 03:21:00`|`Rust`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-13 03:17:00`|`Marvel Rivals`|
 |[IRACING ARCADE CHEAT TABLE ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747788-iracing-arcade-cheat-table.html)|`2026-04-13 02:59:00`|`Other Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-13 02:57:00`|`Other FPS Games`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-04-13 02:55:00`|`Other MMORPG and Strategy`|
