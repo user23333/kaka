@@ -15,6 +15,8 @@
 |17|[Simple edge jump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746699-simple-edge-jump.html)|`2026-04-13 05:51:54`|`counter-strike-2-a`|
 |11|[AI External &#40;No Reading Memory&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746724-ai-external-reading-memory.html)|`2026-04-13 07:24:06`|`rainbow-six-siege`|
 |8|[Unusual &#45; driver base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747250-unusual-driver-base.html)|`2026-04-13 07:55:38`|`anti-cheat-bypass`|
+|8|[Unlock All / Perfect Visible check &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746931-unlock-perfect-visible-check-external.html)|`2026-04-13 12:36:58`|`valorant`|
+|20|[CS2 serverside anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746734-cs2-serverside-anticheat.html)|`2026-04-13 12:36:58`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +33,16 @@
 |1|[CNN TinyPointNet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54241)|`2026-04-13 04:03:37`|
 |12|[GOVNOdriver for eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54254)|`2026-04-13 04:47:54`|
 |1|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54236)|`2026-04-13 09:26:51`|
+|41|[Heartopia Helprer1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54227)|`2026-04-13 12:36:58`|
+|5|[DayZInternal v2&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54223)|`2026-04-13 12:36:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-13 12:36:00`|`Other FPS Games`|
+|[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2026-04-13 12:35:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-13 12:32:00`|`Call of Duty: Black Ops 7`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-13 12:18:00`|`Roblox`|
+|[Unturned External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743777-unturned-external-base.html)|`2026-04-13 12:18:00`|`Other Games`|
 |[Osu cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744504-osu-cheat.html)|`2026-04-13 09:25:00`|`Other Games`|
 |[Dih skeleton ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747793-dih-skeleton-esp.html)|`2026-04-13 09:21:00`|`Counter-Strike 2`|
 |[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747569-sons-forest-gibson-menu.html)|`2026-04-13 09:15:00`|`Other Games`|
