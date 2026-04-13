@@ -19,6 +19,8 @@
 |20|[CS2 serverside anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746734-cs2-serverside-anticheat.html)|`2026-04-13 12:36:58`|`anti-cheat-bypass`|
 |5|[Simple manual map injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746776-simple-manual-map-injector.html)|`2026-04-13 16:30:55`|`anti-cheat-bypass`|
 |7|[EngineTrace / TraceShape release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747109-enginetrace-traceshape-release.html)|`2026-04-13 16:30:55`|`counter-strike-2-a`|
+|16|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-13 18:15:04`|`arc-raiders`|
+|18|[Skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746762-skeleton-esp.html)|`2026-04-13 18:15:04`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-13 17:48:00`|`Other FPS Games`|
+|[SastashaFied Plutonium T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-plutonium-t5-mp-multihack.html)|`2026-04-13 17:38:00`|`Call of Duty: Black Ops`|
+|[Apex Legends weapon icon pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741823-apex-legends-weapon-icon-pack.html)|`2026-04-13 17:36:00`|`Apex Legends`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-04-13 17:13:00`|`Tom Clancy's The Division`|
 |[Slay the Spire 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742906-slay-spire-2-internal.html)|`2026-04-13 16:23:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-04-13 16:17:00`|`Other FPS Games`|
 |[Beyond All Reason Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747859-beyond-reason-map-hack.html)|`2026-04-13 16:15:00`|`Other MMORPG and Strategy`|
