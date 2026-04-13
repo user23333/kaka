@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust recoil macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/745514-rust-recoil-macro.html)|`2026-04-13 19:28:00`|`Rust`|
+|[bloodstrike internal &#40;steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745025-bloodstrike-internal-steam.html)|`2026-04-13 19:21:00`|`Other FPS Games`|
+|[EAC and GameAssembly&#46;dll &#46;text patches](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747727-eac-gameassembly-dll-text-patches.html)|`2026-04-13 19:15:00`|`Rust`|
+|[commerical anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747129-commerical-anticheats.html)|`2026-04-13 19:11:00`|`Rust`|
+|[spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/732031-spoofer.html)|`2026-04-13 19:05:00`|`Overwatch`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-13 17:48:00`|`Other FPS Games`|
 |[SastashaFied Plutonium T5 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/742029-sastashafied-plutonium-t5-mp-multihack.html)|`2026-04-13 17:38:00`|`Call of Duty: Black Ops`|
 |[Apex Legends weapon icon pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/741823-apex-legends-weapon-icon-pack.html)|`2026-04-13 17:36:00`|`Apex Legends`|
