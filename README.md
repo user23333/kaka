@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KKD &#45; Kallmek3nnys Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/734379-kkd-kallmek3nnys-kernel-driver.html)|`2026-04-14 05:17:00`|`Call of Duty: Black Ops 7`|
+|[New Offsets/Updated Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/747918-offsets-updated-cheat.html)|`2026-04-14 05:14:00`|`Marvel Rivals`|
+|[Cod4x Silent Aim, Copy and paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/747039-cod4x-silent-aim-copy-paste.html)|`2026-04-14 05:12:00`|`Call of Duty 4: Modern Warfare`|
+|[Fallen surival silent aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747942-fallen-surival-silent-aim.html)|`2026-04-14 05:10:00`|`Roblox`|
+|[SetSubtickAngles dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747876-setsubtickangles-dont.html)|`2026-04-14 05:06:00`|`Counter-Strike 2`|
+|[Valorant Color Aimbot &#40;only sees the target&#41; &#45; you can make it work if you have an Ar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746715-valorant-color-aimbot-target-ar.html)|`2026-04-14 05:05:00`|`Valorant`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-04-14 04:39:00`|`Other FPS Games`|
 |[commerical anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747129-commerical-anticheats.html)|`2026-04-14 04:35:00`|`Rust`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-14 04:29:00`|`Rust`|
