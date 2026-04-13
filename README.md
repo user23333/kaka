@@ -17,6 +17,8 @@
 |8|[Unusual &#45; driver base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747250-unusual-driver-base.html)|`2026-04-13 07:55:38`|`anti-cheat-bypass`|
 |8|[Unlock All / Perfect Visible check &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746931-unlock-perfect-visible-check-external.html)|`2026-04-13 12:36:58`|`valorant`|
 |20|[CS2 serverside anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746734-cs2-serverside-anticheat.html)|`2026-04-13 12:36:58`|`anti-cheat-bypass`|
+|5|[Simple manual map injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746776-simple-manual-map-injector.html)|`2026-04-13 16:30:55`|`anti-cheat-bypass`|
+|7|[EngineTrace / TraceShape release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747109-enginetrace-traceshape-release.html)|`2026-04-13 16:30:55`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Slay the Spire 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742906-slay-spire-2-internal.html)|`2026-04-13 16:23:00`|`Other Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-04-13 16:17:00`|`Other FPS Games`|
+|[Beyond All Reason Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747859-beyond-reason-map-hack.html)|`2026-04-13 16:15:00`|`Other MMORPG and Strategy`|
+|[Temp Spoofer Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745150-temp-spoofer-driver.html)|`2026-04-13 16:14:00`|`Anti-Cheat Bypass`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-13 16:10:00`|`Escape from Tarkov`|
 |[some expired cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/741608-expired-cert.html)|`2026-04-13 14:21:00`|`Anti-Cheat Bypass`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-04-13 14:16:00`|`Other FPS Games`|
 |[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-13 13:56:00`|`Overwatch`|
