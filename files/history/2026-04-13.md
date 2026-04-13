@@ -22,6 +22,7 @@
 |16|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-13 18:15:04`|`arc-raiders`|
 |18|[Skeleton esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/746762-skeleton-esp.html)|`2026-04-13 18:15:04`|`apex-legends`|
 |11|[Marvel Rivals External &#124; Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/746771-marvel-rivals-external-updated.html)|`2026-04-13 20:44:21`|`marvel-rivals`|
+|19|[rust external realese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747662-rust-external-realese.html)|`2026-04-13 22:18:22`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,9 +42,17 @@
 |41|[Heartopia Helprer1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54227)|`2026-04-13 12:36:58`|
 |5|[DayZInternal v2&#46;1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54223)|`2026-04-13 12:36:58`|
 |3|[Beyond All Reason Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54263)|`2026-04-13 20:44:21`|
+|1|[DayZInternal v2&#46;1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54264)|`2026-04-13 22:18:22`|
+|5|[OsuPlayback&#95;v9&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54260)|`2026-04-13 22:18:22`|
+|1|[Palia Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54257)|`2026-04-13 22:18:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/217341-paladins-reversal-structs-offsets.html)|`2026-04-13 22:14:00`|`Paladins`|
+|[How EAC Can Detect DSE Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747840-eac-detect-dse-bypass.html)|`2026-04-13 22:10:00`|`Anti-Cheat Bypass`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-13 22:08:00`|`Other FPS Games`|
+|[VGC EU SERVERS DOWN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746145-vgc-eu-servers.html)|`2026-04-13 22:08:00`|`Valorant`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-13 22:00:00`|`ARMA 3`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-13 20:43:00`|`Tom Clancy's The Division`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-13 20:34:00`|`Rust`|
 |[cs2 internal triggerbot best method c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747870-cs2-internal-triggerbot-method.html)|`2026-04-13 20:19:00`|`Counter-Strike 2`|
