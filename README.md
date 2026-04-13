@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747917-fivem-external-base.html)|`2026-04-14 07:37:00`|`Alternative Online Mods`|
+|[Killfeed funnies&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/747957-killfeed-funnies.html)|`2026-04-14 07:36:00`|`Team Fortress 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-14 07:36:00`|`Other MMORPG and Strategy`|
+|[Vanguard Emulators, why dont they exist? Has no one been able to decode vgc protobuf?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/685158-vanguard-emulators-dont-exist-able-decode-vgc-protobuf.html)|`2026-04-14 07:26:00`|`League of Legends`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-14 07:20:00`|`Apex Legends`|
 |[New to marvel rivals &#40;tips&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/747541-marvel-rivals-tips.html)|`2026-04-14 07:01:00`|`Marvel Rivals`|
 |[Waveshield CreateThread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747949-waveshield-createthread.html)|`2026-04-14 06:53:00`|`Alternative Online Mods`|
 |[1&#46;21&#46;4 mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/747914-1-21-4-mappings.html)|`2026-04-14 06:44:00`|`Minecraft`|
