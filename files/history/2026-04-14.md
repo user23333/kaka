@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Join any player by using their Rockstar ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748017-join-player-using-rockstar-id.html)|`2026-04-14 22:10:00`|`Grand Theft Auto V`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-04-14 21:56:00`|`Phasmophobia`|
+|[Flying Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747728-flying-glitch.html)|`2026-04-14 21:51:00`|`DayZ SA`|
 |[Reminder: Blizzard adimins are 100 percent reading this Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/744203-reminder-blizzard-adimins-100-percent-reading-forum.html)|`2026-04-14 20:42:00`|`Overwatch`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-14 20:26:00`|`Other Games`|
 |[Ragnarok NDL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/748004-ragnarok-ndl.html)|`2026-04-14 20:20:00`|`Ragnarok`|
