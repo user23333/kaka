@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-04-14 12:00:00`|`Other FPS Games`|
+|[AI External Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/747975-ai-external-release.html)|`2026-04-14 11:55:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-14 11:53:00`|`Call of Duty: Black Ops 7`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-14 11:48:00`|`Valorant`|
+|[INV changer: knife applies, weapon gun hud name updates but weapon skin stays default](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747915-inv-changer-knife-applies-weapon-gun-hud-name-updates-weapon-skin-stays-default.html)|`2026-04-14 11:19:00`|`Counter-Strike 2`|
 |[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-04-14 08:58:00`|`Escape from Tarkov`|
 |[UEFI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747773-uefi.html)|`2026-04-14 08:49:00`|`Alternative Online Mods`|
 |[Colorbot modified release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/747226-colorbot-modified-release.html)|`2026-04-14 08:35:00`|`Overwatch`|
