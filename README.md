@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-04-15 04:30:00`|`Valorant`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-04-15 04:30:00`|`Paladins`|
+|[van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747114-van-152-a.html)|`2026-04-15 04:29:00`|`Valorant`|
+|[EasyAntiCheat&#46;sys Kernel Driver RE &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748063-easyanticheat-sys-kernel-driver-re-rust.html)|`2026-04-15 04:26:00`|`General Programming and Reversing`|
+|[Lua executpr rocx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745986-lua-executpr-rocx.html)|`2026-04-15 04:24:00`|`Garry's Mod`|
 |[how do you guys find offsets at runtime if you're internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748057-guys-offsets-runtime-youre-internal.html)|`2026-04-15 03:53:00`|`Rust`|
 |[Developer/Coder for the Arc Raiders update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748056-developer-coder-arc-raiders-update.html)|`2026-04-15 03:51:00`|`ARC Raiders`|
 |[Localplayer check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/745789-localplayer-check.html)|`2026-04-15 03:46:00`|`Call of Duty: Black Ops 2`|
