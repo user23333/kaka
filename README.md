@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-04-14 17:24:00`|`Counter-Strike 2`|
+|[recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747919-recoil.html)|`2026-04-14 17:13:00`|`Rust`|
+|[RUST WORKING OFFSETS/DECRYPTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747960-rust-offsets-decrypts.html)|`2026-04-14 17:11:00`|`Rust`|
+|[New Apex Read Only Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747994-apex-read-cheat.html)|`2026-04-14 16:59:00`|`Apex Legends`|
+|[cs2 internal triggerbot best method c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747870-cs2-internal-triggerbot-method.html)|`2026-04-14 16:57:00`|`Counter-Strike 2`|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-14 16:55:00`|`Other FPS Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-14 15:49:00`|`Alternative Online Mods`|
 |[Insurgency 2014 &#40;x64&#41; External Wallhack &#45; M4RTKL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/733312-insurgency-2014-x64-external-wallhack-m4rtkl.html)|`2026-04-14 15:27:00`|`Insurgency`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-14 15:10:00`|`Counter-Strike 2 Releases`|
