@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reminder: Blizzard adimins are 100 percent reading this Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/744203-reminder-blizzard-adimins-100-percent-reading-forum.html)|`2026-04-14 20:42:00`|`Overwatch`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-14 20:26:00`|`Other Games`|
+|[Ragnarok NDL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/748004-ragnarok-ndl.html)|`2026-04-14 20:20:00`|`Ragnarok`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-14 20:18:00`|`Marvel Rivals`|
+|[Slay the Spire 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742906-slay-spire-2-internal.html)|`2026-04-14 20:17:00`|`Other Games`|
+|[DMA introduction VGK/Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746494-dma-introduction-vgk-valorant.html)|`2026-04-14 20:14:00`|`Anti-Cheat Bypass`|
+|[ALL THE FIVEM PATTERNS &#40;THAT I'VE TAKEN SO FAR&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736299-fivem-patterns-ive.html)|`2026-04-14 20:12:00`|`Alternative Online Mods`|
 |[some p2c source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747955-p2c-source.html)|`2026-04-14 19:27:00`|`Counter-Strike 2`|
 |[Cheat Recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748001-cheat-recommendations.html)|`2026-04-14 19:21:00`|`Valorant`|
 |[Rust Silent Aim prediction &#45; help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746907-rust-silent-aim-prediction-help.html)|`2026-04-14 19:04:00`|`Rust`|
