@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-04-15 06:05:00`|`Anti-Cheat Bypass`|
+|[Join any player by using their Rockstar ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748017-join-player-using-rockstar-id.html)|`2026-04-15 06:05:00`|`Grand Theft Auto V`|
+|[External Raycast Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748072-external-raycast-visible-check.html)|`2026-04-15 06:03:00`|`Alternative Online Mods`|
+|[latest vgc&#46;exe &#40; c files &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745958-vgc-exe-files.html)|`2026-04-15 06:03:00`|`Valorant`|
+|[Any way to unlock the clownfish mask?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748015-unlock-clownfish-mask.html)|`2026-04-15 06:01:00`|`Grand Theft Auto V`|
+|[Easy radar for Apex with DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748040-easy-radar-apex-dma.html)|`2026-04-15 05:54:00`|`Apex Legends`|
+|[injecting dll &#40;v27&#46;11 fortnite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/740358-injecting-dll-v27-11-fortnite.html)|`2026-04-15 05:54:00`|`Anti-Cheat Bypass`|
 |[script and anticheat script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748050-script-anticheat-script.html)|`2026-04-15 05:28:00`|`Alternative Online Mods`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-15 05:24:00`|`Deadlock`|
 |[Player structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748066-player-structure.html)|`2026-04-15 05:24:00`|`Garry's Mod`|
