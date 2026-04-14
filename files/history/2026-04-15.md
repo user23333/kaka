@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how do you guys find offsets at runtime if you're internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748057-guys-offsets-runtime-youre-internal.html)|`2026-04-15 03:53:00`|`Rust`|
+|[Developer/Coder for the Arc Raiders update&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748056-developer-coder-arc-raiders-update.html)|`2026-04-15 03:51:00`|`ARC Raiders`|
+|[Localplayer check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/745789-localplayer-check.html)|`2026-04-15 03:46:00`|`Call of Duty: Black Ops 2`|
+|[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-04-15 03:44:00`|`Valorant`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-15 03:43:00`|`Other Games`|
+|[Combat Arms:Classic Class](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/748053-combat-arms-classic-class.html)|`2026-04-15 03:42:00`|`Combat Arms`|
+|[INV changer: knife applies, weapon gun hud name updates but weapon skin stays default](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747915-inv-changer-knife-applies-weapon-gun-hud-name-updates-weapon-skin-stays-default.html)|`2026-04-15 03:38:00`|`Counter-Strike 2`|
+|[New to marvel rivals &#40;tips&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/747541-marvel-rivals-tips.html)|`2026-04-15 03:35:00`|`Marvel Rivals`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-15 03:35:00`|`Other FPS Games`|
 |[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2026-04-15 02:47:00`|`Other MMORPG and Strategy`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-15 02:47:00`|`Counter-Strike 2`|
 |[Show Crosshair on snipers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/611092-crosshair-snipers.html)|`2026-04-15 02:45:00`|`Counter-Strike 2`|
