@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-04-15 06:55:00`|`Other FPS Games`|
+|[RUST WORKING OFFSETS/DECRYPTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747960-rust-offsets-decrypts.html)|`2026-04-15 06:45:00`|`Rust`|
+|[Offset PB Zepetto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748079-offset-pb-zepetto.html)|`2026-04-15 06:39:00`|`Other FPS Games`|
+|[Killfeed funnies&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/747957-killfeed-funnies.html)|`2026-04-15 06:38:00`|`Team Fortress 2`|
+|[Palia Pro Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/742622-palia-pro-radar.html)|`2026-04-15 06:37:00`|`Palia`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-15 06:16:00`|`Other MMORPG and Strategy`|
 |[New Driver Loading Policies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745457-driver-loading-policies.html)|`2026-04-15 06:05:00`|`Anti-Cheat Bypass`|
 |[Join any player by using their Rockstar ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748017-join-player-using-rockstar-id.html)|`2026-04-15 06:05:00`|`Grand Theft Auto V`|
 |[External Raycast Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748072-external-raycast-visible-check.html)|`2026-04-15 06:03:00`|`Alternative Online Mods`|
