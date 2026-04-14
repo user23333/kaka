@@ -12,6 +12,7 @@
 |13|[ARC RAIDERS DUPING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747711-arc-raiders-duping.html)|`2026-04-15 00:45:51`|`arc-raiders`|
 |16|[Debug &#92; Admin Tab in Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747182-debug-admin-tab-settings.html)|`2026-04-15 00:45:51`|`arc-raiders`|
 |8|[nice lil vuln driver from windows xp era&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747275-nice-lil-vuln-driver-windows-xp-era.html)|`2026-04-15 01:48:53`|`anti-cheat-bypass`|
+|20|[How EAC Can Detect DSE Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747840-eac-detect-dse-bypass.html)|`2026-04-15 05:29:29`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[script and anticheat script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748050-script-anticheat-script.html)|`2026-04-15 05:28:00`|`Alternative Online Mods`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-15 05:24:00`|`Deadlock`|
+|[Player structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748066-player-structure.html)|`2026-04-15 05:24:00`|`Garry's Mod`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-15 05:23:00`|`Grand Theft Auto V`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-04-15 05:21:00`|`Palworld`|
 |[Valorant Offsets Dumper &#124; Updated March 15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743242-valorant-offsets-dumper-updated-march-15-a.html)|`2026-04-15 04:30:00`|`Valorant`|
 |[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-04-15 04:30:00`|`Paladins`|
 |[van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747114-van-152-a.html)|`2026-04-15 04:29:00`|`Valorant`|
