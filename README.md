@@ -12,6 +12,7 @@
 |19|[rust external realese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747662-rust-external-realese.html)|`2026-04-14 00:46:49`|`rust`|
 |7|[nice lil vuln driver from windows xp era&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747275-nice-lil-vuln-driver-windows-xp-era.html)|`2026-04-14 00:46:49`|`anti-cheat-bypass`|
 |8|[Driver for EAC &#91;probably undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747777-driver-eac-probably-undetected.html)|`2026-04-14 02:52:44`|`anti-cheat-bypass`|
+|13|[ARC RAIDERS DUPING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747711-arc-raiders-duping.html)|`2026-04-14 23:44:38`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free cheese for free games? Share them them here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/748028-free-cheese-free-games-share.html)|`2026-04-14 23:43:00`|`Forum General`|
+|[Manual map dll injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/747580-manual-map-dll-injection.html)|`2026-04-14 23:34:00`|`General Programming and Reversing`|
+|[cs2 remove smoke change smoke color c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748025-cs2-remove-smoke-change-smoke-color.html)|`2026-04-14 23:34:00`|`Counter-Strike 2`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-14 23:31:00`|`Overwatch`|
+|[Sub ms Latency Convolutional Neural Net](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747734-sub-ms-latency-convolutional-neural-net.html)|`2026-04-14 23:29:00`|`Valorant`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-14 23:29:00`|`Other FPS Games`|
 |[Join any player by using their Rockstar ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748017-join-player-using-rockstar-id.html)|`2026-04-14 22:10:00`|`Grand Theft Auto V`|
 |[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-04-14 21:56:00`|`Phasmophobia`|
 |[Flying Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747728-flying-glitch.html)|`2026-04-14 21:51:00`|`DayZ SA`|
