@@ -25,9 +25,15 @@
 |149|[Simple PUBG Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54238)|`2026-04-14 00:46:49`|
 |10|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54236)|`2026-04-14 00:46:49`|
 |26|[EFT 1&#46;0&#46;4&#46;1&#46;44236 Il2Cpp Dump ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54229)|`2026-04-14 00:46:49`|
+|2|[The Seven Deadly Sins SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54281)|`2026-04-14 19:41:49`|
+|1|[Finals&#95;SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54279)|`2026-04-14 19:41:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[some p2c source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747955-p2c-source.html)|`2026-04-14 19:27:00`|`Counter-Strike 2`|
+|[Cheat Recommendations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748001-cheat-recommendations.html)|`2026-04-14 19:21:00`|`Valorant`|
+|[Rust Silent Aim prediction &#45; help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746907-rust-silent-aim-prediction-help.html)|`2026-04-14 19:04:00`|`Rust`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-14 19:03:00`|`Tom Clancy's The Division`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-14 18:39:00`|`Other MMORPG and Strategy`|
 |[Regarding reputation score](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/747703-regarding-reputation-score.html)|`2026-04-14 18:26:00`|`Off Topic`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-14 18:24:00`|`Rainbow Six Siege`|
