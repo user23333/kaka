@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skinchanger animation and hud applies but model is still same](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748222-skinchanger-animation-hud-applies-model.html)|`2026-04-16 04:30:00`|`Counter-Strike 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-16 04:27:00`|`Escape from Tarkov`|
+|[Unlock clothes for the 10th anniversary of GTA 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748220-unlock-clothes-10th-anniversary-gta-5-a.html)|`2026-04-16 04:25:00`|`Grand Theft Auto V`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-04-16 04:17:00`|`Grand Theft Auto V`|
+|[ShimmyImpact 6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/748219-shimmyimpact-6-5-a.html)|`2026-04-16 04:16:00`|`Genshin Impact`|
+|[Show Full Mini Map &#45; Updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/748218-mini-map-updated-offsets.html)|`2026-04-16 04:12:00`|`Generals and Zero Hour`|
 |[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743375-vac.html)|`2026-04-16 03:50:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-16 03:47:00`|`Counter-Strike 2`|
 |[Players Chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/638066-players-chams.html)|`2026-04-16 03:41:00`|`Alternative Online Mods`|
