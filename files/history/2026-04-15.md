@@ -27,9 +27,17 @@
 |39|[rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54240)|`2026-04-15 00:45:51`|
 |222|[Simple PUBG Internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54238)|`2026-04-15 00:45:51`|
 |1|[BloodStrike exectuable version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54291)|`2026-04-15 02:49:04`|
+|10|[BIN&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54293)|`2026-04-15 12:15:22`|
+|6|[PZcheat&#46;dll 2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54276)|`2026-04-15 12:15:22`|
+|12|[Adhesive Deobfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54266)|`2026-04-15 12:15:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-04-15 12:11:00`|`Valorant`|
+|[Rust Alkad Cheat, 2622 &#45; 25 March and further with updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745070-rust-alkad-cheat-2622-25-march-updates.html)|`2026-04-15 11:59:00`|`Other Games`|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-04-15 11:56:00`|`Anti-Cheat Bypass`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-15 11:35:00`|`Other FPS Games`|
+|[silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/742502-silent-aim.html)|`2026-04-15 11:14:00`|`Marvel Rivals`|
 |[APEXDMA April 15 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748100-apexdma-april-15-update.html)|`2026-04-15 09:07:00`|`Apex Legends`|
 |[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-04-15 09:01:00`|`Other FPS Games`|
 |[Rust Decryptions And Offsets help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748099-rust-decryptions-offsets-help.html)|`2026-04-15 08:44:00`|`Rust`|
