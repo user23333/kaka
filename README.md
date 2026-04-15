@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-15 19:38:00`|`Tom Clancy's The Division`|
+|[why interactive debug not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748155-interactive-debug.html)|`2026-04-15 19:38:00`|`Rust`|
+|[Fiveguard Antispoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748154-fiveguard-antispoof.html)|`2026-04-15 19:27:00`|`Alternative Online Mods`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-04-15 19:15:00`|`Other Single Player Games`|
+|[Shimmy Impact 6&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/740878-shimmy-impact-6-4-a.html)|`2026-04-15 19:09:00`|`Genshin Impact`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-15 19:09:00`|`Other FPS Games`|
 |[Tutorials & stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/721903-tutorials-stuff.html)|`2026-04-15 18:05:00`|`Alternative Online Mods`|
 |[Players Chams&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/638066-players-chams.html)|`2026-04-15 18:00:00`|`Alternative Online Mods`|
 |[DMA in rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/729791-dma-rust.html)|`2026-04-15 17:42:00`|`DayZ SA`|
