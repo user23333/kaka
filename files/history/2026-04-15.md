@@ -30,9 +30,16 @@
 |10|[BIN&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54293)|`2026-04-15 12:15:22`|
 |6|[PZcheat&#46;dll 2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54276)|`2026-04-15 12:15:22`|
 |12|[Adhesive Deobfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54266)|`2026-04-15 12:15:22`|
+|0|[Intel VT&#45;x Type&#45;2 hypervisor &#40;Ophion&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54311)|`2026-04-15 16:02:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Freecam / Debug Camera working on Official Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748121-looking-freecam-debug-camera-official-servers.html)|`2026-04-15 16:01:00`|`Rust`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-15 16:00:00`|`Counter-Strike 2 Releases`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-04-15 15:53:00`|`Other Games`|
+|[Van 152 &#124; UNBan?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748011-van-152-unban.html)|`2026-04-15 15:50:00`|`Valorant`|
+|[Help antiaim latest update internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748133-help-antiaim-update-internal.html)|`2026-04-15 15:47:00`|`Counter-Strike 2`|
+|[Ophion: Building a Stealth Intel VT&#45;x Hypervisor &#40;EAC/BE/ACs/AVs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743584-ophion-building-stealth-intel-vt-hypervisor-eac-acs-avs.html)|`2026-04-15 15:47:00`|`Anti-Cheat Bypass`|
 |[SoulMask Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/640496-soulmask-reversal-structs-offsets.html)|`2026-04-15 14:03:00`|`Other MMORPG and Strategy`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2026-04-15 13:55:00`|`DayZ SA`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-04-15 13:47:00`|`Other FPS Games`|
