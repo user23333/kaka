@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Join any player by using their Rockstar ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748017-join-player-using-rockstar-id.html)|`2026-04-16 02:42:00`|`Grand Theft Auto V`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-04-16 02:36:00`|`Other Games`|
+|[Messed up penetration system help me out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748193-messed-penetration-system-help.html)|`2026-04-16 02:31:00`|`Counter-Strike 2`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-04-16 02:30:00`|`Other FPS Games`|
+|[ragebot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748190-ragebot.html)|`2026-04-16 02:26:00`|`Counter-Strike 2`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-16 02:25:00`|`Rust`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-16 02:25:00`|`Other MMORPG and Strategy`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-16 02:25:00`|`Alternative Online Mods`|
 |[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-04-16 01:38:00`|`Other FPS Games`|
 |[SkinChanger problem with overlaying textures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748036-skinchanger-overlaying-textures.html)|`2026-04-16 01:31:00`|`Counter-Strike 2`|
 |[Hired Ops ESP Aimbot Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/748159-hired-ops-esp-aimbot-steam-version.html)|`2026-04-16 01:27:00`|`Off Topic`|
