@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[APEXDMA April 15 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748100-apexdma-april-15-update.html)|`2026-04-15 09:07:00`|`Apex Legends`|
+|[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-04-15 09:01:00`|`Other FPS Games`|
+|[Rust Decryptions And Offsets help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748099-rust-decryptions-offsets-help.html)|`2026-04-15 08:44:00`|`Rust`|
+|[ApexDumperPEMemory&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/747097-apexdumperpememory-dma.html)|`2026-04-15 08:41:00`|`Apex Legends`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-15 07:43:00`|`Rainbow Six Siege`|
 |[How can I make auto signature updator?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748047-auto-signature-updator.html)|`2026-04-15 07:38:00`|`Counter-Strike 2`|
 |[IW4X Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/738100-iw4x-spoofer.html)|`2026-04-15 07:37:00`|`Call of Duty 6: Modern Warfare 2`|
