@@ -14,6 +14,7 @@
 |8|[nice lil vuln driver from windows xp era&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747275-nice-lil-vuln-driver-windows-xp-era.html)|`2026-04-15 01:48:53`|`anti-cheat-bypass`|
 |20|[How EAC Can Detect DSE Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747840-eac-detect-dse-bypass.html)|`2026-04-15 05:29:29`|`anti-cheat-bypass`|
 |6|[My first CS2 external project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747402-cs2-external-project.html)|`2026-04-15 17:43:01`|`counter-strike-2-a`|
+|8|[llvm&#45;obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747533-llvm-obfuscator.html)|`2026-04-15 22:12:42`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-04-15 22:12:00`|`Anti-Cheat Bypass`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-15 22:11:00`|`Rust`|
+|[Bullet Force PC Steam version cheat maybe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/747922-bullet-force-pc-steam-version-cheat-maybe.html)|`2026-04-15 22:03:00`|`Unity`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-04-15 22:00:00`|`Other Games`|
+|[War Selection Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/712931-war-selection-cheat.html)|`2026-04-15 21:58:00`|`Other MMORPG and Strategy`|
+|[My first CS2 external project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747402-cs2-external-project.html)|`2026-04-15 21:47:00`|`Counter-Strike 2`|
+|[Stickers on weapons are not displayed in the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748169-stickers-weapons-displayed-game.html)|`2026-04-15 21:47:00`|`Counter-Strike 2`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-04-15 20:34:00`|`Other FPS Games`|
 |[Error Code 0:85009S &#45; Kicked after 5 mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/748160-error-code-0-85009s-kicked-5-mins.html)|`2026-04-15 20:30:00`|`Battlefield 6`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-15 20:22:00`|`Apex Legends`|
