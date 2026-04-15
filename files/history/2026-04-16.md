@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-16 06:50:00`|`Among Us`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-04-16 06:49:00`|`Counter-Strike 2`|
+|[Manipulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748238-manipulator.html)|`2026-04-16 06:47:00`|`Rust`|
+|[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-04-16 06:43:00`|`Valorant`|
+|[how to do external smoke vischeck ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748126-external-smoke-vischeck.html)|`2026-04-16 06:42:00`|`Counter-Strike 2`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-16 06:37:00`|`Grand Theft Auto V`|
+|[Legacy Skins UV Mismatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747912-legacy-skins-uv-mismatch.html)|`2026-04-16 06:37:00`|`Counter-Strike 2`|
 |[Interactive Debugcamera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748233-interactive-debugcamera.html)|`2026-04-16 06:06:00`|`Rust`|
 |[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-04-16 06:06:00`|`ARC Raiders`|
 |[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-04-16 05:59:00`|`Other FPS Games`|
