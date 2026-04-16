@@ -34,6 +34,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet Force PC Steam version cheat maybe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/747922-bullet-force-pc-steam-version-cheat-maybe.html)|`2026-04-16 20:44:00`|`Unity`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-04-16 20:42:00`|`Overwatch`|
+|[joke of the day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/748328-joke-day.html)|`2026-04-16 20:41:00`|`Forum General`|
+|[cs2 fog color change internal c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748325-cs2-fog-color-change-internal.html)|`2026-04-16 20:41:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-16 20:36:00`|`Call of Duty: Black Ops 7`|
+|[internal spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748323-internal-spectator-list.html)|`2026-04-16 20:36:00`|`Counter-Strike 2`|
+|[WORLD VISUALS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748326-world-visuals.html)|`2026-04-16 20:33:00`|`Counter-Strike 2`|
+|[What's wrong with my anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748324-whats-wrong-anti-aim.html)|`2026-04-16 20:29:00`|`Counter-Strike 2`|
 |[Optimze Esp &#40;discuss and help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748320-optimze-esp-discuss-help.html)|`2026-04-16 19:42:00`|`Rust`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748319-offsets.html)|`2026-04-16 19:37:00`|`Garry's Mod`|
 |[UpGun Multitool Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748318-upgun-multitool-trainer.html)|`2026-04-16 19:35:00`|`Other Games`|
