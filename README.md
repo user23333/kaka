@@ -30,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-04-17 05:54:00`|`Other FPS Games`|
+|[Player structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748066-player-structure.html)|`2026-04-17 05:52:00`|`Garry's Mod`|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748319-offsets.html)|`2026-04-17 05:51:00`|`Garry's Mod`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-17 05:43:00`|`Other FPS Games`|
+|[Void Crew mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746841-void-crew-mod.html)|`2026-04-17 05:35:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-04-17 05:34:00`|`Other Games`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-17 05:29:00`|`HELLDIVERS 2`|
+|[Ophion: Building a Stealth Intel VT&#45;x Hypervisor &#40;EAC/BE/ACs/AVs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743584-ophion-building-stealth-intel-vt-hypervisor-eac-acs-avs.html)|`2026-04-17 05:20:00`|`Anti-Cheat Bypass`|
+|[Internal Auto scope&#43; shoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747947-internal-auto-scope-shoot.html)|`2026-04-17 05:19:00`|`Counter-Strike 2`|
 |[Fallout 76 &#45; Lots of Ba2 files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748084-fallout-76-lots-ba2-files.html)|`2026-04-17 05:00:00`|`Other FPS Games`|
 |[TLS for External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748380-tls-external.html)|`2026-04-17 04:58:00`|`Alternative Online Mods`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-17 04:55:00`|`Other FPS Games`|
