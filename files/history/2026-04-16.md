@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-16 16:02:00`|`ARC Raiders`|
+|[HOOKS&#46;cpp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748191-hooks-cpp-help.html)|`2026-04-16 15:46:00`|`Counter-Strike 2`|
+|[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-16 15:45:00`|`Other MMORPG and Strategy`|
+|[Faceit SMURFİNG Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748102-faceit-smurf-ng.html)|`2026-04-16 15:34:00`|`Anti-Cheat Bypass`|
+|[CS 2 Kernel Cheat With Many Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/707639-cs-2-kernel-cheat-features.html)|`2026-04-16 15:29:00`|`Counter-Strike 2 Releases`|
+|[Driver for EAC &#91;probably undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747777-driver-eac-probably-undetected.html)|`2026-04-16 15:16:00`|`Anti-Cheat Bypass`|
+|[EFT internal source &#40;minimal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/735746-eft-internal-source-minimal.html)|`2026-04-16 15:16:00`|`Escape from Tarkov`|
 |[PoEffects &#45; Extended Smoother for POE1 & POE2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748261-poeffects-extended-smoother-poe1-poe2.html)|`2026-04-16 14:14:00`|`Other MMORPG and Strategy`|
 |[30 Days of SRE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748290-30-days-sre.html)|`2026-04-16 14:14:00`|`General Programming and Reversing`|
 |[llvm&#45;msvc&#45;ex obfuscation framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748278-llvm-msvc-ex-obfuscation-framework.html)|`2026-04-16 14:00:00`|`General Programming and Reversing`|
