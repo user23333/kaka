@@ -24,9 +24,19 @@
 |17|[ClaudeV4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54295)|`2026-04-17 01:13:18`|
 |60|[5&#46;6&#46;1&#45;0&#43;UE5&#45;R5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54294)|`2026-04-17 01:13:18`|
 |38|[BIN&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54293)|`2026-04-17 01:13:18`|
+|5|[vgc dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54334)|`2026-04-17 02:17:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Show Crosshair on snipers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/611092-crosshair-snipers.html)|`2026-04-17 02:13:00`|`Counter-Strike 2`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-04-17 02:13:00`|`Other FPS Games`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-17 02:11:00`|`Other Games`|
+|[External Raycast Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748072-external-raycast-visible-check.html)|`2026-04-17 02:09:00`|`Alternative Online Mods`|
+|[My bones are flickering and for some players it doesn't work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748353-bones-flickering-players-doesnt.html)|`2026-04-17 02:09:00`|`Rust`|
+|[convenient shellcode builder type for c&#43;&#43; kernel/usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/748356-convenient-shellcode-builder-type-kernel-usermode.html)|`2026-04-17 01:59:00`|`C and C++`|
+|[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743375-vac.html)|`2026-04-17 01:55:00`|`Counter-Strike 2`|
+|[Updated Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748354-updated-patterns.html)|`2026-04-17 01:55:00`|`Counter-Strike 2`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-04-17 01:50:00`|`Red Dead Redemption 2`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-17 01:12:00`|`Counter-Strike 2 Releases`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-17 01:12:00`|`Escape from Tarkov`|
 |[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-17 01:11:00`|`Other MMORPG and Strategy`|
