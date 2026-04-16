@@ -33,6 +33,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PoEffects &#45; Extended Smoother for POE1 & POE2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748261-poeffects-extended-smoother-poe1-poe2.html)|`2026-04-16 14:14:00`|`Other MMORPG and Strategy`|
+|[30 Days of SRE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748290-30-days-sre.html)|`2026-04-16 14:14:00`|`General Programming and Reversing`|
+|[llvm&#45;msvc&#45;ex obfuscation framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748278-llvm-msvc-ex-obfuscation-framework.html)|`2026-04-16 14:00:00`|`General Programming and Reversing`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-04-16 13:51:00`|`Other FPS Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-04-16 13:42:00`|`Deadlock`|
+|[what are the proper skeleton IDs for zombie/player? 1&#46;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748283-proper-skeleton-ids-zombie-player-1-29-a.html)|`2026-04-16 13:40:00`|`DayZ SA`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-04-16 13:38:00`|`DayZ SA`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-16 13:33:00`|`Other FPS Games`|
+|[Airport Security Sucks&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/748279-airport-security-sucks.html)|`2026-04-16 13:28:00`|`Off Topic`|
 |[halp making seed tb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748273-halp-seed-tb.html)|`2026-04-16 12:15:00`|`Counter-Strike 2`|
 |[AI External &#40;No Reading Memory&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748266-ai-external-reading-memory.html)|`2026-04-16 12:08:00`|`Rainbow Six Siege`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-16 11:41:00`|`Apex Legends`|
