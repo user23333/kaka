@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 AI Aim using C&#43;&#43; DirectML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748308-r6-ai-aim-using-directml.html)|`2026-04-16 17:36:00`|`Rainbow Six Siege`|
+|[Probably the best ai aimbot for The Finals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/747512-probably-ai-aimbot-finals.html)|`2026-04-16 17:18:00`|`THE FINALS`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-16 17:07:00`|`Roblox`|
 |[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-16 16:02:00`|`ARC Raiders`|
 |[HOOKS&#46;cpp help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748191-hooks-cpp-help.html)|`2026-04-16 15:46:00`|`Counter-Strike 2`|
 |[Bit Heroes Packet Based Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744149-bit-heroes-packet-based-bot.html)|`2026-04-16 15:45:00`|`Other MMORPG and Strategy`|
