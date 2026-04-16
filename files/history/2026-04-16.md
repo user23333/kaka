@@ -25,9 +25,18 @@
 |23|[The Seven Deadly Sins SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54281)|`2026-04-16 00:37:04`|
 |19|[Finals&#95;SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54279)|`2026-04-16 00:37:04`|
 |51|[PZcheat&#46;dll 2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54276)|`2026-04-16 00:37:04`|
+|39|[jawsnow&#45;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54320)|`2026-04-16 09:09:33`|
+|3|[PhasmoMenu v0&#46;5&#46;8&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54318)|`2026-04-16 09:09:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-04-16 09:05:00`|`Marvel Rivals`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-16 09:01:00`|`Marvel Rivals`|
+|[How to cheat and never get caught?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748246-cheat-caught.html)|`2026-04-16 08:58:00`|`Apex Legends`|
+|[Free ESP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748231-free-esp.html)|`2026-04-16 08:56:00`|`Rainbow Six Siege`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-04-16 08:49:00`|`Phasmophobia`|
+|[BloodStrike Magic Bullet/ Bullet Track Patched ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748138-bloodstrike-magic-bullet-bullet-track-patched.html)|`2026-04-16 08:47:00`|`Other FPS Games`|
+|[DirtyBomb Aimbot&#43;ESP&#43;SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748255-dirtybomb-aimbot-esp-source.html)|`2026-04-16 08:42:00`|`Other FPS Games`|
 |[MOC Liveries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748245-moc-liveries.html)|`2026-04-16 07:26:00`|`Grand Theft Auto V`|
 |[Solo deving is boring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748199-solo-deving-boring.html)|`2026-04-16 07:20:00`|`Counter-Strike 2`|
 |[Having fun with the engine &#40;Part 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/316216-fun-engine-1-a.html)|`2026-04-16 07:20:00`|`Combat Arms`|
