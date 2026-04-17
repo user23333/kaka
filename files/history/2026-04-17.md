@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Complete Custom Arduino Firmware Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746833-complete-custom-arduino-firmware-source.html)|`2026-04-17 20:08:00`|`Valorant`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-17 20:05:00`|`Among Us`|
+|[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-04-17 20:02:00`|`Valorant`|
+|[Driver for EAC &#91;probably undetected&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747777-driver-eac-probably-undetected.html)|`2026-04-17 20:01:00`|`Anti-Cheat Bypass`|
 |[Vanguard vgc Pipe Emulator &#45; VAN5 Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748417-vanguard-vgc-pipe-emulator-van5-bypass.html)|`2026-04-17 19:25:00`|`Valorant`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-17 19:14:00`|`Marvel Rivals`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-17 19:10:00`|`Other FPS Games`|
