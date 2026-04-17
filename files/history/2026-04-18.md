@@ -12,6 +12,7 @@
 |9|[Overwatch external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/747547-overwatch-external.html)|`2026-04-18 00:35:03`|`overwatch`|
 |11|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-04-18 00:35:03`|`valorant`|
 |12|[Berserk Inventory Changer &#45; Outdated &#91;Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747551-berserk-inventory-changer-outdated-source.html)|`2026-04-18 02:10:08`|`counter-strike-2-a`|
+|7|[Mongil: Star Dive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748254-mongil-star-dive.html)|`2026-04-18 04:57:15`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Adhesive Blocker &#40;Anticheat blocker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748548-fivem-adhesive-blocker-anticheat-blocker.html)|`2026-04-18 04:56:00`|`Grand Theft Auto V`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-18 04:49:00`|`Valorant`|
+|[cs2 fog color change internal c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748325-cs2-fog-color-change-internal.html)|`2026-04-18 04:46:00`|`Counter-Strike 2`|
+|[dupe refresh tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748129-dupe-refresh-tool.html)|`2026-04-18 04:43:00`|`ARC Raiders`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-18 04:42:00`|`Other FPS Games`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-04-18 04:42:00`|`Deadlock`|
+|[“Corrupted Memory Kick”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748427-corrupted-memory-kick.html)|`2026-04-18 04:42:00`|`Rainbow Six Siege`|
+|[Custom PAK's for agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747702-custom-paks-agents.html)|`2026-04-18 04:41:00`|`Valorant`|
 |[Palia Pro Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/742622-palia-pro-radar.html)|`2026-04-18 04:01:00`|`Palia`|
 |[Help, no HWID spoofer is getting me unbanned in SAMP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748409-help-hwid-spoofer-getting-unbanned-samp.html)|`2026-04-18 04:00:00`|`Other Games`|
 |[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-04-18 03:54:00`|`CounterStrike Source`|
