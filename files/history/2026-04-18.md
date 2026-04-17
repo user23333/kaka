@@ -30,9 +30,17 @@
 |12|[External catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54352)|`2026-04-18 03:18:53`|
 |1|[Sea of Thieves 2&#46;148&#46;3469&#46;4 &#40;v3&#46;7&#46;1&#41; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54358)|`2026-04-18 05:36:08`|
 |1|[CrimeSimCheatMenu Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54357)|`2026-04-18 05:36:08`|
+|6|[blackhole hvh actual file fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54348)|`2026-04-18 06:08:49`|
+|1|[zirconium v1&#46;0 DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54341)|`2026-04-18 06:08:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-18 06:08:00`|`Overwatch`|
+|[Hacking Isn't Cool &#40;101 Reasons why you should stop it&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734321-hacking-isnt-cool-101-reasons-stop.html)|`2026-04-18 06:02:00`|`Marvel Rivals`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-18 06:02:00`|`Among Us`|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-04-18 05:52:00`|`Call of Duty: Black Ops 2`|
+|[Faking Secure Boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/734742-faking-secure-boot.html)|`2026-04-18 05:45:00`|`Anti-Cheat Bypass`|
+|[hvh Blackhole client 0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748439-hvh-blackhole-client-0-1-a.html)|`2026-04-18 05:42:00`|`Counter-Strike 2`|
 |[what are the proper skeleton IDs for zombie/player? 1&#46;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748283-proper-skeleton-ids-zombie-player-1-29-a.html)|`2026-04-18 05:31:00`|`DayZ SA`|
 |[Virtualized/Obfuscated Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748552-virtualized-obfuscated-natives.html)|`2026-04-18 05:29:00`|`Alternative Online Mods`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-18 05:27:00`|`Sea of Thieves`|
