@@ -25,9 +25,20 @@
 |47|[DirtyBomb Cheat Source v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54323)|`2026-04-18 00:35:03`|
 |284|[jawsnow&#45;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54320)|`2026-04-18 00:35:03`|
 |284|[PhasmoMenu v0&#46;5&#46;8&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54318)|`2026-04-18 00:35:03`|
+|3|[rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54355)|`2026-04-18 03:18:53`|
+|12|[External catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54352)|`2026-04-18 03:18:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Magic Bullet/ Bullet Track Patched ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748138-bloodstrike-magic-bullet-bullet-track-patched.html)|`2026-04-18 03:14:00`|`Other FPS Games`|
+|[Berserk Inventory Changer &#45; Outdated &#91;Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747551-berserk-inventory-changer-outdated-source.html)|`2026-04-18 03:11:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-18 03:09:00`|`Other FPS Games`|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-04-18 03:05:00`|`Valorant`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-18 03:01:00`|`Rust`|
+|[BirdieMod &#45; Super Battle Golf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748432-birdiemod-super-battle-golf.html)|`2026-04-18 02:59:00`|`Other Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-18 02:59:00`|`Counter-Strike 2`|
+|[Need help hooking IDXGISwapChain::Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748527-help-hooking-idxgiswapchain.html)|`2026-04-18 02:58:00`|`Counter-Strike 2`|
+|["Escape The Backrooms" ArchonFree Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748454-escape-backrooms-archonfree-internal.html)|`2026-04-18 02:58:00`|`Other FPS Games`|
 |[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-04-18 02:09:00`|`Other FPS Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-04-18 01:57:00`|`Tom Clancy's The Division`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-18 01:55:00`|`Other MMORPG and Strategy`|
