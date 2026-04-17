@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bhop internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748215-bhop-internal-source.html)|`2026-04-17 18:23:00`|`Counter-Strike 2`|
+|[About ColorBot Aim Speed and Overshooting, &#96;Rubberband Aim&#96;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748263-colorbot-aim-speed-overshooting-rubberband-aim.html)|`2026-04-17 18:14:00`|`Valorant`|
+|[HVCI ON Uworld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748402-hvci-uworld.html)|`2026-04-17 18:03:00`|`Valorant`|
+|[Latest Marvel Rivals Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/748444-marvel-rivals-offsets.html)|`2026-04-17 17:58:00`|`Marvel Rivals`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-04-17 17:51:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-17 17:48:00`|`Other FPS Games`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-17 17:47:00`|`Other FPS Games`|
 |[Blackhole client BETA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748302-blackhole-client-beta.html)|`2026-04-17 17:11:00`|`Counter-Strike 2`|
 |[why interactive debug not work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748155-interactive-debug.html)|`2026-04-17 16:41:00`|`Rust`|
 |[hvh Blackhole client 0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748439-hvh-blackhole-client-0-1-a.html)|`2026-04-17 16:38:00`|`Counter-Strike 2`|
