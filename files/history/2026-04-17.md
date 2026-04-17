@@ -31,9 +31,15 @@
 |1|[Palia Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54303)|`2026-04-17 09:16:08`|
 |1|[ HD Maps for Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54346)|`2026-04-17 16:03:42`|
 |1|[LLVM&#45;MSVC&#45;Ex Obfuscation Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54345)|`2026-04-17 16:03:42`|
+|2|[fairplaykd&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54338)|`2026-04-17 21:56:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-17 21:55:00`|`Rust`|
+|[PoEffects &#45; Extended Smoother for POE1 & POE2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748261-poeffects-extended-smoother-poe1-poe2.html)|`2026-04-17 21:49:00`|`Other MMORPG and Strategy`|
+|[EAC screenshot &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748466-eac-screenshot.html)|`2026-04-17 21:45:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-17 21:43:00`|`Other MMORPG and Strategy`|
+|[whats the best library for making memory cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/743044-whats-library-memory-cheats.html)|`2026-04-17 21:43:00`|`C and C++`|
 |[Complete Custom Arduino Firmware Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/746833-complete-custom-arduino-firmware-source.html)|`2026-04-17 20:08:00`|`Valorant`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-17 20:05:00`|`Among Us`|
 |[Banned after 1 day using Arduino &#43; USB Host Shield &#40;Python Colorbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745490-banned-1-day-using-arduino-usb-host-shield-python-colorbot.html)|`2026-04-17 20:02:00`|`Valorant`|
