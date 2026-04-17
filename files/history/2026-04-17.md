@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[question about the driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748428-question-driver.html)|`2026-04-17 14:10:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-04-17 14:09:00`|`Other FPS Games`|
+|[Why you should donate $400 per month to UC&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/743858-donate-400-month-uc.html)|`2026-04-17 14:07:00`|`Off Topic`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-04-17 14:00:00`|`Elite: Dangerous`|
+|[“Corrupted Memory Kick”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748427-corrupted-memory-kick.html)|`2026-04-17 13:41:00`|`Rainbow Six Siege`|
 |[avatar show](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748415-avatar.html)|`2026-04-17 12:12:00`|`Counter-Strike 2`|
 |[Esp and Aimbot Base &#40;needs offsets &#43; Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748259-esp-aimbot-base-offsets-driver.html)|`2026-04-17 12:11:00`|`Apex Legends`|
 |[BE Global ban question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748338-global-ban-question.html)|`2026-04-17 11:46:00`|`DayZ SA`|
