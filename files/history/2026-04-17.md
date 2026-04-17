@@ -32,9 +32,17 @@
 |1|[ HD Maps for Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54346)|`2026-04-17 16:03:42`|
 |1|[LLVM&#45;MSVC&#45;Ex Obfuscation Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54345)|`2026-04-17 16:03:42`|
 |2|[fairplaykd&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54338)|`2026-04-17 21:56:36`|
+|6|[Berserk Inventory Changer &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54350)|`2026-04-17 22:48:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shinoko&#45;NIKKE &#91; Goddess of Victory: Nikke Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744217-shinoko-nikke-goddess-victory-nikke-cheat.html)|`2026-04-17 22:43:00`|`Other MMORPG and Strategy`|
+|[MkSessionPort && e2f68filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748475-mksessionport-e2f68filter.html)|`2026-04-17 22:42:00`|`Anti-Cheat Bypass`|
+|[Sound Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748474-sound-radar.html)|`2026-04-17 22:42:00`|`Valorant`|
+|[Interal chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748418-interal-chams.html)|`2026-04-17 22:31:00`|`Counter-Strike 2`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-17 22:30:00`|`Sea of Thieves`|
+|[FiveM External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747917-fivem-external-base.html)|`2026-04-17 22:29:00`|`Alternative Online Mods`|
+|[BirdieMod &#45; Super Battle Golf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748432-birdiemod-super-battle-golf.html)|`2026-04-17 22:27:00`|`Other Games`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-17 21:55:00`|`Rust`|
 |[PoEffects &#45; Extended Smoother for POE1 & POE2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748261-poeffects-extended-smoother-poe1-poe2.html)|`2026-04-17 21:49:00`|`Other MMORPG and Strategy`|
 |[EAC screenshot &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748466-eac-screenshot.html)|`2026-04-17 21:45:00`|`Anti-Cheat Bypass`|
