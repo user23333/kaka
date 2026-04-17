@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard vgc Pipe Emulator &#45; VAN5 Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748417-vanguard-vgc-pipe-emulator-van5-bypass.html)|`2026-04-17 19:25:00`|`Valorant`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-17 19:14:00`|`Marvel Rivals`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-17 19:10:00`|`Other FPS Games`|
+|[FemboyChanger &#45; A &#46;NET External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741720-femboychanger-net-external-skin-changer.html)|`2026-04-17 19:08:00`|`Counter-Strike 2`|
 |[Bhop internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748215-bhop-internal-source.html)|`2026-04-17 18:23:00`|`Counter-Strike 2`|
 |[About ColorBot Aim Speed and Overshooting, &#96;Rubberband Aim&#96;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748263-colorbot-aim-speed-overshooting-rubberband-aim.html)|`2026-04-17 18:14:00`|`Valorant`|
 |[HVCI ON Uworld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748402-hvci-uworld.html)|`2026-04-17 18:03:00`|`Valorant`|
