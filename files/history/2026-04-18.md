@@ -28,9 +28,16 @@
 |284|[PhasmoMenu v0&#46;5&#46;8&#46;4 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54318)|`2026-04-18 00:35:03`|
 |3|[rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54355)|`2026-04-18 03:18:53`|
 |12|[External catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54352)|`2026-04-18 03:18:53`|
+|1|[Sea of Thieves 2&#46;148&#46;3469&#46;4 &#40;v3&#46;7&#46;1&#41; SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54358)|`2026-04-18 05:36:08`|
+|1|[CrimeSimCheatMenu Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54357)|`2026-04-18 05:36:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what are the proper skeleton IDs for zombie/player? 1&#46;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748283-proper-skeleton-ids-zombie-player-1-29-a.html)|`2026-04-18 05:31:00`|`DayZ SA`|
+|[Virtualized/Obfuscated Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748552-virtualized-obfuscated-natives.html)|`2026-04-18 05:29:00`|`Alternative Online Mods`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-04-18 05:27:00`|`Sea of Thieves`|
+|[Amalgam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/748442-amalgam.html)|`2026-04-18 05:17:00`|`Team Fortress 2`|
+|[Model/Item list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748551-model-item-list.html)|`2026-04-18 05:15:00`|`Apex Legends`|
 |[FiveM Adhesive Blocker &#40;Anticheat blocker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748548-fivem-adhesive-blocker-anticheat-blocker.html)|`2026-04-18 04:56:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-18 04:49:00`|`Valorant`|
 |[cs2 fog color change internal c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748325-cs2-fog-color-change-internal.html)|`2026-04-18 04:46:00`|`Counter-Strike 2`|
