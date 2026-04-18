@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Long&#45;Term: AES Decryption Maintenance &#40;No Memory Writes, Paid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748699-term-aes-decryption-maintenance-memory-writes-paid.html)|`2026-04-19 05:01:00`|`Anti-Cheat Bypass`|
+|[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2026-04-19 05:01:00`|`Sea of Thieves`|
+|[Having fun with the engine &#40;Part 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/316216-fun-engine-1-a.html)|`2026-04-19 04:58:00`|`Combat Arms`|
+|[cs2 internal bunnyhop stuttering c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748697-cs2-internal-bunnyhop-stuttering.html)|`2026-04-19 04:48:00`|`Counter-Strike 2`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-19 04:46:00`|`Other FPS Games`|
+|[BirdieMod &#45; Super Battle Golf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748432-birdiemod-super-battle-golf.html)|`2026-04-19 04:40:00`|`Other Games`|
+|[drragon traveler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733548-drragon-traveler.html)|`2026-04-19 04:32:00`|`Other MMORPG and Strategy`|
 |[Custom PAK's for agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747702-custom-paks-agents.html)|`2026-04-19 04:28:00`|`Valorant`|
 |[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-04-19 04:25:00`|`PlanetSide 2`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-04-19 04:23:00`|`Other FPS Games`|
