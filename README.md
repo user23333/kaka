@@ -32,9 +32,19 @@
 |1|[CrimeSimCheatMenu Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54357)|`2026-04-18 05:36:08`|
 |6|[blackhole hvh actual file fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54348)|`2026-04-18 06:08:49`|
 |1|[zirconium v1&#46;0 DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54341)|`2026-04-18 06:08:49`|
+|2|[KE&#45;URC2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54365)|`2026-04-18 11:25:34`|
+|1|[Slay the spire 2 dll 0&#46;103&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54363)|`2026-04-18 11:25:34`|
+|5|[Endpoints](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54361)|`2026-04-18 11:25:34`|
+|2|[MVMoneyfull&#46;ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54360)|`2026-04-18 11:25:34`|
+|6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54359)|`2026-04-18 11:25:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-18 11:15:00`|`Rust`|
+|[Finding offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/748580-finding-offsets.html)|`2026-04-18 11:01:00`|`Deadlock`|
+|[Airport Security Sucks&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/748279-airport-security-sucks.html)|`2026-04-18 10:55:00`|`Off Topic`|
+|[best external release 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748525-external-release-2026-a.html)|`2026-04-18 10:42:00`|`Counter-Strike 2`|
+|[NtLdr &#45; WindowsNT Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/735809-ntldr-windowsnt-injector.html)|`2026-04-18 10:24:00`|`General Programming and Reversing`|
 |[R6 AI Aim using C&#43;&#43; DirectML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748308-r6-ai-aim-using-directml.html)|`2026-04-18 08:05:00`|`Rainbow Six Siege`|
 |[Best python method to draw overlay?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748544-python-method-draw-overlay.html)|`2026-04-18 07:59:00`|`Rainbow Six Siege`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-18 07:59:00`|`HELLDIVERS 2`|
