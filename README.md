@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ParodyError Breaking MmCopyMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742806-parodyerror-breaking-mmcopymemory.html)|`2026-04-18 16:24:00`|`Anti-Cheat Bypass`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-04-18 15:44:00`|`Apex Legends`|
 |[Free grenade helper tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748605-free-grenade-helper-tutorial.html)|`2026-04-18 15:43:00`|`Counter-Strike 2`|
 |[Sound Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748474-sound-radar.html)|`2026-04-18 15:39:00`|`Valorant`|
 |[Get Entity from 1 hook without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/748603-entity-1-hook-decryption.html)|`2026-04-18 15:35:00`|`Call of Duty: Modern Warfare`|
