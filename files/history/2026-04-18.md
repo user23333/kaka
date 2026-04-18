@@ -40,9 +40,15 @@
 |6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54359)|`2026-04-18 11:25:34`|
 |2|[Krypton Engine 5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54368)|`2026-04-18 13:19:46`|
 |1|[OsuPlayback&#95;v10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54366)|`2026-04-18 20:27:49`|
+|8|[battleye dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54371)|`2026-04-18 21:38:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-04-18 21:36:00`|`Other MMORPG and Strategy`|
+|[Arc Raiders External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747117-arc-raiders-external.html)|`2026-04-18 21:33:00`|`ARC Raiders`|
+|[Windrose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739072-windrose.html)|`2026-04-18 21:22:00`|`Other Games`|
+|[cs2 internal third person help c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748639-cs2-internal-third-person-help.html)|`2026-04-18 21:22:00`|`Counter-Strike 2`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-04-18 21:20:00`|`Rainbow Six Siege`|
 |[Free broken aa if anyone wants it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748500-free-broken-aa.html)|`2026-04-18 20:27:00`|`Counter-Strike 2`|
 |[get model name offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748633-model-name-offset.html)|`2026-04-18 20:16:00`|`Counter-Strike 2`|
 |[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-18 20:15:00`|`Other Games`|
