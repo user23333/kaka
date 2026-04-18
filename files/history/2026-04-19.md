@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-04-19 01:56:00`|`Grand Theft Auto V`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-04-19 01:55:00`|`Farlight 84`|
+|[Windrose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739072-windrose.html)|`2026-04-19 01:52:00`|`Other Games`|
+|[How can i evade dayz companions banlist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748656-evade-dayz-companions-banlist.html)|`2026-04-19 01:51:00`|`DayZ SA`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-04-19 01:48:00`|`Other Games`|
+|[aa code for u](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748671-aa-code.html)|`2026-04-19 01:44:00`|`Counter-Strike 2`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-19 01:36:00`|`Overwatch`|
 |[How i can do a simple Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748657-simple-unlock.html)|`2026-04-19 01:24:00`|`Valorant`|
 |[Free grenade helper tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748605-free-grenade-helper-tutorial.html)|`2026-04-19 01:21:00`|`Counter-Strike 2`|
 |[Esp and Aimbot Base &#40;needs offsets &#43; Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748259-esp-aimbot-base-offsets-driver.html)|`2026-04-19 01:21:00`|`Apex Legends`|
