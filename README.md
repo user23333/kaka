@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pre&#45;Searing Bot 2026 &#40;Reforged Update working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars/741270-pre-searing-bot-2026-reforged-update.html)|`2026-04-19 05:59:00`|`Guild Wars`|
+|[R6 AI Aim using C&#43;&#43; DirectML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748308-r6-ai-aim-using-directml.html)|`2026-04-19 05:58:00`|`Rainbow Six Siege`|
+|[Get Entity from 1 hook without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/748603-entity-1-hook-decryption.html)|`2026-04-19 05:43:00`|`Call of Duty: Modern Warfare`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-04-19 05:41:00`|`Alternative Online Mods`|
 |[Virtualized/Obfuscated Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748552-virtualized-obfuscated-natives.html)|`2026-04-19 05:33:00`|`Alternative Online Mods`|
 |[Last Flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748371-flag.html)|`2026-04-19 05:22:00`|`Other FPS Games`|
