@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mongil: Star Dive Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748596-mongil-star-dive-hack.html)|`2026-04-19 06:46:00`|`Other MMORPG and Strategy`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-04-19 06:45:00`|`Other FPS Games`|
+|[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748687-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-04-19 06:45:00`|`Grand Theft Auto V`|
+|[Free broken aa if anyone wants it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748500-free-broken-aa.html)|`2026-04-19 06:38:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-04-19 06:35:00`|`DayZ SA`|
+|[Long&#45;term DMA AES Encryption/Decryption Algorithm Collaboration &#40;Paid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748714-term-dma-aes-encryption-decryption-algorithm-collaboration-paid.html)|`2026-04-19 06:34:00`|`Anti-Cheat Bypass`|
 |[Pre&#45;Searing Bot 2026 &#40;Reforged Update working&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars/741270-pre-searing-bot-2026-reforged-update.html)|`2026-04-19 05:59:00`|`Guild Wars`|
 |[R6 AI Aim using C&#43;&#43; DirectML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748308-r6-ai-aim-using-directml.html)|`2026-04-19 05:58:00`|`Rainbow Six Siege`|
 |[Get Entity from 1 hook without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/748603-entity-1-hook-decryption.html)|`2026-04-19 05:43:00`|`Call of Duty: Modern Warfare`|
