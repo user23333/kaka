@@ -42,6 +42,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free grenade helper tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748605-free-grenade-helper-tutorial.html)|`2026-04-18 15:43:00`|`Counter-Strike 2`|
+|[Sound Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748474-sound-radar.html)|`2026-04-18 15:39:00`|`Valorant`|
+|[Get Entity from 1 hook without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/748603-entity-1-hook-decryption.html)|`2026-04-18 15:35:00`|`Call of Duty: Modern Warfare`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-04-18 15:28:00`|`Counter-Strike 2`|
+|[online without battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748602-online-battleye.html)|`2026-04-18 15:13:00`|`Rainbow Six Siege`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-18 15:08:00`|`Marvel Rivals`|
 |[CS2 DMA External &#45; ESP, Web Radar, Grenade Helper &#40;C&#43;&#43; &#43; FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747648-cs2-dma-external-esp-web-radar-grenade-helper-fpga.html)|`2026-04-18 14:38:00`|`Counter-Strike 2`|
 |[subtick airstrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748601-subtick-airstrafe.html)|`2026-04-18 14:36:00`|`Counter-Strike 2`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-04-18 14:35:00`|`Other FPS Games`|
