@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-04-19 05:41:00`|`Alternative Online Mods`|
+|[Virtualized/Obfuscated Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748552-virtualized-obfuscated-natives.html)|`2026-04-19 05:33:00`|`Alternative Online Mods`|
+|[Last Flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748371-flag.html)|`2026-04-19 05:22:00`|`Other FPS Games`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/639749-dayz-dumper.html)|`2026-04-19 05:11:00`|`DayZ SA`|
 |[Long&#45;Term: AES Decryption Maintenance &#40;No Memory Writes, Paid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748699-term-aes-decryption-maintenance-memory-writes-paid.html)|`2026-04-19 05:01:00`|`Anti-Cheat Bypass`|
 |[Pirate Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/699335-pirate-generator.html)|`2026-04-19 05:01:00`|`Sea of Thieves`|
 |[Having fun with the engine &#40;Part 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/316216-fun-engine-1-a.html)|`2026-04-19 04:58:00`|`Combat Arms`|
