@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for a spoofer that will actually change my life &#40;Win10/Win11&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748600-looking-spoofer-actually-change-life-win10-win11.html)|`2026-04-18 18:34:00`|`Overwatch`|
+|[Offsets Dump Steam Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736019-offsets-dump-steam-version.html)|`2026-04-18 18:29:00`|`Combat Master`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-18 17:40:00`|`Apex Legends`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-18 17:30:00`|`Other FPS Games`|
 |[World To Screen help &#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/620774-world-screen-help.html)|`2026-04-18 17:18:00`|`General Programming and Reversing`|
