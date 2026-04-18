@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Where Winds Meet BUFF Cheat &#40; with source &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746244-winds-meet-buff-cheat-source.html)|`2026-04-18 23:37:00`|`Other MMORPG and Strategy`|
+|[Shinoko&#45;SS Global &#91; StellaSora Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745179-shinoko-ss-global-stellasora-cheat.html)|`2026-04-18 23:29:00`|`Other MMORPG and Strategy`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-18 23:15:00`|`Escape from Tarkov`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-04-18 23:13:00`|`Grand Theft Auto V`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-18 22:57:00`|`Roblox`|
 |[Blitz Arena ESP aimbot latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748650-blitz-arena-esp-aimbot-steam-version.html)|`2026-04-18 22:53:00`|`Other FPS Games`|
 |[Osu cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744504-osu-cheat.html)|`2026-04-18 22:52:00`|`Other Games`|
