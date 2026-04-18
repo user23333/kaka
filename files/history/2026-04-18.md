@@ -39,9 +39,15 @@
 |2|[MVMoneyfull&#46;ahk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54360)|`2026-04-18 11:25:34`|
 |6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54359)|`2026-04-18 11:25:34`|
 |2|[Krypton Engine 5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54368)|`2026-04-18 13:19:46`|
+|1|[OsuPlayback&#95;v10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54366)|`2026-04-18 20:27:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free broken aa if anyone wants it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748500-free-broken-aa.html)|`2026-04-18 20:27:00`|`Counter-Strike 2`|
+|[get model name offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748633-model-name-offset.html)|`2026-04-18 20:16:00`|`Counter-Strike 2`|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-18 20:15:00`|`Other Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-04-18 20:10:00`|`Other FPS Games`|
+|[How to properly iterate DayZ objects&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/748629-properly-iterate-dayz-objects.html)|`2026-04-18 20:00:00`|`DayZ SA`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-18 19:46:00`|`Deadlock`|
 |[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-18 19:43:00`|`Other Games`|
 |[Valorant Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747713-valorant-internal-source.html)|`2026-04-18 19:29:00`|`Valorant`|
