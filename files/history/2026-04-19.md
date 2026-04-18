@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-19 03:56:00`|`Other FPS Games`|
+|[Roblox dumper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/748685-roblox-dumper.html)|`2026-04-19 03:52:00`|`Roblox`|
+|[Magic bullet, need CUserCmd shoot position offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/748275-magic-bullet-cusercmd-shoot-position-offset.html)|`2026-04-19 03:50:00`|`Deadlock`|
+|[Company of Heroes 2 SP/MP Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)|`2026-04-19 03:49:00`|`Other MMORPG and Strategy`|
+|[AI External &#40;No Reading Memory&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748266-ai-external-reading-memory.html)|`2026-04-19 03:49:00`|`Rainbow Six Siege`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-19 03:43:00`|`Tom Clancy's The Division`|
+|[get model name offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748633-model-name-offset.html)|`2026-04-19 03:36:00`|`Counter-Strike 2`|
 |[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-19 03:26:00`|`Rust`|
 |[Subtick Strafe Stuck In Ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746039-subtick-strafe-stuck-ground.html)|`2026-04-19 03:23:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-04-19 03:23:00`|`Other FPS Games`|
