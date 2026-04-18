@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is There Any Way I Can Use Claude For Fully Free??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/748307-claude-free.html)|`2026-04-19 07:18:00`|`Off Topic`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-19 07:16:00`|`Valorant`|
+|[dupe refresh tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748129-dupe-refresh-tool.html)|`2026-04-19 07:11:00`|`ARC Raiders`|
+|[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-04-19 07:09:00`|`Other FPS Games`|
+|[Need help hooking IDXGISwapChain::Present](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748527-help-hooking-idxgiswapchain.html)|`2026-04-19 06:58:00`|`Counter-Strike 2`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-04-19 06:56:00`|`Call of Duty: Black Ops 7`|
 |[Mongil: Star Dive Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748596-mongil-star-dive-hack.html)|`2026-04-19 06:46:00`|`Other MMORPG and Strategy`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-04-19 06:45:00`|`Other FPS Games`|
 |[ToxicVibez Aft3rM4ath Menu &#40;CREDITS: Yim, ToxicVibezz&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748687-toxicvibez-aft3rm4ath-menu-credits-yim-toxicvibezz.html)|`2026-04-19 06:45:00`|`Grand Theft Auto V`|
