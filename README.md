@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How i can do a simple Unlock All](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748657-simple-unlock.html)|`2026-04-19 01:24:00`|`Valorant`|
+|[Free grenade helper tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748605-free-grenade-helper-tutorial.html)|`2026-04-19 01:21:00`|`Counter-Strike 2`|
+|[Esp and Aimbot Base &#40;needs offsets &#43; Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748259-esp-aimbot-base-offsets-driver.html)|`2026-04-19 01:21:00`|`Apex Legends`|
+|[cs2 internal third person help c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748639-cs2-internal-third-person-help.html)|`2026-04-19 01:20:00`|`Counter-Strike 2`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-04-19 01:18:00`|`Other FPS Games`|
+|[need help with c&#43;&#43; / jni / jvm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/748669-help-jni-jvm.html)|`2026-04-19 01:10:00`|`Minecraft`|
+|[Safe driver bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748668-safe-driver-bypass-eac.html)|`2026-04-19 01:09:00`|`Apex Legends`|
 |[I have a question&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/748653-question.html)|`2026-04-19 00:53:00`|`Marvel Rivals`|
 |[Bit Heroes Internal Speedhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748486-bit-heroes-internal-speedhack.html)|`2026-04-19 00:52:00`|`Other MMORPG and Strategy`|
 |[&#91;Warframe&#93; Player Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/678485-warframe-player-offset.html)|`2026-04-19 00:48:00`|`Other FPS Games`|
