@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 DMA External &#45; ESP, Web Radar, Grenade Helper &#40;C&#43;&#43; &#43; FPGA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747648-cs2-dma-external-esp-web-radar-grenade-helper-fpga.html)|`2026-04-18 14:38:00`|`Counter-Strike 2`|
+|[subtick airstrafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748601-subtick-airstrafe.html)|`2026-04-18 14:36:00`|`Counter-Strike 2`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-04-18 14:35:00`|`Other FPS Games`|
+|[How do i make a rust cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/748494-rust-cheat.html)|`2026-04-18 14:35:00`|`Programming for Beginners`|
+|[GSC Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/745125-gsc-injector.html)|`2026-04-18 14:06:00`|`Call of Duty: Modern Warfare`|
 |[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-04-18 13:17:00`|`Other FPS Games`|
 |[F7 Reporting gets you banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748566-f7-reporting-banned.html)|`2026-04-18 13:17:00`|`Rust`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-18 13:14:00`|`Other Games`|
