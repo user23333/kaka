@@ -11,6 +11,8 @@
 |14|[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-19 00:06:16`|`other-games`|
 |7|[some p2c source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747955-p2c-source.html)|`2026-04-19 00:06:16`|`counter-strike-2-a`|
 |12|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-04-19 00:06:16`|`valorant`|
+|18|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-04-19 09:12:37`|`valorant`|
+|7|[Valorant Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747713-valorant-internal-source.html)|`2026-04-19 09:12:37`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-19 09:01:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-19 08:56:00`|`Escape from Tarkov`|
+|[AUTO KNIFE ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748553-auto-knife.html)|`2026-04-19 08:53:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-19 08:50:00`|`Other Games`|
+|[Comprehensive Asset ID Index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748728-comprehensive-asset-id-index.html)|`2026-04-19 08:38:00`|`ARC Raiders`|
+|[dll inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748727-dll-inject.html)|`2026-04-19 08:24:00`|`Valorant`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-19 08:21:00`|`Other MMORPG and Strategy`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-04-19 07:46:00`|`DayZ SA`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-19 07:42:00`|`Counter-Strike 2`|
 |[SigmaDrift &#45; WindMouse's Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738422-sigmadrift-windmouses-successor.html)|`2026-04-19 07:42:00`|`Anti-Cheat Bypass`|
