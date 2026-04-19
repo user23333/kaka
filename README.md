@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748848-offsets.html)|`2026-04-20 05:03:00`|`Garry's Mod`|
+|[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-20 05:03:00`|`Rust`|
+|[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-04-20 05:00:00`|`Call of Duty 4: Modern Warfare`|
+|[GLOW ESP CS2 &#40;EXTERNAL&#41; FULL TUTORIAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748846-glow-esp-cs2-external-tutorial.html)|`2026-04-20 04:58:00`|`Counter-Strike 2`|
+|[87 vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748681-87-vulnerable-drivers.html)|`2026-04-20 04:56:00`|`Anti-Cheat Bypass`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2026-04-20 04:55:00`|`Other Games`|
+|[ESP&#45;Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746596-esp-overwatch.html)|`2026-04-20 04:47:00`|`Overwatch`|
+|[🚀 AimStar Updated – New Version Released&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/739868-aimstar-updated-version-released.html)|`2026-04-20 04:41:00`|`Counter-Strike 2 Releases`|
 |[evading vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748756-evading-vac.html)|`2026-04-20 03:56:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-20 03:54:00`|`Overwatch`|
 |[How to fix wobbly visuals externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748731-fix-wobbly-visuals-externally.html)|`2026-04-20 03:44:00`|`Counter-Strike 2`|
