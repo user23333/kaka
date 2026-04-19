@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Berserk Inventory Changer &#45; Outdated &#91;Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747551-berserk-inventory-changer-outdated-source.html)|`2026-04-20 01:57:00`|`Counter-Strike 2`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-04-20 01:54:00`|`Paladins`|
+|[reversing R6S](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748745-reversing-r6s.html)|`2026-04-20 01:47:00`|`Rainbow Six Siege`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-04-20 01:47:00`|`Other FPS Games`|
+|[BloodStrike Magic Bullet/ Bullet Track Patched ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748138-bloodstrike-magic-bullet-bullet-track-patched.html)|`2026-04-20 01:35:00`|`Other FPS Games`|
+|[New ricochet dump&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728944-ricochet-dump.html)|`2026-04-20 01:27:00`|`Call of Duty: Black Ops 7`|
+|[light modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748808-light-modulation.html)|`2026-04-20 01:25:00`|`Counter-Strike 2`|
 |[DayZ DMA cheat &#40;Skeleton Esp, Aimbot, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/720910-dayz-dma-cheat-skeleton-esp-aimbot-radar.html)|`2026-04-20 01:21:00`|`DayZ SA`|
 |[CS2 UPDATE OFFSET&#43;PATERN 2 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748793-cs2-update-offset-patern-2-minutes.html)|`2026-04-20 01:19:00`|`Counter-Strike 2`|
 |[Bhop internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748215-bhop-internal-source.html)|`2026-04-20 01:18:00`|`Counter-Strike 2`|
