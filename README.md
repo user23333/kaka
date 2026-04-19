@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-04-20 05:36:00`|`Other MMORPG and Strategy`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-20 05:31:00`|`Other FPS Games`|
+|[Module stomping injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/748855-module-stomping-injection.html)|`2026-04-20 05:31:00`|`Forum General`|
+|[apex legends weights &#40;100k images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748767-apex-legends-weights-100k-images.html)|`2026-04-20 05:29:00`|`Apex Legends`|
+|[Interactive DebugCam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748484-interactive-debugcam.html)|`2026-04-20 05:28:00`|`Rust`|
+|[Bullet Force PC Steam version cheat maybe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/747922-bullet-force-pc-steam-version-cheat-maybe.html)|`2026-04-20 05:28:00`|`Unity`|
+|[Virtualized/Obfuscated Natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748552-virtualized-obfuscated-natives.html)|`2026-04-20 05:27:00`|`Alternative Online Mods`|
+|[RAGE MP OFFSETS&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747243-rage-mp-offsets.html)|`2026-04-20 05:27:00`|`Alternative Online Mods`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-20 05:27:00`|`Other MMORPG and Strategy`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748848-offsets.html)|`2026-04-20 05:03:00`|`Garry's Mod`|
 |[rust external paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/746994-rust-external-paste.html)|`2026-04-20 05:03:00`|`Rust`|
 |[SastashaFied Cod4x MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/744223-sastashafied-cod4x-multihack.html)|`2026-04-20 05:00:00`|`Call of Duty 4: Modern Warfare`|
