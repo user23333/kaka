@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which sigs do i need to make an inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747560-sigs-inventory-changer.html)|`2026-04-20 03:28:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-20 03:26:00`|`Rainbow Six Siege`|
+|[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-04-20 03:22:00`|`Other FPS Games`|
+|[Bot Lobby Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/748648-bot-lobby-tool.html)|`2026-04-20 03:20:00`|`Call of Duty: Black Ops 7`|
+|[Play with friend with yimmenu v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748764-play-friend-yimmenu-v2.html)|`2026-04-20 03:10:00`|`Grand Theft Auto V`|
+|[Is there any safe bedrock cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/731555-safe-bedrock-cheat.html)|`2026-04-20 03:07:00`|`Minecraft`|
 |[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-04-20 02:37:00`|`Valorant`|
 |[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-04-20 02:34:00`|`Other Games`|
 |[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748814-injector.html)|`2026-04-20 02:30:00`|`Grand Theft Auto V`|
