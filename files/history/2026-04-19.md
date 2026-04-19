@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex legends weights &#40;100k images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748767-apex-legends-weights-100k-images.html)|`2026-04-19 19:06:00`|`Apex Legends`|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-04-19 19:00:00`|`Valorant`|
 |[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-04-19 18:48:00`|`Counter-Strike 2`|
 |[HWID BANNED GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745898-hwid-banned-gg.html)|`2026-04-19 18:30:00`|`Apex Legends`|
 |[Play with friend with yimmenu v2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748764-play-friend-yimmenu-v2.html)|`2026-04-19 18:29:00`|`Grand Theft Auto V`|
