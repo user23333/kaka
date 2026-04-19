@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Samurai's Scripts &#91;LEGACY ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748763-samurais-scripts-legacy.html)|`2026-04-19 18:02:00`|`Grand Theft Auto V`|
+|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744420-apex-dumper.html)|`2026-04-19 17:59:00`|`Apex Legends`|
+|[Flying Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747728-flying-glitch.html)|`2026-04-19 17:49:00`|`DayZ SA`|
+|[reversing R6S](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748745-reversing-r6s.html)|`2026-04-19 17:34:00`|`Rainbow Six Siege`|
 |[Reveal Ranks on scoreboard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748761-reveal-ranks-scoreboard.html)|`2026-04-19 17:16:00`|`Counter-Strike 2`|
 |[Coding question &#45; Vote Revealer CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747283-coding-question-vote-revealer-cs2.html)|`2026-04-19 16:33:00`|`Counter-Strike 2`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-04-19 16:33:00`|`Other FPS Games`|
