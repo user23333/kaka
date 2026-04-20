@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748319-offsets.html)|`2026-04-21 05:03:00`|`Garry's Mod`|
+|[CS2 Dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749020-cs2-dumper-ag2-fixed.html)|`2026-04-21 05:00:00`|`Counter-Strike 2`|
+|[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748914-driver.html)|`2026-04-21 04:59:00`|`Grand Theft Auto V`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-04-21 04:58:00`|`Grand Theft Auto V`|
+|[UEFI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747773-uefi.html)|`2026-04-21 04:56:00`|`Alternative Online Mods`|
+|[Seven Deadly Sins: Origin External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744057-seven-deadly-sins-origin-external.html)|`2026-04-21 04:46:00`|`Other MMORPG and Strategy`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-21 04:46:00`|`Rainbow Six Siege`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-04-21 04:40:00`|`DayZ SA`|
 |[New OFFSETS BO3 Zombis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/749012-offsets-bo3-zombis.html)|`2026-04-21 04:21:00`|`Call of Duty: Black Ops 3`|
 |[Skeleton](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749010-skeleton.html)|`2026-04-21 04:18:00`|`Rust`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-04-21 04:12:00`|`HELLDIVERS 2`|
