@@ -11,6 +11,7 @@
 |8|[FiveM External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/747917-fivem-external-base.html)|`2026-04-21 00:46:18`|`alternative-online-mods`|
 |16|[hvh Blackhole client 0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748439-hvh-blackhole-client-0-1-a.html)|`2026-04-21 00:46:18`|`counter-strike-2-a`|
 |7|[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-04-21 00:46:18`|`valorant`|
+|13|[online without battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748602-online-battleye.html)|`2026-04-21 01:41:33`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,19 @@
 |123|[battleye dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54371)|`2026-04-21 00:46:18`|
 |78|[Krypton Engine 5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54368)|`2026-04-21 00:46:18`|
 |33|[OsuPlayback&#95;v10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54366)|`2026-04-21 00:46:18`|
+|26|[KE&#45;URC2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54365)|`2026-04-21 01:41:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743375-vac.html)|`2026-04-21 01:39:00`|`Counter-Strike 2`|
+|[Nic & Cache & Troll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748982-nic-cache-troll.html)|`2026-04-21 01:36:00`|`Anti-Cheat Bypass`|
+|[TPM Trolling no hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748981-tpm-trolling-hooks.html)|`2026-04-21 01:32:00`|`Anti-Cheat Bypass`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-04-21 01:31:00`|`Paladins`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-04-21 01:29:00`|`Other FPS Games`|
+|[SecureBoot / EFI,  trolling No Hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748979-secureboot-efi-trolling-hooks.html)|`2026-04-21 01:29:00`|`Anti-Cheat Bypass`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-21 01:28:00`|`Other Games`|
+|[cs2 internal bunnyhop stuttering c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748697-cs2-internal-bunnyhop-stuttering.html)|`2026-04-21 01:19:00`|`Counter-Strike 2`|
+|[online without battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748602-online-battleye.html)|`2026-04-21 01:17:00`|`Rainbow Six Siege`|
 |[How is this guy playing with StaffBesting for 2 months without ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/677746-guy-playing-staffbesting-2-months-ban.html)|`2026-04-21 00:39:00`|`Valorant`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-21 00:38:00`|`Other FPS Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-21 00:38:00`|`Other FPS Games`|
