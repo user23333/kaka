@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current meta for loading drivers with HVCI ON?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748889-current-meta-loading-drivers-hvci.html)|`2026-04-20 13:49:00`|`Anti-Cheat Bypass`|
+|[Albion Pathfind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743846-albion-pathfind.html)|`2026-04-20 13:44:00`|`Other MMORPG and Strategy`|
+|[inv changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748636-inv-changer.html)|`2026-04-20 13:31:00`|`Counter-Strike 2`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-04-20 13:22:00`|`Apex Legends`|
+|[CS2 Internal Rage Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745474-cs2-internal-rage-source.html)|`2026-04-20 13:18:00`|`Counter-Strike 2`|
 |[ParodyError Breaking MmCopyMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742806-parodyerror-breaking-mmcopymemory.html)|`2026-04-20 11:21:00`|`Anti-Cheat Bypass`|
 |[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-20 11:15:00`|`Other Games`|
 |[No recoil internal help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748868-recoil-internal-help.html)|`2026-04-20 11:04:00`|`Counter-Strike 2`|
