@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-04-21 03:35:00`|`Counter-Strike 2 Releases`|
+|[87 vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748681-87-vulnerable-drivers.html)|`2026-04-21 03:34:00`|`Anti-Cheat Bypass`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-21 03:30:00`|`Escape from Tarkov`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-21 03:18:00`|`Other Games`|
+|[Perfect Mantle Boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748993-perfect-mantle-boost.html)|`2026-04-21 03:10:00`|`Apex Legends`|
+|[Bypassing AIMBOT/SILENT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/748166-bypassing-aimbot-silent.html)|`2026-04-21 02:59:00`|`Alternative Online Mods`|
+|[CS2 Internal &#45; Chams not rendering &#40;Material Hook issue&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748990-cs2-internal-chams-rendering-material-hook-issue.html)|`2026-04-21 02:56:00`|`Counter-Strike 2`|
+|[Albion Pathfind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743846-albion-pathfind.html)|`2026-04-21 02:53:00`|`Other MMORPG and Strategy`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-04-21 02:39:00`|`Battlefield 6`|
 |[A Full Production Automation System &#40;Generate Unlimited Weapons&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742983-production-automation-system-generate-unlimited-weapons.html)|`2026-04-21 02:38:00`|`ARC Raiders`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-04-21 02:35:00`|`Grand Theft Auto V`|
