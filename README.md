@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike Melee Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742615-bloodstrike-melee-skin-changer.html)|`2026-04-20 23:30:00`|`Other FPS Games`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-04-20 23:14:00`|`Other FPS Games`|
 |[R6 AI Aim using C&#43;&#43; DirectML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748308-r6-ai-aim-using-directml.html)|`2026-04-20 22:22:00`|`Rainbow Six Siege`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-04-20 22:21:00`|`Other FPS Games`|
 |[manually mapped driver detection vectors &#40;kdmapper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748499-manually-mapped-driver-detection-vectors-kdmapper.html)|`2026-04-20 22:18:00`|`Anti-Cheat Bypass`|
