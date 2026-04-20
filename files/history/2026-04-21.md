@@ -13,6 +13,7 @@
 |7|[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-04-21 00:46:18`|`valorant`|
 |13|[online without battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748602-online-battleye.html)|`2026-04-21 01:41:33`|`rainbow-six-siege`|
 |22|[manually mapped driver detection vectors &#40;kdmapper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748499-manually-mapped-driver-detection-vectors-kdmapper.html)|`2026-04-21 02:40:24`|`anti-cheat-bypass`|
+|5|[ShimmyImpact 6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/748219-shimmyimpact-6-5-a.html)|`2026-04-21 07:23:42`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-04-21 07:04:00`|`Sea of Thieves`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-04-21 06:55:00`|`Other Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-04-21 06:51:00`|`Other FPS Games`|
+|[Is there a cheat to spawn Seaf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/748269-cheat-spawn-seaf.html)|`2026-04-21 06:49:00`|`HELLDIVERS 2`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-21 06:33:00`|`Rust`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-04-21 06:29:00`|`Other MMORPG and Strategy`|
 |[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-04-21 06:25:00`|`Other FPS Games`|
