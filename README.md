@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE INTERNAL VALORANT PATCH 12&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742875-free-internal-valorant-patch-12-04-a.html)|`2026-04-21 05:56:00`|`Valorant`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-21 05:52:00`|`Rainbow Six Siege`|
+|[kernelmode RCS via memory write keeps flickering&#46; What am I missing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748994-kernelmode-rcs-via-memory-write-flickering-am-missing.html)|`2026-04-21 05:51:00`|`Apex Legends`|
+|[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-21 05:44:00`|`Anti-Cheat Bypass`|
+|[R6 Recoil Method &#91;Help&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/749028-r6-recoil-method-help.html)|`2026-04-21 05:40:00`|`Rainbow Six Siege`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-21 05:39:00`|`Overwatch`|
+|[New Ban System HWECHO&#46;dll &#40;subnet ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/748452-ban-system-hwecho-dll-subnet-ban.html)|`2026-04-21 05:35:00`|`Escape from Tarkov`|
+|[Bot Lobby Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/748648-bot-lobby-tool.html)|`2026-04-21 05:28:00`|`Call of Duty: Black Ops 7`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/748319-offsets.html)|`2026-04-21 05:03:00`|`Garry's Mod`|
 |[CS2 Dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749020-cs2-dumper-ag2-fixed.html)|`2026-04-21 05:00:00`|`Counter-Strike 2`|
 |[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748914-driver.html)|`2026-04-21 04:59:00`|`Grand Theft Auto V`|
