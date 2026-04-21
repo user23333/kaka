@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE Screenshot methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749181-ace-screenshot-methods.html)|`2026-04-22 07:48:00`|`Anti-Cheat Bypass`|
+|[bomb esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749235-bomb-esp.html)|`2026-04-22 07:40:00`|`Counter-Strike 2`|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-22 07:33:00`|`Other Games`|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-04-22 07:33:00`|`Other Single Player Games`|
+|[Bypass Everything LuaScript](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749140-bypass-luascript.html)|`2026-04-22 07:32:00`|`Grand Theft Auto V`|
+|[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 30/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744656-terraria-1-4-5-regrind-cheat-table-update-30-03-2026-1-a.html)|`2026-04-22 07:27:00`|`Other MMORPG and Strategy`|
 |[Entity list always 0 &#40;Final Entity list size = 0&#41; &#45; Need help with matching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/749222-entity-list-0-final-entity-list-size-0-help-matching.html)|`2026-04-22 07:16:00`|`Overwatch`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-22 06:48:00`|`Rainbow Six Siege`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-22 06:44:00`|`Apex Legends`|
