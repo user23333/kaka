@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Entity list always 0 &#40;Final Entity list size = 0&#41; &#45; Need help with matching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/749222-entity-list-0-final-entity-list-size-0-help-matching.html)|`2026-04-22 07:16:00`|`Overwatch`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-22 06:48:00`|`Rainbow Six Siege`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-22 06:44:00`|`Apex Legends`|
 |[Drawing utility trails crashes after AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749120-drawing-utility-trails-crashes-ag2-update.html)|`2026-04-22 06:40:00`|`Counter-Strike 2`|
