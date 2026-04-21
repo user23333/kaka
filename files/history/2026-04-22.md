@@ -31,9 +31,17 @@
 |10|[MHUR 420dayV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54417)|`2026-04-22 04:34:08`|
 |0|[arc xbox sdk 21&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54438)|`2026-04-22 06:02:48`|
 |3|[arc sdk dump xbox 21&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54434)|`2026-04-22 06:02:48`|
+|4|[Shellcode dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54432)|`2026-04-22 06:50:00`|
+|8|[vpk&#45;parser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54425)|`2026-04-22 06:50:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-22 06:48:00`|`Rainbow Six Siege`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-22 06:44:00`|`Apex Legends`|
+|[Drawing utility trails crashes after AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749120-drawing-utility-trails-crashes-ag2-update.html)|`2026-04-22 06:40:00`|`Counter-Strike 2`|
+|[Ultimate COD WW2 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/650299-ultimate-cod-ww2-thread.html)|`2026-04-22 06:32:00`|`Other Games`|
+|[A simple heirloom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744561-simple-heirloom.html)|`2026-04-22 06:22:00`|`Apex Legends`|
+|[Prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749163-prediction.html)|`2026-04-22 06:22:00`|`Counter-Strike 2`|
 |[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-04-22 06:02:00`|`Grand Theft Auto V`|
 |[SchemaSystem stopped working after the AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749210-schemasystem-stopped-ag2-update.html)|`2026-04-22 06:01:00`|`Counter-Strike 2`|
 |[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-04-22 05:50:00`|`Counter-Strike 2 Releases`|
