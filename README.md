@@ -28,9 +28,18 @@
 |78|[Krypton Engine 5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54368)|`2026-04-21 00:46:18`|
 |33|[OsuPlayback&#95;v10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54366)|`2026-04-21 00:46:18`|
 |26|[KE&#45;URC2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54365)|`2026-04-21 01:41:33`|
+|1|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54422)|`2026-04-21 20:42:38`|
+|24|[a2x cs2 dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54415)|`2026-04-21 20:42:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-21 20:40:00`|`Overwatch`|
+|[Building External Overwatch 2 Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748749-building-external-overwatch-2-hack.html)|`2026-04-21 20:39:00`|`Overwatch`|
+|[Drawing utility trails crashes after AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749120-drawing-utility-trails-crashes-ag2-update.html)|`2026-04-21 20:38:00`|`Counter-Strike 2`|
+|[Vanguard Spoofer Rev 2&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/612562-vanguard-spoofer-rev-2-a.html)|`2026-04-21 20:37:00`|`Valorant`|
+|[cs2 internal fov changer not working after update c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749129-cs2-internal-fov-changer-update.html)|`2026-04-21 20:35:00`|`Counter-Strike 2`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-04-21 20:34:00`|`THE FINALS`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-21 20:33:00`|`Valorant`|
 |[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-21 19:25:00`|`Counter-Strike 2`|
 |[Im having a problem from m&#95;hPlayerPawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749117-im-m_hplayerpawn.html)|`2026-04-21 19:17:00`|`Counter-Strike 2`|
 |[anyone bhop break on beta?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748818-bhop-break-beta.html)|`2026-04-21 19:15:00`|`Counter-Strike 2`|
