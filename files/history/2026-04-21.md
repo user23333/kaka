@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT: Arena Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/614375-eft-arena-reversal-structs-offsets.html)|`2026-04-21 23:44:00`|`Escape from Tarkov`|
+|[How to cheat and never get caught?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748246-cheat-caught.html)|`2026-04-21 23:43:00`|`Apex Legends`|
+|[How to hook CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746452-hook-createmove.html)|`2026-04-21 23:43:00`|`Counter-Strike 2`|
+|[RegenerateWeaponSkins &#43;0x52 patch broken after April 20 update, udpdated offset??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749144-regenerateweaponskins-0x52-patch-broken-april-20-update-udpdated-offset.html)|`2026-04-21 23:41:00`|`Counter-Strike 2`|
+|[Get Entity from 1 hook without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/748603-entity-1-hook-decryption.html)|`2026-04-21 23:39:00`|`Call of Duty: Modern Warfare`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-21 23:31:00`|`HELLDIVERS 2`|
 |[Bypass Everything LuaScript](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749140-bypass-luascript.html)|`2026-04-21 22:00:00`|`Grand Theft Auto V`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-04-21 21:56:00`|`Palworld`|
 |[cs2 signatures after ag2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749136-cs2-signatures-ag2-update.html)|`2026-04-21 21:55:00`|`Counter-Strike 2`|
