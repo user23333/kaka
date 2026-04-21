@@ -29,9 +29,16 @@
 |7|[cs2 dumped offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54430)|`2026-04-22 03:47:32`|
 |1|[SastashaFied CoD4X MultiHack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54421)|`2026-04-22 04:34:08`|
 |10|[MHUR 420dayV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54417)|`2026-04-22 04:34:08`|
+|0|[arc xbox sdk 21&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54438)|`2026-04-22 06:02:48`|
+|3|[arc sdk dump xbox 21&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54434)|`2026-04-22 06:02:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-04-22 06:02:00`|`Grand Theft Auto V`|
+|[SchemaSystem stopped working after the AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749210-schemasystem-stopped-ag2-update.html)|`2026-04-22 06:01:00`|`Counter-Strike 2`|
+|[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-04-22 05:50:00`|`Counter-Strike 2 Releases`|
+|[External Entity correct bone detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749194-external-entity-correct-bone-detection.html)|`2026-04-22 05:50:00`|`Counter-Strike 2`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-04-22 05:46:00`|`Other FPS Games`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-04-22 05:20:00`|`Rust`|
 |[OP Builds with ED Features CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741223-op-builds-ed-features-ct.html)|`2026-04-22 05:20:00`|`HELLDIVERS 2`|
 |[C&#43;&#43; VPK Parser&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749116-vpk-parser.html)|`2026-04-22 05:18:00`|`Counter-Strike 2`|
