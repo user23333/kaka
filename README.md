@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-22 01:37:00`|`Other Games`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-22 01:33:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-22 01:32:00`|`Other FPS Games`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-04-22 01:29:00`|`Escape from Tarkov`|
+|[cs2 m&#95;pClippingWeapon removed help c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749164-cs2-m_pclippingweapon-removed-help.html)|`2026-04-22 01:29:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-22 01:24:00`|`ARC Raiders`|
+|[cs2 internal fov changer not working after update c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749129-cs2-internal-fov-changer-update.html)|`2026-04-22 01:22:00`|`Counter-Strike 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-22 01:21:00`|`Tom Clancy's The Division`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-22 01:19:00`|`Other Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-22 00:38:00`|`Counter-Strike 2`|
 |[preview model ag2 problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749153-preview-model-ag2.html)|`2026-04-22 00:33:00`|`Counter-Strike 2`|
 |[Rogue Company &#45; 1st Generation Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746942-rogue-company-1st-generation-rogue-internal.html)|`2026-04-22 00:31:00`|`Other Games`|
