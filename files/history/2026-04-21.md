@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-21 19:25:00`|`Counter-Strike 2`|
+|[Im having a problem from m&#95;hPlayerPawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749117-im-m_hplayerpawn.html)|`2026-04-21 19:17:00`|`Counter-Strike 2`|
+|[anyone bhop break on beta?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748818-bhop-break-beta.html)|`2026-04-21 19:15:00`|`Counter-Strike 2`|
 |[Company Of Heroes 3 &#45; Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747791-company-heroes-3-map-hack.html)|`2026-04-21 17:56:00`|`Other MMORPG and Strategy`|
 |[evading vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748756-evading-vac.html)|`2026-04-21 17:53:00`|`Counter-Strike 2`|
 |[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2026-04-21 17:51:00`|`Call of Duty: Modern Warfare II`|
