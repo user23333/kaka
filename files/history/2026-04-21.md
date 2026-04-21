@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Company Of Heroes 3 &#45; Map Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/747791-company-heroes-3-map-hack.html)|`2026-04-21 17:56:00`|`Other MMORPG and Strategy`|
+|[evading vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748756-evading-vac.html)|`2026-04-21 17:53:00`|`Counter-Strike 2`|
+|[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2026-04-21 17:51:00`|`Call of Duty: Modern Warfare II`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-21 16:53:00`|`Deadlock`|
 |[Missing offsets after AnimGraph2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749094-missing-offsets-animgraph2-update.html)|`2026-04-21 16:50:00`|`Counter-Strike 2`|
 |[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-04-21 16:46:00`|`PlanetSide 2`|
