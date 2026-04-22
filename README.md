@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749309-offsets.html)|`2026-04-22 22:20:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-04-22 22:18:00`|`Other Games`|
+|[Perfect Mantle Boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748993-perfect-mantle-boost.html)|`2026-04-22 22:13:00`|`Apex Legends`|
+|[What EasyAntiCheat&#95;EOS&#46;sys Really Does During Startup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749306-easyanticheat_eos-sys-startup.html)|`2026-04-22 22:07:00`|`Anti-Cheat Bypass`|
+|[how to make a sdk correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749269-sdk-correctly.html)|`2026-04-22 22:06:00`|`Counter-Strike 2`|
 |[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-22 20:43:00`|`Anti-Cheat Bypass`|
 |[CS2 External RCS not working: Issue with AimPunchCache logic?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749293-cs2-external-rcs-issue-aimpunchcache-logic.html)|`2026-04-22 20:33:00`|`Counter-Strike 2`|
 |[NEW CS UPDATE BONE INDEXES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749047-cs-update-bone-indexes.html)|`2026-04-22 20:19:00`|`Counter-Strike 2`|
