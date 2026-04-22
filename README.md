@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new bone id's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749278-bone-ids.html)|`2026-04-22 17:39:00`|`Counter-Strike 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-04-22 17:38:00`|`Battlefield 6`|
+|[SastashaFied Plutonium T6 MP MultiHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/735598-sastashafied-plutonium-t6-mp-multihack.html)|`2026-04-22 17:36:00`|`Call of Duty: Black Ops 2`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-22 17:30:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-22 17:27:00`|`Valorant`|
 |[m&#95;aimPunchTickFraction  and m&#95;aimPunchAngle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749251-m_aimpunchtickfraction-m_aimpunchangle.html)|`2026-04-22 16:02:00`|`Counter-Strike 2`|
 |[Over The Top: WWI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749274-top-wwi.html)|`2026-04-22 16:01:00`|`Other FPS Games`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-04-22 15:30:00`|`Farlight 84`|
