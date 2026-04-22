@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Animal Riders on Enhanced Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749399-animal-riders-enhanced-online.html)|`2026-04-23 07:06:00`|`Grand Theft Auto V`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-23 07:06:00`|`Deadlock`|
 |[changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749350-changes.html)|`2026-04-23 06:56:00`|`Counter-Strike 2`|
 |[ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/749055-esp-aimbot.html)|`2026-04-23 06:55:00`|`Call of Duty: Modern Warfare`|
 |[New Ban System HWECHO&#46;dll &#40;subnet ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/748452-ban-system-hwecho-dll-subnet-ban.html)|`2026-04-23 06:43:00`|`Escape from Tarkov`|
