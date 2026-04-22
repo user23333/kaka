@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Offsets and Functional Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749346-internal-offsets-functional-memory-dumper.html)|`2026-04-23 03:47:00`|`Roblox`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-23 03:44:00`|`Other FPS Games`|
+|[BO7 Virtual controller hack &#91;Aimbot, triggerbot, ect&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/749252-bo7-virtual-controller-hack-aimbot-triggerbot-ect.html)|`2026-04-23 03:44:00`|`Call of Duty: Black Ops 7`|
+|[ParodyError Breaking MmCopyMemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/742806-parodyerror-breaking-mmcopymemory.html)|`2026-04-23 03:43:00`|`Anti-Cheat Bypass`|
+|[Palhack Internal &#124; Item Spawner, ESP, Godmode & Pal Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/735722-palhack-internal-item-spawner-esp-godmode-pal-editor.html)|`2026-04-23 03:36:00`|`Palworld`|
 |[Mapping Kernel Driver for Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749365-mapping-kernel-driver-scanner.html)|`2026-04-23 02:36:00`|`Alternative Online Mods`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-04-23 02:34:00`|`Payday 3`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-23 02:34:00`|`Other Games`|
