@@ -24,9 +24,23 @@
 |13|[SastashaFied CoD4X MultiHack v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54421)|`2026-04-23 00:40:52`|
 |147|[MHUR 420dayV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54417)|`2026-04-23 00:40:52`|
 |487|[a2x cs2 dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54415)|`2026-04-23 00:40:52`|
+|32|[cs2&#45;external&#45;1&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54448)|`2026-04-23 01:38:13`|
+|16|[Essentialsv1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54447)|`2026-04-23 01:38:13`|
+|3|[5&#46;3&#46;2&#45;1163706&#43;pioneer&#95;1&#46;24&#46;x&#45;PioneerGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54446)|`2026-04-23 01:38:13`|
+|12|[cs2&#45;catalyst&#45;1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54445)|`2026-04-23 01:38:13`|
+|1|[TModloader 1&#46;4&#46;4 Cheat Table &#40; 22&#45;04&#45;2026 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54444)|`2026-04-23 01:38:13`|
+|6|[cs2 last offsets 22&#46;04&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54443)|`2026-04-23 01:38:13`|
+|41|[The Division 2 Hack v3&#46;0&#46;3 Cherry Blossom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54442)|`2026-04-23 01:38:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Native patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749322-fivem-native-patterns.html)|`2026-04-23 01:37:00`|`Alternative Online Mods`|
+|[Internal Chams snippet for AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749347-internal-chams-snippet-ag2-update.html)|`2026-04-23 01:37:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-23 01:36:00`|`Other FPS Games`|
+|[Life Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749283-life-check.html)|`2026-04-23 01:35:00`|`Alternative Online Mods`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-23 01:35:00`|`Counter-Strike 2 Releases`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-23 01:35:00`|`Other Games`|
+|[Simple Monitor Spoof &#40;WMI &#43; EDID&#41; – Used by ~50% of P2Cs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744877-simple-monitor-spoof-wmi-edid-50-p2cs.html)|`2026-04-23 01:25:00`|`Anti-Cheat Bypass`|
 |[anyone bhop break on beta?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748818-bhop-break-beta.html)|`2026-04-23 00:36:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-23 00:35:00`|`Other Games`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-23 00:34:00`|`Counter-Strike 2`|
