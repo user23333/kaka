@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-22 20:43:00`|`Anti-Cheat Bypass`|
+|[CS2 External RCS not working: Issue with AimPunchCache logic?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749293-cs2-external-rcs-issue-aimpunchcache-logic.html)|`2026-04-22 20:33:00`|`Counter-Strike 2`|
+|[NEW CS UPDATE BONE INDEXES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749047-cs-update-bone-indexes.html)|`2026-04-22 20:19:00`|`Counter-Strike 2`|
 |[what is wrong with my schema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749287-wrong-schema.html)|`2026-04-22 19:37:00`|`Counter-Strike 2`|
 |[Find signatures &#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748754-signatures-py.html)|`2026-04-22 19:34:00`|`Counter-Strike 2`|
 |[How can a colorbot remain undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749290-colorbot-remain-undetected.html)|`2026-04-22 19:34:00`|`Valorant`|
