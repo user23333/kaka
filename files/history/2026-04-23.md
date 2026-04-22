@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-04-23 06:10:00`|`Anti-Cheat Bypass`|
+|[The Division 2 Byepass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742779-division-2-byepass-eac.html)|`2026-04-23 06:09:00`|`Tom Clancy's The Division`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-23 06:06:00`|`Escape from Tarkov`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-23 06:04:00`|`Other FPS Games`|
+|[Material Dumper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747156-material-dumper-dll.html)|`2026-04-23 06:02:00`|`Rust`|
+|[Jmenu V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/749304-jmenu-v1.html)|`2026-04-23 06:01:00`|`Call of Duty: Black Ops 7`|
 |[Createmove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749369-createmove.html)|`2026-04-23 05:22:00`|`Counter-Strike 2`|
 |[Fallen surival silent aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747942-fallen-surival-silent-aim.html)|`2026-04-23 05:18:00`|`Roblox`|
 |[NX Chams Combat Arms Brasil Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749373-nx-chams-combat-arms-brasil-server.html)|`2026-04-23 05:16:00`|`Combat Arms`|
