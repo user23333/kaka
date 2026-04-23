@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-24 06:34:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-24 06:33:00`|`Alternative Online Mods`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-04-24 06:29:00`|`Other FPS Games`|
+|[Farlight 84 &#45; Anticheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/748744-farlight-84-anticheat-bypass.html)|`2026-04-24 06:28:00`|`Farlight 84`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-24 06:25:00`|`Marvel Rivals`|
+|[NEW VERSION UPDATED OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749456-version-updated-offsets.html)|`2026-04-24 06:23:00`|`Marvel Rivals`|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-04-24 05:57:00`|`Star Wars Battlefront 2`|
 |[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-04-24 05:50:00`|`Call of Duty: Modern Warfare`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-24 05:40:00`|`Rust`|
 |[Are py programs or cpp programs detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749437-py-programs-cpp-programs-detected.html)|`2026-04-24 05:40:00`|`Valorant`|
