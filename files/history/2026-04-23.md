@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How EAC Can Detect DSE Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747840-eac-detect-dse-bypass.html)|`2026-04-23 23:04:00`|`Anti-Cheat Bypass`|
+|[May 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/748734-2026-motm-nominations.html)|`2026-04-23 23:00:00`|`Member of the Month`|
+|[I want to find a way to bypass GameGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/741637-bypass-gameguard.html)|`2026-04-23 22:54:00`|`HELLDIVERS 2`|
 |[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-04-23 21:19:00`|`Valorant`|
 |[TD &#45; Looking For Group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/173331-td-looking.html)|`2026-04-23 21:15:00`|`Tom Clancy's The Division`|
 |[How good actually is FACEiT's anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749460-actually-faceits-anticheat.html)|`2026-04-23 21:09:00`|`Anti-Cheat Bypass`|
