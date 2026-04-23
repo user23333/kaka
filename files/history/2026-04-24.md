@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to make a sdk correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749269-sdk-correctly.html)|`2026-04-24 07:23:00`|`Counter-Strike 2`|
+|[m&#95;bBombPlanted displayed as 192](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749485-m_bbombplanted-displayed-192-a.html)|`2026-04-24 07:19:00`|`Counter-Strike 2`|
+|[AntiAims broken after ag2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749481-antiaims-broken-ag2-update.html)|`2026-04-24 07:08:00`|`Counter-Strike 2`|
+|[manually mapped driver detection vectors &#40;kdmapper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748499-manually-mapped-driver-detection-vectors-kdmapper.html)|`2026-04-24 06:57:00`|`Anti-Cheat Bypass`|
+|[A valid chams system in a deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/749381-valid-chams-system-deadlock.html)|`2026-04-24 06:35:00`|`Deadlock`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-24 06:34:00`|`Other FPS Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-24 06:33:00`|`Alternative Online Mods`|
 |[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-04-24 06:29:00`|`Other FPS Games`|
