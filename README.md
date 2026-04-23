@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-24 05:05:00`|`Overwatch`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-24 05:00:00`|`Counter-Strike 2 Releases`|
+|[Bhop internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748215-bhop-internal-source.html)|`2026-04-24 04:50:00`|`Counter-Strike 2`|
+|[RegenerateWeaponSkins &#43;0x52 patch broken after April 20 update, udpdated offset??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749144-regenerateweaponskins-0x52-patch-broken-april-20-update-udpdated-offset.html)|`2026-04-24 04:48:00`|`Counter-Strike 2`|
+|[Process&#45;Dumper Working every Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746708-process-dumper-game.html)|`2026-04-24 04:36:00`|`Anti-Cheat Bypass`|
+|[TF2 BoneMatrix HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/749367-tf2-bonematrix-help.html)|`2026-04-24 04:22:00`|`Team Fortress 2`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-04-24 04:05:00`|`Counter-Strike 2`|
 |[Delay ban fix Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749297-delay-ban-fix-valorant.html)|`2026-04-24 04:04:00`|`Valorant`|
 |[BDO &#45; NAK and &#95;Auto replays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738431-bdo-nak-_auto-replays.html)|`2026-04-24 03:59:00`|`Other MMORPG and Strategy`|
