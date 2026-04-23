@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chams distortion fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746152-chams-distortion-fix.html)|`2026-04-23 19:53:00`|`Counter-Strike 2`|
+|[colorbot using hsv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748232-colorbot-using-hsv.html)|`2026-04-23 19:51:00`|`Overwatch`|
+|[Need help with bypassing fivem file checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749101-help-bypassing-fivem-file-checks.html)|`2026-04-23 19:50:00`|`Alternative Online Mods`|
+|[AntiAims broken after ag2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749481-antiaims-broken-ag2-update.html)|`2026-04-23 19:49:00`|`Counter-Strike 2`|
+|[little advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749480-little-advice.html)|`2026-04-23 19:47:00`|`Valorant`|
+|[S&box &#40;Garrys Mod 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/516338-box-garrys-mod-2-a.html)|`2026-04-23 19:45:00`|`Other FPS Games`|
 |[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-23 18:56:00`|`Counter-Strike 2 Releases`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-23 18:53:00`|`Escape from Tarkov`|
 |[Changing Combat Points?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/748351-changing-combat.html)|`2026-04-23 18:52:00`|`Combat Master`|
