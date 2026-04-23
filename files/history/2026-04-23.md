@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-23 18:56:00`|`Counter-Strike 2 Releases`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-23 18:53:00`|`Escape from Tarkov`|
+|[Changing Combat Points?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/748351-changing-combat.html)|`2026-04-23 18:52:00`|`Combat Master`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-04-23 18:39:00`|`Other MMORPG and Strategy`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-04-23 18:26:00`|`Marvel Rivals`|
 |[NEW VERSION UPDATED OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749456-version-updated-offsets.html)|`2026-04-23 17:54:00`|`Marvel Rivals`|
 |[CS2 &#45; Bhop Internal &#45; SpaggetiHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749074-cs2-bhop-internal-spaggetihop.html)|`2026-04-23 17:51:00`|`Counter-Strike 2`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-23 17:48:00`|`Counter-Strike 2 Releases`|
