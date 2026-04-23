@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-04-24 04:05:00`|`Counter-Strike 2`|
+|[Delay ban fix Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749297-delay-ban-fix-valorant.html)|`2026-04-24 04:04:00`|`Valorant`|
+|[BDO &#45; NAK and &#95;Auto replays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/738431-bdo-nak-_auto-replays.html)|`2026-04-24 03:59:00`|`Other MMORPG and Strategy`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-04-24 03:57:00`|`Other FPS Games`|
+|[NEW CS UPDATE BONE INDEXES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749047-cs-update-bone-indexes.html)|`2026-04-24 03:54:00`|`Counter-Strike 2`|
 |[How to make an silent aim in internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749286-silent-aim-internal.html)|`2026-04-24 03:12:00`|`Rust`|
 |[Mapping Kernel Driver for Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749365-mapping-kernel-driver-scanner.html)|`2026-04-24 03:09:00`|`Alternative Online Mods`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-24 03:08:00`|`Rainbow Six Siege`|
