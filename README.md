@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-04-23 21:19:00`|`Valorant`|
+|[TD &#45; Looking For Group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/173331-td-looking.html)|`2026-04-23 21:15:00`|`Tom Clancy's The Division`|
+|[How good actually is FACEiT's anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749460-actually-faceits-anticheat.html)|`2026-04-23 21:09:00`|`Anti-Cheat Bypass`|
+|[Dayz external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/749490-dayz-external.html)|`2026-04-23 21:08:00`|`DayZ SA`|
+|[Looking for global float, Acid Lab Sales Multiplier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749489-looking-global-float-acid-lab-sales-multiplier.html)|`2026-04-23 21:04:00`|`Grand Theft Auto V`|
 |[chams distortion fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746152-chams-distortion-fix.html)|`2026-04-23 19:53:00`|`Counter-Strike 2`|
 |[colorbot using hsv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748232-colorbot-using-hsv.html)|`2026-04-23 19:51:00`|`Overwatch`|
 |[Need help with bypassing fivem file checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749101-help-bypassing-fivem-file-checks.html)|`2026-04-23 19:50:00`|`Alternative Online Mods`|
