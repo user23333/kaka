@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Flying Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/747728-flying-glitch.html)|`2026-04-24 15:46:00`|`DayZ SA`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-24 15:46:00`|`ARMA 3`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-24 15:40:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-24 15:33:00`|`Other FPS Games`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-24 15:29:00`|`Deadlock`|
+|[Hi everyone in the modding community&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749579-hi-modding-community.html)|`2026-04-24 15:26:00`|`Grand Theft Auto V`|
+|[Terraria 1&#46;4&#46;5 ReGrind Cheat Table &#40;Update 30/03/2026&#41; &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744656-terraria-1-4-5-regrind-cheat-table-update-30-03-2026-1-a.html)|`2026-04-24 15:21:00`|`Other MMORPG and Strategy`|
+|[cs2 spectator list not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749589-cs2-spectator-list.html)|`2026-04-24 15:14:00`|`Counter-Strike 2`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-24 13:54:00`|`Counter-Strike 2 Releases`|
 |[best external release 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748525-external-release-2026-a.html)|`2026-04-24 13:35:00`|`Counter-Strike 2`|
 |[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-24 13:32:00`|`Valorant`|
