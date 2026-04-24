@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattleBit Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/485886-battlebit-remastered.html)|`2026-04-24 07:58:00`|`BattleBit Remastered`|
+|[EFT On Proxmox machine?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749556-eft-proxmox-machine.html)|`2026-04-24 07:52:00`|`Escape from Tarkov`|
+|[How to optimize performance for external cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749554-optimize-performance-external-cheats.html)|`2026-04-24 07:40:00`|`Counter-Strike 2`|
+|[Im having a problem from m&#95;hPlayerPawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749117-im-m_hplayerpawn.html)|`2026-04-24 07:29:00`|`Counter-Strike 2`|
 |[how to make a sdk correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749269-sdk-correctly.html)|`2026-04-24 07:23:00`|`Counter-Strike 2`|
 |[m&#95;bBombPlanted displayed as 192](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749485-m_bbombplanted-displayed-192-a.html)|`2026-04-24 07:19:00`|`Counter-Strike 2`|
 |[AntiAims broken after ag2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749481-antiaims-broken-ag2-update.html)|`2026-04-24 07:08:00`|`Counter-Strike 2`|
