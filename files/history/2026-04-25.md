@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rivals suggestions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749670-rivals-suggestions.html)|`2026-04-25 05:30:00`|`Marvel Rivals`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-25 05:18:00`|`Other FPS Games`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-04-25 05:18:00`|`THE FINALS`|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-04-25 05:17:00`|`Valorant`|
+|[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-04-25 05:13:00`|`Anti-Cheat Bypass`|
+|[F7 Reporting gets you banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748566-f7-reporting-banned.html)|`2026-04-25 05:12:00`|`Rust`|
+|[g&#95;CiOptions and PreviousMode &#91;EAC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749521-g_cioptions-previousmode-eac.html)|`2026-04-25 05:10:00`|`Anti-Cheat Bypass`|
 |[Fix External Chams&#40;GPU&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749664-fix-external-chams-gpu.html)|`2026-04-25 04:20:00`|`Counter-Strike 2`|
 |[What EasyAntiCheat&#95;EOS&#46;sys Really Does During Startup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749306-easyanticheat_eos-sys-startup.html)|`2026-04-25 04:16:00`|`Anti-Cheat Bypass`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-04-25 04:12:00`|`Other FPS Games`|
