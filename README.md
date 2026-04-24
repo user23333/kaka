@@ -28,9 +28,17 @@
 |3|[Legend of YMIR Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54458)|`2026-04-24 11:44:36`|
 |71|[The Division 2 Hack v3&#46;0&#46;3&#46;1 Cherry Blossom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54456)|`2026-04-24 11:44:36`|
 |27|[MHUR422](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54454)|`2026-04-24 11:44:36`|
+|1|[Unibot Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54469)|`2026-04-24 13:56:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-24 13:54:00`|`Counter-Strike 2 Releases`|
+|[best external release 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748525-external-release-2026-a.html)|`2026-04-24 13:35:00`|`Counter-Strike 2`|
+|[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-24 13:32:00`|`Valorant`|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-04-24 13:30:00`|`Phasmophobia`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-04-24 13:16:00`|`Escape from Tarkov`|
+|[Infinite TPM identities with Pluton fTPM &#40;AMD Gigabyte&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749560-infinite-tpm-identities-pluton-ftpm-amd-gigabyte.html)|`2026-04-24 13:16:00`|`Anti-Cheat Bypass`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-24 13:13:00`|`Other FPS Games`|
 |[Manlar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746198-manlar-cheat.html)|`2026-04-24 11:38:00`|`Counter-Strike 2`|
 |[Name ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749553-name-esp.html)|`2026-04-24 11:29:00`|`Alternative Online Mods`|
 |[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-04-24 11:22:00`|`Other FPS Games`|
