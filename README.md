@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-25 06:52:00`|`Escape from Tarkov`|
+|[MVMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/748559-mvmoney.html)|`2026-04-25 06:52:00`|`Team Fortress 2`|
+|[menu / cheat for RAGEMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749591-menu-cheat-ragemp.html)|`2026-04-25 06:46:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-25 06:44:00`|`Overwatch`|
+|[Internal Offsets and Functional Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749346-internal-offsets-functional-memory-dumper.html)|`2026-04-25 06:41:00`|`Roblox`|
+|[Any hackers from way back still around?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-operations-2-x/42279-hackers.html)|`2026-04-25 06:34:00`|`America's Army Operations 2.x`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-25 06:07:00`|`Call of Duty: Black Ops 7`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-04-25 05:52:00`|`Call of Duty: Black Ops 7`|
 |[Rivals suggestions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749670-rivals-suggestions.html)|`2026-04-25 05:30:00`|`Marvel Rivals`|
