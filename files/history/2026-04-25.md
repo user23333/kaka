@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-25 03:01:00`|`Apex Legends`|
+|[Tarkov Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749618-tarkov-internal.html)|`2026-04-25 03:00:00`|`Escape from Tarkov`|
+|[Defiance Game &#40;Fawkes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/698168-defiance-game-fawkes.html)|`2026-04-25 02:57:00`|`Other MMORPG and Strategy`|
+|[Is there any External base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/749281-external-base.html)|`2026-04-25 02:53:00`|`Overwatch`|
+|[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-04-25 02:53:00`|`Other MMORPG and Strategy`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-04-25 02:45:00`|`Other Games`|
 |[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-04-25 02:00:00`|`Other FPS Games`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-25 01:59:00`|`Other FPS Games`|
 |[87 vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748681-87-vulnerable-drivers.html)|`2026-04-25 01:55:00`|`Anti-Cheat Bypass`|
