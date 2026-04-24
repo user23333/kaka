@@ -25,9 +25,15 @@
 |381|[Essentialsv1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54447)|`2026-04-25 00:35:29`|
 |37|[5&#46;3&#46;2&#45;1163706&#43;pioneer&#95;1&#46;24&#46;x&#45;PioneerGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54446)|`2026-04-25 00:35:29`|
 |166|[cs2&#45;catalyst&#45;1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54445)|`2026-04-25 00:35:29`|
+|5|[Heartopia Helper 1&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54491)|`2026-04-25 07:32:12`|
+|1|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54488)|`2026-04-25 07:32:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-04-25 07:25:00`|`Garry's Mod`|
+|[INV changer: UV Mismatch after AniGraph2 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749680-inv-changer-uv-mismatch-anigraph2-update.html)|`2026-04-25 07:11:00`|`Counter-Strike 2`|
+|[Last Flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748371-flag.html)|`2026-04-25 07:10:00`|`Other FPS Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-25 06:57:00`|`Escape from Tarkov`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-25 06:52:00`|`Escape from Tarkov`|
 |[MVMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/748559-mvmoney.html)|`2026-04-25 06:52:00`|`Team Fortress 2`|
 |[menu / cheat for RAGEMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749591-menu-cheat-ragemp.html)|`2026-04-25 06:46:00`|`Alternative Online Mods`|
