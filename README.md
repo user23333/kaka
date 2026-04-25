@@ -26,9 +26,22 @@
 |201|[MHUR422](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54454)|`2026-04-26 00:24:22`|
 |360|[cs2ext&#45;v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54449)|`2026-04-26 00:24:22`|
 |970|[cs2&#45;external&#45;1&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54448)|`2026-04-26 00:24:22`|
+|1|[jjyy external updated 25&#46;04&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54499)|`2026-04-26 06:19:11`|
+|1|[bo1 unlock dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54497)|`2026-04-26 06:19:11`|
+|2|[chudette&#45;internal&#45;v2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54496)|`2026-04-26 06:19:11`|
+|1|[NX Chams Brasil Server 25/04 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54495)|`2026-04-26 06:19:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NX Chams Combat Arms Brasil Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749373-nx-chams-combat-arms-brasil-server.html)|`2026-04-26 06:18:00`|`Combat Arms`|
+|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-04-26 06:17:00`|`Counter-Strike 2`|
+|[chudette internal multi v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749720-chudette-internal-multi-v2.html)|`2026-04-26 06:15:00`|`Counter-Strike 2`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-26 06:13:00`|`Deadlock`|
+|[what is wrong with my offsets for schema and offsets after a2g update nothing works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749805-wrong-offsets-schema-offsets-a2g-update.html)|`2026-04-26 06:12:00`|`Counter-Strike 2`|
+|[SOT HG Exploit &#45; Feb 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/739824-sot-hg-exploit-feb-2026-a.html)|`2026-04-26 06:09:00`|`Sea of Thieves`|
+|[zombies DLC unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/749751-zombies-dlc-unlocker.html)|`2026-04-26 06:09:00`|`Call of Duty: Black Ops`|
+|[Shopping Spree Heist IDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/733557-shopping-spree-heist-ids.html)|`2026-04-26 06:09:00`|`Payday 3`|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-04-26 06:05:00`|`Garry's Mod`|
 |[Safe driver bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748668-safe-driver-bypass-eac.html)|`2026-04-26 05:46:00`|`Apex Legends`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-04-26 05:43:00`|`Valorant`|
 |[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-26 05:42:00`|`Valorant`|
