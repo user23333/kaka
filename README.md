@@ -27,9 +27,16 @@
 |166|[cs2&#45;catalyst&#45;1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54445)|`2026-04-25 00:35:29`|
 |5|[Heartopia Helper 1&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54491)|`2026-04-25 07:32:12`|
 |1|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54488)|`2026-04-25 07:32:12`|
+|1|[CHAMS Combat Arms Brasil Server 22/04/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54455)|`2026-04-25 08:06:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-25 08:05:00`|`Other Games`|
+|[NX Chams Combat Arms Brasil Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749373-nx-chams-combat-arms-brasil-server.html)|`2026-04-25 07:59:00`|`Combat Arms`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-25 07:52:00`|`Rainbow Six Siege`|
+|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-04-25 07:40:00`|`Overwatch`|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-04-25 07:37:00`|`Star Wars Battlefront 2`|
+|[best external release 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748525-external-release-2026-a.html)|`2026-04-25 07:36:00`|`Counter-Strike 2`|
 |[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-04-25 07:25:00`|`Garry's Mod`|
 |[INV changer: UV Mismatch after AniGraph2 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749680-inv-changer-uv-mismatch-anigraph2-update.html)|`2026-04-25 07:11:00`|`Counter-Strike 2`|
 |[Last Flag](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748371-flag.html)|`2026-04-25 07:10:00`|`Other FPS Games`|
