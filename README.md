@@ -34,6 +34,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Custom PAK's for agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747702-custom-paks-agents.html)|`2026-04-25 17:30:00`|`Valorant`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-25 17:28:00`|`Counter-Strike 2 Releases`|
+|[remove decals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749632-remove-decals.html)|`2026-04-25 17:25:00`|`Counter-Strike 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-04-25 17:21:00`|`Palworld`|
+|[PAC3 Dumper Exodia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/749700-pac3-dumper-exodia.html)|`2026-04-25 17:13:00`|`Garry's Mod`|
+|[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-25 17:08:00`|`Valorant`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-04-25 17:06:00`|`Other MMORPG and Strategy`|
+|[Mongil: Star Dive Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748596-mongil-star-dive-hack.html)|`2026-04-25 17:03:00`|`Other MMORPG and Strategy`|
 |[The Division 2 Byepass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742779-division-2-byepass-eac.html)|`2026-04-25 16:38:00`|`Tom Clancy's The Division`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-25 16:36:00`|`Tom Clancy's The Division`|
 |[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-04-25 16:33:00`|`ARC Raiders`|
