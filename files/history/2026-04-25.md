@@ -13,6 +13,7 @@
 |4|[cs2 last offsets file after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749119-cs2-offsets-file-update.html)|`2026-04-25 00:35:29`|`counter-strike-2-a`|
 |9|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-04-25 01:31:38`|`counter-strike-2-releases`|
 |12|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-04-25 11:27:46`|`overwatch`|
+|10|[apex legends weights &#40;100k images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748767-apex-legends-weights-100k-images.html)|`2026-04-25 14:48:00`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hello from a Unity Beginner & Aspiring Game Researcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/742055-hello-unity-beginner-aspiring-game-researcher.html)|`2026-04-25 14:47:00`|`Introductions`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-25 14:37:00`|`ARMA 3`|
+|[SastashaFied T4 MP &#124; Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-5-world-at-war/728847-sastashafied-t4-mp-internal-multihack.html)|`2026-04-25 14:28:00`|`Call of Duty 5: World at War`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-04-25 14:25:00`|`Counter-Strike 2`|
 |[Need actual pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749656-actual-pattern.html)|`2026-04-25 13:15:00`|`Counter-Strike 2`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-04-25 13:10:00`|`Rainbow Six Siege`|
 |[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-04-25 13:07:00`|`Tom Clancy's The Division`|
