@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit Dropper &#91;CT Table&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/680681-super-credit-dropper-ct-table.html)|`2026-04-25 22:24:00`|`HELLDIVERS 2`|
+|[account switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749747-account-switcher.html)|`2026-04-25 22:22:00`|`Alternative Online Mods`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-25 22:14:00`|`Alternative Online Mods`|
+|[Is there any way to write to memory in a EAC game, even just once?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749745-write-memory-eac-game.html)|`2026-04-25 22:09:00`|`Anti-Cheat Bypass`|
+|[Valorant Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/745816-valorant-offsets.html)|`2026-04-25 21:55:00`|`Valorant`|
 |[How to make custom missions?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/749737-custom-missions.html)|`2026-04-25 21:31:00`|`HELLDIVERS 2`|
 |[Hired Ops ESP Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746746-hired-ops-esp-steam-version.html)|`2026-04-25 21:26:00`|`Other FPS Games`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-25 21:17:00`|`ARC Raiders`|
