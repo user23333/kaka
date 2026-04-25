@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay Hijack Needed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/749815-overlay-hijack.html)|`2026-04-26 07:31:00`|`Call of Duty: Black Ops 7`|
+|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-04-26 07:23:00`|`Overwatch`|
+|[Fivem Native Hook External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749596-fivem-native-hook-external.html)|`2026-04-26 07:21:00`|`Alternative Online Mods`|
+|[F7 Reporting gets you banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748566-f7-reporting-banned.html)|`2026-04-26 07:13:00`|`Rust`|
 |[Vanguard Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749750-vanguard-emulator.html)|`2026-04-26 06:51:00`|`Valorant`|
 |[Polygon ESP Aimbot Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749657-polygon-esp-aimbot-steam-version.html)|`2026-04-26 06:46:00`|`Other FPS Games`|
 |[cs2 chicken esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749357-cs2-chicken-esp.html)|`2026-04-26 06:42:00`|`Counter-Strike 2`|
