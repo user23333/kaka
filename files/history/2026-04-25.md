@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-25 19:39:00`|`Among Us`|
+|[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-25 19:25:00`|`Valorant`|
+|[Help identifying a custom &#46;NET obfuscator &#40;Methods appearing empty in dnSpy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748918-help-identifying-custom-net-obfuscator-methods-appearing-empty-dnspy.html)|`2026-04-25 19:21:00`|`General Programming and Reversing`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-04-25 19:21:00`|`Grand Theft Auto V`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-25 19:12:00`|`Other FPS Games`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-25 19:09:00`|`HELLDIVERS 2`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-25 19:09:00`|`Counter-Strike 2 Releases`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-25 18:37:00`|`Other Games`|
 |[FiveM Native patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749322-fivem-native-patterns.html)|`2026-04-25 18:37:00`|`Alternative Online Mods`|
 |[How to bypass the generals online alternative account checking algo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/749564-bypass-generals-online-alternative-account-checking-algo.html)|`2026-04-25 18:22:00`|`Generals and Zero Hour`|
