@@ -12,6 +12,7 @@
 |30|[F7 Reporting gets you banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/748566-f7-reporting-banned.html)|`2026-04-25 00:35:29`|`rust`|
 |4|[cs2 last offsets file after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749119-cs2-offsets-file-update.html)|`2026-04-25 00:35:29`|`counter-strike-2-a`|
 |9|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-04-25 01:31:38`|`counter-strike-2-releases`|
+|12|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-04-25 11:27:46`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749707-delta-force.html)|`2026-04-25 11:09:00`|`Other FPS Games`|
+|[win10 2004 and 20h2 &#95;KPRCB struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749706-win10-2004-20h2-_kprcb-struct.html)|`2026-04-25 10:57:00`|`Anti-Cheat Bypass`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-04-25 10:57:00`|`Overwatch`|
+|[driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748914-driver.html)|`2026-04-25 10:56:00`|`Grand Theft Auto V`|
+|[CS2 external overlay jitter &#45; is this a hard limit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749705-cs2-external-overlay-jitter-hard-limit.html)|`2026-04-25 10:54:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747742-hero-ultra-rumble-internal.html)|`2026-04-25 08:05:00`|`Other Games`|
 |[NX Chams Combat Arms Brasil Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749373-nx-chams-combat-arms-brasil-server.html)|`2026-04-25 07:59:00`|`Combat Arms`|
 |[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-04-25 07:52:00`|`Rainbow Six Siege`|
