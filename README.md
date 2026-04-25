@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-04-25 20:07:00`|`Phasmophobia`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-04-25 19:39:00`|`Among Us`|
 |[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-25 19:25:00`|`Valorant`|
 |[Help identifying a custom &#46;NET obfuscator &#40;Methods appearing empty in dnSpy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748918-help-identifying-custom-net-obfuscator-methods-appearing-empty-dnspy.html)|`2026-04-25 19:21:00`|`General Programming and Reversing`|
