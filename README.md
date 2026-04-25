@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-25 18:37:00`|`Other Games`|
+|[FiveM Native patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749322-fivem-native-patterns.html)|`2026-04-25 18:37:00`|`Alternative Online Mods`|
 |[How to bypass the generals online alternative account checking algo?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/749564-bypass-generals-online-alternative-account-checking-algo.html)|`2026-04-25 18:22:00`|`Generals and Zero Hour`|
 |[WarThunder DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/713460-warthunder-dma.html)|`2026-04-25 18:21:00`|`Other MMORPG and Strategy`|
 |[Osu&#33;Lazer Relax/Assist/Auto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749414-osu-lazer-relax-assist-auto.html)|`2026-04-25 18:19:00`|`Other Games`|
