@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 smoke color changer not working c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749765-cs2-smoke-color-changer.html)|`2026-04-26 01:50:00`|`Counter-Strike 2`|
+|[dupe refresh tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748129-dupe-refresh-tool.html)|`2026-04-26 01:48:00`|`ARC Raiders`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-26 01:45:00`|`Other FPS Games`|
+|[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-04-26 01:44:00`|`ARC Raiders`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-26 01:43:00`|`Overwatch`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-26 01:40:00`|`Escape from Tarkov`|
+|[FiveM Native patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749322-fivem-native-patterns.html)|`2026-04-26 01:30:00`|`Alternative Online Mods`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-04-26 01:25:00`|`Other FPS Games`|
+|[Executing console commands? &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749631-executing-console-commands-internal.html)|`2026-04-26 01:25:00`|`Counter-Strike 2`|
 |[Remove Distance Requirement between Bio Scans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/749761-remove-distance-requirement-bio-scans.html)|`2026-04-26 01:03:00`|`Elite: Dangerous`|
 |[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-26 01:02:00`|`Other Games`|
 |[HWID Ban Wave?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749667-hwid-ban-wave.html)|`2026-04-26 01:01:00`|`Marvel Rivals`|
