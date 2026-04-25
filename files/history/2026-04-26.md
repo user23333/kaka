@@ -30,9 +30,19 @@
 |1|[bo1 unlock dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54497)|`2026-04-26 06:19:11`|
 |2|[chudette&#45;internal&#45;v2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54496)|`2026-04-26 06:19:11`|
 |1|[NX Chams Brasil Server 25/04 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54495)|`2026-04-26 06:19:11`|
+|3|[EAC raw output](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54500)|`2026-04-26 06:58:16`|
+|1|[pacdumper&#45;exodia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54494)|`2026-04-26 06:58:16`|
+|3|[yim menu legacy ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54493)|`2026-04-26 06:58:16`|
+|7|[Airport Security Sucks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54492)|`2026-04-26 06:58:16`|
+|4|[MHUR 424](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54489)|`2026-04-26 06:58:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749750-vanguard-emulator.html)|`2026-04-26 06:51:00`|`Valorant`|
+|[Polygon ESP Aimbot Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749657-polygon-esp-aimbot-steam-version.html)|`2026-04-26 06:46:00`|`Other FPS Games`|
+|[cs2 chicken esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749357-cs2-chicken-esp.html)|`2026-04-26 06:42:00`|`Counter-Strike 2`|
+|[Hell Let Loose Vietnam DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749812-hell-loose-vietnam-dma-esp.html)|`2026-04-26 06:38:00`|`Other FPS Games`|
+|[What EasyAntiCheat&#95;EOS&#46;sys Really Does During Startup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749306-easyanticheat_eos-sys-startup.html)|`2026-04-26 06:37:00`|`Anti-Cheat Bypass`|
 |[NX Chams Combat Arms Brasil Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749373-nx-chams-combat-arms-brasil-server.html)|`2026-04-26 06:18:00`|`Combat Arms`|
 |[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-04-26 06:17:00`|`Counter-Strike 2`|
 |[chudette internal multi v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749720-chudette-internal-multi-v2.html)|`2026-04-26 06:15:00`|`Counter-Strike 2`|
