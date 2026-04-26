@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-04-26 23:44:00`|`Other FPS Games`|
+|[Whats the most careless and  fastest way of adding money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/749846-whats-careless-fastest-adding-money.html)|`2026-04-26 23:44:00`|`Grand Theft Auto V`|
+|[RAGEMP Hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749762-ragemp-hacks.html)|`2026-04-26 23:38:00`|`Alternative Online Mods`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-04-26 22:58:00`|`Other MMORPG and Strategy`|
 |[Name Changer Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749885-name-changer-method.html)|`2026-04-26 22:28:00`|`Counter-Strike 2`|
 |[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-04-26 22:10:00`|`Valorant`|
