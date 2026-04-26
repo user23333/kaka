@@ -39,6 +39,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gmod Offsets/Netvars Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735362-gmod-offsets-netvars-dumper-x64.html)|`2026-04-26 17:29:00`|`Garry's Mod`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-26 17:28:00`|`Counter-Strike 2 Releases`|
+|[any public shared exploits &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749801-public-shared-exploits-external.html)|`2026-04-26 17:27:00`|`Alternative Online Mods`|
+|[Ready Or Not &#40;RoN&#41; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749592-ready-ron-cheat.html)|`2026-04-26 17:26:00`|`Other FPS Games`|
+|[Osu&#33;Lazer Relax/Assist/Auto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749414-osu-lazer-relax-assist-auto.html)|`2026-04-26 17:13:00`|`Other Games`|
+|[Camera antiaim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749853-camera-antiaim.html)|`2026-04-26 17:11:00`|`Counter-Strike 2`|
+|[Multi Shot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/749850-multi-shot.html)|`2026-04-26 17:01:00`|`Combat Arms`|
 |[Need help with CPlayerInventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749732-help-cplayerinventory.html)|`2026-04-26 16:36:00`|`Counter-Strike 2`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-04-26 16:30:00`|`Other Games`|
 |[BloodStrike &#45; Steam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746317-bloodstrike-steam-internal.html)|`2026-04-26 16:25:00`|`Other FPS Games`|
