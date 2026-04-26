@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-27 03:24:00`|`Other FPS Games`|
+|[HWID BANNED GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745898-hwid-banned-gg.html)|`2026-04-27 03:23:00`|`Apex Legends`|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2026-04-27 03:19:00`|`Team Fortress 2`|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-27 03:18:00`|`Other FPS Games`|
+|[looking for valorant skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749802-looking-valorant-skin-changer.html)|`2026-04-27 03:12:00`|`Valorant`|
+|[Rivals suggestions&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/749670-rivals-suggestions.html)|`2026-04-27 03:12:00`|`Marvel Rivals`|
+|[ida&#95;with&#95;struct&#95;py3 apply&#95;type failing on all functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749957-ida_with_struct_py3-apply_type-failing-functions.html)|`2026-04-27 03:07:00`|`Rust`|
 |[source or release internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/749950-source-release-internal.html)|`2026-04-27 02:27:00`|`Call of Duty: Modern Warfare`|
 |[VeroAPIChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749872-veroapichanger.html)|`2026-04-27 02:27:00`|`Valorant`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-27 02:25:00`|`Other FPS Games`|
