@@ -38,9 +38,19 @@
 |4|[MHUR 424](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54489)|`2026-04-26 06:58:16`|
 |1|[UCVALTEST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54512)|`2026-04-26 18:25:03`|
 |1|[VeroAPI Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54516)|`2026-04-26 20:31:58`|
+|3|[HYPERDAYZ&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54517)|`2026-04-26 21:47:00`|
+|1|[Samurais&#95;Scripts&#95;v1&#46;9&#46;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54515)|`2026-04-26 21:47:00`|
+|3|[UE Dumper V1 &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54510)|`2026-04-26 21:47:00`|
+|2|[UE Dumper V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54509)|`2026-04-26 21:47:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-26 21:46:00`|`HELLDIVERS 2`|
+|[Super Earth Technology](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/749602-super-earth-technology.html)|`2026-04-26 21:45:00`|`HELLDIVERS 2`|
+|[Funny chams attempt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749865-funny-chams-attempt.html)|`2026-04-26 21:45:00`|`Counter-Strike 2`|
+|[UE Dumper V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/749845-ue-dumper-v1.html)|`2026-04-26 21:44:00`|`Unreal Engine 4`|
+|[ESP Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749907-esp-help.html)|`2026-04-26 21:42:00`|`Counter-Strike 2`|
+|[smoke color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749847-smoke-color.html)|`2026-04-26 21:37:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-26 20:31:00`|`Other FPS Games`|
 |[Any cheats for Homm3 HotA ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749598-cheats-homm3-hota.html)|`2026-04-26 20:30:00`|`Other Games`|
 |[VeroAPIChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749872-veroapichanger.html)|`2026-04-26 20:27:00`|`Valorant`|
