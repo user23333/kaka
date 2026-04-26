@@ -26,9 +26,18 @@
 |114|[chudette&#45;internal&#45;v2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54496)|`2026-04-27 00:26:28`|
 |1|[foxhole&#95;sdk&#95;26april&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54524)|`2026-04-27 01:53:30`|
 |1|[SOT SDK &#40;3&#46;7&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54504)|`2026-04-27 01:53:30`|
+|2|[morphoaimbotow&#95;fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54527)|`2026-04-27 04:48:08`|
+|1|[OW2 base colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54526)|`2026-04-27 04:48:08`|
+|1|[il2cpp&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54508)|`2026-04-27 04:48:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-27 04:47:00`|`Counter-Strike 2 Releases`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-27 04:45:00`|`Counter-Strike 2`|
+|[ESP Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749907-esp-help.html)|`2026-04-27 04:38:00`|`Counter-Strike 2`|
+|[Simple Colorbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/749931-simple-colorbot.html)|`2026-04-27 04:38:00`|`Overwatch`|
+|[Internal Offsets and Functional Memory Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749346-internal-offsets-functional-memory-dumper.html)|`2026-04-27 04:36:00`|`Roblox`|
+|[BERSERK SKINS/INVENTORYChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/726824-berserk-skins-inventorychanger.html)|`2026-04-27 04:34:00`|`Counter-Strike 2 Releases`|
 |[CocaineHook&#46; CS2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738897-cocainehook-cs2-internal-cheat.html)|`2026-04-27 04:00:00`|`Counter-Strike 2 Releases`|
 |[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-27 03:58:00`|`Other Games`|
 |[Lightning fix after AG2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749966-lightning-fix-ag2-update.html)|`2026-04-27 03:53:00`|`Counter-Strike 2`|
