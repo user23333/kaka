@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Please help me CUserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749947-please-help-cusercmd.html)|`2026-04-27 01:04:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-27 01:03:00`|`Other Games`|
+|[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-27 00:59:00`|`Valorant`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-04-27 00:55:00`|`Other Single Player Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-27 00:54:00`|`Rust`|
+|[UE Dumper V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/749845-ue-dumper-v1.html)|`2026-04-27 00:51:00`|`Unreal Engine 4`|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-04-27 00:48:00`|`Other Games`|
+|[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-04-27 00:45:00`|`Other MMORPG and Strategy`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-27 00:40:00`|`Other FPS Games`|
 |[Foxhole Simple opensource Semi&#45;legit cheat&#45;mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748806-foxhole-simple-opensource-semi-legit-cheat-mod.html)|`2026-04-27 00:25:00`|`Other MMORPG and Strategy`|
 |[Foxhole SDK dump &#40;27&#46;03&#46;2026&#41; &#43; dumper source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745154-foxhole-sdk-dump-27-03-2026-dumper-source.html)|`2026-04-27 00:17:00`|`Other MMORPG and Strategy`|
 |[CS2 Internal Chams draw distance issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749841-cs2-internal-chams-draw-distance-issue.html)|`2026-04-27 00:15:00`|`Counter-Strike 2`|
