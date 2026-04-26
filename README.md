@@ -45,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Name Changer Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749885-name-changer-method.html)|`2026-04-26 22:28:00`|`Counter-Strike 2`|
+|[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-04-26 22:10:00`|`Valorant`|
+|[Apex Dumper & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/749604-apex-dumper-offsets.html)|`2026-04-26 22:09:00`|`Apex Legends`|
+|[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-04-26 22:09:00`|`Anti-Cheat Bypass`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-26 22:08:00`|`Other FPS Games`|
 |[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-04-26 21:46:00`|`HELLDIVERS 2`|
 |[Super Earth Technology](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/749602-super-earth-technology.html)|`2026-04-26 21:45:00`|`HELLDIVERS 2`|
 |[Funny chams attempt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749865-funny-chams-attempt.html)|`2026-04-26 21:45:00`|`Counter-Strike 2`|
