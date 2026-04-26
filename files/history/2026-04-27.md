@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Roblox External/Internal Script &#124; Keyless &#124; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749874-simple-roblox-external-internal-script-keyless-esp-aimbot.html)|`2026-04-27 05:13:00`|`Roblox`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-27 05:07:00`|`Overwatch`|
+|[Hunt: Showdown &#91;DMA&#93; &#91;ESP/AIMBOT&#93; &#91;Full Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734037-hunt-showdown-dma-esp-aimbot-source.html)|`2026-04-27 05:05:00`|`Other MMORPG and Strategy`|
+|[cs2 chat spammer method c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749868-cs2-chat-spammer-method.html)|`2026-04-27 05:03:00`|`Counter-Strike 2`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-04-27 05:02:00`|`Other Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-04-27 05:01:00`|`Rainbow Six Siege`|
+|[How to hook CreateMove?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746452-hook-createmove.html)|`2026-04-27 05:01:00`|`Counter-Strike 2`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-27 04:47:00`|`Counter-Strike 2 Releases`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-27 04:45:00`|`Counter-Strike 2`|
 |[ESP Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749907-esp-help.html)|`2026-04-27 04:38:00`|`Counter-Strike 2`|
