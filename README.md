@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-04-27 07:03:00`|`Other Games`|
+|[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-04-27 06:59:00`|`Counter-Strike 2`|
+|[How to make region changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749988-region-changer.html)|`2026-04-27 06:54:00`|`Counter-Strike 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-04-27 06:51:00`|`Tom Clancy's The Division`|
+|[phyton triggerbot very simple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749987-phyton-triggerbot-simple.html)|`2026-04-27 06:46:00`|`Counter-Strike 2`|
 |[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-04-27 06:22:00`|`Rainbow Six Siege`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-27 06:15:00`|`Escape from Tarkov`|
 |[help me to update my catalyst external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749844-help-update-catalyst-external.html)|`2026-04-27 06:04:00`|`Counter-Strike 2`|
