@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 2 Byepass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742779-division-2-byepass-eac.html)|`2026-04-26 15:21:00`|`Tom Clancy's The Division`|
+|[CS2 Cheat Release – ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/728418-cs2-cheat-release-esp-aimbot.html)|`2026-04-26 15:16:00`|`Counter-Strike 2`|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-04-26 15:11:00`|`Other FPS Games`|
+|[Strange amount of cheaters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749146-strange-amount-cheaters.html)|`2026-04-26 14:59:00`|`Escape from Tarkov`|
+|[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-26 14:57:00`|`Anti-Cheat Bypass`|
 |[how to unlock hideout customizations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749836-unlock-hideout-customizations.html)|`2026-04-26 13:40:00`|`Escape from Tarkov`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-04-26 13:39:00`|`Other FPS Games`|
 |[Are there any good working cheats right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/739774-cheats.html)|`2026-04-26 13:30:00`|`Team Fortress 2`|
