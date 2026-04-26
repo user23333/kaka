@@ -11,6 +11,7 @@
 |20|[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-27 00:26:28`|`anti-cheat-bypass`|
 |9|[C&#43;&#43; VPK Parser&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749116-vpk-parser.html)|`2026-04-27 00:26:28`|`counter-strike-2-a`|
 |25|[Airport Security Sucks Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748986-airport-security-sucks-cheat.html)|`2026-04-27 00:26:28`|`other-games`|
+|4|[cs2 last offsets file after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749119-cs2-offsets-file-update.html)|`2026-04-27 05:55:38`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Block input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749982-block-input.html)|`2026-04-27 05:55:00`|`Alternative Online Mods`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-04-27 05:49:00`|`THE FINALS`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-04-27 05:37:00`|`Apex Legends`|
+|[Funny chams attempt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749865-funny-chams-attempt.html)|`2026-04-27 05:34:00`|`Counter-Strike 2`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-04-27 05:33:00`|`Counter-Strike 2`|
 |[Simple Roblox External/Internal Script &#124; Keyless &#124; ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749874-simple-roblox-external-internal-script-keyless-esp-aimbot.html)|`2026-04-27 05:13:00`|`Roblox`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-04-27 05:07:00`|`Overwatch`|
 |[Hunt: Showdown &#91;DMA&#93; &#91;ESP/AIMBOT&#93; &#91;Full Source&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/734037-hunt-showdown-dma-esp-aimbot-source.html)|`2026-04-27 05:05:00`|`Other MMORPG and Strategy`|
