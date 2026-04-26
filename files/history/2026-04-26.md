@@ -37,9 +37,15 @@
 |7|[Airport Security Sucks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54492)|`2026-04-26 06:58:16`|
 |4|[MHUR 424](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54489)|`2026-04-26 06:58:16`|
 |1|[UCVALTEST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54512)|`2026-04-26 18:25:03`|
+|1|[VeroAPI Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54516)|`2026-04-26 20:31:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-04-26 20:31:00`|`Other FPS Games`|
+|[Any cheats for Homm3 HotA ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749598-cheats-homm3-hota.html)|`2026-04-26 20:30:00`|`Other Games`|
+|[VeroAPIChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749872-veroapichanger.html)|`2026-04-26 20:27:00`|`Valorant`|
+|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-04-26 20:25:00`|`Tom Clancy's The Division`|
+|[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-04-26 20:22:00`|`Other MMORPG and Strategy`|
 |[cs2 chat spammer method c&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749868-cs2-chat-spammer-method.html)|`2026-04-26 19:47:00`|`Counter-Strike 2`|
 |[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-04-26 19:45:00`|`Other FPS Games`|
 |[&#91;TITLE&#93; &#91;Source/Alpha&#93; Advanced AMD SVM Hypervisor &#40;Blue Pill&#41; &#45; Stealth Framework fo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/749867-title-source-alpha-advanced-amd-svm-hypervisor-blue-pill-stealth-framework-fo.html)|`2026-04-26 19:41:00`|`DayZ SA`|
