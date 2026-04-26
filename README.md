@@ -12,6 +12,7 @@
 |9|[C&#43;&#43; VPK Parser&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749116-vpk-parser.html)|`2026-04-27 00:26:28`|`counter-strike-2-a`|
 |25|[Airport Security Sucks Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748986-airport-security-sucks-cheat.html)|`2026-04-27 00:26:28`|`other-games`|
 |4|[cs2 last offsets file after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749119-cs2-offsets-file-update.html)|`2026-04-27 05:55:38`|`counter-strike-2-a`|
+|13|[CS2 &#45; Bhop Internal &#45; SpaggetiHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749074-cs2-bhop-internal-spaggetihop.html)|`2026-04-27 07:50:45`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MOUSE: P&#46;I&#46; For Hire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/748368-mouse-hire.html)|`2026-04-27 07:42:00`|`Cheat Engine Tables`|
+|[Dll injection crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749822-dll-injection-crash.html)|`2026-04-27 07:19:00`|`Valorant`|
+|[Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749990-visible-check.html)|`2026-04-27 07:17:00`|`Rust`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-04-27 07:04:00`|`Other FPS Games`|
 |[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-04-27 07:03:00`|`Other Games`|
 |[Implementing Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741538-implementing-seed-trigger.html)|`2026-04-27 06:59:00`|`Counter-Strike 2`|
 |[How to make region changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749988-region-changer.html)|`2026-04-27 06:54:00`|`Counter-Strike 2`|
