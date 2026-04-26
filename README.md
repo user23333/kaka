@@ -24,9 +24,19 @@
 |35|[jjyy external updated 25&#46;04&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54499)|`2026-04-27 00:26:28`|
 |5|[bo1 unlock dlc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54497)|`2026-04-27 00:26:28`|
 |114|[chudette&#45;internal&#45;v2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54496)|`2026-04-27 00:26:28`|
+|1|[foxhole&#95;sdk&#95;26april&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54524)|`2026-04-27 01:53:30`|
+|1|[SOT SDK &#40;3&#46;7&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54504)|`2026-04-27 01:53:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What EasyAntiCheat&#95;EOS&#46;sys Really Does During Startup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749306-easyanticheat_eos-sys-startup.html)|`2026-04-27 01:52:00`|`Anti-Cheat Bypass`|
+|[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-04-27 01:52:00`|`Valorant`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-04-27 01:50:00`|`Sea of Thieves`|
+|[BloodStrike &#45; Steam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746317-bloodstrike-steam-internal.html)|`2026-04-27 01:49:00`|`Other FPS Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-27 01:46:00`|`Counter-Strike 2 Releases`|
+|[🚀 Calling all recoil experts&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749941-calling-recoil-experts.html)|`2026-04-27 01:44:00`|`Rust`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-04-27 01:43:00`|`Escape from Tarkov`|
+|[Polygon ESP Aimbot Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749657-polygon-esp-aimbot-steam-version.html)|`2026-04-27 01:42:00`|`Other FPS Games`|
 |[Please help me CUserCmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749947-please-help-cusercmd.html)|`2026-04-27 01:04:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-27 01:03:00`|`Other Games`|
 |[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-27 00:59:00`|`Valorant`|
