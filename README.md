@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE Screenshot methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749181-ace-screenshot-methods.html)|`2026-04-28 06:54:00`|`Anti-Cheat Bypass`|
+|[online without battleye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/748602-online-battleye.html)|`2026-04-28 06:54:00`|`Rainbow Six Siege`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-28 06:53:00`|`Deadlock`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-04-28 06:51:00`|`Other Games`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-04-28 06:49:00`|`Other Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-04-28 06:48:00`|`Payday 3`|
+|[May an old dude ask a couple of simple questions before I take the plunge&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/748541-dude-couple-simple-questions-plunge.html)|`2026-04-28 06:45:00`|`Tom Clancy's The Division`|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-04-28 06:44:00`|`Call of Duty: Black Ops 2`|
 |[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-28 05:56:00`|`Valorant`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-28 05:55:00`|`ARMA 3`|
 |[Methods for detecting kernel unsigned code execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749630-methods-detecting-kernel-unsigned-code-execution.html)|`2026-04-28 05:54:00`|`Anti-Cheat Bypass`|
