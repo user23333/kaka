@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-27 22:35:00`|`ARC Raiders`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-04-27 22:35:00`|`Red Dead Redemption 2`|
+|[WARNO cheats no fog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743529-warno-cheats-fog.html)|`2026-04-27 22:32:00`|`Other MMORPG and Strategy`|
 |[No BE, yet able to join game servers with BE enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749795-able-join-game-servers-enabled.html)|`2026-04-27 20:47:00`|`Anti-Cheat Bypass`|
 |[Material Dumper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747156-material-dumper-dll.html)|`2026-04-27 20:32:00`|`Rust`|
 |[Reliable Stealth Overlay Methods for PUBG &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748954-reliable-stealth-overlay-methods-pubg-2026-a.html)|`2026-04-27 20:31:00`|`Anti-Cheat Bypass`|
