@@ -14,6 +14,7 @@
 |9|[chudette internal multi v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749720-chudette-internal-multi-v2.html)|`2026-04-28 01:41:08`|`counter-strike-2-a`|
 |10|[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-28 02:52:45`|`valorant`|
 |9|[ACE Screenshot methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749181-ace-screenshot-methods.html)|`2026-04-28 04:00:53`|`anti-cheat-bypass`|
+|9|[epic full working triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749675-epic-triggerbot.html)|`2026-04-28 05:06:04`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-04-28 05:05:00`|`Anti-Cheat Bypass`|
+|[Airport Security Sucks Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748986-airport-security-sucks-cheat.html)|`2026-04-28 04:56:00`|`Other Games`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-04-28 04:54:00`|`Other FPS Games`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-28 04:52:00`|`Other Games`|
+|[FModel Sot Aes Key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/750102-fmodel-sot-aes-key.html)|`2026-04-28 04:51:00`|`Sea of Thieves`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only ESP/radar &#40;legit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-esp-radar-legit.html)|`2026-04-28 04:48:00`|`Counter-Strike 2 Releases`|
+|[cant get base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/750098-cant-base-address.html)|`2026-04-28 04:39:00`|`Marvel Rivals`|
+|[TPM Trolling no hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748981-tpm-trolling-hooks.html)|`2026-04-28 04:25:00`|`Anti-Cheat Bypass`|
 |[BattleBit Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/485886-battlebit-remastered.html)|`2026-04-28 04:00:00`|`BattleBit Remastered`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-04-28 03:57:00`|`Farlight 84`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-04-28 03:56:00`|`Escape from Tarkov`|
