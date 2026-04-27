@@ -34,6 +34,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Smart Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/750000-r6-smart-recoil-helper.html)|`2026-04-27 09:09:00`|`Rainbow Six Siege`|
+|[BE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748791-dump.html)|`2026-04-27 08:56:00`|`Grand Theft Auto V`|
+|[Need help val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749292-help-val-5-a.html)|`2026-04-27 08:50:00`|`Valorant`|
+|[Super Earth Technology](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/749602-super-earth-technology.html)|`2026-04-27 08:37:00`|`HELLDIVERS 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-27 08:36:00`|`Apex Legends`|
+|[Duet Night Abyss Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/723122-duet-night-abyss-reversal-structs-offsets.html)|`2026-04-27 08:32:00`|`Other MMORPG and Strategy`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-04-27 08:21:00`|`Roblox`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-04-27 08:19:00`|`League of Legends`|
 |[MOUSE: P&#46;I&#46; For Hire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/748368-mouse-hire.html)|`2026-04-27 07:42:00`|`Cheat Engine Tables`|
 |[Dll injection crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749822-dll-injection-crash.html)|`2026-04-27 07:19:00`|`Valorant`|
 |[Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749990-visible-check.html)|`2026-04-27 07:17:00`|`Rust`|
