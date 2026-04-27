@@ -13,6 +13,7 @@
 |25|[Airport Security Sucks Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748986-airport-security-sucks-cheat.html)|`2026-04-27 00:26:28`|`other-games`|
 |4|[cs2 last offsets file after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749119-cs2-offsets-file-update.html)|`2026-04-27 05:55:38`|`counter-strike-2-a`|
 |13|[CS2 &#45; Bhop Internal &#45; SpaggetiHop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749074-cs2-bhop-internal-spaggetihop.html)|`2026-04-27 07:50:45`|`counter-strike-2-a`|
+|12|[Riot Games moderator panel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749187-riot-games-moderator-panel.html)|`2026-04-27 12:41:06`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-04-27 12:30:00`|`ARMA 3`|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-04-27 12:15:00`|`Call of Duty: Black Ops 2`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-04-27 12:14:00`|`Other FPS Games`|
+|[Drizzly's Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745379-drizzlys-recoil-helper.html)|`2026-04-27 11:58:00`|`Rainbow Six Siege`|
+|[&#40;BloodStrike&#41; Internal Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746927-bloodstrike-internal-aimbot.html)|`2026-04-27 11:57:00`|`Other FPS Games`|
+|[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-04-27 11:48:00`|`Other FPS Games`|
+|[making cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749980-cheats.html)|`2026-04-27 11:44:00`|`Counter-Strike 2`|
 |[R6 Smart Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/750000-r6-smart-recoil-helper.html)|`2026-04-27 09:09:00`|`Rainbow Six Siege`|
 |[BE Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748791-dump.html)|`2026-04-27 08:56:00`|`Grand Theft Auto V`|
 |[Need help val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749292-help-val-5-a.html)|`2026-04-27 08:50:00`|`Valorant`|
