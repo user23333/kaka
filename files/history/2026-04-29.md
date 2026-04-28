@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-04-29 05:11:00`|`Rust`|
+|[aimbot dont work after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750232-aimbot-dont-update.html)|`2026-04-29 05:11:00`|`Counter-Strike 2`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-04-29 05:08:00`|`Other Games`|
+|[physical&#45;library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750137-physical-library.html)|`2026-04-29 05:07:00`|`Anti-Cheat Bypass`|
+|[Silent Aura/Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/749818-silent-aura-rotation.html)|`2026-04-29 05:01:00`|`Minecraft`|
+|[Help stopping resources](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750235-help-stopping-resources.html)|`2026-04-29 05:01:00`|`Alternative Online Mods`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-29 04:05:00`|`ARC Raiders`|
 |[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-04-29 04:05:00`|`Forum General`|
 |[What does warframe ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750231-warframe-ban.html)|`2026-04-29 03:59:00`|`Other FPS Games`|
