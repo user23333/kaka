@@ -11,6 +11,8 @@
 |34|[Internal Bunnyhop Lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750063-internal-bunnyhop-lagging.html)|`2026-04-29 01:08:51`|`counter-strike-2-a`|
 |19|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-04-29 01:08:51`|`anti-cheat-bypass`|
 |27|[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-04-29 01:08:51`|`other-mmorpg-and-strategy`|
+|11|[Super Earth Technology](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/749602-super-earth-technology.html)|`2026-04-29 04:05:39`|`helldivers-2-a`|
+|2|[Windrose Dupe Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749368-windrose-dupe-method.html)|`2026-04-29 04:05:39`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-04-29 04:05:00`|`ARC Raiders`|
+|[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-04-29 04:05:00`|`Forum General`|
+|[What does warframe ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750231-warframe-ban.html)|`2026-04-29 03:59:00`|`Other FPS Games`|
+|[ShimmyImpact 6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/748219-shimmyimpact-6-5-a.html)|`2026-04-29 03:57:00`|`Genshin Impact`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-04-29 03:48:00`|`Counter-Strike 2`|
+|[Defeating Theia Anti&#45;Tamper &#45; Full Executable Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746955-defeating-theia-anti-tamper-executable-dump.html)|`2026-04-29 03:45:00`|`ARC Raiders`|
+|[knife icon and name changes but model and animation doesnt &#40;cs2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744754-knife-icon-name-changes-model-animation-doesnt-cs2.html)|`2026-04-29 03:40:00`|`Counter-Strike 2`|
+|[smoke color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749847-smoke-color.html)|`2026-04-29 03:40:00`|`Counter-Strike 2`|
 |[EA Javelin Anti&#45;Cheat: Hypervisor Detection Vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750201-ea-javelin-anti-cheat-hypervisor-detection-vectors.html)|`2026-04-29 02:45:00`|`Anti-Cheat Bypass`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-29 02:45:00`|`Other FPS Games`|
 |[T&#95;T Zoom camera mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/606966-t_t-zoom-camera-mod.html)|`2026-04-29 02:43:00`|`League of Legends`|
