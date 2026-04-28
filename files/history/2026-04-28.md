@@ -18,6 +18,7 @@
 |11|[Tarkov Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749618-tarkov-internal.html)|`2026-04-28 12:46:51`|`escape-from-tarkov`|
 |24|[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-04-28 12:46:51`|`other-mmorpg-and-strategy`|
 |18|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-04-28 19:22:29`|`anti-cheat-bypass`|
+|32|[Internal Bunnyhop Lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750063-internal-bunnyhop-lagging.html)|`2026-04-28 21:00:33`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LostLight Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/479889-lostlight-reversal-structs-offsets.html)|`2026-04-28 20:56:00`|`Other FPS Games`|
+|[&#91;SHOWCASE&#93; StrikeTeam Velocity — High&#45;FPS Vectorized AI for The Finals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/749981-showcase-striketeam-velocity-fps-vectorized-ai-finals.html)|`2026-04-28 20:43:00`|`THE FINALS`|
+|[Tarkov Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/749618-tarkov-internal.html)|`2026-04-28 20:37:00`|`Escape from Tarkov`|
 |[Rigorz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/infestation-survivor-stories-newz/578589-rigorz.html)|`2026-04-28 19:04:00`|`Infestation Survivor Stories: NewZ`|
 |[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-04-28 18:56:00`|`Other MMORPG and Strategy`|
 |[VIGOR INTERNAL v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727702-vigor-internal-v3-0-a.html)|`2026-04-28 18:54:00`|`Other FPS Games`|
