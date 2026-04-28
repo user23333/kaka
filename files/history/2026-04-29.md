@@ -24,9 +24,17 @@
 |106|[VeroAPI Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54516)|`2026-04-29 01:08:51`|
 |61|[Samurais&#95;Scripts&#95;v1&#46;9&#46;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54515)|`2026-04-29 01:08:51`|
 |55|[UCVALTEST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54512)|`2026-04-29 01:08:51`|
+|2|[NmsTrainer&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54514)|`2026-04-29 02:48:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EA Javelin Anti&#45;Cheat: Hypervisor Detection Vectors?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750201-ea-javelin-anti-cheat-hypervisor-detection-vectors.html)|`2026-04-29 02:45:00`|`Anti-Cheat Bypass`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-04-29 02:45:00`|`Other FPS Games`|
+|[T&#95;T Zoom camera mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/606966-t_t-zoom-camera-mod.html)|`2026-04-29 02:43:00`|`League of Legends`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-04-29 02:43:00`|`Apex Legends`|
+|[how to inject EAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750208-inject-eac.html)|`2026-04-29 02:34:00`|`Anti-Cheat Bypass`|
+|[Drawing Skeleton Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750202-drawing-skeleton-internal.html)|`2026-04-29 02:33:00`|`Counter-Strike 2`|
+|[Lost Light &#40;Steam&#41; Python Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750215-lost-light-steam-python-sdk.html)|`2026-04-29 02:31:00`|`Other FPS Games`|
 |[Internal Bunnyhop Lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750063-internal-bunnyhop-lagging.html)|`2026-04-29 01:05:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-04-29 01:01:00`|`Apex Legends`|
 |[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2026-04-29 01:01:00`|`Combat Arms`|
