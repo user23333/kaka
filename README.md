@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2026-04-29 16:31:00`|`Call of Duty: Black Ops`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-04-29 16:28:00`|`Counter-Strike 2`|
+|[Building External Overwatch 2 Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748749-building-external-overwatch-2-hack.html)|`2026-04-29 16:18:00`|`Overwatch`|
+|[&#91;SHOWCASE&#93; StrikeTeam Velocity — High&#45;FPS Vectorized AI for The Finals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/749981-showcase-striketeam-velocity-fps-vectorized-ai-finals.html)|`2026-04-29 16:14:00`|`THE FINALS`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-04-29 16:10:00`|`Other MMORPG and Strategy`|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-04-29 16:07:00`|`CounterStrike Source`|
+|[Apex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750286-apex-external.html)|`2026-04-29 15:39:00`|`Apex Legends`|
 |[bloom effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750279-bloom-effect.html)|`2026-04-29 14:09:00`|`Counter-Strike 2`|
 |[Is there anyone who can provide unlocking all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/749837-provide-unlocking.html)|`2026-04-29 14:02:00`|`Call of Duty: Modern Warfare`|
 |[PS5 Cheating on Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750234-ps5-cheating-warzone.html)|`2026-04-29 13:54:00`|`Call of Duty: Black Ops 7`|
