@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bloom effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750279-bloom-effect.html)|`2026-04-29 14:09:00`|`Counter-Strike 2`|
+|[Is there anyone who can provide unlocking all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/749837-provide-unlocking.html)|`2026-04-29 14:02:00`|`Call of Duty: Modern Warfare`|
+|[PS5 Cheating on Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750234-ps5-cheating-warzone.html)|`2026-04-29 13:54:00`|`Call of Duty: Black Ops 7`|
+|[Caliber cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/750296-caliber-cheat.html)|`2026-04-29 13:51:00`|`Off Topic`|
+|[Use any physical read/write vuln driver to Load Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747549-physical-read-write-vuln-driver-load-driver.html)|`2026-04-29 13:51:00`|`Anti-Cheat Bypass`|
 |[Attempting an Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/740951-attempting-memory-aim.html)|`2026-04-29 11:50:00`|`Call of Duty: Black Ops 7`|
 |[Unturned External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743777-unturned-external-base.html)|`2026-04-29 11:32:00`|`Other Games`|
 |[Modern External DX11 Overlay &#40;imgui, c&#43;&#43;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/750284-modern-external-dx11-overlay-imgui.html)|`2026-04-29 11:31:00`|`General Programming and Reversing`|
