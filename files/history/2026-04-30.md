@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is this font?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/750375-font.html)|`2026-04-30 06:35:00`|`General Programming and Reversing`|
+|[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-04-30 06:28:00`|`Other FPS Games`|
+|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-04-30 06:27:00`|`Anti-Cheat Bypass`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-04-30 06:14:00`|`DayZ SA`|
+|[Handle Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750336-handle-hijack.html)|`2026-04-30 06:06:00`|`Counter-Strike 2`|
+|[About yim menu and latest stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/747080-yim-menu-stuff.html)|`2026-04-30 06:06:00`|`Grand Theft Auto V`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-04-30 06:05:00`|`HELLDIVERS 2`|
 |[Internal Bunnyhop Lagging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750063-internal-bunnyhop-lagging.html)|`2026-04-30 05:41:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-04-30 05:31:00`|`Other FPS Games`|
 |[Valorant 1pc Colorbot Makcu supported](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749514-valorant-1pc-colorbot-makcu-supported.html)|`2026-04-30 05:29:00`|`Valorant`|
