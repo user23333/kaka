@@ -12,6 +12,7 @@
 |25|[cs2 internal chams not visible through walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750044-cs2-internal-chams-visible-walls.html)|`2026-05-01 00:09:09`|`counter-strike-2-a`|
 |16|[VeroAPIChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749872-veroapichanger.html)|`2026-05-01 00:09:09`|`valorant`|
 |29|[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-05-01 01:40:52`|`other-fps-games`|
+|28|[Methods for detecting kernel unsigned code execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749630-methods-detecting-kernel-unsigned-code-execution.html)|`2026-05-01 02:55:21`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,18 @@
 |113|[5&#46;3&#46;2&#45;1169740&#43;pioneer&#95;1&#46;26&#46;x&#45;PioneerGame SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54566)|`2026-05-01 00:09:09`|
 |31|[World War 3 Esp Aimbot &#45; latest Steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54562)|`2026-05-01 00:09:09`|
 |5|[New Fortnite Rank Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54555)|`2026-05-01 00:09:09`|
+|1|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;30&#45;CL&#45;53093531](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54603)|`2026-05-01 02:55:21`|
+|0|[Valorant SDK 12&#46;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54601)|`2026-05-01 02:55:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-01 02:53:00`|`Roblox`|
+|[Inconsistent target selection and unstable aim behavior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750149-inconsistent-target-selection-unstable-aim-behavior.html)|`2026-05-01 02:51:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-01 02:51:00`|`Escape from Tarkov`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-05-01 02:50:00`|`Battlefield 6`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-01 02:49:00`|`Valorant`|
+|[ShimmyImpact 6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/748219-shimmyimpact-6-5-a.html)|`2026-05-01 02:49:00`|`Genshin Impact`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-01 02:47:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-01 01:38:00`|`Call of Duty: Black Ops 7`|
 |[BloodStrike Internal Global](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/731765-bloodstrike-internal-global.html)|`2026-05-01 01:37:00`|`Other FPS Games`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-05-01 01:35:00`|`Paladins`|
