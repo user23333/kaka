@@ -36,6 +36,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750286-apex-external.html)|`2026-04-30 12:29:00`|`Apex Legends`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-04-30 12:25:00`|`Other FPS Games`|
+|[Regarding Rust dumper:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750341-regarding-rust-dumper.html)|`2026-04-30 12:20:00`|`Rust`|
+|[Regarding the issue of Apex weapon IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750452-regarding-issue-apex-weapon-ids.html)|`2026-04-30 12:18:00`|`Apex Legends`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-04-30 12:18:00`|`Other FPS Games`|
+|[Caliber cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/750296-caliber-cheat.html)|`2026-04-30 12:17:00`|`Off Topic`|
+|[PhasmoCheatV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/722532-phasmocheatv.html)|`2026-04-30 12:12:00`|`Phasmophobia`|
+|[Unity &#43; BepInEx &#43; UnityExplorer: avoiding detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/744582-unity-bepinex-unityexplorer-avoiding-detection.html)|`2026-04-30 12:01:00`|`Unity`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-04-30 09:11:00`|`Elite: Dangerous`|
 |[Remove Distance Requirement between Bio Scans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/749761-remove-distance-requirement-bio-scans.html)|`2026-04-30 09:07:00`|`Elite: Dangerous`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750319-arc-raiders-structs-offsets.html)|`2026-04-30 08:57:00`|`ARC Raiders`|
