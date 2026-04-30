@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-05-01 07:03:00`|`DayZ SA`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-05-01 06:59:00`|`HELLDIVERS 2`|
+|[UpGun Multitool Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748318-upgun-multitool-trainer.html)|`2026-05-01 06:53:00`|`Other Games`|
+|[TryBypassMe &#45; Can you bypass my Anti&#45;Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743802-trybypassme-bypass-anti-cheat.html)|`2026-05-01 06:52:00`|`Anti-Cheat Bypass`|
+|[Loki SCP: Secret Laboratory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/704266-loki-scp-secret-laboratory.html)|`2026-05-01 06:48:00`|`Other Games`|
+|[Hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/750570-hello.html)|`2026-05-01 06:43:00`|`Introductions`|
+|[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-05-01 06:31:00`|`Rust`|
+|[Handle Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750336-handle-hijack.html)|`2026-05-01 06:30:00`|`Counter-Strike 2`|
 |[Lost Light &#40;Steam&#41; Python Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750215-lost-light-steam-python-sdk.html)|`2026-05-01 06:06:00`|`Other FPS Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-01 06:03:00`|`DayZ SA`|
 |[New SC farm method??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750245-sc-farm-method.html)|`2026-05-01 05:55:00`|`HELLDIVERS 2`|
