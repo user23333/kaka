@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for a source&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749410-looking-source.html)|`2026-04-30 22:36:00`|`Rust`|
+|[Punisher: Zipline TP Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/750290-punisher-zipline-tp-exploit.html)|`2026-04-30 22:30:00`|`Marvel Rivals`|
+|[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-04-30 22:14:00`|`Other Games`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-04-30 22:02:00`|`Other MMORPG and Strategy`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-04-30 20:43:00`|`Alternative Online Mods`|
 |[Offset / Struct Discovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750488-offset-struct-discovery.html)|`2026-04-30 20:28:00`|`ARC Raiders`|
 |[Can someone release bullet tracers source please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750491-release-bullet-tracers-source-please.html)|`2026-04-30 20:27:00`|`Valorant`|
