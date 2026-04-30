@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ABYSS RIVALS &#124; Giving Back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745837-abyss-rivals-giving.html)|`2026-05-01 07:44:00`|`Marvel Rivals`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-05-01 07:29:00`|`Grand Theft Auto V`|
+|[How can a colorbot remain undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749290-colorbot-remain-undetected.html)|`2026-05-01 07:18:00`|`Valorant`|
+|[Foxhole Simple opensource Semi&#45;legit cheat&#45;mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748806-foxhole-simple-opensource-semi-legit-cheat-mod.html)|`2026-05-01 07:15:00`|`Other MMORPG and Strategy`|
+|[HeapAlloc Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750573-heapalloc-detection.html)|`2026-05-01 07:14:00`|`Anti-Cheat Bypass`|
 |[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-05-01 07:03:00`|`DayZ SA`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-05-01 06:59:00`|`HELLDIVERS 2`|
 |[UpGun Multitool Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748318-upgun-multitool-trainer.html)|`2026-05-01 06:53:00`|`Other Games`|
