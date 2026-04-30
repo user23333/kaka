@@ -25,9 +25,24 @@
 |12|[foxhole&#95;sdk&#95;26april&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54524)|`2026-04-30 01:04:14`|
 |57|[HYPERDAYZ&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54517)|`2026-04-30 01:04:14`|
 |122|[VeroAPI Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54516)|`2026-04-30 01:04:14`|
+|11|[5&#46;7&#46;3&#45;50162420&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;7&#45;FarFarWest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54598)|`2026-04-30 09:16:23`|
+|6|[UE Dumper v1&#46;1 &#40;Source Code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54596)|`2026-04-30 09:16:23`|
+|1|[UE Dumper v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54595)|`2026-04-30 09:16:23`|
+|2|[SOT SDK &#40;3&#46;7&#46;1&#41; Fixed enum generation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54593)|`2026-04-30 09:16:23`|
+|8|[NTE SDK 1&#46;0&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54580)|`2026-04-30 09:16:23`|
+|2|[LostLightSdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54570)|`2026-04-30 09:16:23`|
+|3|[5&#46;3&#46;2&#45;1169740&#43;pioneer&#95;1&#46;26&#46;x&#45;PioneerGame XBOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54567)|`2026-04-30 09:16:23`|
+|1|[New Fortnite Rank Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54555)|`2026-04-30 09:16:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-04-30 09:11:00`|`Elite: Dangerous`|
+|[Remove Distance Requirement between Bio Scans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/749761-remove-distance-requirement-bio-scans.html)|`2026-04-30 09:07:00`|`Elite: Dangerous`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750319-arc-raiders-structs-offsets.html)|`2026-04-30 08:57:00`|`ARC Raiders`|
+|[Windrose Dupe Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749368-windrose-dupe-method.html)|`2026-04-30 08:54:00`|`Other Games`|
+|[External WeaponID fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750434-external-weaponid-fix.html)|`2026-04-30 08:50:00`|`Counter-Strike 2`|
+|[Rust DMA source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749820-rust-dma-source-code.html)|`2026-04-30 08:44:00`|`Rust`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-04-30 08:44:00`|`Deadlock`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-04-30 07:25:00`|`Counter-Strike 2 Releases`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-04-30 07:21:00`|`Call of Duty: Black Ops 7`|
 |[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-04-30 07:15:00`|`Other FPS Games`|
