@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lost Light &#40;Steam&#41; Python Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750215-lost-light-steam-python-sdk.html)|`2026-05-01 06:06:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-01 06:03:00`|`DayZ SA`|
+|[New SC farm method??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750245-sc-farm-method.html)|`2026-05-01 05:55:00`|`HELLDIVERS 2`|
+|[Pawx &#124; Lua Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/750565-pawx-lua-executor.html)|`2026-05-01 05:52:00`|`Garry's Mod`|
+|[SastashaFied Bo1 SP/ZM Mod Menu for Plutonium T5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/710176-sastashafied-bo1-sp-zm-mod-menu-plutonium-t5.html)|`2026-05-01 05:42:00`|`Call of Duty: Black Ops`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-05-01 05:08:00`|`Other FPS Games`|
 |[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-01 05:06:00`|`Other FPS Games`|
 |[Windrose Dupe Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/749368-windrose-dupe-method.html)|`2026-05-01 05:01:00`|`Other Games`|
