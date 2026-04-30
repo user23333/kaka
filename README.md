@@ -28,9 +28,17 @@
 |5|[New Fortnite Rank Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54555)|`2026-05-01 00:09:09`|
 |1|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;30&#45;CL&#45;53093531](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54603)|`2026-05-01 02:55:21`|
 |0|[Valorant SDK 12&#46;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54601)|`2026-05-01 02:55:21`|
+|1|[fortnite sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54605)|`2026-05-01 04:03:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Search Latest Offset gmod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746165-search-offset-gmod.html)|`2026-05-01 04:01:00`|`Garry's Mod`|
+|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-01 04:00:00`|`Rust`|
+|[getting &#91;removed&#93;ed by render&#46;Capture PostRender hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/750304-getting-removed-ed-render-capture-postrender-hook.html)|`2026-05-01 03:59:00`|`Garry's Mod`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-05-01 03:59:00`|`Grand Theft Auto V`|
+|[How Anti&#45;Cheats Detect UserMode Clients](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750355-anti-cheats-detect-usermode-clients.html)|`2026-05-01 03:59:00`|`Anti-Cheat Bypass`|
+|[Pet Idle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/583042-pet-idle.html)|`2026-05-01 03:54:00`|`Other MMORPG and Strategy`|
+|[KDMapper doesnt clear properly :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750256-kdmapper-doesnt-properly.html)|`2026-05-01 03:52:00`|`Anti-Cheat Bypass`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-01 02:53:00`|`Roblox`|
 |[Inconsistent target selection and unstable aim behavior](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750149-inconsistent-target-selection-unstable-aim-behavior.html)|`2026-05-01 02:51:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-01 02:51:00`|`Escape from Tarkov`|
