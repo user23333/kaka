@@ -14,6 +14,7 @@
 |29|[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-05-01 01:40:52`|`other-fps-games`|
 |28|[Methods for detecting kernel unsigned code execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749630-methods-detecting-kernel-unsigned-code-execution.html)|`2026-05-01 02:55:21`|`anti-cheat-bypass`|
 |31|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-01 18:58:06`|`other-fps-games`|
+|4|[New SC farm method??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750245-sc-farm-method.html)|`2026-05-01 20:55:41`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cfx natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750631-cfx-natives.html)|`2026-05-01 20:55:00`|`Alternative Online Mods`|
+|[How to make an silent aim in internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749286-silent-aim-internal.html)|`2026-05-01 20:48:00`|`Rust`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-05-01 20:44:00`|`Other FPS Games`|
+|[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-05-01 20:38:00`|`Other FPS Games`|
+|[read only sniper crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739541-read-sniper-crosshair.html)|`2026-05-01 20:37:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-01 20:36:00`|`Rust`|
+|[World War 3 Esp aimbot Latest Steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750163-world-war-3-esp-aimbot-steam-version.html)|`2026-05-01 20:32:00`|`Other FPS Games`|
 |[Fallout 76 &#45; Lots of Ba2 files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748084-fallout-76-lots-ba2-files.html)|`2026-05-01 19:54:00`|`Other FPS Games`|
 |[bo3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/750590-bo3.html)|`2026-05-01 19:52:00`|`Introductions`|
 |[usercmd struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750314-usercmd-struct.html)|`2026-05-01 19:51:00`|`Counter-Strike 2`|
