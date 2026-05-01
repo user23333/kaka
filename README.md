@@ -31,9 +31,15 @@
 |0|[Valorant SDK 12&#46;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54601)|`2026-05-01 02:55:21`|
 |1|[fortnite sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54605)|`2026-05-01 04:03:04`|
 |4|[modern&#95;dx11&#95;base&#45;source&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54577)|`2026-05-01 10:50:32`|
+|1|[Squad Game v10&#46;4&#46;0 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54616)|`2026-05-01 19:56:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 &#45; Lots of Ba2 files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748084-fallout-76-lots-ba2-files.html)|`2026-05-01 19:54:00`|`Other FPS Games`|
+|[bo3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/750590-bo3.html)|`2026-05-01 19:52:00`|`Introductions`|
+|[usercmd struct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750314-usercmd-struct.html)|`2026-05-01 19:51:00`|`Counter-Strike 2`|
+|[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-05-01 19:46:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-05-01 19:44:00`|`Call of Duty: Modern Warfare`|
 |[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-01 18:55:00`|`Overwatch`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-05-01 18:53:00`|`HELLDIVERS 2`|
 |[aimbot dont work after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750232-aimbot-dont-update.html)|`2026-05-01 18:47:00`|`Counter-Strike 2`|
