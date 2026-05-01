@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SilentAim for fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749759-silentaim-fivem.html)|`2026-05-02 07:50:00`|`Alternative Online Mods`|
+|[Latest JSON/C&#43;&#43; Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750710-json-patterns.html)|`2026-05-02 07:48:00`|`Counter-Strike 2`|
+|[Trying to build my own cheat need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750595-trying-build-own-cheat-help.html)|`2026-05-02 07:48:00`|`Valorant`|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-05-02 07:27:00`|`DayZ SA`|
 |[help with bomb esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750694-help-bomb-esp.html)|`2026-05-02 06:51:00`|`Counter-Strike 2`|
 |[No BE, yet able to join game servers with BE enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749795-able-join-game-servers-enabled.html)|`2026-05-02 06:43:00`|`Anti-Cheat Bypass`|
 |[Far Far West Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739383-west-demo.html)|`2026-05-02 06:35:00`|`Other FPS Games`|
