@@ -13,6 +13,7 @@
 |16|[VeroAPIChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749872-veroapichanger.html)|`2026-05-01 00:09:09`|`valorant`|
 |29|[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-05-01 01:40:52`|`other-fps-games`|
 |28|[Methods for detecting kernel unsigned code execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749630-methods-detecting-kernel-unsigned-code-execution.html)|`2026-05-01 02:55:21`|`anti-cheat-bypass`|
+|31|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-01 18:58:06`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-01 18:55:00`|`Overwatch`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-05-01 18:53:00`|`HELLDIVERS 2`|
+|[aimbot dont work after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750232-aimbot-dont-update.html)|`2026-05-01 18:47:00`|`Counter-Strike 2`|
+|[Polygon ESP Aimbot Latest steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749657-polygon-esp-aimbot-steam-version.html)|`2026-05-01 18:26:00`|`Other FPS Games`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-05-01 17:52:00`|`Counter-Strike 2 Releases`|
 |[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-05-01 17:50:00`|`Valorant`|
 |[Help with wallbang calculator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750143-help-wallbang-calculator.html)|`2026-05-01 17:49:00`|`Counter-Strike 2`|
