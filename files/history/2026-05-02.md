@@ -28,9 +28,21 @@
 |1|[SigMaker IDA 9&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54627)|`2026-05-02 05:13:09`|
 |1|[Classinformer IDA 9&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54626)|`2026-05-02 05:13:09`|
 |1|[rust sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54624)|`2026-05-02 05:13:09`|
+|10|[cs2go](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54623)|`2026-05-02 06:04:50`|
+|36|[nerv&#95;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54622)|`2026-05-02 06:04:50`|
+|18|[DBD&#40;v9&#46;6&#46;0&#41; STEAM cheat update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54621)|`2026-05-02 06:04:50`|
+|4|[xigncode3&#95;vuln](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54612)|`2026-05-02 06:04:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[physical&#45;library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750137-physical-library.html)|`2026-05-02 06:04:00`|`Anti-Cheat Bypass`|
+|[Wireframe chams material please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/740426-wireframe-chams-material-please.html)|`2026-05-02 05:58:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-02 05:46:00`|`Apex Legends`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-02 05:42:00`|`Other Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-02 05:38:00`|`ARC Raiders`|
+|[Use a chinese AC driver to cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750594-chinese-ac-driver-cheat.html)|`2026-05-02 05:32:00`|`Anti-Cheat Bypass`|
+|[PS5 Cheating on Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750234-ps5-cheating-warzone.html)|`2026-05-02 05:30:00`|`Call of Duty: Black Ops 7`|
+|[Rust DMA source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749820-rust-dma-source-code.html)|`2026-05-02 05:27:00`|`Rust`|
 |[Small Rust SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750679-rust-sdk.html)|`2026-05-02 05:12:00`|`Rust`|
 |[how to sniff BE's heatbeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749991-sniff-bes-heatbeat.html)|`2026-05-02 05:12:00`|`Anti-Cheat Bypass`|
 |[IDA 9&#46;3 Classinformer & SigMaker plugins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/750691-ida-9-3-classinformer-sigmaker-plugins.html)|`2026-05-02 05:04:00`|`General Programming and Reversing`|
