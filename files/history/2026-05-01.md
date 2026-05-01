@@ -15,6 +15,7 @@
 |28|[Methods for detecting kernel unsigned code execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749630-methods-detecting-kernel-unsigned-code-execution.html)|`2026-05-01 02:55:21`|`anti-cheat-bypass`|
 |31|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-01 18:58:06`|`other-fps-games`|
 |4|[New SC farm method??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750245-sc-farm-method.html)|`2026-05-01 20:55:41`|`helldivers-2-a`|
+|19|[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-05-01 23:14:06`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[knife/gloves/skins changer src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750656-knife-gloves-skins-changer-src.html)|`2026-05-01 23:12:00`|`Counter-Strike 2`|
+|[Vanguard Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749750-vanguard-emulator.html)|`2026-05-01 23:10:00`|`Valorant`|
+|[ESP dma delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/734831-esp-dma-delay.html)|`2026-05-01 23:10:00`|`Battlefield 6`|
+|[Aimbot Locks On Only 1 Angle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749934-aimbot-locks-1-angle.html)|`2026-05-01 23:04:00`|`Counter-Strike 2`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-01 22:59:00`|`Other Games`|
 |[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-05-01 22:06:00`|`ARMA 3`|
 |[Rocket League permanent ban removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750651-rocket-league-permanent-ban-removal.html)|`2026-05-01 22:05:00`|`Other Games`|
 |[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-05-01 22:02:00`|`Other MMORPG and Strategy`|
