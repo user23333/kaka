@@ -33,6 +33,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-05-01 15:57:00`|`Other Games`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-05-01 15:53:00`|`Garry's Mod`|
+|[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-05-01 15:47:00`|`Valorant`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-01 15:45:00`|`Other FPS Games`|
+|[some p2c source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747955-p2c-source.html)|`2026-05-01 15:41:00`|`Counter-Strike 2`|
+|[How safe is Handle Hijack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750339-safe-handle-hijack.html)|`2026-05-01 15:40:00`|`Counter-Strike 2`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-05-01 15:24:00`|`Other FPS Games`|
+|[Add Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750596-add-dead-daylight.html)|`2026-05-01 15:10:00`|`Other FPS Games`|
 |[Dead by Daylight &#40;DMA&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727742-dead-daylight-dma.html)|`2026-05-01 13:49:00`|`Other FPS Games`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-05-01 13:34:00`|`Rainbow Six Siege`|
 |[internal engine render sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750591-internal-engine-render-sdk.html)|`2026-05-01 13:33:00`|`Counter-Strike 2`|
