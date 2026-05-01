@@ -24,9 +24,18 @@
 |51|[UE Dumper v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54595)|`2026-05-02 00:08:13`|
 |7|[SOT SDK &#40;3&#46;7&#46;1&#41; Fixed enum generation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54593)|`2026-05-02 00:08:13`|
 |256|[NTE SDK 1&#46;0&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54580)|`2026-05-02 00:08:13`|
+|9|[cs2ultra&#95;bag&#95;withWH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54625)|`2026-05-02 04:28:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does it come down too reversing the &#46;sys files?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750240-reversing-sys-files.html)|`2026-05-02 04:28:00`|`Anti-Cheat Bypass`|
+|[knife/gloves/skins changer src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750659-knife-gloves-skins-changer-src.html)|`2026-05-02 04:27:00`|`Counter-Strike 2`|
+|[VAC Live Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750674-vac-live-detections.html)|`2026-05-02 04:24:00`|`Counter-Strike 2`|
+|[VAN 152 HWID BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/741661-van-152-hwid-ban.html)|`2026-05-02 04:23:00`|`League of Legends`|
+|[GrayzoneWarfrare Can't figure out LootESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750687-grayzonewarfrare-cant-figure-lootesp.html)|`2026-05-02 04:14:00`|`Other FPS Games`|
+|[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-05-02 04:12:00`|`Anti-Cheat Bypass`|
+|[menu / cheat for RAGEMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749591-menu-cheat-ragemp.html)|`2026-05-02 04:11:00`|`Alternative Online Mods`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-02 04:02:00`|`Deadlock`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-02 03:34:00`|`Other FPS Games`|
 |[aimbot dont work after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750232-aimbot-dont-update.html)|`2026-05-02 03:29:00`|`Counter-Strike 2`|
 |[Understanding the twizzy bootkit base&#46; Need Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750676-understanding-twizzy-bootkit-base-help.html)|`2026-05-02 03:29:00`|`Anti-Cheat Bypass`|
