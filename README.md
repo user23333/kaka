@@ -33,9 +33,14 @@
 |1|[fortnite sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54605)|`2026-05-01 04:03:04`|
 |4|[modern&#95;dx11&#95;base&#45;source&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54577)|`2026-05-01 10:50:32`|
 |1|[Squad Game v10&#46;4&#46;0 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54616)|`2026-05-01 19:56:07`|
+|1|[BloodStrike Skins IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54617)|`2026-05-01 22:12:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-05-01 22:06:00`|`ARMA 3`|
+|[Rocket League permanent ban removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750651-rocket-league-permanent-ban-removal.html)|`2026-05-01 22:05:00`|`Other Games`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-05-01 22:02:00`|`Other MMORPG and Strategy`|
+|[Get Kicked &#40;Client Banned&#41; after 30 &#45; 40 Min](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750649-kicked-client-banned-30-40-min.html)|`2026-05-01 21:54:00`|`Apex Legends`|
 |[cfx natives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750631-cfx-natives.html)|`2026-05-01 20:55:00`|`Alternative Online Mods`|
 |[How to make an silent aim in internal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/749286-silent-aim-internal.html)|`2026-05-01 20:48:00`|`Rust`|
 |[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-05-01 20:44:00`|`Other FPS Games`|
