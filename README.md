@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-05-01 17:52:00`|`Counter-Strike 2 Releases`|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-05-01 17:50:00`|`Valorant`|
+|[Help with wallbang calculator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750143-help-wallbang-calculator.html)|`2026-05-01 17:49:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-01 17:47:00`|`Overwatch`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-01 17:43:00`|`Apex Legends`|
+|[Aero Tales Online: The World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750608-aero-tales-online-world.html)|`2026-05-01 17:37:00`|`Other MMORPG and Strategy`|
+|[Offset / Struct Discovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750488-offset-struct-discovery.html)|`2026-05-01 17:31:00`|`ARC Raiders`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; Powered by Java &#124; 42&#46;14&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/741116-project-zomboid-cheat-etherhack-powered-java-42-14-1-a.html)|`2026-05-01 15:57:00`|`Other Games`|
 |[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-05-01 15:53:00`|`Garry's Mod`|
 |[DavidUmm's NEW Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/736455-davidumms-triggerbot.html)|`2026-05-01 15:47:00`|`Valorant`|
