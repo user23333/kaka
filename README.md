@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glow Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750724-glow-help.html)|`2026-05-02 09:13:00`|`Apex Legends`|
+|[new to league](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/750238-league.html)|`2026-05-02 09:09:00`|`League of Legends`|
+|[Smite 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750521-smite-1-internal.html)|`2026-05-02 09:07:00`|`Other FPS Games`|
+|[Samurai's Scripts &#91;LEGACY ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748763-samurais-scripts-legacy.html)|`2026-05-02 09:06:00`|`Grand Theft Auto V`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-02 09:04:00`|`Counter-Strike 2`|
+|[bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750714-bhop.html)|`2026-05-02 08:56:00`|`Counter-Strike 2`|
 |[SilentAim for fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749759-silentaim-fivem.html)|`2026-05-02 07:50:00`|`Alternative Online Mods`|
 |[Latest JSON/C&#43;&#43; Patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750710-json-patterns.html)|`2026-05-02 07:48:00`|`Counter-Strike 2`|
 |[Trying to build my own cheat need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750595-trying-build-own-cheat-help.html)|`2026-05-02 07:48:00`|`Valorant`|
