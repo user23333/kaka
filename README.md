@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-02 20:37:00`|`Counter-Strike 2 Releases`|
+|[A Full Production Automation System &#40;Generate Unlimited Weapons&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/742983-production-automation-system-generate-unlimited-weapons.html)|`2026-05-02 20:36:00`|`ARC Raiders`|
+|[ARC Raiders API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750192-arc-raiders-api.html)|`2026-05-02 20:35:00`|`ARC Raiders`|
+|[cvar revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750786-cvar-revealer.html)|`2026-05-02 20:35:00`|`Counter-Strike 2`|
+|[Headless diver bug got fixed, how can you make it work again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750379-headless-diver-bug-fixed.html)|`2026-05-02 20:21:00`|`HELLDIVERS 2`|
+|[Undetected ImGUI hook method ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750708-undetected-imgui-hook-method.html)|`2026-05-02 20:15:00`|`Alternative Online Mods`|
 |[Material Dumper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747156-material-dumper-dll.html)|`2026-05-02 19:37:00`|`Rust`|
 |[RijiN/codebase&#95;main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/750754-rijin-codebase_main.html)|`2026-05-02 19:36:00`|`Team Fortress 2`|
 |[Need New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750312-offsets.html)|`2026-05-02 19:32:00`|`Valorant`|
