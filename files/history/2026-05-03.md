@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-03 01:50:00`|`Rust`|
+|[Reminder: Blizzard adimins are 100 percent reading this Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/744203-reminder-blizzard-adimins-100-percent-reading-forum.html)|`2026-05-03 01:50:00`|`Overwatch`|
+|[MHUR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749615-mhur-internal.html)|`2026-05-03 01:47:00`|`Other FPS Games`|
+|[Help with wallbang calculator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750143-help-wallbang-calculator.html)|`2026-05-03 01:37:00`|`Counter-Strike 2`|
+|[I want to revise my prediction; it wasn't very accurate&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750698-revise-prediction-wasnt-accurate.html)|`2026-05-03 01:33:00`|`Apex Legends`|
+|[&#91;removed&#93;ing EAC anti&#45;cheat is so strict about checking DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750824-removed-ing-eac-anti-cheat-strict-checking-dma.html)|`2026-05-03 01:31:00`|`Apex Legends`|
+|[internal engine render sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750591-internal-engine-render-sdk.html)|`2026-05-03 01:17:00`|`Counter-Strike 2`|
 |[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-05-03 01:02:00`|`Other FPS Games`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-03 01:00:00`|`Escape from Tarkov`|
 |[Panorama model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750805-panorama-model.html)|`2026-05-03 00:59:00`|`Counter-Strike 2`|
