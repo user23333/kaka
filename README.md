@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Visible check with VPK PARSER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750837-visible-check-vpk-parser.html)|`2026-05-03 04:54:00`|`Counter-Strike 2`|
+|[very bad driver signed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747611-bad-driver-signed.html)|`2026-05-03 04:53:00`|`Anti-Cheat Bypass`|
+|[paladins game launcher &#40; built version &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/743287-paladins-game-launcher-built-version.html)|`2026-05-03 04:47:00`|`Paladins`|
+|[HeapAlloc Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750573-heapalloc-detection.html)|`2026-05-03 04:46:00`|`Anti-Cheat Bypass`|
+|[&#91;UE4&#93;Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/244709-ue4-squad.html)|`2026-05-03 04:38:00`|`Other FPS Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-03 04:28:00`|`Counter-Strike 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-03 04:04:00`|`ARC Raiders`|
 |[Discord for developers??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750827-discord-developers.html)|`2026-05-03 03:59:00`|`Apex Legends`|
 |[Cant get Skinchanger working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750842-cant-skinchanger.html)|`2026-05-03 03:54:00`|`Counter-Strike 2`|
