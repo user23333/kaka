@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Far Far West Demo MOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740610-west-demo-mod.html)|`2026-05-03 07:30:00`|`Other FPS Games`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-03 07:29:00`|`Marvel Rivals`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-03 07:28:00`|`Roblox`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-05-03 07:19:00`|`Alternative Online Mods`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-05-03 07:10:00`|`Grand Theft Auto V`|
+|[World War 3 Esp aimbot Latest Steam version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750163-world-war-3-esp-aimbot-steam-version.html)|`2026-05-03 07:04:00`|`Other FPS Games`|
+|[DayZ DMA only Web Radar &#91;source code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750100-dayz-dma-web-radar-source-code.html)|`2026-05-03 07:04:00`|`DayZ SA`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-03 06:56:00`|`Apex Legends`|
 |[Searching for CUserCMD drives me crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750826-searching-cusercmd-drives-crazy.html)|`2026-05-03 06:55:00`|`Counter-Strike 2`|
 |[CFG Crash in Kernel Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747780-cfg-crash-kernel-injection.html)|`2026-05-03 06:50:00`|`Anti-Cheat Bypass`|
