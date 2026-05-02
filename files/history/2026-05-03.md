@@ -25,9 +25,19 @@
 |14|[BloodStrike Skins IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54617)|`2026-05-03 00:08:35`|
 |16|[Squad Game v10&#46;4&#46;0 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54616)|`2026-05-03 00:08:35`|
 |53|[xigncode3&#95;vuln](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54612)|`2026-05-03 00:08:35`|
+|9|[Latest NTE sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54633)|`2026-05-03 03:37:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/749750-vanguard-emulator.html)|`2026-05-03 03:35:00`|`Valorant`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-03 03:28:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-03 03:26:00`|`Call of Duty: Black Ops 7`|
+|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/750841-marvel-rivals-sdk.html)|`2026-05-03 03:25:00`|`Marvel Rivals`|
+|[Simple CS2 External AutoBhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750840-simple-cs2-external-autobhop.html)|`2026-05-03 03:21:00`|`Counter-Strike 2`|
+|[Fivem Native Hook External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749596-fivem-native-hook-external.html)|`2026-05-03 03:21:00`|`Alternative Online Mods`|
+|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-03 03:20:00`|`Rust`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-03 03:16:00`|`Valorant`|
+|[roblox on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/750614-roblox-linux.html)|`2026-05-03 03:16:00`|`Roblox`|
 |[shot delay for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750672-shot-delay-aimbot.html)|`2026-05-03 02:36:00`|`Counter-Strike 2`|
 |[Samurai's Scripts &#91;LEGACY ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748763-samurais-scripts-legacy.html)|`2026-05-03 02:35:00`|`Grand Theft Auto V`|
 |[VGC emulator &#45; stuck on vgk IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750661-vgc-emulator-stuck-vgk-ioctl.html)|`2026-05-03 02:32:00`|`Valorant`|
