@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-03 06:56:00`|`Apex Legends`|
+|[Searching for CUserCMD drives me crazy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750826-searching-cusercmd-drives-crazy.html)|`2026-05-03 06:55:00`|`Counter-Strike 2`|
+|[CFG Crash in Kernel Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/747780-cfg-crash-kernel-injection.html)|`2026-05-03 06:50:00`|`Anti-Cheat Bypass`|
+|[&#91;RELEASE&#93; Scars of Honor: Advanced DLL Patching Engine v1&#46;0 &#124; Class & Race Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750870-release-scars-honor-advanced-dll-patching-engine-v1-0-class-race-unlocker.html)|`2026-05-03 06:47:00`|`Other MMORPG and Strategy`|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-05-03 06:47:00`|`DayZ SA`|
+|[Sham&#91;removed&#93; Cod Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750867-sham-removed-cod-source.html)|`2026-05-03 06:46:00`|`Call of Duty: Black Ops 7`|
+|[Color &#45; Tag &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750868-color-tag-aimbot.html)|`2026-05-03 06:45:00`|`Call of Duty: Black Ops 7`|
 |[No Injection with Yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/750861-injection-yimmenuv2.html)|`2026-05-03 06:01:00`|`Grand Theft Auto V`|
 |[R6 Smart Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/750000-r6-smart-recoil-helper.html)|`2026-05-03 05:55:00`|`Rainbow Six Siege`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-05-03 05:55:00`|`Marvel Rivals`|
