@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Material Dumper&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/747156-material-dumper-dll.html)|`2026-05-02 19:37:00`|`Rust`|
+|[RijiN/codebase&#95;main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/750754-rijin-codebase_main.html)|`2026-05-02 19:36:00`|`Team Fortress 2`|
+|[Need New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750312-offsets.html)|`2026-05-02 19:32:00`|`Valorant`|
+|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-02 19:31:00`|`Rust`|
+|[Bullet Force PC Steam version cheat maybe ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/747922-bullet-force-pc-steam-version-cheat-maybe.html)|`2026-05-02 19:06:00`|`Unity`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-02 19:03:00`|`Valorant`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-02 18:56:00`|`Escape from Tarkov`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-02 18:55:00`|`Overwatch`|
