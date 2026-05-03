@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Perfect Mantle Boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748993-perfect-mantle-boost.html)|`2026-05-03 23:58:00`|`Apex Legends`|
+|[zombie vgc with fixed update error in riot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/747923-zombie-vgc-fixed-update-error-riot.html)|`2026-05-03 23:52:00`|`Valorant`|
+|[Road map for emulating VANGUARD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750945-road-map-emulating-vanguard.html)|`2026-05-03 23:45:00`|`Valorant`|
+|[Deleted EPS on my fTPM, HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750943-deleted-eps-ftpm-help.html)|`2026-05-03 23:38:00`|`Anti-Cheat Bypass`|
+|[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-05-03 23:37:00`|`Other MMORPG and Strategy`|
+|[USB Adapter with EEPROM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750741-usb-adapter-eeprom.html)|`2026-05-03 23:35:00`|`Anti-Cheat Bypass`|
 |[HP Laptop , tried everything&#46;&#46; literally impossible to spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/586668-hp-laptop-tried-literally-impossible-spoof.html)|`2026-05-03 23:01:00`|`Valorant`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-03 22:53:00`|`Other MMORPG and Strategy`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-03 22:50:00`|`Other FPS Games`|
