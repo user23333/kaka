@@ -13,6 +13,7 @@
 |13|[how to sniff BE's heatbeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749991-sniff-bes-heatbeat.html)|`2026-05-03 00:08:35`|`anti-cheat-bypass`|
 |24|[knife/gloves/skins changer src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750659-knife-gloves-skins-changer-src.html)|`2026-05-03 01:03:23`|`counter-strike-2-a`|
 |12|[Use a chinese AC driver to cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750594-chinese-ac-driver-cheat.html)|`2026-05-03 20:04:57`|`anti-cheat-bypass`|
+|24|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-03 21:42:21`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,13 @@
 |16|[Squad Game v10&#46;4&#46;0 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54616)|`2026-05-03 00:08:35`|
 |53|[xigncode3&#95;vuln](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54612)|`2026-05-03 00:08:35`|
 |9|[Latest NTE sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54633)|`2026-05-03 03:37:57`|
+|2|[Latest NTE sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54651)|`2026-05-03 21:42:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-05-03 21:41:00`|`Counter-Strike 2 Releases`|
+|[ragebot&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750931-ragebot.html)|`2026-05-03 21:26:00`|`Counter-Strike 2`|
+|[GrayzoneWarfrare Can't figure out LootESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750687-grayzonewarfrare-cant-figure-lootesp.html)|`2026-05-03 21:04:00`|`Other FPS Games`|
 |[ScriptHookV Online With GTA Online Custom Server Cyprus/Paragon Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728157-scripthookv-online-gta-online-custom-server-cyprus-paragon.html)|`2026-05-03 20:04:00`|`Grand Theft Auto V`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-05-03 19:48:00`|`Grand Theft Auto V`|
 |[DirtyBomb Aimbot&#43;ESP&#43;SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748255-dirtybomb-aimbot-esp-source.html)|`2026-05-03 19:47:00`|`Other FPS Games`|
