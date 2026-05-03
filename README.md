@@ -14,6 +14,7 @@
 |24|[knife/gloves/skins changer src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750659-knife-gloves-skins-changer-src.html)|`2026-05-03 01:03:23`|`counter-strike-2-a`|
 |12|[Use a chinese AC driver to cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750594-chinese-ac-driver-cheat.html)|`2026-05-03 20:04:57`|`anti-cheat-bypass`|
 |24|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-03 21:42:21`|`rust`|
+|4|[pcileech&#45;nvme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750013-pcileech-nvme.html)|`2026-05-03 22:32:05`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-05-03 22:31:00`|`Palworld`|
+|[RageMP Playername](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741541-ragemp-playername.html)|`2026-05-03 22:28:00`|`Alternative Online Mods`|
+|[Cs2 cvars help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750866-cs2-cvars-help.html)|`2026-05-03 22:14:00`|`Counter-Strike 2`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-03 22:10:00`|`Other MMORPG and Strategy`|
 |[GFusion Closet Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat.html)|`2026-05-03 21:41:00`|`Counter-Strike 2 Releases`|
 |[ragebot&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750931-ragebot.html)|`2026-05-03 21:26:00`|`Counter-Strike 2`|
 |[GrayzoneWarfrare Can't figure out LootESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750687-grayzonewarfrare-cant-figure-lootesp.html)|`2026-05-03 21:04:00`|`Other FPS Games`|
