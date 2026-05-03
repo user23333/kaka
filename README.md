@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[UwUware V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750386-uwuware-v2.html)|`2026-05-03 12:34:00`|`Counter-Strike 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-03 12:31:00`|`Tom Clancy's The Division`|
+|[Farlight 84 &#45; Anticheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/748744-farlight-84-anticheat-bypass.html)|`2026-05-03 12:30:00`|`Farlight 84`|
+|[Warframe Logic&#46;&#46;&#46; and everything else](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750733-warframe-logic-else.html)|`2026-05-03 12:28:00`|`Other FPS Games`|
+|[Cham Replication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/750893-cham-replication.html)|`2026-05-03 12:25:00`|`Overwatch`|
+|[how tf il code a silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750513-tf-il-code-silent-aim.html)|`2026-05-03 12:21:00`|`Rust`|
 |[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-05-03 09:13:00`|`Other Games`|
 |[TD &#45; Looking For Group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/173331-td-looking.html)|`2026-05-03 09:13:00`|`Tom Clancy's The Division`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-03 08:58:00`|`Overwatch`|
