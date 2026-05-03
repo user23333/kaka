@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vgc&#46;exe Network Connection Monitor – passive TCP/UDP logger &#40;iphlpapi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750987-vgc-exe-network-connection-monitor-passive-tcp-udp-logger-iphlpapi.html)|`2026-05-04 04:51:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-04 04:50:00`|`Other FPS Games`|
+|[static decryption dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750964-static-decryption-dumper.html)|`2026-05-04 04:45:00`|`Call of Duty: Black Ops 7`|
+|[Global Rescue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/750986-global-rescue.html)|`2026-05-04 04:41:00`|`Cheat Engine Tables`|
+|[imGUI black screen error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/750862-imgui-black-screen-error.html)|`2026-05-04 04:38:00`|`Minecraft`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-04 04:07:00`|`Tom Clancy's The Division`|
 |[Global Rescue v0&#46;3&#46;18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750961-global-rescue-v0-3-18-a.html)|`2026-05-04 04:05:00`|`Other MMORPG and Strategy`|
 |[m&#95;aimPunchTickFraction  and m&#95;aimPunchAngle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749251-m_aimpunchtickfraction-m_aimpunchangle.html)|`2026-05-04 03:59:00`|`Counter-Strike 2`|
