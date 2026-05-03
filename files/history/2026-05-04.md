@@ -27,9 +27,15 @@
 |0|[Release Vanguard Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54662)|`2026-05-04 05:36:53`|
 |4|[Source Vanguard Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54661)|`2026-05-04 05:36:53`|
 |3|[GR 0&#46;3&#46;18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54655)|`2026-05-04 05:36:53`|
+|2|[AeroTalesIL2CPPDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54641)|`2026-05-04 06:21:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-05-04 06:20:00`|`Valorant`|
+|[colorbot using hsv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748232-colorbot-using-hsv.html)|`2026-05-04 06:18:00`|`Overwatch`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-05-04 06:02:00`|`Apex Legends`|
+|[&#91;Python&#93; Fully featured DayZ External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/740041-python-featured-dayz-external.html)|`2026-05-04 05:58:00`|`DayZ SA`|
+|[RageMP Playername](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741541-ragemp-playername.html)|`2026-05-04 05:55:00`|`Alternative Online Mods`|
 |[cs2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750515-cs2-internal-cheat.html)|`2026-05-04 05:36:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-04 05:36:00`|`Overwatch`|
 |[Xigncode integrity checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750869-xigncode-integrity-checks.html)|`2026-05-04 05:34:00`|`Anti-Cheat Bypass`|
