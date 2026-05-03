@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bootmgfw&#46;efi &#40;CVE&#45;2022&#45;21894&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738038-bootmgfw-efi-cve-2022-21894-a.html)|`2026-05-04 07:01:00`|`Anti-Cheat Bypass`|
+|[rain particle from train](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751011-rain-particle-train.html)|`2026-05-04 06:50:00`|`Counter-Strike 2`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-05-04 06:35:00`|`Red Dead Redemption 2`|
 |[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-05-04 06:20:00`|`Valorant`|
 |[colorbot using hsv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748232-colorbot-using-hsv.html)|`2026-05-04 06:18:00`|`Overwatch`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-05-04 06:02:00`|`Apex Legends`|
