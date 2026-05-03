@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-04 02:31:00`|`Overwatch`|
+|[C&#43;&#43; VPK Parser&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749116-vpk-parser.html)|`2026-05-04 02:31:00`|`Counter-Strike 2`|
+|[Pro CS2 DMA &#45; Esp & Aimbot & Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/656442-pro-cs2-dma-esp-aimbot-web-radar.html)|`2026-05-04 02:28:00`|`Counter-Strike 2`|
+|[Deleted EPS on my fTPM, HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750943-deleted-eps-ftpm-help.html)|`2026-05-04 02:27:00`|`Anti-Cheat Bypass`|
+|[ShimmyImpact 6&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/748219-shimmyimpact-6-5-a.html)|`2026-05-04 02:23:00`|`Genshin Impact`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-04 02:22:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-04 02:20:00`|`Other Games`|
+|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-04 02:19:00`|`Rust`|
+|[Samurai's Scripts &#91;LEGACY ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748763-samurais-scripts-legacy.html)|`2026-05-04 02:18:00`|`Grand Theft Auto V`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-04 01:31:00`|`Other FPS Games`|
 |[HeapAlloc Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750573-heapalloc-detection.html)|`2026-05-04 01:31:00`|`Anti-Cheat Bypass`|
 |[BloodStrike SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/745049-bloodstrike-sdk.html)|`2026-05-04 01:30:00`|`Other FPS Games`|
