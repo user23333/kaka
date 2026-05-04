@@ -13,6 +13,8 @@
 |5|[pcileech&#45;nvme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750013-pcileech-nvme.html)|`2026-05-04 00:50:47`|`anti-cheat-bypass`|
 |13|[External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750320-external-radar.html)|`2026-05-04 13:50:52`|`counter-strike-2-a`|
 |17|[physical&#45;library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750137-physical-library.html)|`2026-05-04 20:07:00`|`anti-cheat-bypass`|
+|8|[cs2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750515-cs2-internal-cheat.html)|`2026-05-04 22:25:26`|`counter-strike-2-a`|
+|5|[YuiTools — External CS2 Multi&#45;Hack &#40;ESP / Aimbot / Triggerbot / World Helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750126-yuitools-external-cs2-multi-hack-esp-aimbot-triggerbot-world-helpers.html)|`2026-05-04 22:25:26`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +41,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Further Verification for rank play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751016-verification-rank-play.html)|`2026-05-04 22:25:00`|`Call of Duty: Black Ops 7`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-05-04 22:22:00`|`Grand Theft Auto V`|
+|[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750922-gui-framework.html)|`2026-05-04 22:08:00`|`Counter-Strike 2`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-05-04 22:06:00`|`Other FPS Games`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-04 22:01:00`|`Escape from Tarkov`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-04 22:01:00`|`Rainbow Six Siege`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-05-04 21:56:00`|`Battlefield 6`|
 |[Undetected ImGUI hook method ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750708-undetected-imgui-hook-method.html)|`2026-05-04 19:57:00`|`Alternative Online Mods`|
 |[Dead Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751020-dead-check.html)|`2026-05-04 19:55:00`|`Call of Duty: Black Ops 7`|
 |[Spoofable Disks/Map1202](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751070-spoofable-disks-map1202.html)|`2026-05-04 19:48:00`|`Valorant`|
