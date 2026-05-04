@@ -11,6 +11,7 @@
 |8|[cs2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750515-cs2-internal-cheat.html)|`2026-05-05 00:15:30`|`counter-strike-2-a`|
 |17|[physical&#45;library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750137-physical-library.html)|`2026-05-05 00:15:30`|`anti-cheat-bypass`|
 |5|[YuiTools — External CS2 Multi&#45;Hack &#40;ESP / Aimbot / Triggerbot / World Helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750126-yuitools-external-cs2-multi-hack-esp-aimbot-triggerbot-world-helpers.html)|`2026-05-05 00:15:30`|`counter-strike-2-releases`|
+|5|[NTE Neverness to Everness FishBot &#40;request / info&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750589-nte-neverness-everness-fishbot-request-info.html)|`2026-05-05 01:51:03`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple CS2 External AutoBhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750840-simple-cs2-external-autobhop.html)|`2026-05-05 01:48:00`|`Counter-Strike 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-05 01:48:00`|`Apex Legends`|
+|[Panorama model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750805-panorama-model.html)|`2026-05-05 01:48:00`|`Counter-Strike 2`|
+|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-05 01:47:00`|`Valorant`|
+|[Fake Duplication Glitch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/747964-fake-duplication-glitch.html)|`2026-05-05 01:46:00`|`ARC Raiders`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-05 01:45:00`|`Counter-Strike 2`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-05 01:42:00`|`Overwatch`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-05-05 01:40:00`|`Counter-Strike 2 Releases`|
+|[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751033-mapper-eac.html)|`2026-05-05 01:35:00`|`Anti-Cheat Bypass`|
 |[DMA introduction VGK/Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746494-dma-introduction-vgk-valorant.html)|`2026-05-05 00:14:00`|`Anti-Cheat Bypass`|
 |[ESP Issues After AG2 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751126-esp-issues-ag2-update.html)|`2026-05-05 00:14:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-05 00:12:00`|`Rainbow Six Siege`|
