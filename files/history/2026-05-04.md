@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-05-04 15:50:00`|`ARC Raiders`|
+|[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-05-04 15:32:00`|`Other MMORPG and Strategy`|
+|[How safe is Handle Hijack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750339-safe-handle-hijack.html)|`2026-05-04 15:21:00`|`Counter-Strike 2`|
 |[Autowall always printing 0 damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751031-autowall-printing-0-damage.html)|`2026-05-04 13:49:00`|`Counter-Strike 2`|
 |[Duping Tool &#45; Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750939-duping-tool-guidance.html)|`2026-05-04 13:48:00`|`ARC Raiders`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-05-04 13:47:00`|`Tom Clancy's The Division`|
