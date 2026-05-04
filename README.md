@@ -11,6 +11,7 @@
 |28|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-04 00:50:47`|`other-fps-games`|
 |24|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-04 00:50:47`|`rust`|
 |5|[pcileech&#45;nvme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750013-pcileech-nvme.html)|`2026-05-04 00:50:47`|`anti-cheat-bypass`|
+|13|[External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750320-external-radar.html)|`2026-05-04 13:50:52`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,23 @@
 |3|[GR 0&#46;3&#46;18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54655)|`2026-05-04 05:36:53`|
 |2|[AeroTalesIL2CPPDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54641)|`2026-05-04 06:21:22`|
 |3|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54653)|`2026-05-04 10:41:20`|
+|41|[neverness](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54658)|`2026-05-04 13:50:52`|
+|5|[static decryption dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54656)|`2026-05-04 13:50:52`|
+|12|[nerv&#45;release&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54654)|`2026-05-04 13:50:52`|
+|13|[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54652)|`2026-05-04 13:50:52`|
+|4|[Essentials1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54650)|`2026-05-04 13:50:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autowall always printing 0 damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751031-autowall-printing-0-damage.html)|`2026-05-04 13:49:00`|`Counter-Strike 2`|
+|[Duping Tool &#45; Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750939-duping-tool-guidance.html)|`2026-05-04 13:48:00`|`ARC Raiders`|
+|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-05-04 13:47:00`|`Tom Clancy's The Division`|
+|[arc raiders console dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750612-arc-raiders-console-dupe.html)|`2026-05-04 13:47:00`|`ARC Raiders`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-05-04 13:45:00`|`ARMA 3`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-05-04 13:35:00`|`Grand Theft Auto V`|
+|[Valorant Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/741023-valorant-skin-changer.html)|`2026-05-04 13:34:00`|`Valorant`|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-05-04 13:31:00`|`Garry's Mod`|
+|[DayZ DMA only Web Radar &#91;source code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750100-dayz-dma-web-radar-source-code.html)|`2026-05-04 13:22:00`|`DayZ SA`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-04 10:32:00`|`Valorant`|
 |[NTE Neverness to Everness FishBot &#40;request / info&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750589-nte-neverness-everness-fishbot-request-info.html)|`2026-05-04 10:28:00`|`Other Games`|
 |[Foxhole Midnight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750025-foxhole-midnight-internal.html)|`2026-05-04 10:25:00`|`Other MMORPG and Strategy`|
