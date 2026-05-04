@@ -38,6 +38,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[is writing into the localplayers viewport detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751056-writing-localplayers-viewport-detected.html)|`2026-05-04 18:21:00`|`Counter-Strike 2`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-05-04 18:16:00`|`HELLDIVERS 2`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-04 18:10:00`|`Other MMORPG and Strategy`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2026-05-04 18:07:00`|`Valorant`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-05-04 18:05:00`|`Counter-Strike 2`|
+|[Has ever someone received a hardware ban ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/750684-received-hardware-ban.html)|`2026-05-04 17:52:00`|`THE FINALS`|
+|[Instant Permanent EAC Ban on Fresh EFT Account &#45; First Match After Tutorial &#40;Never Pl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/751053-instant-permanent-eac-ban-fresh-eft-account-match-tutorial-pl.html)|`2026-05-04 17:43:00`|`Forum General`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-04 17:38:00`|`Apex Legends`|
+|[HP Laptop , tried everything&#46;&#46; literally impossible to spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/586668-hp-laptop-tried-literally-impossible-spoof.html)|`2026-05-04 17:31:00`|`Valorant`|
 |[ARC Raiders API gameAssetIds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/740604-arc-raiders-api-gameassetids.html)|`2026-05-04 15:50:00`|`ARC Raiders`|
 |[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-05-04 15:32:00`|`Other MMORPG and Strategy`|
 |[How safe is Handle Hijack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750339-safe-handle-hijack.html)|`2026-05-04 15:21:00`|`Counter-Strike 2`|
