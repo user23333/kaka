@@ -12,6 +12,7 @@
 |24|[EAC Update Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/750496-eac-update-rust.html)|`2026-05-04 00:50:47`|`rust`|
 |5|[pcileech&#45;nvme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750013-pcileech-nvme.html)|`2026-05-04 00:50:47`|`anti-cheat-bypass`|
 |13|[External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750320-external-radar.html)|`2026-05-04 13:50:52`|`counter-strike-2-a`|
+|17|[physical&#45;library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750137-physical-library.html)|`2026-05-04 20:07:00`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected ImGUI hook method ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/750708-undetected-imgui-hook-method.html)|`2026-05-04 19:57:00`|`Alternative Online Mods`|
+|[Dead Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751020-dead-check.html)|`2026-05-04 19:55:00`|`Call of Duty: Black Ops 7`|
+|[Spoofable Disks/Map1202](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751070-spoofable-disks-map1202.html)|`2026-05-04 19:48:00`|`Valorant`|
+|[Cs2 cvars lags](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751098-cs2-cvars-lags.html)|`2026-05-04 19:37:00`|`Counter-Strike 2`|
 |[is writing into the localplayers viewport detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751056-writing-localplayers-viewport-detected.html)|`2026-05-04 18:21:00`|`Counter-Strike 2`|
 |[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-05-04 18:16:00`|`HELLDIVERS 2`|
 |[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-04 18:10:00`|`Other MMORPG and Strategy`|
