@@ -28,9 +28,17 @@
 |4|[Source Vanguard Logger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54661)|`2026-05-04 05:36:53`|
 |3|[GR 0&#46;3&#46;18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54655)|`2026-05-04 05:36:53`|
 |2|[AeroTalesIL2CPPDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54641)|`2026-05-04 06:21:22`|
+|3|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54653)|`2026-05-04 10:41:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-04 10:32:00`|`Valorant`|
+|[NTE Neverness to Everness FishBot &#40;request / info&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750589-nte-neverness-everness-fishbot-request-info.html)|`2026-05-04 10:28:00`|`Other Games`|
+|[Foxhole Midnight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750025-foxhole-midnight-internal.html)|`2026-05-04 10:25:00`|`Other MMORPG and Strategy`|
+|[pcileech&#45;nvme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750013-pcileech-nvme.html)|`2026-05-04 10:19:00`|`Anti-Cheat Bypass`|
+|[phyton triggerbot very simple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749987-phyton-triggerbot-simple.html)|`2026-05-04 10:18:00`|`Counter-Strike 2`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-05-04 10:16:00`|`Other Single Player Games`|
+|[External Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750320-external-radar.html)|`2026-05-04 10:15:00`|`Counter-Strike 2`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-05-04 07:42:00`|`Other FPS Games`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-05-04 07:31:00`|`Palworld`|
 |[Pawx &#124; Lua Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/750565-pawx-lua-executor.html)|`2026-05-04 07:30:00`|`Garry's Mod`|
