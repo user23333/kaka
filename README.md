@@ -11,6 +11,7 @@
 |8|[cs2 internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750515-cs2-internal-cheat.html)|`2026-05-06 00:16:25`|`counter-strike-2-a`|
 |10|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-06 00:16:25`|`counter-strike-2-a`|
 |23|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-06 00:16:25`|`valorant`|
+|8|[vgc&#46;exe Network Connection Monitor – passive TCP/UDP logger &#40;iphlpapi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750987-vgc-exe-network-connection-monitor-passive-tcp-udp-logger-iphlpapi.html)|`2026-05-06 07:08:46`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-05-06 07:06:00`|`Anti-Cheat Bypass`|
+|[Getting current map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751315-getting-current-map-name.html)|`2026-05-06 07:02:00`|`Counter-Strike 2`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-05-06 06:59:00`|`Grand Theft Auto V`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-05-06 06:51:00`|`Deadlock`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-06 06:51:00`|`Valorant`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-06 06:51:00`|`Other Games`|
 |[arbitrary physical memory read in cpuz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751115-arbitrary-physical-memory-read-cpuz.html)|`2026-05-06 06:05:00`|`Anti-Cheat Bypass`|
 |[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-06 06:05:00`|`Counter-Strike 2`|
 |[How do I update the decryption function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751281-update-decryption-function.html)|`2026-05-06 06:01:00`|`Valorant`|
