@@ -13,6 +13,7 @@
 |5|[YuiTools — External CS2 Multi&#45;Hack &#40;ESP / Aimbot / Triggerbot / World Helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750126-yuitools-external-cs2-multi-hack-esp-aimbot-triggerbot-world-helpers.html)|`2026-05-05 00:15:30`|`counter-strike-2-releases`|
 |5|[NTE Neverness to Everness FishBot &#40;request / info&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750589-nte-neverness-everness-fishbot-request-info.html)|`2026-05-05 01:51:03`|`other-games`|
 |10|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-05 09:10:19`|`counter-strike-2-a`|
+|3|[any cheat menus with as much functionality as zodiacs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/750196-cheat-menus-functionality-zodiacs.html)|`2026-05-05 12:25:00`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,17 @@
 |56|[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54652)|`2026-05-05 00:15:30`|
 |47|[Latest NTE sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54651)|`2026-05-05 00:15:30`|
 |52|[Essentials1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54650)|`2026-05-05 00:15:30`|
+|5|[5&#46;7&#46;4&#45;598870&#43;&#95;&#95;Squad&#95;v10&#46;4&#46;0&#45;SquadGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54676)|`2026-05-05 12:25:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[do something when final screen happens](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751199-final-screen-happens.html)|`2026-05-05 12:14:00`|`Counter-Strike 2`|
+|[looking for free/leaked ev cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751050-looking-free-leaked-ev-cert.html)|`2026-05-05 12:08:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-05-05 12:06:00`|`Grand Theft Auto V`|
+|[&#91;VOTE&#93; May 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/750175-vote-2026-month.html)|`2026-05-05 11:37:00`|`Member of the Month`|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-05-05 11:34:00`|`Garry's Mod`|
+|[arbitrary physical memory read in cpuz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751115-arbitrary-physical-memory-read-cpuz.html)|`2026-05-05 11:29:00`|`Anti-Cheat Bypass`|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-05-05 11:21:00`|`Other FPS Games`|
 |[How safe is Handle Hijack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750339-safe-handle-hijack.html)|`2026-05-05 09:01:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-05 09:01:00`|`Call of Duty: Black Ops 7`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-05-05 08:56:00`|`Garry's Mod`|
