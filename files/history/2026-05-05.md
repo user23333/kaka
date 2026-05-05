@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-05-05 18:19:00`|`Counter-Strike 2`|
+|[recoil control CS2 Lendan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751235-recoil-control-cs2-lendan.html)|`2026-05-05 18:10:00`|`Counter-Strike 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-05-05 17:45:00`|`Escape from Tarkov`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-05-05 17:44:00`|`Counter-Strike 2`|
+|[Using AI to make temp spoofer for R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745577-using-ai-temp-spoofer-r6.html)|`2026-05-05 17:42:00`|`Rainbow Six Siege`|
+|[IDA 9&#46;3 Classinformer & SigMaker plugins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/750691-ida-9-3-classinformer-sigmaker-plugins.html)|`2026-05-05 17:36:00`|`General Programming and Reversing`|
 |[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2026-05-05 16:28:00`|`Cheat Engine Tables`|
 |[rightclick &#43; Q = stealth kill poolcue bat action help&#33; pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751227-rightclick-stealth-kill-poolcue-bat-action-help-pls.html)|`2026-05-05 16:21:00`|`Alternative Online Mods`|
 |[Liar's Bar Mod &#124; 0&#46;981 &#124; DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739845-liars-bar-mod-0-981-dll.html)|`2026-05-05 16:12:00`|`Other Games`|
