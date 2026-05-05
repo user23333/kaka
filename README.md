@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[arbitrary physical memory read in cpuz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751115-arbitrary-physical-memory-read-cpuz.html)|`2026-05-06 06:05:00`|`Anti-Cheat Bypass`|
+|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-06 06:05:00`|`Counter-Strike 2`|
+|[How do I update the decryption function?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751281-update-decryption-function.html)|`2026-05-06 06:01:00`|`Valorant`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-06 05:53:00`|`Other FPS Games`|
 |[glow method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/751278-glow-method.html)|`2026-05-06 05:08:00`|`CounterStrike Source`|
 |[Bunnyhop Ban rate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751305-bunnyhop-ban-rate.html)|`2026-05-06 05:08:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-06 05:06:00`|`Escape from Tarkov`|
