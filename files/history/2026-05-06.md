@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-06 07:58:00`|`Counter-Strike 2`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-05-06 07:51:00`|`Grand Theft Auto V`|
+|[&#91;Help&#93; Warface DX11 Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/751318-help-warface-dx11-chams.html)|`2026-05-06 07:48:00`|`Warface`|
+|[USB Adapter with EEPROM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750741-usb-adapter-eeprom.html)|`2026-05-06 07:39:00`|`Anti-Cheat Bypass`|
+|[I need help for Killing Floor2 UWorld, GNames Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751204-help-killing-floor2-uworld-gnames-offsets.html)|`2026-05-06 07:37:00`|`Other FPS Games`|
 |[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-05-06 07:06:00`|`Anti-Cheat Bypass`|
 |[Getting current map name](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751315-getting-current-map-name.html)|`2026-05-06 07:02:00`|`Counter-Strike 2`|
 |[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-05-06 06:59:00`|`Grand Theft Auto V`|
