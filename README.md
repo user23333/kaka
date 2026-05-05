@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[glow method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/751278-glow-method.html)|`2026-05-06 05:08:00`|`CounterStrike Source`|
+|[Bunnyhop Ban rate?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751305-bunnyhop-ban-rate.html)|`2026-05-06 05:08:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-06 05:06:00`|`Escape from Tarkov`|
+|[Cham Replication](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/750893-cham-replication.html)|`2026-05-06 04:50:00`|`Overwatch`|
+|[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751033-mapper-eac.html)|`2026-05-06 04:49:00`|`Anti-Cheat Bypass`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-06 04:00:00`|`Counter-Strike 2 Releases`|
 |[How to perform bhop after AG2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751299-perform-bhop-ag2.html)|`2026-05-06 03:58:00`|`Counter-Strike 2`|
 |[Fishing Planet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/683635-fishing-planet.html)|`2026-05-06 03:57:00`|`Other Games`|
