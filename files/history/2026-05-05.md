@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quint Cs2 semi rage/legit cheat internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748776-quint-cs2-semi-rage-legit-cheat-internal.html)|`2026-05-05 22:54:00`|`Counter-Strike 2 Releases`|
+|[How to get layer information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751254-layer-information.html)|`2026-05-05 22:47:00`|`Counter-Strike 2`|
+|[Magic bullet internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751253-magic-bullet-internal.html)|`2026-05-05 22:41:00`|`Alternative Online Mods`|
+|[GeoGuessr steam edition helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751023-geoguessr-steam-edition-helper.html)|`2026-05-05 22:39:00`|`Other Games`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2026-05-05 22:35:00`|`Garry's Mod`|
+|[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-05-05 22:29:00`|`Counterstrike Global Offensive`|
 |[F1/ICE hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751246-f1-ice-hooks.html)|`2026-05-05 20:43:00`|`Alternative Online Mods`|
 |[esp crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751244-esp-crash.html)|`2026-05-05 20:40:00`|`Counter-Strike 2`|
 |[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-05-05 20:35:00`|`Other FPS Games`|
