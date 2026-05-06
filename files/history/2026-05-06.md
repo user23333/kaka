@@ -12,6 +12,7 @@
 |10|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-06 00:16:25`|`counter-strike-2-a`|
 |23|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-06 00:16:25`|`valorant`|
 |8|[vgc&#46;exe Network Connection Monitor – passive TCP/UDP logger &#40;iphlpapi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750987-vgc-exe-network-connection-monitor-passive-tcp-udp-logger-iphlpapi.html)|`2026-05-06 07:08:46`|`anti-cheat-bypass`|
+|16|[internal engine render sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750591-internal-engine-render-sdk.html)|`2026-05-06 20:02:44`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-06 19:50:00`|`Other FPS Games`|
+|[Resource dumper decryption understanding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751416-resource-dumper-decryption-understanding.html)|`2026-05-06 19:46:00`|`Alternative Online Mods`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-06 19:43:00`|`Phasmophobia`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-06 19:40:00`|`Overwatch`|
+|[Helldivers 2 &#45; Stratagem Radial Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740370-helldivers-2-stratagem-radial-menu.html)|`2026-05-06 19:36:00`|`HELLDIVERS 2`|
 |[Foundational source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/743039-foundational-source.html)|`2026-05-06 18:05:00`|`Overwatch`|
 |[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-05-06 17:57:00`|`Other FPS Games`|
 |[Is VAC disabled?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751260-vac-disabled.html)|`2026-05-06 17:57:00`|`Counter-Strike 2`|
