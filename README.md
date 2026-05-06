@@ -11,6 +11,7 @@
 |10|[vgc&#46;exe Network Connection Monitor – passive TCP/UDP logger &#40;iphlpapi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750987-vgc-exe-network-connection-monitor-passive-tcp-udp-logger-iphlpapi.html)|`2026-05-07 00:15:07`|`anti-cheat-bypass`|
 |10|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-07 00:15:07`|`counter-strike-2-a`|
 |16|[internal engine render sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750591-internal-engine-render-sdk.html)|`2026-05-07 00:15:07`|`counter-strike-2-a`|
+|16|[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751033-mapper-eac.html)|`2026-05-07 03:13:17`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,19 @@
 |20|[GR 0&#46;3&#46;18](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54655)|`2026-05-07 00:15:07`|
 |245|[nerv&#45;release&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54654)|`2026-05-07 00:15:07`|
 |110|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54653)|`2026-05-07 00:15:07`|
+|5|[winring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54697)|`2026-05-07 03:13:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-05-07 03:13:00`|`ARMA 3`|
+|[Cs2 rage help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751519-cs2-rage-help.html)|`2026-05-07 03:12:00`|`Counter-Strike 2`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-07 03:11:00`|`Counter-Strike 2 Releases`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-07 03:06:00`|`Overwatch`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-07 03:06:00`|`Other Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-05-07 02:56:00`|`Counter-Strike 2`|
+|[data ptr hook driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/730195-data-ptr-hook-driver.html)|`2026-05-07 02:54:00`|`Anti-Cheat Bypass`|
+|[is ac disabler patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/751344-ac-disabler-patched.html)|`2026-05-07 02:54:00`|`Marvel Rivals`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-05-07 02:54:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-07 01:51:00`|`Escape from Tarkov`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-07 01:51:00`|`Valorant`|
 |[EFT Metadata decryption &#40;game data&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/751451-eft-metadata-decryption-game-data.html)|`2026-05-07 01:48:00`|`Escape from Tarkov`|
