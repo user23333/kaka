@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[static decryption dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/750964-static-decryption-dumper.html)|`2026-05-07 04:44:00`|`Call of Duty: Black Ops 7`|
+|[Member of the Month &#45; May 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/751517-month-2026-a.html)|`2026-05-07 04:42:00`|`Member of the Month`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-07 04:42:00`|`Call of Duty: Black Ops 7`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-07 04:41:00`|`Other MMORPG and Strategy`|
+|[winring0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751438-winring0.html)|`2026-05-07 04:40:00`|`Anti-Cheat Bypass`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-07 04:35:00`|`Escape from Tarkov`|
+|[Getting Weapon Names in BO7 &#40;Xbox / cod&#46;exe v1&#46;0&#46;165&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751533-getting-weapon-names-bo7-xbox-cod-exe-v1-0-165-0-a.html)|`2026-05-07 04:34:00`|`Call of Duty: Black Ops 7`|
+|[Cant get Skinchanger working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750842-cant-skinchanger.html)|`2026-05-07 04:31:00`|`Counter-Strike 2`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-05-07 03:13:00`|`ARMA 3`|
 |[Cs2 rage help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751519-cs2-rage-help.html)|`2026-05-07 03:12:00`|`Counter-Strike 2`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-07 03:11:00`|`Counter-Strike 2 Releases`|
