@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Better way to get versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751551-versions.html)|`2026-05-07 07:25:00`|`Alternative Online Mods`|
+|[How do i apply triggerseed into my code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751248-apply-triggerseed-code.html)|`2026-05-07 07:16:00`|`Counter-Strike 2`|
+|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-07 07:11:00`|`Counter-Strike 2`|
+|[How to change ur FTPM without a driver &#40;AMD, Gigabyte only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/720900-change-ur-ftpm-driver-amd-gigabyte.html)|`2026-05-07 07:00:00`|`Valorant`|
+|[My spoofer dont working flagged?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750817-spoofer-dont-flagged.html)|`2026-05-07 07:00:00`|`Valorant`|
+|[some leaked vgc info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751417-leaked-vgc-info.html)|`2026-05-07 06:50:00`|`Valorant`|
+|[Inventory Changer &#45; paint kit not rendering after mesh group switch / model swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751547-inventory-changer-paint-kit-rendering-mesh-switch-model-swap.html)|`2026-05-07 06:44:00`|`Counter-Strike 2`|
 |[Overlay Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751455-overlay-hijacking.html)|`2026-05-07 06:30:00`|`Anti-Cheat Bypass`|
 |[BYOVD without mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751343-byovd-mapping.html)|`2026-05-07 06:29:00`|`Anti-Cheat Bypass`|
 |[S&box &#40;Garrys Mod 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/516338-box-garrys-mod-2-a.html)|`2026-05-07 06:26:00`|`Other FPS Games`|
