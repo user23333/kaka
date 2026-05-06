@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PassiveMode / Anti Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736330-passivemode-anti-aim.html)|`2026-05-06 22:33:00`|`Alternative Online Mods`|
+|[Using AI to make temp spoofer for R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745577-using-ai-temp-spoofer-r6.html)|`2026-05-06 22:32:00`|`Rainbow Six Siege`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-06 22:31:00`|`Apex Legends`|
+|[Cant get Skinchanger working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750842-cant-skinchanger.html)|`2026-05-06 21:57:00`|`Counter-Strike 2`|
 |[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-05-06 19:50:00`|`Other FPS Games`|
 |[Resource dumper decryption understanding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751416-resource-dumper-decryption-understanding.html)|`2026-05-06 19:46:00`|`Alternative Online Mods`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-06 19:43:00`|`Phasmophobia`|
