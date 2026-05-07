@@ -28,9 +28,18 @@
 |5|[winring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54697)|`2026-05-07 03:13:17`|
 |2|[S&Box Schema Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54691)|`2026-05-07 06:31:01`|
 |10|[asthmaphobia v0&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54706)|`2026-05-07 08:09:32`|
+|2|[Isonzo Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54700)|`2026-05-07 11:59:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[No More Room in Hell internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751353-hell-internal-cheat.html)|`2026-05-07 11:54:00`|`Other FPS Games`|
+|[Helldivers 2 &#45; Stratagem Radial Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740370-helldivers-2-stratagem-radial-menu.html)|`2026-05-07 11:44:00`|`HELLDIVERS 2`|
+|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-07 11:40:00`|`Valorant`|
+|[new trace structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751560-trace-structs.html)|`2026-05-07 11:39:00`|`Counter-Strike 2`|
+|[Isonzo Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751521-isonzo-internal.html)|`2026-05-07 11:38:00`|`Other FPS Games`|
+|[DMA introduction VGK/Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746494-dma-introduction-vgk-valorant.html)|`2026-05-07 11:35:00`|`Anti-Cheat Bypass`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-05-07 11:35:00`|`Alternative Online Mods`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-07 11:34:00`|`Marvel Rivals`|
 |[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-05-07 08:08:00`|`Call of Duty: Black Ops 2`|
 |[nerv SkinChanger &#40;no Inv management atm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750955-nerv-skinchanger-inv-management-atm.html)|`2026-05-07 08:03:00`|`Counter-Strike 2 Releases`|
 |[Gmod Offsets/Netvars Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735362-gmod-offsets-netvars-dumper-x64.html)|`2026-05-07 08:03:00`|`Garry's Mod`|
