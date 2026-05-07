@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[p9 EAC Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751606-p9-eac-driver.html)|`2026-05-07 20:48:00`|`Rust`|
+|[External 3D Particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750925-external-3d-particles.html)|`2026-05-07 20:47:00`|`Counter-Strike 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-07 20:45:00`|`Other MMORPG and Strategy`|
+|[How do I find Offsets in R6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/751211-offsets-r6.html)|`2026-05-07 20:45:00`|`Rainbow Six Siege`|
+|[Spread prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751608-spread-prediction.html)|`2026-05-07 20:43:00`|`Counter-Strike 2`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-05-07 20:41:00`|`Escape from Tarkov`|
+|[Codes for stat editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/637007-codes-stat-editor.html)|`2026-05-07 20:39:00`|`Grand Theft Auto V`|
 |[Ban rate using DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750237-ban-rate-using-dma.html)|`2026-05-07 19:06:00`|`Apex Legends`|
 |[Need For Speed World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630560-speed-world-hack.html)|`2026-05-07 19:04:00`|`Other MMORPG and Strategy`|
 |[esp admin ragemp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751437-esp-admin-ragemp.html)|`2026-05-07 18:52:00`|`Grand Theft Auto V`|
