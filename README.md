@@ -27,9 +27,18 @@
 |110|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54653)|`2026-05-07 00:15:07`|
 |5|[winring](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54697)|`2026-05-07 03:13:17`|
 |2|[S&Box Schema Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54691)|`2026-05-07 06:31:01`|
+|10|[asthmaphobia v0&#46;17](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54706)|`2026-05-07 08:09:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-05-07 08:08:00`|`Call of Duty: Black Ops 2`|
+|[nerv SkinChanger &#40;no Inv management atm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750955-nerv-skinchanger-inv-management-atm.html)|`2026-05-07 08:03:00`|`Counter-Strike 2 Releases`|
+|[Gmod Offsets/Netvars Dumper &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/735362-gmod-offsets-netvars-dumper-x64.html)|`2026-05-07 08:03:00`|`Garry's Mod`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-05-07 08:01:00`|`League of Legends`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-07 07:53:00`|`Other FPS Games`|
+|[Gamble with your friends menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751154-gamble-friends-menu.html)|`2026-05-07 07:49:00`|`Other Games`|
+|[GSC Scripts for MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744546-gsc-scripts-mp.html)|`2026-05-07 07:45:00`|`Call of Duty: Modern Warfare`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-07 07:35:00`|`Phasmophobia`|
 |[Better way to get versions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751551-versions.html)|`2026-05-07 07:25:00`|`Alternative Online Mods`|
 |[How do i apply triggerseed into my code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751248-apply-triggerseed-code.html)|`2026-05-07 07:16:00`|`Counter-Strike 2`|
 |[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-07 07:11:00`|`Counter-Strike 2`|
