@@ -12,6 +12,7 @@
 |20|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-08 01:14:59`|`other-fps-games`|
 |16|[internal engine render sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750591-internal-engine-render-sdk.html)|`2026-05-08 01:14:59`|`counter-strike-2-a`|
 |4|[Gamble with your friends menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751154-gamble-friends-menu.html)|`2026-05-08 05:13:31`|`other-games`|
+|11|[CS2 INTERNAL WITH SKIN CHANGER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750743-cs2-internal-skin-changer.html)|`2026-05-08 13:47:15`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EPT Hooking Runtime Detections: PFN Clustering, Pool Scans, and Hiding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751605-ept-hooking-runtime-detections-pfn-clustering-pool-scans-hiding.html)|`2026-05-08 13:30:00`|`Anti-Cheat Bypass`|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2026-05-08 13:30:00`|`Anti-Cheat Bypass`|
+|[DayZ DMA only Web Radar &#91;source code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750100-dayz-dma-web-radar-source-code.html)|`2026-05-08 13:20:00`|`DayZ SA`|
+|[Ready or not Cheat 08/05/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751689-ready-cheat-08-05-2026-a.html)|`2026-05-08 13:19:00`|`Other FPS Games`|
+|[Reminder: Blizzard adimins are 100 percent reading this Forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/744203-reminder-blizzard-adimins-100-percent-reading-forum.html)|`2026-05-08 13:12:00`|`Overwatch`|
+|[Heard of new working thing like materializing is back or something&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751564-heard-materializing.html)|`2026-05-08 13:10:00`|`ARC Raiders`|
+|[Is there anyone here who has a working program for duplicating items in ARC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751644-program-duplicating-items-arc.html)|`2026-05-08 13:10:00`|`ARC Raiders`|
+|[How to have glow ESP in a cs2 internal cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751610-glow-esp-cs2-internal-cheat.html)|`2026-05-08 13:08:00`|`Counter-Strike 2`|
+|[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-05-08 13:04:00`|`Other Games`|
 |[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-05-08 11:40:00`|`ARMA 3`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-08 11:38:00`|`Rainbow Six Siege`|
 |[Mouse Movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751681-mouse-movement.html)|`2026-05-08 11:36:00`|`Anti-Cheat Bypass`|
