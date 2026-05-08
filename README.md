@@ -15,6 +15,7 @@
 |11|[CS2 INTERNAL WITH SKIN CHANGER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750743-cs2-internal-skin-changer.html)|`2026-05-08 13:47:15`|`counter-strike-2-a`|
 |12|[VGC emulator &#45; stuck on vgk IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750661-vgc-emulator-stuck-vgk-ioctl.html)|`2026-05-08 15:08:58`|`valorant`|
 |4|[Duping Tool &#45; Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750939-duping-tool-guidance.html)|`2026-05-08 16:45:41`|`arc-raiders`|
+|19|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-05-08 18:07:56`|`garry-s-mod`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[roblox offsets needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/742828-roblox-offsets.html)|`2026-05-08 18:06:00`|`Roblox`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-08 17:59:00`|`Overwatch`|
+|[apex ban&#40;s&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751711-apex-ban.html)|`2026-05-08 17:56:00`|`Apex Legends`|
+|[Real MAC Address Change I RTNicPg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751674-real-mac-address-change-rtnicpg.html)|`2026-05-08 17:47:00`|`Anti-Cheat Bypass`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-05-08 17:44:00`|`Farlight 84`|
+|[&#91;Help&#93; Bypassing Vanguard TPM 2&#46;0 Popup on Non&#45;TPM Motherboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751706-help-bypassing-vanguard-tpm-2-0-popup-tpm-motherboard.html)|`2026-05-08 17:41:00`|`Valorant`|
+|[Gignight&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/751237-gignight-dll.html)|`2026-05-08 17:34:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-08 16:39:00`|`Valorant`|
 |[Crosshair position / externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751229-crosshair-position-externally.html)|`2026-05-08 16:17:00`|`Grand Theft Auto V`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-05-08 16:16:00`|`Other FPS Games`|
