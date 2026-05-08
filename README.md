@@ -14,6 +14,7 @@
 |4|[Gamble with your friends menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751154-gamble-friends-menu.html)|`2026-05-08 05:13:31`|`other-games`|
 |11|[CS2 INTERNAL WITH SKIN CHANGER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750743-cs2-internal-skin-changer.html)|`2026-05-08 13:47:15`|`counter-strike-2-a`|
 |12|[VGC emulator &#45; stuck on vgk IOCTL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750661-vgc-emulator-stuck-vgk-ioctl.html)|`2026-05-08 15:08:58`|`valorant`|
+|4|[Duping Tool &#45; Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750939-duping-tool-guidance.html)|`2026-05-08 16:45:41`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-08 16:39:00`|`Valorant`|
+|[Crosshair position / externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751229-crosshair-position-externally.html)|`2026-05-08 16:17:00`|`Grand Theft Auto V`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-05-08 16:16:00`|`Other FPS Games`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-05-08 14:59:00`|`THE FINALS`|
 |[ESP/Entity List Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751696-esp-entity-list-changes.html)|`2026-05-08 14:57:00`|`Counter-Strike 2`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-08 14:49:00`|`Other Games`|
