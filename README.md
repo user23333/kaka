@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751788-chams.html)|`2026-05-09 02:54:00`|`Counter-Strike 2`|
+|[p9 EAC Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751606-p9-eac-driver.html)|`2026-05-09 02:49:00`|`Rust`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-05-09 02:41:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-09 02:32:00`|`Counter-Strike 2`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-05-09 02:30:00`|`Rainbow Six Siege`|
+|[Need Help Reconstructing Imports & Cleaning Up Valorant Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751693-help-reconstructing-imports-cleaning-valorant-dump.html)|`2026-05-09 02:30:00`|`Valorant`|
+|[Callout Region](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751787-callout-region.html)|`2026-05-09 02:29:00`|`Valorant`|
+|[Protobuf → Raw C&#43;&#43; Header Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751567-protobuf-raw-header-generator.html)|`2026-05-09 02:27:00`|`Counter-Strike 2`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-05-09 01:35:00`|`Grand Theft Auto V`|
 |[Need a Trusted Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751778-trusted-spoofer.html)|`2026-05-09 01:34:00`|`Anti-Cheat Bypass`|
 |[Waveshield new "instant detection"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751776-waveshield-instant-detection.html)|`2026-05-09 01:30:00`|`Alternative Online Mods`|
