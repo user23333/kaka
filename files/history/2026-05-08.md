@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Movement recorder&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/736809-movement-recorder.html)|`2026-05-08 22:41:00`|`CounterStrike Source`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-08 22:40:00`|`Escape from Tarkov`|
+|[are there any permanat tpm spoofers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751758-permanat-tpm-spoofers.html)|`2026-05-08 22:38:00`|`Call of Duty: Black Ops 7`|
+|[Inventory Changer &#45; paint kit not rendering after mesh group switch / model swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751547-inventory-changer-paint-kit-rendering-mesh-switch-model-swap.html)|`2026-05-08 22:24:00`|`Counter-Strike 2`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-08 20:51:00`|`Tom Clancy's The Division`|
 |[ragemp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751740-ragemp.html)|`2026-05-08 20:41:00`|`Grand Theft Auto V`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2026-05-08 20:34:00`|`Halo`|
