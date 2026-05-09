@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Makcu Script 2026 &#91;1PC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751040-rust-makcu-script-2026-1pc.html)|`2026-05-10 04:55:00`|`Rust`|
+|[I Need Rust Recoil Patern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751917-rust-recoil-patern.html)|`2026-05-10 04:48:00`|`Rust`|
+|[Foxhole Midnight Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750025-foxhole-midnight-internal.html)|`2026-05-10 04:42:00`|`Other MMORPG and Strategy`|
+|[Simple CS2 External AutoBhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750840-simple-cs2-external-autobhop.html)|`2026-05-10 04:42:00`|`Counter-Strike 2`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-10 04:41:00`|`Marvel Rivals`|
+|[ABYSS RIVALS &#124; Giving Back](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/745837-abyss-rivals-giving.html)|`2026-05-10 04:34:00`|`Marvel Rivals`|
 |[Using AI to make temp spoofer for R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745577-using-ai-temp-spoofer-r6.html)|`2026-05-10 03:59:00`|`Rainbow Six Siege`|
 |[entity hook offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/751965-entity-hook-offset.html)|`2026-05-10 03:58:00`|`Rainbow Six Siege`|
 |[Far Far West Demo MOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740610-west-demo-mod.html)|`2026-05-10 03:57:00`|`Other FPS Games`|
