@@ -40,6 +40,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-09 21:44:00`|`Counter-Strike 2`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-05-09 21:39:00`|`Other FPS Games`|
+|[LOLDumper &#45; Auto Offset Dumper DLL &#40;Inject & Dump&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/740963-loldumper-auto-offset-dumper-dll-inject-dump.html)|`2026-05-09 21:39:00`|`League of Legends`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-09 21:34:00`|`Overwatch`|
+|[Punisher: Zipline TP Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/750290-punisher-zipline-tp-exploit.html)|`2026-05-09 21:33:00`|`Marvel Rivals`|
+|[TD &#45; Looking For Group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/173331-td-looking.html)|`2026-05-09 21:31:00`|`Tom Clancy's The Division`|
+|[Ghosty Driver &#124; Compatible with HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751905-ghosty-driver-compatible-hvci.html)|`2026-05-09 21:24:00`|`Anti-Cheat Bypass`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-05-09 20:06:00`|`Battlefield 6`|
 |[DrawObject / GeneratePrimitives hook in scenesystem&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751639-drawobject-generateprimitives-hook-scenesystem-dll.html)|`2026-05-09 20:05:00`|`Counter-Strike 2`|
 |[schemasystem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751897-schemasystem.html)|`2026-05-09 20:04:00`|`Counter-Strike 2`|
