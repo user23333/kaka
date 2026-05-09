@@ -25,9 +25,18 @@
 |6|[DBD&#95;linux&#95;SpeedModify&#95;steam&#95;v9&#46;6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54711)|`2026-05-10 00:28:24`|
 |210|[BloodStrike&#95;Internal&#95;steamV3&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54710)|`2026-05-10 00:28:24`|
 |1|[icons&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54744)|`2026-05-10 02:10:59`|
+|2|[HoMM Olden Era Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54735)|`2026-05-10 04:03:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Using AI to make temp spoofer for R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/745577-using-ai-temp-spoofer-r6.html)|`2026-05-10 03:59:00`|`Rainbow Six Siege`|
+|[entity hook offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/751965-entity-hook-offset.html)|`2026-05-10 03:58:00`|`Rainbow Six Siege`|
+|[Far Far West Demo MOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/740610-west-demo-mod.html)|`2026-05-10 03:57:00`|`Other FPS Games`|
+|[Heroes of MM Olden Era Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750512-heroes-mm-olden-era-dump.html)|`2026-05-10 03:57:00`|`Other MMORPG and Strategy`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-10 03:53:00`|`Counter-Strike 2`|
+|[TheHunter: Call of the Wild Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750422-thehunter-call-wild-simple-esp.html)|`2026-05-10 03:51:00`|`Other FPS Games`|
+|[I need new Gmod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746848-gmod-cheat.html)|`2026-05-10 03:46:00`|`Garry's Mod`|
+|[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-05-10 03:44:00`|`Star Wars Battlefront 2`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-10 03:18:00`|`Counter-Strike 2 Releases`|
 |[Windows Non&#45;Maskable Interrupts for 64 bit systems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751949-windows-maskable-interrupts-64-bit-systems.html)|`2026-05-10 03:16:00`|`Anti-Cheat Bypass`|
 |[R6S ViewData & Offset Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/751831-r6s-viewdata-offset-scanner.html)|`2026-05-10 03:12:00`|`Rainbow Six Siege`|
