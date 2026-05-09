@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trying to learn reversing with BloodStrike — where am I going wrong?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750878-trying-learn-reversing-bloodstrike-am-wrong.html)|`2026-05-09 18:34:00`|`Other Games`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-05-09 18:31:00`|`Other FPS Games`|
+|[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-05-09 18:29:00`|`Other FPS Games`|
+|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-09 18:22:00`|`Valorant`|
+|[Hi guys future star is here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/751841-hi-guys-future-star.html)|`2026-05-09 18:10:00`|`Introductions`|
 |[Apex Triggerbot With Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751859-apex-triggerbot-glow-esp.html)|`2026-05-09 17:27:00`|`Apex Legends`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-09 17:13:00`|`Counter-Strike 2 Releases`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-09 17:13:00`|`DayZ SA`|
