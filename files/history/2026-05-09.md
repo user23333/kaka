@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-09 07:53:00`|`Counter-Strike 2 Releases`|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-09 07:46:00`|`Other FPS Games`|
+|[Battleye Keeps Kicking Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751815-battleye-kicking.html)|`2026-05-09 07:43:00`|`Grand Theft Auto V`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-05-09 07:37:00`|`Red Dead Redemption 2`|
+|[GrayzoneWarfrare Can't figure out LootESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750687-grayzonewarfrare-cant-figure-lootesp.html)|`2026-05-09 07:33:00`|`Other FPS Games`|
 |[Greetings and Salutations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/751806-greetings-salutations.html)|`2026-05-09 06:52:00`|`Introductions`|
 |[Learner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/751783-learner.html)|`2026-05-09 06:51:00`|`Introductions`|
 |[The mighty sun&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/751807-mighty-sun.html)|`2026-05-09 06:50:00`|`Introductions`|
