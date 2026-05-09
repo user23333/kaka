@@ -11,6 +11,7 @@
 |4|[Duping Tool &#45; Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/750939-duping-tool-guidance.html)|`2026-05-09 00:03:08`|`arc-raiders`|
 |6|[Some Animated Cham Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750956-animated-cham-materials.html)|`2026-05-09 00:03:08`|`counter-strike-2-a`|
 |14|[Direct SYSCALL instructions in usermode anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751245-direct-syscall-instructions-usermode-anticheat.html)|`2026-05-09 00:03:08`|`anti-cheat-bypass`|
+|28|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-09 17:40:26`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Triggerbot With Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751859-apex-triggerbot-glow-esp.html)|`2026-05-09 17:27:00`|`Apex Legends`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-09 17:13:00`|`Counter-Strike 2 Releases`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-09 17:13:00`|`DayZ SA`|
+|[Skate&#46; Trickline Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751858-skate-trickline-script.html)|`2026-05-09 17:10:00`|`Other FPS Games`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-09 17:00:00`|`Deadlock`|
+|[league of legends Arduino scripts?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/751856-league-legends-arduino-scripts.html)|`2026-05-09 16:56:00`|`League of Legends`|
+|[Using AI in reverse engineering/cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742382-using-ai-reverse-engineering-cheats.html)|`2026-05-09 16:51:00`|`General Programming and Reversing`|
+|[RageMP Playername](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741541-ragemp-playername.html)|`2026-05-09 16:49:00`|`Alternative Online Mods`|
 |[State of PvE cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/750832-pve-cheats.html)|`2026-05-09 16:02:00`|`Escape from Tarkov`|
 |[Real MAC Address Change I RTNicPg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751674-real-mac-address-change-rtnicpg.html)|`2026-05-09 15:57:00`|`Anti-Cheat Bypass`|
 |[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-09 15:48:00`|`Counter-Strike 2`|
