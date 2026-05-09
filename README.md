@@ -29,9 +29,19 @@
 |2|[5&#46;5&#46;4&#45;238345&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;1&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54708)|`2026-05-09 06:04:14`|
 |4|[Arc bots maps items assets to your language ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54705)|`2026-05-09 06:04:14`|
 |4|[&#91;STEAM&#93; Linux INTERNAL Rage v1&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54690)|`2026-05-09 07:03:40`|
+|7|[r6finder&#46;lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54737)|`2026-05-09 11:48:18`|
+|1|[DBD&#95;linux&#95;SpeedModify&#95;epic&#95;v9&#46;6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54712)|`2026-05-09 11:48:18`|
+|1|[DBD&#95;linux&#95;SpeedModify&#95;steam&#95;v9&#46;6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54711)|`2026-05-09 11:48:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-05-09 11:46:00`|`Garry's Mod`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-05-09 11:46:00`|`Counter-Strike 2`|
+|[Paid PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/751149-paid-pve-cheat.html)|`2026-05-09 11:41:00`|`Escape from Tarkov`|
+|[HD Maps for Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/745780-hd-maps-warzone.html)|`2026-05-09 11:37:00`|`Call of Duty: Black Ops 7`|
+|[Shinoko&#45;SS Global &#91; StellaSora Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745179-shinoko-ss-global-stellasora-cheat.html)|`2026-05-09 11:34:00`|`Other MMORPG and Strategy`|
+|[LEFT 4 DEAD 2 CHEAT 01/05/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750719-left-4-dead-2-cheat-01-05-2026-a.html)|`2026-05-09 11:28:00`|`Other FPS Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-09 11:14:00`|`Other FPS Games`|
 |[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-09 07:53:00`|`Counter-Strike 2 Releases`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-09 07:46:00`|`Other FPS Games`|
 |[Battleye Keeps Kicking Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751815-battleye-kicking.html)|`2026-05-09 07:43:00`|`Grand Theft Auto V`|
