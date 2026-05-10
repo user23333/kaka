@@ -11,6 +11,7 @@
 |19|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-05-11 00:34:04`|`garry-s-mod`|
 |29|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-11 00:34:04`|`counter-strike-2-a`|
 |17|[Javelin Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751643-javelin-analysis.html)|`2026-05-11 00:34:04`|`anti-cheat-bypass`|
+|3|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-11 01:29:22`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OBS/Streamproof Lethal Company Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/622386-obs-streamproof-lethal-company-cheat.html)|`2026-05-11 01:29:00`|`Lethal Company`|
+|[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-05-11 01:26:00`|`Other FPS Games`|
+|[MY HERO ULTRA RUMBLE CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743480-hero-ultra-rumble-ct.html)|`2026-05-11 01:26:00`|`Other Games`|
+|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-11 01:26:00`|`Counter-Strike 2`|
+|[motion blur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752094-motion-blur.html)|`2026-05-11 01:25:00`|`Counter-Strike 2`|
+|[How should i do aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752107-aimbot.html)|`2026-05-11 01:22:00`|`Counter-Strike 2`|
+|[arbitrary physical memory mapping &#40;read only&#41; in directio64&#46;sys &#40;PassMark driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752108-arbitrary-physical-memory-mapping-read-directio64-sys-passmark-driver.html)|`2026-05-11 01:22:00`|`Anti-Cheat Bypass`|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-11 01:20:00`|`Counter-Strike 2 Releases`|
 |[Need Help Reconstructing Imports & Cleaning Up Valorant Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751693-help-reconstructing-imports-cleaning-valorant-dump.html)|`2026-05-11 00:33:00`|`Valorant`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-11 00:31:00`|`Roblox`|
 |[CS2 Internal &#91;&#43;Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750899-cs2-internal-silent-aim.html)|`2026-05-11 00:31:00`|`Counter-Strike 2`|
