@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-10 19:24:00`|`Counter-Strike 2`|
+|[Need Help Reconstructing Imports & Cleaning Up Valorant Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751693-help-reconstructing-imports-cleaning-valorant-dump.html)|`2026-05-10 19:21:00`|`Valorant`|
+|[Over The Top: WW1 &#45; ESP &#45; OTTESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742825-top-ww1-esp-ottesp.html)|`2026-05-10 19:17:00`|`Other FPS Games`|
+|[Kernel Inj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752041-kernel-inj.html)|`2026-05-10 19:13:00`|`Valorant`|
+|[Spoofing hardware mac &#40;EFuse&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751162-spoofing-hardware-mac-efuse.html)|`2026-05-10 19:11:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-10 18:34:00`|`Apex Legends`|
 |[Internal Cheat DETECT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751786-internal-cheat-detect.html)|`2026-05-10 18:32:00`|`ARC Raiders`|
 |[Ghosty Driver &#124; Compatible with HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751905-ghosty-driver-compatible-hvci.html)|`2026-05-10 18:17:00`|`Anti-Cheat Bypass`|
