@@ -12,6 +12,7 @@
 |29|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-11 00:34:04`|`counter-strike-2-a`|
 |17|[Javelin Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751643-javelin-analysis.html)|`2026-05-11 00:34:04`|`anti-cheat-bypass`|
 |3|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-11 01:29:22`|`counter-strike-2-a`|
+|16|[Direct SYSCALL instructions in usermode anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751245-direct-syscall-instructions-usermode-anticheat.html)|`2026-05-11 05:03:22`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,14 @@
 |6|[icons&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54744)|`2026-05-11 00:34:04`|
 |9|[VGC Dump  v1&#46;18&#46;2&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54771)|`2026-05-11 03:32:24`|
 |8|[Hysteria1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54769)|`2026-05-11 03:32:24`|
+|2|[pawx&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54773)|`2026-05-11 05:03:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple CS2 External AutoBhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750840-simple-cs2-external-autobhop.html)|`2026-05-11 05:00:00`|`Counter-Strike 2`|
+|[Dodging Ranked matches without penalty?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/752137-dodging-ranked-matches-penalty.html)|`2026-05-11 04:47:00`|`Call of Duty: Black Ops 7`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-11 04:46:00`|`Marvel Rivals`|
+|[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-05-11 04:46:00`|`Other MMORPG and Strategy`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-11 04:09:00`|`Counter-Strike 2 Releases`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-11 04:04:00`|`Other Games`|
 |[help a beginner with the dma project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752131-help-beginner-dma-project.html)|`2026-05-11 04:03:00`|`DayZ SA`|
