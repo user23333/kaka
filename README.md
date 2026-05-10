@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-11 07:30:00`|`Other Games`|
+|[p9 EAC Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751606-p9-eac-driver.html)|`2026-05-11 07:29:00`|`Rust`|
+|[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-05-11 07:28:00`|`Other FPS Games`|
+|[things i should know about the anticheat/ban system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/752151-anticheat-ban-system.html)|`2026-05-11 07:20:00`|`Deadlock`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-11 07:15:00`|`Tom Clancy's The Division`|
+|[No More Room in Hell internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751353-hell-internal-cheat.html)|`2026-05-11 07:05:00`|`Other FPS Games`|
 |[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-05-11 06:35:00`|`Phasmophobia`|
 |[Foxhole DMA V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750825-foxhole-dma-v2.html)|`2026-05-11 06:35:00`|`Other MMORPG and Strategy`|
 |[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-05-11 06:22:00`|`Other FPS Games`|
