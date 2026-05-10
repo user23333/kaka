@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to fix wobbly visuals externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748731-fix-wobbly-visuals-externally.html)|`2026-05-10 22:40:00`|`Counter-Strike 2`|
+|[Resident Evil Requiem Internal or External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/747131-resident-evil-requiem-internal-external.html)|`2026-05-10 22:25:00`|`Other Single Player Games`|
+|[How  do i force skin animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752085-force-skin-animations.html)|`2026-05-10 22:25:00`|`Counter-Strike 2`|
+|[LEFT 4 DEAD 2 CHEAT 01/05/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750719-left-4-dead-2-cheat-01-05-2026-a.html)|`2026-05-10 22:22:00`|`Other FPS Games`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-05-10 21:47:00`|`Paladins`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-10 21:40:00`|`DayZ SA`|
 |[&#91;RELEASE&#93; Scars of Honor: Advanced DLL Patching Engine v1&#46;0 &#124; Class & Race Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750870-release-scars-honor-advanced-dll-patching-engine-v1-0-class-race-unlocker.html)|`2026-05-10 21:40:00`|`Other MMORPG and Strategy`|
