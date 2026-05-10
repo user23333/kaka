@@ -13,6 +13,7 @@
 |17|[Javelin Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751643-javelin-analysis.html)|`2026-05-11 00:34:04`|`anti-cheat-bypass`|
 |3|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-11 01:29:22`|`counter-strike-2-a`|
 |16|[Direct SYSCALL instructions in usermode anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751245-direct-syscall-instructions-usermode-anticheat.html)|`2026-05-11 05:03:22`|`anti-cheat-bypass`|
+|18|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-05-11 05:56:13`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Profile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/752132-profile.html)|`2026-05-11 05:56:00`|`Half Life`|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-11 05:54:00`|`Other FPS Games`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-11 05:53:00`|`Other MMORPG and Strategy`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-11 05:53:00`|`Other FPS Games`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-05-11 05:46:00`|`Other MMORPG and Strategy`|
+|[GTA V BattlEye &#40;GTA5&#95;BE&#46;exe&#41; Reversed Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/751042-gta-battleye-gta5_be-exe-reversed-analysis.html)|`2026-05-11 05:45:00`|`Grand Theft Auto V`|
+|[Heino&#45;2 &#124; New DMA No FW Needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752135-heino-2-dma-fw.html)|`2026-05-11 05:42:00`|`Anti-Cheat Bypass`|
 |[Simple CS2 External AutoBhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750840-simple-cs2-external-autobhop.html)|`2026-05-11 05:00:00`|`Counter-Strike 2`|
 |[Dodging Ranked matches without penalty?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/752137-dodging-ranked-matches-penalty.html)|`2026-05-11 04:47:00`|`Call of Duty: Black Ops 7`|
 |[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-11 04:46:00`|`Marvel Rivals`|
