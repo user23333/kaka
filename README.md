@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-05-10 21:47:00`|`Paladins`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-10 21:40:00`|`DayZ SA`|
+|[&#91;RELEASE&#93; Scars of Honor: Advanced DLL Patching Engine v1&#46;0 &#124; Class & Race Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750870-release-scars-honor-advanced-dll-patching-engine-v1-0-class-race-unlocker.html)|`2026-05-10 21:40:00`|`Other MMORPG and Strategy`|
+|[Firing NMIs And Registering Callbacks Without API Usage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752079-firing-nmis-registering-callbacks-api-usage.html)|`2026-05-10 21:35:00`|`Anti-Cheat Bypass`|
+|[Updated Gmod cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/745036-updated-gmod-cheats.html)|`2026-05-10 21:24:00`|`Garry's Mod`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2026-05-10 21:24:00`|`Other MMORPG and Strategy`|
 |[chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752068-chams.html)|`2026-05-10 20:06:00`|`Counter-Strike 2`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-10 20:03:00`|`Roblox`|
 |[menu / cheat for RAGEMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749591-menu-cheat-ragemp.html)|`2026-05-10 19:58:00`|`Alternative Online Mods`|
