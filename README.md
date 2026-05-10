@@ -11,6 +11,7 @@
 |10|[VALORANT Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751450-valorant-skin-changer.html)|`2026-05-10 00:28:24`|`valorant`|
 |17|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-05-10 00:28:24`|`other-mmorpg-and-strategy`|
 |28|[lagcomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751190-lagcomp.html)|`2026-05-10 00:28:24`|`counter-strike-2-a`|
+|16|[Javelin Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751643-javelin-analysis.html)|`2026-05-10 23:35:14`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,15 @@
 |1|[Snowbreak &#45; 3&#46;6&#46;0&#46;140&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54757)|`2026-05-10 09:29:52`|
 |0|[LLVM&#45;MSVC&#45;Ex Obfuscation Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54759)|`2026-05-10 13:03:21`|
 |5|[Foenem Menu v0&#46;50](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54756)|`2026-05-10 13:03:21`|
+|1|[PanicoreDemo&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54761)|`2026-05-10 23:35:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Current AES Key for Valorant Patch 12&#46;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751991-current-aes-key-valorant-patch-12-08-a.html)|`2026-05-10 23:33:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-10 23:28:00`|`Call of Duty: Black Ops 7`|
+|[Panicore Demo Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752032-panicore-demo-internal.html)|`2026-05-10 23:25:00`|`Other Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-05-10 23:22:00`|`Other MMORPG and Strategy`|
+|[Age of Empires II Definitive Edition Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720448-age-empires-ii-definitive-edition-reversal-structs-offsets.html)|`2026-05-10 23:18:00`|`Age of Empires`|
 |[How to fix wobbly visuals externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748731-fix-wobbly-visuals-externally.html)|`2026-05-10 22:40:00`|`Counter-Strike 2`|
 |[Resident Evil Requiem Internal or External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/747131-resident-evil-requiem-internal-external.html)|`2026-05-10 22:25:00`|`Other Single Player Games`|
 |[How  do i force skin animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752085-force-skin-animations.html)|`2026-05-10 22:25:00`|`Counter-Strike 2`|
