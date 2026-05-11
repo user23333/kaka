@@ -11,6 +11,7 @@
 |18|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-05-12 00:40:00`|`helldivers-2-a`|
 |4|[Paid PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/751149-paid-pve-cheat.html)|`2026-05-12 00:40:00`|`escape-from-tarkov`|
 |14|[Subtick &#45; A Technical Deep Dive into it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751528-subtick-technical-deep-dive.html)|`2026-05-12 00:40:00`|`counter-strike-2-a`|
+|18|[Ghosty Driver &#124; Compatible with HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751905-ghosty-driver-compatible-hvci.html)|`2026-05-12 02:21:34`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-12 02:20:00`|`Counter-Strike 2 Releases`|
+|[Current meta for safe external overlays & screenshot bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752154-current-meta-safe-external-overlays-screenshot-bypass.html)|`2026-05-12 02:20:00`|`Anti-Cheat Bypass`|
+|[Perfect Item Categorization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750463-perfect-item-categorization.html)|`2026-05-12 02:18:00`|`DayZ SA`|
+|[Legend of NeverLand PC Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751116-legend-neverland-pc-cheat.html)|`2026-05-12 02:09:00`|`Other MMORPG and Strategy`|
+|[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2026-05-12 02:07:00`|`Other MMORPG and Strategy`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-12 02:01:00`|`Other FPS Games`|
+|[DayZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752021-dayz-internal.html)|`2026-05-12 02:00:00`|`DayZ SA`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-12 01:58:00`|`Overwatch`|
+|[Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/752274-detection.html)|`2026-05-12 01:53:00`|`Apex Legends`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-05-12 00:38:00`|`ARMA 3`|
 |[Hyperion &#45; Interactive Disassembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752171-hyperion-interactive-disassembler.html)|`2026-05-12 00:36:00`|`General Programming and Reversing`|
 |[looking for a working valorant cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752126-looking-valorant-cheat.html)|`2026-05-12 00:35:00`|`Valorant`|
