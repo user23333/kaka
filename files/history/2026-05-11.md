@@ -14,6 +14,8 @@
 |3|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-11 01:29:22`|`counter-strike-2-a`|
 |16|[Direct SYSCALL instructions in usermode anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751245-direct-syscall-instructions-usermode-anticheat.html)|`2026-05-11 05:03:22`|`anti-cheat-bypass`|
 |18|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-05-11 05:56:13`|`helldivers-2-a`|
+|14|[Subtick &#45; A Technical Deep Dive into it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751528-subtick-technical-deep-dive.html)|`2026-05-11 13:07:49`|`counter-strike-2-a`|
+|4|[Paid PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/751149-paid-pve-cheat.html)|`2026-05-11 13:07:49`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-11 13:07:00`|`Valorant`|
+|[How are you guys reversing vgk&#46;sys IOCTL responses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746616-guys-reversing-vgk-sys-ioctl-responses.html)|`2026-05-11 13:02:00`|`Anti-Cheat Bypass`|
+|[Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751938-dupe.html)|`2026-05-11 13:02:00`|`ARC Raiders`|
+|[Is there anyone here who has a working program for duplicating items in ARC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751644-program-duplicating-items-arc.html)|`2026-05-11 13:00:00`|`ARC Raiders`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-05-11 12:48:00`|`HELLDIVERS 2`|
+|[imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/752178-imgui.html)|`2026-05-11 12:46:00`|`Minecraft`|
+|[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-05-11 12:28:00`|`Other MMORPG and Strategy`|
 |[warping with agent changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751845-warping-agent-changer.html)|`2026-05-11 09:16:00`|`Counter-Strike 2`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-11 09:16:00`|`Other MMORPG and Strategy`|
 |[eac reversal &#40;better&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752150-eac-reversal.html)|`2026-05-11 09:10:00`|`Anti-Cheat Bypass`|
