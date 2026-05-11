@@ -12,6 +12,7 @@
 |4|[Paid PVE Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/751149-paid-pve-cheat.html)|`2026-05-12 00:40:00`|`escape-from-tarkov`|
 |14|[Subtick &#45; A Technical Deep Dive into it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751528-subtick-technical-deep-dive.html)|`2026-05-12 00:40:00`|`counter-strike-2-a`|
 |18|[Ghosty Driver &#124; Compatible with HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751905-ghosty-driver-compatible-hvci.html)|`2026-05-12 02:21:34`|`anti-cheat-bypass`|
+|26|[Two vulnerable Drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751843-vulnerable-drivers.html)|`2026-05-12 04:07:07`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-12 04:03:00`|`Overwatch`|
+|[CS2 internal cheat charms sky box](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752294-cs2-internal-cheat-charms-sky-box.html)|`2026-05-12 04:01:00`|`Counter-Strike 2`|
+|[R6 Recoil Program &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752180-r6-recoil-program-python.html)|`2026-05-12 04:01:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-12 03:56:00`|`Call of Duty: Black Ops 7`|
+|[Graal Online: GS2 Client&#45;side Executor via Frida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751939-graal-online-gs2-client-executor-via-frida.html)|`2026-05-12 03:54:00`|`Other MMORPG and Strategy`|
+|[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-05-12 03:49:00`|`Other FPS Games`|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-12 03:39:00`|`Other FPS Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-12 02:20:00`|`Counter-Strike 2 Releases`|
 |[Current meta for safe external overlays & screenshot bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752154-current-meta-safe-external-overlays-screenshot-bypass.html)|`2026-05-12 02:20:00`|`Anti-Cheat Bypass`|
 |[Perfect Item Categorization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750463-perfect-item-categorization.html)|`2026-05-12 02:18:00`|`DayZ SA`|
