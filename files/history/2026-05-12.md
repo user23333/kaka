@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-12 05:37:00`|`Rainbow Six Siege`|
+|[aimbot vac live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751970-aimbot-vac-live.html)|`2026-05-12 05:33:00`|`Counter-Strike 2`|
+|[Method of farming Super Credits on the ship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751923-method-farming-super-credits-ship.html)|`2026-05-12 05:31:00`|`HELLDIVERS 2`|
+|[Insurgency Sandstorm &#45; Current State of Cheating Community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/740383-insurgency-sandstorm-current-cheating-community.html)|`2026-05-12 05:30:00`|`Insurgency`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-05-12 05:28:00`|`Valorant`|
+|[how to clean ricochet trace files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/752262-clean-ricochet-trace-files.html)|`2026-05-12 05:24:00`|`Call of Duty: Black Ops 7`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-12 04:03:00`|`Overwatch`|
 |[CS2 internal cheat charms sky box](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752294-cs2-internal-cheat-charms-sky-box.html)|`2026-05-12 04:01:00`|`Counter-Strike 2`|
 |[R6 Recoil Program &#40;Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752180-r6-recoil-program-python.html)|`2026-05-12 04:01:00`|`Rainbow Six Siege`|
