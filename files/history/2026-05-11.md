@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-05-11 16:09:00`|`Other FPS Games`|
+|[Direct SYSCALL instructions in usermode anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751245-direct-syscall-instructions-usermode-anticheat.html)|`2026-05-11 15:55:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-11 15:47:00`|`Rainbow Six Siege`|
+|[DMA Cheat for AOE4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/752115-dma-cheat-aoe4.html)|`2026-05-11 15:42:00`|`Age of Empires`|
 |[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-11 13:07:00`|`Valorant`|
 |[How are you guys reversing vgk&#46;sys IOCTL responses?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746616-guys-reversing-vgk-sys-ioctl-responses.html)|`2026-05-11 13:02:00`|`Anti-Cheat Bypass`|
 |[Dupe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751938-dupe.html)|`2026-05-11 13:02:00`|`ARC Raiders`|
