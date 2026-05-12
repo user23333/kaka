@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone knows how to bypass nGameGuard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752187-bypass-ngameguard.html)|`2026-05-12 17:51:00`|`HELLDIVERS 2`|
+|[any DayZ microsoft store cheeses out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752127-dayz-microsoft-store-cheeses.html)|`2026-05-12 17:50:00`|`DayZ SA`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-12 17:48:00`|`DayZ SA`|
+|[ElectronAC Anti aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751527-electronac-anti-aimbot.html)|`2026-05-12 17:45:00`|`Alternative Online Mods`|
+|[knife/gloves/skins changer src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750659-knife-gloves-skins-changer-src.html)|`2026-05-12 17:43:00`|`Counter-Strike 2`|
+|[new to league](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/750238-league.html)|`2026-05-12 17:33:00`|`League of Legends`|
 |[how does EAC verify driver signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752340-eac-verify-driver-signature.html)|`2026-05-12 15:25:00`|`Anti-Cheat Bypass`|
 |[Two vulnerable Drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751843-vulnerable-drivers.html)|`2026-05-12 15:23:00`|`Anti-Cheat Bypass`|
 |[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-05-12 15:09:00`|`Overwatch`|
