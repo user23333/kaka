@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-12 19:57:00`|`Tom Clancy's The Division`|
+|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-05-12 19:45:00`|`Tom Clancy's The Division`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-05-12 19:39:00`|`Other FPS Games`|
+|[FXPGunz DMA Config Offsets &#45; Save yourself the scan time for make ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunz/739317-fxpgunz-dma-config-offsets-save-yourself-scan-time-esp.html)|`2026-05-12 19:37:00`|`GunZ`|
 |[Anyone knows how to bypass nGameGuard?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752187-bypass-ngameguard.html)|`2026-05-12 17:51:00`|`HELLDIVERS 2`|
 |[any DayZ microsoft store cheeses out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752127-dayz-microsoft-store-cheeses.html)|`2026-05-12 17:50:00`|`DayZ SA`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-12 17:48:00`|`DayZ SA`|
