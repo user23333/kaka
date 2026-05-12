@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how does EAC verify driver signature?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752340-eac-verify-driver-signature.html)|`2026-05-12 15:25:00`|`Anti-Cheat Bypass`|
+|[Two vulnerable Drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751843-vulnerable-drivers.html)|`2026-05-12 15:23:00`|`Anti-Cheat Bypass`|
+|[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-05-12 15:09:00`|`Overwatch`|
+|[trying to get uworld state signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752198-trying-uworld-signature.html)|`2026-05-12 15:09:00`|`Valorant`|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-05-12 15:09:00`|`Other FPS Games`|
+|[Compilled ESP for DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/752365-compilled-esp-dma.html)|`2026-05-12 15:03:00`|`Rust`|
+|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747569-sons-forest-gibson-menu.html)|`2026-05-12 14:57:00`|`Other Games`|
 |[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-05-12 12:43:00`|`Other FPS Games`|
 |[Show Full Mini Map &#45; Updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/748218-mini-map-updated-offsets.html)|`2026-05-12 12:39:00`|`Generals and Zero Hour`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-05-12 12:32:00`|`HELLDIVERS 2`|
