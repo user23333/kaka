@@ -11,6 +11,7 @@
 |24|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-05-13 00:55:47`|`helldivers-2-a`|
 |14|[Subtick &#45; A Technical Deep Dive into it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751528-subtick-technical-deep-dive.html)|`2026-05-13 00:55:47`|`counter-strike-2-a`|
 |12|[Retrieving EAC Protected Dirbase With Only R/W Capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751365-retrieving-eac-protected-dirbase-capabilities.html)|`2026-05-13 00:55:47`|`anti-cheat-bypass`|
+|11|[Method of farming Super Credits on the ship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751923-method-farming-super-credits-ship.html)|`2026-05-13 06:42:54`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-13 06:42:00`|`Overwatch`|
+|[Does rust HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/738740-rust-hwid-ban.html)|`2026-05-13 06:39:00`|`Rust`|
+|[any way to read kick reasons/detect if user is banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/752401-read-kick-reasons-detect-user-banned.html)|`2026-05-13 06:35:00`|`Rust`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-05-13 06:32:00`|`Other FPS Games`|
+|[Zipline TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/752421-zipline-tp.html)|`2026-05-13 06:23:00`|`Marvel Rivals`|
+|[Super Mission Editor CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752404-super-mission-editor-ct.html)|`2026-05-13 06:16:00`|`HELLDIVERS 2`|
+|[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-05-13 06:15:00`|`Valorant`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-05-13 05:33:00`|`Tom Clancy's The Division`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-05-13 05:28:00`|`HELLDIVERS 2`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-05-13 05:23:00`|`HELLDIVERS 2`|
