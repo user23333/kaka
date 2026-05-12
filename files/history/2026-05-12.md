@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets for external TF2 x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/715643-offsets-external-tf2-x64.html)|`2026-05-12 09:01:00`|`Team Fortress 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-12 08:56:00`|`Rust`|
+|[NVIDIA Streamproof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746645-nvidia-streamproof.html)|`2026-05-12 08:46:00`|`Alternative Online Mods`|
+|[DBD&#45; spoof help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752207-dbd-spoof-help.html)|`2026-05-12 08:46:00`|`Other Games`|
+|[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-05-12 08:44:00`|`Other Games`|
+|[IW4X OFFSETS 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/737966-iw4x-offsets-2-a.html)|`2026-05-12 08:38:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-12 08:38:00`|`Other MMORPG and Strategy`|
+|[imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/752178-imgui.html)|`2026-05-12 08:28:00`|`Minecraft`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-05-12 07:31:00`|`Other FPS Games`|
 |[How should i do aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752107-aimbot.html)|`2026-05-12 07:27:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-12 07:20:00`|`Other FPS Games`|
