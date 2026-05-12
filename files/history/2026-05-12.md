@@ -14,6 +14,7 @@
 |18|[Ghosty Driver &#124; Compatible with HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751905-ghosty-driver-compatible-hvci.html)|`2026-05-12 02:21:34`|`anti-cheat-bypass`|
 |26|[Two vulnerable Drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751843-vulnerable-drivers.html)|`2026-05-12 04:07:07`|`anti-cheat-bypass`|
 |51|[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-05-12 12:48:21`|`other-fps-games`|
+|12|[Retrieving EAC Protected Dirbase With Only R/W Capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751365-retrieving-eac-protected-dirbase-capabilities.html)|`2026-05-12 22:43:55`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC screenshot &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748466-eac-screenshot.html)|`2026-05-12 22:33:00`|`Anti-Cheat Bypass`|
+|[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-05-12 22:28:00`|`HELLDIVERS 2`|
+|[Avoiding Delay Ban / TPM Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/742306-avoiding-delay-ban-tpm-spoofing.html)|`2026-05-12 22:25:00`|`Valorant`|
+|[Performance over security: Speculative execution vulnerabilities &#40;Spectre & Meltdown&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752330-performance-security-speculative-execution-vulnerabilities-spectre-meltdown.html)|`2026-05-12 22:19:00`|`General Programming and Reversing`|
+|[PIXEL WORLDS Does anyone have latest dumps after the obfuscation offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752397-pixel-worlds-dumps-obfuscation-offsets.html)|`2026-05-12 22:12:00`|`Other MMORPG and Strategy`|
+|[xternal heirloom changer &#45; how do you find the model index?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751658-xternal-heirloom-changer-model-index.html)|`2026-05-12 22:06:00`|`Apex Legends`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-12 19:57:00`|`Tom Clancy's The Division`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-05-12 19:45:00`|`Tom Clancy's The Division`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-05-12 19:39:00`|`Other FPS Games`|
