@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heroes of MM Olden Era Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750512-heroes-mm-olden-era-dump.html)|`2026-05-13 19:56:00`|`Other MMORPG and Strategy`|
+|[Retired and Interested in BYOVD/DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/752519-retired-byovd-dma.html)|`2026-05-13 19:42:00`|`Introductions`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-13 18:06:00`|`Other FPS Games`|
 |[Minimal windows 11 UM&#45;KM communication framework using a Win32k syscall hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745572-minimal-windows-11-um-km-communication-framework-using-win32k-syscall-hook.html)|`2026-05-13 18:05:00`|`Anti-Cheat Bypass`|
 |[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-05-13 18:00:00`|`Other FPS Games`|
