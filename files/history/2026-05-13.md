@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-13 18:06:00`|`Other FPS Games`|
+|[Minimal windows 11 UM&#45;KM communication framework using a Win32k syscall hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745572-minimal-windows-11-um-km-communication-framework-using-win32k-syscall-hook.html)|`2026-05-13 18:05:00`|`Anti-Cheat Bypass`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-05-13 18:00:00`|`Other FPS Games`|
+|[Facing this error with SetWindowsHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752494-facing-error-setwindowshook.html)|`2026-05-13 17:57:00`|`Valorant`|
+|[FiveM Offset Dumper & Pattern Scanner &#40;Steam Overlay Hook&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746370-fivem-offset-dumper-pattern-scanner-steam-overlay-hook.html)|`2026-05-13 17:50:00`|`Alternative Online Mods`|
 |[Forza Horizon 6 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/752192-forza-horizon-6-thread.html)|`2026-05-13 15:48:00`|`Forum General`|
 |[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-05-13 15:35:00`|`HELLDIVERS 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-05-13 15:13:00`|`DayZ SA`|
