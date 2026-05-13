@@ -13,6 +13,7 @@
 |12|[Retrieving EAC Protected Dirbase With Only R/W Capabilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751365-retrieving-eac-protected-dirbase-capabilities.html)|`2026-05-13 00:55:47`|`anti-cheat-bypass`|
 |11|[Method of farming Super Credits on the ship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751923-method-farming-super-credits-ship.html)|`2026-05-13 06:42:54`|`helldivers-2-a`|
 |10|[Valorant Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752235-valorant-internal.html)|`2026-05-13 13:02:07`|`valorant`|
+|26|[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-05-13 23:17:01`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-05-13 23:15:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-13 23:04:00`|`Call of Duty: Black Ops 7`|
+|[DMA Cheat for AOE4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/752115-dma-cheat-aoe4.html)|`2026-05-13 23:00:00`|`Age of Empires`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-05-13 22:56:00`|`Phasmophobia`|
 |[Heroes of MM Olden Era Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750512-heroes-mm-olden-era-dump.html)|`2026-05-13 19:56:00`|`Other MMORPG and Strategy`|
 |[Retired and Interested in BYOVD/DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/752519-retired-byovd-dma.html)|`2026-05-13 19:42:00`|`Introductions`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-13 18:06:00`|`Other FPS Games`|
