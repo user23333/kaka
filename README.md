@@ -11,6 +11,7 @@
 |29|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-05-14 01:24:06`|`helldivers-2-a`|
 |30|[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-05-14 01:24:06`|`helldivers-2-a`|
 |11|[Method of farming Super Credits on the ship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751923-method-farming-super-credits-ship.html)|`2026-05-14 01:24:06`|`helldivers-2-a`|
+|14|[Subtick &#45; A Technical Deep Dive into it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751528-subtick-technical-deep-dive.html)|`2026-05-14 03:11:53`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-14 03:10:00`|`Other FPS Games`|
+|[Hi friends, pleaaase help, pleaaase internal charms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752567-hi-friends-pleaaase-help-pleaaase-internal-charms.html)|`2026-05-14 03:07:00`|`Counter-Strike 2`|
+|[Hardening Your External Against EAC — 7 Layers of Protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/752568-hardening-external-eac-7-layers-protection.html)|`2026-05-14 03:05:00`|`Apex Legends`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-05-14 03:04:00`|`Phasmophobia`|
+|[Crossfire External Visible Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/735331-crossfire-external-visible-check.html)|`2026-05-14 03:04:00`|`CrossFire`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-14 03:02:00`|`Counter-Strike 2`|
+|[Is there a LUA file for Lucky Wheel to get Podium Car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/752028-lua-file-lucky-wheel-podium-car.html)|`2026-05-14 02:58:00`|`Grand Theft Auto V`|
+|[&#91;BLOODSTRIKE&#93; How to get offsets for GL&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752565-bloodstrike-offsets-gl.html)|`2026-05-14 02:56:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-14 02:55:00`|`Overwatch`|
 |[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-05-14 01:22:00`|`Valorant`|
 |[Perfect Magic Bullet Extenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692474-perfect-magic-bullet-extenal.html)|`2026-05-14 01:22:00`|`Alternative Online Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-14 01:21:00`|`Valorant`|
