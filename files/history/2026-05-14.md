@@ -27,9 +27,15 @@
 |6|[PanicoreDemo&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54761)|`2026-05-14 01:24:06`|
 |31|[LLVM&#45;MSVC&#45;Ex Obfuscation Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54759)|`2026-05-14 01:24:06`|
 |152|[DayZ Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54758)|`2026-05-14 01:24:06`|
+|1|[bf4 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54824)|`2026-05-14 14:51:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skybox material not apply](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750323-skybox-material-apply.html)|`2026-05-14 14:49:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-05-14 13:52:00`|`Marvel Rivals`|
+|[battlefield 4&#45;CE Table multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/752517-battlefield-4-ce-table-multiplayer.html)|`2026-05-14 13:52:00`|`Battlefield 4`|
+|[HELLO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/752620-hello.html)|`2026-05-14 13:50:00`|`Introductions`|
+|[p9 EAC Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/751606-p9-eac-driver.html)|`2026-05-14 13:50:00`|`Rust`|
 |[NoSpread Offsets 12&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752610-nospread-offsets-12-09-a.html)|`2026-05-14 12:08:00`|`Valorant`|
 |[POLYGON basic external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710575-polygon-basic-external.html)|`2026-05-14 11:52:00`|`Other FPS Games`|
 |[Offline In&#45;game Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/752611-offline-game-client.html)|`2026-05-14 11:51:00`|`League of Legends`|
