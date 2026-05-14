@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-14 19:21:00`|`Counter-Strike 2`|
+|[valorant cheat making help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752638-valorant-cheat-help.html)|`2026-05-14 19:21:00`|`Valorant`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-05-14 19:21:00`|`Other FPS Games`|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-05-14 19:19:00`|`Valorant`|
+|[About convars&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752637-convars.html)|`2026-05-14 19:19:00`|`Counter-Strike 2`|
+|[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-14 19:18:00`|`Counter-Strike 2 Releases`|
+|[EAC screenshot &#40;?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/748466-eac-screenshot.html)|`2026-05-14 19:15:00`|`Anti-Cheat Bypass`|
 |[Species Unknown Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732216-species-unknown-internal.html)|`2026-05-14 17:22:00`|`Other FPS Games`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-05-14 17:07:00`|`Other FPS Games`|
 |[particle directories](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752478-particle-directories.html)|`2026-05-14 17:00:00`|`Counter-Strike 2`|
