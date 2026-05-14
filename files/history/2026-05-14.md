@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-14 23:26:00`|`Rainbow Six Siege`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-05-14 23:13:00`|`Other Games`|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-05-14 23:03:00`|`Valorant`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-05-14 21:08:00`|`HELLDIVERS 2`|
 |[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-05-14 21:07:00`|`Other FPS Games`|
 |[Dead By Daylight Tool &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733788-dead-daylight-tool-external-cheat.html)|`2026-05-14 21:00:00`|`Other FPS Games`|
