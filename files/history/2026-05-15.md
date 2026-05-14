@@ -25,9 +25,18 @@
 |132|[Hysteria1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54769)|`2026-05-15 01:18:11`|
 |6|[PanicoreDemo&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54761)|`2026-05-15 01:18:11`|
 |37|[LLVM&#45;MSVC&#45;Ex Obfuscation Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54759)|`2026-05-15 01:18:11`|
+|12|[full analysis&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54854)|`2026-05-15 07:35:40`|
+|4|[HD2 ED Features Merge&#95;bp&#95;sc&#95;rpl&#46;ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54850)|`2026-05-15 07:35:40`|
+|6|[dcplus&#95;v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54799)|`2026-05-15 07:35:40`|
+|3|[RoNInternalUpdated&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54777)|`2026-05-15 07:35:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 &#45; Lots of Ba2 files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748084-fallout-76-lots-ba2-files.html)|`2026-05-15 07:24:00`|`Other FPS Games`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-15 07:23:00`|`Counter-Strike 2`|
+|[VALORANT Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751450-valorant-skin-changer.html)|`2026-05-15 07:19:00`|`Valorant`|
+|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747569-sons-forest-gibson-menu.html)|`2026-05-15 07:15:00`|`Other Games`|
+|[Ethereal &#124; WoTB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751097-ethereal-wotb.html)|`2026-05-15 07:14:00`|`Other MMORPG and Strategy`|
 |[eac reversal &#40;better&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752150-eac-reversal.html)|`2026-05-15 06:35:00`|`Anti-Cheat Bypass`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-05-15 06:31:00`|`Escape from Tarkov`|
 |[&#91;RELEASE&#93; Pro Soccer Online External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751291-release-pro-soccer-online-external.html)|`2026-05-15 06:31:00`|`Other Games`|
