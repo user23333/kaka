@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hi friends, pleaaase help, pleaaase internal charms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752567-hi-friends-pleaaase-help-pleaaase-internal-charms.html)|`2026-05-15 03:10:00`|`Counter-Strike 2`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-05-15 03:09:00`|`Other MMORPG and Strategy`|
+|[Farever CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752593-farever-ce.html)|`2026-05-15 03:09:00`|`Other MMORPG and Strategy`|
+|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-05-15 03:07:00`|`Overwatch`|
+|[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-15 03:07:00`|`Counter-Strike 2 Releases`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-15 03:06:00`|`Other FPS Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-05-15 03:05:00`|`Other MMORPG and Strategy`|
+|[Bloodstrike Signature &#91;GLOBAL/STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752685-bloodstrike-signature-global-steam.html)|`2026-05-15 03:03:00`|`Other FPS Games`|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2026-05-15 03:00:00`|`Grand Theft Auto V`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-15 01:16:00`|`Valorant`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-15 01:15:00`|`Call of Duty: Black Ops 7`|
 |[Over The Top WW1 &#45; ESP/Aimbot Cheat &#45; Willing To Pay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752455-top-ww1-esp-aimbot-cheat-willing-pay.html)|`2026-05-15 01:14:00`|`Other FPS Games`|
