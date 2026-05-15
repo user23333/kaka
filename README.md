@@ -33,9 +33,18 @@
 |1|[DBD&#95;linux&#95;SpeedModify&#95;epic&#95;v9&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54836)|`2026-05-15 09:25:09`|
 |3|[DBD&#95;linux&#95;SpeedModify&#95;steam&#95;v9&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54835)|`2026-05-15 09:25:09`|
 |68|[The Division 2 Hack v3&#46;0&#46;3&#46;2 Cherry Blossom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54818)|`2026-05-15 09:25:09`|
+|47|[asthmaphobia v0&#46;17&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54853)|`2026-05-15 13:03:24`|
+|1|[war thunder test drive unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54851)|`2026-05-15 13:03:24`|
+|31|[potato](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54848)|`2026-05-15 13:03:24`|
+|1|[5&#46;6&#46;0&#45;0&#43;UE5&#45;TheIsle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54829)|`2026-05-15 13:03:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GPU Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752752-gpu-spoof.html)|`2026-05-15 12:57:00`|`Anti-Cheat Bypass`|
+|[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-05-15 12:53:00`|`Valorant`|
+|[How to get offsets in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751733-offsets-arc-raiders.html)|`2026-05-15 12:53:00`|`ARC Raiders`|
+|[DRAGON CS2 Cheat &#124; V1&#46;0 &#45; Hỗ trợ Windows 10 & 11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752751-dragon-cs2-cheat-v1-0-tr-windows-10-11-a.html)|`2026-05-15 12:26:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-15 12:22:00`|`ARC Raiders`|
 |[How would i do player highlight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752739-player-highlight.html)|`2026-05-15 09:22:00`|`Counter-Strike 2`|
 |[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-15 09:21:00`|`Rainbow Six Siege`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-15 09:19:00`|`Tom Clancy's The Division`|
