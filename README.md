@@ -40,6 +40,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[༺ 𝙉𝙊𝙑𝘼 ༻ — ✧ Ultimate Insyde Spoofer ✧](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/712892-ultimate-insyde-spoofer.html)|`2026-05-15 16:04:00`|`Valorant`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-05-15 16:01:00`|`Farlight 84`|
+|[Help with integrating a Discord bot into an Electron program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752651-help-integrating-discord-bot-electron-program.html)|`2026-05-15 15:55:00`|`General Programming and Reversing`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-05-15 15:42:00`|`Paladins`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-05-15 15:28:00`|`Counter-Strike 2`|
+|[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-05-15 15:26:00`|`Other FPS Games`|
+|[Cool Chams Materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752717-cool-chams-materials.html)|`2026-05-15 15:21:00`|`Counter-Strike 2`|
 |[GPU Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752752-gpu-spoof.html)|`2026-05-15 12:57:00`|`Anti-Cheat Bypass`|
 |[Valorant SDK Dumper Release &#124; Working UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743238-valorant-sdk-dumper-release-ue5.html)|`2026-05-15 12:53:00`|`Valorant`|
 |[How to get offsets in Arc Raiders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/751733-offsets-arc-raiders.html)|`2026-05-15 12:53:00`|`ARC Raiders`|
