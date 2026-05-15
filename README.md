@@ -29,9 +29,17 @@
 |4|[HD2 ED Features Merge&#95;bp&#95;sc&#95;rpl&#46;ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54850)|`2026-05-15 07:35:40`|
 |6|[dcplus&#95;v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54799)|`2026-05-15 07:35:40`|
 |3|[RoNInternalUpdated&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54777)|`2026-05-15 07:35:40`|
+|1|[r6 recoil lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54868)|`2026-05-15 09:25:09`|
+|1|[DBD&#95;linux&#95;SpeedModify&#95;epic&#95;v9&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54836)|`2026-05-15 09:25:09`|
+|3|[DBD&#95;linux&#95;SpeedModify&#95;steam&#95;v9&#46;6&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54835)|`2026-05-15 09:25:09`|
+|68|[The Division 2 Hack v3&#46;0&#46;3&#46;2 Cherry Blossom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54818)|`2026-05-15 09:25:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How would i do player highlight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752739-player-highlight.html)|`2026-05-15 09:22:00`|`Counter-Strike 2`|
+|[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-15 09:21:00`|`Rainbow Six Siege`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-15 09:19:00`|`Tom Clancy's The Division`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-05-15 09:09:00`|`Other Games`|
 |[Fallout 76 &#45; Lots of Ba2 files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748084-fallout-76-lots-ba2-files.html)|`2026-05-15 07:24:00`|`Other FPS Games`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-15 07:23:00`|`Counter-Strike 2`|
 |[VALORANT Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751450-valorant-skin-changer.html)|`2026-05-15 07:19:00`|`Valorant`|
