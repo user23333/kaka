@@ -42,6 +42,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kernel GDI Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752807-kernel-gdi-detection-vectors.html)|`2026-05-15 22:32:00`|`Anti-Cheat Bypass`|
+|[Why is Helzky a part of this forum](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/752548-helzky-forum.html)|`2026-05-15 22:29:00`|`Off Topic`|
+|[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750729-injector.html)|`2026-05-15 22:29:00`|`Anti-Cheat Bypass`|
+|[an &#40;free&#41; visual basic 6&#46;0 decompiler?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752806-free-visual-basic-6-0-decompiler.html)|`2026-05-15 22:24:00`|`General Programming and Reversing`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-15 22:22:00`|`Marvel Rivals`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-05-15 22:22:00`|`Red Dead Redemption 2`|
 |[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-15 20:16:00`|`Other Games`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-15 20:12:00`|`Counter-Strike 2`|
 |[June 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/752745-june-2026-motm-nominations.html)|`2026-05-15 20:10:00`|`Member of the Month`|
