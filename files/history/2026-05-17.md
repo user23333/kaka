@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-17 07:19:00`|`Call of Duty: Black Ops 7`|
+|[Glove changer approach](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744576-glove-changer-approach.html)|`2026-05-17 07:08:00`|`Counter-Strike 2`|
+|[overwatch 2 dumpers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/753054-overwatch-2-dumpers.html)|`2026-05-17 07:00:00`|`Overwatch`|
+|[call of duty infinite warfare offset off host](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/751874-call-duty-infinite-warfare-offset-host.html)|`2026-05-17 06:57:00`|`Call of Duty 4: Modern Warfare`|
 |[Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707363-hell-loose.html)|`2026-05-17 06:31:00`|`Other FPS Games`|
 |[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-17 06:31:00`|`Counter-Strike 2 Releases`|
 |[Quasar DMA Rust &#40;Compiled&#41; Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753050-quasar-dma-rust-compiled-patch.html)|`2026-05-17 06:27:00`|`Rust`|
