@@ -27,9 +27,18 @@
 |21|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;40&#45;CL&#45;53683214](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54840)|`2026-05-17 00:07:42`|
 |1|[subnautica 2 dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54889)|`2026-05-17 01:11:47`|
 |7|[PhasmoUnlocker v0&#46;4 v0&#46;17&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54893)|`2026-05-17 05:00:34`|
+|10|[Subnautica 2 internal ESP v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54888)|`2026-05-17 05:52:53`|
+|16|[Forza Horizon 6 &#45; Free Cars &#43; DB Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54883)|`2026-05-17 05:52:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[freelook / perspective](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/753047-freelook-perspective.html)|`2026-05-17 05:51:00`|`Minecraft`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-05-17 05:47:00`|`Other FPS Games`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-17 05:40:00`|`Marvel Rivals`|
+|[Advanced HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/742915-advanced-hwid-spoofer.html)|`2026-05-17 05:40:00`|`General Programming and Reversing`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-05-17 05:38:00`|`Escape from Tarkov`|
+|[CreateResource alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753046-createresource-alternative.html)|`2026-05-17 05:37:00`|`Alternative Online Mods`|
+|[VALORANT Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751450-valorant-skin-changer.html)|`2026-05-17 05:35:00`|`Valorant`|
 |[latest vgc dump &#91;here&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753038-vgc-dump.html)|`2026-05-17 04:56:00`|`Valorant`|
 |[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-05-17 04:55:00`|`Phasmophobia`|
 |[Whopper Hack &#124; Airport Security Sucks — Jail All, Vacuum Items & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752077-whopper-hack-airport-security-sucks-jail-vacuum-items-esp.html)|`2026-05-17 04:49:00`|`Other Games`|
