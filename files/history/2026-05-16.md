@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-05-16 08:11:00`|`Farlight 84`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-16 08:10:00`|`Call of Duty: Black Ops 7`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-05-16 08:01:00`|`Other MMORPG and Strategy`|
+|[GPU Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752752-gpu-spoof.html)|`2026-05-16 08:00:00`|`Anti-Cheat Bypass`|
+|[Modern In Depth Analysis of Vanguard AC &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752683-modern-depth-analysis-vanguard-ac-2026-a.html)|`2026-05-16 07:58:00`|`Valorant`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-05-16 07:56:00`|`Battlefield 6`|
+|[fullscreen, 0ms visuals, open source, external, read only, usermode, undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752896-fullscreen-0ms-visuals-source-external-read-usermode-undetected-cheat.html)|`2026-05-16 07:52:00`|`Counter-Strike 2`|
+|[Liar's Bar Mod &#124; 0&#46;981 &#124; DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739845-liars-bar-mod-0-981-dll.html)|`2026-05-16 07:48:00`|`Other Games`|
+|[Player Voices Freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752895-player-voices-freecam.html)|`2026-05-16 07:45:00`|`Alternative Online Mods`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-05-16 07:21:00`|`Apex Legends`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-16 07:18:00`|`Phasmophobia`|
 |[Internal imgui Rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/752590-internal-imgui-rendering.html)|`2026-05-16 06:47:00`|`Apex Legends`|
