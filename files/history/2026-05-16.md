@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-05-16 18:45:00`|`HELLDIVERS 2`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-16 18:44:00`|`Tom Clancy's The Division`|
+|[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-05-16 18:43:00`|`Garry's Mod`|
+|[Looking For ARC RAİDERS working source &#123; ESP &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748787-looking-arc-ra-ders-source-esp.html)|`2026-05-16 18:43:00`|`ARC Raiders`|
+|[Any new cheats for gmod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/752268-cheats-gmod.html)|`2026-05-16 18:42:00`|`Garry's Mod`|
+|[items unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/752329-items-unlocker.html)|`2026-05-16 18:40:00`|`Paladins`|
+|[Crash When Calling luaL&#95;dostring in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752929-crash-calling-lual_dostring-fivem.html)|`2026-05-16 18:38:00`|`Alternative Online Mods`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-05-16 18:38:00`|`Paladins`|
 |[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-05-16 17:45:00`|`Other FPS Games`|
 |[DayZ DMA only Web Radar &#91;source code&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/750100-dayz-dma-web-radar-source-code.html)|`2026-05-16 17:39:00`|`DayZ SA`|
 |[SkinChanger knife skins not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752935-skinchanger-knife-skins.html)|`2026-05-16 17:37:00`|`Counter-Strike 2`|
