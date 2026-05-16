@@ -13,6 +13,7 @@
 |20|[Farever CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752593-farever-ce.html)|`2026-05-16 00:20:01`|`other-mmorpg-and-strategy`|
 |13|[Modern In Depth Analysis of Vanguard AC &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752683-modern-depth-analysis-vanguard-ac-2026-a.html)|`2026-05-16 14:23:09`|`valorant`|
 |18|[Farever Trainer v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752571-farever-trainer-v1-0-a.html)|`2026-05-16 14:23:09`|`other-mmorpg-and-strategy`|
+|20|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-16 20:41:53`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farever Trainer v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752571-farever-trainer-v1-0-a.html)|`2026-05-16 20:36:00`|`Other MMORPG and Strategy`|
+|[Helios Pipeline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752955-helios-pipeline.html)|`2026-05-16 20:34:00`|`General Programming and Reversing`|
+|[FACEIT&#45;AC MAPER UPDATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750211-faceit-ac-maper-update.html)|`2026-05-16 20:21:00`|`Anti-Cheat Bypass`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-05-16 20:19:00`|`Other FPS Games`|
+|[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-05-16 20:17:00`|`Other FPS Games`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-16 19:29:00`|`ARC Raiders`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-16 19:26:00`|`Other MMORPG and Strategy`|
 |[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-05-16 19:22:00`|`Age of Empires`|
