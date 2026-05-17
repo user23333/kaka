@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-05-17 15:13:00`|`Other FPS Games`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-17 15:01:00`|`Deadlock`|
+|[Pokemon MMO 3D BOT/HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753023-pokemon-mmo-3d-bot-hack.html)|`2026-05-17 14:46:00`|`Other MMORPG and Strategy`|
+|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-17 14:44:00`|`Counter-Strike 2`|
+|[Chams color issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753076-chams-color-issue.html)|`2026-05-17 14:43:00`|`Counter-Strike 2`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-05-17 14:39:00`|`Other FPS Games`|
 |[play internal game sounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753068-play-internal-game-sounds.html)|`2026-05-17 12:41:00`|`Counter-Strike 2`|
 |[Sorry, we are unable to handle your request at this time&#46; &#35;1&#46;000&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752998-sorry-unable-handle-request-time-1-000-7-a.html)|`2026-05-17 12:29:00`|`Alternative Online Mods`|
 |[VGC Dumped Fixed Last](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751995-vgc-dumped-fixed.html)|`2026-05-17 12:23:00`|`Valorant`|
