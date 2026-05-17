@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can heino 2&#46;0 bypass Riot's anti&#45;cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753096-heino-2-0-bypass-riots-anti-cheat.html)|`2026-05-17 19:41:00`|`Valorant`|
+|[PE header DataDirectory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/753099-pe-header-datadirectory.html)|`2026-05-17 19:33:00`|`Forum General`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-05-17 19:28:00`|`Other MMORPG and Strategy`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-17 19:26:00`|`Other FPS Games`|
+|[MHUR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749615-mhur-internal.html)|`2026-05-17 19:18:00`|`Other FPS Games`|
 |[Vanguard Network Architecture &#45; Training Material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753094-vanguard-network-architecture-training-material.html)|`2026-05-17 18:33:00`|`Anti-Cheat Bypass`|
 |[Re: Heino 2&#46;0 questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/753093-re-heino-2-0-questions.html)|`2026-05-17 18:29:00`|`Apex Legends`|
 |[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-05-17 18:17:00`|`Other FPS Games`|
