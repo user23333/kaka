@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to remove hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752634-remove-hwid-ban.html)|`2026-05-17 22:06:00`|`Valorant`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-17 22:05:00`|`Counter-Strike 2`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-05-17 21:59:00`|`Grand Theft Auto V`|
+|[&#91;removed&#93;ing EAC anti&#45;cheat is so strict about checking DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750824-removed-ing-eac-anti-cheat-strict-checking-dma.html)|`2026-05-17 21:57:00`|`Apex Legends`|
+|[hitchance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753109-hitchance.html)|`2026-05-17 21:34:00`|`Counter-Strike 2`|
 |[colorbot using hsv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748232-colorbot-using-hsv.html)|`2026-05-17 20:36:00`|`Overwatch`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-05-17 20:36:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-05-17 20:36:00`|`Other MMORPG and Strategy`|
