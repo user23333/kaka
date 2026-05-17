@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Network Architecture &#45; Training Material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753094-vanguard-network-architecture-training-material.html)|`2026-05-17 18:33:00`|`Anti-Cheat Bypass`|
+|[Re: Heino 2&#46;0 questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/753093-re-heino-2-0-questions.html)|`2026-05-17 18:29:00`|`Apex Legends`|
+|[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-05-17 18:17:00`|`Other FPS Games`|
+|[Any new cheats for gmod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/752268-cheats-gmod.html)|`2026-05-17 18:09:00`|`Garry's Mod`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-17 17:06:00`|`Escape from Tarkov`|
 |[Crash When Calling luaL&#95;dostring in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752929-crash-calling-lual_dostring-fivem.html)|`2026-05-17 16:56:00`|`Alternative Online Mods`|
 |[perf jumpbug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752704-perf-jumpbug.html)|`2026-05-17 16:31:00`|`Counter-Strike 2`|
