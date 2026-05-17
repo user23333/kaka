@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-17 17:06:00`|`Escape from Tarkov`|
+|[Crash When Calling luaL&#95;dostring in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752929-crash-calling-lual_dostring-fivem.html)|`2026-05-17 16:56:00`|`Alternative Online Mods`|
+|[perf jumpbug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752704-perf-jumpbug.html)|`2026-05-17 16:31:00`|`Counter-Strike 2`|
+|[Bloodstrike GL Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753039-bloodstrike-gl-offsets.html)|`2026-05-17 16:11:00`|`Other FPS Games`|
 |[Bloodstrike Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748824-bloodstrike-offsets.html)|`2026-05-17 15:13:00`|`Other FPS Games`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-17 15:01:00`|`Deadlock`|
 |[Pokemon MMO 3D BOT/HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753023-pokemon-mmo-3d-bot-hack.html)|`2026-05-17 14:46:00`|`Other MMORPG and Strategy`|
