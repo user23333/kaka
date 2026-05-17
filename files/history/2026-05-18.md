@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sky Color changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753091-sky-color-changer.html)|`2026-05-18 05:58:00`|`Counter-Strike 2`|
+|[Zula Blackbone & BitBlt & Ban System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747268-zula-blackbone-bitblt-ban-system.html)|`2026-05-18 05:58:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-18 05:48:00`|`Valorant`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-18 05:03:00`|`Phasmophobia`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-18 04:56:00`|`Counter-Strike 2`|
 |[Whopper Hack &#124; Airport Security Sucks — Jail All, Vacuum Items & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752077-whopper-hack-airport-security-sucks-jail-vacuum-items-esp.html)|`2026-05-18 04:53:00`|`Other Games`|
