@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[freelook / perspective](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/753047-freelook-perspective.html)|`2026-05-18 03:21:00`|`Minecraft`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-18 03:18:00`|`Other FPS Games`|
+|[The Seven Deadly Sins External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753146-seven-deadly-sins-external-cheat.html)|`2026-05-18 03:14:00`|`Other MMORPG and Strategy`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-05-18 03:13:00`|`Rainbow Six Siege`|
+|[What am i doing wrong to get localclientnumber](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/752997-am-doing-wrong-localclientnumber.html)|`2026-05-18 03:12:00`|`Call of Duty: Black Ops 2`|
+|[Pixel based orbwalker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/751603-pixel-based-orbwalker.html)|`2026-05-18 03:00:00`|`League of Legends`|
+|[RZX Dead by Daylight External &#40;Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738047-rzx-dead-daylight-external-windows.html)|`2026-05-18 02:59:00`|`Other FPS Games`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-05-18 02:58:00`|`Rainbow Six Siege`|
 |[Skinchanger doesnt work on matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753037-skinchanger-doesnt-matchmaking.html)|`2026-05-18 02:06:00`|`Counter-Strike 2`|
 |[how to remove hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752634-remove-hwid-ban.html)|`2026-05-18 02:06:00`|`Valorant`|
 |[Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707363-hell-loose.html)|`2026-05-18 02:04:00`|`Other FPS Games`|
