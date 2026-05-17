@@ -11,6 +11,7 @@
 |25|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-18 00:09:04`|`other-mmorpg-and-strategy`|
 |23|[Modern In Depth Analysis of Vanguard AC &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752683-modern-depth-analysis-vanguard-ac-2026-a.html)|`2026-05-18 00:09:04`|`valorant`|
 |16|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-18 00:09:04`|`counter-strike-2-a`|
+|6|[Forza Horizon 6 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753024-forza-horizon-6-mod-menu.html)|`2026-05-18 02:07:26`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Skinchanger doesnt work on matchmaking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753037-skinchanger-doesnt-matchmaking.html)|`2026-05-18 02:06:00`|`Counter-Strike 2`|
+|[how to remove hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752634-remove-hwid-ban.html)|`2026-05-18 02:06:00`|`Valorant`|
+|[Hell Let Loose](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707363-hell-loose.html)|`2026-05-18 02:04:00`|`Other FPS Games`|
+|[Vanguard Network Architecture &#45; Training Material](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753094-vanguard-network-architecture-training-material.html)|`2026-05-18 01:57:00`|`Anti-Cheat Bypass`|
+|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-18 01:54:00`|`Counter-Strike 2`|
+|[Forza Horizon 6 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/752192-forza-horizon-6-thread.html)|`2026-05-18 01:53:00`|`Forum General`|
 |[GFusion Closet Cheat / Due to Rules&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/711867-gfusion-closet-cheat-due-rules.html)|`2026-05-18 01:09:00`|`Counter-Strike 2 Releases`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-05-18 01:06:00`|`Marvel Rivals`|
 |[playername](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753137-playername.html)|`2026-05-18 01:06:00`|`Alternative Online Mods`|
