@@ -32,9 +32,19 @@
 |1|[Sleepy's Internal &#45; 2&#46;22&#46;1&#46;0&#46;149597 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54901)|`2026-05-18 11:35:00`|
 |18|[Subnautica 2 internal ESP v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54899)|`2026-05-18 11:35:00`|
 |1|[Subnautica2CheatMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54898)|`2026-05-18 11:35:00`|
+|2|[iw6x&#43;steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54919)|`2026-05-18 15:10:30`|
+|7|[TheSevenExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54916)|`2026-05-18 15:10:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-05-18 15:08:00`|`Other FPS Games`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-05-18 14:56:00`|`Marvel Rivals`|
+|["Failed to serialize one usercommand?"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753221-failed-serialize-usercommand.html)|`2026-05-18 14:25:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-05-18 14:21:00`|`Other MMORPG and Strategy`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-05-18 14:05:00`|`Apex Legends`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-05-18 13:53:00`|`Counter-Strike 2`|
+|[Hyperion &#45; Interactive Disassembler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/752171-hyperion-interactive-disassembler.html)|`2026-05-18 13:53:00`|`General Programming and Reversing`|
+|[CrusX&#95;For&#95;Honor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752209-crusx_for_honor.html)|`2026-05-18 13:47:00`|`Other MMORPG and Strategy`|
 |[It's Just Us &#40;an internal menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/753111-internal-menu.html)|`2026-05-18 11:34:00`|`Among Us`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-18 11:34:00`|`Counter-Strike 2 Releases`|
 |[ring 0 signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753202-ring-0-signature.html)|`2026-05-18 11:31:00`|`Rainbow Six Siege`|
