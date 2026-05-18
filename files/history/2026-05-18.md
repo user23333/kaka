@@ -13,6 +13,7 @@
 |16|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-18 00:09:04`|`counter-strike-2-a`|
 |6|[Forza Horizon 6 Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753024-forza-horizon-6-mod-menu.html)|`2026-05-18 02:07:26`|`other-games`|
 |23|[Subnautica 2 internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752944-subnautica-2-internal-esp.html)|`2026-05-18 07:00:39`|`other-fps-games`|
+|7|[Arc raiders   cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/752803-arc-raiders-cheat.html)|`2026-05-18 22:36:56`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does any one have a free valorant esp hack which is no cap and antiban&#46; pls help&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753246-free-valorant-esp-hack-cap-antiban-pls-help.html)|`2026-05-18 22:36:00`|`Valorant`|
+|[Chams are invincible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753128-chams-invincible.html)|`2026-05-18 22:34:00`|`Counter-Strike 2`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-05-18 22:33:00`|`HELLDIVERS 2`|
+|[new anti&#45;cheat mechanism now in your UEFI?&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753205-anti-cheat-mechanism-uefi.html)|`2026-05-18 22:33:00`|`Valorant`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-05-18 22:31:00`|`Alternative Online Mods`|
+|[fullscreen, 0ms visuals, open source, external, read only, usermode, undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752896-fullscreen-0ms-visuals-source-external-read-usermode-undetected-cheat.html)|`2026-05-18 22:28:00`|`Counter-Strike 2`|
 |[overlay gpu priority](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/753235-overlay-gpu-priority.html)|`2026-05-18 18:57:00`|`Call of Duty: Black Ops 7`|
 |[Age Of Empire 4 Scar Script Injector with Online &#43; Offline Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/720438-age-empire-4-scar-script-injector-online-offline-features.html)|`2026-05-18 18:45:00`|`Age of Empires`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-18 18:44:00`|`Call of Duty: Black Ops 7`|
