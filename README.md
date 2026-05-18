@@ -26,9 +26,22 @@
 |28|[DBD&#40;v9&#46;6&#46;2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54878)|`2026-05-18 00:09:04`|
 |101|[r6 recoil lua script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54868)|`2026-05-18 00:09:04`|
 |206|[full analysis&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54854)|`2026-05-18 00:09:04`|
+|0|[5&#46;5&#46;4&#45;248531&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;2&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54918)|`2026-05-18 11:35:00`|
+|53|[Farever Forever v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54915)|`2026-05-18 11:35:00`|
+|1|[Its&#45;just&#45;us](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54909)|`2026-05-18 11:35:00`|
+|1|[Sleepy's Internal &#45; 2&#46;22&#46;1&#46;0&#46;149597 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54901)|`2026-05-18 11:35:00`|
+|18|[Subnautica 2 internal ESP v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54899)|`2026-05-18 11:35:00`|
+|1|[Subnautica2CheatMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54898)|`2026-05-18 11:35:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[It's Just Us &#40;an internal menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/753111-internal-menu.html)|`2026-05-18 11:34:00`|`Among Us`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-18 11:34:00`|`Counter-Strike 2 Releases`|
+|[ring 0 signature](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753202-ring-0-signature.html)|`2026-05-18 11:31:00`|`Rainbow Six Siege`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-18 11:24:00`|`Overwatch`|
+|[Subnautica 2 : Dump issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752728-subnautica-2-dump-issue.html)|`2026-05-18 11:14:00`|`Other MMORPG and Strategy`|
+|[things i should know about the anticheat/ban system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/752151-anticheat-ban-system.html)|`2026-05-18 11:13:00`|`Deadlock`|
+|[Please grant my request for Predecessor&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743078-please-grant-request-predecessor.html)|`2026-05-18 11:11:00`|`Other Games`|
 |[I'm a newbie Hello Internet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/753164-im-newbie-hello-internet.html)|`2026-05-18 07:43:00`|`Introductions`|
 |[R6S ViewData & Offset Scanner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/751831-r6s-viewdata-offset-scanner.html)|`2026-05-18 07:39:00`|`Rainbow Six Siege`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-05-18 07:33:00`|`Other FPS Games`|
