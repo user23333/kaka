@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overlay gpu priority](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/753235-overlay-gpu-priority.html)|`2026-05-20 03:16:00`|`Call of Duty: Black Ops 7`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-05-20 03:16:00`|`Other MMORPG and Strategy`|
+|[Farever Forever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753132-farever-forever.html)|`2026-05-20 03:16:00`|`Other MMORPG and Strategy`|
+|[name/clantag changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753422-name-clantag-changer.html)|`2026-05-20 03:15:00`|`Counter-Strike 2`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-20 03:07:00`|`Phasmophobia`|
+|[The Crew Moterfest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753421-crew-moterfest.html)|`2026-05-20 03:05:00`|`Other Games`|
+|[NoSpread SHA1 or Patterns ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753420-nospread-sha1-patterns.html)|`2026-05-20 03:02:00`|`Counter-Strike 2`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-20 02:59:00`|`Escape from Tarkov`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-20 02:50:00`|`Other FPS Games`|
 |[customized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/753403-customized.html)|`2026-05-20 01:13:00`|`Android`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-20 01:13:00`|`Other MMORPG and Strategy`|
 |[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-20 01:12:00`|`Other MMORPG and Strategy`|
