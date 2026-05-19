@@ -11,6 +11,7 @@
 |31|[Subnautica 2 internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752944-subnautica-2-internal-esp.html)|`2026-05-19 01:18:10`|`other-fps-games`|
 |21|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-19 01:18:10`|`counter-strike-2-a`|
 |8|[Arc raiders   cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/752803-arc-raiders-cheat.html)|`2026-05-19 01:18:10`|`arc-raiders`|
+|51|[Farever Forever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753132-farever-forever.html)|`2026-05-19 16:46:06`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,16 @@
 |14|[Subnautica2CheatMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54898)|`2026-05-19 01:18:10`|
 |50|[564700000&#46;vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54894)|`2026-05-19 01:18:10`|
 |206|[PhasmoUnlocker v0&#46;4 v0&#46;17&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54893)|`2026-05-19 01:18:10`|
+|4|[12&#46;09 Dumper7&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54930)|`2026-05-19 16:46:06`|
+|3|[vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54910)|`2026-05-19 16:46:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-05-19 16:43:00`|`Sea of Thieves`|
+|[FaceIT blocks module enumeration &#45; how to find client&#46;dll using only physical memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753297-faceit-blocks-module-enumeration-client-dll-using-physical-memory.html)|`2026-05-19 16:42:00`|`Anti-Cheat Bypass`|
+|[MVMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/748559-mvmoney.html)|`2026-05-19 16:29:00`|`Team Fortress 2`|
+|[Looking for tools that can generate NavMesh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753353-looking-tools-generate-navmesh.html)|`2026-05-19 16:29:00`|`Counter-Strike 2`|
+|[hooking generateprimitives with idx instead of sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753352-hooking-generateprimitives-idx-instead-sig.html)|`2026-05-19 16:24:00`|`Counter-Strike 2`|
 |[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-05-19 13:39:00`|`Other MMORPG and Strategy`|
 |[War Thunder Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753079-war-thunder-cheating.html)|`2026-05-19 13:28:00`|`Other MMORPG and Strategy`|
 |[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2026-05-19 13:27:00`|`Garry's Mod`|
