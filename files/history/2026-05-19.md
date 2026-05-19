@@ -12,6 +12,7 @@
 |21|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-19 01:18:10`|`counter-strike-2-a`|
 |8|[Arc raiders   cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/752803-arc-raiders-cheat.html)|`2026-05-19 01:18:10`|`arc-raiders`|
 |51|[Farever Forever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753132-farever-forever.html)|`2026-05-19 16:46:06`|`other-mmorpg-and-strategy`|
+|23|[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-19 19:44:52`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-19 19:43:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-19 19:42:00`|`Other FPS Games`|
+|[schemasystem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753371-schemasystem.html)|`2026-05-19 19:41:00`|`Counter-Strike 2`|
+|[How to Make your own Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747163-own-executor.html)|`2026-05-19 19:39:00`|`Roblox`|
+|[Super Mission Editor CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752404-super-mission-editor-ct.html)|`2026-05-19 19:36:00`|`HELLDIVERS 2`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-19 19:34:00`|`Other MMORPG and Strategy`|
+|[Mongil: Star Dive Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748596-mongil-star-dive-hack.html)|`2026-05-19 19:33:00`|`Other MMORPG and Strategy`|
+|[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-05-19 19:24:00`|`Other FPS Games`|
+|[Forza Horizon 6 Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/752192-forza-horizon-6-thread.html)|`2026-05-19 19:24:00`|`Forum General`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-05-19 16:43:00`|`Sea of Thieves`|
 |[FaceIT blocks module enumeration &#45; how to find client&#46;dll using only physical memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753297-faceit-blocks-module-enumeration-client-dll-using-physical-memory.html)|`2026-05-19 16:42:00`|`Anti-Cheat Bypass`|
 |[MVMoney](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/748559-mvmoney.html)|`2026-05-19 16:29:00`|`Team Fortress 2`|
