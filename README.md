@@ -29,9 +29,21 @@
 |6|[Subnautica 2 internal ESP v4 Gamepass &#43; steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54938)|`2026-05-20 08:14:46`|
 |2|[Combat Arms BR Valofe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54936)|`2026-05-20 08:14:46`|
 |2|[Real MAC Address Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54935)|`2026-05-20 08:14:46`|
+|5|[Subnautica 2 internal v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54962)|`2026-05-20 12:36:04`|
+|8|[YuiTools 0&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54955)|`2026-05-20 12:36:04`|
+|2|[GZWDMA by Bambiblanche](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54944)|`2026-05-20 12:36:04`|
+|4|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54943)|`2026-05-20 12:36:04`|
+|24|[OsuPlayback&#95;v11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54941)|`2026-05-20 12:36:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-20 12:35:00`|`Other Games`|
+|[feedback on benchmarking hypervisor detection surfaces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753490-feedback-benchmarking-hypervisor-detection-surfaces.html)|`2026-05-20 12:26:00`|`Anti-Cheat Bypass`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-05-20 12:25:00`|`Among Us`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-20 12:17:00`|`Other Games`|
+|[GZW&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753332-gzw-dma.html)|`2026-05-20 12:17:00`|`Other FPS Games`|
+|[items unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/752329-items-unlocker.html)|`2026-05-20 12:10:00`|`Paladins`|
+|[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-05-20 12:08:00`|`Other FPS Games`|
 |[Real MAC Address Change I RTNicPg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751674-real-mac-address-change-rtnicpg.html)|`2026-05-20 08:12:00`|`Anti-Cheat Bypass`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-05-20 08:07:00`|`Farlight 84`|
 |[NX Chams Combat Arms Brasil VALOFE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/753303-nx-chams-combat-arms-brasil-valofe.html)|`2026-05-20 08:00:00`|`Combat Arms`|
