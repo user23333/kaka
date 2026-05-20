@@ -37,6 +37,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Embers of the Gods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753333-embers-gods.html)|`2026-05-20 19:04:00`|`Other MMORPG and Strategy`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-20 18:59:00`|`Counter-Strike 2`|
+|[NEED an abiotic factor trainer please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753173-abiotic-factor-trainer-please.html)|`2026-05-20 18:56:00`|`Other Games`|
+|[How to map a driver for battle eye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743229-map-driver-battle-eye.html)|`2026-05-20 18:54:00`|`Anti-Cheat Bypass`|
+|[&#91;Rust&#93; Grenade trajectory predictor for CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753513-rust-grenade-trajectory-predictor-cs2-internal.html)|`2026-05-20 18:42:00`|`Counter-Strike 2`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-05-20 18:38:00`|`Valorant`|
+|[Apply In&#45;Game Name Tags to Weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753473-apply-game-name-tags-weapons.html)|`2026-05-20 18:35:00`|`Counter-Strike 2`|
+|[3rd Person view](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753440-3rd-person-view.html)|`2026-05-20 18:35:00`|`Counter-Strike 2`|
+|[Fake Commends & Fake Prime Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753258-fake-commends-fake-prime-issue.html)|`2026-05-20 18:33:00`|`Counter-Strike 2`|
 |[a spoofer driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753250-spoofer-driver.html)|`2026-05-20 16:00:00`|`Anti-Cheat Bypass`|
 |[CS2 Internal &#91;&#43;Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750899-cs2-internal-silent-aim.html)|`2026-05-20 15:56:00`|`Counter-Strike 2`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-20 15:49:00`|`Other MMORPG and Strategy`|
