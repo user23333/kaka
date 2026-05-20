@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[a spoofer driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753250-spoofer-driver.html)|`2026-05-20 16:00:00`|`Anti-Cheat Bypass`|
+|[CS2 Internal &#91;&#43;Silent Aim&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750899-cs2-internal-silent-aim.html)|`2026-05-20 15:56:00`|`Counter-Strike 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-05-20 15:49:00`|`Other MMORPG and Strategy`|
+|[playerinventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753457-playerinventory.html)|`2026-05-20 15:42:00`|`Rust`|
+|[⭐ Updated & Tested &#91; Marvel Rival Offsets &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/753026-updated-tested-marvel-rival-offsets.html)|`2026-05-20 15:19:00`|`Marvel Rivals`|
 |[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-20 12:35:00`|`Other Games`|
 |[feedback on benchmarking hypervisor detection surfaces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753490-feedback-benchmarking-hypervisor-detection-surfaces.html)|`2026-05-20 12:26:00`|`Anti-Cheat Bypass`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-05-20 12:25:00`|`Among Us`|
