@@ -34,9 +34,17 @@
 |2|[GZWDMA by Bambiblanche](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54944)|`2026-05-20 12:36:04`|
 |4|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54943)|`2026-05-20 12:36:04`|
 |24|[OsuPlayback&#95;v11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54941)|`2026-05-20 12:36:04`|
+|2|[5&#46;4&#46;4&#45;0&#43;UE5&#45;ProjectMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54964)|`2026-05-20 21:44:56`|
+|0|[Valorant Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54960)|`2026-05-20 21:44:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Regarding the issue of Apex weapon ID changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/753555-regarding-issue-apex-weapon-id-changes.html)|`2026-05-20 21:42:00`|`Apex Legends`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-20 21:38:00`|`Other Games`|
+|[Axel triggerbot &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753520-axel-triggerbot-2026-a.html)|`2026-05-20 21:38:00`|`Valorant`|
+|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-05-20 21:33:00`|`Tom Clancy's The Division`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2026-05-20 21:33:00`|`Garry's Mod`|
+|[BattleEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/753415-battleeye.html)|`2026-05-20 21:32:00`|`Grand Theft Auto V`|
 |[Embers of the Gods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753333-embers-gods.html)|`2026-05-20 19:04:00`|`Other MMORPG and Strategy`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-05-20 18:59:00`|`Counter-Strike 2`|
 |[NEED an abiotic factor trainer please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753173-abiotic-factor-trainer-please.html)|`2026-05-20 18:56:00`|`Other Games`|
