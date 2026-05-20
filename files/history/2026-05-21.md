@@ -11,6 +11,7 @@
 |23|[Arc raiders   cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/752803-arc-raiders-cheat.html)|`2026-05-21 00:37:06`|`arc-raiders`|
 |26|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-21 00:37:06`|`counter-strike-2-a`|
 |14|[fullscreen, 0ms visuals, open source, external, read only, usermode, undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752896-fullscreen-0ms-visuals-source-external-read-usermode-undetected-cheat.html)|`2026-05-21 00:37:06`|`counter-strike-2-a`|
+|11|[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-21 03:02:06`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[June 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/752745-june-2026-motm-nominations.html)|`2026-05-21 02:59:00`|`Member of the Month`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-21 02:56:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-21 02:53:00`|`Other FPS Games`|
+|[Apply In&#45;Game Name Tags to Weapons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753473-apply-game-name-tags-weapons.html)|`2026-05-21 02:52:00`|`Counter-Strike 2`|
+|[Colorbot hsv colors for &#40;red&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753585-colorbot-hsv-colors-red.html)|`2026-05-21 02:52:00`|`Valorant`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-21 02:48:00`|`Counter-Strike 2`|
+|[GetStickerKits offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753612-getstickerkits-offset.html)|`2026-05-21 02:48:00`|`Counter-Strike 2`|
+|[GIHF &#45; Intel HV](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/753607-gihf-intel-hv.html)|`2026-05-21 02:47:00`|`General Programming and Reversing`|
+|[FaceIT blocks module enumeration &#45; how to find client&#46;dll using only physical memory?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753297-faceit-blocks-module-enumeration-client-dll-using-physical-memory.html)|`2026-05-21 02:37:00`|`Anti-Cheat Bypass`|
+|[AUTH&#95;REQUEST always 400 from vanguard&#45;ms&#45;gateway — building vgc emulator, what token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753610-auth_request-400-vanguard-ms-gateway-building-vgc-emulator-token.html)|`2026-05-21 02:34:00`|`Valorant`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-21 00:35:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-05-21 00:32:00`|`Other FPS Games`|
 |[Ready or not Cheat 08/05/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751689-ready-cheat-08-05-2026-a.html)|`2026-05-21 00:30:00`|`Other FPS Games`|
