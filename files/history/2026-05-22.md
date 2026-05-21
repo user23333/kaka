@@ -11,6 +11,8 @@
 |17|[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-22 01:12:55`|`rainbow-six-siege`|
 |15|[fullscreen, 0ms visuals, open source, external, read only, usermode, undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752896-fullscreen-0ms-visuals-source-external-read-usermode-undetected-cheat.html)|`2026-05-22 01:12:55`|`counter-strike-2-a`|
 |18|[a spoofer driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753250-spoofer-driver.html)|`2026-05-22 01:12:55`|`anti-cheat-bypass`|
+|27|[GPU Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752752-gpu-spoof.html)|`2026-05-22 03:15:48`|`anti-cheat-bypass`|
+|12|[runtime&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753212-runtime-dumper.html)|`2026-05-22 03:15:48`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +26,19 @@
 |41|[12&#46;09&#46;00&#46;4704114 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54948)|`2026-05-22 01:12:55`|
 |254|[asthmaphobia v0&#46;17&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54946)|`2026-05-22 01:12:55`|
 |39|[NTESDK&#45;1&#46;0&#46;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54945)|`2026-05-22 01:12:55`|
+|34|[utils](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54988)|`2026-05-22 03:15:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-22 03:14:00`|`Apex Legends`|
+|[ai aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753432-ai-aimbot.html)|`2026-05-22 03:13:00`|`Rainbow Six Siege`|
+|[Dumping packed Roblox: Vulkan outdated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/752703-dumping-packed-roblox-vulkan-outdated.html)|`2026-05-22 03:10:00`|`Roblox`|
+|[sober offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/749668-sober-offsets.html)|`2026-05-22 03:09:00`|`Roblox`|
+|[Swedish Weapon Pack ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/753385-swedish-weapon-pack-ids.html)|`2026-05-22 03:09:00`|`Payday 3`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-22 03:05:00`|`Other FPS Games`|
+|[External broker &#43; manual map, entry OK, scheduler/Luau blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/753379-external-broker-manual-map-entry-ok-scheduler-luau-blocked.html)|`2026-05-22 03:03:00`|`Roblox`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-22 03:00:00`|`ARC Raiders`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-05-22 02:58:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-22 01:12:00`|`Call of Duty: Black Ops 7`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-22 01:10:00`|`Counter-Strike 2`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-22 01:10:00`|`Phasmophobia`|
