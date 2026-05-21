@@ -30,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-22 06:14:00`|`Counter-Strike 2`|
+|[Jobs External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753758-jobs-external.html)|`2026-05-22 06:08:00`|`Alternative Online Mods`|
+|[some utils](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753740-utils.html)|`2026-05-22 06:07:00`|`Anti-Cheat Bypass`|
+|[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-05-22 06:06:00`|`Other MMORPG and Strategy`|
+|[cs 2 last patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751131-cs-2-patterns.html)|`2026-05-22 06:06:00`|`Counter-Strike 2`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-05-22 06:01:00`|`Other FPS Games`|
+|[a spoofer driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753250-spoofer-driver.html)|`2026-05-22 06:00:00`|`Anti-Cheat Bypass`|
+|[Farever CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752593-farever-ce.html)|`2026-05-22 05:58:00`|`Other MMORPG and Strategy`|
+|[items unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/752329-items-unlocker.html)|`2026-05-22 05:57:00`|`Paladins`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-22 04:56:00`|`Other MMORPG and Strategy`|
 |[Multiple HID&#45;Compliant Mouse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753768-multiple-hid-compliant-mouse.html)|`2026-05-22 04:46:00`|`Valorant`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-05-22 04:38:00`|`Marvel Rivals`|
