@@ -28,9 +28,19 @@
 |254|[asthmaphobia v0&#46;17&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54946)|`2026-05-22 01:12:55`|
 |39|[NTESDK&#45;1&#46;0&#46;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54945)|`2026-05-22 01:12:55`|
 |34|[utils](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54988)|`2026-05-22 03:15:48`|
+|11|[Marvel&#45;Rivals&#45;SDK&#45;23340377](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54991)|`2026-05-22 12:36:34`|
+|0|[Heroes&#95;MM&#95;OE Dump Patch 7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54989)|`2026-05-22 12:36:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[movement fix &#43; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753644-movement-fix-sv_quantize_movement_input.html)|`2026-05-22 12:23:00`|`Counter-Strike 2`|
+|[Marvel Rivals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/753759-marvel-rivals-sdk.html)|`2026-05-22 12:16:00`|`Marvel Rivals`|
+|[SteelSeries Sonar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753248-steelseries-sonar.html)|`2026-05-22 12:11:00`|`Anti-Cheat Bypass`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-05-22 12:08:00`|`Grand Theft Auto V`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-05-22 12:02:00`|`ARMA 3`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-22 11:50:00`|`Other Games`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-05-22 11:50:00`|`Other FPS Games`|
+|[nerv SkinChanger &#40;no Inv management atm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750955-nerv-skinchanger-inv-management-atm.html)|`2026-05-22 11:48:00`|`Counter-Strike 2 Releases`|
 |[Overlay Chams?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753787-overlay-chams.html)|`2026-05-22 08:11:00`|`Counter-Strike 2`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-05-22 07:59:00`|`Combat Master`|
 |[What is bulletTP and how it works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753728-bullettp.html)|`2026-05-22 07:52:00`|`Rust`|
