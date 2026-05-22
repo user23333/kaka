@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-05-23 05:48:00`|`Paladins`|
+|[Some long overdue promotions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/753801-overdue-promotions.html)|`2026-05-23 05:44:00`|`Information and Announcements`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-05-23 05:38:00`|`Rainbow Six Siege`|
+|[Ocean detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753237-ocean-detection.html)|`2026-05-23 05:35:00`|`Alternative Online Mods`|
+|[Rust skeleton broken after latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753935-rust-skeleton-broken-update.html)|`2026-05-23 05:26:00`|`Rust`|
+|[Wrong section offset after dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/753757-wrong-section-offset-dump.html)|`2026-05-23 05:21:00`|`ARC Raiders`|
 |[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-23 04:44:00`|`Rainbow Six Siege`|
 |[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-23 04:41:00`|`Counter-Strike 2 Releases`|
 |[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-05-23 04:39:00`|`Other Games`|
