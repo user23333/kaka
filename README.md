@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Exploits/Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751738-star-citizen-exploits-duping-methods.html)|`2026-05-23 07:43:00`|`Other FPS Games`|
+|[DMA Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753898-dma-questions.html)|`2026-05-23 07:42:00`|`Rainbow Six Siege`|
+|[The Seven Deadly Sins External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753146-seven-deadly-sins-external-cheat.html)|`2026-05-23 07:33:00`|`Other MMORPG and Strategy`|
+|[fullscreen, 0ms visuals, open source, external, read only, usermode, undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752896-fullscreen-0ms-visuals-source-external-read-usermode-undetected-cheat.html)|`2026-05-23 07:31:00`|`Counter-Strike 2`|
+|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-05-23 07:26:00`|`Overwatch`|
+|[Gamble with your friends menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/751154-gamble-friends-menu.html)|`2026-05-23 07:25:00`|`Other Games`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-23 06:42:00`|`Tom Clancy's The Division`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-05-23 06:40:00`|`Marvel Rivals`|
 |[do i give up on hypervisor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753827-hypervisor.html)|`2026-05-23 06:36:00`|`Anti-Cheat Bypass`|
