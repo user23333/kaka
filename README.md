@@ -15,6 +15,7 @@
 |12|[runtime&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753212-runtime-dumper.html)|`2026-05-22 03:15:48`|`rust`|
 |16|[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-05-22 07:17:05`|`other-mmorpg-and-strategy`|
 |15|[theory for amazing UM steath idea &#40;only smart people discuss&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753283-theory-amazing-um-steath-idea-smart-people-discuss.html)|`2026-05-22 15:59:40`|`anti-cheat-bypass`|
+|6|[new VGK update has locked DMA firmware that uses SATA/NVME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753122-vgk-update-locked-dma-firmware-sata-nvme.html)|`2026-05-22 18:50:46`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YuiTools — External CS2 Multi&#45;Hack &#40;ESP / Aimbot / Triggerbot / World Helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750126-yuitools-external-cs2-multi-hack-esp-aimbot-triggerbot-world-helpers.html)|`2026-05-22 18:42:00`|`Counter-Strike 2 Releases`|
+|[Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/746209-project-zomboid-cheat-ethermenu-lite-powered-java-b42.html)|`2026-05-22 18:40:00`|`Other MMORPG and Strategy`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-05-22 18:38:00`|`Phasmophobia`|
 |[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-05-22 15:55:00`|`Other MMORPG and Strategy`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-05-22 15:30:00`|`Phasmophobia`|
 |[Why is helzky banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/753780-helzky-banned.html)|`2026-05-22 15:26:00`|`Off Topic`|
