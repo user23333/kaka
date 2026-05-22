@@ -17,6 +17,7 @@
 |15|[theory for amazing UM steath idea &#40;only smart people discuss&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753283-theory-amazing-um-steath-idea-smart-people-discuss.html)|`2026-05-22 15:59:40`|`anti-cheat-bypass`|
 |6|[new VGK update has locked DMA firmware that uses SATA/NVME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753122-vgk-update-locked-dma-firmware-sata-nvme.html)|`2026-05-22 18:50:46`|`anti-cheat-bypass`|
 |11|[VGC processed dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753119-vgc-processed-dump.html)|`2026-05-22 21:16:08`|`valorant`|
+|11|[SteelSeries Sonar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753248-steelseries-sonar.html)|`2026-05-22 23:57:02`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,15 @@
 |0|[Heroes&#95;MM&#95;OE Dump Patch 7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54989)|`2026-05-22 12:36:34`|
 |0|[5&#46;5&#46;4&#45;251154&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;3&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55000)|`2026-05-22 15:59:40`|
 |3|[S&Box Interfaces](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54974)|`2026-05-22 21:16:08`|
+|1|[ENSD&#95;LynxHighliner&#95;4&#46;3&#46;3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54959)|`2026-05-22 23:57:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[debugcamera fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753906-debugcamera-fix.html)|`2026-05-22 23:51:00`|`Rust`|
+|[Farever Trainer v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752571-farever-trainer-v1-0-a.html)|`2026-05-22 23:42:00`|`Other MMORPG and Strategy`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-05-22 23:30:00`|`Elite: Dangerous`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-05-22 23:27:00`|`Grand Theft Auto V`|
+|[fake KLDR&#95;DATA&#95;TABLE&#95;ENTRY in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753901-fake-kldr_data_table_entry-kernel-memory.html)|`2026-05-22 23:26:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-22 21:14:00`|`Overwatch`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-05-22 21:14:00`|`Rainbow Six Siege`|
 |[VALORANT Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751450-valorant-skin-changer.html)|`2026-05-22 21:13:00`|`Valorant`|
