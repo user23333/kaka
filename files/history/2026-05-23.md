@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Lua Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752724-r6-lua-recoil-script.html)|`2026-05-23 04:44:00`|`Rainbow Six Siege`|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-05-23 04:41:00`|`Counter-Strike 2 Releases`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-05-23 04:39:00`|`Other Games`|
+|[Pokemon Infinite Fusion &#91;FusionCore Trainer&#93; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753931-pokemon-infinite-fusion-fusioncore-trainer-pc.html)|`2026-05-23 04:38:00`|`Other Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-23 04:38:00`|`Rust`|
+|[movement fix &#43; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753644-movement-fix-sv_quantize_movement_input.html)|`2026-05-23 04:37:00`|`Counter-Strike 2`|
+|[i want driver for ow &#43; how to make it if](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/753159-driver-ow.html)|`2026-05-23 04:36:00`|`Overwatch`|
+|[some utils](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753740-utils.html)|`2026-05-23 04:36:00`|`Anti-Cheat Bypass`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-23 04:29:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-23 03:12:00`|`Overwatch`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-23 03:11:00`|`Other FPS Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-05-23 03:06:00`|`Other FPS Games`|
