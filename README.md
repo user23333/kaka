@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-05-23 17:11:00`|`Other FPS Games`|
+|[You cannot emulate vanguard&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/750989-emulate-vanguard.html)|`2026-05-23 17:10:00`|`Valorant`|
+|[Is it difficult to find the V4NGU4RD Session API? What do you think?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/751931-difficult-v4ngu4rd-session-api.html)|`2026-05-23 17:08:00`|`Valorant`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-05-23 17:07:00`|`Grand Theft Auto V`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-05-23 17:06:00`|`Grand Theft Auto V`|
+|[AUTH&#95;REQUEST always 400 from vanguard&#45;ms&#45;gateway — building vgc emulator, what token](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753610-auth_request-400-vanguard-ms-gateway-building-vgc-emulator-token.html)|`2026-05-23 17:06:00`|`Valorant`|
+|[Overlay Chams?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753787-overlay-chams.html)|`2026-05-23 17:06:00`|`Counter-Strike 2`|
+|[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-05-23 17:03:00`|`Other FPS Games`|
+|[Pokemon MMO 3D BOT/HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753023-pokemon-mmo-3d-bot-hack.html)|`2026-05-23 17:02:00`|`Other MMORPG and Strategy`|
 |[fake KLDR&#95;DATA&#95;TABLE&#95;ENTRY in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753901-fake-kldr_data_table_entry-kernel-memory.html)|`2026-05-23 15:17:00`|`Anti-Cheat Bypass`|
 |[Barx &#124; Offsets & Netvars Dumper &#40;Source Included&#41; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/753426-barx-offsets-netvars-dumper-source-included-x64.html)|`2026-05-23 15:10:00`|`Garry's Mod`|
 |[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-05-23 14:50:00`|`Grand Theft Auto V`|
