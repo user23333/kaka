@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Triggerbot With Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751859-apex-triggerbot-glow-esp.html)|`2026-05-23 20:28:00`|`Apex Legends`|
+|[Question about silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/750352-question-silent-aim.html)|`2026-05-23 20:11:00`|`Deadlock`|
+|[new VGK update has locked DMA firmware that uses SATA/NVME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753122-vgk-update-locked-dma-firmware-sata-nvme.html)|`2026-05-23 20:09:00`|`Anti-Cheat Bypass`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-05-23 20:04:00`|`Rainbow Six Siege`|
+|[Hero ID Mappings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/753878-hero-id-mappings.html)|`2026-05-23 19:56:00`|`Deadlock`|
+|[Looking for Forza Horizon 6 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754014-looking-forza-horizon-6-cheat.html)|`2026-05-23 19:53:00`|`Other Games`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-05-23 19:27:00`|`Counter-Strike 2`|
 |[Learning C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/752910-learning.html)|`2026-05-23 19:24:00`|`Off Topic`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-23 19:24:00`|`Other MMORPG and Strategy`|
