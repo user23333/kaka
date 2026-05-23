@@ -11,6 +11,7 @@
 |15|[theory for amazing UM steath idea &#40;only smart people discuss&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753283-theory-amazing-um-steath-idea-smart-people-discuss.html)|`2026-05-23 01:46:10`|`anti-cheat-bypass`|
 |12|[VGC processed dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753119-vgc-processed-dump.html)|`2026-05-23 01:46:10`|`valorant`|
 |11|[SteelSeries Sonar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753248-steelseries-sonar.html)|`2026-05-23 01:46:10`|`anti-cheat-bypass`|
+|8|[Mahito as pheonix & Leon as Pheonix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753399-mahito-pheonix-leon-pheonix.html)|`2026-05-23 09:26:47`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,17 @@
 |4|[5&#46;4&#46;4&#45;0&#43;UE5&#45;ProjectMW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54964)|`2026-05-23 01:46:10`|
 |193|[Subnautica 2 internal v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54962)|`2026-05-23 01:46:10`|
 |49|[Valorant Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54960)|`2026-05-23 01:46:10`|
+|3|[2605&#46;1&#46;1&#46;97 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55013)|`2026-05-23 09:26:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-05-23 09:25:00`|`Alternative Online Mods`|
+|[nerv SkinChanger &#40;no Inv management atm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/750955-nerv-skinchanger-inv-management-atm.html)|`2026-05-23 09:23:00`|`Counter-Strike 2 Releases`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-05-23 09:19:00`|`Counter-Strike 2 Releases`|
+|[runtime&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753212-runtime-dumper.html)|`2026-05-23 09:18:00`|`Rust`|
+|[Retrieve current FiveM Build &#40;via static offset&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751563-retrieve-current-fivem-build-via-static-offset.html)|`2026-05-23 09:18:00`|`Alternative Online Mods`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-05-23 09:14:00`|`League of Legends`|
+|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-23 09:07:00`|`Other Games`|
 |[Star Citizen Exploits/Duping Methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751738-star-citizen-exploits-duping-methods.html)|`2026-05-23 07:43:00`|`Other FPS Games`|
 |[DMA Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753898-dma-questions.html)|`2026-05-23 07:42:00`|`Rainbow Six Siege`|
 |[The Seven Deadly Sins External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753146-seven-deadly-sins-external-cheat.html)|`2026-05-23 07:33:00`|`Other MMORPG and Strategy`|
