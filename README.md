@@ -27,9 +27,20 @@
 |193|[Subnautica 2 internal v4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54962)|`2026-05-23 01:46:10`|
 |49|[Valorant Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=54960)|`2026-05-23 01:46:10`|
 |3|[2605&#46;1&#46;1&#46;97 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55013)|`2026-05-23 09:26:47`|
+|4|[whopperhack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55024)|`2026-05-23 22:13:44`|
+|1|[whopperhack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55019)|`2026-05-23 22:13:44`|
+|1|[Schedule dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55017)|`2026-05-23 22:13:44`|
+|2|[Subnautica 2 internal ESP v4&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55016)|`2026-05-23 22:13:44`|
+|1|[GZWMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55014)|`2026-05-23 22:13:44`|
+|5|[black ops mp ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55007)|`2026-05-23 22:13:44`|
+|1|[Primordial remake](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55005)|`2026-05-23 22:13:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help on reversing vgk&#46;sys for cr3decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754035-help-reversing-vgk-sys-cr3decryption.html)|`2026-05-23 22:12:00`|`Valorant`|
+|[CS 2 Primordial Remake &#40; Missing hella features, this is just first release &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753839-cs-2-primordial-remake-missing-hella-features-release.html)|`2026-05-23 22:09:00`|`Counter-Strike 2`|
+|[Call of Duty black ops 1 CE Table multiplayer off host &#40;redbox/Chrome Player&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/753910-call-duty-black-ops-1-ce-table-multiplayer-host-redbox-chrome-player.html)|`2026-05-23 22:03:00`|`Call of Duty: Black Ops`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-23 21:59:00`|`Deadlock`|
 |[Apex Triggerbot With Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/751859-apex-triggerbot-glow-esp.html)|`2026-05-23 20:28:00`|`Apex Legends`|
 |[Question about silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/750352-question-silent-aim.html)|`2026-05-23 20:11:00`|`Deadlock`|
 |[new VGK update has locked DMA firmware that uses SATA/NVME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753122-vgk-update-locked-dma-firmware-sata-nvme.html)|`2026-05-23 20:09:00`|`Anti-Cheat Bypass`|
