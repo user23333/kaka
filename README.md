@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay Chams?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753787-overlay-chams.html)|`2026-05-24 02:08:00`|`Counter-Strike 2`|
+|[Page walk with HVCI/VBS/Secure Boot ON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/753077-page-walk-hvci-vbs-secure-boot.html)|`2026-05-24 02:07:00`|`General Programming and Reversing`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-24 02:06:00`|`Other FPS Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-24 02:04:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-24 02:03:00`|`Counter-Strike 2`|
+|[How to have glow ESP in a cs2 internal cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751610-glow-esp-cs2-internal-cheat.html)|`2026-05-24 02:02:00`|`Counter-Strike 2`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-24 02:02:00`|`Counter-Strike 2`|
+|[Need help on reversing vanguard vgk&#46;sys for cr3decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754036-help-reversing-vanguard-vgk-sys-cr3decryption.html)|`2026-05-24 02:00:00`|`Anti-Cheat Bypass`|
+|[CS2 External Skin Changer &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/738534-cs2-external-skin-changer-source.html)|`2026-05-24 01:54:00`|`Counter-Strike 2 Releases`|
 |[Spoofing fTPM ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754055-spoofing-ftpm-ban.html)|`2026-05-24 01:17:00`|`Valorant`|
 |[Need help on reversing vgk&#46;sys for cr3decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754035-help-reversing-vgk-sys-cr3decryption.html)|`2026-05-24 01:14:00`|`Valorant`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-05-24 01:14:00`|`Counter-Strike 2 Releases`|
