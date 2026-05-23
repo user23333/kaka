@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing fTPM ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754055-spoofing-ftpm-ban.html)|`2026-05-24 01:17:00`|`Valorant`|
+|[Need help on reversing vgk&#46;sys for cr3decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754035-help-reversing-vgk-sys-cr3decryption.html)|`2026-05-24 01:14:00`|`Valorant`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-05-24 01:14:00`|`Counter-Strike 2 Releases`|
+|[movement fix &#43; sv&#95;quantize&#95;movement&#95;input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753644-movement-fix-sv_quantize_movement_input.html)|`2026-05-24 01:12:00`|`Counter-Strike 2`|
+|[Valorant's new Vanguard update seems to be bricking cheaters' PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753918-valorants-vanguard-update-bricking-cheaters-pcs.html)|`2026-05-24 01:07:00`|`Valorant`|
+|[Schedule I dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753975-schedule-dll.html)|`2026-05-24 01:06:00`|`Other Games`|
+|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-24 01:05:00`|`Other Games`|
+|[Is jitter aim macro now blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731240-jitter-aim-macro-blocked.html)|`2026-05-24 01:05:00`|`Apex Legends`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-05-24 01:05:00`|`Rainbow Six Siege`|
 |[brawlhalla dodgebot &#40;source &#43; explanation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753103-brawlhalla-dodgebot-source-explanation.html)|`2026-05-24 00:12:00`|`Other Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-05-24 00:11:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-24 00:07:00`|`Rust`|
