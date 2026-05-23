@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fake KLDR&#95;DATA&#95;TABLE&#95;ENTRY in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753901-fake-kldr_data_table_entry-kernel-memory.html)|`2026-05-23 15:17:00`|`Anti-Cheat Bypass`|
+|[Barx &#124; Offsets & Netvars Dumper &#40;Source Included&#41; &#40;x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/753426-barx-offsets-netvars-dumper-source-included-x64.html)|`2026-05-23 15:10:00`|`Garry's Mod`|
+|[vehicle license plates created automatically](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742124-vehicle-license-plates-created-automatically.html)|`2026-05-23 14:50:00`|`Grand Theft Auto V`|
+|[inject success but&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/752823-inject-success.html)|`2026-05-23 14:49:00`|`Overwatch`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-23 14:38:00`|`ARC Raiders`|
+|[Quasar DMA Rust &#40;Compiled&#41; Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753050-quasar-dma-rust-compiled-patch.html)|`2026-05-23 14:29:00`|`Rust`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-23 12:34:00`|`Counter-Strike 2`|
 |[Ragemp executer,sailent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753986-ragemp-executer-sailent-aimbot.html)|`2026-05-23 12:17:00`|`Alternative Online Mods`|
 |[need help with c&#43;&#43; / jni / jvm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/748669-help-jni-jvm.html)|`2026-05-23 12:15:00`|`Minecraft`|
