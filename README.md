@@ -25,9 +25,15 @@
 |142|[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55027)|`2026-05-25 00:35:49`|
 |48|[whopperhack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55024)|`2026-05-25 00:35:49`|
 |3|[whopperhack&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55019)|`2026-05-25 00:35:49`|
+|0|[pcdsrvc&#95;x64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55050)|`2026-05-25 07:35:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-05-25 07:31:00`|`Escape from Tarkov`|
+|[prefabid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753749-prefabid.html)|`2026-05-25 07:30:00`|`Rust`|
+|[Discord Overlay Screenshot proof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752186-discord-overlay-screenshot-proof.html)|`2026-05-25 07:10:00`|`Anti-Cheat Bypass`|
+|[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754059-farever-cheat-engine-menu-ui.html)|`2026-05-25 07:10:00`|`Other MMORPG and Strategy`|
+|[How to have glow ESP in a cs2 internal cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751610-glow-esp-cs2-internal-cheat.html)|`2026-05-25 07:06:00`|`Counter-Strike 2`|
 |[Ragemp executer,sailent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753986-ragemp-executer-sailent-aimbot.html)|`2026-05-25 06:32:00`|`Alternative Online Mods`|
 |[Apex Legends client ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/754258-apex-legends-client-ban.html)|`2026-05-25 06:29:00`|`Apex Legends`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-25 06:26:00`|`Rust`|
