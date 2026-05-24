@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch sdk / offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/752419-overwatch-sdk-offsets-dumper.html)|`2026-05-25 05:33:00`|`Overwatch`|
+|[BloodStrike Auto Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/754208-bloodstrike-auto-offset-dumper.html)|`2026-05-25 05:27:00`|`Introductions`|
+|[Subnautica 2 internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752944-subnautica-2-internal-esp.html)|`2026-05-25 05:27:00`|`Other FPS Games`|
+|[hooking generateprimitives with idx instead of sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753352-hooking-generateprimitives-idx-instead-sig.html)|`2026-05-25 05:15:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-05-25 05:13:00`|`Roblox`|
+|[WorldToScreen for Optics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/754247-worldtoscreen-optics.html)|`2026-05-25 05:11:00`|`Escape from Tarkov`|
+|[theory for amazing UM steath idea &#40;only smart people discuss&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753283-theory-amazing-um-steath-idea-smart-people-discuss.html)|`2026-05-25 05:09:00`|`Anti-Cheat Bypass`|
+|[Help&#45;How to filter sleep mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754170-help-filter-sleep-mode.html)|`2026-05-25 05:08:00`|`Valorant`|
 |[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2026-05-25 04:33:00`|`Anti-Cheat Bypass`|
 |[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-25 04:32:00`|`Other Games`|
 |[Overwatch 2 bot farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754242-overwatch-2-bot-farm.html)|`2026-05-25 04:25:00`|`Overwatch`|
