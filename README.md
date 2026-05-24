@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino Leonardo &#43; USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754173-arduino-leonardo-usb-host-shield.html)|`2026-05-24 17:04:00`|`Valorant`|
+|[Help&#45;How to filter sleep mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754170-help-filter-sleep-mode.html)|`2026-05-24 16:59:00`|`Valorant`|
+|[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-05-24 16:55:00`|`Marvel Rivals`|
+|[cs2 internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753710-cs2-internal-silent-aim.html)|`2026-05-24 16:53:00`|`Counter-Strike 2`|
+|[Ragdoll player &#40;ext&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753876-ragdoll-player-ext.html)|`2026-05-24 16:52:00`|`Alternative Online Mods`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-05-24 16:48:00`|`THE FINALS`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-05-24 16:46:00`|`Other FPS Games`|
 |[MAKCU 2PC/1PC RECOIL CONTROL SCRIPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/752352-makcu-2pc-1pc-recoil-control-script.html)|`2026-05-24 15:26:00`|`Rust`|
 |[esp flick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/740940-esp-flick.html)|`2026-05-24 15:25:00`|`Rust`|
 |[fake KLDR&#95;DATA&#95;TABLE&#95;ENTRY in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753901-fake-kldr_data_table_entry-kernel-memory.html)|`2026-05-24 14:58:00`|`Anti-Cheat Bypass`|
