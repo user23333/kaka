@@ -11,6 +11,7 @@
 |19|[Valorant's new Vanguard update seems to be bricking cheaters' PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753918-valorants-vanguard-update-bricking-cheaters-pcs.html)|`2026-05-24 00:14:25`|`valorant`|
 |11|[SteelSeries Sonar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753248-steelseries-sonar.html)|`2026-05-24 00:14:25`|`anti-cheat-bypass`|
 |8|[Mahito as pheonix & Leon as Pheonix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753399-mahito-pheonix-leon-pheonix.html)|`2026-05-24 00:14:25`|`valorant`|
+|5|[Network Spoofing &#45; Fully Detected &#40;PoC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753346-network-spoofing-detected-poc.html)|`2026-05-24 23:34:41`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,18 @@
 |1|[s1x&#43;steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55041)|`2026-05-24 22:16:43`|
 |1|[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55036)|`2026-05-24 22:16:43`|
 |1|[HD2&#45;Farming&#45;CT&#43;AutoIt&#45;Macro&#95;v2&#46;9&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55035)|`2026-05-24 22:16:43`|
+|23|[Farever &#45; Cheat Engine &#91;MENU UI&#93; V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55044)|`2026-05-24 23:34:41`|
+|5|[LearnCPP&#46;com ALL Lessons &#40;Markdown&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55038)|`2026-05-24 23:34:41`|
+|6|[EAC Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55034)|`2026-05-24 23:34:41`|
+|21|[ED Features Merge v6&#46;2&#46;4 &#45; 23&#46;05&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55032)|`2026-05-24 23:34:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-05-24 23:33:00`|`Other FPS Games`|
+|[Free Cheat External CHeat Arena Breakout Infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742719-free-cheat-external-cheat-arena-breakout-infinite.html)|`2026-05-24 23:31:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-24 23:27:00`|`Escape from Tarkov`|
+|[Soucer Cheat The SevenDeadly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754197-soucer-cheat-sevendeadly.html)|`2026-05-24 23:23:00`|`Other MMORPG and Strategy`|
+|[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-05-24 23:18:00`|`Other FPS Games`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-05-24 22:13:00`|`Payday 3`|
 |[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-05-24 22:10:00`|`Overwatch`|
 |[Call of Duty Advanced Warfare CE Table multiplayer off host &#40;redbox/Chrome Player&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-advanced-warfare/754144-call-duty-advanced-warfare-ce-table-multiplayer-host-redbox-chrome-player.html)|`2026-05-24 22:09:00`|`Call of Duty: Advanced Warfare`|
