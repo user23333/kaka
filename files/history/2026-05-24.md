@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty black ops 1 CE Table multiplayer off host &#40;redbox/Chrome Player&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/753910-call-duty-black-ops-1-ce-table-multiplayer-host-redbox-chrome-player.html)|`2026-05-24 20:40:00`|`Call of Duty: Black Ops`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-05-24 20:17:00`|`Red Dead Redemption 2`|
+|[PasteWare external &#40;luavm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/754117-pasteware-external-luavm.html)|`2026-05-24 20:07:00`|`Roblox`|
+|[Some long overdue promotions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/753801-overdue-promotions.html)|`2026-05-24 20:03:00`|`Information and Announcements`|
+|[Measured boot bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753917-measured-boot-bypass.html)|`2026-05-24 19:59:00`|`Anti-Cheat Bypass`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-05-24 19:56:00`|`Grand Theft Auto V`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-24 19:50:00`|`Other MMORPG and Strategy`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-24 19:49:00`|`Other FPS Games`|
 |[injector bypass mhypbase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/754177-injector-bypass-mhypbase.html)|`2026-05-24 19:34:00`|`Genshin Impact`|
