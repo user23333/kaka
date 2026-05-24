@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Aimbot for Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/754225-ai-aimbot-apex.html)|`2026-05-25 02:39:00`|`Apex Legends`|
+|[m&#95;iIDEntIndex offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754133-m_iidentindex-offset.html)|`2026-05-25 02:37:00`|`Counter-Strike 2`|
+|[Vuln Driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753717-vuln-driver-help.html)|`2026-05-25 02:29:00`|`Anti-Cheat Bypass`|
+|[cs2 internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753710-cs2-internal-silent-aim.html)|`2026-05-25 02:28:00`|`Counter-Strike 2`|
+|[DLL Injection crash &#40;I am newbie&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754229-dll-injection-crash-am-newbie.html)|`2026-05-25 02:28:00`|`Alternative Online Mods`|
+|[World Modulation broken?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754123-world-modulation-broken.html)|`2026-05-25 02:24:00`|`Counter-Strike 2`|
+|[An LLM that can help with coding a cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/754213-llm-help-coding-cheat.html)|`2026-05-25 02:22:00`|`General Programming and Reversing`|
 |[Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754223-autowall.html)|`2026-05-25 01:30:00`|`Counter-Strike 2`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-05-25 01:29:00`|`Farlight 84`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-25 01:26:00`|`Valorant`|
