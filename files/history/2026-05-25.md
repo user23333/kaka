@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmInfect &#45; Smm Backdoor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/664482-smminfect-smm-backdoor.html)|`2026-05-25 04:33:00`|`Anti-Cheat Bypass`|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-25 04:32:00`|`Other Games`|
+|[Overwatch 2 bot farm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754242-overwatch-2-bot-farm.html)|`2026-05-25 04:25:00`|`Overwatch`|
+|[Ubisoft API &#40;How to bypass datadome&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754241-ubisoft-api-bypass-datadome.html)|`2026-05-25 04:21:00`|`Rainbow Six Siege`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-25 04:16:00`|`Deadlock`|
+|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-05-25 04:13:00`|`Tom Clancy's The Division`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-05-25 04:12:00`|`Other MMORPG and Strategy`|
 |[horrible hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753785-horrible-hypervisor.html)|`2026-05-25 03:48:00`|`Anti-Cheat Bypass`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-05-25 03:45:00`|`Deadlock`|
 |[ProcessGetModuleBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754235-processgetmodulebase.html)|`2026-05-25 03:36:00`|`Rust`|
