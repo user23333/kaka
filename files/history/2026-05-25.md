@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[horrible hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753785-horrible-hypervisor.html)|`2026-05-25 03:48:00`|`Anti-Cheat Bypass`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-05-25 03:45:00`|`Deadlock`|
+|[ProcessGetModuleBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754235-processgetmodulebase.html)|`2026-05-25 03:36:00`|`Rust`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-25 03:33:00`|`Counter-Strike 2`|
+|[SendDamage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754233-senddamage.html)|`2026-05-25 03:31:00`|`Alternative Online Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-05-25 03:18:00`|`Other FPS Games`|
+|[R6 Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/741938-r6-recoil-script.html)|`2026-05-25 03:12:00`|`Rainbow Six Siege`|
+|[pcdsrvc&#95;x64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754232-pcdsrvc_x64-sys.html)|`2026-05-25 03:09:00`|`Anti-Cheat Bypass`|
 |[AI Aimbot for Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/754225-ai-aimbot-apex.html)|`2026-05-25 02:39:00`|`Apex Legends`|
 |[m&#95;iIDEntIndex offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754133-m_iidentindex-offset.html)|`2026-05-25 02:37:00`|`Counter-Strike 2`|
 |[Vuln Driver help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753717-vuln-driver-help.html)|`2026-05-25 02:29:00`|`Anti-Cheat Bypass`|
