@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bloodstrike internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/726814-bloodstrike-internal.html)|`2026-05-24 18:53:00`|`Other FPS Games`|
+|[Custom Mission &#40;and its terrain&#41;, and other tutorials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/753121-custom-mission-terrain-tutorials.html)|`2026-05-24 18:46:00`|`HELLDIVERS 2`|
+|[Ragemp executer,sailent aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753986-ragemp-executer-sailent-aimbot.html)|`2026-05-24 18:41:00`|`Alternative Online Mods`|
+|[7DSGC Offsets &#40;PC CLIENT&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753803-7dsgc-offsets-pc-client.html)|`2026-05-24 18:29:00`|`Other MMORPG and Strategy`|
 |[Arduino Leonardo &#43; USB Host Shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754173-arduino-leonardo-usb-host-shield.html)|`2026-05-24 17:04:00`|`Valorant`|
 |[Help&#45;How to filter sleep mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754170-help-filter-sleep-mode.html)|`2026-05-24 16:59:00`|`Valorant`|
 |[How to get unbanned from Marvel Rivals 101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/734928-unbanned-marvel-rivals-101-a.html)|`2026-05-24 16:55:00`|`Marvel Rivals`|
