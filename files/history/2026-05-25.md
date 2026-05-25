@@ -13,6 +13,8 @@
 |13|[Skeletons and some Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753628-skeletons-emulator.html)|`2026-05-25 00:35:49`|`rainbow-six-siege`|
 |24|[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754059-farever-cheat-engine-menu-ui.html)|`2026-05-25 01:33:41`|`other-mmorpg-and-strategy`|
 |11|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-05-25 09:33:30`|`other-games`|
+|14|[horrible hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753785-horrible-hypervisor.html)|`2026-05-25 21:47:23`|`anti-cheat-bypass`|
+|6|[CS 2 Primordial Remake &#40; Missing hella features, this is just first release &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753839-cs-2-primordial-remake-missing-hella-features-release.html)|`2026-05-25 21:47:23`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Kernel Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744872-marvel-rivals-kernel-blocker.html)|`2026-05-25 21:47:00`|`Marvel Rivals`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-05-25 21:46:00`|`Grand Theft Auto V`|
+|[Smite 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750521-smite-1-internal.html)|`2026-05-25 21:45:00`|`Other FPS Games`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-05-25 21:42:00`|`Marvel Rivals`|
+|[PsCreateSystemThread , Thread Hijacking , and IAT Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754187-pscreatesystemthread-thread-hijacking-iat-hook.html)|`2026-05-25 21:41:00`|`Anti-Cheat Bypass`|
+|[Smite 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/735692-smite-2-internal.html)|`2026-05-25 21:40:00`|`Other FPS Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-25 21:30:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-25 21:28:00`|`Other FPS Games`|
 |[Vanguard Bypass &#45; Source Code &#45; Lennox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/740538-vanguard-bypass-source-code-lennox.html)|`2026-05-25 18:37:00`|`Valorant`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-25 18:22:00`|`Other FPS Games`|
 |[Which injection method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754325-injection-method.html)|`2026-05-25 18:18:00`|`Alternative Online Mods`|
