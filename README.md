@@ -30,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-05-26 04:40:00`|`Other Games`|
+|[R6 ESP issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754214-r6-esp-issue.html)|`2026-05-26 04:40:00`|`Rainbow Six Siege`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-26 04:38:00`|`Rust`|
+|[Hotbar ESP works on 90% of players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754366-hotbar-esp-90-players.html)|`2026-05-26 04:33:00`|`Rust`|
+|[new VGK update has locked DMA firmware that uses SATA/NVME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753122-vgk-update-locked-dma-firmware-sata-nvme.html)|`2026-05-26 04:31:00`|`Anti-Cheat Bypass`|
+|[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-05-26 04:29:00`|`HELLDIVERS 2`|
+|[Subnautica 2 Internal &#40;SN2&#45;Internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753325-subnautica-2-internal-sn2-internal.html)|`2026-05-26 04:27:00`|`Other FPS Games`|
+|[Looking to start making cheats &#40;Need a teacher&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/751277-looking-start-cheats-teacher.html)|`2026-05-26 04:24:00`|`DayZ SA`|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-05-26 04:20:00`|`Combat Master`|
 |[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-05-26 03:05:00`|`Paladins`|
 |[Lumin &#124; Modern and Clean Imgui With Login &#43; Menu for Your Cheat DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/754305-lumin-modern-clean-imgui-login-menu-cheat-dx11.html)|`2026-05-26 03:03:00`|`C and C++`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-26 02:58:00`|`Other FPS Games`|
