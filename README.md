@@ -24,9 +24,20 @@
 |105|[HD2&#45;Farming&#45;CT&#43;AutoIt&#45;Macro&#95;v2&#46;9&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55035)|`2026-05-26 00:09:21`|
 |83|[EAC Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55034)|`2026-05-26 00:09:21`|
 |233|[ED Features Merge v6&#46;2&#46;4 &#45; 23&#46;05&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55032)|`2026-05-26 00:09:21`|
+|20|[1&#46;0&#46;5&#46;45272&#95;offets&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55069)|`2026-05-26 01:51:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-05-26 01:49:00`|`Elite: Dangerous`|
+|[Valorant's new Vanguard update seems to be bricking cheaters' PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753918-valorants-vanguard-update-bricking-cheaters-pcs.html)|`2026-05-26 01:45:00`|`Valorant`|
+|[Hypothetically cheating on main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/754227-hypothetically-cheating-main.html)|`2026-05-26 01:41:00`|`Team Fortress 2`|
+|[The "AI Slop" Accusations Are Getting Out of Hand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/753719-ai-slop-accusations-getting-hand.html)|`2026-05-26 01:39:00`|`Off Topic`|
+|[gamingchair, 0ms delay visuals, external, usermode, advanced handle hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754365-gamingchair-0ms-delay-visuals-external-usermode-advanced-handle-hijacking.html)|`2026-05-26 01:36:00`|`Counter-Strike 2`|
+|[fake KLDR&#95;DATA&#95;TABLE&#95;ENTRY in kernel memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753901-fake-kldr_data_table_entry-kernel-memory.html)|`2026-05-26 01:34:00`|`Anti-Cheat Bypass`|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-05-26 01:33:00`|`Other Single Player Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-05-26 01:33:00`|`Other FPS Games`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-05-26 01:31:00`|`Other MMORPG and Strategy`|
+|[Getting banned after 10mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754284-getting-banned-10mins.html)|`2026-05-26 01:31:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-26 00:07:00`|`Overwatch`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-26 00:02:00`|`Valorant`|
 |[PasteWare external &#40;luavm&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/754117-pasteware-external-luavm.html)|`2026-05-26 00:01:00`|`Roblox`|
