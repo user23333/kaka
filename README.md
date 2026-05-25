@@ -11,6 +11,7 @@
 |14|[horrible hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753785-horrible-hypervisor.html)|`2026-05-26 00:09:21`|`anti-cheat-bypass`|
 |11|[Skeletons and some Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753628-skeletons-emulator.html)|`2026-05-26 00:09:21`|`rainbow-six-siege`|
 |6|[CS 2 Primordial Remake &#40; Missing hella features, this is just first release &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753839-cs-2-primordial-remake-missing-hella-features-release.html)|`2026-05-26 00:09:21`|`counter-strike-2-a`|
+|8|[unity update dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753783-unity-update-dump.html)|`2026-05-26 03:08:17`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,19 @@
 |83|[EAC Cleaner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55034)|`2026-05-26 00:09:21`|
 |233|[ED Features Merge v6&#46;2&#46;4 &#45; 23&#46;05&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55032)|`2026-05-26 00:09:21`|
 |20|[1&#46;0&#46;5&#46;45272&#95;offets&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55069)|`2026-05-26 01:51:56`|
+|1|[snowbreak menu CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55073)|`2026-05-26 03:08:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-05-26 03:05:00`|`Paladins`|
+|[Lumin &#124; Modern and Clean Imgui With Login &#43; Menu for Your Cheat DX11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/754305-lumin-modern-clean-imgui-login-menu-cheat-dx11.html)|`2026-05-26 03:03:00`|`C and C++`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-26 02:58:00`|`Other FPS Games`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-26 02:55:00`|`Tom Clancy's The Division`|
+|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-26 02:53:00`|`Counter-Strike 2`|
+|[NVIDIA GPU Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754387-nvidia-gpu-bans.html)|`2026-05-26 02:49:00`|`Valorant`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-05-26 02:48:00`|`Escape from Tarkov`|
+|[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-05-26 02:48:00`|`Other MMORPG and Strategy`|
+|[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-05-26 02:41:00`|`Apex Legends`|
 |[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-05-26 01:49:00`|`Elite: Dangerous`|
 |[Valorant's new Vanguard update seems to be bricking cheaters' PCs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753918-valorants-vanguard-update-bricking-cheaters-pcs.html)|`2026-05-26 01:45:00`|`Valorant`|
 |[Hypothetically cheating on main](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/754227-hypothetically-cheating-main.html)|`2026-05-26 01:41:00`|`Team Fortress 2`|
