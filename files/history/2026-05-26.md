@@ -12,6 +12,8 @@
 |11|[Skeletons and some Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753628-skeletons-emulator.html)|`2026-05-26 00:09:21`|`rainbow-six-siege`|
 |6|[CS 2 Primordial Remake &#40; Missing hella features, this is just first release &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753839-cs-2-primordial-remake-missing-hella-features-release.html)|`2026-05-26 00:09:21`|`counter-strike-2-a`|
 |8|[unity update dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753783-unity-update-dump.html)|`2026-05-26 03:08:17`|`rust`|
+|11|[name/clantag changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753422-name-clantag-changer.html)|`2026-05-26 16:50:51`|`counter-strike-2-a`|
+|19|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-05-26 16:50:51`|`tom-clancy-s-the-division`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Some bhop and skin issues will be released on UC after the project is completed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754224-bhop-skin-issues-released-uc-project-completed.html)|`2026-05-26 16:35:00`|`Counter-Strike 2`|
+|[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-05-26 16:19:00`|`Counter-Strike 2`|
+|[my attempt at making ai aimbot using ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754469-attempt-ai-aimbot-using-ai.html)|`2026-05-26 16:08:00`|`Rainbow Six Siege`|
+|[Applying stickers and keychains on skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753000-applying-stickers-keychains-skinchanger.html)|`2026-05-26 16:06:00`|`Counter-Strike 2`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-05-26 16:06:00`|`Among Us`|
 |[Embers of the Gods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753333-embers-gods.html)|`2026-05-26 13:33:00`|`Other MMORPG and Strategy`|
 |[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-05-26 13:32:00`|`Other MMORPG and Strategy`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-05-26 13:29:00`|`Alternative Online Mods`|
