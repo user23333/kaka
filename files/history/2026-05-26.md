@@ -32,9 +32,19 @@
 |4|[Over The Top: WWI Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55071)|`2026-05-26 09:29:45`|
 |3|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55061)|`2026-05-26 09:29:45`|
 |1|[UnknownCheats&#95;Vein&#95;Internal&#95;BattleSpy&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55046)|`2026-05-26 09:29:45`|
+|17|[Farever Forever v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55080)|`2026-05-26 13:38:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Embers of the Gods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753333-embers-gods.html)|`2026-05-26 13:33:00`|`Other MMORPG and Strategy`|
+|[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-05-26 13:32:00`|`Other MMORPG and Strategy`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-05-26 13:29:00`|`Alternative Online Mods`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-05-26 13:22:00`|`Alternative Online Mods`|
+|[TPM BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754457-tpm-ban.html)|`2026-05-26 13:17:00`|`Valorant`|
+|[BloodStrike Auto Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754208-bloodstrike-auto-offset-dumper.html)|`2026-05-26 13:14:00`|`Other FPS Games`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-26 13:12:00`|`Marvel Rivals`|
+|[Help with FiveM spoofing &#40;Type 2/5&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754263-help-fivem-spoofing-type-2-5-a.html)|`2026-05-26 13:12:00`|`Alternative Online Mods`|
+|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-26 13:04:00`|`Other Games`|
 |[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2026-05-26 09:29:00`|`Other FPS Games`|
 |[cs2 internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753710-cs2-internal-silent-aim.html)|`2026-05-26 09:18:00`|`Counter-Strike 2`|
 |[PsCreateSystemThread , Thread Hijacking , and IAT Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754187-pscreatesystemthread-thread-hijacking-iat-hook.html)|`2026-05-26 09:07:00`|`Anti-Cheat Bypass`|
