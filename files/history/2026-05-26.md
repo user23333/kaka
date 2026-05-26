@@ -27,9 +27,20 @@
 |233|[ED Features Merge v6&#46;2&#46;4 &#45; 23&#46;05&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55032)|`2026-05-26 00:09:21`|
 |20|[1&#46;0&#46;5&#46;45272&#95;offets&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55069)|`2026-05-26 01:51:56`|
 |1|[snowbreak menu CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55073)|`2026-05-26 03:08:17`|
+|2|[simple&#95;plutonium&#95;injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55079)|`2026-05-26 09:29:45`|
+|0|[SastashaFied Zm&#45;Sp v1&#46;2 &#40;source code&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55078)|`2026-05-26 09:29:45`|
+|4|[Over The Top: WWI Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55071)|`2026-05-26 09:29:45`|
+|3|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55061)|`2026-05-26 09:29:45`|
+|1|[UnknownCheats&#95;Vein&#95;Internal&#95;BattleSpy&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55046)|`2026-05-26 09:29:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2026-05-26 09:29:00`|`Other FPS Games`|
+|[cs2 internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753710-cs2-internal-silent-aim.html)|`2026-05-26 09:18:00`|`Counter-Strike 2`|
+|[PsCreateSystemThread , Thread Hijacking , and IAT Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754187-pscreatesystemthread-thread-hijacking-iat-hook.html)|`2026-05-26 09:07:00`|`Anti-Cheat Bypass`|
+|[Simple DLL Injector for Plutonium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/754438-simple-dll-injector-plutonium.html)|`2026-05-26 08:58:00`|`Call of Duty: Black Ops 2`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-05-26 08:57:00`|`Other MMORPG and Strategy`|
+|[How to clean pc/get unbanned on BloodStrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753833-clean-pc-unbanned-bloodstrike.html)|`2026-05-26 08:56:00`|`Other FPS Games`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-05-26 07:30:00`|`Overwatch`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-05-26 07:27:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-26 07:27:00`|`Call of Duty: Black Ops 7`|
