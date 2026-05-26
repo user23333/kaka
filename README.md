@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-05-26 22:21:00`|`ARC Raiders`|
+|[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-05-26 22:20:00`|`Other MMORPG and Strategy`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-05-26 22:02:00`|`Other FPS Games`|
 |[Some bhop and skin issues will be released on UC after the project is completed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754224-bhop-skin-issues-released-uc-project-completed.html)|`2026-05-26 16:35:00`|`Counter-Strike 2`|
 |[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-05-26 16:19:00`|`Counter-Strike 2`|
 |[my attempt at making ai aimbot using ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754469-attempt-ai-aimbot-using-ai.html)|`2026-05-26 16:08:00`|`Rainbow Six Siege`|
