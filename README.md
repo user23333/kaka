@@ -12,6 +12,7 @@
 |11|[name/clantag changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753422-name-clantag-changer.html)|`2026-05-27 01:38:36`|`counter-strike-2-a`|
 |14|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-27 01:38:36`|`counter-strike-2-a`|
 |11|[cs2 internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753710-cs2-internal-silent-aim.html)|`2026-05-27 03:36:04`|`counter-strike-2-a`|
+|8|[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-05-27 05:13:44`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,18 @@
 |11|[snowbreak menu CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55073)|`2026-05-27 01:38:36`|
 |18|[Over The Top: WWI Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55071)|`2026-05-27 01:38:36`|
 |68|[1&#46;0&#46;5&#46;45272&#95;offets&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55069)|`2026-05-27 01:38:36`|
+|1|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55099)|`2026-05-27 05:13:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754532-smm-mapper.html)|`2026-05-27 05:11:00`|`Anti-Cheat Bypass`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-27 05:09:00`|`Apex Legends`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-27 05:09:00`|`Rust`|
+|[my attempt at making ai aimbot using ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754469-attempt-ai-aimbot-using-ai.html)|`2026-05-27 05:08:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-27 05:00:00`|`Counter-Strike 2`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-05-27 04:58:00`|`Other MMORPG and Strategy`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-05-27 04:56:00`|`Counter-Strike 2`|
+|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-05-27 04:55:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-05-27 03:34:00`|`Overwatch`|
 |[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-27 03:31:00`|`Counter-Strike 2 Releases`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-05-27 03:31:00`|`Other FPS Games`|
