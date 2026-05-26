@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to unban fiveguad?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749145-unban-fiveguad.html)|`2026-05-27 07:34:00`|`Alternative Online Mods`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-27 07:30:00`|`Other FPS Games`|
+|[Which injection method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754325-injection-method.html)|`2026-05-27 07:28:00`|`Alternative Online Mods`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-05-27 07:26:00`|`Grand Theft Auto V`|
 |[NEW VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754557-van-restriction.html)|`2026-05-27 06:38:00`|`Valorant`|
 |[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754059-farever-cheat-engine-menu-ui.html)|`2026-05-27 06:29:00`|`Other MMORPG and Strategy`|
 |[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-27 06:28:00`|`Other Games`|
