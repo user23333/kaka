@@ -28,9 +28,19 @@
 |68|[1&#46;0&#46;5&#46;45272&#95;offets&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55069)|`2026-05-27 01:38:36`|
 |1|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55099)|`2026-05-27 05:13:44`|
 |1|[NTESDK&#45;1&#46;0&#46;22](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55100)|`2026-05-27 06:38:43`|
+|5|[R6 YoloWGC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55107)|`2026-05-27 14:02:58`|
+|2|[abi sdk 26&#46;05&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55105)|`2026-05-27 14:02:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What is FNV1A::Hash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754298-fnv1a-hash.html)|`2026-05-27 13:59:00`|`Counter-Strike 2`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-05-27 13:59:00`|`Apex Legends`|
+|[infinite accounts using Microsoft store to buy arc raiders?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/746180-infinite-accounts-using-microsoft-store-buy-arc-raiders.html)|`2026-05-27 13:55:00`|`ARC Raiders`|
+|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-27 13:54:00`|`Counter-Strike 2`|
+|[skybox question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754591-skybox-question.html)|`2026-05-27 13:41:00`|`Counter-Strike 2`|
+|[fully decrypted overwatch2 dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754466-decrypted-overwatch2-dump.html)|`2026-05-27 13:39:00`|`Overwatch`|
+|[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-05-27 13:35:00`|`Other MMORPG and Strategy`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-05-27 13:34:00`|`Grand Theft Auto V`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-27 09:47:00`|`Other FPS Games`|
 |[Who better ? vibecoder cheats or pasteur cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/754533-vibecoder-cheats-pasteur-cheats.html)|`2026-05-27 09:36:00`|`Forum General`|
 |[No spoofer works 10&#43; tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752062-spoofer-10-tested.html)|`2026-05-27 09:19:00`|`Anti-Cheat Bypass`|
