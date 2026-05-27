@@ -31,6 +31,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-27 09:47:00`|`Other FPS Games`|
+|[Who better ? vibecoder cheats or pasteur cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/754533-vibecoder-cheats-pasteur-cheats.html)|`2026-05-27 09:36:00`|`Forum General`|
+|[No spoofer works 10&#43; tested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752062-spoofer-10-tested.html)|`2026-05-27 09:19:00`|`Anti-Cheat Bypass`|
+|[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-05-27 09:18:00`|`Counter-Strike 2`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-05-27 09:17:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-05-27 09:16:00`|`Valorant`|
+|[TPM BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754457-tpm-ban.html)|`2026-05-27 09:04:00`|`Valorant`|
+|[Winds of valen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750993-winds-valen.html)|`2026-05-27 09:03:00`|`Other MMORPG and Strategy`|
+|[The Other Side &#124; internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754409-internal-hack.html)|`2026-05-27 09:02:00`|`Other Games`|
 |[how to unban fiveguad?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/749145-unban-fiveguad.html)|`2026-05-27 07:34:00`|`Alternative Online Mods`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-27 07:30:00`|`Other FPS Games`|
 |[Which injection method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754325-injection-method.html)|`2026-05-27 07:28:00`|`Alternative Online Mods`|
