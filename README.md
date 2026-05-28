@@ -29,9 +29,17 @@
 |2|[VALORANT&#45;Win64&#45;Shipping 12&#46;10 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55114)|`2026-05-28 06:47:04`|
 |6|[Sleepy's Internal &#45; 2&#46;22&#46;1&#46;1&#46;149872 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55112)|`2026-05-28 07:48:18`|
 |1|[SOT SDK &#40;3&#46;7&#46;2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55123)|`2026-05-28 13:40:17`|
+|12|[&#43;&#43;Fortnite&#43;Release&#45;40&#46;41&#45;CL&#45;54326946](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55127)|`2026-05-28 20:32:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-05-28 20:28:00`|`League of Legends`|
+|[injector bypass mhypbase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/754177-injector-bypass-mhypbase.html)|`2026-05-28 20:26:00`|`Genshin Impact`|
+|[Chams render distance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752977-chams-render-distance.html)|`2026-05-28 20:22:00`|`Counter-Strike 2`|
+|[The Division 2 Cheat menu By Umf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/754728-division-2-cheat-menu-umf.html)|`2026-05-28 20:20:00`|`Tom Clancy's The Division`|
+|[Is jitter aim macro now blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/731240-jitter-aim-macro-blocked.html)|`2026-05-28 20:18:00`|`Apex Legends`|
+|[Game can now detect the Steam startup entry&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/754765-game-detect-steam-startup-entry.html)|`2026-05-28 20:14:00`|`Marvel Rivals`|
+|[perf jumpbug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752704-perf-jumpbug.html)|`2026-05-28 20:13:00`|`Counter-Strike 2`|
 |[Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750895-apex-dumper-driver-included.html)|`2026-05-28 16:59:00`|`Apex Legends`|
 |[My Universal Recoil App &#45; Recoiless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/753963-universal-recoil-app-recoiless.html)|`2026-05-28 16:57:00`|`Forum General`|
 |[How to publish your own private menu? I will ban you for doing so&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754750-publish-own-private-menu-ban-doing.html)|`2026-05-28 16:51:00`|`HELLDIVERS 2`|
