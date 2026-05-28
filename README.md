@@ -11,6 +11,8 @@
 |24|[Raidriar Internal CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754301-raidriar-internal-cs2-internal.html)|`2026-05-29 00:38:19`|`counter-strike-2-a`|
 |6|[CS 2 Primordial Remake &#40; Missing hella features, this is just first release &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753839-cs-2-primordial-remake-missing-hella-features-release.html)|`2026-05-29 00:38:19`|`counter-strike-2-a`|
 |8|[unity update dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753783-unity-update-dump.html)|`2026-05-29 00:38:19`|`rust`|
+|12|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754532-smm-mapper.html)|`2026-05-29 07:54:33`|`anti-cheat-bypass`|
+|1|[Looking for Forza Horizon 6 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754014-looking-forza-horizon-6-cheat.html)|`2026-05-29 07:54:33`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +29,17 @@
 |3|[OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55132)|`2026-05-29 03:14:52`|
 |8|[WinFlash64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55136)|`2026-05-29 05:19:14`|
 |0|[pe&#45;packer 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55137)|`2026-05-29 06:46:35`|
+|9|[FiveGuard DLL Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55139)|`2026-05-29 07:54:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-29 07:52:00`|`Counter-Strike 2`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-05-29 07:48:00`|`Escape from Tarkov`|
+|[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-29 07:44:00`|`Counter-Strike 2`|
+|[runtime&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753212-runtime-dumper.html)|`2026-05-29 07:40:00`|`Rust`|
+|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-05-29 07:40:00`|`Other Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-05-29 07:34:00`|`League of Legends`|
+|[antiaim internal cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739851-antiaim-internal-cs2.html)|`2026-05-29 07:26:00`|`Counter-Strike 2`|
 |[Farever &#45; Cheat Engine &#91;MENU UI&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754059-farever-cheat-engine-menu-ui.html)|`2026-05-29 06:46:00`|`Other MMORPG and Strategy`|
 |[Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750895-apex-dumper-driver-included.html)|`2026-05-29 06:45:00`|`Apex Legends`|
 |[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2026-05-29 06:43:00`|`Anti-Cheat Bypass`|
