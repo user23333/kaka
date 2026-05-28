@@ -28,9 +28,17 @@
 |8|[12&#46;10&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55117)|`2026-05-28 06:47:04`|
 |2|[VALORANT&#45;Win64&#45;Shipping 12&#46;10 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55114)|`2026-05-28 06:47:04`|
 |6|[Sleepy's Internal &#45; 2&#46;22&#46;1&#46;1&#46;149872 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55112)|`2026-05-28 07:48:18`|
+|1|[SOT SDK &#40;3&#46;7&#46;2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55123)|`2026-05-28 13:40:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike External ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754462-bloodstrike-external-esp-aimbot.html)|`2026-05-28 13:37:00`|`Other FPS Games`|
+|[Getting banned after 10mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754284-getting-banned-10mins.html)|`2026-05-28 13:36:00`|`Rust`|
+|[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-05-28 13:30:00`|`Other Games`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-28 13:28:00`|`Tom Clancy's The Division`|
+|[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-05-28 13:25:00`|`Minecraft`|
+|[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-05-28 13:23:00`|`Other Games`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-28 13:18:00`|`Other Games`|
 |[New File Analyzers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/754663-file-analyzers.html)|`2026-05-28 09:18:00`|`Information and Announcements`|
 |[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-28 09:08:00`|`Counter-Strike 2`|
 |[Rzr's Apocalypse Mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743404-rzrs-apocalypse-mode.html)|`2026-05-28 09:07:00`|`Valorant`|
