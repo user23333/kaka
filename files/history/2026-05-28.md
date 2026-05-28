@@ -32,6 +32,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/750895-apex-dumper-driver-included.html)|`2026-05-28 16:59:00`|`Apex Legends`|
+|[My Universal Recoil App &#45; Recoiless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/753963-universal-recoil-app-recoiless.html)|`2026-05-28 16:57:00`|`Forum General`|
+|[How to publish your own private menu? I will ban you for doing so&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754750-publish-own-private-menu-ban-doing.html)|`2026-05-28 16:51:00`|`HELLDIVERS 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-05-28 16:50:00`|`Apex Legends`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-28 16:41:00`|`Counter-Strike 2`|
+|[about van restriction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754615-van-restriction.html)|`2026-05-28 16:40:00`|`Valorant`|
+|[paging project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753980-paging-project.html)|`2026-05-28 16:37:00`|`Anti-Cheat Bypass`|
+|[custom paintkit colors for gloves?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754471-custom-paintkit-colors-gloves.html)|`2026-05-28 16:34:00`|`Counter-Strike 2`|
+|[how to remove hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752634-remove-hwid-ban.html)|`2026-05-28 16:33:00`|`Valorant`|
 |[BloodStrike External ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754462-bloodstrike-external-esp-aimbot.html)|`2026-05-28 13:37:00`|`Other FPS Games`|
 |[Getting banned after 10mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754284-getting-banned-10mins.html)|`2026-05-28 13:36:00`|`Rust`|
 |[Chivalry 2 Offsets Strucs Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743038-chivalry-2-offsets-strucs-sdk.html)|`2026-05-28 13:30:00`|`Other Games`|
