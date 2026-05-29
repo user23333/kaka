@@ -13,6 +13,7 @@
 |8|[unity update dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753783-unity-update-dump.html)|`2026-05-29 00:38:19`|`rust`|
 |12|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754532-smm-mapper.html)|`2026-05-29 07:54:33`|`anti-cheat-bypass`|
 |1|[Looking for Forza Horizon 6 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754014-looking-forza-horizon-6-cheat.html)|`2026-05-29 07:54:33`|`other-games`|
+|13|[Dinglechanger &#124; Inventory Changer &#40;Knives, Gloves, Agents, Stickers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754161-dinglechanger-inventory-changer-knives-gloves-agents-stickers.html)|`2026-05-29 20:35:17`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,9 +34,17 @@
 |2|[ShittyExternalSot&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55135)|`2026-05-29 09:49:39`|
 |14|[Andromeda&#45;CS2&#45;Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55131)|`2026-05-29 09:49:39`|
 |1|[BloodDie V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55140)|`2026-05-29 17:45:39`|
+|41|[Tarkov addons updated with loot esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55143)|`2026-05-29 20:35:17`|
+|25|[mhur&#95;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55142)|`2026-05-29 20:35:17`|
+|2|[ARC Raiders Launcher Toggle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55141)|`2026-05-29 20:35:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overwatch 2 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754911-overwatch-2-offsets.html)|`2026-05-29 20:30:00`|`Overwatch`|
+|[Arena Breakout &#45; SDK Reference](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746894-arena-breakout-sdk-reference.html)|`2026-05-29 20:30:00`|`Other FPS Games`|
+|[any working source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754930-source.html)|`2026-05-29 20:26:00`|`Counter-Strike 2`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-05-29 20:25:00`|`Marvel Rivals`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-05-29 20:21:00`|`Other FPS Games`|
 |[shadowhook &#45; usermode hooking lib for x86/64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/754775-shadowhook-usermode-hooking-lib-x86-64-a.html)|`2026-05-29 17:43:00`|`General Programming and Reversing`|
 |[BloodStrike External ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754462-bloodstrike-external-esp-aimbot.html)|`2026-05-29 17:41:00`|`Other FPS Games`|
 |[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-29 17:33:00`|`Counter-Strike 2`|
