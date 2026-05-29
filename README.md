@@ -35,6 +35,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Axum &#45; External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754536-axum-external-chams.html)|`2026-05-29 13:54:00`|`Counter-Strike 2`|
+|[PsCreateSystemThread , Thread Hijacking , and IAT Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754187-pscreatesystemthread-thread-hijacking-iat-hook.html)|`2026-05-29 13:49:00`|`Anti-Cheat Bypass`|
+|[Kernel&#45;mode cheats and BYOVD &#40;plus my cheat architecture diagram&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754894-kernel-mode-cheats-byovd-plus-cheat-architecture-diagram.html)|`2026-05-29 13:47:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-29 13:46:00`|`Call of Duty: Black Ops 7`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-29 13:44:00`|`Rust`|
+|[MISERY Multi&#45;Hack Internal &#45; Item Spawner, Aimbot, ESP & Player Mods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/733772-misery-multi-hack-internal-item-spawner-aimbot-esp-player-mods.html)|`2026-05-29 13:44:00`|`Other Single Player Games`|
+|[OsuPlayback &#45; A janky &#40;but working&#41; osu&#33; Recorder for Stable & Lazer I made with AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746035-osuplayback-janky-osu-recorder-stable-lazer-ai.html)|`2026-05-29 13:41:00`|`Other Games`|
+|[Albion Pathfind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743846-albion-pathfind.html)|`2026-05-29 13:35:00`|`Other MMORPG and Strategy`|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2026-05-29 13:31:00`|`Among Us`|
+|[Battlefield 2, looking for help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/754891-battlefield-2-looking-help.html)|`2026-05-29 13:30:00`|`Battlefield 2`|
 |[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-05-29 09:49:00`|`Deadlock`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-29 09:43:00`|`Phasmophobia`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-29 09:42:00`|`Escape from Tarkov`|
