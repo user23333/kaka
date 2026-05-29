@@ -32,9 +32,17 @@
 |9|[FiveGuard DLL Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55139)|`2026-05-29 07:54:33`|
 |2|[ShittyExternalSot&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55135)|`2026-05-29 09:49:39`|
 |14|[Andromeda&#45;CS2&#45;Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55131)|`2026-05-29 09:49:39`|
+|1|[BloodDie V3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55140)|`2026-05-29 17:45:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[shadowhook &#45; usermode hooking lib for x86/64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/754775-shadowhook-usermode-hooking-lib-x86-64-a.html)|`2026-05-29 17:43:00`|`General Programming and Reversing`|
+|[BloodStrike External ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754462-bloodstrike-external-esp-aimbot.html)|`2026-05-29 17:41:00`|`Other FPS Games`|
+|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-05-29 17:33:00`|`Counter-Strike 2`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-29 17:32:00`|`Deadlock`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-05-29 17:30:00`|`Other Games`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-05-29 17:29:00`|`Garry's Mod`|
+|[Block Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754828-block-input.html)|`2026-05-29 17:19:00`|`Alternative Online Mods`|
 |[Axum &#45; External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754536-axum-external-chams.html)|`2026-05-29 13:54:00`|`Counter-Strike 2`|
 |[PsCreateSystemThread , Thread Hijacking , and IAT Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754187-pscreatesystemthread-thread-hijacking-iat-hook.html)|`2026-05-29 13:49:00`|`Anti-Cheat Bypass`|
 |[Kernel&#45;mode cheats and BYOVD &#40;plus my cheat architecture diagram&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754894-kernel-mode-cheats-byovd-plus-cheat-architecture-diagram.html)|`2026-05-29 13:47:00`|`Anti-Cheat Bypass`|
