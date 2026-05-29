@@ -30,9 +30,18 @@
 |8|[WinFlash64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55136)|`2026-05-29 05:19:14`|
 |0|[pe&#45;packer 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55137)|`2026-05-29 06:46:35`|
 |9|[FiveGuard DLL Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55139)|`2026-05-29 07:54:33`|
+|2|[ShittyExternalSot&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55135)|`2026-05-29 09:49:39`|
+|14|[Andromeda&#45;CS2&#45;Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55131)|`2026-05-29 09:49:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-05-29 09:49:00`|`Deadlock`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-05-29 09:43:00`|`Phasmophobia`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-05-29 09:42:00`|`Escape from Tarkov`|
+|[Getting banned after 10mins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754284-getting-banned-10mins.html)|`2026-05-29 09:31:00`|`Rust`|
+|[Kaizer Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/754856-kaizer-helper.html)|`2026-05-29 09:26:00`|`Marvel Rivals`|
+|[Shareable base camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/754799-shareable-base-camera.html)|`2026-05-29 09:18:00`|`Rust`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-05-29 09:17:00`|`Grand Theft Auto V`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-29 07:52:00`|`Counter-Strike 2`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-05-29 07:48:00`|`Escape from Tarkov`|
 |[Bypassing VAC and Internals &#40;why is everybody gatekeeping?&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752688-bypassing-vac-internals-gatekeeping.html)|`2026-05-29 07:44:00`|`Counter-Strike 2`|
