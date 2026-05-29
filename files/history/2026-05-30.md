@@ -32,9 +32,19 @@
 |1|[HOLE&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55152)|`2026-05-30 05:00:39`|
 |3|[FH6 AuctionSniper Bot Win x64 v0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55151)|`2026-05-30 05:00:39`|
 |1|[r6 recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55148)|`2026-05-30 05:00:39`|
+|15|[Farever &#45; Cheat Engine &#91;MENU UI&#93; V5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55156)|`2026-05-30 06:38:01`|
+|6|[8ball pool guideline &#43; compiled exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55144)|`2026-05-30 06:38:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-05-30 06:36:00`|`Other Games`|
+|[Team Fortress 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/102936-team-fortress-2-reversal-structs-offsets.html)|`2026-05-30 06:26:00`|`Team Fortress 2`|
+|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-05-30 06:24:00`|`Tom Clancy's The Division`|
+|[Ubisoft working endpoint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754290-ubisoft-endpoint.html)|`2026-05-30 06:19:00`|`Rainbow Six Siege`|
+|[Clear Weapon HUD Icon &#40;Useful for Skin Changers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754710-weapon-hud-icon-useful-skin-changers.html)|`2026-05-30 06:16:00`|`Counter-Strike 2`|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-05-30 06:15:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-30 06:13:00`|`Rust`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-05-30 06:05:00`|`Escape from Tarkov`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-05-30 05:00:00`|`Escape from Tarkov`|
 |[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-05-30 04:54:00`|`Other FPS Games`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-05-30 04:52:00`|`Tom Clancy's The Division`|
