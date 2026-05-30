@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getting around AI refusals in cs2 cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755194-getting-ai-refusals-cs2-cheats.html)|`2026-05-31 07:34:00`|`Counter-Strike 2`|
+|[Internal inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754815-internal-inventory-changer.html)|`2026-05-31 07:33:00`|`Counter-Strike 2`|
+|[Dinglechanger &#124; Inventory Changer &#40;Knives, Gloves, Agents, Stickers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754161-dinglechanger-inventory-changer-knives-gloves-agents-stickers.html)|`2026-05-31 07:19:00`|`Counter-Strike 2 Releases`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-05-31 07:13:00`|`Other Games`|
+|[NO SPREAD / PRO SPREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755043-spread-pro-spread.html)|`2026-05-31 07:11:00`|`Counter-Strike 2`|
 |[How are spawning networked entities bypassed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755170-spawning-networked-entities-bypassed.html)|`2026-05-31 06:25:00`|`Alternative Online Mods`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-05-31 06:02:00`|`Sea of Thieves`|
 |[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-05-31 06:00:00`|`Counter-Strike 2`|
