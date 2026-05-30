@@ -11,6 +11,7 @@
 |13|[Dinglechanger &#124; Inventory Changer &#40;Knives, Gloves, Agents, Stickers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754161-dinglechanger-inventory-changer-knives-gloves-agents-stickers.html)|`2026-05-31 00:37:24`|`counter-strike-2-releases`|
 |9|[Axum &#45; External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754536-axum-external-chams.html)|`2026-05-31 00:37:24`|`counter-strike-2-a`|
 |17|[Internal inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754815-internal-inventory-changer.html)|`2026-05-31 00:37:24`|`counter-strike-2-a`|
+|22|[NEW VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754557-van-restriction.html)|`2026-05-31 06:35:01`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How are spawning networked entities bypassed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755170-spawning-networked-entities-bypassed.html)|`2026-05-31 06:25:00`|`Alternative Online Mods`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-05-31 06:02:00`|`Sea of Thieves`|
+|[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-05-31 06:00:00`|`Counter-Strike 2`|
 |[in need of some sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754976-sigs.html)|`2026-05-31 05:37:00`|`Counter-Strike 2`|
 |[model changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755175-model-changer.html)|`2026-05-31 05:34:00`|`Counter-Strike 2`|
 |[Signed mouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754683-signed-mouse-driver.html)|`2026-05-31 05:32:00`|`Anti-Cheat Bypass`|
