@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-05-30 09:30:00`|`Alternative Online Mods`|
+|[is there any more players mod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/741996-players-mod.html)|`2026-05-30 09:30:00`|`Phasmophobia`|
+|[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-05-30 09:26:00`|`Other Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-05-30 09:23:00`|`Other FPS Games`|
+|[AOE4 No fow and sheep herder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/755010-aoe4-fow-sheep-herder.html)|`2026-05-30 09:15:00`|`Age of Empires`|
+|[world modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755003-world-modulation.html)|`2026-05-30 09:14:00`|`Counter-Strike 2`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-05-30 09:11:00`|`Tom Clancy's The Division`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-05-30 07:48:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-05-30 07:39:00`|`Other FPS Games`|
 |[my attempt at making ai aimbot using ai](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/754469-attempt-ai-aimbot-using-ai.html)|`2026-05-30 07:34:00`|`Rainbow Six Siege`|
