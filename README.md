@@ -48,6 +48,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[why does run&#95;sim freeze my game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755069-run_sim-freeze-game.html)|`2026-05-30 20:46:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-05-30 20:45:00`|`Other Games`|
+|[Bypass Prefetch and USN Journal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754986-bypass-prefetch-usn-journal.html)|`2026-05-30 20:43:00`|`Alternative Online Mods`|
+|[Is cheating possible in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755068-cheating-game.html)|`2026-05-30 20:42:00`|`Valorant`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-05-30 20:28:00`|`Garry's Mod`|
+|[Silent aim Vis check help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755062-silent-aim-vis-check-help.html)|`2026-05-30 20:23:00`|`Counter-Strike 2`|
 |[&#91;Internal&#93; Foenem Menu &#45; FPV Kamikaze Drone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747090-internal-foenem-menu-fpv-kamikaze-drone.html)|`2026-05-30 19:37:00`|`Other FPS Games`|
 |[Raidriar Internal CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754301-raidriar-internal-cs2-internal.html)|`2026-05-30 19:37:00`|`Counter-Strike 2`|
 |[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-05-30 19:28:00`|`Paladins`|
