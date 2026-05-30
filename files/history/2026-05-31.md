@@ -30,9 +30,16 @@
 |5|[daived kernel dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55174)|`2026-05-31 01:40:16`|
 |2|[Sand&#95;RoS&#95;Closed&#95;Playtest3 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55173)|`2026-05-31 01:40:16`|
 |7|[Cheating within CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55172)|`2026-05-31 01:40:16`|
+|1|[SmmMem DBG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55178)|`2026-05-31 02:44:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-05-31 02:39:00`|`Deadlock`|
+|[Creating a new fog entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754186-creating-fog-entity.html)|`2026-05-31 02:38:00`|`Counter-Strike 2`|
+|[Android cheating or PC cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/754464-android-cheating-pc-cheating.html)|`2026-05-31 02:38:00`|`Off Topic`|
+|[Unreal engine 4&#46;5&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/755132-unreal-engine-4-5-1-a.html)|`2026-05-31 02:37:00`|`Unreal Engine 4`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-05-31 02:37:00`|`Call of Duty: Black Ops 7`|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-05-31 02:32:00`|`Overwatch`|
 |[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-05-31 01:39:00`|`Rainbow Six Siege`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-05-31 01:35:00`|`Rust`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-05-31 01:32:00`|`Grand Theft Auto V`|
