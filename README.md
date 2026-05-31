@@ -48,6 +48,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-05-31 18:33:00`|`Other FPS Games`|
+|[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-05-31 18:30:00`|`Other Games`|
+|[FORZA HORIZON 6 AUCTION HOUSE SNIPER &#40;EXTERNAL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754956-forza-horizon-6-auction-house-sniper-external.html)|`2026-05-31 18:27:00`|`Other Games`|
+|[Bypass Silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755236-bypass-silent.html)|`2026-05-31 18:24:00`|`Alternative Online Mods`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-05-31 18:19:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-31 16:27:00`|`Apex Legends`|
 |[OTT WW1: server accepts client&#45;reported position verbatim, no movement validation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754848-ott-ww1-server-accepts-client-reported-position-verbatim-movement-validation.html)|`2026-05-31 16:25:00`|`Other FPS Games`|
 |[Making a valid session via a VDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755231-valid-session-via-vds.html)|`2026-05-31 16:22:00`|`Valorant`|
