@@ -33,9 +33,15 @@
 |1|[Free Cheat for Camp Forest Green F13](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55200)|`2026-06-01 03:54:40`|
 |1|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55204)|`2026-06-01 04:44:12`|
 |1|[v3&#46;0&#46;3&#46;55 &#43; many changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55201)|`2026-06-01 04:44:12`|
+|1|[SmmMem DBG&#95;03](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55206)|`2026-06-01 06:37:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751636-war-thunder.html)|`2026-06-01 06:35:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-01 06:29:00`|`Rust`|
+|[Dinglechanger &#124; Inventory Changer &#40;Knives, Gloves, Agents, Stickers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754161-dinglechanger-inventory-changer-knives-gloves-agents-stickers.html)|`2026-06-01 06:20:00`|`Counter-Strike 2 Releases`|
+|[War Thunder Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754524-war-thunder-offsets-dumper.html)|`2026-06-01 06:15:00`|`Other FPS Games`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-06-01 06:12:00`|`Deadlock`|
 |[NO SPREAD / PRO SPREAD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755043-spread-pro-spread.html)|`2026-06-01 05:40:00`|`Counter-Strike 2`|
 |[Kaizer Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/754856-kaizer-helper.html)|`2026-06-01 05:26:00`|`Marvel Rivals`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-06-01 05:22:00`|`Other FPS Games`|
