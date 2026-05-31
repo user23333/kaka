@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-05-31 23:02:00`|`Other FPS Games`|
+|[&#91;Source&#93; Dead By Daylight Dumper for Linux &#45; Proton &#43; Dumper&#45;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755155-source-dead-daylight-dumper-linux-proton-dumper-7-a.html)|`2026-05-31 23:00:00`|`Other FPS Games`|
 |[Cs2 speed hack &#40;hvh servers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755257-cs2-speed-hack-hvh-servers.html)|`2026-05-31 21:48:00`|`Counter-Strike 2`|
 |[War Thunder Offsets Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754524-war-thunder-offsets-dumper.html)|`2026-05-31 21:46:00`|`Other FPS Games`|
 |[tase external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755102-tase-external.html)|`2026-05-31 21:30:00`|`Alternative Online Mods`|
