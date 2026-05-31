@@ -14,6 +14,7 @@
 |22|[NEW VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754557-van-restriction.html)|`2026-05-31 06:35:01`|`valorant`|
 |12|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-05-31 09:35:25`|`anti-cheat-bypass`|
 |17|[BloodStrike External ESP &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754462-bloodstrike-external-esp-aimbot.html)|`2026-05-31 09:35:25`|`other-fps-games`|
+|13|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-05-31 16:39:55`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -47,6 +48,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-05-31 16:27:00`|`Apex Legends`|
+|[OTT WW1: server accepts client&#45;reported position verbatim, no movement validation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754848-ott-ww1-server-accepts-client-reported-position-verbatim-movement-validation.html)|`2026-05-31 16:25:00`|`Other FPS Games`|
+|[Making a valid session via a VDS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755231-valid-session-via-vds.html)|`2026-05-31 16:22:00`|`Valorant`|
+|[kernel disk serial spoof without IRP hooks &#40;storport RAM, nvme identify, registry&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755232-kernel-disk-serial-spoof-irp-hooks-storport-ram-nvme-identify-registry.html)|`2026-05-31 16:15:00`|`Anti-Cheat Bypass`|
+|[binprotect &#45; x64 pe bin2bin obfuscator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750055-binprotect-x64-pe-bin2bin-obfuscator.html)|`2026-05-31 16:10:00`|`Anti-Cheat Bypass`|
+|[Brawlhalla unlock all possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/485548-brawlhalla-unlock.html)|`2026-05-31 16:05:00`|`Other Games`|
+|[noclip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755230-noclip.html)|`2026-05-31 16:05:00`|`Alternative Online Mods`|
 |[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-05-31 13:47:00`|`Counter-Strike 2 Releases`|
 |[New Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755216-apex-dumper-driver-included.html)|`2026-05-31 13:17:00`|`Apex Legends`|
 |[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-05-31 13:00:00`|`Other Games`|
