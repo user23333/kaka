@@ -29,9 +29,15 @@
 |9|[NervFixed&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55197)|`2026-06-01 01:32:55`|
 |1|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55196)|`2026-06-01 01:32:55`|
 |5|[SmmMem DBG&#95;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55195)|`2026-06-01 01:32:55`|
+|3|[SmmMem DBG&#95;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55202)|`2026-06-01 02:46:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755245-spoofing.html)|`2026-06-01 02:42:00`|`Valorant`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-01 02:30:00`|`Other Games`|
+|[ESP Freeze for Some Players &#40;EXTERNAL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/755237-esp-freeze-players-external.html)|`2026-06-01 02:02:00`|`Garry's Mod`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-06-01 01:51:00`|`Other MMORPG and Strategy`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-06-01 01:49:00`|`Other MMORPG and Strategy`|
 |[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-06-01 01:30:00`|`Paladins`|
 |[Cs2 speed hack &#40;hvh servers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755257-cs2-speed-hack-hvh-servers.html)|`2026-06-01 01:29:00`|`Counter-Strike 2`|
 |[Custom Mission &#40;and its terrain&#41;, and other tutorials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/753121-custom-mission-terrain-tutorials.html)|`2026-06-01 01:27:00`|`HELLDIVERS 2`|
