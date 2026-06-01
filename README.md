@@ -12,6 +12,7 @@
 |14|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-01 00:20:27`|`other-games`|
 |9|[Axum &#45; External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754536-axum-external-chams.html)|`2026-06-01 00:20:27`|`counter-strike-2-a`|
 |12|[FORZA HORIZON 6 AUCTION HOUSE SNIPER &#40;EXTERNAL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754956-forza-horizon-6-auction-house-sniper-external.html)|`2026-06-01 01:32:55`|`other-games`|
+|18|[Kernel&#45;mode cheats and BYOVD &#40;plus my cheat architecture diagram&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754894-kernel-mode-cheats-byovd-plus-cheat-architecture-diagram.html)|`2026-06-01 20:24:50`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,9 +35,21 @@
 |1|[version&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55204)|`2026-06-01 04:44:12`|
 |1|[v3&#46;0&#46;3&#46;55 &#43; many changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55201)|`2026-06-01 04:44:12`|
 |1|[SmmMem DBG&#95;03](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55206)|`2026-06-01 06:37:54`|
+|26|[Nerv&#45;fix v1&#46;10&#45; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55216)|`2026-06-01 20:24:50`|
+|15|[Nerv&#45;fix v1&#46;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55215)|`2026-06-01 20:24:50`|
+|6|[AoE4 Civ Forcer &#40;AUTO&#41; &#45; force any lobby civ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55210)|`2026-06-01 20:24:50`|
+|15|[dump&#95;BEDaisy&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55209)|`2026-06-01 20:24:50`|
+|14|[PixelGunInternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55208)|`2026-06-01 20:24:50`|
+|18|[Apex Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55207)|`2026-06-01 20:24:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Heiron&#46; Free hack for DayZ, only visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/755223-heiron-free-hack-dayz-visuals.html)|`2026-06-01 20:23:00`|`DayZ SA`|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-06-01 20:19:00`|`Counter-Strike 2 Releases`|
+|[Thoughts on ID users for preventing cheating&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755354-id-users-preventing-cheating.html)|`2026-06-01 20:18:00`|`Anti-Cheat Bypass`|
+|[Duping stuff in HD2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755316-duping-stuff-hd2.html)|`2026-06-01 20:17:00`|`HELLDIVERS 2`|
+|[PZ Hack &#91;B42&#46;18&#43;&#93; and source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755204-pz-hack-b42-18-source-code.html)|`2026-06-01 20:15:00`|`Other Games`|
+|[RICOCHET blocking memory reads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/754610-ricochet-blocking-memory-reads.html)|`2026-06-01 20:07:00`|`Call of Duty: Black Ops 7`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-06-01 09:44:00`|`Other Games`|
 |[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755331-particle-modulation.html)|`2026-06-01 09:36:00`|`Counter-Strike 2`|
 |[Pixel Gun 3D internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755339-pixel-gun-3d-internal.html)|`2026-06-01 09:36:00`|`Other FPS Games`|
