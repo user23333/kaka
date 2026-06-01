@@ -30,9 +30,18 @@
 |3|[TBH DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55234)|`2026-06-02 05:43:59`|
 |40|[TBH 1&#46;00&#46;07 Game/ACTk Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55231)|`2026-06-02 05:43:59`|
 |2|[Its&#45;just&#45;usv2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55226)|`2026-06-02 05:43:59`|
+|72|[TBH 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55239)|`2026-06-02 07:15:43`|
+|9|[XC3Killer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55233)|`2026-06-02 07:15:43`|
+|4|[Dead Island 2 public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55230)|`2026-06-02 07:15:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-02 07:07:00`|`Phasmophobia`|
+|[Dead Island 2 Long Term project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755431-dead-island-2-term-project.html)|`2026-06-02 07:06:00`|`Other FPS Games`|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-06-02 07:05:00`|`Valorant`|
+|[TBH 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755469-tbh-1-0-a.html)|`2026-06-02 07:05:00`|`Other Games`|
+|[Summer Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/755481-summer-banner-contest-2026-a.html)|`2026-06-02 07:02:00`|`Information and Announcements`|
+|[how do duping tools work fundamentaly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/755477-duping-tools-fundamentaly.html)|`2026-06-02 06:47:00`|`ARC Raiders`|
 |[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-06-02 05:41:00`|`Other Games`|
 |[cool nice base with rage bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755364-cool-nice-base-rage-bot.html)|`2026-06-02 05:41:00`|`Counter-Strike 2`|
 |[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-02 05:39:00`|`Other Games`|
