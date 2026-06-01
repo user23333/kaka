@@ -37,6 +37,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-06-01 09:44:00`|`Other Games`|
+|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755331-particle-modulation.html)|`2026-06-01 09:36:00`|`Counter-Strike 2`|
+|[Pixel Gun 3D internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755339-pixel-gun-3d-internal.html)|`2026-06-01 09:36:00`|`Other FPS Games`|
+|[Tracking abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/755338-tracking-abilities.html)|`2026-06-01 09:32:00`|`Deadlock`|
+|[Auto&#45;Rename SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/687815-auto-rename-sdk.html)|`2026-06-01 09:31:00`|`C and C++`|
+|[World ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/755337-world-esp.html)|`2026-06-01 09:26:00`|`Rust`|
+|[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-06-01 09:26:00`|`Other Games`|
+|[Neverness To Everness &#45; DesirePro Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753343-neverness-everness-desirepro-internal.html)|`2026-06-01 08:57:00`|`Other MMORPG and Strategy`|
 |[How do I implement Autostrafe correctly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755328-implement-autostrafe-correctly.html)|`2026-06-01 07:37:00`|`Counter-Strike 2`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-06-01 07:34:00`|`Overwatch`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-06-01 07:31:00`|`Grand Theft Auto V`|
