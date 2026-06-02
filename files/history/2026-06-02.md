@@ -36,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Particle Modulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755331-particle-modulation.html)|`2026-06-02 09:09:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-06-02 08:58:00`|`Roblox`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-06-02 08:57:00`|`Other MMORPG and Strategy`|
+|[Perfect Pelts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/755200-perfect-pelts.html)|`2026-06-02 08:56:00`|`Red Dead Redemption 2`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-06-02 08:56:00`|`Other FPS Games`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-06-02 08:53:00`|`Overwatch`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-02 08:48:00`|`Other Games`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-02 07:07:00`|`Phasmophobia`|
 |[Dead Island 2 Long Term project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755431-dead-island-2-term-project.html)|`2026-06-02 07:06:00`|`Other FPS Games`|
 |[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-06-02 07:05:00`|`Valorant`|
