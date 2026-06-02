@@ -47,9 +47,19 @@
 |112|[TBH 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55255)|`2026-06-02 18:55:20`|
 |2|[ToF CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55254)|`2026-06-02 18:55:20`|
 |75|[The Division 2 Hack v3&#46;0&#46;4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55252)|`2026-06-02 18:55:20`|
+|6|[Il2CPP Dump EFT 1&#46;0&#46;5&#46;0&#46;45383](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55258)|`2026-06-02 22:39:23`|
+|7|[12&#46;10&#46;00&#46;4791598 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55257)|`2026-06-02 22:39:23`|
+|4|[KingMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55256)|`2026-06-02 22:39:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no recoil rust arduino&#43;usb host shield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753707-recoil-rust-arduino-usb-host-shield.html)|`2026-06-02 22:39:00`|`Rust`|
+|[Is cheating possible in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755068-cheating-game.html)|`2026-06-02 22:39:00`|`Valorant`|
+|[How to find Bullet&#95;HitDetection, WeaponClass, IsVisible in games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755082-bullet_hitdetection-weaponclass-isvisible-games.html)|`2026-06-02 22:35:00`|`General Programming and Reversing`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-02 22:31:00`|`Rust`|
+|[Camp Forest Green &#91;esp&#93; &#40; modded version of F13 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755286-camp-forest-green-esp-modded-version-f13.html)|`2026-06-02 22:27:00`|`Other FPS Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-06-02 22:15:00`|`Other FPS Games`|
+|[temp number services](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/755585-temp-services.html)|`2026-06-02 22:06:00`|`Overwatch`|
 |[TBH 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755541-tbh-1-1-a.html)|`2026-06-02 18:46:00`|`Other Games`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-06-02 18:44:00`|`Escape from Tarkov`|
 |[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-06-02 18:31:00`|`Escape from Tarkov`|
