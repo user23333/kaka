@@ -12,6 +12,7 @@
 |20|[Kernel&#45;mode cheats and BYOVD &#40;plus my cheat architecture diagram&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754894-kernel-mode-cheats-byovd-plus-cheat-architecture-diagram.html)|`2026-06-03 02:22:18`|`anti-cheat-bypass`|
 |16|[ladder fly bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754851-ladder-fly-bug.html)|`2026-06-03 02:22:18`|`counter-strike-2-a`|
 |18|[TBH: Task Bar Hero Trainer v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755521-tbh-task-bar-hero-trainer-v1-0-0-a.html)|`2026-06-03 05:25:18`|`other-games`|
+|25|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-06-03 07:11:59`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,19 @@
 |10|[SmmMem DBG&#95;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55250)|`2026-06-03 02:22:18`|
 |40|[R6 DirectML Aim Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55249)|`2026-06-03 02:22:18`|
 |42|[R6 DirectML Aim Binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55248)|`2026-06-03 02:22:18`|
+|7|[Liquid Glass made in C&#43;&#43; Dear Imgui &#124; Login &#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55263)|`2026-06-03 07:11:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-06-03 07:06:00`|`Tom Clancy's The Division`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-06-03 07:05:00`|`Overwatch`|
+|[runtime&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/753212-runtime-dumper.html)|`2026-06-03 07:04:00`|`Rust`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-03 06:59:00`|`Other Games`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-06-03 06:56:00`|`Apex Legends`|
+|[best method for hidden and visible chams &#40;external&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755590-method-hidden-visible-chams-external.html)|`2026-06-03 06:55:00`|`Counter-Strike 2`|
+|[Kernel Window Band Manipulation xxxSetWindowBand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755372-kernel-window-band-manipulation-xxxsetwindowband.html)|`2026-06-03 06:55:00`|`Anti-Cheat Bypass`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-03 06:54:00`|`Other Games`|
+|[Thoughts on ID users for preventing cheating&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755354-id-users-preventing-cheating.html)|`2026-06-03 06:54:00`|`Anti-Cheat Bypass`|
 |[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-06-03 05:23:00`|`Paladins`|
 |[TBH 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755560-tbh-1-2-a.html)|`2026-06-03 05:21:00`|`Other Games`|
 |[extended debug render functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755504-extended-debug-render-functions.html)|`2026-06-03 05:21:00`|`Counter-Strike 2`|
