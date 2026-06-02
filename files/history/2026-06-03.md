@@ -11,6 +11,7 @@
 |23|[NEW VAN: RESTRICTION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/754557-van-restriction.html)|`2026-06-03 02:22:18`|`valorant`|
 |20|[Kernel&#45;mode cheats and BYOVD &#40;plus my cheat architecture diagram&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754894-kernel-mode-cheats-byovd-plus-cheat-architecture-diagram.html)|`2026-06-03 02:22:18`|`anti-cheat-bypass`|
 |16|[ladder fly bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754851-ladder-fly-bug.html)|`2026-06-03 02:22:18`|`counter-strike-2-a`|
+|18|[TBH: Task Bar Hero Trainer v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755521-tbh-task-bar-hero-trainer-v1-0-0-a.html)|`2026-06-03 05:25:18`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-06-03 05:23:00`|`Paladins`|
+|[TBH 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755560-tbh-1-2-a.html)|`2026-06-03 05:21:00`|`Other Games`|
+|[extended debug render functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755504-extended-debug-render-functions.html)|`2026-06-03 05:21:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-06-03 05:20:00`|`Rainbow Six Siege`|
+|[Oxide Engine &#124; New Cheat Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/715554-oxide-engine-cheat-engine.html)|`2026-06-03 05:19:00`|`Anti-Cheat Bypass`|
+|[Civ changer &#45; aoe4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/755357-civ-changer-aoe4.html)|`2026-06-03 05:18:00`|`Age of Empires`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-06-03 05:18:00`|`Rainbow Six Siege`|
+|[Heiron&#46; Free hack for DayZ, only visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/755223-heiron-free-hack-dayz-visuals.html)|`2026-06-03 05:10:00`|`DayZ SA`|
+|[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-03 05:03:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-03 02:17:00`|`Overwatch`|
 |[Best way to do prediction now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755575-prediction.html)|`2026-06-03 02:17:00`|`Counter-Strike 2`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-03 02:17:00`|`Escape from Tarkov`|
