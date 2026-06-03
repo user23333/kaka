@@ -35,9 +35,20 @@
 |2|[SmmMem DBG&#95;05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55267)|`2026-06-03 09:45:03`|
 |12|[Exitec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55264)|`2026-06-03 09:45:03`|
 |61|[TBH 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55260)|`2026-06-03 09:45:03`|
+|2|[OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55288)|`2026-06-03 14:31:00`|
+|26|[Bloodstrike&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55287)|`2026-06-03 14:31:00`|
+|4|[BadInjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55276)|`2026-06-03 14:31:00`|
+|4|[battleeyent Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55275)|`2026-06-03 14:31:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-03 14:09:00`|`Other FPS Games`|
+|[Legend of YMIR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/749428-legend-ymir.html)|`2026-06-03 14:08:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-03 13:59:00`|`Other FPS Games`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-06-03 13:52:00`|`Other MMORPG and Strategy`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-03 13:39:00`|`Rainbow Six Siege`|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-06-03 13:38:00`|`Overwatch`|
+|[Apex Legend esp cheat UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755401-apex-legend-esp-cheat-ud.html)|`2026-06-03 13:30:00`|`Apex Legends`|
 |[Hooking main menu background writeup](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/755009-hooking-main-menu-background-writeup.html)|`2026-06-03 09:39:00`|`Garry's Mod`|
 |[Pixel based orbwalker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/751603-pixel-based-orbwalker.html)|`2026-06-03 09:34:00`|`League of Legends`|
 |[TBH Trainer v1&#46;3&#46;0 &#40;Final Edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755660-tbh-trainer-v1-3-0-final-edition.html)|`2026-06-03 09:34:00`|`Other Games`|
