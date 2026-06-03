@@ -24,9 +24,18 @@
 |1|[Gems&#95;OF&#95;War&#95;9&#95;2&#95;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55290)|`2026-06-04 03:42:00`|
 |16|[OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55288)|`2026-06-04 03:42:00`|
 |98|[Bloodstrike&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55287)|`2026-06-04 03:42:00`|
+|7|[bible research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55318)|`2026-06-04 06:15:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chams materials arent being created](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/755099-chams-materials-arent-created.html)|`2026-06-04 06:12:00`|`Team Fortress 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-04 06:04:00`|`Tom Clancy's The Division`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-04 05:58:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-04 05:57:00`|`Other Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-06-04 05:44:00`|`DayZ SA`|
+|[Rebuilt SceneManager&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/708015-rebuilt-scenemanager.html)|`2026-06-04 05:43:00`|`Rust`|
+|[ToF CE Table 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/755531-tof-ce-table-2026-a.html)|`2026-06-04 05:39:00`|`Tower of Fantasy`|
+|[looking for a decent kernel level HWID temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755733-looking-decent-kernel-level-hwid-temp-spoofer.html)|`2026-06-04 05:38:00`|`Anti-Cheat Bypass`|
 |[TF2  Cake](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/755727-tf2-cake.html)|`2026-06-04 03:40:00`|`Team Fortress 2`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-04 03:36:00`|`Escape from Tarkov`|
 |[Aimlogic / Aim Humanizer&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755645-aimlogic-aim-humanizer.html)|`2026-06-04 03:34:00`|`Valorant`|
