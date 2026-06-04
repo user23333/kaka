@@ -30,9 +30,15 @@
 |2|[ARDUINO HID sketch C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55362)|`2026-06-05 03:34:50`|
 |84|[TarkovAddons v1&#46;4 Fix for version 1&#46;0&#46;5&#46;45436](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55358)|`2026-06-05 03:34:50`|
 |14|[vgk&#95;security&#95;stack&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55357)|`2026-06-05 03:34:50`|
+|3|[EgguWare&#95;V12 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55345)|`2026-06-05 06:43:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-05 06:43:00`|`Garry's Mod`|
+|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-05 06:42:00`|`Valorant`|
+|[ToF CE Table 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/755531-tof-ce-table-2026-a.html)|`2026-06-05 06:39:00`|`Tower of Fantasy`|
+|[The Division 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/516112-division-1-internal.html)|`2026-06-05 06:36:00`|`Tom Clancy's The Division`|
+|[Tarkov Crashing Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/755953-tarkov-crashing.html)|`2026-06-05 06:34:00`|`Escape from Tarkov`|
 |[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-06-05 05:11:00`|`Counter-Strike 2 Releases`|
 |[R6 Ai Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755698-r6-ai-aimbot.html)|`2026-06-05 05:06:00`|`Rainbow Six Siege`|
 |[&#91;FREE&#93; FIVEM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755613-free-fivem-spoofer.html)|`2026-06-05 05:04:00`|`Alternative Online Mods`|
