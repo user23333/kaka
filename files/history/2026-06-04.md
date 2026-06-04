@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[nine vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/743664-nine-vulnerable-drivers.html)|`2026-06-04 12:20:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-06-04 12:19:00`|`Other FPS Games`|
+|[World of Tanks HEAT &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755512-world-tanks-heat-reversal-structs-offsets.html)|`2026-06-04 12:15:00`|`Other FPS Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-06-04 12:13:00`|`Counter-Strike 2 Releases`|
+|[SC Farming v6&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752381-sc-farming-v6-2-3-a.html)|`2026-06-04 12:10:00`|`HELLDIVERS 2`|
+|[TBH External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755469-tbh-external.html)|`2026-06-04 12:02:00`|`Other Games`|
+|[Arena Breakout Infinite WITHOUT DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/721929-arena-breakout-infinite-dma.html)|`2026-06-04 12:01:00`|`Other FPS Games`|
 |[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-04 07:59:00`|`Other Games`|
 |[bible research as requested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/755770-bible-research-requested.html)|`2026-06-04 07:57:00`|`Off Topic`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-04 07:56:00`|`Phasmophobia`|
