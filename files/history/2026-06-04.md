@@ -32,9 +32,16 @@
 |1|[PhasmophobiaExt&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55315)|`2026-06-04 08:00:40`|
 |4|[TBH old script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55314)|`2026-06-04 08:00:40`|
 |1|[SmmMem DBG&#95;07](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55328)|`2026-06-04 16:35:00`|
+|3|[EgguWare&#95;V11 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55333)|`2026-06-04 19:34:32`|
+|1|[EgguWare&#95;V10 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55332)|`2026-06-04 19:34:32`|
+|3|[Bloodstrike&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55325)|`2026-06-04 19:34:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-04 19:24:00`|`Other FPS Games`|
+|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-04 19:11:00`|`Valorant`|
+|[Regarding resource stop detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755774-regarding-resource-stop-detection.html)|`2026-06-04 19:10:00`|`Alternative Online Mods`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-06-04 19:09:00`|`Deadlock`|
 |[Player Filtering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755820-player-filtering.html)|`2026-06-04 16:26:00`|`Rainbow Six Siege`|
 |[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-06-04 16:22:00`|`Other FPS Games`|
 |[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-06-04 16:06:00`|`Other FPS Games`|
