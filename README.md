@@ -31,9 +31,16 @@
 |84|[TarkovAddons v1&#46;4 Fix for version 1&#46;0&#46;5&#46;45436](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55358)|`2026-06-05 03:34:50`|
 |14|[vgk&#95;security&#95;stack&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55357)|`2026-06-05 03:34:50`|
 |3|[EgguWare&#95;V12 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55345)|`2026-06-05 06:43:52`|
+|28|[TBH 1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55348)|`2026-06-05 07:49:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755469-tbh-external.html)|`2026-06-05 07:39:00`|`Other Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-05 07:35:00`|`Other FPS Games`|
+|[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/628883-roblox-offsets.html)|`2026-06-05 07:33:00`|`Roblox`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-06-05 07:32:00`|`Other FPS Games`|
+|[Fatekeeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/755899-fatekeeper.html)|`2026-06-05 07:29:00`|`Cheat Engine Tables`|
+|[TF2  Cake](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/755727-tf2-cake.html)|`2026-06-05 07:18:00`|`Team Fortress 2`|
 |[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-05 06:43:00`|`Garry's Mod`|
 |[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-05 06:42:00`|`Valorant`|
 |[ToF CE Table 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/755531-tof-ce-table-2026-a.html)|`2026-06-05 06:39:00`|`Tower of Fantasy`|
