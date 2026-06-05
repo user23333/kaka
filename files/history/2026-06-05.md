@@ -15,6 +15,7 @@
 |40|[Heiron&#46; Free hack for DayZ, only visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/755223-heiron-free-hack-dayz-visuals.html)|`2026-06-05 03:34:50`|`dayz-sa`|
 |12|[Is cheating possible in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755068-cheating-game.html)|`2026-06-05 05:13:04`|`valorant`|
 |41|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-05 14:08:04`|`other-fps-games`|
+|11|[Latest vgc dump mostly deobfuscated &#43; fixed imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755265-vgc-dump-deobfuscated-fixed-imports.html)|`2026-06-05 23:40:41`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -45,9 +46,17 @@
 |1|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55376)|`2026-06-05 18:11:03`|
 |2|[S2CheatDX12&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55375)|`2026-06-05 18:11:03`|
 |3|[DARKEST DAYS INTERNAL&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55374)|`2026-06-05 18:11:03`|
+|6|[dump&#95;ACE&#45;XXXX&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55382)|`2026-06-05 23:40:41`|
+|3|[TarkovAddons fixed for 1&#46;0&#46;5&#46;45464](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55379)|`2026-06-05 23:40:41`|
+|4|[Dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55378)|`2026-06-05 23:40:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dinglechanger &#124; Inventory Changer &#40;Knives, Gloves, Agents, Stickers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754161-dinglechanger-inventory-changer-knives-gloves-agents-stickers.html)|`2026-06-05 23:38:00`|`Counter-Strike 2 Releases`|
+|[My VGC emulator isn't working&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756012-vgc-emulator-isnt.html)|`2026-06-05 23:38:00`|`Valorant`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-05 23:34:00`|`Other FPS Games`|
+|[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-06-05 23:26:00`|`Other MMORPG and Strategy`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-06-05 23:22:00`|`Anti-Cheat Bypass`|
 |[Subnautica 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756044-subnautica-2-internal.html)|`2026-06-05 20:48:00`|`Other FPS Games`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-06-05 20:41:00`|`Escape from Tarkov`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-06-05 20:39:00`|`Other FPS Games`|
