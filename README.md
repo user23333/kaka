@@ -41,9 +41,18 @@
 |1|[extbhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55370)|`2026-06-05 14:08:04`|
 |1|[EgguWare&#95;V13 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55368)|`2026-06-05 14:08:04`|
 |32|[TBH Trainer 1&#46;00&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55365)|`2026-06-05 14:08:04`|
+|4|[dump&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55377)|`2026-06-05 18:11:03`|
+|1|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55376)|`2026-06-05 18:11:03`|
+|2|[S2CheatDX12&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55375)|`2026-06-05 18:11:03`|
+|3|[DARKEST DAYS INTERNAL&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55374)|`2026-06-05 18:11:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing anti teleportation protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756014-bypassing-anti-teleportation-protection.html)|`2026-06-05 18:10:00`|`Alternative Online Mods`|
+|[Internal Drawing icons on the in&#45;game minimap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756025-internal-drawing-icons-game-minimap.html)|`2026-06-05 18:03:00`|`Valorant`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-06-05 17:59:00`|`Other MMORPG and Strategy`|
+|[Huminized Mouse &#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755712-huminized-mouse.html)|`2026-06-05 17:56:00`|`Valorant`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-06-05 17:43:00`|`Escape from Tarkov`|
 |[DARKEST DAYS INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756009-darkest-days-internal.html)|`2026-06-05 14:01:00`|`Other FPS Games`|
 |[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-06-05 13:59:00`|`Counter-Strike 2 Releases`|
 |[Dse bypass byovd???????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755582-dse-bypass-byovd.html)|`2026-06-05 13:53:00`|`Anti-Cheat Bypass`|
