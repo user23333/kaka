@@ -14,6 +14,7 @@
 |10|[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-06-05 03:34:50`|`counter-strike-2-a`|
 |40|[Heiron&#46; Free hack for DayZ, only visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/755223-heiron-free-hack-dayz-visuals.html)|`2026-06-05 03:34:50`|`dayz-sa`|
 |12|[Is cheating possible in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755068-cheating-game.html)|`2026-06-05 05:13:04`|`valorant`|
+|41|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-05 14:08:04`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,19 @@
 |1|[River City Saga: Journey to the West CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55367)|`2026-06-05 09:54:37`|
 |11|[faggothook&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55366)|`2026-06-05 09:54:37`|
 |2|[Fatekeeper CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55364)|`2026-06-05 09:54:37`|
+|1|[TF2 Holy Bible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55372)|`2026-06-05 14:08:04`|
+|1|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55371)|`2026-06-05 14:08:04`|
+|1|[extbhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55370)|`2026-06-05 14:08:04`|
+|1|[EgguWare&#95;V13 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55368)|`2026-06-05 14:08:04`|
+|32|[TBH Trainer 1&#46;00&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55365)|`2026-06-05 14:08:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DARKEST DAYS INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756009-darkest-days-internal.html)|`2026-06-05 14:01:00`|`Other FPS Games`|
+|[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-06-05 13:59:00`|`Counter-Strike 2 Releases`|
+|[Dse bypass byovd???????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755582-dse-bypass-byovd.html)|`2026-06-05 13:53:00`|`Anti-Cheat Bypass`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-06-05 13:48:00`|`Elite: Dangerous`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-06-05 13:39:00`|`Other FPS Games`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2026-06-05 09:50:00`|`Other MMORPG and Strategy`|
 |[&#91;WIP&#93; Project Zomboid Cheat &#124; EtherMenu&#45;Lite &#124; Powered by Java &#124; b42&#43; &#124; 42&#46;15&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743460-wip-project-zomboid-cheat-ethermenu-lite-powered-java-b42-42-15-2-a.html)|`2026-06-05 09:46:00`|`Other MMORPG and Strategy`|
 |[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-05 09:45:00`|`Other Games`|
