@@ -11,6 +11,7 @@
 |41|[Heiron&#46; Free hack for DayZ, only visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/755223-heiron-free-hack-dayz-visuals.html)|`2026-06-06 01:29:58`|`dayz-sa`|
 |11|[Latest vgc dump mostly deobfuscated &#43; fixed imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755265-vgc-dump-deobfuscated-fixed-imports.html)|`2026-06-06 01:29:58`|`valorant`|
 |12|[Apex Legend esp cheat UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755401-apex-legend-esp-cheat-ud.html)|`2026-06-06 01:29:58`|`apex-legends`|
+|6|[Cheating within CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755087-cheating-cs2.html)|`2026-06-06 09:25:24`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is cheating possible in this game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755068-cheating-game.html)|`2026-06-06 09:14:00`|`Valorant`|
+|[another p2c vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756144-p2c-vulnerable-driver.html)|`2026-06-06 09:11:00`|`Anti-Cheat Bypass`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-06-06 08:59:00`|`Grand Theft Auto V`|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-06 08:52:00`|`Garry's Mod`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-06-06 08:50:00`|`Alternative Online Mods`|
+|[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-06-06 08:44:00`|`Tom Clancy's The Division`|
+|[Dayz steam community server bans &#40;CF Tools&#41; Need help with IP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/756145-dayz-steam-community-server-bans-cf-tools-help-ip.html)|`2026-06-06 08:43:00`|`DayZ SA`|
 |[TBH: Task Bar Hero Trainer V1&#46;00&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756079-tbh-task-bar-hero-trainer-v1-00-09-a.html)|`2026-06-06 07:19:00`|`Other Games`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-06-06 07:18:00`|`Rust`|
 |[Onimusha: Way of the Sword &#40;Demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/756134-onimusha-sword-demo.html)|`2026-06-06 07:10:00`|`Cheat Engine Tables`|
