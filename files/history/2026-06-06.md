@@ -37,9 +37,18 @@
 |8|[PGRHostControl64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55397)|`2026-06-06 13:07:03`|
 |2|[PhantomHvDetectionLab ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55396)|`2026-06-06 13:07:03`|
 |3|[OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55409)|`2026-06-06 20:16:24`|
+|39|[TA Com&#46; Hotfix 3 GV 1&#46;0&#46;5&#46;45464](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55411)|`2026-06-06 23:36:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How can I debug Taskbar Hero on the network layer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756195-debug-taskbar-hero-network-layer.html)|`2026-06-06 23:36:00`|`Other Games`|
+|[FiveM Client&#45;Side JS Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756238-fivem-client-js-executor.html)|`2026-06-06 23:32:00`|`Alternative Online Mods`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-06-06 23:28:00`|`Rainbow Six Siege`|
+|[Kaizer Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/754856-kaizer-helper.html)|`2026-06-06 23:27:00`|`Marvel Rivals`|
+|[Nerv Skin Changer Online Fix Source &#43; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/752533-nerv-skin-changer-online-fix-source-release.html)|`2026-06-06 23:27:00`|`Counter-Strike 2 Releases`|
+|[stream files info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756190-stream-files-info.html)|`2026-06-06 23:25:00`|`Alternative Online Mods`|
+|[STALCRAFT FULL External Entity Retrieval &#45; SHM&#45;TEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756139-stalcraft-external-entity-retrieval-shm-team.html)|`2026-06-06 23:25:00`|`Other FPS Games`|
+|[Hello im here to apppport&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/755687-hello-im-apppport.html)|`2026-06-06 23:23:00`|`Introductions`|
 |[i keep getting val5 and account suspension for no reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756203-getting-val5-account-suspension-reason.html)|`2026-06-06 22:03:00`|`Valorant`|
 |[Apex Legend esp cheat UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755401-apex-legend-esp-cheat-ud.html)|`2026-06-06 22:02:00`|`Apex Legends`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-06-06 21:44:00`|`Other FPS Games`|
