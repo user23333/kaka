@@ -12,6 +12,7 @@
 |11|[Latest vgc dump mostly deobfuscated &#43; fixed imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755265-vgc-dump-deobfuscated-fixed-imports.html)|`2026-06-06 01:29:58`|`valorant`|
 |12|[Apex Legend esp cheat UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755401-apex-legend-esp-cheat-ud.html)|`2026-06-06 01:29:58`|`apex-legends`|
 |6|[Cheating within CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755087-cheating-cs2.html)|`2026-06-06 09:25:24`|`counter-strike-2-a`|
+|15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-06 22:08:42`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i keep getting val5 and account suspension for no reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756203-getting-val5-account-suspension-reason.html)|`2026-06-06 22:03:00`|`Valorant`|
+|[Apex Legend esp cheat UD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755401-apex-legend-esp-cheat-ud.html)|`2026-06-06 22:02:00`|`Apex Legends`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-06-06 21:44:00`|`Other FPS Games`|
+|[Tom Clancy's The Division Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171536-tom-clancys-division-reversal-structs-offsets.html)|`2026-06-06 21:42:00`|`Tom Clancy's The Division`|
+|[Heartopia Helper&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747079-heartopia-helper.html)|`2026-06-06 21:41:00`|`Other Games`|
+|[UnityTools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/756202-unitytools.html)|`2026-06-06 21:31:00`|`Unity`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-06 20:16:00`|`Apex Legends`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-06-06 20:07:00`|`Other FPS Games`|
 |[I guess we cant Standard Inject DLL&#46;s Into CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756062-guess-cant-standard-inject-dll-cs2.html)|`2026-06-06 20:06:00`|`Counter-Strike 2`|
