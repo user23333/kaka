@@ -34,9 +34,20 @@
 |6|[Nerv&#43; 1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55433)|`2026-06-07 20:09:31`|
 |12|[PhasmoMenu v0&#46;5&#46;9&#46;2 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55429)|`2026-06-07 20:09:31`|
 |1|[AC EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55427)|`2026-06-07 20:09:31`|
+|1|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55431)|`2026-06-07 22:17:35`|
+|3|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55426)|`2026-06-07 22:17:35`|
+|1|[Rust Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55416)|`2026-06-07 22:17:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Soul Land: Awakening World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/755706-soul-land-awakening-world.html)|`2026-06-07 22:15:00`|`Other MMORPG and Strategy`|
+|[Mortal Shell II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/756247-mortal-shell-ii.html)|`2026-06-07 22:13:00`|`Cheat Engine Tables`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-07 22:12:00`|`Other Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-07 22:10:00`|`Valorant`|
+|[Hwid ban Activision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756345-hwid-ban-activision.html)|`2026-06-07 22:08:00`|`Call of Duty: Black Ops 7`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-06-07 22:04:00`|`Escape from Tarkov`|
+|[Some one please release the backtrack source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756387-please-release-backtrack-source.html)|`2026-06-07 22:02:00`|`Valorant`|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-06-07 22:01:00`|`Overwatch`|
 |[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-06-07 20:05:00`|`Tom Clancy's The Division`|
 |[perf edgebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756367-perf-edgebug.html)|`2026-06-07 19:59:00`|`Counter-Strike 2`|
 |[Nerv&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756240-nerv.html)|`2026-06-07 19:43:00`|`Counter-Strike 2 Releases`|
