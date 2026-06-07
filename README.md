@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[silent aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756434-silent-aim-bypass.html)|`2026-06-08 05:45:00`|`Alternative Online Mods`|
+|[agent changer for nerv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756466-agent-changer-nerv.html)|`2026-06-08 05:39:00`|`Counter-Strike 2`|
+|[GetNativeHandler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756462-getnativehandler.html)|`2026-06-08 05:38:00`|`Alternative Online Mods`|
+|[Type 1 hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744670-type-1-hypervisor.html)|`2026-06-08 05:33:00`|`Anti-Cheat Bypass`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-08 05:29:00`|`Other Games`|
+|[ESP is lagging and at this point I'm not sure why&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/755345-esp-lagging-im.html)|`2026-06-08 05:28:00`|`ARC Raiders`|
 |[First Rust cheat &#45; help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/756189-rust-cheat-help.html)|`2026-06-08 04:39:00`|`Rust`|
 |[IOMMU Restriction Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756444-iommu-restriction-bypass.html)|`2026-06-08 04:38:00`|`Valorant`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-08 04:35:00`|`Other Games`|
