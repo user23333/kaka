@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do some P2Cs and Script devs make a Trust Factor Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756479-p2cs-script-devs-trust-factor-bypass.html)|`2026-06-08 07:47:00`|`Counter-Strike 2`|
+|[&#91;LUA&#93; Traitor Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/753587-lua-traitor-revealer.html)|`2026-06-08 07:32:00`|`Garry's Mod`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-06-08 07:29:00`|`Other MMORPG and Strategy`|
+|[rain/effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756442-rain-effects.html)|`2026-06-08 07:27:00`|`Counter-Strike 2`|
+|[Custom Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754935-custom-model-changer.html)|`2026-06-08 07:26:00`|`Counter-Strike 2`|
+|[Flavia &#91;Cheat for Strinova&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755637-flavia-cheat-strinova.html)|`2026-06-08 07:25:00`|`Other FPS Games`|
 |[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-08 06:41:00`|`Garry's Mod`|
 |[Deep Research into BSG's new HWID&#45;System hwecho&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/756100-deep-research-bsgs-hwid-system-hwecho-dll.html)|`2026-06-08 06:38:00`|`Escape from Tarkov`|
 |[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-06-08 06:31:00`|`Other Games`|
