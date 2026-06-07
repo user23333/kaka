@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-08 06:41:00`|`Garry's Mod`|
+|[Deep Research into BSG's new HWID&#45;System hwecho&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/756100-deep-research-bsgs-hwid-system-hwecho-dll.html)|`2026-06-08 06:38:00`|`Escape from Tarkov`|
+|[Heartopia Buddy&#33; &#40;Teleport &#43; Auto Farm & More&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/736498-heartopia-buddy-teleport-auto-farm.html)|`2026-06-08 06:31:00`|`Other Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-08 06:27:00`|`Other FPS Games`|
 |[silent aim bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756434-silent-aim-bypass.html)|`2026-06-08 05:45:00`|`Alternative Online Mods`|
 |[agent changer for nerv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756466-agent-changer-nerv.html)|`2026-06-08 05:39:00`|`Counter-Strike 2`|
 |[GetNativeHandler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756462-getnativehandler.html)|`2026-06-08 05:38:00`|`Alternative Online Mods`|
