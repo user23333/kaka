@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vmprotect undetected hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756343-vmprotect-undetected-hook.html)|`2026-06-07 16:16:00`|`Anti-Cheat Bypass`|
+|[How can I debug Taskbar Hero on the network layer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756195-debug-taskbar-hero-network-layer.html)|`2026-06-07 16:13:00`|`Other Games`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-06-07 15:58:00`|`Alternative Online Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-06-07 15:44:00`|`Other FPS Games`|
+|[Com port dtc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756300-com-port-dtc.html)|`2026-06-07 15:42:00`|`Valorant`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-06-07 12:45:00`|`Grand Theft Auto V`|
 |[PhantomHvDetectionLab &#45; Hypervisor Detection & Stealth Benchmark Lab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756136-phantomhvdetectionlab-hypervisor-detection-stealth-benchmark-lab.html)|`2026-06-07 12:40:00`|`Anti-Cheat Bypass`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-06-07 12:39:00`|`Other FPS Games`|
