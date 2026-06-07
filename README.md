@@ -11,6 +11,7 @@
 |11|[Latest vgc dump mostly deobfuscated &#43; fixed imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755265-vgc-dump-deobfuscated-fixed-imports.html)|`2026-06-07 00:42:39`|`valorant`|
 |17|[fgthook &#45; ag2 bhop/skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755981-fgthook-ag2-bhop-skin-changer.html)|`2026-06-07 00:42:39`|`counter-strike-2-a`|
 |15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-07 00:42:39`|`valorant`|
+|27|[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-06-07 12:57:26`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-06-07 12:45:00`|`Grand Theft Auto V`|
+|[PhantomHvDetectionLab &#45; Hypervisor Detection & Stealth Benchmark Lab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756136-phantomhvdetectionlab-hypervisor-detection-stealth-benchmark-lab.html)|`2026-06-07 12:40:00`|`Anti-Cheat Bypass`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-06-07 12:39:00`|`Other FPS Games`|
+|[What are EAC's delayed/periodic checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756171-eacs-delayed-periodic-checks.html)|`2026-06-07 12:35:00`|`Anti-Cheat Bypass`|
+|[van 102 and temp ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756307-van-102-temp-ban.html)|`2026-06-07 12:23:00`|`Valorant`|
 |[lol offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/756155-lol-offset.html)|`2026-06-07 08:12:00`|`League of Legends`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-06-07 08:11:00`|`ARMA 3`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-06-07 08:06:00`|`Overwatch`|
