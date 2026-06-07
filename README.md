@@ -12,6 +12,7 @@
 |17|[fgthook &#45; ag2 bhop/skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755981-fgthook-ag2-bhop-skin-changer.html)|`2026-06-07 00:42:39`|`counter-strike-2-a`|
 |15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-07 00:42:39`|`valorant`|
 |27|[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-06-07 12:57:26`|`counter-strike-2-releases`|
+|11|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-07 23:43:51`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,9 +38,12 @@
 |1|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55431)|`2026-06-07 22:17:35`|
 |3|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55426)|`2026-06-07 22:17:35`|
 |1|[Rust Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55416)|`2026-06-07 22:17:35`|
+|1|[Last SDK SCUM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55425)|`2026-06-07 23:43:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to correctly read LocalplayerPawnIndex for use in m&#95;bSpottedByMask&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756392-correctly-read-localplayerpawnindex-m_bspottedbymask.html)|`2026-06-07 23:43:00`|`Counter-Strike 2`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-06-07 23:36:00`|`Escape from Tarkov`|
 |[Soul Land: Awakening World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/755706-soul-land-awakening-world.html)|`2026-06-07 22:15:00`|`Other MMORPG and Strategy`|
 |[Mortal Shell II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/756247-mortal-shell-ii.html)|`2026-06-07 22:13:00`|`Cheat Engine Tables`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-07 22:12:00`|`Other Games`|
