@@ -11,6 +11,7 @@
 |28|[fgthook &#45; ag2 bhop/skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755981-fgthook-ag2-bhop-skin-changer.html)|`2026-06-09 02:00:11`|`counter-strike-2-a`|
 |31|[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-06-09 02:00:11`|`counter-strike-2-releases`|
 |38|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-06-09 02:00:11`|`other-games`|
+|11|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-09 07:16:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[looking for a decent kernel level HWID temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755733-looking-decent-kernel-level-hwid-temp-spoofer.html)|`2026-06-09 07:12:00`|`Anti-Cheat Bypass`|
+|[How do some P2Cs and Script devs make a Trust Factor Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756479-p2cs-script-devs-trust-factor-bypass.html)|`2026-06-09 07:12:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-06-09 07:11:00`|`Other FPS Games`|
+|[DayZ Player Freeze](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/756670-dayz-player-freeze.html)|`2026-06-09 07:10:00`|`DayZ SA`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-06-09 07:01:00`|`Call of Duty: Black Ops 7`|
+|[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-06-09 06:59:00`|`Counter-Strike 2 Releases`|
 |[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-09 05:57:00`|`Other FPS Games`|
 |[&#91;Enlisted&#93; Offsets Dump — ViewProj Matrix, ECS Component Hashes, Patch RVAs &#40;Dec10 bu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756410-enlisted-offsets-dump-viewproj-matrix-ecs-component-hashes-patch-rvas-dec10-bu.html)|`2026-06-09 05:55:00`|`Other FPS Games`|
 |[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-09 05:55:00`|`Other Games`|
