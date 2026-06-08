@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Antikick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755622-antikick.html)|`2026-06-08 09:57:00`|`Counter-Strike 2`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-06-08 09:54:00`|`Other FPS Games`|
+|[external w2s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/756437-external-w2s.html)|`2026-06-08 09:47:00`|`League of Legends`|
+|[BIOS modding for IOMMU bypass&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756491-bios-modding-iommu-bypass.html)|`2026-06-08 09:45:00`|`Anti-Cheat Bypass`|
+|[EOHack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/746504-eohack.html)|`2026-06-08 09:35:00`|`Garry's Mod`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-06-08 09:28:00`|`Red Dead Redemption 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-08 09:22:00`|`Apex Legends`|
 |[How do some P2Cs and Script devs make a Trust Factor Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756479-p2cs-script-devs-trust-factor-bypass.html)|`2026-06-08 07:47:00`|`Counter-Strike 2`|
 |[&#91;LUA&#93; Traitor Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/753587-lua-traitor-revealer.html)|`2026-06-08 07:32:00`|`Garry's Mod`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-06-08 07:29:00`|`Other MMORPG and Strategy`|
