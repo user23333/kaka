@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-06-09 05:57:00`|`Other FPS Games`|
+|[&#91;Enlisted&#93; Offsets Dump — ViewProj Matrix, ECS Component Hashes, Patch RVAs &#40;Dec10 bu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756410-enlisted-offsets-dump-viewproj-matrix-ecs-component-hashes-patch-rvas-dec10-bu.html)|`2026-06-09 05:55:00`|`Other FPS Games`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-09 05:55:00`|`Other Games`|
+|[need no recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/756629-recoil.html)|`2026-06-09 05:55:00`|`Rainbow Six Siege`|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-06-09 05:54:00`|`Other Games`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-09 05:49:00`|`Other Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-09 05:45:00`|`Counter-Strike 2`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-06-09 05:26:00`|`Escape from Tarkov`|
 |[TF2 CASINO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/756529-tf2-casino.html)|`2026-06-09 04:18:00`|`Team Fortress 2`|
 |[need offsets for global bloodstrike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756385-offsets-global-bloodstrike.html)|`2026-06-09 04:18:00`|`Other FPS Games`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-06-09 04:15:00`|`Deadlock`|
