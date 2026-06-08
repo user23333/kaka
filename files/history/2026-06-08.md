@@ -12,6 +12,7 @@
 |19|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-08 00:57:15`|`other-games`|
 |15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-08 00:57:15`|`valorant`|
 |9|[TBH: Task Bar Hero Trainer V1&#46;00&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756079-tbh-task-bar-hero-trainer-v1-00-09-a.html)|`2026-06-08 03:21:35`|`other-games`|
+|36|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-06-08 23:01:44`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enginefall Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756525-enginefall-reversal-structs-offsets.html)|`2026-06-08 22:58:00`|`Other FPS Games`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-06-08 22:56:00`|`Rainbow Six Siege`|
+|[Unable to find kernel32&#46;dll &#124; R6 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/756422-unable-kernel32-dll-r6-cheat.html)|`2026-06-08 22:54:00`|`Rainbow Six Siege`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-08 22:54:00`|`Other Games`|
+|[Silent Aimbot FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756572-silent-aimbot-fivem.html)|`2026-06-08 22:53:00`|`Alternative Online Mods`|
+|[VALORANT DRIVERLESS TPM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756363-valorant-driverless-tpm-spoofer.html)|`2026-06-08 22:50:00`|`Valorant`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-08 19:45:00`|`Tom Clancy's The Division`|
 |[I shared the CE code through the forum and created a bypass program&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755711-shared-ce-code-forum-created-bypass-program.html)|`2026-06-08 19:42:00`|`HELLDIVERS 2`|
 |[TBH: Anti&#45;Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756546-tbh-anti-cheat-bypass.html)|`2026-06-08 19:33:00`|`Other Games`|
