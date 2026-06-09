@@ -13,6 +13,7 @@
 |38|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-06-09 02:00:11`|`other-games`|
 |11|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-09 07:16:46`|`valorant`|
 |15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-09 12:36:06`|`valorant`|
+|28|[TF2  Cake](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/755727-tf2-cake.html)|`2026-06-09 16:07:37`|`team-fortress-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,18 @@
 |87|[Sleepy's Internal &#45; 2&#46;22&#46;1&#46;1&#46;149872 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55432)|`2026-06-09 02:00:11`|
 |16|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55431)|`2026-06-09 02:00:11`|
 |233|[PhasmoMenu v0&#46;5&#46;9&#46;2 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55429)|`2026-06-09 02:00:11`|
+|4|[EgguWare&#95;V14 &#40;unknowncheats&#46;me&#41;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55473)|`2026-06-09 16:07:37`|
+|23|[Leproxy Paste](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55445)|`2026-06-09 16:07:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-09 15:53:00`|`Other Games`|
+|[Smite 2 Internal by sniper&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754440-smite-2-internal-sniper.html)|`2026-06-09 15:50:00`|`Other FPS Games`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-09 15:50:00`|`Rainbow Six Siege`|
+|[Enginefall Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756525-enginefall-reversal-structs-offsets.html)|`2026-06-09 15:41:00`|`Other FPS Games`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-06-09 15:40:00`|`Other MMORPG and Strategy`|
+|[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-06-09 15:39:00`|`Anti-Cheat Bypass`|
+|[AMD SVM hypervisor: virtualized core stops ACKing cross&#45;core IPIs &#40;TLB shootdown hang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756698-amd-svm-hypervisor-virtualized-core-stops-acking-cross-core-ipis-tlb-shootdown-hang.html)|`2026-06-09 15:32:00`|`Anti-Cheat Bypass`|
 |[EasyCheat&#46;OSX &#45; Simplest External Memory Engine for macOS &#40;Auto&#45;ASLR & String AOB Sca](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/754323-easycheat-osx-simplest-external-memory-engine-macos-auto-aslr-string-aob-sca.html)|`2026-06-09 12:30:00`|`General Programming and Reversing`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-06-09 12:29:00`|`Other MMORPG and Strategy`|
 |[Overwatch&#95;Loader&#46;dll Warden Module Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756071-overwatch_loader-dll-warden-module-analysis.html)|`2026-06-09 12:24:00`|`Overwatch`|
