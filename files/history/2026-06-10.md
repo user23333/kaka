@@ -29,9 +29,17 @@
 |2|[rustinject&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55480)|`2026-06-10 02:28:12`|
 |1|[EgguWare&#95;V15&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55479)|`2026-06-10 02:28:12`|
 |2|[UC&#95;Vein&#45;BattleSpy&#45;v0&#46;024&#45;Hotfix&#45;1&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55476)|`2026-06-10 02:28:12`|
+|2|[EAC Apex usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55509)|`2026-06-10 06:00:27`|
+|0|[EAC Rust usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55508)|`2026-06-10 06:00:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pokemon MMO 3D BOT/HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753023-pokemon-mmo-3d-bot-hack.html)|`2026-06-10 05:59:00`|`Other MMORPG and Strategy`|
+|[Regarding resource stop detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755774-regarding-resource-stop-detection.html)|`2026-06-10 05:56:00`|`Alternative Online Mods`|
+|[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-10 05:52:00`|`Anti-Cheat Bypass`|
+|[Steam Overlay Present hook — pointer swap method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756415-steam-overlay-hook-pointer-swap-method.html)|`2026-06-10 05:51:00`|`Anti-Cheat Bypass`|
+|[tpm attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756691-tpm-attestation.html)|`2026-06-10 05:50:00`|`Valorant`|
+|[FiveM PC Check Bypassing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744477-fivem-pc-check-bypassing.html)|`2026-06-10 05:49:00`|`Anti-Cheat Bypass`|
 |[The Division 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/743814-division-2-internal.html)|`2026-06-10 04:19:00`|`Tom Clancy's The Division`|
 |[TBH: Atre Trainer &#45; v&#46;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756726-tbh-atre-trainer-1-0-0-a.html)|`2026-06-10 04:18:00`|`Other Games`|
 |[Memory Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/756771-memory-aim.html)|`2026-06-10 04:16:00`|`Apex Legends`|
