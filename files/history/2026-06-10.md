@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-10 07:14:00`|`Valorant`|
+|[How to make external rcs after ag2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756802-external-rcs-ag2.html)|`2026-06-10 06:54:00`|`Counter-Strike 2`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-10 06:53:00`|`Other Games`|
+|[TBH Trainer v1&#46;3&#46;0 &#40;Final Edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755660-tbh-trainer-v1-3-0-final-edition.html)|`2026-06-10 06:40:00`|`Other Games`|
+|[TBH External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755469-tbh-external.html)|`2026-06-10 06:38:00`|`Other Games`|
+|[GSC Scripts for MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/744546-gsc-scripts-mp.html)|`2026-06-10 06:37:00`|`Call of Duty: Modern Warfare`|
 |[Pokemon MMO 3D BOT/HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753023-pokemon-mmo-3d-bot-hack.html)|`2026-06-10 05:59:00`|`Other MMORPG and Strategy`|
 |[Regarding resource stop detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755774-regarding-resource-stop-detection.html)|`2026-06-10 05:56:00`|`Alternative Online Mods`|
 |[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-10 05:52:00`|`Anti-Cheat Bypass`|
