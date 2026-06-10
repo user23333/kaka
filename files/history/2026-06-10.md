@@ -11,6 +11,7 @@
 |33|[TBH OFFSETS DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756642-tbh-offsets-dump.html)|`2026-06-10 00:26:56`|`other-games`|
 |11|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-10 00:26:56`|`valorant`|
 |15|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-10 00:26:56`|`valorant`|
+|42|[TBH: Atre Trainer &#45; v&#46;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756726-tbh-atre-trainer-1-0-0-a.html)|`2026-06-10 09:34:58`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EXO &#45; No Man's Sky Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756369-exo-mans-sky-trainer.html)|`2026-06-10 09:33:00`|`Other Games`|
+|[help me check the scope](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/756647-help-check-scope.html)|`2026-06-10 09:32:00`|`Farlight 84`|
+|[GeoGuesser Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/753183-geoguesser-helper.html)|`2026-06-10 09:28:00`|`Other Software`|
+|[YimMenuV2 with a decent LUA API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/756825-yimmenuv2-decent-lua-api.html)|`2026-06-10 09:27:00`|`Grand Theft Auto V`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-10 09:24:00`|`Other FPS Games`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-06-10 09:15:00`|`Grand Theft Auto V`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-06-10 09:14:00`|`Other FPS Games`|
+|[Global vars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756680-global-vars.html)|`2026-06-10 09:10:00`|`Counter-Strike 2`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-10 07:14:00`|`Valorant`|
 |[How to make external rcs after ag2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756802-external-rcs-ag2.html)|`2026-06-10 06:54:00`|`Counter-Strike 2`|
 |[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-10 06:53:00`|`Other Games`|
