@@ -33,9 +33,18 @@
 |2|[UC&#95;Vein&#45;BattleSpy&#45;v0&#46;024&#45;Hotfix&#45;1&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55476)|`2026-06-10 02:28:12`|
 |2|[EAC Apex usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55509)|`2026-06-10 06:00:27`|
 |0|[EAC Rust usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55508)|`2026-06-10 06:00:27`|
+|14|[latest val sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55518)|`2026-06-10 18:11:03`|
+|4|[Voidling Bound CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55513)|`2026-06-10 18:11:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-06-10 18:09:00`|`Roblox`|
+|[TapeWorm &#45; Example AMD Type&#45;1 Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756373-tapeworm-example-amd-type-1-hypervisor.html)|`2026-06-10 18:06:00`|`Anti-Cheat Bypass`|
+|[complete dump of all offsets and fields for the latest version of blood strike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756863-complete-dump-offsets-fields-version-blood-strike.html)|`2026-06-10 18:04:00`|`Other FPS Games`|
+|[External: UWorld found but all sub&#45;pointer reads return 0 — VGK encrypts EPROCESS Us](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756862-external-uworld-found-sub-pointer-reads-return-0-vgk-encrypts-eprocess.html)|`2026-06-10 18:03:00`|`Valorant`|
+|[Apex Legends bans, DMA and serverside&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/756860-apex-legends-bans-dma-serverside.html)|`2026-06-10 17:58:00`|`Apex Legends`|
+|[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2026-06-10 17:54:00`|`Counter-Strike 2`|
+|[NightMode external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756861-nightmode-external.html)|`2026-06-10 17:50:00`|`Counter-Strike 2`|
 |[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-06-10 13:31:00`|`Other FPS Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-06-10 13:25:00`|`Counter-Strike 2 Releases`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-06-10 13:11:00`|`Call of Duty: Black Ops 7`|
