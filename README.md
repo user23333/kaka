@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BytePatched Nospread &#40;external&#41; &#124; &#43; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/756662-bytepatched-nospread-external-question.html)|`2026-06-11 03:19:00`|`Rust`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-06-11 03:17:00`|`Anti-Cheat Bypass`|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-06-11 03:16:00`|`Paladins`|
+|[I guess we cant Standard Inject DLL&#46;s Into CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756062-guess-cant-standard-inject-dll-cs2.html)|`2026-06-11 03:16:00`|`Counter-Strike 2`|
+|[debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756875-debugging.html)|`2026-06-11 03:16:00`|`Counter-Strike 2`|
+|[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-06-11 03:13:00`|`Other MMORPG and Strategy`|
+|[Achieved no delay on my external overlay giving up on transparency](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/702567-achieved-delay-external-overlay-giving-transparency.html)|`2026-06-11 03:12:00`|`Counter-Strike 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-11 03:10:00`|`Escape from Tarkov`|
 |[TBH: Atre Trainer &#45; v&#46;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756726-tbh-atre-trainer-1-0-0-a.html)|`2026-06-11 00:46:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-11 00:45:00`|`Rust`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-11 00:44:00`|`Rainbow Six Siege`|
