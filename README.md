@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-06-11 05:29:00`|`Other FPS Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-06-11 05:19:00`|`Other FPS Games`|
+|[How to check visibility properly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/755780-check-visibility-properly.html)|`2026-06-11 05:19:00`|`Deadlock`|
+|[How is DLL Side&#45;Loading detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756821-dll-loading-detected.html)|`2026-06-11 05:16:00`|`Anti-Cheat Bypass`|
+|[Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756580-silent-aim.html)|`2026-06-11 05:16:00`|`Alternative Online Mods`|
+|[tpm attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756691-tpm-attestation.html)|`2026-06-11 05:07:00`|`Valorant`|
+|[Efi Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754738-efi-cheats.html)|`2026-06-11 05:06:00`|`Alternative Online Mods`|
+|[TBH Trainer v1&#46;3&#46;0 &#40;Final Edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755660-tbh-trainer-v1-3-0-final-edition.html)|`2026-06-11 05:05:00`|`Other Games`|
 |[BytePatched Nospread &#40;external&#41; &#124; &#43; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/756662-bytepatched-nospread-external-question.html)|`2026-06-11 03:19:00`|`Rust`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-06-11 03:17:00`|`Anti-Cheat Bypass`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-06-11 03:16:00`|`Paladins`|
