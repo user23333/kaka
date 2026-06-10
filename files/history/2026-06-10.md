@@ -35,9 +35,15 @@
 |0|[EAC Rust usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55508)|`2026-06-10 06:00:27`|
 |14|[latest val sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55518)|`2026-06-10 18:11:03`|
 |4|[Voidling Bound CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55513)|`2026-06-10 18:11:03`|
+|7|[Deadlock &#45; SDK &#45; 09&#46;06&#46;2026 &#45; 19:30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55501)|`2026-06-10 21:47:18`|
+|7|[eaanticheat&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55483)|`2026-06-10 21:47:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New to c&#43;&#43;, wanna get into gamehacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/756609-wanna-gamehacking.html)|`2026-06-10 21:42:00`|`Programming for Beginners`|
+|[Tarkov ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/756722-tarkov-ban.html)|`2026-06-10 21:36:00`|`Escape from Tarkov`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-06-10 21:32:00`|`Other MMORPG and Strategy`|
+|[Looking for actual internal base for cheat with imgui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756885-looking-actual-internal-base-cheat-imgui-menu.html)|`2026-06-10 21:30:00`|`Counter-Strike 2`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-06-10 18:09:00`|`Roblox`|
 |[TapeWorm &#45; Example AMD Type&#45;1 Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756373-tapeworm-example-amd-type-1-hypervisor.html)|`2026-06-10 18:06:00`|`Anti-Cheat Bypass`|
 |[complete dump of all offsets and fields for the latest version of blood strike](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756863-complete-dump-offsets-fields-version-blood-strike.html)|`2026-06-10 18:04:00`|`Other FPS Games`|
