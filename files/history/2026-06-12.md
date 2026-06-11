@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How is DLL Side&#45;Loading detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756821-dll-loading-detected.html)|`2026-06-12 07:42:00`|`Anti-Cheat Bypass`|
+|[SinDex Dll Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/756737-sindex-dll-injector.html)|`2026-06-12 07:38:00`|`C and C++`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-12 07:36:00`|`Counter-Strike 2`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-06-12 07:35:00`|`Alternative Online Mods`|
+|[how to get external names for esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/757151-external-names-esp.html)|`2026-06-12 07:33:00`|`Alternative Online Mods`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-12 07:30:00`|`Escape from Tarkov`|
+|[Skeletons and some Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/753628-skeletons-emulator.html)|`2026-06-12 07:28:00`|`Rainbow Six Siege`|
 |[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2026-06-12 06:03:00`|`Alternative Online Mods`|
 |[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-06-12 06:03:00`|`Paladins`|
 |[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-12 06:00:00`|`Garry's Mod`|
