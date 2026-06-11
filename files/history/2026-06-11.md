@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/744122-bloodstrike-offsets.html)|`2026-06-11 18:56:00`|`Half Life`|
+|[Inventory changers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756976-inventory-changers.html)|`2026-06-11 18:48:00`|`Counter-Strike 2`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-06-11 18:47:00`|`Marvel Rivals`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-06-11 18:47:00`|`Other FPS Games`|
+|[4Story GameForge ESP Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757000-4story-gameforge-esp-hack.html)|`2026-06-11 18:46:00`|`Other MMORPG and Strategy`|
+|[Method to finding gameworld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/757025-method-finding-gameworld.html)|`2026-06-11 18:36:00`|`Escape from Tarkov`|
+|[VAL 5 Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756915-val-5-ban.html)|`2026-06-11 18:36:00`|`Valorant`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-06-11 18:35:00`|`Other FPS Games`|
 |[MAC Spoofing &#91;No Hooks&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755651-mac-spoofing-hooks.html)|`2026-06-11 14:17:00`|`Anti-Cheat Bypass`|
 |[VAN STATUS SB POLICY on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756994-van-status-sb-policy-hypervisor.html)|`2026-06-11 14:16:00`|`Valorant`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-11 14:07:00`|`Phasmophobia`|
