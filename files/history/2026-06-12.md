@@ -31,9 +31,21 @@
 |5|[EngineFall SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55522)|`2026-06-12 04:01:59`|
 |5|[BS&#95;SDK&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55520)|`2026-06-12 04:01:59`|
 |2|[GVoid&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55519)|`2026-06-12 04:01:59`|
+|1|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55559)|`2026-06-12 06:05:06`|
+|3|[SinDex v2&#46;5 &#45; DLL Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55556)|`2026-06-12 06:05:06`|
+|4|[cs2&#45;&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55545)|`2026-06-12 06:05:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2026-06-12 06:03:00`|`Alternative Online Mods`|
+|[New Cheese Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/732479-cheese-release.html)|`2026-06-12 06:03:00`|`Paladins`|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-06-12 06:00:00`|`Garry's Mod`|
+|[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-06-12 05:56:00`|`Other FPS Games`|
+|[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-06-12 05:54:00`|`Counter-Strike 2 Releases`|
+|[graffiti can't render on the wall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757142-graffiti-cant-render-wall.html)|`2026-06-12 05:54:00`|`Counter-Strike 2`|
+|[Rivals internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/738782-rivals-internal.html)|`2026-06-12 05:52:00`|`Marvel Rivals`|
+|[Bluefire 2&#46;0 all win11/10 &#43; controller support &#43; vendors dump 8&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/721987-bluefire-2-0-win11-10-controller-support-vendors-dump-8-1-a.html)|`2026-06-12 05:50:00`|`Paladins`|
+|[Custom Paks/Models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757140-custom-paks-models.html)|`2026-06-12 05:46:00`|`Valorant`|
 |[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-12 04:01:00`|`Other Games`|
 |[VAN STATUS SB POLICY on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756994-van-status-sb-policy-hypervisor.html)|`2026-06-12 04:00:00`|`Valorant`|
 |[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-12 04:00:00`|`Anti-Cheat Bypass`|
