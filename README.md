@@ -11,6 +11,7 @@
 |11|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-11 00:48:43`|`valorant`|
 |17|[TBH: Task Bar Hero &#45; MENU Python](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756675-tbh-task-bar-hero-menu-python.html)|`2026-06-11 00:48:43`|`other-games`|
 |14|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-11 00:48:43`|`valorant`|
+|27|[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-11 09:34:35`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[will cheated keys get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/756678-cheated-keys-banned.html)|`2026-06-11 09:28:00`|`Escape from Tarkov`|
+|[Anyone have a correct bone code for LifeWeaver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756023-correct-bone-code-lifeweaver.html)|`2026-06-11 09:22:00`|`Overwatch`|
+|[TF2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/754318-tf2-dumper.html)|`2026-06-11 09:20:00`|`Team Fortress 2`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-06-11 09:16:00`|`Deadlock`|
+|[How to properly dump Overwatch for static analysis &#40;IDA Pro&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756684-properly-dump-overwatch-static-analysis-ida-pro.html)|`2026-06-11 09:15:00`|`Overwatch`|
+|[Where should I start](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756973-start.html)|`2026-06-11 09:13:00`|`Alternative Online Mods`|
+|[CS2 CVar Changer &#45; External &#124; Fullbright &#124; Recoil Control &#124; FOV &#124; World Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/754261-cs2-cvar-changer-external-fullbright-recoil-control-fov-world-chams.html)|`2026-06-11 09:10:00`|`Counter-Strike 2 Releases`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-11 09:05:00`|`Other Games`|
 |[eaanticheat&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/756712-eaanticheat-sys.html)|`2026-06-11 07:07:00`|`Battlefield 6`|
 |[&#91;ISSUE&#93; bones breaks on specific character abilities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/756899-issue-bones-breaks-specific-character-abilities.html)|`2026-06-11 07:05:00`|`Deadlock`|
 |[What are you working on? What’s the plans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/755817-plans.html)|`2026-06-11 07:05:00`|`Off Topic`|
