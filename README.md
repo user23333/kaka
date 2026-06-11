@@ -25,9 +25,20 @@
 |8|[eaanticheat&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55483)|`2026-06-11 00:48:43`|
 |10|[A Dance of Fire and Ice Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55482)|`2026-06-11 00:48:43`|
 |24|[rustinject&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55480)|`2026-06-11 00:48:43`|
+|1|[FortniteSDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55538)|`2026-06-11 14:20:04`|
+|3|[12&#46;11&#46;00&#46;4815575 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55535)|`2026-06-11 14:20:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MAC Spoofing &#91;No Hooks&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755651-mac-spoofing-hooks.html)|`2026-06-11 14:17:00`|`Anti-Cheat Bypass`|
+|[VAN STATUS SB POLICY on Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756994-van-status-sb-policy-hypervisor.html)|`2026-06-11 14:16:00`|`Valorant`|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-11 14:07:00`|`Phasmophobia`|
+|[Skeleton ESP inaccuracy when moving](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/753739-skeleton-esp-inaccuracy-moving.html)|`2026-06-11 14:06:00`|`Call of Duty: Black Ops 7`|
+|[external base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/737473-external-base.html)|`2026-06-11 14:05:00`|`Call of Duty: Black Ops 7`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-11 13:57:00`|`Other FPS Games`|
+|[Stasis Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/756992-stasis-rivals.html)|`2026-06-11 13:53:00`|`Marvel Rivals`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-11 13:52:00`|`Other Games`|
+|[TBH OFFSETS DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756642-tbh-offsets-dump.html)|`2026-06-11 13:49:00`|`Other Games`|
 |[will cheated keys get me banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/756678-cheated-keys-banned.html)|`2026-06-11 09:28:00`|`Escape from Tarkov`|
 |[Anyone have a correct bone code for LifeWeaver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756023-correct-bone-code-lifeweaver.html)|`2026-06-11 09:22:00`|`Overwatch`|
 |[TF2 dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/754318-tf2-dumper.html)|`2026-06-11 09:20:00`|`Team Fortress 2`|
