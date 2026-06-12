@@ -11,6 +11,7 @@
 |32|[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-12 01:52:29`|`anti-cheat-bypass`|
 |8|[TBH: Anti&#45;Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756546-tbh-anti-cheat-bypass.html)|`2026-06-12 01:52:29`|`other-games`|
 |35|[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-06-12 01:52:29`|`overwatch`|
+|39|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-06-12 09:59:47`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-12 09:57:00`|`Other FPS Games`|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-06-12 09:44:00`|`Counter-Strike 2 Releases`|
+|[Farlight 84 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/580566-farlight-84-reversal-structs-offsets.html)|`2026-06-12 09:44:00`|`Farlight 84`|
+|[Is EAC now tracking GPUs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756921-eac-tracking-gpus.html)|`2026-06-12 09:37:00`|`Anti-Cheat Bypass`|
+|[pySigMaker v0&#46;5&#46;10 for IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/757164-pysigmaker-v0-5-10-ida.html)|`2026-06-12 09:34:00`|`General Programming and Reversing`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-06-12 09:17:00`|`League of Legends`|
+|[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-12 09:09:00`|`Anti-Cheat Bypass`|
 |[How is DLL Side&#45;Loading detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756821-dll-loading-detected.html)|`2026-06-12 07:42:00`|`Anti-Cheat Bypass`|
 |[SinDex Dll Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/756737-sindex-dll-injector.html)|`2026-06-12 07:38:00`|`C and C++`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-12 07:36:00`|`Counter-Strike 2`|
