@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[STAR&#46;CS2 EXTERNAL OPEN SOURCE AND RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755954-star-cs2-external-source-release.html)|`2026-06-13 04:30:00`|`Counter-Strike 2`|
+|[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-13 04:26:00`|`Valorant`|
+|[Hwid ban Activision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756345-hwid-ban-activision.html)|`2026-06-13 04:20:00`|`Call of Duty: Black Ops 7`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-06-13 04:17:00`|`Call of Duty: Black Ops 7`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-13 04:12:00`|`Other Games`|
+|[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-06-13 04:12:00`|`Counter-Strike 2 Releases`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-13 04:11:00`|`Other FPS Games`|
+|[TBH OFFSETS DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756642-tbh-offsets-dump.html)|`2026-06-13 04:10:00`|`Other Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-13 02:23:00`|`Rainbow Six Siege`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-06-13 02:21:00`|`Other FPS Games`|
 |[Perfect Magic Bullet Extenal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/692474-perfect-magic-bullet-extenal.html)|`2026-06-13 02:15:00`|`Alternative Online Mods`|
