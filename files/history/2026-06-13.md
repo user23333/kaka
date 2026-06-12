@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Type&#45;1 AMD SVM HV &#45; the stealth side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757268-type-1-amd-svm-hv-stealth.html)|`2026-06-13 06:05:00`|`Anti-Cheat Bypass`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-06-13 06:02:00`|`DayZ SA`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-13 06:00:00`|`Rust`|
+|[Raidriar Internal CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754301-raidriar-internal-cs2-internal.html)|`2026-06-13 05:45:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-06-13 05:30:00`|`Escape from Tarkov`|
 |[STAR&#46;CS2 EXTERNAL OPEN SOURCE AND RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755954-star-cs2-external-source-release.html)|`2026-06-13 04:30:00`|`Counter-Strike 2`|
 |[Decrypt vanguard response](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755861-decrypt-vanguard-response.html)|`2026-06-13 04:26:00`|`Valorant`|
 |[Hwid ban Activision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756345-hwid-ban-activision.html)|`2026-06-13 04:20:00`|`Call of Duty: Black Ops 7`|
