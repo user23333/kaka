@@ -13,6 +13,7 @@
 |11|[Chudware legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756249-chudware-legit-cheat.html)|`2026-06-13 00:34:26`|`counter-strike-2-a`|
 |8|[another p2c vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756144-p2c-vulnerable-driver.html)|`2026-06-13 02:24:52`|`anti-cheat-bypass`|
 |22|[Nerv&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756240-nerv.html)|`2026-06-13 09:51:13`|`counter-strike-2-releases`|
+|17|[VALORANT DRIVERLESS TPM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756363-valorant-driverless-tpm-spoofer.html)|`2026-06-13 19:26:59`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-06-13 19:25:00`|`Other FPS Games`|
+|[fgthook &#45; ag2 bhop/skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755981-fgthook-ag2-bhop-skin-changer.html)|`2026-06-13 19:22:00`|`Counter-Strike 2`|
+|[Fallen surival silent aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747942-fallen-surival-silent-aim.html)|`2026-06-13 19:16:00`|`Roblox`|
+|[The problem of low success rate of dupe tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757343-low-success-rate-dupe-tool.html)|`2026-06-13 19:14:00`|`ARC Raiders`|
+|[Raycast Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/757161-raycast-silent-aim.html)|`2026-06-13 19:10:00`|`Roblox`|
+|[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-06-13 19:10:00`|`Anti-Cheat Bypass`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-06-13 17:24:00`|`Farlight 84`|
 |[possible ways to load a working compiled vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756246-load-compiled-vulnerable-driver.html)|`2026-06-13 17:21:00`|`Valorant`|
 |[Messed up penetration system help me out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748193-messed-penetration-system-help.html)|`2026-06-13 17:19:00`|`Counter-Strike 2`|
