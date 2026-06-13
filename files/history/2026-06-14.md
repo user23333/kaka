@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant China &#45; ACE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757349-valorant-china-ace.html)|`2026-06-14 05:34:00`|`Valorant`|
+|[Valorant pak loader broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757358-valorant-pak-loader-broken-update.html)|`2026-06-14 05:28:00`|`Valorant`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-14 05:19:00`|`Other Games`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-06-14 05:19:00`|`Rainbow Six Siege`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-06-14 05:18:00`|`Alternative Online Mods`|
+|[TBH &#45; Stageboss Chestfarm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757092-tbh-stageboss-chestfarm-bot.html)|`2026-06-14 05:12:00`|`Other Games`|
+|[NEED HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/757381-help.html)|`2026-06-14 05:08:00`|`Rust`|
 |[CGlowProperty DrawGlow hook works, but bones also glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757335-cglowproperty-drawglow-hook-bones-glow.html)|`2026-06-14 04:13:00`|`Counter-Strike 2`|
 |[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-06-14 04:07:00`|`Anti-Cheat Bypass`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-06-14 03:53:00`|`Overwatch`|
