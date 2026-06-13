@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A Dance of Fire and Ice Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756704-dance-fire-ice-auto-play.html)|`2026-06-13 20:59:00`|`Other Games`|
+|[TBH: Task Bar Hero Unlimited Gold &#45; DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755499-tbh-task-bar-hero-unlimited-gold-dlc-unlocker.html)|`2026-06-13 20:53:00`|`Other Games`|
+|[GTA V Enhanced YimMenu Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/728237-gta-enhanced-yimmenu-guide.html)|`2026-06-13 20:51:00`|`Grand Theft Auto V`|
+|[Esp Optimization &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/757329-esp-optimization-external.html)|`2026-06-13 20:41:00`|`Rust`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-06-13 19:25:00`|`Other FPS Games`|
 |[fgthook &#45; ag2 bhop/skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755981-fgthook-ag2-bhop-skin-changer.html)|`2026-06-13 19:22:00`|`Counter-Strike 2`|
 |[Fallen surival silent aim?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/747942-fallen-surival-silent-aim.html)|`2026-06-13 19:16:00`|`Roblox`|
