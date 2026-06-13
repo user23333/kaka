@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-14 06:35:00`|`Rainbow Six Siege`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-06-14 06:31:00`|`Scum`|
+|[How to find Bullet&#95;HitDetection, WeaponClass, IsVisible in games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755082-bullet_hitdetection-weaponclass-isvisible-games.html)|`2026-06-14 06:18:00`|`General Programming and Reversing`|
+|[did eac update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/757306-eac-update.html)|`2026-06-14 06:13:00`|`Rust`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-06-14 06:05:00`|`Rainbow Six Siege`|
+|[what are structs and how do you reverse them](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757387-structs-reverse.html)|`2026-06-14 06:04:00`|`Counter-Strike 2`|
 |[Valorant China &#45; ACE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757349-valorant-china-ace.html)|`2026-06-14 05:34:00`|`Valorant`|
 |[Valorant pak loader broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757358-valorant-pak-loader-broken-update.html)|`2026-06-14 05:28:00`|`Valorant`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-14 05:19:00`|`Other Games`|
