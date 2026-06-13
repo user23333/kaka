@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-06-13 17:24:00`|`Farlight 84`|
+|[possible ways to load a working compiled vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756246-load-compiled-vulnerable-driver.html)|`2026-06-13 17:21:00`|`Valorant`|
+|[Messed up penetration system help me out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/748193-messed-penetration-system-help.html)|`2026-06-13 17:19:00`|`Counter-Strike 2`|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-06-13 17:08:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-13 17:08:00`|`Overwatch`|
+|[CGlowProperty DrawGlow hook works, but bones also glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757335-cglowproperty-drawglow-hook-bones-glow.html)|`2026-06-13 16:58:00`|`Counter-Strike 2`|
+|[Overwatch&#95;Loader&#46;dll Warden Module Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756071-overwatch_loader-dll-warden-module-analysis.html)|`2026-06-13 16:57:00`|`Overwatch`|
 |[TBH &#45; Stageboss Chestfarm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757092-tbh-stageboss-chestfarm-bot.html)|`2026-06-13 14:02:00`|`Other Games`|
 |[&#91;removed&#93; 2pc method emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757312-removed-2pc-method-emulator.html)|`2026-06-13 13:57:00`|`Valorant`|
 |[Matchmaking Restricted / Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757216-matchmaking-restricted-bans.html)|`2026-06-13 13:39:00`|`Call of Duty: Black Ops 7`|
