@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-14 01:46:00`|`Overwatch`|
+|[Type&#45;1 AMD SVM HV &#45; the stealth side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757268-type-1-amd-svm-hv-stealth.html)|`2026-06-14 01:46:00`|`Anti-Cheat Bypass`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-14 01:40:00`|`Tom Clancy's The Division`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-14 01:37:00`|`Valorant`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-14 01:31:00`|`Escape from Tarkov`|
+|[The problem of low success rate of dupe tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757343-low-success-rate-dupe-tool.html)|`2026-06-14 01:27:00`|`ARC Raiders`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-06-14 01:25:00`|`ARMA 3`|
 |[&#91;removed&#93; 2pc method emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757312-removed-2pc-method-emulator.html)|`2026-06-14 00:19:00`|`Valorant`|
 |[TBH: Atre Trainer &#45; v&#46;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756726-tbh-atre-trainer-1-0-0-a.html)|`2026-06-14 00:18:00`|`Other Games`|
 |[Overwatch&#95;Loader&#46;dll Warden Module Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756071-overwatch_loader-dll-warden-module-analysis.html)|`2026-06-14 00:16:00`|`Overwatch`|
