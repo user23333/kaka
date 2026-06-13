@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH &#45; Stageboss Chestfarm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757092-tbh-stageboss-chestfarm-bot.html)|`2026-06-13 14:02:00`|`Other Games`|
+|[&#91;removed&#93; 2pc method emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757312-removed-2pc-method-emulator.html)|`2026-06-13 13:57:00`|`Valorant`|
+|[Matchmaking Restricted / Bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757216-matchmaking-restricted-bans.html)|`2026-06-13 13:39:00`|`Call of Duty: Black Ops 7`|
+|[are there any permanat tpm spoofers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/751758-permanat-tpm-spoofers.html)|`2026-06-13 13:36:00`|`Call of Duty: Black Ops 7`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-06-13 13:21:00`|`Marvel Rivals`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-13 13:15:00`|`Valorant`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-13 09:49:00`|`Rainbow Six Siege`|
 |[TBH: Anti&#45;Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756546-tbh-anti-cheat-bypass.html)|`2026-06-13 09:41:00`|`Other Games`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-06-13 09:32:00`|`Grand Theft Auto V`|
