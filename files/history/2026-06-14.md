@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-06-14 02:33:00`|`ARC Raiders`|
+|[Bans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/749453-bans.html)|`2026-06-14 02:28:00`|`Combat Master`|
+|[Meccha chameleon ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757300-meccha-chameleon-esp.html)|`2026-06-14 02:28:00`|`Other Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-06-14 02:27:00`|`Counter-Strike 2 Releases`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-14 02:25:00`|`Rust`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-06-14 02:22:00`|`Other Single Player Games`|
+|[Farming kick drops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/757138-farming-kick-drops.html)|`2026-06-14 02:22:00`|`Rust`|
+|[new vulnerable driver &#40;toshibi&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/744520-vulnerable-driver-toshibi.html)|`2026-06-14 02:20:00`|`Anti-Cheat Bypass`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-14 02:20:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-14 01:46:00`|`Overwatch`|
 |[Type&#45;1 AMD SVM HV &#45; the stealth side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757268-type-1-amd-svm-hv-stealth.html)|`2026-06-14 01:46:00`|`Anti-Cheat Bypass`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-14 01:40:00`|`Tom Clancy's The Division`|
