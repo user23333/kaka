@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox MM2 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/757391-roblox-mm2-2026-a.html)|`2026-06-14 07:42:00`|`Roblox`|
+|[Stasis Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/756992-stasis-rivals.html)|`2026-06-14 07:39:00`|`Marvel Rivals`|
+|[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-06-14 07:36:00`|`Other FPS Games`|
+|[Backtrack Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757393-backtrack-chams.html)|`2026-06-14 07:31:00`|`Valorant`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-06-14 07:29:00`|`Counter-Strike 2 Releases`|
+|[MECCHA CHAMELEON &#45; External SDK/BINARY/SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757399-meccha-chameleon-external-sdk-binary-source.html)|`2026-06-14 07:28:00`|`Other Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-14 06:35:00`|`Rainbow Six Siege`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-06-14 06:31:00`|`Scum`|
 |[How to find Bullet&#95;HitDetection, WeaponClass, IsVisible in games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755082-bullet_hitdetection-weaponclass-isvisible-games.html)|`2026-06-14 06:18:00`|`General Programming and Reversing`|
