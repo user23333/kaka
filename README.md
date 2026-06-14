@@ -24,9 +24,19 @@
 |7|[Duet Night Abyss SDK 1&#46;4&#46;78&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55577)|`2026-06-15 00:02:33`|
 |14|[pySigMaker&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55569)|`2026-06-15 00:02:33`|
 |944|[Atre Trainer v&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55567)|`2026-06-15 00:02:33`|
+|6|[loot esp module tarkov addons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55604)|`2026-06-15 01:37:29`|
+|2|[rewasd daemon tools binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55581)|`2026-06-15 01:37:29`|
+|1|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55579)|`2026-06-15 01:37:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-06-15 01:37:00`|`Alternative Online Mods`|
+|[How to successfully load the Mac Spoofer driver on a higher version of Windows?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757502-successfully-load-mac-spoofer-driver-version-windows.html)|`2026-06-15 01:36:00`|`Anti-Cheat Bypass`|
+|[TF2  Cake](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/755727-tf2-cake.html)|`2026-06-15 01:14:00`|`Team Fortress 2`|
+|[TBH: Atre Trainer &#45; v&#46;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756726-tbh-atre-trainer-1-0-0-a.html)|`2026-06-15 01:09:00`|`Other Games`|
+|[Meccha Chameleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757390-meccha-chameleon-internal.html)|`2026-06-15 01:04:00`|`Other Games`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-15 00:57:00`|`Tom Clancy's The Division`|
+|[StatTrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757446-stattrack.html)|`2026-06-15 00:51:00`|`Counter-Strike 2`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-15 00:00:00`|`Escape from Tarkov`|
 |[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-14 23:56:00`|`Garry's Mod`|
 |[Stasis Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/756992-stasis-rivals.html)|`2026-06-14 23:56:00`|`Marvel Rivals`|
