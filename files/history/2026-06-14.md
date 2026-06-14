@@ -13,6 +13,7 @@
 |17|[YimMenuV2 with a decent LUA API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/756825-yimmenuv2-decent-lua-api.html)|`2026-06-14 00:21:00`|`grand-theft-auto-v`|
 |7|[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-14 04:13:23`|`anti-cheat-bypass`|
 |27|[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-06-14 10:00:22`|`other-fps-games`|
+|16|[TBH &#45; Stageboss Chestfarm Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757092-tbh-stageboss-chestfarm-bot.html)|`2026-06-14 18:14:23`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-14 18:09:00`|`Garry's Mod`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-14 18:06:00`|`Other FPS Games`|
+|[Why some entities have prefabID but no prefabName?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/757465-entities-prefabid-prefabname.html)|`2026-06-14 17:59:00`|`Rust`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-06-14 17:55:00`|`Counter-Strike 2`|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-06-14 17:29:00`|`Other Games`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-06-14 17:26:00`|`Rainbow Six Siege`|
 |[Free Inventory Changer &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/721217-free-inventory-changer.html)|`2026-06-14 14:34:00`|`Counter-Strike 2 Releases`|
 |[bo7 esp stutter DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756707-bo7-esp-stutter-dma.html)|`2026-06-14 14:34:00`|`Call of Duty: Black Ops 7`|
 |[Valorant Account Ban & No HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757336-valorant-account-ban-hwid-ban.html)|`2026-06-14 14:26:00`|`Valorant`|
