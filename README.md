@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-15 07:50:00`|`Apex Legends`|
+|[bo7 esp stutter DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756707-bo7-esp-stutter-dma.html)|`2026-06-15 07:50:00`|`Call of Duty: Black Ops 7`|
+|[Current meta for safe external overlays & screenshot bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752154-current-meta-safe-external-overlays-screenshot-bypass.html)|`2026-06-15 07:39:00`|`Anti-Cheat Bypass`|
+|[Window Overlay Hijack Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754771-window-overlay-hijack-detection.html)|`2026-06-15 07:37:00`|`Anti-Cheat Bypass`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-06-15 07:37:00`|`Rainbow Six Siege`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2026-06-15 07:37:00`|`Valorant`|
+|[&#91;Help&#93; Custom VMX/EPT Hypervisor Hard Freezes After Resident &#40;Win11 12th Gen & Win10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757547-help-custom-vmx-ept-hypervisor-hard-freezes-resident-win11-12th-gen-win10.html)|`2026-06-15 07:33:00`|`Anti-Cheat Bypass`|
 |[external minimap radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/757541-external-minimap-radar.html)|`2026-06-15 06:45:00`|`Apex Legends`|
 |[color ahk script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757542-color-ahk-script.html)|`2026-06-15 06:41:00`|`Call of Duty: Black Ops 7`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-06-15 06:40:00`|`Other FPS Games`|
