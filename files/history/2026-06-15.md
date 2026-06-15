@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-06-15 10:06:00`|`Counter-Strike 2`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-06-15 10:01:00`|`Rust`|
+|[How Vanguard Detects 2PC &#43; Macku Setups &#40;Raw Input & Statistical Analysis Tool&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756671-vanguard-detects-2pc-macku-setups-raw-input-statistical-analysis-tool.html)|`2026-06-15 09:59:00`|`Valorant`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-15 09:56:00`|`Other FPS Games`|
+|[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-06-15 09:49:00`|`Other MMORPG and Strategy`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-15 07:50:00`|`Apex Legends`|
 |[bo7 esp stutter DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/756707-bo7-esp-stutter-dma.html)|`2026-06-15 07:50:00`|`Call of Duty: Black Ops 7`|
 |[Current meta for safe external overlays & screenshot bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/752154-current-meta-safe-external-overlays-screenshot-bypass.html)|`2026-06-15 07:39:00`|`Anti-Cheat Bypass`|
