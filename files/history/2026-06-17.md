@@ -11,6 +11,7 @@
 |7|[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-17 01:22:16`|`anti-cheat-bypass`|
 |11|[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-06-17 01:22:16`|`arc-raiders`|
 |2|[EAC new usermode module](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756780-eac-usermode-module.html)|`2026-06-17 01:22:16`|`anti-cheat-bypass`|
+|20|[33 Immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/757451-33-immortals.html)|`2026-06-17 04:19:37`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Diving into EAC's screenshot capture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757807-diving-eacs-screenshot-capture.html)|`2026-06-17 04:19:00`|`Anti-Cheat Bypass`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-06-17 04:18:00`|`Overwatch`|
+|[TBH Account Items x Market Analyzer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757819-tbh-account-items-market-analyzer.html)|`2026-06-17 04:15:00`|`Other Games`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-17 04:10:00`|`Rainbow Six Siege`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-17 04:09:00`|`Overwatch`|
+|[Does EA have cheater lobbies?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/757725-ea-cheater-lobbies.html)|`2026-06-17 04:01:00`|`Apex Legends`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-17 03:56:00`|`Tom Clancy's The Division`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-17 03:55:00`|`Escape from Tarkov`|
 |[New ricochet dump&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728944-ricochet-dump.html)|`2026-06-17 01:21:00`|`Call of Duty: Black Ops 7`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-17 01:21:00`|`Other FPS Games`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-06-17 01:17:00`|`Anti-Cheat Bypass`|
