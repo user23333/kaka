@@ -13,6 +13,8 @@
 |37|[Type&#45;1 AMD SVM HV &#45; the stealth side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757268-type-1-amd-svm-hv-stealth.html)|`2026-06-16 02:08:13`|`anti-cheat-bypass`|
 |18|[MECCHA CHAMELEON &#45; External SDK/BINARY/SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757399-meccha-chameleon-external-sdk-binary-source.html)|`2026-06-16 05:16:33`|`other-games`|
 |5|[Meccha chameleon ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757300-meccha-chameleon-esp.html)|`2026-06-16 05:16:33`|`other-games`|
+|7|[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-16 09:44:07`|`anti-cheat-bypass`|
+|11|[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-06-16 09:44:07`|`arc-raiders`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[33 Immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/757451-33-immortals.html)|`2026-06-16 09:43:00`|`Cheat Engine Tables`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-16 09:39:00`|`Other FPS Games`|
+|[Reset command engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757702-reset-command-engine-prediction.html)|`2026-06-16 09:29:00`|`Counter-Strike 2`|
+|[MECCHA CHAMELEON Workshop Maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757534-meccha-chameleon-workshop-maps.html)|`2026-06-16 09:09:00`|`Other Games`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-06-16 09:07:00`|`Sea of Thieves`|
+|[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-06-16 09:05:00`|`Rainbow Six Siege`|
+|[EngineFall DMA ESP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756870-enginefall-dma-esp.html)|`2026-06-16 08:57:00`|`Other FPS Games`|
 |[Chinese version VAL No Spread Help！](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757687-chinese-version-val-spread-help.html)|`2026-06-16 07:04:00`|`Valorant`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-16 07:03:00`|`Escape from Tarkov`|
 |[MECCHA CHAMELEON &#45; External SDK/BINARY/SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757399-meccha-chameleon-external-sdk-binary-source.html)|`2026-06-16 06:58:00`|`Other Games`|
