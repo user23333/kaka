@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-06-17 19:53:00`|`Overwatch`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-06-17 19:51:00`|`Grand Theft Auto V`|
+|[EAC's CRC Integrity Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757876-eacs-crc-integrity-checks.html)|`2026-06-17 19:49:00`|`Anti-Cheat Bypass`|
+|[Holo world Particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757872-holo-world-particles.html)|`2026-06-17 19:47:00`|`Valorant`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-17 19:39:00`|`Other Games`|
+|[Be bypass/injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757815-bypass-injector.html)|`2026-06-17 19:37:00`|`Anti-Cheat Bypass`|
+|[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-06-17 19:37:00`|`Deadlock`|
 |[EV Code Sign not bypassing smartscreen, any other methods ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757764-ev-code-sign-bypassing-smartscreen-methods.html)|`2026-06-17 15:17:00`|`Anti-Cheat Bypass`|
 |[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-06-17 15:07:00`|`Counter-Strike 2`|
 |[NoSpread &#124; Spread is applying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757609-nospread-spread-applying.html)|`2026-06-17 15:01:00`|`Counter-Strike 2`|
