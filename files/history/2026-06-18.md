@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Internal Source Code &#43; PAKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757828-valorant-internal-source-code-paks.html)|`2026-06-18 05:46:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-18 05:46:00`|`Rust`|
+|[EV Code Sign not bypassing smartscreen, any other methods ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757764-ev-code-sign-bypassing-smartscreen-methods.html)|`2026-06-18 05:45:00`|`Anti-Cheat Bypass`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-06-18 05:43:00`|`League of Legends`|
+|[Efi Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754738-efi-cheats.html)|`2026-06-18 05:42:00`|`Alternative Online Mods`|
+|[Thoughts on ID users for preventing cheating&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/755354-id-users-preventing-cheating.html)|`2026-06-18 05:38:00`|`Anti-Cheat Bypass`|
+|[Bypass Prefetch and USN Journal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/754986-bypass-prefetch-usn-journal.html)|`2026-06-18 05:35:00`|`Alternative Online Mods`|
+|[would it be safe to cheat on main with seowned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/757496-safe-cheat-main-seowned.html)|`2026-06-18 05:33:00`|`Team Fortress 2`|
+|[can some one share with me UserCMD structs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757967-share-usercmd-structs.html)|`2026-06-18 05:20:00`|`Counter-Strike 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-06-18 03:51:00`|`ARC Raiders`|
 |[NoSpread &#124; Spread is applying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757609-nospread-spread-applying.html)|`2026-06-18 03:50:00`|`Counter-Strike 2`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-18 03:50:00`|`Tom Clancy's The Division`|
