@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Tool &#45; AoE4 Function Address Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/725250-tool-aoe4-function-address-finder.html)|`2026-06-19 07:07:00`|`Age of Empires`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-06-19 07:07:00`|`Other FPS Games`|
+|[Lua Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757737-lua-executor.html)|`2026-06-19 07:05:00`|`Garry's Mod`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-06-19 07:01:00`|`ARC Raiders`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-19 06:58:00`|`Rainbow Six Siege`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-06-19 06:49:00`|`Alternative Online Mods`|
+|[MECCHA CHAMELEON &#45; External SDK/BINARY/SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757399-meccha-chameleon-external-sdk-binary-source.html)|`2026-06-19 06:44:00`|`Other Games`|
+|[brawlhalla dodgebot &#40;source &#43; explanation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753103-brawlhalla-dodgebot-source-explanation.html)|`2026-06-19 06:43:00`|`Other Games`|
 |[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-06-19 05:22:00`|`Counter-Strike 2 Releases`|
 |[Cs2 Chams DualPass is not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758071-cs2-chams-dualpass.html)|`2026-06-19 05:15:00`|`Counter-Strike 2`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-19 05:10:00`|`Rainbow Six Siege`|
