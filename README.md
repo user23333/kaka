@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-06-18 09:26:00`|`Other FPS Games`|
+|[how to find offset SF1 on 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757982-offset-sf1-2026-a.html)|`2026-06-18 09:21:00`|`Other FPS Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-06-18 09:21:00`|`Other FPS Games`|
+|[33 Immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/757451-33-immortals.html)|`2026-06-18 09:19:00`|`Cheat Engine Tables`|
+|[Meccha chameleon ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757300-meccha-chameleon-esp.html)|`2026-06-18 09:18:00`|`Other Games`|
+|[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-06-18 09:15:00`|`Other FPS Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-18 09:12:00`|`Escape from Tarkov`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-06-18 09:11:00`|`Counter-Strike 2 Releases`|
+|[Per hitbox vis check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757951-hitbox-vis-check.html)|`2026-06-18 09:07:00`|`Call of Duty: Black Ops 7`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-18 07:04:00`|`Rainbow Six Siege`|
 |[Newbie HERE please help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/756233-newbie-please-help.html)|`2026-06-18 07:04:00`|`Programming for Beginners`|
 |[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-06-18 07:00:00`|`Counter-Strike 2`|
