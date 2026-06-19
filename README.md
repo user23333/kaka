@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bhop not working server&#45;side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758255-bhop-server.html)|`2026-06-20 06:14:00`|`Counter-Strike 2`|
+|[33 Immortals — External Trainer &#40;Steam 1&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758143-33-immortals-external-trainer-steam-1-0-a.html)|`2026-06-20 06:10:00`|`Other Games`|
+|[Meccha Chameleon cheat, safe or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758068-meccha-chameleon-cheat-safe.html)|`2026-06-20 05:58:00`|`Other MMORPG and Strategy`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-06-20 05:57:00`|`Counter-Strike 2`|
+|[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-06-20 05:57:00`|`Other FPS Games`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-06-20 05:57:00`|`Other MMORPG and Strategy`|
+|[can some one share with me UserCMD structs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757967-share-usercmd-structs.html)|`2026-06-20 05:54:00`|`Counter-Strike 2`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-06-20 05:19:00`|`Sea of Thieves`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-20 05:18:00`|`Escape from Tarkov`|
 |[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-20 05:14:00`|`Team Fortress 2`|
