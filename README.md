@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust internal help pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758264-rust-internal-help-pls.html)|`2026-06-20 07:14:00`|`Rust`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-06-20 07:05:00`|`Deadlock`|
+|[Show Full Mini Map &#45; Updated Offsets &#40;20&#45;06&#45;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/758279-mini-map-updated-offsets-20-06-2026-a.html)|`2026-06-20 07:02:00`|`Generals and Zero Hour`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-06-20 07:01:00`|`Farlight 84`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-06-20 06:58:00`|`Grand Theft Auto V`|
+|[33 Immortals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/757451-33-immortals.html)|`2026-06-20 06:55:00`|`Cheat Engine Tables`|
 |[bhop not working server&#45;side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758255-bhop-server.html)|`2026-06-20 06:14:00`|`Counter-Strike 2`|
 |[33 Immortals — External Trainer &#40;Steam 1&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758143-33-immortals-external-trainer-steam-1-0-a.html)|`2026-06-20 06:10:00`|`Other Games`|
 |[Meccha Chameleon cheat, safe or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758068-meccha-chameleon-cheat-safe.html)|`2026-06-20 05:58:00`|`Other MMORPG and Strategy`|
