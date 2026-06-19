@@ -11,6 +11,7 @@
 |21|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-20 00:55:20`|`garry-s-mod`|
 |7|[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-20 00:55:20`|`other-games`|
 |10|[Meccha Chameleon internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757944-meccha-chameleon-internal-esp.html)|`2026-06-20 00:55:20`|`other-games`|
+|15|[Empulse Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757546-empulse-reversal-structs-offsets.html)|`2026-06-20 05:20:17`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-06-20 05:19:00`|`Sea of Thieves`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-20 05:18:00`|`Escape from Tarkov`|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-20 05:14:00`|`Team Fortress 2`|
+|[iOS Mario Kart Tour help with finding IL2Cpp Unity Registration loaders](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/758271-ios-mario-kart-tour-help-finding-il2cpp-unity-registration-loaders.html)|`2026-06-20 05:12:00`|`Unity`|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-06-20 05:12:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-06-20 05:08:00`|`Alternative Online Mods`|
+|[rhythia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744652-rhythia.html)|`2026-06-20 05:04:00`|`Other Games`|
 |[Ragebot help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757357-ragebot-help.html)|`2026-06-20 04:07:00`|`Counter-Strike 2`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-06-20 04:05:00`|`Other FPS Games`|
 |[particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757370-particles.html)|`2026-06-20 04:04:00`|`Counter-Strike 2`|
