@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-20 02:25:00`|`Other Games`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-20 02:21:00`|`Tom Clancy's The Division`|
+|[ragebot doesnt want to shoot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758206-ragebot-doesnt-shoot.html)|`2026-06-20 02:19:00`|`Counter-Strike 2`|
+|[TBH Trainer v1&#46;4&#46;0 &#45; Updated for Game v1&#46;00&#46;13](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758026-tbh-trainer-v1-4-0-updated-game-v1-00-13-a.html)|`2026-06-20 02:18:00`|`Other Games`|
+|[YimMenuV2 with a decent LUA API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/756825-yimmenuv2-decent-lua-api.html)|`2026-06-20 02:17:00`|`Grand Theft Auto V`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-20 02:14:00`|`Overwatch`|
+|[would it be safe to cheat on main with seowned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/757496-safe-cheat-main-seowned.html)|`2026-06-20 02:14:00`|`Team Fortress 2`|
+|[EAC's CRC Integrity Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757876-eacs-crc-integrity-checks.html)|`2026-06-20 02:14:00`|`Anti-Cheat Bypass`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-06-20 02:12:00`|`Other MMORPG and Strategy`|
 |[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-20 00:55:00`|`Valorant`|
 |[Valorant EMU auth bin help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758049-valorant-emu-auth-bin-help.html)|`2026-06-20 00:53:00`|`Valorant`|
 |[TBH Trainer v1&#46;3&#46;0 &#40;Final Edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755660-tbh-trainer-v1-3-0-final-edition.html)|`2026-06-20 00:51:00`|`Other Games`|
