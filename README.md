@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Memory Aimbot &#43; No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758150-memory-aimbot-recoil.html)|`2026-06-19 19:38:00`|`Apex Legends`|
+|[How do i get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758149-started.html)|`2026-06-19 19:37:00`|`Grand Theft Auto V`|
+|[YimMenuV2 with a decent LUA API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/756825-yimmenuv2-decent-lua-api.html)|`2026-06-19 19:28:00`|`Grand Theft Auto V`|
+|[patching &#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758083-patching-txt.html)|`2026-06-19 19:27:00`|`Alternative Online Mods`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-06-19 19:25:00`|`Other MMORPG and Strategy`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-06-19 19:25:00`|`Grand Theft Auto V`|
+|[Valorant EMU auth bin help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758049-valorant-emu-auth-bin-help.html)|`2026-06-19 19:21:00`|`Valorant`|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-06-19 19:20:00`|`Phasmophobia`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-19 15:12:00`|`Overwatch`|
 |[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-06-19 15:10:00`|`Other Games`|
 |[SCP Containment Breach 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757751-scp-containment-breach-2-cheat.html)|`2026-06-19 15:08:00`|`Other FPS Games`|
