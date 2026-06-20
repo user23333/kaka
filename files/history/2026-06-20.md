@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Soulbound: Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758284-soulbound-online.html)|`2026-06-20 08:17:00`|`Other MMORPG and Strategy`|
+|[SCP : Secret Lab Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757902-scp-secret-lab-dump.html)|`2026-06-20 07:59:00`|`Other FPS Games`|
+|[Whats wrong with my aspect ratio changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758199-whats-wrong-aspect-ratio-changer.html)|`2026-06-20 07:52:00`|`Counter-Strike 2`|
+|[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-06-20 07:50:00`|`Other Games`|
 |[rust internal help pls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758264-rust-internal-help-pls.html)|`2026-06-20 07:14:00`|`Rust`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-06-20 07:05:00`|`Deadlock`|
 |[Show Full Mini Map &#45; Updated Offsets &#40;20&#45;06&#45;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/758279-mini-map-updated-offsets-20-06-2026-a.html)|`2026-06-20 07:02:00`|`Generals and Zero Hour`|
