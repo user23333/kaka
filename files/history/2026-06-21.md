@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Magic bullet ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/758408-magic-bullet.html)|`2026-06-21 05:33:00`|`Escape from Tarkov`|
+|[Empulse Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757546-empulse-reversal-structs-offsets.html)|`2026-06-21 05:26:00`|`Other FPS Games`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-06-21 05:14:00`|`Escape from Tarkov`|
+|[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-06-21 05:14:00`|`Other FPS Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-06-21 05:13:00`|`Rainbow Six Siege`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-06-21 05:12:00`|`Marvel Rivals`|
 |[Rust Alkad Cheat, 2622 &#45; 25 March and further with updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/745070-rust-alkad-cheat-2622-25-march-updates.html)|`2026-06-21 04:03:00`|`Other Games`|
 |[Can people suggest me paid gmod cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758398-people-suggest-paid-gmod-cheats.html)|`2026-06-21 04:01:00`|`Garry's Mod`|
 |[Soulbound: Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758284-soulbound-online.html)|`2026-06-21 04:00:00`|`Other MMORPG and Strategy`|
