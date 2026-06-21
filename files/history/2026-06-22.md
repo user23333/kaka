@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sendinput via winapi and VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/758566-sendinput-via-winapi-vac.html)|`2026-06-22 04:41:00`|`Anti-Cheat Bypass`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-22 04:41:00`|`Counter-Strike 2`|
+|[Valorant Internal Source Code &#43; PAKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757828-valorant-internal-source-code-paks.html)|`2026-06-22 04:38:00`|`Valorant`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-22 04:25:00`|`Other FPS Games`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-06-22 04:13:00`|`DayZ SA`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-22 04:02:00`|`Other FPS Games`|
+|[&#91;Patch 26&#46;12 x64&#93; TryRightClick wrapper &#45; RVA or pattern on current build?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/758576-patch-26-12-x64-tryrightclick-wrapper-rva-pattern-current-build.html)|`2026-06-22 04:00:00`|`League of Legends`|
 |[Meccha Chameleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757390-meccha-chameleon-internal.html)|`2026-06-22 03:05:00`|`Other Games`|
 |[Meccha Chameleon Internal with exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758377-meccha-chameleon-internal-exploits.html)|`2026-06-22 03:02:00`|`Other Games`|
 |[BF6 s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/758548-bf6.html)|`2026-06-22 03:00:00`|`Battlefield 6`|
