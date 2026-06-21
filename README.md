@@ -13,6 +13,7 @@
 |22|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-21 01:25:19`|`garry-s-mod`|
 |21|[Valorant Internal Source Code &#43; PAKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757828-valorant-internal-source-code-paks.html)|`2026-06-21 07:50:40`|`valorant`|
 |24|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-21 07:50:40`|`team-fortress-2-a`|
+|18|[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-21 15:01:35`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-06-21 14:53:00`|`Overwatch`|
+|[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-21 14:53:00`|`Anti-Cheat Bypass`|
+|[Coloruino &#45; DXGI colorbot &#43; triggerbot &#43; silent aim for Valorant &#40;1PC &#43; Optional 2PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758404-coloruino-dxgi-colorbot-triggerbot-silent-aim-valorant-1pc-optional-2pc.html)|`2026-06-21 14:48:00`|`Valorant`|
+|[Need some help with this code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758086-help-code.html)|`2026-06-21 14:46:00`|`Valorant`|
+|[Any working medals cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/758322-medals-cheat.html)|`2026-06-21 14:45:00`|`HELLDIVERS 2`|
+|[Does anyone know a way to separate the GameGuard bypass from the ED Table?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/751573-separate-gameguard-bypass-ed-table.html)|`2026-06-21 14:42:00`|`HELLDIVERS 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-06-21 14:36:00`|`Palworld`|
 |[Duet Night Abyss SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757206-duet-night-abyss-sdk.html)|`2026-06-21 10:05:00`|`Other MMORPG and Strategy`|
 |[12&#46;11 OFFSET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758403-12-11-offset.html)|`2026-06-21 10:03:00`|`Valorant`|
 |[Unleashed DMA &#45; OW2 &#40;2026&#45;06&#45;15&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757641-unleashed-dma-ow2-2026-06-15-a.html)|`2026-06-21 09:57:00`|`Overwatch`|
