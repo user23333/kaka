@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duet Night Abyss SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757206-duet-night-abyss-sdk.html)|`2026-06-21 10:05:00`|`Other MMORPG and Strategy`|
+|[12&#46;11 OFFSET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758403-12-11-offset.html)|`2026-06-21 10:03:00`|`Valorant`|
+|[Unleashed DMA &#45; OW2 &#40;2026&#45;06&#45;15&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757641-unleashed-dma-ow2-2026-06-15-a.html)|`2026-06-21 09:57:00`|`Overwatch`|
+|[safe limits for money cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758262-safe-limits-money-cheating.html)|`2026-06-21 09:53:00`|`Grand Theft Auto V`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-06-21 09:29:00`|`Call of Duty: Black Ops 3`|
+|[MiniShiko&#45;GI &#91; Genshin Impact Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/758059-minishiko-gi-genshin-impact-cheat.html)|`2026-06-21 09:27:00`|`Genshin Impact`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2026-06-21 09:24:00`|`Valorant`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-06-21 07:43:00`|`Tom Clancy's The Division`|
 |[MW19 kick exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/758105-mw19-kick-exploit.html)|`2026-06-21 07:40:00`|`Call of Duty: Modern Warfare`|
 |[Memory Aimbot &#43; No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758150-memory-aimbot-recoil.html)|`2026-06-21 07:39:00`|`Apex Legends`|
