@@ -14,6 +14,7 @@
 |21|[Valorant Internal Source Code &#43; PAKs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757828-valorant-internal-source-code-paks.html)|`2026-06-21 07:50:40`|`valorant`|
 |24|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-21 07:50:40`|`team-fortress-2-a`|
 |18|[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-21 15:01:35`|`valorant`|
+|13|[VALORANT Backtrack source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757793-valorant-backtrack-source-code.html)|`2026-06-21 18:33:44`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meccha Chameleon cheat, safe or not?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758068-meccha-chameleon-cheat-safe.html)|`2026-06-21 18:25:00`|`Other MMORPG and Strategy`|
+|[bible research as requested](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/755770-bible-research-requested.html)|`2026-06-21 18:24:00`|`Off Topic`|
+|[Kobalt Beta &#124; Internal Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748997-kobalt-beta-internal-legit-cheat.html)|`2026-06-21 18:24:00`|`Counter-Strike 2 Releases`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-06-21 18:15:00`|`Escape from Tarkov`|
+|[my aimbot doesn't working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758476-aimbot-doesnt.html)|`2026-06-21 18:11:00`|`Counter-Strike 2`|
+|[Meccha Chameleon internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757944-meccha-chameleon-internal-esp.html)|`2026-06-21 18:09:00`|`Other Games`|
+|[Can anyone share their DLL injected game code? I tried to inject r3skin code but it d](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757201-share-dll-injected-game-code-tried-inject-r3skin-code.html)|`2026-06-21 18:07:00`|`League of Legends`|
+|[would it be safe to cheat on main with seowned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/757496-safe-cheat-main-seowned.html)|`2026-06-21 18:05:00`|`Team Fortress 2`|
 |[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-06-21 14:53:00`|`Overwatch`|
 |[VM&#95;OP2X&#46;DLL &#45; Arbitrary Code Execution on AC&#45;Protected Games &#40;Proof of Concept&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756985-vm_op2x-dll-arbitrary-code-execution-ac-protected-games-proof-concept.html)|`2026-06-21 14:53:00`|`Anti-Cheat Bypass`|
 |[Coloruino &#45; DXGI colorbot &#43; triggerbot &#43; silent aim for Valorant &#40;1PC &#43; Optional 2PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758404-coloruino-dxgi-colorbot-triggerbot-silent-aim-valorant-1pc-optional-2pc.html)|`2026-06-21 14:48:00`|`Valorant`|
