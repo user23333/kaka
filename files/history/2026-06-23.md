@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-06-23 07:41:00`|`Other Games`|
+|[Havok collision cords bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/758781-havok-collision-cords-bo7.html)|`2026-06-23 07:41:00`|`Call of Duty: Black Ops 7`|
+|[My first ever external Cheat &#33; &#91;RADAR&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758317-external-cheat-radar.html)|`2026-06-23 07:37:00`|`Counter-Strike 2`|
+|[Type&#45;1 AMD SVM HV &#45; the stealth side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/757268-type-1-amd-svm-hv-stealth.html)|`2026-06-23 07:34:00`|`Anti-Cheat Bypass`|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-06-23 07:34:00`|`Garry's Mod`|
+|[Is kdmapper really detected???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758665-kdmapper-detected.html)|`2026-06-23 07:31:00`|`Rust`|
+|[eac/be/vgk driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/745875-eac-vgk-driver.html)|`2026-06-23 07:30:00`|`Anti-Cheat Bypass`|
+|[External Vehicle Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758755-external-vehicle-spawner.html)|`2026-06-23 07:26:00`|`Alternative Online Mods`|
+|[Fishing Plant &#45; internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758779-fishing-plant-internal-cheat.html)|`2026-06-23 07:26:00`|`Other Games`|
 |[How Vanguard Detects 2PC &#43; Macku Setups &#40;Raw Input & Statistical Analysis Tool&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756671-vanguard-detects-2pc-macku-setups-raw-input-statistical-analysis-tool.html)|`2026-06-23 06:14:00`|`Valorant`|
 |[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-06-23 06:13:00`|`Alternative Online Mods`|
 |[Magic bullet ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/758408-magic-bullet.html)|`2026-06-23 06:12:00`|`Escape from Tarkov`|
