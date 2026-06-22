@@ -25,9 +25,17 @@
 |35|[FishingPlanetDump20&#46;6&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55725)|`2026-06-23 01:20:31`|
 |458|[Laurav1&#46;1&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55724)|`2026-06-23 01:20:31`|
 |62|[REPOssessed&#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55723)|`2026-06-23 01:20:31`|
+|55|[TBH&#95;Bypass&#95;v5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55778)|`2026-06-23 06:16:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Vanguard Detects 2PC &#43; Macku Setups &#40;Raw Input & Statistical Analysis Tool&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756671-vanguard-detects-2pc-macku-setups-raw-input-statistical-analysis-tool.html)|`2026-06-23 06:14:00`|`Valorant`|
+|[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-06-23 06:13:00`|`Alternative Online Mods`|
+|[Magic bullet ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/758408-magic-bullet.html)|`2026-06-23 06:12:00`|`Escape from Tarkov`|
+|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-06-23 06:07:00`|`Other Games`|
+|[Invoker Ext nativ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758772-invoker-ext-nativ.html)|`2026-06-23 06:07:00`|`Alternative Online Mods`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-23 06:06:00`|`Rust`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2026-06-23 05:59:00`|`ARMA 3`|
 |[Unturned DMA &#45; Im stuck :c](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758759-unturned-dma-im-stuck.html)|`2026-06-23 04:12:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-23 04:11:00`|`Apex Legends`|
 |[TBH: Anti&#45;Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756546-tbh-anti-cheat-bypass.html)|`2026-06-23 04:11:00`|`Other Games`|
