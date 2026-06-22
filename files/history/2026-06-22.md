@@ -12,6 +12,7 @@
 |18|[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-22 00:17:26`|`valorant`|
 |13|[VALORANT Backtrack source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757793-valorant-backtrack-source-code.html)|`2026-06-22 00:17:26`|`valorant`|
 |61|[TBH Persistent Reward Item Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758547-tbh-persistent-reward-item-generator.html)|`2026-06-22 06:01:25`|`other-games`|
+|15|[Meccha Chameleon Internal with exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758377-meccha-chameleon-internal-exploits.html)|`2026-06-22 15:02:32`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Coloruino &#45; DXGI colorbot &#43; triggerbot &#43; silent aim for Valorant &#40;1PC &#43; Optional 2PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758404-coloruino-dxgi-colorbot-triggerbot-silent-aim-valorant-1pc-optional-2pc.html)|`2026-06-22 14:53:00`|`Valorant`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-22 14:53:00`|`Rainbow Six Siege`|
+|[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-06-22 14:52:00`|`Other FPS Games`|
+|[does riot extend the ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758637-riot-extend-ban.html)|`2026-06-22 14:52:00`|`Valorant`|
+|[TBH Trainer v1&#46;3&#46;0 &#40;Final Edition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755660-tbh-trainer-v1-3-0-final-edition.html)|`2026-06-22 14:51:00`|`Other Games`|
+|[How to get CBasePlayerWeaponVData in current version of game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758629-cbaseplayerweaponvdata-current-version-game.html)|`2026-06-22 14:50:00`|`Counter-Strike 2`|
+|[Particle crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758636-particle-crash.html)|`2026-06-22 14:46:00`|`Counter-Strike 2`|
 |[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-06-22 09:37:00`|`Other FPS Games`|
 |[Yimmenu Desync Kicked Problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758561-yimmenu-desync-kicked.html)|`2026-06-22 09:30:00`|`Grand Theft Auto V`|
 |[What does Heretic LLM do and how does it work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/758399-heretic-llm.html)|`2026-06-22 09:27:00`|`Forum General`|
