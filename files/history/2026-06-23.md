@@ -27,9 +27,15 @@
 |458|[Laurav1&#46;1&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55724)|`2026-06-23 01:20:31`|
 |62|[REPOssessed&#40;Fixed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55723)|`2026-06-23 01:20:31`|
 |55|[TBH&#95;Bypass&#95;v5&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55778)|`2026-06-23 06:16:01`|
+|9|[VGC Dump &#43; IDA Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55789)|`2026-06-23 13:47:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overlay chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758507-overlay-chams.html)|`2026-06-23 13:30:00`|`Counter-Strike 2`|
+|[HWID SPOOFER/PublisherBanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758811-hwid-spoofer-publisherbanned.html)|`2026-06-23 13:27:00`|`Rust`|
+|[Looking for Arduino Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758765-looking-arduino-spoofer.html)|`2026-06-23 13:23:00`|`Valorant`|
+|[Terraria External v1&#46;4&#46;5&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756815-terraria-external-v1-4-5-6-a.html)|`2026-06-23 13:21:00`|`Other MMORPG and Strategy`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-06-23 13:20:00`|`Other FPS Games`|
 |[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-06-23 09:32:00`|`Counter-Strike 2 Releases`|
 |[Summer Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/754969-summer-banner-contest-2026-a.html)|`2026-06-23 09:30:00`|`General Graphics`|
 |[Need Help With Starting Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758694-help-starting-cheating.html)|`2026-06-23 09:24:00`|`Grand Theft Auto V`|
