@@ -12,6 +12,7 @@
 |22|[Meccha Chameleon Internal with exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758377-meccha-chameleon-internal-exploits.html)|`2026-06-23 01:20:31`|`other-games`|
 |18|[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-23 01:20:31`|`valorant`|
 |15|[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-06-23 04:15:46`|`other-games`|
+|35|[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-06-23 09:33:39`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-06-23 09:32:00`|`Counter-Strike 2 Releases`|
+|[Summer Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/754969-summer-banner-contest-2026-a.html)|`2026-06-23 09:30:00`|`General Graphics`|
+|[Need Help With Starting Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758694-help-starting-cheating.html)|`2026-06-23 09:24:00`|`Grand Theft Auto V`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-06-23 09:11:00`|`Grand Theft Auto V`|
 |[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-06-23 07:41:00`|`Other Games`|
 |[Havok collision cords bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/758781-havok-collision-cords-bo7.html)|`2026-06-23 07:41:00`|`Call of Duty: Black Ops 7`|
 |[My first ever external Cheat &#33; &#91;RADAR&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758317-external-cheat-radar.html)|`2026-06-23 07:37:00`|`Counter-Strike 2`|
