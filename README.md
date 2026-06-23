@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-06-24 07:41:00`|`Other FPS Games`|
+|[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-24 07:36:00`|`Other Games`|
+|[Driver BSOD's on mapchange](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758947-driver-bsods-mapchange.html)|`2026-06-24 07:32:00`|`Counter-Strike 2`|
+|[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-06-24 07:23:00`|`Other MMORPG and Strategy`|
 |[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-06-24 06:51:00`|`Other Games`|
 |[having trouble with my fov changer&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758683-trouble-fov-changer.html)|`2026-06-24 06:45:00`|`Rust`|
 |[&#91;removed&#93; 2pc method emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757312-removed-2pc-method-emulator.html)|`2026-06-24 06:43:00`|`Valorant`|
