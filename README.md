@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-06-23 19:45:00`|`Valorant`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-06-23 19:39:00`|`Counter-Strike 2`|
+|[Bunnyhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758345-bunnyhop.html)|`2026-06-23 19:39:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-06-23 19:32:00`|`DayZ SA`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-06-23 19:29:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-23 19:22:00`|`Overwatch`|
+|[Reverse Engineering CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758805-reverse-engineering-cs2.html)|`2026-06-23 19:20:00`|`Counter-Strike 2`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-06-23 16:44:00`|`Other FPS Games`|
 |[help w/ rust internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758335-help-rust-internal.html)|`2026-06-23 16:44:00`|`Rust`|
 |[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-23 16:29:00`|`Other Games`|
