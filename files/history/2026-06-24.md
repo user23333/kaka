@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-06-24 23:53:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-24 23:46:00`|`Overwatch`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-24 23:44:00`|`Rust`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-06-24 23:42:00`|`Other FPS Games`|
+|[The Division 2 Cheat menu By Umf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/754728-division-2-cheat-menu-umf.html)|`2026-06-24 23:42:00`|`Tom Clancy's The Division`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-06-24 23:37:00`|`Other Games`|
 |[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-06-24 21:26:00`|`Cheat Engine Tables`|
 |[Meccha Chameleon Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758509-meccha-chameleon-reversal-structs-offsets.html)|`2026-06-24 21:26:00`|`Other FPS Games`|
 |[No More Room in Hell internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751353-hell-internal-cheat.html)|`2026-06-24 21:25:00`|`Other FPS Games`|
