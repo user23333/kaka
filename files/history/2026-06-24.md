@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-06-24 21:26:00`|`Cheat Engine Tables`|
+|[Meccha Chameleon Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758509-meccha-chameleon-reversal-structs-offsets.html)|`2026-06-24 21:26:00`|`Other FPS Games`|
+|[No More Room in Hell internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751353-hell-internal-cheat.html)|`2026-06-24 21:25:00`|`Other FPS Games`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-06-24 21:21:00`|`Counter-Strike 2`|
+|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-06-24 21:18:00`|`Other Games`|
+|[Blackhole hvh](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/748496-blackhole-hvh.html)|`2026-06-24 21:15:00`|`Counter-Strike 2 Releases`|
+|[Rhythia Auto Player or Aim Assist Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746516-rhythia-auto-player-aim-assist-cheat.html)|`2026-06-24 21:12:00`|`Other Games`|
 |[The "AI Slop" Accusations Are Getting Out of Hand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/753719-ai-slop-accusations-getting-hand.html)|`2026-06-24 19:27:00`|`Off Topic`|
 |[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-06-24 19:24:00`|`Other Games`|
 |[fxap decrypt asset via key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752388-fxap-decrypt-asset-via-key.html)|`2026-06-24 19:22:00`|`Alternative Online Mods`|
