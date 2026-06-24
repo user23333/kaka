@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-25 04:53:00`|`Escape from Tarkov`|
+|[rust how do i get omni sprint working on a external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758567-rust-omni-sprint-external.html)|`2026-06-25 04:52:00`|`Rust`|
+|[Forums Inaccessible As Guest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/758949-forums-inaccessible-guest.html)|`2026-06-25 04:45:00`|`Forum General`|
+|[EAC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/759103-eac-bypass.html)|`2026-06-25 04:37:00`|`Sea of Thieves`|
+|[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-06-25 04:36:00`|`Anti-Cheat Bypass`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-06-25 04:35:00`|`Overwatch`|
+|[Pattern for Silent Aim b3407, b3570 and b3751&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758107-pattern-silent-aim-b3407-b3570-b3751.html)|`2026-06-25 04:35:00`|`Alternative Online Mods`|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-25 04:33:00`|`Garry's Mod`|
+|[Meccha Chameleon internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757944-meccha-chameleon-internal-esp.html)|`2026-06-25 04:30:00`|`Other Games`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-06-25 04:23:00`|`Other Games`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-06-25 03:16:00`|`Roblox`|
 |[External Reading raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759087-external-reading-raycast.html)|`2026-06-25 03:14:00`|`Alternative Online Mods`|
 |[Writing hypervisors with AI assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/758900-writing-hypervisors-ai-assistance.html)|`2026-06-25 03:12:00`|`Anti-Cheat Bypass`|
