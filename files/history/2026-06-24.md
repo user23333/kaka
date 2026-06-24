@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The "AI Slop" Accusations Are Getting Out of Hand](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/753719-ai-slop-accusations-getting-hand.html)|`2026-06-24 19:27:00`|`Off Topic`|
+|[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-06-24 19:24:00`|`Other Games`|
+|[fxap decrypt asset via key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752388-fxap-decrypt-asset-via-key.html)|`2026-06-24 19:22:00`|`Alternative Online Mods`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-06-24 19:12:00`|`Other FPS Games`|
+|[TBH &#45; Save Editor &#40;decorations, engraving, inscriptions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758708-tbh-save-editor-decorations-engraving-inscriptions.html)|`2026-06-24 19:10:00`|`Other Games`|
 |[question regarding yim menu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758974-question-regarding-yim-menu-v2.html)|`2026-06-24 16:32:00`|`Grand Theft Auto V`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-06-24 16:30:00`|`Other MMORPG and Strategy`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-24 16:29:00`|`Other Games`|
