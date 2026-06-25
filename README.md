@@ -25,9 +25,18 @@
 |85|[VGC Dump &#43; IDA Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55789)|`2026-06-25 01:44:08`|
 |13|[vein dll ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55780)|`2026-06-25 01:44:08`|
 |22|[TBH&#95;Bypass&#95;v5&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55797)|`2026-06-25 09:32:58`|
+|1|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55851)|`2026-06-25 19:18:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-25 19:17:00`|`Apex Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-06-25 19:14:00`|`Other MMORPG and Strategy`|
+|[FiveM Signature & Pattern List V2 &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759172-fivem-signature-pattern-list-v2-updated.html)|`2026-06-25 19:12:00`|`Alternative Online Mods`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-06-25 19:12:00`|`Other MMORPG and Strategy`|
+|[raytracing auto wall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759178-raytracing-auto-wall.html)|`2026-06-25 19:11:00`|`Counter-Strike 2`|
+|[QEMU/KVM Rust with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/717202-qemu-kvm-rust-eac.html)|`2026-06-25 19:10:00`|`Rust`|
+|[Asphalt 8: Airborne v9&#46;0&#46;0i](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/757916-asphalt-8-airborne-v9-0-0i.html)|`2026-06-25 19:07:00`|`Cheat Engine Tables`|
+|[SpiritVale No mana No weight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757839-spiritvale-mana-weight.html)|`2026-06-25 19:02:00`|`Other MMORPG and Strategy`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-06-25 16:35:00`|`Other FPS Games`|
 |[VGC 1&#46;18&#46;3&#46;77 dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759173-vgc-1-18-3-77-dump.html)|`2026-06-25 16:34:00`|`Valorant`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-25 16:23:00`|`Other FPS Games`|
