@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-06-26 04:13:00`|`Valorant`|
+|[Anybrain AI Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758540-anybrain-ai-anti-cheat.html)|`2026-06-26 04:12:00`|`Rust`|
+|[TBH &#45; Save Editor &#40;decorations, engraving, inscriptions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758708-tbh-save-editor-decorations-engraving-inscriptions.html)|`2026-06-26 04:09:00`|`Other Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-06-26 04:06:00`|`Call of Duty: Black Ops 7`|
+|[how can i get the subtick fraction before i land](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758967-subtick-fraction-land.html)|`2026-06-26 04:02:00`|`Counter-Strike 2`|
+|[Looking for hwid spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758942-looking-hwid-spoofer.html)|`2026-06-26 03:55:00`|`Rust`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-06-26 03:53:00`|`Other MMORPG and Strategy`|
 |[How can we bypass WaveShield's silent aimbot protection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758741-bypass-waveshields-silent-aimbot-protection.html)|`2026-06-26 02:06:00`|`Alternative Online Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-26 02:06:00`|`Valorant`|
 |[idarem — ida pro in a browser &#40;remote analysis &#43; control&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/759247-idarem-ida-pro-browser-remote-analysis-control.html)|`2026-06-26 02:04:00`|`General Programming and Reversing`|
