@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-26 05:52:00`|`Team Fortress 2`|
+|[HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY for visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759114-has_entity_clear_los_to_entity-visible-check.html)|`2026-06-26 05:48:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-26 05:47:00`|`Other FPS Games`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-06-26 05:47:00`|`Scum`|
+|[Subtick bhop source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759116-subtick-bhop-source.html)|`2026-06-26 05:47:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-06-26 05:43:00`|`Apex Legends`|
+|[how do I get a localplayer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/759280-localplayer.html)|`2026-06-26 05:41:00`|`Rust`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-06-26 04:13:00`|`Valorant`|
 |[Anybrain AI Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758540-anybrain-ai-anti-cheat.html)|`2026-06-26 04:12:00`|`Rust`|
 |[TBH &#45; Save Editor &#40;decorations, engraving, inscriptions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758708-tbh-save-editor-decorations-engraving-inscriptions.html)|`2026-06-26 04:09:00`|`Other Games`|
