@@ -12,6 +12,7 @@
 |19|[Coding Valorant Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758041-coding-valorant-emulator.html)|`2026-06-25 01:44:08`|`valorant`|
 |42|[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-06-25 01:44:08`|`alternative-online-mods`|
 |23|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-06-25 21:27:47`|`other-games`|
+|26|[Anybrain AI Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758540-anybrain-ai-anti-cheat.html)|`2026-06-25 23:58:36`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Axoim Recoil Reducer V1 all&#45;in&#45;one you only need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/758802-axoim-recoil-reducer-v1.html)|`2026-06-25 23:57:00`|`Rainbow Six Siege`|
+|[Assault Cube 1&#46;2&#46;0&#46;2 External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/756297-assault-cube-1-2-0-2-external-source.html)|`2026-06-25 23:55:00`|`Programming for Beginners`|
+|[&#91;STEAM&#93; Dead By Daylight Unlocker &#43; SSL Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746003-steam-dead-daylight-unlocker-ssl-bypass.html)|`2026-06-25 23:54:00`|`Other FPS Games`|
+|[League of Legends Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757296-league-legends-offsets.html)|`2026-06-25 23:54:00`|`League of Legends`|
+|[TBH Crash when using any CE script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759240-tbh-crash-using-ce-script.html)|`2026-06-25 23:45:00`|`Other Games`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-25 23:41:00`|`Other Games`|
+|[Obtaining enemies via agent select](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/757943-obtaining-enemies-via-agent-select.html)|`2026-06-25 23:38:00`|`Valorant`|
 |[Spxrkz &#45; Roblox External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/758752-spxrkz-roblox-external.html)|`2026-06-25 21:26:00`|`Roblox`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-06-25 21:25:00`|`Other Games`|
 |[Roblox executor base ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/758933-roblox-executor-base.html)|`2026-06-25 21:24:00`|`Roblox`|
