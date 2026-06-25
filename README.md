@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-06-26 07:03:00`|`Counter-Strike 2 Releases`|
+|[How to swap panorama text](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758832-swap-panorama-text.html)|`2026-06-26 07:02:00`|`Counter-Strike 2`|
+|[Anyone successfully using LLMs/AI for VM Devirtualization?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759287-successfully-using-llms-ai-vm-devirtualization.html)|`2026-06-26 07:02:00`|`Anti-Cheat Bypass`|
+|[no restart emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759279-restart-emulator.html)|`2026-06-26 06:57:00`|`Valorant`|
+|[Certificate Search](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759305-certificate-search.html)|`2026-06-26 06:57:00`|`Valorant`|
+|[question regarding yim menu v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758974-question-regarding-yim-menu-v2.html)|`2026-06-26 06:54:00`|`Grand Theft Auto V`|
+|[undetectable money loops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759098-undetectable-money-loops.html)|`2026-06-26 06:50:00`|`Grand Theft Auto V`|
 |[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-26 05:52:00`|`Team Fortress 2`|
 |[HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY for visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759114-has_entity_clear_los_to_entity-visible-check.html)|`2026-06-26 05:48:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-26 05:47:00`|`Other FPS Games`|
