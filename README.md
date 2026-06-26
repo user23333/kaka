@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban evade/alt detection &#91;removed&#93;RP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758903-ban-evade-alt-detection-removed-rp.html)|`2026-06-26 08:15:00`|`Garry's Mod`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-06-26 08:14:00`|`Other FPS Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-06-26 08:13:00`|`Grand Theft Auto V`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-06-26 08:13:00`|`Other FPS Games`|
+|[rust how do i get omni sprint working on a external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758567-rust-omni-sprint-external.html)|`2026-06-26 08:12:00`|`Rust`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-06-26 08:04:00`|`Other Games`|
+|[Writing hypervisors with AI assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/758900-writing-hypervisors-ai-assistance.html)|`2026-06-26 08:01:00`|`Anti-Cheat Bypass`|
+|[Getting "unbanned" from GTA Online in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759317-getting-unbanned-gta-online-2026-a.html)|`2026-06-26 07:54:00`|`Grand Theft Auto V`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-06-26 07:03:00`|`Counter-Strike 2 Releases`|
 |[How to swap panorama text](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758832-swap-panorama-text.html)|`2026-06-26 07:02:00`|`Counter-Strike 2`|
 |[Anyone successfully using LLMs/AI for VM Devirtualization?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759287-successfully-using-llms-ai-vm-devirtualization.html)|`2026-06-26 07:02:00`|`Anti-Cheat Bypass`|
