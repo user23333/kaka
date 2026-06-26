@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Animation system reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758612-animation-system-reversal.html)|`2026-06-27 03:01:00`|`Counter-Strike 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-27 03:00:00`|`Escape from Tarkov`|
+|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-06-27 02:59:00`|`Counter-Strike 2 Releases`|
+|[Meccha Chameleon internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757944-meccha-chameleon-internal-esp.html)|`2026-06-27 02:58:00`|`Other Games`|
+|[:439: For ALL API provider&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759158-439-api-provider.html)|`2026-06-27 02:56:00`|`Valorant`|
+|[should uc allow cracked cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/759459-uc-allow-cracked-cheats.html)|`2026-06-27 02:49:00`|`Forum General`|
+|[GeoGuesser Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/753183-geoguesser-helper.html)|`2026-06-27 02:43:00`|`Other Software`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-06-27 02:41:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-27 01:15:00`|`Rust`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-06-27 01:14:00`|`DayZ SA`|
 |[HWID spoofer guide &#124; every game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/659691-hwid-spoofer-guide-game.html)|`2026-06-27 01:14:00`|`Forum General`|
