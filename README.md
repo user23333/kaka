@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meccha Chameleon &#124; Gimzzy's Mecha Internal V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758677-meccha-chameleon-gimzzys-mecha-internal-v1-0-a.html)|`2026-06-26 12:29:00`|`Other Games`|
+|[&#91;Y7S3 updated&#93; Rainbow Six Siege Logitech No recoil lua script &#40;all operators&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/514341-y7s3-updated-rainbow-six-siege-logitech-recoil-lua-script-operators.html)|`2026-06-26 12:25:00`|`Rainbow Six Siege`|
+|[TBH God Editor &#40;v1&#46;00&#46;20&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758846-tbh-god-editor-v1-00-20-a.html)|`2026-06-26 12:25:00`|`Other Games`|
+|[Spike Unique Id?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759337-spike-unique-id.html)|`2026-06-26 12:23:00`|`Valorant`|
+|[Terraria External v1&#46;4&#46;5&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756815-terraria-external-v1-4-5-6-a.html)|`2026-06-26 12:11:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-06-26 12:07:00`|`Rust`|
+|[TBH: Task Bar Hero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754735-tbh-task-bar-hero.html)|`2026-06-26 12:00:00`|`Other Games`|
 |[Ban evade/alt detection &#91;removed&#93;RP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758903-ban-evade-alt-detection-removed-rp.html)|`2026-06-26 08:15:00`|`Garry's Mod`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-06-26 08:14:00`|`Other FPS Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-06-26 08:13:00`|`Grand Theft Auto V`|
