@@ -24,9 +24,18 @@
 |33|[New DBD SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55799)|`2026-06-26 02:07:05`|
 |111|[VALORANT&#45;Win64&#45;Shipping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55798)|`2026-06-26 02:07:05`|
 |407|[TBH&#95;Bypass&#95;v5&#46;1&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55797)|`2026-06-26 02:07:05`|
+|126|[ParzPainter&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55836)|`2026-06-26 16:18:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Gateway AUTH&#95;REQUEST — 400 Bad Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759362-vanguard-gateway-auth_request-400-bad-request.html)|`2026-06-26 16:09:00`|`Valorant`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-06-26 16:09:00`|`Other Games`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2026-06-26 16:01:00`|`Payday 3`|
+|[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-06-26 15:59:00`|`Other FPS Games`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-06-26 15:57:00`|`Other Games`|
+|[Looking For a spoofer that works with VM’s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759177-looking-spoofer-vm.html)|`2026-06-26 15:54:00`|`Anti-Cheat Bypass`|
+|[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-06-26 15:50:00`|`Other Games`|
+|[That's a real shame&#46; I used the jitter well](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758818-thats-real-shame-jitter.html)|`2026-06-26 15:50:00`|`Apex Legends`|
 |[Meccha Chameleon &#124; Gimzzy's Mecha Internal V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758677-meccha-chameleon-gimzzys-mecha-internal-v1-0-a.html)|`2026-06-26 12:29:00`|`Other Games`|
 |[&#91;Y7S3 updated&#93; Rainbow Six Siege Logitech No recoil lua script &#40;all operators&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/514341-y7s3-updated-rainbow-six-siege-logitech-recoil-lua-script-operators.html)|`2026-06-26 12:25:00`|`Rainbow Six Siege`|
 |[TBH God Editor &#40;v1&#46;00&#46;20&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758846-tbh-god-editor-v1-00-20-a.html)|`2026-06-26 12:25:00`|`Other Games`|
