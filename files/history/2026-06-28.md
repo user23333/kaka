@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-06-28 06:08:00`|`Overwatch`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-06-28 06:02:00`|`Other Games`|
+|[Brawlhalla crossovers unlock all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758456-brawlhalla-crossovers-unlock.html)|`2026-06-28 05:58:00`|`Other Games`|
+|[should uc allow cracked cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/759459-uc-allow-cracked-cheats.html)|`2026-06-28 05:29:00`|`Forum General`|
+|[Driver Mapper Need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759324-driver-mapper.html)|`2026-06-28 05:22:00`|`Call of Duty: Black Ops 7`|
+|[i want to learn about cheating on a usb stick then on a phone in cod?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759486-learn-cheating-usb-stick-phone-cod.html)|`2026-06-28 05:19:00`|`Call of Duty: Black Ops 7`|
 |[which injector do i use for injecting rs/sleepy internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/759498-injector-injecting-rs-sleepy-internal.html)|`2026-06-28 05:02:00`|`Overwatch`|
 |[particle system](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759657-particle-system.html)|`2026-06-28 04:59:00`|`Counter-Strike 2`|
 |[Ultimate God Editor &#40;Last Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759653-ultimate-god-editor-version.html)|`2026-06-28 04:56:00`|`Other Games`|
