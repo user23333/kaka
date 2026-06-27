@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-06-27 20:55:00`|`Team Fortress 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-06-27 20:54:00`|`Palworld`|
+|[CS2 VFunc Calls by VTable Index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759549-cs2-vfunc-calls-vtable-index.html)|`2026-06-27 20:50:00`|`Counter-Strike 2`|
+|[Meccha Chameleon &#124; Gimzzy's Mecha Internal V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758677-meccha-chameleon-gimzzys-mecha-internal-v1-0-a.html)|`2026-06-27 20:49:00`|`Other Games`|
+|[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-27 20:49:00`|`Other Games`|
 |[Retrieve current FiveM Build &#40;via static offset&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751563-retrieve-current-fivem-build-via-static-offset.html)|`2026-06-27 19:49:00`|`Alternative Online Mods`|
 |[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-06-27 19:49:00`|`Anti-Cheat Bypass`|
 |[The isle evrima dll &#42;PUBLIC&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759496-isle-evrima-dll-public.html)|`2026-06-27 19:48:00`|`Other FPS Games`|
