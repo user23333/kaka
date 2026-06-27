@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla offsets &#124; pos, vel, damage, inputs, and general gamestate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/742782-brawlhalla-offsets-pos-vel-damage-inputs-gamestate.html)|`2026-06-27 23:39:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-06-27 23:29:00`|`Other FPS Games`|
+|[Current meta for undetected & compatible overlays on Win10/Win11? &#40;No hijacking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759289-current-meta-undetected-compatible-overlays-win10-win11-hijacking.html)|`2026-06-27 23:22:00`|`Anti-Cheat Bypass`|
 |[Bunnyhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758345-bunnyhop.html)|`2026-06-27 22:26:00`|`Counter-Strike 2`|
 |[Russian Fishing 4 &#124; Insta Reel Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759499-russian-fishing-4-insta-reel-fish.html)|`2026-06-27 22:26:00`|`Other Games`|
 |[Chameleon internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759265-chameleon-internal.html)|`2026-06-27 22:22:00`|`Other Games`|
