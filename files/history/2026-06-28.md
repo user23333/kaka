@@ -11,6 +11,7 @@
 |32|[Anybrain AI Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758540-anybrain-ai-anti-cheat.html)|`2026-06-28 00:47:35`|`rust`|
 |18|[Coloruino &#45; DXGI colorbot &#43; triggerbot &#43; silent aim for Valorant &#40;1PC &#43; Optional 2PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758404-coloruino-dxgi-colorbot-triggerbot-silent-aim-valorant-1pc-optional-2pc.html)|`2026-06-28 00:47:35`|`valorant`|
 |18|[Meccha Chameleon Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758509-meccha-chameleon-reversal-structs-offsets.html)|`2026-06-28 00:47:35`|`other-fps-games`|
+|31|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-06-28 01:47:00`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-06-28 01:46:00`|`Call of Duty: Black Ops 7`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-06-28 01:45:00`|`Other Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-28 01:43:00`|`Counter-Strike 2`|
+|[What’s The Plans For Sunday UNKNOWNCHEATERS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/758571-plans-sunday-unknowncheaters.html)|`2026-06-28 01:42:00`|`Off Topic`|
+|[Which stores do you usually use to buy Steam keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/758388-stores-usually-buy-steam-keys.html)|`2026-06-28 01:41:00`|`Off Topic`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-28 01:40:00`|`Escape from Tarkov`|
+|[Current meta for undetected & compatible overlays on Win10/Win11? &#40;No hijacking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759289-current-meta-undetected-compatible-overlays-win10-win11-hijacking.html)|`2026-06-28 01:40:00`|`Anti-Cheat Bypass`|
+|[Map driver before vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759375-map-driver-vanguard.html)|`2026-06-28 01:39:00`|`Valorant`|
+|[will there be any undetectable cheat as good as AHK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759535-undetectable-cheat-ahk.html)|`2026-06-28 01:38:00`|`Valorant`|
 |[Chameleon internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759265-chameleon-internal.html)|`2026-06-28 00:46:00`|`Other Games`|
 |[Depth Testing Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759588-depth-testing-visuals.html)|`2026-06-28 00:45:00`|`Counter-Strike 2`|
 |[How can I bypass Nexora / Ocean?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759625-bypass-nexora-ocean.html)|`2026-06-28 00:42:00`|`Alternative Online Mods`|
