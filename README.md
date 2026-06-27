@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what does r6 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759561-r6-ban.html)|`2026-06-27 18:19:00`|`Rainbow Six Siege`|
+|[how to get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759548-started.html)|`2026-06-27 18:17:00`|`Grand Theft Auto V`|
+|[Apex legend jitter aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758331-apex-legend-jitter-aim.html)|`2026-06-27 18:14:00`|`Apex Legends`|
+|[Coloruino &#45; DXGI colorbot &#43; triggerbot &#43; silent aim for Valorant &#40;1PC &#43; Optional 2PC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758404-coloruino-dxgi-colorbot-triggerbot-silent-aim-valorant-1pc-optional-2pc.html)|`2026-06-27 18:14:00`|`Valorant`|
+|[TBH : Task Bar Hero cheat engine 1&#46;00&#46;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759505-tbh-task-bar-hero-cheat-engine-1-00-20-a.html)|`2026-06-27 18:14:00`|`Other Games`|
 |[Vanguard Gateway AUTH&#95;REQUEST — 400 Bad Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759362-vanguard-gateway-auth_request-400-bad-request.html)|`2026-06-27 16:18:00`|`Valorant`|
 |[&#91;Coding&#93; Special Force Reversal, Structs and Offsets Part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759547-coding-special-force-reversal-structs-offsets-2-a.html)|`2026-06-27 16:16:00`|`Other FPS Games`|
 |[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-06-27 16:04:00`|`Other Games`|
