@@ -24,9 +24,16 @@
 |155|[VALORANT Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55804)|`2026-06-27 01:16:32`|
 |37|[EACDUMP62326&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55803)|`2026-06-27 01:16:32`|
 |38|[New DBD SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55799)|`2026-06-27 01:16:32`|
+|8|[Mechamelon&#95;Trainer&#95;Portable&#95;1&#46;8&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55831)|`2026-06-27 19:50:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Retrieve current FiveM Build &#40;via static offset&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751563-retrieve-current-fivem-build-via-static-offset.html)|`2026-06-27 19:49:00`|`Alternative Online Mods`|
+|[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-06-27 19:49:00`|`Anti-Cheat Bypass`|
+|[The isle evrima dll &#42;PUBLIC&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759496-isle-evrima-dll-public.html)|`2026-06-27 19:48:00`|`Other FPS Games`|
+|[&#91; FiveM &#93; &#45; Making yourself invisible without natvies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759563-fivem-yourself-invisible-natvies.html)|`2026-06-27 19:42:00`|`Alternative Online Mods`|
+|[Meccha Chameleon Internal Discreetly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758648-meccha-chameleon-internal-discreetly.html)|`2026-06-27 19:37:00`|`Other Games`|
+|[FRIENDLYHACK&#33;&#33;&#33;&#33;&#33;&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/641237-friendlyhack.html)|`2026-06-27 19:31:00`|`Garry's Mod`|
 |[what does r6 ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759561-r6-ban.html)|`2026-06-27 18:19:00`|`Rainbow Six Siege`|
 |[how to get started](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759548-started.html)|`2026-06-27 18:17:00`|`Grand Theft Auto V`|
 |[Apex legend jitter aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758331-apex-legend-jitter-aim.html)|`2026-06-27 18:14:00`|`Apex Legends`|
