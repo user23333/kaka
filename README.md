@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Gateway AUTH&#95;REQUEST — 400 Bad Request](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759362-vanguard-gateway-auth_request-400-bad-request.html)|`2026-06-27 16:18:00`|`Valorant`|
+|[&#91;Coding&#93; Special Force Reversal, Structs and Offsets Part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759547-coding-special-force-reversal-structs-offsets-2-a.html)|`2026-06-27 16:16:00`|`Other FPS Games`|
+|[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-06-27 16:04:00`|`Other Games`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-06-27 16:02:00`|`HELLDIVERS 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-06-27 16:01:00`|`Other FPS Games`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-06-27 13:52:00`|`Rainbow Six Siege`|
 |[Magic bullet ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/758408-magic-bullet.html)|`2026-06-27 13:49:00`|`Escape from Tarkov`|
 |[How can I update Schema System?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758983-update-schema-system.html)|`2026-06-27 13:47:00`|`Counter-Strike 2`|
