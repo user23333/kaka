@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-06-27 09:53:00`|`Garry's Mod`|
+|[help with reversing Counter Strike&#45;Source 64bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/759316-help-reversing-counter-strike-source-64bit.html)|`2026-06-27 09:46:00`|`Programming for Beginners`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-06-27 09:41:00`|`Other FPS Games`|
+|[Internal cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/611723-internal-cheese.html)|`2026-06-27 09:40:00`|`Payday 3`|
+|[joke of the day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/748672-joke-day.html)|`2026-06-27 09:26:00`|`Forum General`|
+|[My Universal Recoil App &#45; Recoiless](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/753963-universal-recoil-app-recoiless.html)|`2026-06-27 09:24:00`|`Forum General`|
+|[HOW TO JITTER AIM IN 2026 razer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/759360-jitter-aim-2026-razer.html)|`2026-06-27 09:24:00`|`Apex Legends`|
+|[Possible data leak?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/752133-data-leak.html)|`2026-06-27 09:15:00`|`Forum General`|
+|[skybox changer dosent work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758954-skybox-changer-dosent.html)|`2026-06-27 09:04:00`|`Counter-Strike 2`|
 |[Screen&#45;based YOLO detection for aim assist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758568-screen-based-yolo-detection-aim-assist.html)|`2026-06-27 07:54:00`|`Counter-Strike 2`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-06-27 07:52:00`|`Other FPS Games`|
 |[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-06-27 07:52:00`|`Overwatch`|
