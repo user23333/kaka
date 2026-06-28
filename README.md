@@ -13,6 +13,7 @@
 |18|[Meccha Chameleon Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758509-meccha-chameleon-reversal-structs-offsets.html)|`2026-06-28 00:47:35`|`other-fps-games`|
 |31|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-06-28 01:47:00`|`counter-strike-2-releases`|
 |33|[VALORANT EMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758457-valorant-emu.html)|`2026-06-28 05:07:11`|`valorant`|
+|14|[Meccha Chameleon Internal Discreetly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758648-meccha-chameleon-internal-discreetly.html)|`2026-06-28 16:12:53`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Subtick Bhop speed lost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759709-subtick-bhop-speed-lost.html)|`2026-06-28 16:11:00`|`Counter-Strike 2`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-06-28 16:06:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-06-28 16:01:00`|`Apex Legends`|
+|[custom paintkit colors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754206-custom-paintkit-colors.html)|`2026-06-28 15:53:00`|`Counter-Strike 2`|
+|[Knife Animation Sequences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759497-knife-animation-sequences.html)|`2026-06-28 15:53:00`|`Counter-Strike 2`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-28 12:42:00`|`Other FPS Games`|
 |[TBH Persistent Reward Item Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758547-tbh-persistent-reward-item-generator.html)|`2026-06-28 12:27:00`|`Other Games`|
 |[NarcosLifeRP Arma Reforger MONEY/GUNS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/754586-narcosliferp-arma-reforger-money-guns.html)|`2026-06-28 12:16:00`|`ARMA 3`|
