@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get more buyers for my external Cheat &#45; Rust?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/759754-buyers-external-cheat-rust.html)|`2026-06-29 01:48:00`|`Rust`|
+|[Ultimate God Editor &#40;Last Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759653-ultimate-god-editor-version.html)|`2026-06-29 01:46:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-06-29 01:41:00`|`Overwatch`|
+|[need advice regarding themida](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/759758-advice-regarding-themida.html)|`2026-06-29 01:38:00`|`General Programming and Reversing`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-06-29 01:32:00`|`Escape from Tarkov`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-06-29 01:26:00`|`Scum`|
+|[Axera BO3 ZM Trainer &#40; External &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/495431-axera-bo3-zm-trainer-external.html)|`2026-06-29 01:24:00`|`Call of Duty: Black Ops 3`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-06-29 00:44:00`|`Other FPS Games`|
 |[IDA Dumping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/757147-ida-dumping.html)|`2026-06-29 00:43:00`|`Call of Duty: Black Ops 2`|
 |[League of Legends Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757296-league-legends-offsets.html)|`2026-06-29 00:40:00`|`League of Legends`|
