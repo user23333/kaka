@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-28 12:42:00`|`Other FPS Games`|
+|[TBH Persistent Reward Item Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758547-tbh-persistent-reward-item-generator.html)|`2026-06-28 12:27:00`|`Other Games`|
+|[NarcosLifeRP Arma Reforger MONEY/GUNS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/754586-narcosliferp-arma-reforger-money-guns.html)|`2026-06-28 12:16:00`|`ARMA 3`|
+|[DID EAC ADD A NEW HARDWARE IDENTIFIER?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759136-eac-add-hardware-identifier.html)|`2026-06-28 12:16:00`|`Anti-Cheat Bypass`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-06-28 12:08:00`|`Other FPS Games`|
+|[Smite 1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750521-smite-1-internal.html)|`2026-06-28 12:04:00`|`Other FPS Games`|
 |[FiveM Spoofing / Serials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759677-fivem-spoofing-serials.html)|`2026-06-28 08:13:00`|`Alternative Online Mods`|
 |[Division 2 Cheats updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759393-division-2-cheats-updating.html)|`2026-06-28 08:11:00`|`Tom Clancy's The Division`|
 |[Internal Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759675-internal-loader.html)|`2026-06-28 08:06:00`|`Valorant`|
