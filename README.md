@@ -11,6 +11,7 @@
 |14|[Animation system reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758612-animation-system-reversal.html)|`2026-06-29 00:44:17`|`counter-strike-2-a`|
 |19|[:439: For ALL API provider&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759158-439-api-provider.html)|`2026-06-29 00:44:17`|`valorant`|
 |19|[TBH Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759167-tbh-ban.html)|`2026-06-29 00:44:17`|`other-games`|
+|11|[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-06-29 06:12:39`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-06-29 06:12:00`|`HELLDIVERS 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-06-29 06:10:00`|`Counter-Strike 2`|
+|[TBH &#45; Save Editor &#40;decorations, engraving, inscriptions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758708-tbh-save-editor-decorations-engraving-inscriptions.html)|`2026-06-29 06:09:00`|`Other Games`|
+|[The First Descendant &#45; TFD Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/705870-descendant-tfd-helper.html)|`2026-06-29 06:05:00`|`Other FPS Games`|
+|[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-06-29 06:04:00`|`Other MMORPG and Strategy`|
+|[esp boxes messed up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759699-esp-boxes-messed.html)|`2026-06-29 06:04:00`|`Call of Duty: Black Ops 7`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-29 05:59:00`|`Other FPS Games`|
+|[seed not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759797-seed.html)|`2026-06-29 05:59:00`|`Counter-Strike 2`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-06-29 05:00:00`|`Other FPS Games`|
 |[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-29 04:56:00`|`Other Games`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-06-29 04:53:00`|`Other Games`|
