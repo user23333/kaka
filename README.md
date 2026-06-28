@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Spoofing / Serials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759677-fivem-spoofing-serials.html)|`2026-06-28 08:13:00`|`Alternative Online Mods`|
+|[Division 2 Cheats updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759393-division-2-cheats-updating.html)|`2026-06-28 08:11:00`|`Tom Clancy's The Division`|
+|[Internal Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759675-internal-loader.html)|`2026-06-28 08:06:00`|`Valorant`|
+|[help w/ rust internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758335-help-rust-internal.html)|`2026-06-28 08:05:00`|`Rust`|
+|[League of Legends Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757296-league-legends-offsets.html)|`2026-06-28 08:04:00`|`League of Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-06-28 07:05:00`|`Other MMORPG and Strategy`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-06-28 07:01:00`|`Other FPS Games`|
 |[Soul Land: Awakening World &#40;Dump GameAssembly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756394-soul-land-awakening-world-dump-gameassembly.html)|`2026-06-28 07:01:00`|`Other MMORPG and Strategy`|
