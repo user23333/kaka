@@ -35,9 +35,16 @@
 |4|[val&#45;latest&#45;sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55849)|`2026-06-29 14:17:40`|
 |2|[R6S LUA NO RECOIL FOR LOGITECH v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55905)|`2026-06-29 19:24:44`|
 |6|[R6S LUA NO RECOIL FOR LOGITECH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55898)|`2026-06-29 19:24:44`|
+|9|[Overlay&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55914)|`2026-06-29 22:53:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGC Bypass method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759841-vgc-bypass-method.html)|`2026-06-29 22:53:00`|`Valorant`|
+|[enigma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759491-enigma.html)|`2026-06-29 22:49:00`|`Counter-Strike 2`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-06-29 22:47:00`|`Escape from Tarkov`|
+|[BO2 Plutonium &#45; Simple Aimbot & Chams source &#43; dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/759883-bo2-plutonium-simple-aimbot-chams-source-dll.html)|`2026-06-29 22:44:00`|`Call of Duty: Black Ops 2`|
+|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-06-29 22:43:00`|`Anti-Cheat Bypass`|
+|[triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759740-triggerbot.html)|`2026-06-29 22:42:00`|`Alternative Online Mods`|
 |[Aimbot/Esp Very &#91;removed&#93; How FIx?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759813-aimbot-esp-removed-fix.html)|`2026-06-29 19:22:00`|`Alternative Online Mods`|
 |[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-06-29 19:17:00`|`Anti-Cheat Bypass`|
 |[External Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759856-external-issues.html)|`2026-06-29 19:03:00`|`Valorant`|
