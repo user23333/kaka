@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Getting banned without &#40;or with?&#41; HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759874-getting-banned-hwid-ban.html)|`2026-06-30 07:05:00`|`Valorant`|
+|[Any working medals cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/758322-medals-cheat.html)|`2026-06-30 07:04:00`|`HELLDIVERS 2`|
+|[mouse hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759392-mouse-hypervisor.html)|`2026-06-30 07:03:00`|`Anti-Cheat Bypass`|
+|[What's the best mapper right now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/758679-whats-mapper.html)|`2026-06-30 07:02:00`|`Anti-Cheat Bypass`|
+|[TBH Persistent Reward Item Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758547-tbh-persistent-reward-item-generator.html)|`2026-06-30 06:51:00`|`Other Games`|
+|[Anybrain AI Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758540-anybrain-ai-anti-cheat.html)|`2026-06-30 06:40:00`|`Rust`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-06-30 06:35:00`|`HELLDIVERS 2`|
 |[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-06-30 06:04:00`|`Other Games`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-06-30 05:56:00`|`Deadlock`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-06-30 05:45:00`|`Overwatch`|
