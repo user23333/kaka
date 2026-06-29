@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Anti&#45;Cheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756546-tbh-anti-cheat-bypass.html)|`2026-06-30 04:57:00`|`Other Games`|
+|[How to Block Screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/757515-block-screenshots.html)|`2026-06-30 04:54:00`|`Alternative Online Mods`|
+|[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2026-06-30 04:53:00`|`Call of Duty 4: Modern Warfare`|
+|[Decoupling local player from CViewSetup in thirdperson](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759919-decoupling-local-player-cviewsetup-thirdperson.html)|`2026-06-30 04:50:00`|`Counter-Strike 2`|
+|[Offsets dumper for Linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759734-offsets-dumper-linux.html)|`2026-06-30 04:48:00`|`Counter-Strike 2`|
+|[&#91;Internal&#93; Foenem Menu &#45; FPV Kamikaze Drone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/747090-internal-foenem-menu-fpv-kamikaze-drone.html)|`2026-06-30 04:46:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-06-30 04:41:00`|`ARC Raiders`|
+|[CS2 VFunc Calls by VTable Index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759549-cs2-vfunc-calls-vtable-index.html)|`2026-06-30 04:41:00`|`Counter-Strike 2`|
+|[Claude Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/759907-claude-help.html)|`2026-06-30 04:36:00`|`Forum General`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-06-30 04:31:00`|`Other Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-06-30 03:16:00`|`Other FPS Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-06-30 03:14:00`|`DayZ SA`|
 |[help me with no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759896-help-spread.html)|`2026-06-30 03:14:00`|`Counter-Strike 2`|
