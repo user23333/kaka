@@ -25,9 +25,19 @@
 |5|[5&#46;5&#46;4&#45;266845&#43;&#43;&#43;FTW&#43;Feature&#45;SquadQuests&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55861)|`2026-07-01 01:27:07`|
 |364|[TBH&#95;Bypass&#95;v6&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55855)|`2026-07-01 01:27:07`|
 |58|[EgguWare&#95;V16 &#91;unknowncheats&#46;me&#93;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55853)|`2026-07-01 01:27:07`|
+|2|[ABI&#95;SDK&#95;30&#46;06&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55940)|`2026-07-01 07:38:56`|
+|1|[Delta Force S10 Sdk Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55937)|`2026-07-01 07:38:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Writing hypervisors with AI assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/758900-writing-hypervisors-ai-assistance.html)|`2026-07-01 07:38:00`|`Anti-Cheat Bypass`|
+|[The Division 2 &#45; Reflection Lite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759117-division-2-reflection-lite.html)|`2026-07-01 07:38:00`|`Tom Clancy's The Division`|
+|[adhesive "stackwalk"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760073-adhesive-stackwalk.html)|`2026-07-01 07:36:00`|`Alternative Online Mods`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-01 07:30:00`|`Overwatch`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-01 07:26:00`|`Escape from Tarkov`|
+|[Rainbow six Siege no recoil program &#42;DETECTED&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752281-rainbow-six-siege-recoil-program-detected.html)|`2026-07-01 07:25:00`|`Rainbow Six Siege`|
+|[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-01 07:20:00`|`Rust`|
+|[hey guys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/759977-hey-guys.html)|`2026-07-01 07:17:00`|`Introductions`|
 |[Wallhack Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/759823-wallhack-issue.html)|`2026-07-01 06:16:00`|`Garry's Mod`|
 |[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-07-01 06:14:00`|`Valorant`|
 |[undetectable money loops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759098-undetectable-money-loops.html)|`2026-07-01 06:10:00`|`Grand Theft Auto V`|
