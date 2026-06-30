@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALO Hybrid Colorbot V9 &#40;External &#124; Dual FOV &#124; Box Merging&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/738899-valo-hybrid-colorbot-v9-external-dual-fov-box-merging.html)|`2026-06-30 23:38:00`|`Valorant`|
+|[GET /v1/pioneer/inventory returns 500 "internal error"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757936-v1-pioneer-inventory-returns-500-internal-error.html)|`2026-06-30 23:37:00`|`ARC Raiders`|
+|[Deceit 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742803-deceit-2-internal.html)|`2026-06-30 23:30:00`|`Other FPS Games`|
+|[TBH Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759167-tbh-ban.html)|`2026-06-30 23:30:00`|`Other Games`|
+|[External Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759856-external-issues.html)|`2026-06-30 23:22:00`|`Valorant`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-06-30 23:20:00`|`Scum`|
+|[Wallhack Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/759823-wallhack-issue.html)|`2026-06-30 23:13:00`|`Garry's Mod`|
 |[Question about RAID volumes and HDD/SSD serial numbers detected by Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759658-question-raid-volumes-hdd-ssd-serial-detected-vanguard.html)|`2026-06-30 21:12:00`|`Valorant`|
 |[&#91;External&#93; Meccha Chameleon ESP &#45; External Overlay &#124; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758412-external-meccha-chameleon-esp-external-overlay-undetected.html)|`2026-06-30 21:08:00`|`Other Games`|
 |[Subtick Bhop speed lost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759709-subtick-bhop-speed-lost.html)|`2026-06-30 20:51:00`|`Counter-Strike 2`|
