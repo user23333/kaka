@@ -12,6 +12,7 @@
 |8|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759276-meccha-chameleon.html)|`2026-06-30 01:24:33`|`other-games`|
 |19|[:439: For ALL API provider&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759158-439-api-provider.html)|`2026-06-30 01:24:33`|`valorant`|
 |8|[The Division 2 &#45; Reflection Lite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759117-division-2-reflection-lite.html)|`2026-06-30 12:34:48`|`tom-clancy-s-the-division`|
+|11|[Subtick bhop source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759116-subtick-bhop-source.html)|`2026-06-30 21:15:56`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question about RAID volumes and HDD/SSD serial numbers detected by Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759658-question-raid-volumes-hdd-ssd-serial-detected-vanguard.html)|`2026-06-30 21:12:00`|`Valorant`|
+|[&#91;External&#93; Meccha Chameleon ESP &#45; External Overlay &#124; Undetected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758412-external-meccha-chameleon-esp-external-overlay-undetected.html)|`2026-06-30 21:08:00`|`Other Games`|
+|[Subtick Bhop speed lost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759709-subtick-bhop-speed-lost.html)|`2026-06-30 20:51:00`|`Counter-Strike 2`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-06-30 20:51:00`|`Anti-Cheat Bypass`|
+|[undetectable money loops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759098-undetectable-money-loops.html)|`2026-06-30 20:43:00`|`Grand Theft Auto V`|
+|[TBH Trainer v1&#46;4&#46;0 &#45; Updated for Game v1&#46;00&#46;13](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758026-tbh-trainer-v1-4-0-updated-game-v1-00-13-a.html)|`2026-06-30 20:41:00`|`Other Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-06-30 19:12:00`|`Other FPS Games`|
 |[Halo Reach Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/759997-halo-reach-internal.html)|`2026-06-30 19:12:00`|`Halo`|
 |[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-06-30 19:04:00`|`Valorant`|
