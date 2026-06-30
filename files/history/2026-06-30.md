@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cube 2 Fly HAck in C&#35;&#33; Beginner level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/759947-cube-2-fly-hack-beginner-level.html)|`2026-06-30 08:11:00`|`Programming for Beginners`|
+|[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-06-30 07:52:00`|`Other Games`|
+|[Meccha Chameleon Aimbot/ESP/Exploits &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759850-meccha-chameleon-aimbot-esp-exploits-source.html)|`2026-06-30 07:47:00`|`Other Games`|
+|[Meccha Chameleon &#124; Gimzzy's Mecha Internal V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758677-meccha-chameleon-gimzzys-mecha-internal-v1-0-a.html)|`2026-06-30 07:46:00`|`Other Games`|
+|[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-06-30 07:46:00`|`Other Games`|
+|[Gears of War Redux — Internal ESP / Aimbot / Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758522-gears-war-redux-internal-esp-aimbot-trainer.html)|`2026-06-30 07:22:00`|`Other Games`|
+|[Pokemon MMO 3D External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756928-pokemon-mmo-3d-external.html)|`2026-06-30 07:20:00`|`Other MMORPG and Strategy`|
 |[Getting banned without &#40;or with?&#41; HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759874-getting-banned-hwid-ban.html)|`2026-06-30 07:05:00`|`Valorant`|
 |[Any working medals cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/758322-medals-cheat.html)|`2026-06-30 07:04:00`|`HELLDIVERS 2`|
 |[mouse hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759392-mouse-hypervisor.html)|`2026-06-30 07:03:00`|`Anti-Cheat Bypass`|
