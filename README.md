@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-07-01 04:51:00`|`Counter-Strike 2 Releases`|
+|[Overwatch 2 Fack Critical Hit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/758477-overwatch-2-fack-critical-hit.html)|`2026-07-01 04:51:00`|`Overwatch`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-01 04:47:00`|`Overwatch`|
+|[Undetected external cheat for Polygon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758051-undetected-external-cheat-polygon.html)|`2026-07-01 04:47:00`|`Other FPS Games`|
+|[cs2 bhop stops on thin surfaces / flat ground — obs&#45;drop false positive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760037-cs2-bhop-stops-thin-surfaces-flat-ground-obs-drop-false-positive.html)|`2026-07-01 04:40:00`|`Counter-Strike 2`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-07-01 04:30:00`|`Tom Clancy's The Division`|
 |[brawlhalla dodgebot &#40;source &#43; explanation&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753103-brawlhalla-dodgebot-source-explanation.html)|`2026-07-01 03:10:00`|`Other Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-07-01 03:09:00`|`Counter-Strike 2 Releases`|
 |[Call of Duty: Black Ops 1 Steam Offhost Mod Tool &#40;Redboxes, Blackbird & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/760025-call-duty-black-ops-1-steam-offhost-mod-tool-redboxes-blackbird.html)|`2026-07-01 03:08:00`|`Call of Duty: Black Ops`|
