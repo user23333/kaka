@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wallhack Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/759823-wallhack-issue.html)|`2026-07-01 06:16:00`|`Garry's Mod`|
+|[Suspicious Valorant Bans While Using DMA &#40;No HWID Ban&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748055-suspicious-valorant-bans-using-dma-hwid-ban.html)|`2026-07-01 06:14:00`|`Valorant`|
+|[undetectable money loops](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759098-undetectable-money-loops.html)|`2026-07-01 06:10:00`|`Grand Theft Auto V`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-07-01 06:06:00`|`Other MMORPG and Strategy`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-01 06:05:00`|`Other Games`|
+|[Colorbot Detected? &#40;No longer work&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759662-colorbot-detected.html)|`2026-07-01 06:04:00`|`Valorant`|
+|[vis check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760056-vis-check.html)|`2026-07-01 06:04:00`|`Call of Duty: Black Ops 7`|
 |[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-07-01 04:51:00`|`Counter-Strike 2 Releases`|
 |[Overwatch 2 Fack Critical Hit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/758477-overwatch-2-fack-critical-hit.html)|`2026-07-01 04:51:00`|`Overwatch`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-01 04:47:00`|`Overwatch`|
