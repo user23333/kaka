@@ -13,6 +13,7 @@
 |11|[Subtick bhop source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759116-subtick-bhop-source.html)|`2026-07-01 01:27:07`|`counter-strike-2-a`|
 |27|[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-07-01 03:15:16`|`anti-cheat-bypass`|
 |29|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-01 14:12:32`|`other-games`|
+|23|[Vanguard API Encryption / payload gen &#40;gateway&#41; &#45;&#45; paste ready, FULL SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760042-vanguard-api-encryption-payload-gen-gateway-paste-ready-source.html)|`2026-07-01 23:28:46`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Load customs &#46;ytd files for GTAV Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760194-load-customs-ytd-files-gtav-enhanced.html)|`2026-07-01 23:20:00`|`Grand Theft Auto V`|
+|[Valorant DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760174-valorant-dma.html)|`2026-07-01 23:20:00`|`Valorant`|
+|[Arena Breakout Infinite Elma V1 ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757750-arena-breakout-infinite-elma-v1-esp-dma.html)|`2026-07-01 23:17:00`|`Other FPS Games`|
+|[FragPunk Esp Aimbot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749603-fragpunk-esp-aimbot-internal.html)|`2026-07-01 23:03:00`|`Other FPS Games`|
+|[keychain positioning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760192-keychain-positioning.html)|`2026-07-01 23:01:00`|`Counter-Strike 2`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-07-01 23:00:00`|`Other MMORPG and Strategy`|
+|[EAC Driver Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/757973-eac-driver-source.html)|`2026-07-01 22:57:00`|`Tom Clancy's The Division`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-01 22:54:00`|`ARMA 3`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-01 20:39:00`|`Grand Theft Auto V`|
 |[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-07-01 20:37:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-01 20:35:00`|`Other Games`|
