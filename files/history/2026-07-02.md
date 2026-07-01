@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-07-02 04:53:00`|`Deadlock`|
+|[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-02 04:53:00`|`Rust`|
+|[mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760224-mouse-movement.html)|`2026-07-02 04:53:00`|`Valorant`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-02 04:51:00`|`Apex Legends`|
+|[How i make my usermode read GameAssembly&#46;dll and UnityPlayer&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/759750-usermode-read-gameassembly-dll-unityplayer-dll.html)|`2026-07-02 04:51:00`|`Rust`|
+|[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2026-07-02 04:45:00`|`Call of Duty: Modern Warfare II`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-02 04:40:00`|`Overwatch`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-07-02 04:28:00`|`Overwatch`|
 |[Rainbow six Siege no recoil program &#42;DETECTED&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/752281-rainbow-six-siege-recoil-program-detected.html)|`2026-07-02 03:11:00`|`Rainbow Six Siege`|
 |[what hooking method to use for gtaThreadTick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760237-hooking-method-gtathreadtick.html)|`2026-07-02 03:08:00`|`Alternative Online Mods`|
 |[Meccha Chameleon internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757944-meccha-chameleon-internal-esp.html)|`2026-07-02 03:06:00`|`Other Games`|
