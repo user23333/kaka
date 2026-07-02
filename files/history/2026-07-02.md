@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing GenTool Internally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/519094-bypassing-gentool-internally.html)|`2026-07-02 09:27:00`|`Generals and Zero Hour`|
+|[Cerberus &#45; key auth for &#46;NET programs &#40;hwid lock, signed requests, free base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/760280-cerberus-key-auth-net-programs-hwid-lock-signed-requests-free-base.html)|`2026-07-02 09:17:00`|`C#`|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-07-02 09:16:00`|`Apex Legends`|
+|[inject the DLL without being blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/760072-inject-dll-blocked.html)|`2026-07-02 09:15:00`|`League of Legends`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-07-02 09:14:00`|`DayZ SA`|
 |[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-07-02 07:35:00`|`Other Games`|
 |[🐟Fishing Planet🐟&#124;⚡IL2CPP Dump⚡&#124;✨20/6/2026 🐳](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758290-fishing-planet-il2cpp-dump-20-6-2026-a.html)|`2026-07-02 07:34:00`|`Other Games`|
 |[Fishing Plant &#45; internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758779-fishing-plant-internal-cheat.html)|`2026-07-02 07:33:00`|`Other Games`|
