@@ -33,9 +33,15 @@
 |5|[libanybrainSDK&#46;dylib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55994)|`2026-07-03 12:55:14`|
 |44|[riplock v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55983)|`2026-07-03 12:55:14`|
 |43|[Andromeda&#45;Deadlock &#40;Fixed June 30 patch&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55976)|`2026-07-03 12:55:14`|
+|2|[Aqueline&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56015)|`2026-07-03 15:53:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pixel reader & simple rotation bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/760542-pixel-reader-simple-rotation-bot.html)|`2026-07-03 15:48:00`|`Other MMORPG and Strategy`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-03 15:48:00`|`Other Games`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-07-03 15:16:00`|`Escape from Tarkov`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-07-03 15:14:00`|`Counter-Strike 2 Releases`|
+|[Vanguard API Encryption / payload gen &#40;gateway&#41; &#45;&#45; paste ready, FULL SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760042-vanguard-api-encryption-payload-gen-gateway-paste-ready-source.html)|`2026-07-03 15:00:00`|`Valorant`|
 |[Bongo Cat &#124; All Items / Infinite Click Address&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760300-bongo-cat-items-infinite-click-address.html)|`2026-07-03 12:45:00`|`Other Games`|
 |[Load customs &#46;ytd files for GTAV Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760194-load-customs-ytd-files-gtav-enhanced.html)|`2026-07-03 12:32:00`|`Grand Theft Auto V`|
 |[Unlinking an Rockstar account from Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760227-unlinking-rockstar-account-steam.html)|`2026-07-03 12:27:00`|`Grand Theft Auto V`|
