@@ -12,6 +12,7 @@
 |25|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-07-04 00:08:05`|`anti-cheat-bypass`|
 |87|[No&#45;Res Vanguard Bypass Method &#40;HTTP Debugger &#43; Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760338-res-vanguard-bypass-method-http-debugger-python.html)|`2026-07-04 00:08:05`|`valorant`|
 |20|[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-07-04 04:04:37`|`rainbow-six-siege`|
+|22|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-04 06:17:10`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-04 06:13:00`|`Deadlock`|
+|[what hooking method to use for gtaThreadTick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760237-hooking-method-gtathreadtick.html)|`2026-07-04 06:13:00`|`Alternative Online Mods`|
+|[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-07-04 06:05:00`|`Call of Duty: Black Ops 2`|
+|[Anti Cheat Expert &#40;ACE&#41; Injections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760646-anti-cheat-expert-ace-injections.html)|`2026-07-04 06:05:00`|`Anti-Cheat Bypass`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-04 06:00:00`|`Other FPS Games`|
 |[Wallhack Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/759823-wallhack-issue.html)|`2026-07-04 05:10:00`|`Garry's Mod`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-04 05:03:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-07-04 05:02:00`|`Other FPS Games`|
