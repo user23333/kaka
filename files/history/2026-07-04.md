@@ -25,9 +25,17 @@
 |13|[libanybrainSDK&#46;dylib](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55994)|`2026-07-04 00:08:05`|
 |12|[EgguWareV18&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=55993)|`2026-07-04 00:08:05`|
 |63|[TBH&#95;Bypass&#95;v6&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56034)|`2026-07-04 01:43:01`|
+|55|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56041)|`2026-07-04 02:49:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-07-04 02:45:00`|`Other Games`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-07-04 02:45:00`|`Deadlock`|
+|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-07-04 02:38:00`|`Tom Clancy's The Division`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-04 02:36:00`|`Other FPS Games`|
+|[Offsets 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760624-offsets-1-0-6-0-45949-a.html)|`2026-07-04 02:35:00`|`Escape from Tarkov`|
+|[Battleye 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760007-battleye-2026-a.html)|`2026-07-04 02:30:00`|`Anti-Cheat Bypass`|
+|[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760616-ragebot-missing.html)|`2026-07-04 02:28:00`|`Counter-Strike 2`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-04 01:41:00`|`Tom Clancy's The Division`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-07-04 01:36:00`|`Escape from Tarkov`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-04 01:35:00`|`Valorant`|
