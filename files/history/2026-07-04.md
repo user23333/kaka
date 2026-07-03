@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-04 07:25:00`|`Apex Legends`|
+|[TBH God Editor &#40;v1&#46;00&#46;20&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758846-tbh-god-editor-v1-00-20-a.html)|`2026-07-04 07:25:00`|`Other Games`|
+|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-07-04 07:24:00`|`Other Games`|
+|[UC file analyzers are liars and &#91;removed&#93;s&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/752809-uc-file-analyzers-liars-removed.html)|`2026-07-04 07:22:00`|`Off Topic`|
+|[Valorant DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760174-valorant-dma.html)|`2026-07-04 07:18:00`|`Valorant`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-04 07:16:00`|`Other MMORPG and Strategy`|
 |[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-04 06:13:00`|`Deadlock`|
 |[what hooking method to use for gtaThreadTick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760237-hooking-method-gtathreadtick.html)|`2026-07-04 06:13:00`|`Alternative Online Mods`|
 |[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-07-04 06:05:00`|`Call of Duty: Black Ops 2`|
