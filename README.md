@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-07-03 09:07:00`|`Call of Duty: Black Ops 2`|
+|[Spoofing keeps failing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760252-spoofing-failing.html)|`2026-07-03 09:06:00`|`Valorant`|
+|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747569-sons-forest-gibson-menu.html)|`2026-07-03 09:05:00`|`Other Games`|
+|[Pixel Gun 2 &#124; Internal &#124; Hyx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757991-pixel-gun-2-internal-hyx.html)|`2026-07-03 08:52:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-03 08:45:00`|`Apex Legends`|
+|[Report to lift the ban on the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760295-report-lift-ban-game.html)|`2026-07-03 08:41:00`|`ARC Raiders`|
+|[Help coding a rust esp external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760484-help-coding-rust-esp-external.html)|`2026-07-03 08:40:00`|`Rust`|
 |[Internal Injector And Esp Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760477-internal-injector-esp-issue.html)|`2026-07-03 07:33:00`|`Valorant`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-03 07:28:00`|`Other FPS Games`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-07-03 07:20:00`|`Deadlock`|
