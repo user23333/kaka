@@ -12,6 +12,7 @@
 |4|[Meccha Chameleon Aimbot/ESP/Exploits &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759850-meccha-chameleon-aimbot-esp-exploits-source.html)|`2026-07-03 01:04:55`|`other-games`|
 |16|[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-07-03 01:04:55`|`rainbow-six-siege`|
 |37|[Battleye 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760007-battleye-2026-a.html)|`2026-07-03 04:06:11`|`anti-cheat-bypass`|
+|84|[No&#45;Res Vanguard Bypass Method &#40;HTTP Debugger &#43; Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760338-res-vanguard-bypass-method-http-debugger-python.html)|`2026-07-03 22:34:20`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-03 22:28:00`|`Other Games`|
+|[Gems Of War 8&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/702434-gems-war-8-5-a.html)|`2026-07-03 22:26:00`|`Cheat Engine Tables`|
+|[EAC fingerprinting via Intel IGD OpRegion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760177-eac-fingerprinting-via-intel-igd-opregion.html)|`2026-07-03 22:24:00`|`Anti-Cheat Bypass`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-03 22:17:00`|`Other Games`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-03 22:16:00`|`Other MMORPG and Strategy`|
 |[Meccha Chameleon &#124; Gimzzy's Mecha Internal V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758677-meccha-chameleon-gimzzys-mecha-internal-v1-0-a.html)|`2026-07-03 20:15:00`|`Other Games`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-07-03 20:11:00`|`Other FPS Games`|
 |[Celex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/760570-celex-external.html)|`2026-07-03 20:09:00`|`Roblox`|
