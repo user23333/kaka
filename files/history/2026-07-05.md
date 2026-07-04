@@ -28,9 +28,16 @@
 |2|[external sdk dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56060)|`2026-07-05 06:10:37`|
 |4|[EFT&#95;Item&#95;ID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56052)|`2026-07-05 06:10:37`|
 |0|[Offsets 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56042)|`2026-07-05 06:10:37`|
+|16|[VITTLOCK 1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56059)|`2026-07-05 07:10:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pSilent &#45; Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760821-psilent-guide.html)|`2026-07-05 07:07:00`|`Deadlock`|
+|[What are EAC's delayed/periodic checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756171-eacs-delayed-periodic-checks.html)|`2026-07-05 07:05:00`|`Anti-Cheat Bypass`|
+|[color ahk script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757542-color-ahk-script.html)|`2026-07-05 06:57:00`|`Call of Duty: Black Ops 7`|
+|[vmp imm failure &#40;battleye example&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760113-vmp-imm-failure-battleye-example.html)|`2026-07-05 06:51:00`|`Anti-Cheat Bypass`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-07-05 06:50:00`|`Other FPS Games`|
+|[Can the "Unlock Everything" Lua script be used on the Enhanced version?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760713-unlock-lua-script-enhanced-version.html)|`2026-07-05 06:49:00`|`Grand Theft Auto V`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-05 06:06:00`|`Other Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-05 06:04:00`|`Other FPS Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-05 05:53:00`|`Other FPS Games`|
