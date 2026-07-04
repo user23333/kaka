@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Writing hypervisors with AI assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/758900-writing-hypervisors-ai-assistance.html)|`2026-07-04 22:46:00`|`Forum General`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-04 22:36:00`|`Counter-Strike 2`|
+|[How to get unbanned in GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760083-unbanned-gta-online.html)|`2026-07-04 22:31:00`|`Grand Theft Auto V`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-07-04 21:42:00`|`Counter-Strike 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-04 21:40:00`|`Apex Legends`|
 |[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-07-04 21:22:00`|`Anti-Cheat Bypass`|
