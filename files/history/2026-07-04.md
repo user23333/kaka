@@ -31,9 +31,17 @@
 |55|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56041)|`2026-07-04 02:49:27`|
 |8|[R6 DirectML Aim Source v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56057)|`2026-07-04 21:56:26`|
 |12|[R6 DirectML Aim Binary v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56056)|`2026-07-04 21:56:26`|
+|9|[Andromeda&#45;Deadlock &#40;Fixed July 1 patch&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56049)|`2026-07-04 23:57:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ImGui OpenGL/Vulkan Unity source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/759376-imgui-opengl-vulkan-unity-source.html)|`2026-07-04 23:54:00`|`Android`|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-07-04 23:53:00`|`Anti-Cheat Bypass`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-07-04 23:53:00`|`Other FPS Games`|
+|[Need help with skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/755510-help-skinchanger.html)|`2026-07-04 23:43:00`|`Marvel Rivals`|
+|[Axoim Recoil Reducer V1 all&#45;in&#45;one you only need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/758802-axoim-recoil-reducer-v1.html)|`2026-07-04 23:41:00`|`Rainbow Six Siege`|
+|[Soul Land: Awakening World &#40;Dump GameAssembly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756394-soul-land-awakening-world-dump-gameassembly.html)|`2026-07-04 23:32:00`|`Other MMORPG and Strategy`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-07-04 23:32:00`|`Escape from Tarkov`|
 |[Writing hypervisors with AI assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/758900-writing-hypervisors-ai-assistance.html)|`2026-07-04 22:46:00`|`Forum General`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-04 22:36:00`|`Counter-Strike 2`|
 |[How to get unbanned in GTA Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760083-unbanned-gta-online.html)|`2026-07-04 22:31:00`|`Grand Theft Auto V`|
