@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-07-05 03:18:00`|`Other Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-07-05 03:16:00`|`Payday 3`|
+|[How to use an unsigned driver for Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760209-unsigned-driver-rust.html)|`2026-07-05 03:14:00`|`Anti-Cheat Bypass`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-07-05 03:14:00`|`Other MMORPG and Strategy`|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-07-05 03:10:00`|`Other Games`|
+|[Meccha Chameleon Aimbot/ESP/Exploits &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759850-meccha-chameleon-aimbot-esp-exploits-source.html)|`2026-07-05 03:08:00`|`Other Games`|
+|[SCUM DMA &#40;simple esp only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/759887-scum-dma-simple-esp.html)|`2026-07-05 03:06:00`|`Scum`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-05 03:05:00`|`Apex Legends`|
 |[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-05 02:00:00`|`Counter-Strike 2`|
 |[Internal Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760741-internal-help.html)|`2026-07-05 01:59:00`|`Counter-Strike 2`|
 |[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-05 01:57:00`|`Deadlock`|
