@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get player names in Majestic?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760664-player-names-majestic.html)|`2026-07-04 09:03:00`|`Alternative Online Mods`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-04 08:56:00`|`Counter-Strike 2`|
+|[HELP WITH &#91;CS2&#93; External Cheat &#40;Aimbot,Triggerbot,Esp&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760611-help-cs2-external-cheat-aimbot-triggerbot-esp.html)|`2026-07-04 08:47:00`|`Counter-Strike 2`|
+|[hkdeath index changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760659-hkdeath-index-changed.html)|`2026-07-04 08:44:00`|`Valorant`|
+|[Anti Aim movement correction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751102-anti-aim-movement-correction.html)|`2026-07-04 08:41:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-04 07:25:00`|`Apex Legends`|
 |[TBH God Editor &#40;v1&#46;00&#46;20&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758846-tbh-god-editor-v1-00-20-a.html)|`2026-07-04 07:25:00`|`Other Games`|
 |[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-07-04 07:24:00`|`Other Games`|
