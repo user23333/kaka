@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-05 22:19:00`|`Other FPS Games`|
+|[&#91;BO7&#93; Local player's team byte reads 0 while remote players read correct — need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760894-bo7-local-players-team-byte-reads-0-remote-players-read-correct-help.html)|`2026-07-05 22:15:00`|`Call of Duty: Black Ops 7`|
+|[Help coding a rust esp external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760484-help-coding-rust-esp-external.html)|`2026-07-05 22:15:00`|`Rust`|
+|[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-07-05 22:09:00`|`Overwatch`|
+|[Marvel Rivals Kernel Blocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744872-marvel-rivals-kernel-blocker.html)|`2026-07-05 22:00:00`|`Marvel Rivals`|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-07-05 21:59:00`|`Other FPS Games`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-07-05 20:42:00`|`Anti-Cheat Bypass`|
 |[Help with injecting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760745-help-injecting.html)|`2026-07-05 20:23:00`|`Marvel Rivals`|
 |[the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/760882-division-2-a.html)|`2026-07-05 20:22:00`|`Tom Clancy's The Division`|
