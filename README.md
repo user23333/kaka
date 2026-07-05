@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-05 08:07:00`|`HELLDIVERS 2`|
+|[inject the DLL without being blocked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/760072-inject-dll-blocked.html)|`2026-07-05 07:53:00`|`League of Legends`|
+|[Looking for dma base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759795-looking-dma-base.html)|`2026-07-05 07:47:00`|`Call of Duty: Black Ops 7`|
+|[Any help to kiddions modest menu using after uptade 3788](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760742-help-kiddions-modest-menu-using-uptade-3788-a.html)|`2026-07-05 07:36:00`|`Grand Theft Auto V`|
+|[CreateResource alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753046-createresource-alternative.html)|`2026-07-05 07:32:00`|`Alternative Online Mods`|
 |[pSilent &#45; Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760821-psilent-guide.html)|`2026-07-05 07:07:00`|`Deadlock`|
 |[What are EAC's delayed/periodic checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756171-eacs-delayed-periodic-checks.html)|`2026-07-05 07:05:00`|`Anti-Cheat Bypass`|
 |[color ahk script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/757542-color-ahk-script.html)|`2026-07-05 06:57:00`|`Call of Duty: Black Ops 7`|
