@@ -11,6 +11,7 @@
 |14|[RIPLOCK Internal &#45; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760272-riplock-internal-release.html)|`2026-07-06 00:39:09`|`deadlock`|
 |17|[Valorant DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760174-valorant-dma.html)|`2026-07-06 00:39:09`|`valorant`|
 |15|[EAC fingerprinting via Intel IGD OpRegion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760177-eac-fingerprinting-via-intel-igd-opregion.html)|`2026-07-06 00:39:09`|`anti-cheat-bypass`|
+|12|[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-06 06:37:54`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,16 @@
 |86|[Andromeda&#45;Deadlock &#40;Fixed July 1 patch&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56049)|`2026-07-06 00:39:09`|
 |41|[Offsets 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56042)|`2026-07-06 00:39:09`|
 |716|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56041)|`2026-07-06 00:39:09`|
+|1|[Synapse DMA V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56079)|`2026-07-06 06:37:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Preview Models in Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/744463-preview-models-menu.html)|`2026-07-06 06:34:00`|`Counter-Strike 2`|
+|[Origins some findings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/760223-origins-findings.html)|`2026-07-06 06:34:00`|`ARMA 2`|
+|[Need For Speed World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630560-speed-world-hack.html)|`2026-07-06 06:28:00`|`Other MMORPG and Strategy`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-06 06:23:00`|`Rainbow Six Siege`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-06 06:22:00`|`Tom Clancy's The Division`|
+|[Silent Aim / Waypoints / Others options](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/760366-silent-aim-waypoints-options.html)|`2026-07-06 06:15:00`|`Payday 2`|
 |[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758872-dead-daylight-dma.html)|`2026-07-06 05:40:00`|`Other FPS Games`|
 |[Pawx &#124; Lua Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/750565-pawx-lua-executor.html)|`2026-07-06 05:33:00`|`Garry's Mod`|
 |[Rust EAC driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760963-rust-eac-driver.html)|`2026-07-06 05:30:00`|`Anti-Cheat Bypass`|
