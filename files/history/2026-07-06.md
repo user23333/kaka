@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant get nickname or health](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760901-cant-nickname-health.html)|`2026-07-06 03:54:00`|`Call of Duty: Black Ops 7`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-07-06 03:53:00`|`DayZ SA`|
+|[no res emu, fresh accounts keeps getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760903-res-emu-fresh-accounts-getting-banned.html)|`2026-07-06 03:51:00`|`Valorant`|
+|[Need Help with Injecting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760945-help-injecting.html)|`2026-07-06 03:49:00`|`Valorant`|
+|[Getting a BasePlayer instance and maybe localplayer without decryption internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760771-getting-baseplayer-instance-maybe-localplayer-decryption-internal.html)|`2026-07-06 03:49:00`|`Rust`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-07-06 03:46:00`|`Alternative Online Mods`|
+|[intrenal FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757026-intrenal-fov-changer.html)|`2026-07-06 03:46:00`|`Deadlock`|
+|[SCP Containment Breach 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757751-scp-containment-breach-2-cheat.html)|`2026-07-06 03:40:00`|`Other FPS Games`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-06 02:41:00`|`ARMA 3`|
 |[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-06 02:39:00`|`Other FPS Games`|
 |[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-06 02:39:00`|`Deadlock`|
