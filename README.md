@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vibecode pollyng bhop, but i need subtick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759495-vibecode-pollyng-bhop-subtick.html)|`2026-07-05 23:30:00`|`Counter-Strike 2`|
+|[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-07-05 23:30:00`|`Other FPS Games`|
+|[Unturned Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/738483-unturned-offsets.html)|`2026-07-05 23:30:00`|`Other FPS Games`|
+|[Yim v2 Paste ap ii intense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/759608-yim-v2-paste-ap-ii-intense.html)|`2026-07-05 23:27:00`|`Grand Theft Auto V`|
+|[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-07-05 23:24:00`|`Grand Theft Auto V`|
+|[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-07-05 23:24:00`|`Anti-Cheat Bypass`|
+|[entities&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760899-entities-json-format.html)|`2026-07-05 23:20:00`|`Rust`|
 |[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-05 22:19:00`|`Other FPS Games`|
 |[&#91;BO7&#93; Local player's team byte reads 0 while remote players read correct — need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760894-bo7-local-players-team-byte-reads-0-remote-players-read-correct-help.html)|`2026-07-05 22:15:00`|`Call of Duty: Black Ops 7`|
 |[Help coding a rust esp external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760484-help-coding-rust-esp-external.html)|`2026-07-05 22:15:00`|`Rust`|
