@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-05 19:20:00`|`Marvel Rivals`|
+|[Clover OSU &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759992-clover-osu-external.html)|`2026-07-05 19:17:00`|`Other Games`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-05 19:12:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-05 17:49:00`|`Apex Legends`|
 |[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-07-05 17:43:00`|`Rainbow Six Siege`|
 |[Looking for an alternative of Themida/VMProtect that someone made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755668-looking-alternative-themida-vmprotect.html)|`2026-07-05 17:33:00`|`General Programming and Reversing`|
