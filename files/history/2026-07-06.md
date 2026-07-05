@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-06 01:39:00`|`Other Games`|
+|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-07-06 01:38:00`|`Anti-Cheat Bypass`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-06 01:38:00`|`Other MMORPG and Strategy`|
+|[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-07-06 01:38:00`|`Counter-Strike 2 Releases`|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-07-06 01:38:00`|`Other MMORPG and Strategy`|
+|[the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/760882-division-2-a.html)|`2026-07-06 01:37:00`|`Tom Clancy's The Division`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-06 01:36:00`|`Deadlock`|
+|[Anti Aim movement correction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751102-anti-aim-movement-correction.html)|`2026-07-06 01:36:00`|`Counter-Strike 2`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-06 01:32:00`|`Grand Theft Auto V`|
 |[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-07-06 00:35:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-06 00:34:00`|`Rust`|
 |[entities&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760899-entities-json-format.html)|`2026-07-06 00:34:00`|`Rust`|
