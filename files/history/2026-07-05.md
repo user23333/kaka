@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-05 17:49:00`|`Apex Legends`|
+|[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-07-05 17:43:00`|`Rainbow Six Siege`|
+|[Looking for an alternative of Themida/VMProtect that someone made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755668-looking-alternative-themida-vmprotect.html)|`2026-07-05 17:33:00`|`General Programming and Reversing`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-07-05 17:31:00`|`Scum`|
+|[idarem — ida pro in a browser &#40;remote analysis &#43; control&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/759247-idarem-ida-pro-browser-remote-analysis-control.html)|`2026-07-05 17:23:00`|`General Programming and Reversing`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-07-05 15:38:00`|`Other FPS Games`|
 |[Help, I'm trying to write some internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759885-help-im-trying-write-internals.html)|`2026-07-05 15:17:00`|`Counter-Strike 2`|
 |[Brothers, please share the driver signature certificate with each other](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/760855-brothers-please-share-driver-signature-certificate.html)|`2026-07-05 15:17:00`|`General Programming and Reversing`|
