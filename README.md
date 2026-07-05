@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-06 02:41:00`|`ARMA 3`|
+|[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-06 02:39:00`|`Other FPS Games`|
+|[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-06 02:39:00`|`Deadlock`|
+|[New to Game Hacking: Finished C&#43;&#43; Course, What Next?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/760450-game-hacking-finished-course.html)|`2026-07-06 02:39:00`|`C and C++`|
+|[Model previewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760220-model-previewing.html)|`2026-07-06 02:38:00`|`Counter-Strike 2`|
+|[Aram2 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-2-a/760932-aram2-offsets.html)|`2026-07-06 02:33:00`|`ARMA 2`|
+|[bypass tpm pcr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760114-bypass-tpm-pcr.html)|`2026-07-06 02:32:00`|`Valorant`|
+|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-07-06 02:29:00`|`Other Games`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-06 01:39:00`|`Other Games`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-07-06 01:38:00`|`Anti-Cheat Bypass`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-06 01:38:00`|`Other MMORPG and Strategy`|
