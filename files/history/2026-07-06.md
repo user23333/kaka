@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-06 04:45:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-06 04:45:00`|`Other FPS Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-06 04:45:00`|`Escape from Tarkov`|
+|[Are valorant vanguards rsa key changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760877-valorant-vanguards-rsa-key-changed.html)|`2026-07-06 04:41:00`|`Valorant`|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-07-06 04:37:00`|`Other Games`|
+|[src rust cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760165-src-rust-cheat.html)|`2026-07-06 04:37:00`|`Rust`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-07-06 04:31:00`|`Other MMORPG and Strategy`|
 |[Cant get nickname or health](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760901-cant-nickname-health.html)|`2026-07-06 03:54:00`|`Call of Duty: Black Ops 7`|
 |[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-07-06 03:53:00`|`DayZ SA`|
 |[no res emu, fresh accounts keeps getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760903-res-emu-fresh-accounts-getting-banned.html)|`2026-07-06 03:51:00`|`Valorant`|
