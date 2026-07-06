@@ -32,6 +32,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-07 05:44:00`|`Other Games`|
+|[skys wifi cutter/hotspot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/761113-skys-wifi-cutter-hotspot.html)|`2026-07-07 05:42:00`|`PC Software`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-07-07 05:38:00`|`Other FPS Games`|
+|[SS&#45;GI &#124; Genshin Impact &#40;6&#46;6&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/758519-ss-gi-genshin-impact-6-6-0-a.html)|`2026-07-07 05:36:00`|`Genshin Impact`|
+|[The isle evrima dll &#42;PUBLIC&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759496-isle-evrima-dll-public.html)|`2026-07-07 05:30:00`|`Other FPS Games`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-07 05:23:00`|`Other Games`|
+|[CreateResource alternative](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/753046-createresource-alternative.html)|`2026-07-07 05:21:00`|`Alternative Online Mods`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-07 05:20:00`|`Call of Duty: Black Ops 7`|
+|[Rules of Survival is shutting down on June 27, 2022](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rules-of-survival/497495-rules-survival-shutting-june-27-2022-a.html)|`2026-07-07 05:07:00`|`Rules of Survival`|
 |[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-07 04:17:00`|`Other Games`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-07-07 04:16:00`|`Anti-Cheat Bypass`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-07-07 04:11:00`|`Other Games`|
