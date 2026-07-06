@@ -29,9 +29,17 @@
 |1|[&#91;source&#93; external fov changer ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56050)|`2026-07-06 09:20:28`|
 |9|[dumped ABI Lua full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56073)|`2026-07-06 13:38:58`|
 |16|[Andromeda 1&#46;4&#46;1 Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56063)|`2026-07-06 13:38:58`|
+|2|[Reset&#95;ip&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56082)|`2026-07-06 17:38:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-06 17:28:00`|`Valorant`|
+|[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-06 17:28:00`|`Deadlock`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-07-06 17:26:00`|`Other FPS Games`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-06 17:22:00`|`Other Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-06 17:14:00`|`Counter-Strike 2 Releases`|
+|[External BloodStrike ESP &#40;Skeleton&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751432-external-bloodstrike-esp-skeleton.html)|`2026-07-06 16:55:00`|`Other FPS Games`|
+|[&#91;EAC & DAC Bypass&#93; Day of Dragons Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761030-eac-dac-bypass-day-dragons-internal-cheat.html)|`2026-07-06 16:53:00`|`Other MMORPG and Strategy`|
 |[Is reading the memory of the cs2 process safe for VAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761018-reading-memory-cs2-process-safe-vac.html)|`2026-07-06 13:28:00`|`Counter-Strike 2`|
 |[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-06 13:27:00`|`Rust`|
 |[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-06 13:04:00`|`Other Games`|
