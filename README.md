@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-07-07 07:47:00`|`Grand Theft Auto V`|
+|[VGC emulator by Travix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760942-vgc-emulator-travix.html)|`2026-07-07 07:42:00`|`Valorant`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-07 07:34:00`|`Overwatch`|
+|[Looking for an alternative of Themida/VMProtect that someone made](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/755668-looking-alternative-themida-vmprotect.html)|`2026-07-07 07:25:00`|`General Programming and Reversing`|
+|[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-07-07 07:16:00`|`Counter-Strike 2 Releases`|
+|[No&#45;Res Vanguard Bypass Method &#40;HTTP Debugger &#43; Python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760338-res-vanguard-bypass-method-http-debugger-python.html)|`2026-07-07 07:16:00`|`Valorant`|
+|[fxap decrypt asset via key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752388-fxap-decrypt-asset-via-key.html)|`2026-07-07 07:15:00`|`Alternative Online Mods`|
 |[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-07-07 06:43:00`|`Other Games`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-07 06:41:00`|`Marvel Rivals`|
 |[Camp Forest Green &#91;esp&#93; &#40; modded version of F13 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755286-camp-forest-green-esp-modded-version-f13.html)|`2026-07-07 06:40:00`|`Other FPS Games`|
