@@ -12,6 +12,8 @@
 |17|[Valorant DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760174-valorant-dma.html)|`2026-07-06 00:39:09`|`valorant`|
 |15|[EAC fingerprinting via Intel IGD OpRegion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760177-eac-fingerprinting-via-intel-igd-opregion.html)|`2026-07-06 00:39:09`|`anti-cheat-bypass`|
 |12|[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-06 06:37:54`|`rust`|
+|7|[Meccha Chameleon Internal DLL Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760247-meccha-chameleon-internal-dll-cheat.html)|`2026-07-06 21:06:10`|`other-games`|
+|14|[Another Nerv based Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/760185-nerv-based-skin-changer.html)|`2026-07-06 21:06:10`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +32,20 @@
 |9|[dumped ABI Lua full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56073)|`2026-07-06 13:38:58`|
 |16|[Andromeda 1&#46;4&#46;1 Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56063)|`2026-07-06 13:38:58`|
 |2|[Reset&#95;ip&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56082)|`2026-07-06 17:38:51`|
+|2|[darktide material esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56062)|`2026-07-06 21:06:10`|
+|1|[DBD Responses Merge FS v1&#46;3&#46;0 &#43; MarketFiles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56058)|`2026-07-06 21:06:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight Items, Perks and Skins temporary Unlock Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756537-dead-daylight-items-perks-skins-temporary-unlock-guide.html)|`2026-07-06 21:01:00`|`Other FPS Games`|
+|[I can ban anyone &#40;you need to have at least 1 flag&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761023-ban-1-flag.html)|`2026-07-06 21:01:00`|`Rust`|
+|[&#91;Release&#93; Once Human &#45; Fully Decompiled Python Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739928-release-human-decompiled-python-source.html)|`2026-07-06 20:58:00`|`Other MMORPG and Strategy`|
+|[Darktide Material Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760758-darktide-material-esp.html)|`2026-07-06 20:54:00`|`Other FPS Games`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-07-06 20:54:00`|`Overwatch`|
+|[Cars vanishing? &#40;Enhanced addition&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760852-cars-vanishing-enhanced-addition.html)|`2026-07-06 20:49:00`|`Grand Theft Auto V`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-07-06 20:49:00`|`Tom Clancy's The Division`|
+|[Bullet Force Steam ESP aimbot External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750043-bullet-force-steam-esp-aimbot-external.html)|`2026-07-06 20:48:00`|`Other FPS Games`|
+|[Forward Assault &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761045-forward-assault-steam.html)|`2026-07-06 20:45:00`|`Other Games`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-06 17:28:00`|`Valorant`|
 |[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-06 17:28:00`|`Deadlock`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-07-06 17:26:00`|`Other FPS Games`|
