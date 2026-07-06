@@ -24,9 +24,19 @@
 |14|[Rustdumer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56081)|`2026-07-07 00:26:50`|
 |21|[Synapse DMA V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56079)|`2026-07-07 00:26:50`|
 |23|[quintcs2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56078)|`2026-07-07 00:26:50`|
+|17|[TarkovAddons PVE Enhanced 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56092)|`2026-07-07 02:23:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-07 02:18:00`|`Tom Clancy's The Division`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-07-07 02:17:00`|`Deadlock`|
+|[Aim Assist Like Color Aimbot With Yolo on Parsec or Geforce NOW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/760941-aim-assist-color-aimbot-yolo-parsec-geforce.html)|`2026-07-07 02:16:00`|`Apex Legends`|
+|[Clover OSU &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759992-clover-osu-external.html)|`2026-07-07 02:16:00`|`Other Games`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-07 02:14:00`|`Overwatch`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-07 02:13:00`|`Escape from Tarkov`|
+|[Rust DMA source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/725084-rust-dma-source.html)|`2026-07-07 02:12:00`|`Rust`|
+|[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-07-07 02:11:00`|`Anti-Cheat Bypass`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-07-07 02:09:00`|`Grand Theft Auto V`|
 |[How would one get sigs and offsets for R6? I cant seem to get past QB encryption&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759687-sigs-offsets-r6-cant-past-qb-encryption.html)|`2026-07-07 00:25:00`|`Rainbow Six Siege`|
 |[Seed Tg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761076-seed-tg.html)|`2026-07-07 00:24:00`|`Counter-Strike 2`|
 |[current meta for getting PROCESS&#95;VM&#95;READ past ObRegisterCallbacks &#40;EAC/WinGDK&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761068-current-meta-getting-process_vm_read-past-obregistercallbacks-eac-wingdk.html)|`2026-07-07 00:22:00`|`Anti-Cheat Bypass`|
