@@ -26,9 +26,18 @@
 |41|[Offsets 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56042)|`2026-07-06 00:39:09`|
 |716|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56041)|`2026-07-06 00:39:09`|
 |1|[Synapse DMA V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56079)|`2026-07-06 06:37:54`|
+|1|[&#91;source&#93; external fov changer ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56050)|`2026-07-06 09:20:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-07-06 09:13:00`|`Counter-Strike 2 Releases`|
+|[skys wifi cutter/hotspot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/760994-skys-wifi-cutter-hotspot.html)|`2026-07-06 09:11:00`|`PC Software`|
+|[RIPLOCK Internal &#45; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760272-riplock-internal-release.html)|`2026-07-06 09:10:00`|`Deadlock`|
+|[pls help with CSwapChainDx11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760946-pls-help-cswapchaindx11.html)|`2026-07-06 09:10:00`|`Counter-Strike 2`|
+|[Rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760979-rust-dumper.html)|`2026-07-06 09:09:00`|`Rust`|
+|[Looking for an icebreaker carry](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760993-looking-icebreaker-carry.html)|`2026-07-06 09:07:00`|`Escape from Tarkov`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-06 09:07:00`|`Marvel Rivals`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-06 09:03:00`|`Apex Legends`|
 |[Steamtool among us](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/760978-steamtool.html)|`2026-07-06 07:35:00`|`Among Us`|
 |[Serverside&#45;humanizations for Color/AI aimbot &#40;Ready for LLMs&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760975-serverside-humanizations-color-ai-aimbot-ready-llms.html)|`2026-07-06 07:26:00`|`Valorant`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-06 07:19:00`|`Other Games`|
