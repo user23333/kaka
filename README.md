@@ -27,9 +27,18 @@
 |716|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;45949](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56041)|`2026-07-06 00:39:09`|
 |1|[Synapse DMA V1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56079)|`2026-07-06 06:37:54`|
 |1|[&#91;source&#93; external fov changer ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56050)|`2026-07-06 09:20:28`|
+|9|[dumped ABI Lua full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56073)|`2026-07-06 13:38:58`|
+|16|[Andromeda 1&#46;4&#46;1 Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56063)|`2026-07-06 13:38:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is reading the memory of the cs2 process safe for VAC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761018-reading-memory-cs2-process-safe-vac.html)|`2026-07-06 13:28:00`|`Counter-Strike 2`|
+|[Analysis AnyBrain: what it checks / does &#43; AppID Facepunch and AppSecret](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760068-analysis-anybrain-checks-appid-facepunch-appsecret.html)|`2026-07-06 13:27:00`|`Rust`|
+|[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-06 13:04:00`|`Other Games`|
+|[BO7 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760897-bo7-dma.html)|`2026-07-06 13:01:00`|`Call of Duty: Black Ops 7`|
+|[esp boxes messed up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759699-esp-boxes-messed.html)|`2026-07-06 12:55:00`|`Call of Duty: Black Ops 7`|
+|[vis check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760056-vis-check.html)|`2026-07-06 12:54:00`|`Call of Duty: Black Ops 7`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-06 12:52:00`|`Other FPS Games`|
 |[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-07-06 09:13:00`|`Counter-Strike 2 Releases`|
 |[skys wifi cutter/hotspot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/760994-skys-wifi-cutter-hotspot.html)|`2026-07-06 09:11:00`|`PC Software`|
 |[RIPLOCK Internal &#45; Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760272-riplock-internal-release.html)|`2026-07-06 09:10:00`|`Deadlock`|
