@@ -29,9 +29,17 @@
 |1|[abi item id and item name ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56100)|`2026-07-07 04:17:44`|
 |0|[illusority cs 1&#46;6 knifebot movement cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56099)|`2026-07-07 04:17:44`|
 |4|[10&#46;0&#46;2 DBD Updated SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56097)|`2026-07-07 04:17:44`|
+|2|[Free Cheat for Camp Forest Green F13](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56102)|`2026-07-07 06:49:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-07-07 06:43:00`|`Other Games`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-07 06:41:00`|`Marvel Rivals`|
+|[Camp Forest Green &#91;esp&#93; &#40; modded version of F13 &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755286-camp-forest-green-esp-modded-version-f13.html)|`2026-07-07 06:40:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-07 06:31:00`|`Valorant`|
+|[Custom GUI Library](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/760481-custom-gui-library.html)|`2026-07-07 06:28:00`|`C and C++`|
+|[val5 after 8–12 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761117-val5-8-12-minutes.html)|`2026-07-07 06:26:00`|`Valorant`|
+|[PZ Hack &#91;B42&#46;18&#43;&#93; and source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755204-pz-hack-b42-18-source-code.html)|`2026-07-07 06:12:00`|`Other Games`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-07 05:44:00`|`Other Games`|
 |[skys wifi cutter/hotspot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/761113-skys-wifi-cutter-hotspot.html)|`2026-07-07 05:42:00`|`PC Software`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-07-07 05:38:00`|`Other FPS Games`|
