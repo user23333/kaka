@@ -12,6 +12,7 @@
 |6|[src rust cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760165-src-rust-cheat.html)|`2026-07-08 00:02:23`|`rust`|
 |28|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-08 00:02:23`|`marvel-rivals`|
 |23|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-08 04:08:43`|`grand-theft-auto-v`|
+|9|[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-07-08 07:34:14`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BaseViewModel chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761287-baseviewmodel-chams.html)|`2026-07-08 07:23:00`|`Rust`|
+|[FemboyProLaptop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761286-femboyprolaptop-external.html)|`2026-07-08 07:20:00`|`Roblox`|
+|[Stuck on mouse move method for color bot&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761236-stuck-mouse-move-method-color-bot.html)|`2026-07-08 07:19:00`|`Valorant`|
+|[Echo Apex Legends External &#40;UPDATED 7/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761218-echo-apex-legends-external-updated-7-7-2026-a.html)|`2026-07-08 07:14:00`|`Apex Legends`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-07-08 07:07:00`|`Other FPS Games`|
+|[The isle evrima dll &#42;PUBLIC&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759496-isle-evrima-dll-public.html)|`2026-07-08 07:06:00`|`Other FPS Games`|
 |[Block epic account reports &#40;headless account abuse / FN demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761144-block-epic-account-reports-headless-account-abuse-fn-demo.html)|`2026-07-08 06:28:00`|`Anti-Cheat Bypass`|
 |[Bloodstrike skin lobby display](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761083-bloodstrike-skin-lobby-display.html)|`2026-07-08 06:27:00`|`Other FPS Games`|
 |[VGC/VGK Emulator 7/7/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761271-vgc-vgk-emulator-7-7-2026-a.html)|`2026-07-08 06:24:00`|`Valorant`|
