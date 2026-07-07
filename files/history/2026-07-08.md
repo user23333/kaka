@@ -37,6 +37,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Block epic account reports &#40;headless account abuse / FN demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761144-block-epic-account-reports-headless-account-abuse-fn-demo.html)|`2026-07-08 06:28:00`|`Anti-Cheat Bypass`|
+|[Bloodstrike skin lobby display](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761083-bloodstrike-skin-lobby-display.html)|`2026-07-08 06:27:00`|`Other FPS Games`|
+|[VGC/VGK Emulator 7/7/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761271-vgc-vgk-emulator-7-7-2026-a.html)|`2026-07-08 06:24:00`|`Valorant`|
+|[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-08 06:23:00`|`Other FPS Games`|
+|[how to do Backtrack chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761152-backtrack-chams.html)|`2026-07-08 06:17:00`|`Counter-Strike 2`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-07-08 06:13:00`|`Escape from Tarkov`|
+|[Undetected external cheat for Polygon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758051-undetected-external-cheat-polygon.html)|`2026-07-08 06:11:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-07-08 06:08:00`|`Payday 3`|
 |[Proxy Process / Handle Hijack question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761270-proxy-process-handle-hijack-question.html)|`2026-07-08 05:37:00`|`Counter-Strike 2`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-08 05:36:00`|`Rainbow Six Siege`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-08 05:36:00`|`Counter-Strike 2`|
