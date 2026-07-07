@@ -24,9 +24,21 @@
 |17|[abi item id and item name ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56100)|`2026-07-08 00:02:23`|
 |16|[illusority cs 1&#46;6 knifebot movement cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56099)|`2026-07-08 00:02:23`|
 |26|[10&#46;0&#46;2 DBD Updated SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56097)|`2026-07-08 00:02:23`|
+|8|[PubgSDK&#95;2606&#46;1&#46;1&#46;105](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56118)|`2026-07-08 02:07:14`|
+|4|[quint cs2 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56116)|`2026-07-08 02:07:14`|
+|5|[Bugtopia v2&#46;1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56115)|`2026-07-08 02:07:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-07-08 02:05:00`|`Anti-Cheat Bypass`|
+|[Dumping EFT, an &#40;mostly&#41; easy to follow tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760176-dumping-eft-easy-follow-tutorial.html)|`2026-07-08 02:04:00`|`Escape from Tarkov`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-08 02:03:00`|`Rainbow Six Siege`|
+|[What are EAC's delayed/periodic checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756171-eacs-delayed-periodic-checks.html)|`2026-07-08 02:02:00`|`Anti-Cheat Bypass`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-08 01:59:00`|`Other FPS Games`|
+|[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/628883-roblox-offsets.html)|`2026-07-08 01:58:00`|`Roblox`|
+|[Admin Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761180-admin-detection.html)|`2026-07-08 01:58:00`|`Alternative Online Mods`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-08 01:57:00`|`HELLDIVERS 2`|
+|[i want know how find out sc adress](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/761085-sc-adress.html)|`2026-07-08 01:56:00`|`HELLDIVERS 2`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-07-07 23:58:00`|`Alternative Online Mods`|
 |[Help With Driver and EAC Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760955-help-driver-eac-detection-vectors.html)|`2026-07-07 23:57:00`|`Anti-Cheat Bypass`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-07 23:57:00`|`Tom Clancy's The Division`|
