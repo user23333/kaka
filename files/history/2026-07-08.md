@@ -31,9 +31,19 @@
 |2|[xizuy&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56123)|`2026-07-08 04:08:43`|
 |2|[StellaSora&#45;Tool&#45;v6&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56121)|`2026-07-08 04:08:43`|
 |3|[Super Mission Editor v1&#46;0&#46;3&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56110)|`2026-07-08 04:08:43`|
+|1|[L4D2 Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56126)|`2026-07-08 05:37:58`|
+|6|[dump&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56125)|`2026-07-08 05:37:58`|
+|5|[Keyboard Auto Dodge for Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56122)|`2026-07-08 05:37:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Proxy Process / Handle Hijack question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761270-proxy-process-handle-hijack-question.html)|`2026-07-08 05:37:00`|`Counter-Strike 2`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-08 05:36:00`|`Rainbow Six Siege`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-08 05:36:00`|`Counter-Strike 2`|
+|[Anti Cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761007-anti-cheat-cs2.html)|`2026-07-08 05:28:00`|`Counter-Strike 2`|
+|[Vanguard API Encryption / payload gen &#40;gateway&#41; &#45;&#45; paste ready, FULL SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760042-vanguard-api-encryption-payload-gen-gateway-paste-ready-source.html)|`2026-07-08 05:21:00`|`Valorant`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-08 05:12:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-08 05:08:00`|`Call of Duty: Black Ops 7`|
 |[AntiAim Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761260-antiaim-help.html)|`2026-07-08 04:06:00`|`Counter-Strike 2`|
 |[Every steam&#95;api64&#46;dll exports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/761183-steam_api64-dll-exports.html)|`2026-07-08 04:04:00`|`General Programming and Reversing`|
 |[twizzy bootkit &#40;bootkit base&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/749925-twizzy-bootkit-bootkit-base.html)|`2026-07-08 04:02:00`|`Anti-Cheat Bypass`|
