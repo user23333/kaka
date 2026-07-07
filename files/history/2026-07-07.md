@@ -33,6 +33,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-07 13:10:00`|`HELLDIVERS 2`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-07-07 13:09:00`|`Overwatch`|
+|[esp boxes messed up](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759699-esp-boxes-messed.html)|`2026-07-07 12:55:00`|`Call of Duty: Black Ops 7`|
+|[Hell Let Loose Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/664161-hell-loose-reversal-structs-offsets.html)|`2026-07-07 12:55:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-07-07 12:55:00`|`DayZ SA`|
+|[HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY for visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759114-has_entity_clear_los_to_entity-visible-check.html)|`2026-07-07 12:53:00`|`Alternative Online Mods`|
+|[PiDDBCacheTable / PiDDBLock on 25H2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761162-piddbcachetable-piddblock-25h2.html)|`2026-07-07 12:26:00`|`Anti-Cheat Bypass`|
+|[Hitbox rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761161-hitbox-rotation.html)|`2026-07-07 12:25:00`|`Counter-Strike 2`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-07 09:19:00`|`Other Games`|
 |[NoddPilot — External, Read&#45;Only Path of Exile 2 Assistant &#40;Auto&#45;Combat, Radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761136-noddpilot-external-read-path-exile-2-assistant-auto-combat-radar.html)|`2026-07-07 09:11:00`|`Other MMORPG and Strategy`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-07 08:38:00`|`Escape from Tarkov`|
