@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-07-08 14:34:00`|`Other Games`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-08 14:28:00`|`Overwatch`|
+|[Flavia &#91;Cheat for Strinova&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755637-flavia-cheat-strinova.html)|`2026-07-08 14:27:00`|`Other FPS Games`|
+|[Sky color & star changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761329-sky-color-star-changer.html)|`2026-07-08 14:26:00`|`Rust`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-07-08 14:22:00`|`Other FPS Games`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-08 12:20:00`|`Other Games`|
 |[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758872-dead-daylight-dma.html)|`2026-07-08 12:16:00`|`Other FPS Games`|
 |[Spike ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761314-spike-esp.html)|`2026-07-08 12:09:00`|`Valorant`|
