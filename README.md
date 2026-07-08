@@ -27,9 +27,17 @@
 |23|[ARC&#95;SDK&#95;STEAM&#95;8&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56133)|`2026-07-09 00:43:16`|
 |1|[Cerberus v2 &#45; key auth for &#46;NET programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56146)|`2026-07-09 03:48:15`|
 |0|[5&#46;5&#46;4&#45;270156&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;6&#46;0&#45;FTUE&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56145)|`2026-07-09 03:48:15`|
+|3|[confgs for mhur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56147)|`2026-07-09 05:49:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-07-09 05:44:00`|`Overwatch`|
+|[Automatic Duplication AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752633-automatic-duplication-ahk-script.html)|`2026-07-09 05:38:00`|`DayZ SA`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-07-09 05:38:00`|`Other FPS Games`|
+|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-09 05:36:00`|`Grand Theft Auto V`|
+|[Regarding new dead by daylight "method"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761463-regarding-dead-daylight-method.html)|`2026-07-09 05:34:00`|`Other FPS Games`|
+|[Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761390-rust-cheat.html)|`2026-07-09 05:28:00`|`Rust`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-09 05:28:00`|`ARC Raiders`|
 |[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758872-dead-daylight-dma.html)|`2026-07-09 04:44:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-09 04:44:00`|`Call of Duty: Black Ops 7`|
 |[Unable to connect to FPGA device &#91;0,v0&#46;0,0000&#93; DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/761457-unable-connect-fpga-device-0-v0-0-0000-dma.html)|`2026-07-09 04:43:00`|`Other Hardware`|
