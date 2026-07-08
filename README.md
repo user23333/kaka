@@ -11,6 +11,7 @@
 |9|[Meccha Chameleon Offsets – Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760596-meccha-chameleon-offsets-patch.html)|`2026-07-09 00:43:16`|`other-games`|
 |10|[VGC emulator by Travix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760942-vgc-emulator-travix.html)|`2026-07-09 00:43:16`|`valorant`|
 |42|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-09 00:43:16`|`overwatch`|
+|2|[Meccha Chameleon Auto Painter & Trigger bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760333-meccha-chameleon-auto-painter-trigger-bot.html)|`2026-07-09 04:47:10`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758872-dead-daylight-dma.html)|`2026-07-09 04:44:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-09 04:44:00`|`Call of Duty: Black Ops 7`|
+|[Unable to connect to FPGA device &#91;0,v0&#46;0,0000&#93; DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/761457-unable-connect-fpga-device-0-v0-0-0000-dma.html)|`2026-07-09 04:43:00`|`Other Hardware`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-07-09 04:42:00`|`Other FPS Games`|
+|[FemboyProLaptop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761286-femboyprolaptop-external.html)|`2026-07-09 04:35:00`|`Roblox`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-09 04:35:00`|`Marvel Rivals`|
+|[APB Reloaded 1&#46;32&#46;0 &#45; What I Learned Looking For UWorld](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/758060-apb-reloaded-1-32-0-learned-looking-uworld.html)|`2026-07-09 04:29:00`|`All Points Bulletin`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-07-09 04:28:00`|`Red Dead Redemption 2`|
+|[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-07-09 04:28:00`|`Other Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-07-09 03:47:00`|`Other FPS Games`|
 |[HAS&#95;ENTITY&#95;CLEAR&#95;LOS&#95;TO&#95;ENTITY for visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759114-has_entity_clear_los_to_entity-visible-check.html)|`2026-07-09 03:45:00`|`Alternative Online Mods`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-09 03:41:00`|`Overwatch`|
