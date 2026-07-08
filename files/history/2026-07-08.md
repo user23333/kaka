@@ -16,6 +16,8 @@
 |9|[Meccha Chameleon Offsets – Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760596-meccha-chameleon-offsets-patch.html)|`2026-07-08 19:14:43`|`other-games`|
 |2|[Meccha Chameleon Auto Painter & Trigger bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760333-meccha-chameleon-auto-painter-trigger-bot.html)|`2026-07-08 20:51:21`|`other-games`|
 |42|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-08 20:51:21`|`overwatch`|
+|52|[val5 after 8–12 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761117-val5-8-12-minutes.html)|`2026-07-08 23:01:39`|`valorant`|
+|10|[VGC emulator by Travix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760942-vgc-emulator-travix.html)|`2026-07-08 23:01:39`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -48,9 +50,14 @@
 |4|[ARC&#95;SDK&#95;STEAM&#95;8&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56133)|`2026-07-08 19:14:43`|
 |2|[SeoNari&#45;Nikke V0&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56131)|`2026-07-08 19:14:43`|
 |2|[ED Simple Module Editor operations update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56130)|`2026-07-08 19:14:43`|
+|6|[Femboyprolaptop external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56142)|`2026-07-08 23:01:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[helpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/761404-helpp.html)|`2026-07-08 23:00:00`|`Off Topic`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-07-08 22:58:00`|`Scum`|
+|[Bloodstrike Now Bans Hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761308-bloodstrike-bans-hwid.html)|`2026-07-08 22:44:00`|`Other FPS Games`|
+|[how to reverse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761400-reverse.html)|`2026-07-08 22:43:00`|`Other Games`|
 |[Ricochet update dump 07/07/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/761294-ricochet-update-dump-07-07-2026-a.html)|`2026-07-08 20:50:00`|`Call of Duty: Black Ops 7`|
 |[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-07-08 20:49:00`|`Counter-Strike 2 Releases`|
 |[Sard Internal Bypass Meme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/761377-sard-internal-bypass-meme.html)|`2026-07-08 20:45:00`|`All Points Bulletin`|
