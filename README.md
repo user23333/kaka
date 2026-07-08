@@ -13,6 +13,7 @@
 |28|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-08 00:02:23`|`marvel-rivals`|
 |23|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-08 04:08:43`|`grand-theft-auto-v`|
 |9|[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-07-08 07:34:14`|`anti-cheat-bypass`|
+|9|[Meccha Chameleon Offsets – Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760596-meccha-chameleon-offsets-patch.html)|`2026-07-08 19:14:43`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,9 +36,24 @@
 |1|[L4D2 Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56126)|`2026-07-08 05:37:58`|
 |6|[dump&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56125)|`2026-07-08 05:37:58`|
 |5|[Keyboard Auto Dodge for Brawlhalla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56122)|`2026-07-08 05:37:58`|
+|14|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;0&#46;46010](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56141)|`2026-07-08 19:14:43`|
+|0|[TslGame&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56140)|`2026-07-08 19:14:43`|
+|1|[lnvmsrio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56139)|`2026-07-08 19:14:43`|
+|0|[SOT SDK &#40;3&#46;8&#46;0&#46;1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56138)|`2026-07-08 19:14:43`|
+|1|[Bunny Guys&#33; Public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56137)|`2026-07-08 19:14:43`|
+|4|[entities&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56135)|`2026-07-08 19:14:43`|
+|4|[PubgSDK&#95;2026&#46;1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56134)|`2026-07-08 19:14:43`|
+|4|[ARC&#95;SDK&#95;STEAM&#95;8&#46;07&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56133)|`2026-07-08 19:14:43`|
+|2|[SeoNari&#45;Nikke V0&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56131)|`2026-07-08 19:14:43`|
+|2|[ED Simple Module Editor operations update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56130)|`2026-07-08 19:14:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unblocklisted Vulnerable Driver &#40;EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761368-unblocklisted-vulnerable-driver-eac.html)|`2026-07-08 19:14:00`|`Anti-Cheat Bypass`|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-07-08 19:10:00`|`Garry's Mod`|
+|[fxap decrypt asset via key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/752388-fxap-decrypt-asset-via-key.html)|`2026-07-08 18:59:00`|`Alternative Online Mods`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-07-08 18:59:00`|`Sea of Thieves`|
+|[UE Dumper V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/749845-ue-dumper-v1.html)|`2026-07-08 18:57:00`|`Unreal Engine 4`|
 |[Meccha Chameleon External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757770-meccha-chameleon-external.html)|`2026-07-08 17:11:00`|`Other Games`|
 |[Bunny Guys&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/761346-bunny-guys.html)|`2026-07-08 17:09:00`|`Cheat Engine Tables`|
 |[esp only valo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761316-esp-valo.html)|`2026-07-08 16:59:00`|`Valorant`|
