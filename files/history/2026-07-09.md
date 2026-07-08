@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Vanguard actually good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761367-vanguard-actually.html)|`2026-07-09 02:01:00`|`Anti-Cheat Bypass`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-09 01:59:00`|`Tom Clancy's The Division`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-07-09 01:58:00`|`HELLDIVERS 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-09 01:55:00`|`Escape from Tarkov`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-09 01:54:00`|`Rust`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-09 01:53:00`|`Rainbow Six Siege`|
+|[How to bypass Foxhole blocking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/750965-bypass-foxhole-blocking.html)|`2026-07-09 01:47:00`|`Other Games`|
+|[how to register custom playermodels in an internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761243-register-custom-playermodels-internal.html)|`2026-07-09 01:46:00`|`Counter-Strike 2`|
+|[ShellShock Live Aimbot & Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761063-shellshock-live-aimbot-spinbot.html)|`2026-07-09 01:40:00`|`Other FPS Games`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-09 00:40:00`|`Tom Clancy's The Division`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-09 00:39:00`|`Other FPS Games`|
 |[Vanguard API Encryption / payload gen &#40;gateway&#41; &#45;&#45; paste ready, FULL SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760042-vanguard-api-encryption-payload-gen-gateway-paste-ready-source.html)|`2026-07-09 00:39:00`|`Valorant`|
