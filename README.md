@@ -12,6 +12,7 @@
 |9|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-10 00:32:23`|`palworld`|
 |28|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-10 00:32:23`|`other-games`|
 |15|[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-10 05:39:02`|`deadlock`|
+|24|[Is Vanguard actually good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761367-vanguard-actually.html)|`2026-07-10 06:52:27`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Mobile offsets/sdk &#40;WeGame&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761620-rust-mobile-offsets-sdk-wegame.html)|`2026-07-10 06:50:00`|`Other FPS Games`|
+|[need a new pattern and index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761617-pattern-index.html)|`2026-07-10 06:46:00`|`Counter-Strike 2`|
+|[Chams on generate primitives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761589-chams-generate-primitives.html)|`2026-07-10 06:46:00`|`Counter-Strike 2`|
+|[BLEACH Brave Souls &#45; 3D Action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761530-bleach-brave-souls-3d-action.html)|`2026-07-10 06:43:00`|`Other MMORPG and Strategy`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-07-10 06:38:00`|`DayZ SA`|
+|[External Bomb Damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761602-external-bomb-damage.html)|`2026-07-10 06:36:00`|`Counter-Strike 2`|
+|[bomb esp after s5 update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761547-bomb-esp-s5-update.html)|`2026-07-10 06:34:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-10 05:34:00`|`Other FPS Games`|
 |[which injector do i use for injecting rs/sleepy internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/759498-injector-injecting-rs-sleepy-internal.html)|`2026-07-10 05:33:00`|`Overwatch`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-10 05:28:00`|`HELLDIVERS 2`|
