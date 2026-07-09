@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Overlay method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761506-overlay-method.html)|`2026-07-09 16:40:00`|`Anti-Cheat Bypass`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-09 16:39:00`|`Other Games`|
+|[cs2&#45;dumper fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761499-cs2-dumper-fix.html)|`2026-07-09 16:23:00`|`Counter-Strike 2`|
+|[hardware route](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761348-hardware-route.html)|`2026-07-09 16:19:00`|`Valorant`|
+|[FiveM &#45; Faking players count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761505-fivem-faking-players-count.html)|`2026-07-09 16:08:00`|`Alternative Online Mods`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-09 16:04:00`|`Other Games`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-09 13:05:00`|`Counter-Strike 2`|
 |[CS2 Dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749020-cs2-dumper-ag2-fixed.html)|`2026-07-09 12:57:00`|`Counter-Strike 2`|
 |[Weapon detection for localplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761494-weapon-detection-localplayer.html)|`2026-07-09 12:51:00`|`Counter-Strike 2`|
