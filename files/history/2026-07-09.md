@@ -29,9 +29,16 @@
 |1|[Cerberus v2 &#45; key auth for &#46;NET programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56146)|`2026-07-09 03:48:15`|
 |0|[5&#46;5&#46;4&#45;270156&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;6&#46;0&#45;FTUE&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56145)|`2026-07-09 03:48:15`|
 |3|[confgs for mhur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56147)|`2026-07-09 05:49:00`|
+|22|[CS2&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56153)|`2026-07-09 13:12:00`|
+|1|[5&#46;6&#46;1&#45;44394996&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;6&#45;Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56152)|`2026-07-09 13:12:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-09 13:05:00`|`Counter-Strike 2`|
+|[CS2 Dumper AG2 fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/749020-cs2-dumper-ag2-fixed.html)|`2026-07-09 12:57:00`|`Counter-Strike 2`|
+|[Weapon detection for localplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761494-weapon-detection-localplayer.html)|`2026-07-09 12:51:00`|`Counter-Strike 2`|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-07-09 12:25:00`|`Other FPS Games`|
+|[m&#95;rendersystemdx11 pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761492-m_rendersystemdx11-pattern.html)|`2026-07-09 12:16:00`|`Counter-Strike 2`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-07-09 09:00:00`|`Grand Theft Auto V`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-09 08:45:00`|`Other FPS Games`|
 |[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-07-09 08:45:00`|`Other Games`|
