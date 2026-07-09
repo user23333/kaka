@@ -16,6 +16,7 @@
 |9|[Block epic account reports &#40;headless account abuse / FN demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761144-block-epic-account-reports-headless-account-abuse-fn-demo.html)|`2026-07-09 19:29:57`|`anti-cheat-bypass`|
 |16|[Echo Apex Legends External &#40;UPDATED 7/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761218-echo-apex-legends-external-updated-7-7-2026-a.html)|`2026-07-09 19:29:57`|`apex-legends`|
 |9|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-09 19:29:57`|`palworld`|
+|15|[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-09 22:04:22`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,9 +39,17 @@
 |5|[Bugtopia v2&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56151)|`2026-07-09 19:29:57`|
 |5|[mayrrx64&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56149)|`2026-07-09 19:29:57`|
 |1|[Deadsense 1&#46;5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56144)|`2026-07-09 19:29:57`|
+|5|[mayrrx64&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56155)|`2026-07-09 22:04:22`|
+|5|[MHUR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56148)|`2026-07-09 22:04:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full External Valorant Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761485-external-valorant-cheat.html)|`2026-07-09 22:04:00`|`Valorant`|
+|[Satisfactory Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/710015-satisfactory-cheat.html)|`2026-07-09 22:00:00`|`Other FPS Games`|
+|[i need someone to help me build a rust esp wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760041-help-build-rust-esp-wallhack.html)|`2026-07-09 21:56:00`|`Rust`|
+|[BLEACH Brave Souls &#45; 3D Action](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761530-bleach-brave-souls-3d-action.html)|`2026-07-09 21:37:00`|`Other FPS Games`|
+|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-07-09 21:36:00`|`Other FPS Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-09 21:32:00`|`Other Games`|
 |[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-07-09 19:19:00`|`Call of Duty: Black Ops 3`|
 |[engine prediction not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761434-engine-prediction.html)|`2026-07-09 19:18:00`|`Counter-Strike 2`|
 |[bomb timer after patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761518-bomb-timer-patch.html)|`2026-07-09 19:18:00`|`Counter-Strike 2`|
