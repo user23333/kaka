@@ -24,9 +24,19 @@
 |13|[confgs for mhur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56147)|`2026-07-10 00:32:23`|
 |12|[Cerberus v2 &#45; key auth for &#46;NET programs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56146)|`2026-07-10 00:32:23`|
 |1|[5&#46;5&#46;4&#45;270156&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;6&#46;0&#45;FTUE&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56145)|`2026-07-10 00:32:23`|
+|2|[sdk txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56160)|`2026-07-10 02:18:47`|
+|2|[PUBGM&#95;&#40;v4&#46;5&#46;0&#41;&#95;32Bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56157)|`2026-07-10 02:18:47`|
+|1|[BLEACH Brave Souls  Public ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56156)|`2026-07-10 02:18:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best Overlay method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761506-overlay-method.html)|`2026-07-10 02:17:00`|`Anti-Cheat Bypass`|
+|[Flavia &#91;Cheat for Strinova&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755637-flavia-cheat-strinova.html)|`2026-07-10 02:14:00`|`Other FPS Games`|
+|[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-10 02:12:00`|`Other Games`|
+|[External Glow ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/745596-external-glow-esp.html)|`2026-07-10 02:12:00`|`Apex Legends`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-10 02:10:00`|`Apex Legends`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-10 02:04:00`|`ARC Raiders`|
+|[FiveM &#45; Faking players count](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761505-fivem-faking-players-count.html)|`2026-07-10 01:58:00`|`Alternative Online Mods`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-10 00:29:00`|`Counter-Strike 2 Releases`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-07-10 00:27:00`|`Counter-Strike 2`|
 |[Undetected external cheat for Polygon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758051-undetected-external-cheat-polygon.html)|`2026-07-10 00:27:00`|`Other FPS Games`|
