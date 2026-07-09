@@ -11,6 +11,7 @@
 |16|[Echo Apex Legends External &#40;UPDATED 7/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761218-echo-apex-legends-external-updated-7-7-2026-a.html)|`2026-07-10 00:32:23`|`apex-legends`|
 |9|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-10 00:32:23`|`palworld`|
 |28|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-10 00:32:23`|`other-games`|
+|15|[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-10 05:39:02`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-10 05:34:00`|`Other FPS Games`|
+|[which injector do i use for injecting rs/sleepy internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/759498-injector-injecting-rs-sleepy-internal.html)|`2026-07-10 05:33:00`|`Overwatch`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-10 05:28:00`|`HELLDIVERS 2`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-07-10 05:25:00`|`Other FPS Games`|
+|[attestation properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760278-attestation-properly.html)|`2026-07-10 05:18:00`|`Anti-Cheat Bypass`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-10 05:17:00`|`Roblox`|
+|[Need Update Working Aspectratio SRC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761610-update-aspectratio-src.html)|`2026-07-10 05:16:00`|`Counter-Strike 2`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-07-10 04:01:00`|`Counter-Strike 2`|
 |[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-10 03:54:00`|`Anti-Cheat Bypass`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-10 03:53:00`|`Rainbow Six Siege`|
