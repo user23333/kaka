@@ -12,6 +12,7 @@
 |10|[VGC emulator by Travix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760942-vgc-emulator-travix.html)|`2026-07-09 00:43:16`|`valorant`|
 |42|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-09 00:43:16`|`overwatch`|
 |2|[Meccha Chameleon Auto Painter & Trigger bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760333-meccha-chameleon-auto-painter-trigger-bot.html)|`2026-07-09 04:47:10`|`other-games`|
+|14|[Celex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/760570-celex-external.html)|`2026-07-09 09:16:40`|`roblox`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-07-09 09:00:00`|`Grand Theft Auto V`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-09 08:45:00`|`Other FPS Games`|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-07-09 08:45:00`|`Other Games`|
+|[particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757370-particles.html)|`2026-07-09 08:31:00`|`Counter-Strike 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-09 07:45:00`|`Counter-Strike 2`|
 |[Anti Cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761007-anti-cheat-cs2.html)|`2026-07-09 07:44:00`|`Counter-Strike 2`|
 |[the anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/755983-anticheat.html)|`2026-07-09 07:44:00`|`Marvel Rivals`|
