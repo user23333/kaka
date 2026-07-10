@@ -25,9 +25,18 @@
 |32|[sdk txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56160)|`2026-07-11 01:25:25`|
 |469|[Laurav1&#46;1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56159)|`2026-07-11 01:25:25`|
 |0|[Dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56184)|`2026-07-11 02:53:25`|
+|2|[RegionSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56186)|`2026-07-11 05:16:45`|
+|5|[Vex&#95;latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56185)|`2026-07-11 05:16:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-11 05:15:00`|`Rust`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-11 05:15:00`|`Other FPS Games`|
+|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761604-skin-changer.html)|`2026-07-11 05:14:00`|`Overwatch`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-07-11 05:06:00`|`Other FPS Games`|
+|[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-07-11 04:52:00`|`Call of Duty: Black Ops 2`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-11 04:45:00`|`Counter-Strike 2`|
+|[Unblocklisted Vulnerable Driver &#40;EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761368-unblocklisted-vulnerable-driver-eac.html)|`2026-07-11 04:42:00`|`Anti-Cheat Bypass`|
 |[Any Fonctionnal Wallhack going through "Fog of War" ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761673-fonctionnal-wallhack-fog-war.html)|`2026-07-11 04:08:00`|`Valorant`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-11 04:07:00`|`Roblox`|
 |[Viewmodel Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761729-viewmodel-rotation.html)|`2026-07-11 04:05:00`|`Counter-Strike 2`|
