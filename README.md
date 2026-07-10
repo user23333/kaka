@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any Fonctionnal Wallhack going through "Fog of War" ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761673-fonctionnal-wallhack-fog-war.html)|`2026-07-11 04:08:00`|`Valorant`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-11 04:07:00`|`Roblox`|
+|[Viewmodel Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761729-viewmodel-rotation.html)|`2026-07-11 04:05:00`|`Counter-Strike 2`|
+|[GTA Online Enhanced: Price Catalog: Requesting for Steps to get the latest Catalog](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/735999-gta-online-enhanced-price-catalog-requesting-steps-catalog.html)|`2026-07-11 04:00:00`|`Grand Theft Auto V`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-11 03:52:00`|`Counter-Strike 2`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-11 03:52:00`|`Marvel Rivals`|
+|[kill effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761261-kill-effects.html)|`2026-07-11 03:50:00`|`Counter-Strike 2`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-07-11 03:48:00`|`Grand Theft Auto V`|
 |[vibe coder looking for esp in rust july 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760620-vibe-coder-looking-esp-rust-july-2026-a.html)|`2026-07-11 02:51:00`|`Rust`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-07-11 02:49:00`|`Counter-Strike 2`|
 |[BO2 Cyber Tool V2 PS5/PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/761609-bo2-cyber-tool-v2-ps5-ps4.html)|`2026-07-11 02:48:00`|`Call of Duty: Black Ops 2`|
