@@ -27,9 +27,18 @@
 |0|[Dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56184)|`2026-07-11 02:53:25`|
 |2|[RegionSpoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56186)|`2026-07-11 05:16:45`|
 |5|[Vex&#95;latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56185)|`2026-07-11 05:16:45`|
+|2|[clean imgui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56188)|`2026-07-11 06:17:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-07-11 06:17:00`|`Scum`|
+|[Injecting into EAC protected game from usermode&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761737-injecting-eac-protected-game-usermode.html)|`2026-07-11 06:11:00`|`Anti-Cheat Bypass`|
+|[Taimanin Squad cheat &#40;test version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761177-taimanin-squad-cheat-test-version.html)|`2026-07-11 06:09:00`|`Other MMORPG and Strategy`|
+|[mayhembot &#40;esp, aimbot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/522922-mayhembot-esp-aimbot.html)|`2026-07-11 06:05:00`|`Call of Duty 4: Modern Warfare`|
+|[Menu Old school design](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/761746-menu-school-design.html)|`2026-07-11 06:02:00`|`C and C++`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-11 05:59:00`|`Escape from Tarkov`|
+|[Rust Mobile Offsets/SDK &#40;WeGame&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761624-rust-mobile-offsets-sdk-wegame.html)|`2026-07-11 05:56:00`|`Other FPS Games`|
+|[Deadsense&#46;cc &#124; Deadlock Multi&#45;Hack &#40;Formerly Andromeda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/761749-deadsense-cc-deadlock-multi-hack-formerly-andromeda.html)|`2026-07-11 05:54:00`|`Deadlock`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-11 05:15:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-11 05:15:00`|`Other FPS Games`|
 |[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761604-skin-changer.html)|`2026-07-11 05:14:00`|`Overwatch`|
