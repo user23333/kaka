@@ -33,9 +33,20 @@
 |0|[dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56167)|`2026-07-10 07:53:48`|
 |3|[NTE&#45;1&#46;2&#46;6 Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56166)|`2026-07-10 07:53:48`|
 |13|[Laurav1&#46;1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56159)|`2026-07-10 07:53:48`|
+|2|[Albion&#45;Online&#45;Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56169)|`2026-07-10 13:10:21`|
+|18|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;0&#46;46010](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56168)|`2026-07-10 13:10:21`|
+|1|[EgguWareV19 &#91;unknowncheats&#46;me&#93;&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56162)|`2026-07-10 13:10:21`|
+|5|[imgui&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56158)|`2026-07-10 13:10:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[linux anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761656-linux-anticheats.html)|`2026-07-10 13:02:00`|`Anti-Cheat Bypass`|
+|[current meta for getting PROCESS&#95;VM&#95;READ past ObRegisterCallbacks &#40;EAC/WinGDK&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761068-current-meta-getting-process_vm_read-past-obregistercallbacks-eac-wingdk.html)|`2026-07-10 12:53:00`|`Anti-Cheat Bypass`|
+|[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-07-10 12:43:00`|`Counter-Strike 2`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-07-10 12:41:00`|`Other FPS Games`|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-07-10 12:37:00`|`Call of Duty: Black Ops 2`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-10 12:35:00`|`Other Games`|
+|[Ready Or Not &#40;RoN&#41; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749592-ready-ron-cheat.html)|`2026-07-10 12:32:00`|`Other FPS Games`|
 |[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-10 09:14:00`|`Valorant`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-10 09:13:00`|`Call of Duty: Black Ops 7`|
 |[Glow ESP disapearing behind objects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761637-glow-esp-disapearing-objects.html)|`2026-07-10 09:12:00`|`Apex Legends`|
