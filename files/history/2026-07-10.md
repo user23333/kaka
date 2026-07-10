@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-10 16:33:00`|`Alternative Online Mods`|
+|[why are things so wrong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761665-wrong.html)|`2026-07-10 16:31:00`|`Counter-Strike 2`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-10 16:27:00`|`Other Games`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-07-10 16:26:00`|`Escape from Tarkov`|
+|[Physics of Explosions &#45; a seminar on blast waves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761670-physics-explosions-seminar-blast-waves.html)|`2026-07-10 16:25:00`|`Counter-Strike 2`|
+|[Implmenting view punch features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761668-implmenting-view-punch-features.html)|`2026-07-10 16:11:00`|`Counter-Strike 2`|
 |[linux anticheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761656-linux-anticheats.html)|`2026-07-10 13:02:00`|`Anti-Cheat Bypass`|
 |[current meta for getting PROCESS&#95;VM&#95;READ past ObRegisterCallbacks &#40;EAC/WinGDK&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761068-current-meta-getting-process_vm_read-past-obregistercallbacks-eac-wingdk.html)|`2026-07-10 12:53:00`|`Anti-Cheat Bypass`|
 |[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-07-10 12:43:00`|`Counter-Strike 2`|
