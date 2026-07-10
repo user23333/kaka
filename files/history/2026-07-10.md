@@ -36,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-10 09:14:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-10 09:13:00`|`Call of Duty: Black Ops 7`|
+|[Glow ESP disapearing behind objects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761637-glow-esp-disapearing-objects.html)|`2026-07-10 09:12:00`|`Apex Legends`|
+|[RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761630-rcs.html)|`2026-07-10 09:11:00`|`Counter-Strike 2`|
+|[Is Vanguard actually good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761367-vanguard-actually.html)|`2026-07-10 09:11:00`|`Anti-Cheat Bypass`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-10 09:11:00`|`Other Games`|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2026-07-10 09:02:00`|`Other FPS Games`|
 |[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-07-10 07:53:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-10 07:46:00`|`Escape from Tarkov`|
 |[Farever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/751543-farever.html)|`2026-07-10 07:45:00`|`Other MMORPG and Strategy`|
