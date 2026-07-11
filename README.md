@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Safely raising Rank from 20 to 120](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/761818-safely-raising-rank-20-120-a.html)|`2026-07-12 04:25:00`|`Grand Theft Auto V`|
+|[Retrieving Player ID Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761174-retrieving-player-id-externally.html)|`2026-07-12 04:21:00`|`Alternative Online Mods`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-07-12 04:21:00`|`Counter-Strike 2`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-12 04:18:00`|`Other MMORPG and Strategy`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-12 04:17:00`|`Overwatch`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-07-12 04:07:00`|`Deadlock`|
 |[NoClip & Speed Hack Causing Server Bans – Help Needed &#40;External FiveM Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761115-noclip-speed-hack-causing-server-bans-help-external-fivem-menu.html)|`2026-07-12 03:40:00`|`Alternative Online Mods`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-12 03:36:00`|`Marvel Rivals`|
 |[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-07-12 03:24:00`|`ARC Raiders`|
