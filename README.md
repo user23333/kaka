@@ -34,6 +34,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-07-11 15:49:00`|`Other Games`|
+|[bypass val&#45;5 vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761701-bypass-val-5-vgc.html)|`2026-07-11 15:48:00`|`Valorant`|
+|[signature help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761824-signature-help.html)|`2026-07-11 15:44:00`|`Counter-Strike 2`|
+|[confgs for mhur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761454-confgs-mhur.html)|`2026-07-11 15:31:00`|`Other Games`|
+|[adhesive hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761410-adhesive-hook.html)|`2026-07-11 15:31:00`|`Alternative Online Mods`|
+|[🐟Fishing Planet🐟&#124;⚡IL2CPP Dump⚡&#124;✨20/6/2026 🐳](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758290-fishing-planet-il2cpp-dump-20-6-2026-a.html)|`2026-07-11 15:28:00`|`Other Games`|
+|[EgguWare V2 &#91;Linux Bypass&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727450-egguware-v2-linux-bypass.html)|`2026-07-11 15:23:00`|`Other FPS Games`|
+|[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-07-11 15:07:00`|`Other MMORPG and Strategy`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-07-11 15:04:00`|`Counter-Strike 2`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-11 13:53:00`|`Apex Legends`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-07-11 13:34:00`|`League of Legends`|
 |[ViewModel Angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761811-viewmodel-angles.html)|`2026-07-11 13:20:00`|`Counter-Strike 2`|
