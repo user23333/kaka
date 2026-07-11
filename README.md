@@ -11,6 +11,7 @@
 |38|[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-12 00:35:56`|`valorant`|
 |10|[Anti Cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761007-anti-cheat-cs2.html)|`2026-07-12 00:35:56`|`counter-strike-2-a`|
 |6|[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-07-12 00:35:56`|`counter-strike-2-a`|
+|15|[BO2 Cyber Tool V2 PS5/PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/761609-bo2-cyber-tool-v2-ps5-ps4.html)|`2026-07-12 06:05:29`|`call-of-duty-black-ops-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-07-12 05:55:00`|`Other FPS Games`|
+|[Simple Liar's Bar Mod &#124; 0&#46;93 &#124; DLL &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/691934-simple-liars-bar-mod-0-93-dll-source.html)|`2026-07-12 05:54:00`|`Other Games`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-07-12 05:50:00`|`Other MMORPG and Strategy`|
+|[Unblocklisted Vulnerable Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754837-unblocklisted-vulnerable-driver.html)|`2026-07-12 05:35:00`|`Anti-Cheat Bypass`|
+|[Brawlhalla Autododge &#40;KEYBOARD ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/761189-brawlhalla-autododge-keyboard.html)|`2026-07-12 05:34:00`|`Off Topic`|
+|[DMA class: Checking my implementation plan & questions about good practices](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/761603-dma-class-checking-implementation-plan-questions-practices.html)|`2026-07-12 05:31:00`|`General Programming and Reversing`|
 |[Is kdmapper detected by BattleEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/761885-kdmapper-detected-battleeye.html)|`2026-07-12 05:08:00`|`Rainbow Six Siege`|
 |[Deadsense &#124; Deadlock Multi&#45;Hack &#40;Formerly Andromeda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/761897-deadsense-deadlock-multi-hack-formerly-andromeda.html)|`2026-07-12 05:03:00`|`Deadlock`|
 |[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-12 04:50:00`|`Palworld`|
