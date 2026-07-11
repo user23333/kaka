@@ -11,6 +11,7 @@
 |28|[Is Vanguard actually good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761367-vanguard-actually.html)|`2026-07-11 01:25:25`|`anti-cheat-bypass`|
 |37|[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-11 01:25:25`|`valorant`|
 |8|[Anti Cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761007-anti-cheat-cs2.html)|`2026-07-11 01:25:25`|`counter-strike-2-a`|
+|15|[Model flipper, Polarity shift exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/760868-model-flipper-polarity-shift-exploit.html)|`2026-07-11 08:08:36`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[zirconium: injectable DLL cheat for Plutonium BO2 zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/748227-zirconium-injectable-dll-cheat-plutonium-bo2-zombies.html)|`2026-07-11 08:05:00`|`Call of Duty: Black Ops 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-11 08:04:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-11 08:00:00`|`Call of Duty: Black Ops 7`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-11 07:52:00`|`Valorant`|
+|[aimbot methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761762-aimbot-methods.html)|`2026-07-11 07:52:00`|`Valorant`|
 |[smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745091-smoke-voxels.html)|`2026-07-11 06:59:00`|`Counter-Strike 2`|
 |[How can I make a strong bypass for MLBB?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/759406-strong-bypass-mlbb.html)|`2026-07-11 06:53:00`|`General Programming and Reversing`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-11 06:53:00`|`Overwatch`|
