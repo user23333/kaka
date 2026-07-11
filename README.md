@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NoClip & Speed Hack Causing Server Bans – Help Needed &#40;External FiveM Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761115-noclip-speed-hack-causing-server-bans-help-external-fivem-menu.html)|`2026-07-12 03:40:00`|`Alternative Online Mods`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-12 03:36:00`|`Marvel Rivals`|
+|[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-07-12 03:24:00`|`ARC Raiders`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-12 03:20:00`|`Rainbow Six Siege`|
+|[external debug camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761886-external-debug-camera.html)|`2026-07-12 03:14:00`|`Rust`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-12 02:28:00`|`Apex Legends`|
 |[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-07-12 02:17:00`|`Other Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-07-12 02:16:00`|`DayZ SA`|
