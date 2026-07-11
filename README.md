@@ -37,6 +37,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-11 23:36:00`|`Anti-Cheat Bypass`|
+|[valorant van guard acc lock fix help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761829-valorant-van-guard-acc-lock-fix-help.html)|`2026-07-11 23:35:00`|`Valorant`|
+|[Safely raising Rank from 20 to 120](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/761818-safely-raising-rank-20-120-a.html)|`2026-07-11 23:19:00`|`Grand Theft Auto V`|
+|[Help, I'm trying to write some internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759885-help-im-trying-write-internals.html)|`2026-07-11 23:06:00`|`Counter-Strike 2`|
 |[Chinese version Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761677-chinese-version-rust.html)|`2026-07-11 22:50:00`|`Rust`|
 |[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-11 22:45:00`|`Other Games`|
 |[how to reverse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/761400-reverse.html)|`2026-07-11 22:41:00`|`General Programming and Reversing`|
