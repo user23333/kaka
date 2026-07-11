@@ -31,9 +31,21 @@
 |5|[Vex&#95;latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56185)|`2026-07-11 05:16:45`|
 |2|[clean imgui menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56188)|`2026-07-11 06:17:22`|
 |5|[rust&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56192)|`2026-07-11 07:14:24`|
+|3|[How to grow a Black Hole Trainer Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56199)|`2026-07-11 22:00:49`|
+|6|[5&#46;1&#46;1&#45;0&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;1&#45;Pal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56197)|`2026-07-11 22:00:49`|
+|1|[DBD DMA ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56194)|`2026-07-11 22:00:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is Vanguard actually good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761367-vanguard-actually.html)|`2026-07-11 21:56:00`|`Anti-Cheat Bypass`|
+|[current meta for getting PROCESS&#95;VM&#95;READ past ObRegisterCallbacks &#40;EAC/WinGDK&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761068-current-meta-getting-process_vm_read-past-obregistercallbacks-eac-wingdk.html)|`2026-07-11 21:56:00`|`Anti-Cheat Bypass`|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-07-11 21:55:00`|`Other Games`|
+|[Albion Pathfind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743846-albion-pathfind.html)|`2026-07-11 21:53:00`|`Other MMORPG and Strategy`|
+|[What wrong with gloves after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761848-wrong-gloves-update.html)|`2026-07-11 21:51:00`|`Counter-Strike 2`|
+|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-11 21:49:00`|`Palworld`|
+|[attestation properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760278-attestation-properly.html)|`2026-07-11 21:46:00`|`Anti-Cheat Bypass`|
+|[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-07-11 21:34:00`|`Palworld`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-11 21:31:00`|`Tom Clancy's The Division`|
 |[Anti Cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761007-anti-cheat-cs2.html)|`2026-07-11 20:26:00`|`Counter-Strike 2`|
 |[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-07-11 20:22:00`|`Alternative Online Mods`|
 |[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-07-11 20:15:00`|`Other Games`|
