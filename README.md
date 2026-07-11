@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761820-overlay-delay.html)|`2026-07-11 18:29:00`|`Counter-Strike 2`|
+|[Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/761761-visible-check.html)|`2026-07-11 18:24:00`|`Deadlock`|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-07-11 18:23:00`|`Grand Theft Auto V`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-07-11 18:22:00`|`Counter-Strike 2 Releases`|
+|[VGC emulator by Travix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760942-vgc-emulator-travix.html)|`2026-07-11 18:04:00`|`Valorant`|
+|[Updating imperial need help :&#40;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760456-updating-imperial-help.html)|`2026-07-11 18:00:00`|`Overwatch`|
+|[Regarding new dead by daylight "method"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761463-regarding-dead-daylight-method.html)|`2026-07-11 17:56:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-11 17:07:00`|`Other Games`|
 |[ShellShock Live Aimbot & Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761063-shellshock-live-aimbot-spinbot.html)|`2026-07-11 17:03:00`|`Other FPS Games`|
 |[EAC rejecting mouse inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761722-eac-rejecting-mouse-inputs.html)|`2026-07-11 16:52:00`|`Anti-Cheat Bypass`|
