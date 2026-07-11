@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-11 17:07:00`|`Other Games`|
+|[ShellShock Live Aimbot & Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761063-shellshock-live-aimbot-spinbot.html)|`2026-07-11 17:03:00`|`Other FPS Games`|
+|[EAC rejecting mouse inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761722-eac-rejecting-mouse-inputs.html)|`2026-07-11 16:52:00`|`Anti-Cheat Bypass`|
+|[Dumping EFT, an &#40;mostly&#41; easy to follow tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760176-dumping-eft-easy-follow-tutorial.html)|`2026-07-11 16:46:00`|`Escape from Tarkov`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-11 16:35:00`|`Grand Theft Auto V`|
 |[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-07-11 15:49:00`|`Other Games`|
 |[bypass val&#45;5 vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761701-bypass-val-5-vgc.html)|`2026-07-11 15:48:00`|`Valorant`|
 |[signature help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761824-signature-help.html)|`2026-07-11 15:44:00`|`Counter-Strike 2`|
