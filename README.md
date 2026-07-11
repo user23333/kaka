@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is kdmapper detected by BattleEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/761885-kdmapper-detected-battleeye.html)|`2026-07-12 05:08:00`|`Rainbow Six Siege`|
+|[Deadsense &#124; Deadlock Multi&#45;Hack &#40;Formerly Andromeda&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/761897-deadsense-deadlock-multi-hack-formerly-andromeda.html)|`2026-07-12 05:03:00`|`Deadlock`|
+|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-12 04:50:00`|`Palworld`|
+|[release function from the administrator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761726-release-function-administrator.html)|`2026-07-12 04:48:00`|`Alternative Online Mods`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-12 04:46:00`|`Counter-Strike 2`|
 |[Safely raising Rank from 20 to 120](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/761818-safely-raising-rank-20-120-a.html)|`2026-07-12 04:25:00`|`Grand Theft Auto V`|
 |[Retrieving Player ID Externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761174-retrieving-player-id-externally.html)|`2026-07-12 04:21:00`|`Alternative Online Mods`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-07-12 04:21:00`|`Counter-Strike 2`|
