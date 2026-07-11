@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-12 02:28:00`|`Apex Legends`|
+|[Forza Horizon 6 Reversal, Structs, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754739-forza-horizon-6-reversal-structs-offsets.html)|`2026-07-12 02:17:00`|`Other Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-07-12 02:16:00`|`DayZ SA`|
+|[valorant van guard acc lock fix help me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761829-valorant-van-guard-acc-lock-fix-help.html)|`2026-07-12 02:14:00`|`Valorant`|
+|[engine prediction not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761434-engine-prediction.html)|`2026-07-12 02:12:00`|`Counter-Strike 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-07-12 02:09:00`|`Palworld`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-12 01:59:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-12 01:53:00`|`Alternative Online Mods`|
 |[current meta for getting PROCESS&#95;VM&#95;READ past ObRegisterCallbacks &#40;EAC/WinGDK&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761068-current-meta-getting-process_vm_read-past-obregistercallbacks-eac-wingdk.html)|`2026-07-12 01:32:00`|`Anti-Cheat Bypass`|
 |[BO2 Cyber Tool V2 PS5/PS4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/761609-bo2-cyber-tool-v2-ps5-ps4.html)|`2026-07-12 01:31:00`|`Call of Duty: Black Ops 2`|
 |[AMD Streamproof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761845-amd-streamproof.html)|`2026-07-12 01:28:00`|`Alternative Online Mods`|
