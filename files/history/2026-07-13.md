@@ -25,9 +25,21 @@
 |97|[Vex&#95;latest](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56185)|`2026-07-13 00:32:11`|
 |21|[Dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56184)|`2026-07-13 00:32:11`|
 |36|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56179)|`2026-07-13 00:32:11`|
+|1|[Depencendies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56231)|`2026-07-13 05:09:19`|
+|6|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56229)|`2026-07-13 05:09:19`|
+|0|[100% ud eac driver ong](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56227)|`2026-07-13 05:09:19`|
+|4|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;0&#46;46010](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56224)|`2026-07-13 05:09:19`|
+|6|[NUTON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56195)|`2026-07-13 05:09:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-13 05:04:00`|`Palworld`|
+|[kill effects](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761261-kill-effects.html)|`2026-07-13 05:04:00`|`Counter-Strike 2`|
+|[External Chams &#40;Shaded Material&#41; &#45; Looking for implementation advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762008-external-chams-shaded-material-looking-implementation-advice.html)|`2026-07-13 05:03:00`|`Roblox`|
+|[gravity&#46;ez](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/762028-gravity-ez.html)|`2026-07-13 05:00:00`|`Introductions`|
+|[pe&#45;packer x86&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761963-pe-packer-x86-x64.html)|`2026-07-13 04:58:00`|`Anti-Cheat Bypass`|
+|[Bober &#124; Legit External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762051-bober-legit-external-esp.html)|`2026-07-13 04:58:00`|`Counter-Strike 2`|
+|[Hello Everyone&#33; New Member Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/761968-hello.html)|`2026-07-13 04:57:00`|`Introductions`|
 |[safe outline method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760907-safe-outline-method.html)|`2026-07-13 04:23:00`|`Overwatch`|
 |[EAC Static Analyzed Labeled IDA Database&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762044-eac-static-analyzed-labeled-ida-database.html)|`2026-07-13 04:22:00`|`Anti-Cheat Bypass`|
 |[Larger hitbox in external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762003-larger-hitbox-external.html)|`2026-07-13 04:20:00`|`Alternative Online Mods`|
