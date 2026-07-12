@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal chams / wallhack / wireframe &#40;filter&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761970-internal-chams-wallhack-wireframe-filter.html)|`2026-07-12 16:23:00`|`Alternative Online Mods`|
+|[SCP:Secret laboratory &#91;External&#93; ESP linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761969-scp-secret-laboratory-external-esp-linux.html)|`2026-07-12 16:15:00`|`Other FPS Games`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-07-12 16:11:00`|`Rainbow Six Siege`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-12 15:58:00`|`Grand Theft Auto V`|
+|[Abyssus Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/714901-abyssus-internal-hack.html)|`2026-07-12 15:57:00`|`Other FPS Games`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-12 15:52:00`|`Other Games`|
+|[Visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/761761-visible-check.html)|`2026-07-12 15:50:00`|`Deadlock`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-07-12 15:45:00`|`Unity`|
 |[val5 after 8–12 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761117-val5-8-12-minutes.html)|`2026-07-12 14:10:00`|`Valorant`|
 |[mapping over signed memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761930-mapping-signed-memory.html)|`2026-07-12 14:06:00`|`Anti-Cheat Bypass`|
 |[Help With Driver and EAC Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760955-help-driver-eac-detection-vectors.html)|`2026-07-12 13:43:00`|`Anti-Cheat Bypass`|
