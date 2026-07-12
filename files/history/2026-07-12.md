@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-07-12 19:10:00`|`Rainbow Six Siege`|
+|[Banned After Using Triggerbot/Colorbot in 1 day&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761844-banned-using-triggerbot-colorbot-1-day.html)|`2026-07-12 18:58:00`|`Valorant`|
+|[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-07-12 18:53:00`|`Other Games`|
+|[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-07-12 18:42:00`|`Call of Duty: Black Ops 2`|
+|[R6 &#45; Script Lua No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/718855-r6-script-lua-recoil.html)|`2026-07-12 18:33:00`|`Rainbow Six Siege`|
+|[HOW TO JITTER AIM IN 2026 razer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/759360-jitter-aim-2026-razer.html)|`2026-07-12 18:26:00`|`Apex Legends`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-12 18:13:00`|`Other Games`|
 |[GUI Framework Electro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761976-gui-framework-electro.html)|`2026-07-12 18:03:00`|`Counter-Strike 2`|
 |[Aimbot Code Inside Trusted Apps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761731-aimbot-code-inside-trusted-apps.html)|`2026-07-12 18:02:00`|`Anti-Cheat Bypass`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-12 18:02:00`|`Tom Clancy's The Division`|
