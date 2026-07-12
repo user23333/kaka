@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-07-12 20:08:00`|`Escape from Tarkov`|
+|[Bloodstrike skin lobby display](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761083-bloodstrike-skin-lobby-display.html)|`2026-07-12 20:05:00`|`Other FPS Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-12 20:04:00`|`Other Games`|
+|[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-07-12 20:01:00`|`Cheat Engine Tables`|
+|[Krabik &#45; a fishing bot for WoW 3&#46;3&#46;5a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/751328-krabik-fishing-bot-wow-3-3-5a.html)|`2026-07-12 19:39:00`|`Wow Hacks and Bots`|
+|[How do I use subtick properly?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761983-subtick-properly.html)|`2026-07-12 19:36:00`|`Counter-Strike 2`|
 |[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-07-12 19:10:00`|`Rainbow Six Siege`|
 |[Banned After Using Triggerbot/Colorbot in 1 day&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761844-banned-using-triggerbot-colorbot-1-day.html)|`2026-07-12 18:58:00`|`Valorant`|
 |[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-07-12 18:53:00`|`Other Games`|
