@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GUI Framework Electro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761976-gui-framework-electro.html)|`2026-07-12 18:03:00`|`Counter-Strike 2`|
+|[Aimbot Code Inside Trusted Apps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761731-aimbot-code-inside-trusted-apps.html)|`2026-07-12 18:02:00`|`Anti-Cheat Bypass`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-12 18:02:00`|`Tom Clancy's The Division`|
+|[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-07-12 17:52:00`|`Counter-Strike 2 Releases`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-12 17:49:00`|`Counter-Strike 2 Releases`|
+|[new interrupt method eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738104-interrupt-method-eac.html)|`2026-07-12 17:48:00`|`Anti-Cheat Bypass`|
+|[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/628883-roblox-offsets.html)|`2026-07-12 17:40:00`|`Roblox`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-12 17:35:00`|`Other Games`|
 |[internal chams / wallhack / wireframe &#40;filter&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761970-internal-chams-wallhack-wireframe-filter.html)|`2026-07-12 16:23:00`|`Alternative Online Mods`|
 |[SCP:Secret laboratory &#91;External&#93; ESP linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761969-scp-secret-laboratory-external-esp-linux.html)|`2026-07-12 16:15:00`|`Other FPS Games`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-07-12 16:11:00`|`Rainbow Six Siege`|
