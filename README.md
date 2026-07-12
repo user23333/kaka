@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[safe outline method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760907-safe-outline-method.html)|`2026-07-13 04:23:00`|`Overwatch`|
+|[EAC Static Analyzed Labeled IDA Database&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762044-eac-static-analyzed-labeled-ida-database.html)|`2026-07-13 04:22:00`|`Anti-Cheat Bypass`|
+|[Larger hitbox in external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762003-larger-hitbox-external.html)|`2026-07-13 04:20:00`|`Alternative Online Mods`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-13 04:18:00`|`Counter-Strike 2`|
+|[Straftaft Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758244-straftaft-rage-cheat.html)|`2026-07-13 04:16:00`|`Other Games`|
+|[Andromeda Deadlock &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/740315-andromeda-deadlock-updated.html)|`2026-07-13 04:16:00`|`Deadlock`|
+|[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-13 04:10:00`|`Deadlock`|
 |[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-13 03:30:00`|`Other FPS Games`|
 |[C&#95;PlantedC4 broken after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762019-c_plantedc4-broken-update.html)|`2026-07-13 03:29:00`|`Counter-Strike 2`|
 |[ESP making guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/755007-esp-guide.html)|`2026-07-13 03:18:00`|`Programming for Beginners`|
