@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-07-13 02:28:00`|`Other FPS Games`|
+|[SMM Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754532-smm-mapper.html)|`2026-07-13 02:23:00`|`Anti-Cheat Bypass`|
+|[AC Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/762027-ac-detection.html)|`2026-07-13 02:17:00`|`Tower of Fantasy`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-13 02:17:00`|`Other MMORPG and Strategy`|
+|[Aniimo &#45; LUA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736013-aniimo-lua-tool.html)|`2026-07-13 02:08:00`|`Other MMORPG and Strategy`|
+|[Rhythia Auto Player or Aim Assist Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746516-rhythia-auto-player-aim-assist-cheat.html)|`2026-07-13 02:02:00`|`Other Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-13 02:01:00`|`Rust`|
+|[Overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761820-overlay-delay.html)|`2026-07-13 01:52:00`|`Counter-Strike 2`|
+|[Need help for Yim V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762012-help-yim-v2.html)|`2026-07-13 01:45:00`|`Grand Theft Auto V`|
 |[TBH God Editor &#40;v1&#46;00&#46;20&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758846-tbh-god-editor-v1-00-20-a.html)|`2026-07-13 01:31:00`|`Other Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-13 01:30:00`|`Counter-Strike 2 Releases`|
 |[Recreating One Of The Top Colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/761625-recreating-top-colorbots.html)|`2026-07-13 01:28:00`|`Call of Duty: Black Ops 7`|
