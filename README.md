@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[val5 after 8–12 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761117-val5-8-12-minutes.html)|`2026-07-12 14:10:00`|`Valorant`|
+|[mapping over signed memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761930-mapping-signed-memory.html)|`2026-07-12 14:06:00`|`Anti-Cheat Bypass`|
+|[Help With Driver and EAC Detection Vectors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760955-help-driver-eac-detection-vectors.html)|`2026-07-12 13:43:00`|`Anti-Cheat Bypass`|
+|[Chickynoid models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761939-chickynoid-models.html)|`2026-07-12 13:37:00`|`Roblox`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-07-12 13:36:00`|`Other FPS Games`|
+|[Dune Awakening deployable duplication exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707430-dune-awakening-deployable-duplication-exploit.html)|`2026-07-12 13:22:00`|`Other FPS Games`|
+|[What wrong with gloves after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761848-wrong-gloves-update.html)|`2026-07-12 13:20:00`|`Counter-Strike 2`|
 |[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-07-12 10:57:00`|`Other Games`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-12 10:55:00`|`Apex Legends`|
 |[EAC rejecting mouse inputs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761722-eac-rejecting-mouse-inputs.html)|`2026-07-12 10:45:00`|`Anti-Cheat Bypass`|
