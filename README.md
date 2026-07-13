@@ -25,9 +25,19 @@
 |26|[Andromeda&#45;DeadLock&#45;Base&#45;1&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56232)|`2026-07-14 01:42:51`|
 |16|[Depencendies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56231)|`2026-07-14 01:42:51`|
 |44|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56229)|`2026-07-14 01:42:51`|
+|2|[GPAD&#95;Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56248)|`2026-07-14 05:14:42`|
+|2|[Battle For Embolia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56247)|`2026-07-14 05:14:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EngineTrace / TraceShape release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/747109-enginetrace-traceshape-release.html)|`2026-07-14 05:12:00`|`Counter-Strike 2`|
+|[Safely raising Rank from 20 to 120](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/761818-safely-raising-rank-20-120-a.html)|`2026-07-14 05:11:00`|`Grand Theft Auto V`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-07-14 05:05:00`|`Other FPS Games`|
+|[Anyone got the latest offsets and all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762001-offsets.html)|`2026-07-14 05:05:00`|`Rainbow Six Siege`|
+|[Incident CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/761699-incident-cs2-internal.html)|`2026-07-14 05:02:00`|`Counter-Strike 2 Releases`|
+|[Request on a &#46;onnx for Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761850-request-onnx-valorant.html)|`2026-07-14 05:02:00`|`Valorant`|
+|[Rust External Cheat Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762062-rust-external-cheat-help.html)|`2026-07-14 04:59:00`|`Rust`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-14 04:58:00`|`Counter-Strike 2`|
 |[Rust dumper &#45; decryptions and some offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/743410-rust-dumper-decryptions-offsets.html)|`2026-07-14 04:19:00`|`Rust`|
 |[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-14 04:18:00`|`Call of Duty: Black Ops`|
 |[Someone can say me how can i bypass attestation ? &#40; My bios is upd but ask me to upd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/762214-bypass-attestation-bios-upd-upd.html)|`2026-07-14 04:17:00`|`Call of Duty: Black Ops 7`|
