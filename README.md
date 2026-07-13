@@ -12,6 +12,7 @@
 |10|[Block epic account reports &#40;headless account abuse / FN demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761144-block-epic-account-reports-headless-account-abuse-fn-demo.html)|`2026-07-13 00:32:11`|`anti-cheat-bypass`|
 |42|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-13 00:32:11`|`overwatch`|
 |19|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-07-13 03:38:18`|`genshin-impact`|
+|6|[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-07-13 12:46:30`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,17 @@
 |4|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;0&#46;46010](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56224)|`2026-07-13 05:09:19`|
 |6|[NUTON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56195)|`2026-07-13 05:09:19`|
 |9|[EasyAntiCheat&#95;EOS&#95;Fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56233)|`2026-07-13 06:03:54`|
+|7|[Roblox injector gaming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56234)|`2026-07-13 12:46:30`|
+|1|[Andromeda&#45;DeadLock&#45;Base&#45;1&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56232)|`2026-07-13 12:46:30`|
+|118|[NetCrack&#45;PalWorld&#43;Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56228)|`2026-07-13 12:46:30`|
+|2|[OverThe0wned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56223)|`2026-07-13 12:46:30`|
+|3|[InstantReloads3&#46;ba2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56222)|`2026-07-13 12:46:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-13 12:33:00`|`Other Games`|
+|[ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762081-esp.html)|`2026-07-13 12:32:00`|`Rainbow Six Siege`|
+|[FP started obfuscating MacOS build :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762088-fp-started-obfuscating-macos-build.html)|`2026-07-13 12:30:00`|`Rust`|
 |[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-07-13 09:10:00`|`Other Games`|
 |[PanoramaImage crashes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762067-panoramaimage-crashes.html)|`2026-07-13 09:09:00`|`Counter-Strike 2`|
 |[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/761514-external-silent-aim.html)|`2026-07-13 08:57:00`|`Rust`|
