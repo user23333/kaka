@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Internal Rage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/606166-cs2-internal-rage-cheat.html)|`2026-07-13 23:45:00`|`Counter-Strike 2 Releases`|
+|[&#91;EGS&#93;Dead by Daylight &#45; Permanent Prestiger with Item Sniper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/727771-egs-dead-daylight-permanent-prestiger-item-sniper.html)|`2026-07-13 23:44:00`|`Other FPS Games`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-13 23:39:00`|`Overwatch`|
+|[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762004-detection-virtualization.html)|`2026-07-13 23:38:00`|`Anti-Cheat Bypass`|
+|[Any fully undetected free Valorant triggerbot here?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761907-undetected-free-valorant-triggerbot.html)|`2026-07-13 23:37:00`|`Valorant`|
+|[bug triying to do a weapons components](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762161-bug-triying-weapons-components.html)|`2026-07-13 23:22:00`|`Alternative Online Mods`|
 |[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-07-13 21:01:00`|`Other Games`|
 |[Rust Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762097-rust-question.html)|`2026-07-13 20:59:00`|`Rust`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-13 20:57:00`|`Counter-Strike 2`|
