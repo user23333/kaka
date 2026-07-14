@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761820-overlay-delay.html)|`2026-07-14 15:26:00`|`Counter-Strike 2`|
+|[Rust has added new stuff in these updates &#45; squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762270-rust-added-stuff-updates-squad.html)|`2026-07-14 15:22:00`|`Rust`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-14 15:20:00`|`ARC Raiders`|
+|[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-07-14 15:11:00`|`ARMA 3`|
+|[anyone can make me a cheat for 1&#46;6&#46;4 &#40; injection &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/759129-cheat-1-6-4-injection.html)|`2026-07-14 14:39:00`|`Minecraft`|
+|[val5 after 8–12 minutes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761117-val5-8-12-minutes.html)|`2026-07-14 14:25:00`|`Valorant`|
 |[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-07-14 13:24:00`|`Valorant`|
 |[any one have hack menu for the division 1 It works well](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/762149-hack-menu-division-1-a.html)|`2026-07-14 13:21:00`|`Tom Clancy's The Division`|
 |[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-07-14 13:13:00`|`HELLDIVERS 2`|
