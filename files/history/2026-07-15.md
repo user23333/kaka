@@ -12,6 +12,7 @@
 |28|[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-15 00:48:48`|`anti-cheat-bypass`|
 |29|[engine prediction not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761434-engine-prediction.html)|`2026-07-15 00:48:48`|`counter-strike-2-a`|
 |11|[FemboyProLaptop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761286-femboyprolaptop-external.html)|`2026-07-15 02:49:47`|`roblox`|
+|7|[Unblocklisted Vulnerable Driver &#40;EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761368-unblocklisted-vulnerable-driver-eac.html)|`2026-07-15 07:32:27`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,17 @@
 |5|[Dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56275)|`2026-07-15 02:49:47`|
 |9|[13&#46;01 val sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56276)|`2026-07-15 03:59:02`|
 |2|[Prestige 1&#46;1 Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56280)|`2026-07-15 06:42:07`|
+|22|[TempleWare Updated 1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56279)|`2026-07-15 07:32:27`|
+|1|[OverThe0wned v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56270)|`2026-07-15 07:32:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yim Menu not working after latest GTA V update 1&#46;73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762390-yim-menu-gta-update-1-73-a.html)|`2026-07-15 07:24:00`|`Alternative Online Mods`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-15 07:13:00`|`Grand Theft Auto V`|
+|[Linux Dead by Daylight External &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762117-linux-dead-daylight-external-steam.html)|`2026-07-15 07:10:00`|`Other FPS Games`|
+|[Fishing Plant &#45; internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758779-fishing-plant-internal-cheat.html)|`2026-07-15 07:09:00`|`Other Games`|
+|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-15 07:07:00`|`Palworld`|
+|[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-07-15 06:59:00`|`Other FPS Games`|
 |[Val fix val &#45;102](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762275-val-fix-val-102-a.html)|`2026-07-15 06:41:00`|`Valorant`|
 |[Roblox offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/628883-roblox-offsets.html)|`2026-07-15 06:34:00`|`Roblox`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-15 06:34:00`|`Grand Theft Auto V`|
