@@ -26,9 +26,17 @@
 |13|[i2cpp offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56251)|`2026-07-15 00:48:48`|
 |19|[imgui&#45;studio&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56249)|`2026-07-15 00:48:48`|
 |5|[Dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56275)|`2026-07-15 02:49:47`|
+|9|[13&#46;01 val sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56276)|`2026-07-15 03:59:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-15 03:57:00`|`Counter-Strike 2`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-15 03:55:00`|`ARMA 3`|
+|[External Chams &#40;Shaded Material&#41; &#45; Looking for implementation advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762008-external-chams-shaded-material-looking-implementation-advice.html)|`2026-07-15 03:53:00`|`Roblox`|
+|[Need help for Yim V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762012-help-yim-v2.html)|`2026-07-15 03:51:00`|`Grand Theft Auto V`|
+|[Regarding Apex KVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/762360-regarding-apex-kvm.html)|`2026-07-15 03:43:00`|`Apex Legends`|
+|[New DLC available July 14th: The Kortz Center Heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/757941-dlc-available-july-14th-kortz-center-heist.html)|`2026-07-15 03:39:00`|`Grand Theft Auto V`|
+|[Adding In&#45;Game StatTrak Counter, Nametag & Keychain Entities&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760574-adding-game-stattrak-counter-nametag-keychain-entities.html)|`2026-07-15 03:39:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-15 02:48:00`|`Other FPS Games`|
 |[My pelvis is so long it touches the ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762339-pelvis-touches-ground.html)|`2026-07-15 02:47:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-15 02:46:00`|`Overwatch`|
