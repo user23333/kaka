@@ -39,6 +39,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Asking for help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/761649-help.html)|`2026-07-14 18:51:00`|`Forum General`|
+|[New DLC available July 14th: The Kortz Center Heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/757941-dlc-available-july-14th-kortz-center-heist.html)|`2026-07-14 18:48:00`|`Grand Theft Auto V`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-07-14 18:47:00`|`Grand Theft Auto V`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-14 18:47:00`|`Counter-Strike 2`|
+|[Brawlhalla Autododge &#40;KEYBOARD ONLY&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/761189-brawlhalla-autododge-keyboard.html)|`2026-07-14 18:44:00`|`Off Topic`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-14 18:44:00`|`Valorant`|
+|[Is kdmapper detected by BattleEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/761885-kdmapper-detected-battleeye.html)|`2026-07-14 18:41:00`|`Rainbow Six Siege`|
+|[Skeleton ESP broken after latest update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762283-skeleton-esp-broken-update.html)|`2026-07-14 18:39:00`|`Counter-Strike 2`|
 |[ARC Raiders &#45; Need Help with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/761920-arc-raiders-help-offsets.html)|`2026-07-14 17:14:00`|`ARC Raiders`|
 |[Frost Punk &#91;Debug&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762278-frost-punk-debug.html)|`2026-07-14 17:12:00`|`Other Games`|
 |[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/762267-dump.html)|`2026-07-14 17:11:00`|`Escape from Tarkov`|
