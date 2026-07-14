@@ -33,9 +33,17 @@
 |2|[Updater&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56255)|`2026-07-14 13:39:37`|
 |3|[The Finals SDK dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56254)|`2026-07-14 13:39:37`|
 |3|[imgui&#45;studio&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56249)|`2026-07-14 13:39:37`|
+|1|[MetaDataDumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56259)|`2026-07-14 17:21:37`|
+|1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56258)|`2026-07-14 17:21:37`|
+|5|[ForstlineV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56253)|`2026-07-14 17:21:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders &#45; Need Help with Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/761920-arc-raiders-help-offsets.html)|`2026-07-14 17:14:00`|`ARC Raiders`|
+|[Frost Punk &#91;Debug&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762278-frost-punk-debug.html)|`2026-07-14 17:12:00`|`Other Games`|
+|[dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/762267-dump.html)|`2026-07-14 17:11:00`|`Escape from Tarkov`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-14 16:55:00`|`Other MMORPG and Strategy`|
+|[STALCRAFT FULL External Entity Retrieval &#45; SHM&#45;TEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756139-stalcraft-external-entity-retrieval-shm-team.html)|`2026-07-14 16:31:00`|`Other FPS Games`|
 |[Overlay delay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761820-overlay-delay.html)|`2026-07-14 15:26:00`|`Counter-Strike 2`|
 |[Rust has added new stuff in these updates &#45; squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762270-rust-added-stuff-updates-squad.html)|`2026-07-14 15:22:00`|`Rust`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-14 15:20:00`|`ARC Raiders`|
