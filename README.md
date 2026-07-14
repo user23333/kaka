@@ -30,9 +30,20 @@
 |2|[GPAD&#95;Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56248)|`2026-07-14 05:14:42`|
 |2|[Battle For Embolia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56247)|`2026-07-14 05:14:42`|
 |1|[i2cpp offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56251)|`2026-07-14 06:09:28`|
+|2|[Updater&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56255)|`2026-07-14 13:39:37`|
+|3|[The Finals SDK dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56254)|`2026-07-14 13:39:37`|
+|3|[imgui&#45;studio&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56249)|`2026-07-14 13:39:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-07-14 13:24:00`|`Valorant`|
+|[any one have hack menu for the division 1 It works well](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/762149-hack-menu-division-1-a.html)|`2026-07-14 13:21:00`|`Tom Clancy's The Division`|
+|[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-07-14 13:13:00`|`HELLDIVERS 2`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-07-14 13:13:00`|`Other FPS Games`|
+|[Recreating One Of The Top Colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/761625-recreating-top-colorbots.html)|`2026-07-14 13:03:00`|`Call of Duty: Black Ops 7`|
+|[New Wireframe ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762262-wireframe-esp.html)|`2026-07-14 12:47:00`|`Counter-Strike 2`|
+|[Echo Apex Legends External &#40;UPDATED 7/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/761218-echo-apex-legends-external-updated-7-7-2026-a.html)|`2026-07-14 12:46:00`|`Apex Legends`|
+|[Cs2 Internal bases i could use](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762260-cs2-internal-bases.html)|`2026-07-14 12:44:00`|`Counter-Strike 2`|
 |[Pokemon MMO 3D External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756928-pokemon-mmo-3d-external.html)|`2026-07-14 11:13:00`|`Other MMORPG and Strategy`|
 |[custom ped external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762239-custom-ped-external.html)|`2026-07-14 11:09:00`|`Alternative Online Mods`|
 |[What wrong with gloves after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761848-wrong-gloves-update.html)|`2026-07-14 10:57:00`|`Counter-Strike 2`|
