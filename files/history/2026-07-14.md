@@ -14,6 +14,7 @@
 |35|[mapping over signed memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761930-mapping-signed-memory.html)|`2026-07-14 04:20:14`|`anti-cheat-bypass`|
 |10|[Incident CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/761699-incident-cs2-internal.html)|`2026-07-14 07:08:49`|`counter-strike-2-releases`|
 |6|[Simple Meccha Chameleon internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761707-simple-meccha-chameleon-internal-cheat.html)|`2026-07-14 11:14:52`|`other-games`|
+|28|[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-14 22:07:26`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,9 +37,17 @@
 |1|[MetaDataDumper&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56259)|`2026-07-14 17:21:37`|
 |1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56258)|`2026-07-14 17:21:37`|
 |5|[ForstlineV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56253)|`2026-07-14 17:21:37`|
+|1|[Frost Punk Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56260)|`2026-07-14 22:07:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-14 22:06:00`|`Rainbow Six Siege`|
+|[Vehicle License Plate Creator Options Available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/742126-vehicle-license-plate-creator-options-available.html)|`2026-07-14 22:01:00`|`Grand Theft Auto V`|
+|[Fini Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762305-fini-anti-cheat.html)|`2026-07-14 21:53:00`|`Alternative Online Mods`|
+|[How to Get Unbanned on Gta 5 Online Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762298-unbanned-gta-5-online-enhanced.html)|`2026-07-14 21:51:00`|`Grand Theft Auto V`|
+|[vac exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762280-vac-exploit.html)|`2026-07-14 21:46:00`|`Counter-Strike 2`|
+|[Celex source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761217-celex-source.html)|`2026-07-14 21:38:00`|`Roblox`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-14 21:37:00`|`Other FPS Games`|
 |[PostMessage blocked&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762290-postmessage-blocked.html)|`2026-07-14 20:02:00`|`Valorant`|
 |[Cheat Detection Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/762294-cheat-detection-settings.html)|`2026-07-14 19:52:00`|`Sea of Thieves`|
 |[Can’t Solve Discord captchas with Self&#45;Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/762293-solve-discord-captchas-self-bots.html)|`2026-07-14 19:52:00`|`Web and Scripting`|
