@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PostMessage blocked&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762290-postmessage-blocked.html)|`2026-07-14 20:02:00`|`Valorant`|
+|[Cheat Detection Settings](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/762294-cheat-detection-settings.html)|`2026-07-14 19:52:00`|`Sea of Thieves`|
+|[Can’t Solve Discord captchas with Self&#45;Bots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/762293-solve-discord-captchas-self-bots.html)|`2026-07-14 19:52:00`|`Web and Scripting`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-07-14 19:50:00`|`Sea of Thieves`|
+|[Driver Mapper Need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/759324-driver-mapper.html)|`2026-07-14 19:49:00`|`Call of Duty: Black Ops 7`|
+|[vm reading physical memory of fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762191-vm-reading-physical-memory-fortnite.html)|`2026-07-14 19:44:00`|`Anti-Cheat Bypass`|
 |[Asking for help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/761649-help.html)|`2026-07-14 18:51:00`|`Forum General`|
 |[New DLC available July 14th: The Kortz Center Heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/757941-dlc-available-july-14th-kortz-center-heist.html)|`2026-07-14 18:48:00`|`Grand Theft Auto V`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-07-14 18:47:00`|`Grand Theft Auto V`|
