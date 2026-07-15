@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-15 18:04:00`|`Other FPS Games`|
+|[bhop external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762447-bhop-external.html)|`2026-07-15 17:40:00`|`Counter-Strike 2`|
+|[League of Legends Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757296-league-legends-offsets.html)|`2026-07-15 17:38:00`|`League of Legends`|
 |[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-15 15:53:00`|`Anti-Cheat Bypass`|
 |[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-07-15 15:45:00`|`Other FPS Games`|
 |[Over The Top: WW1 &#45; ESP &#45; AIM &#45; Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757615-top-ww1-esp-aim-stamina.html)|`2026-07-15 15:44:00`|`Other FPS Games`|
