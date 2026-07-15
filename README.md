@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762313-internal-sdk.html)|`2026-07-15 08:52:00`|`Marvel Rivals`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-07-15 08:47:00`|`Other Games`|
+|[Stuck Extracting global&#45;metadata&#46;dat from Russian Fishing 4 &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693138-stuck-extracting-global-metadata-dat-russian-fishing-4-il2cpp.html)|`2026-07-15 08:46:00`|`Other Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-15 08:42:00`|`Counter-Strike 2 Releases`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-15 08:39:00`|`Overwatch`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-07-15 08:35:00`|`Other FPS Games`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-07-15 08:20:00`|`Other FPS Games`|
 |[Yim Menu not working after latest GTA V update 1&#46;73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762390-yim-menu-gta-update-1-73-a.html)|`2026-07-15 07:24:00`|`Alternative Online Mods`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-15 07:13:00`|`Grand Theft Auto V`|
 |[Linux Dead by Daylight External &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762117-linux-dead-daylight-external-steam.html)|`2026-07-15 07:10:00`|`Other FPS Games`|
