@@ -12,6 +12,7 @@
 |29|[engine prediction not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761434-engine-prediction.html)|`2026-07-16 00:09:11`|`counter-strike-2-a`|
 |10|[External Bomb Damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761602-external-bomb-damage.html)|`2026-07-16 00:09:11`|`counter-strike-2-a`|
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-16 03:48:32`|`grand-theft-auto-v`|
+|13|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-16 05:38:10`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,17 @@
 |84|[13&#46;01 val sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56276)|`2026-07-16 00:09:11`|
 |8|[13&#46;01 hotfix sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56319)|`2026-07-16 03:48:32`|
 |1|[dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56316)|`2026-07-16 03:48:32`|
+|45|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56318)|`2026-07-16 05:38:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[new names offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762373-names-offsets.html)|`2026-07-16 05:30:00`|`Alternative Online Mods`|
+|[ARMA Reforger  how to get offset ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/760755-arma-reforger-offset.html)|`2026-07-16 05:29:00`|`ARMA 3`|
+|[spoof nvidia without block nvml&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761039-spoof-nvidia-block-nvml-dll.html)|`2026-07-16 05:28:00`|`Alternative Online Mods`|
+|[What wrong with gloves after update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761848-wrong-gloves-update.html)|`2026-07-16 05:26:00`|`Counter-Strike 2`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-07-16 05:23:00`|`Counter-Strike 2`|
+|[Ubisoft API Best Proxies&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/761507-ubisoft-api-proxies.html)|`2026-07-16 05:21:00`|`Rainbow Six Siege`|
+|[val 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762532-val-5-a.html)|`2026-07-16 05:11:00`|`Valorant`|
 |[Nexus External ESP V2 &#40;PyMeow&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/690093-nexus-external-esp-v2-pymeow.html)|`2026-07-16 04:39:00`|`Garry's Mod`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-16 04:39:00`|`Grand Theft Auto V`|
 |[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-16 04:32:00`|`Counter-Strike 2`|
