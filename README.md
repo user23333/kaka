@@ -38,9 +38,18 @@
 |3|[RBX Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56264)|`2026-07-15 19:49:33`|
 |173|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56299)|`2026-07-15 20:58:52`|
 |0|[icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56293)|`2026-07-15 20:58:52`|
+|91|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56309)|`2026-07-15 22:47:34`|
+|4|[PubgSDK&#95;2607&#46;1&#46;1&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56308)|`2026-07-15 22:47:34`|
+|2|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56307)|`2026-07-15 22:47:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What would be the ideal PC for spoofing valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762324-ideal-pc-spoofing-valorant.html)|`2026-07-15 22:46:00`|`Valorant`|
+|[Finding server IP of a private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762481-finding-server-ip-private-server.html)|`2026-07-15 22:42:00`|`Alternative Online Mods`|
+|[Andromeda Deadlock &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-deadlock-updated.html)|`2026-07-15 22:41:00`|`Deadlock`|
+|[failed attestation status](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/762474-failed-attestation-status.html)|`2026-07-15 22:35:00`|`Call of Duty: Black Ops 7`|
+|[safe outline method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760907-safe-outline-method.html)|`2026-07-15 22:35:00`|`Overwatch`|
+|[Andromeda DeadLock 1&#46;2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/762047-andromeda-deadlock-1-2-0-a.html)|`2026-07-15 22:29:00`|`Deadlock`|
 |[MouClass Fix EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762469-mouclass-fix-eac.html)|`2026-07-15 20:52:00`|`Anti-Cheat Bypass`|
 |[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-15 20:42:00`|`Valorant`|
 |[How to fix viewmodel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762391-fix-viewmodel.html)|`2026-07-15 20:37:00`|`Valorant`|
