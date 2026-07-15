@@ -13,6 +13,8 @@
 |29|[engine prediction not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761434-engine-prediction.html)|`2026-07-15 00:48:48`|`counter-strike-2-a`|
 |11|[FemboyProLaptop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761286-femboyprolaptop-external.html)|`2026-07-15 02:49:47`|`roblox`|
 |7|[Unblocklisted Vulnerable Driver &#40;EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761368-unblocklisted-vulnerable-driver-eac.html)|`2026-07-15 07:32:27`|`anti-cheat-bypass`|
+|10|[External Bomb Damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761602-external-bomb-damage.html)|`2026-07-15 19:49:33`|`counter-strike-2-a`|
+|11|[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-07-15 19:49:33`|`call-of-duty-black-ops-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +33,21 @@
 |2|[Prestige 1&#46;1 Standalone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56280)|`2026-07-15 06:42:07`|
 |22|[TempleWare Updated 1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56279)|`2026-07-15 07:32:27`|
 |1|[OverThe0wned v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56270)|`2026-07-15 07:32:27`|
+|5|[TslGame&#45;SDK&#45;2607&#46;1&#46;1&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56296)|`2026-07-15 19:49:33`|
+|1|[7&#45;14&#45;2026ARCSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56288)|`2026-07-15 19:49:33`|
+|3|[RBX Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56264)|`2026-07-15 19:49:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-07-15 19:47:00`|`League of Legends`|
+|[Modist with Kortz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762429-modist-kortz.html)|`2026-07-15 19:43:00`|`Grand Theft Auto V`|
+|[How to Get Unbanned on Gta 5 Online Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762298-unbanned-gta-5-online-enhanced.html)|`2026-07-15 19:42:00`|`Grand Theft Auto V`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-15 19:40:00`|`Other MMORPG and Strategy`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-15 19:39:00`|`ARC Raiders`|
+|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-15 19:38:00`|`Counter-Strike 2 Releases`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-07-15 19:37:00`|`Counter-Strike 2`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-15 19:36:00`|`Counter-Strike 2`|
+|[Easy Warzone Nukes?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760318-easy-warzone-nukes.html)|`2026-07-15 19:34:00`|`Call of Duty: Black Ops 7`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-15 18:04:00`|`Other FPS Games`|
 |[bhop external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762447-bhop-external.html)|`2026-07-15 17:40:00`|`Counter-Strike 2`|
 |[League of Legends Offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/757296-league-legends-offsets.html)|`2026-07-15 17:38:00`|`League of Legends`|
