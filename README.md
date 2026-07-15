@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-15 15:53:00`|`Anti-Cheat Bypass`|
+|[7 DAYS TO DIE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732378-7-days-die.html)|`2026-07-15 15:45:00`|`Other FPS Games`|
+|[Over The Top: WW1 &#45; ESP &#45; AIM &#45; Stamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757615-top-ww1-esp-aim-stamina.html)|`2026-07-15 15:44:00`|`Other FPS Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-07-15 15:43:00`|`Other FPS Games`|
 |[Raidriar Internal CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754301-raidriar-internal-cs2-internal.html)|`2026-07-15 13:59:00`|`Counter-Strike 2`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-15 13:56:00`|`Other FPS Games`|
 |[Movement speed via MovementSpeedModFinal rubber&#45;bands — better approach?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/762089-movement-speed-via-movementspeedmodfinal-rubber-bands-approach.html)|`2026-07-15 13:56:00`|`Tom Clancy's The Division`|
