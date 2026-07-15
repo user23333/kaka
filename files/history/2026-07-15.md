@@ -36,9 +36,15 @@
 |5|[TslGame&#45;SDK&#45;2607&#46;1&#46;1&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56296)|`2026-07-15 19:49:33`|
 |1|[7&#45;14&#45;2026ARCSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56288)|`2026-07-15 19:49:33`|
 |3|[RBX Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56264)|`2026-07-15 19:49:33`|
+|173|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56299)|`2026-07-15 20:58:52`|
+|0|[icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56293)|`2026-07-15 20:58:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MouClass Fix EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762469-mouclass-fix-eac.html)|`2026-07-15 20:52:00`|`Anti-Cheat Bypass`|
+|[Anyone Know about Vanguard's Tasks And Modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761464-vanguards-tasks-modules.html)|`2026-07-15 20:42:00`|`Valorant`|
+|[How to fix viewmodel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762391-fix-viewmodel.html)|`2026-07-15 20:37:00`|`Valorant`|
+|[rust external skeleton bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762381-rust-external-skeleton-bug.html)|`2026-07-15 20:32:00`|`Rust`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-07-15 19:47:00`|`League of Legends`|
 |[Modist with Kortz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762429-modist-kortz.html)|`2026-07-15 19:43:00`|`Grand Theft Auto V`|
 |[How to Get Unbanned on Gta 5 Online Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762298-unbanned-gta-5-online-enhanced.html)|`2026-07-15 19:42:00`|`Grand Theft Auto V`|
