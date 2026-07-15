@@ -34,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-07-15 11:45:00`|`Overwatch`|
+|[External Bomb Damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761602-external-bomb-damage.html)|`2026-07-15 11:44:00`|`Counter-Strike 2`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-15 11:43:00`|`Overwatch`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-07-15 11:24:00`|`Grand Theft Auto V`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-07-15 11:23:00`|`DayZ SA`|
+|[stuck at 400 on gateway auth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760515-stuck-400-gateway-auth.html)|`2026-07-15 11:23:00`|`Valorant`|
+|[Soul Land Awakening World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/758625-soul-land-awakening-world.html)|`2026-07-15 11:18:00`|`Other MMORPG and Strategy`|
 |[Internal SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762313-internal-sdk.html)|`2026-07-15 08:52:00`|`Marvel Rivals`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-07-15 08:47:00`|`Other Games`|
 |[Stuck Extracting global&#45;metadata&#46;dat from Russian Fishing 4 &#40;IL2CPP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/693138-stuck-extracting-global-metadata-dat-russian-fishing-4-il2cpp.html)|`2026-07-15 08:46:00`|`Other Games`|
