@@ -12,6 +12,7 @@
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-17 00:53:06`|`grand-theft-auto-v`|
 |28|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-17 00:53:06`|`counter-strike-2-releases`|
 |25|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-17 01:56:45`|`other-fps-games`|
+|11|[Modist with Kortz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762429-modist-kortz.html)|`2026-07-17 07:05:22`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-17 07:02:00`|`Rust`|
+|[Autoshoot ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762684-autoshoot.html)|`2026-07-17 07:01:00`|`Call of Duty: Black Ops 2`|
+|[lag compensation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762583-lag-compensation.html)|`2026-07-17 06:59:00`|`Counter-Strike 2`|
+|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-17 06:42:00`|`Grand Theft Auto V`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-17 06:03:00`|`Marvel Rivals`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-07-17 05:53:00`|`THE FINALS`|
 |[Straftaft Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758244-straftaft-rage-cheat.html)|`2026-07-17 05:52:00`|`Other Games`|
