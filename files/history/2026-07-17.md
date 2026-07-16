@@ -25,9 +25,17 @@
 |418|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56309)|`2026-07-17 00:53:06`|
 |41|[PubgSDK&#95;2607&#46;1&#46;1&#46;91](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56308)|`2026-07-17 00:53:06`|
 |22|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56307)|`2026-07-17 00:53:06`|
+|1|[the finals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56342)|`2026-07-17 06:03:58`|
+|0|[PubgSDK&#95;2607&#46;1&#46;1&#46;91&#95;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56341)|`2026-07-17 06:03:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-17 06:03:00`|`Marvel Rivals`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-07-17 05:53:00`|`THE FINALS`|
+|[Straftaft Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758244-straftaft-rage-cheat.html)|`2026-07-17 05:52:00`|`Other Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-17 05:50:00`|`Alternative Online Mods`|
+|[Marvel Rivals &#45; DARKSIDE &#40;Internal Mod Menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/744263-marvel-rivals-darkside-internal-mod-menu.html)|`2026-07-17 05:43:00`|`Marvel Rivals`|
+|[Skybox Changer Source? cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/756987-skybox-changer-source-cs2.html)|`2026-07-17 05:36:00`|`Counter-Strike 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-17 04:58:00`|`Other FPS Games`|
 |[Modist with Kortz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762429-modist-kortz.html)|`2026-07-17 04:54:00`|`Grand Theft Auto V`|
 |[Sot External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/754835-sot-external-base.html)|`2026-07-17 04:53:00`|`Sea of Thieves`|
