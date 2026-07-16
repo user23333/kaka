@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dynamic Indirect Syscaller](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762618-dynamic-indirect-syscaller.html)|`2026-07-16 23:36:00`|`Anti-Cheat Bypass`|
+|[is an IOCTL driver mapped via kdmapper detectable by a User&#45;Mode AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762626-ioctl-driver-mapped-via-kdmapper-detectable-user-mode-ac.html)|`2026-07-16 23:34:00`|`Anti-Cheat Bypass`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-07-16 23:25:00`|`Elite: Dangerous`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-07-16 23:15:00`|`Phasmophobia`|
 |[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-07-16 21:53:00`|`ARMA 3`|
 |[Knife Changer HUD help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762292-knife-changer-hud-help.html)|`2026-07-16 21:45:00`|`Counter-Strike 2`|
 |[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-07-16 19:58:00`|`Other MMORPG and Strategy`|
