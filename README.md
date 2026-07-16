@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FP started obfuscating MacOS build :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762088-fp-started-obfuscating-macos-build.html)|`2026-07-16 08:59:00`|`Rust`|
+|[new interrupt method eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738104-interrupt-method-eac.html)|`2026-07-16 08:46:00`|`Anti-Cheat Bypass`|
+|[safe outline method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760907-safe-outline-method.html)|`2026-07-16 08:32:00`|`Overwatch`|
+|[My pelvis is so long it touches the ground](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762339-pelvis-touches-ground.html)|`2026-07-16 08:30:00`|`Rust`|
+|[Forza Horizon 6 &#45; Free Cars &#43; Database Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752793-forza-horizon-6-free-cars-database-dumper.html)|`2026-07-16 08:28:00`|`Other Games`|
+|[The Mound: Omen of Cthulhu DEMO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/759776-mound-omen-cthulhu-demo.html)|`2026-07-16 08:20:00`|`Cheat Engine Tables`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-16 08:19:00`|`Alternative Online Mods`|
 |[Free valorant DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762547-free-valorant-dma-cheat.html)|`2026-07-16 07:24:00`|`Valorant`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-07-16 07:23:00`|`Alternative Online Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-16 07:20:00`|`Valorant`|
