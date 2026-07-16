@@ -32,9 +32,17 @@
 |4|[TslGame&#45;SDK&#45;2607&#46;1&#46;1&#46;101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56320)|`2026-07-16 06:35:23`|
 |10|[vaclive bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56317)|`2026-07-16 06:35:23`|
 |1|[rust recoil tables and makcu/esp32 script gen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56312)|`2026-07-16 06:35:23`|
+|2|[Dead By Daylight DMA V&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56322)|`2026-07-16 12:08:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VEX Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/761736-vex-internal.html)|`2026-07-16 12:06:00`|`Garry's Mod`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-07-16 12:06:00`|`Other FPS Games`|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-07-16 12:04:00`|`Garry's Mod`|
+|[Rust Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762567-rust-features.html)|`2026-07-16 12:01:00`|`Rust`|
+|[Memoriam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/563890-memoriam.html)|`2026-07-16 12:00:00`|`Garry's Mod`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-07-16 11:50:00`|`Counter-Strike 2 Releases`|
+|[Lexis Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762555-lexis-mod-menu.html)|`2026-07-16 11:26:00`|`Grand Theft Auto V`|
 |[FP started obfuscating MacOS build :/](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762088-fp-started-obfuscating-macos-build.html)|`2026-07-16 08:59:00`|`Rust`|
 |[new interrupt method eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/738104-interrupt-method-eac.html)|`2026-07-16 08:46:00`|`Anti-Cheat Bypass`|
 |[safe outline method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/760907-safe-outline-method.html)|`2026-07-16 08:32:00`|`Overwatch`|
