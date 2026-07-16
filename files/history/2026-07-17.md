@@ -28,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-17 02:58:00`|`Marvel Rivals`|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-17 02:54:00`|`Counter-Strike 2`|
+|[stuck at 400 on gateway auth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/760515-stuck-400-gateway-auth.html)|`2026-07-17 02:51:00`|`Valorant`|
+|[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-07-17 02:50:00`|`Other Games`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-17 02:49:00`|`Tom Clancy's The Division`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-17 02:43:00`|`Valorant`|
+|[Looking For ARC RAİDERS working source &#123; ESP &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748787-looking-arc-ra-ders-source-esp.html)|`2026-07-17 02:41:00`|`ARC Raiders`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-17 02:39:00`|`Deadlock`|
+|[Taimanin Squad cheat &#40;test version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761177-taimanin-squad-cheat-test-version.html)|`2026-07-17 02:37:00`|`Other MMORPG and Strategy`|
+|[seeded tb misses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/752557-seeded-tb-misses.html)|`2026-07-17 02:36:00`|`Counter-Strike 2`|
 |[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-07-17 01:50:00`|`Overwatch`|
 |[What would be the ideal PC for spoofing valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762324-ideal-pc-spoofing-valorant.html)|`2026-07-17 01:49:00`|`Valorant`|
 |[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-17 01:48:00`|`Grand Theft Auto V`|
