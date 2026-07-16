@@ -14,6 +14,7 @@
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-16 03:48:32`|`grand-theft-auto-v`|
 |13|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-16 05:38:10`|`counter-strike-2-a`|
 |25|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-16 20:01:55`|`other-fps-games`|
+|16|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-16 22:07:39`|`palworld`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arma Reforger Script Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/750123-arma-reforger-script-exploits.html)|`2026-07-16 21:53:00`|`ARMA 3`|
+|[Knife Changer HUD help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762292-knife-changer-hud-help.html)|`2026-07-16 21:45:00`|`Counter-Strike 2`|
 |[Mongil Star Dive Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/748854-mongil-star-dive-internal.html)|`2026-07-16 19:58:00`|`Other MMORPG and Strategy`|
 |[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-16 19:56:00`|`Grand Theft Auto V`|
 |[Five for GTA Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762593-five-gta-enhanced.html)|`2026-07-16 19:55:00`|`Alternative Online Mods`|
