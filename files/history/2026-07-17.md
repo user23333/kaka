@@ -11,6 +11,7 @@
 |32|[MouseClassServiceCallbackMeme not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761605-mouseclassservicecallbackmeme.html)|`2026-07-17 00:53:06`|`anti-cheat-bypass`|
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-17 00:53:06`|`grand-theft-auto-v`|
 |28|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-17 00:53:06`|`counter-strike-2-releases`|
+|25|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-17 01:56:45`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-07-17 01:50:00`|`Overwatch`|
+|[What would be the ideal PC for spoofing valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762324-ideal-pc-spoofing-valorant.html)|`2026-07-17 01:49:00`|`Valorant`|
+|[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-17 01:48:00`|`Grand Theft Auto V`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-17 01:47:00`|`Escape from Tarkov`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-07-17 01:42:00`|`Other FPS Games`|
+|[Anti Aim Movement Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762634-anti-aim-movement-issue.html)|`2026-07-17 01:40:00`|`Counter-Strike 2`|
+|[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-07-17 01:38:00`|`Call of Duty: Black Ops 2`|
+|[Vanguard fix python triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762628-vanguard-fix-python-triggerbot.html)|`2026-07-17 01:35:00`|`Valorant`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-17 01:32:00`|`Rainbow Six Siege`|
 |[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-07-17 00:52:00`|`Other MMORPG and Strategy`|
 |[is an IOCTL driver mapped via kdmapper detectable by a User&#45;Mode AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762626-ioctl-driver-mapped-via-kdmapper-detectable-user-mode-ac.html)|`2026-07-17 00:51:00`|`Anti-Cheat Bypass`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-17 00:50:00`|`Grand Theft Auto V`|
