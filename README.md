@@ -13,6 +13,7 @@
 |28|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-17 00:53:06`|`counter-strike-2-releases`|
 |25|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-17 01:56:45`|`other-fps-games`|
 |11|[Modist with Kortz](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762429-modist-kortz.html)|`2026-07-17 07:05:22`|`grand-theft-auto-v`|
+|21|[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-17 19:37:59`|`grand-theft-auto-v`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bo2 PS4 = I Gotta hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762154-bo2-ps4-gotta-hack.html)|`2026-07-17 19:34:00`|`Call of Duty: Black Ops 2`|
+|[Fallout Shelter &#91;Trainer Todd Howard Edition&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762773-fallout-shelter-trainer-todd-howard-edition.html)|`2026-07-17 19:29:00`|`Other Games`|
+|[failed attestation status](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/762474-failed-attestation-status.html)|`2026-07-17 19:25:00`|`Call of Duty: Black Ops 7`|
+|[Rust Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762567-rust-features.html)|`2026-07-17 19:25:00`|`Rust`|
 |[Apex Legends Offset SDK Browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/748747-apex-legends-offset-sdk-browser.html)|`2026-07-17 18:07:00`|`Apex Legends`|
 |[R6hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/652875-r6hack.html)|`2026-07-17 18:06:00`|`Rainbow Six Siege`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-17 18:05:00`|`Counter-Strike 2`|
