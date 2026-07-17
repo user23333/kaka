@@ -28,9 +28,19 @@
 |7|[Fortnite EAC Exception Handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56362)|`2026-07-18 02:40:26`|
 |10|[b3751 patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56361)|`2026-07-18 02:40:26`|
 |2|[Csgo External Python 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56357)|`2026-07-18 02:40:26`|
+|28|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56370)|`2026-07-18 06:09:15`|
+|0|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56369)|`2026-07-18 06:09:15`|
+|35|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56368)|`2026-07-18 06:09:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO2 Plutonium &#45; Simple Aimbot & Chams source &#43; dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/759883-bo2-plutonium-simple-aimbot-chams-source-dll.html)|`2026-07-18 06:04:00`|`Call of Duty: Black Ops 2`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-18 05:52:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-18 05:51:00`|`Rust`|
+|[Axoim recoil Reducer V2 premium](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762851-axoim-recoil-reducer-v2-premium.html)|`2026-07-18 05:50:00`|`Rainbow Six Siege`|
+|[I'm having trouble with van &#45;102](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762874-im-trouble-van-102-a.html)|`2026-07-18 05:49:00`|`Valorant`|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-18 05:44:00`|`Counter-Strike 2`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-18 05:41:00`|`Counter-Strike 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-07-18 05:20:00`|`DayZ SA`|
 |[native invoker external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758153-native-invoker-external.html)|`2026-07-18 05:19:00`|`Alternative Online Mods`|
 |[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-18 05:16:00`|`Grand Theft Auto V`|
