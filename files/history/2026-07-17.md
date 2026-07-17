@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Python external hack&#40;no require python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/762783-python-external-hack-require-python.html)|`2026-07-17 20:44:00`|`Counterstrike Global Offensive`|
+|[CS2&#45;Unlocker/Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762745-cs2-unlocker-dumper.html)|`2026-07-17 20:36:00`|`Counter-Strike 2`|
 |[Bo2 PS4 = I Gotta hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762154-bo2-ps4-gotta-hack.html)|`2026-07-17 19:34:00`|`Call of Duty: Black Ops 2`|
 |[Fallout Shelter &#91;Trainer Todd Howard Edition&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762773-fallout-shelter-trainer-todd-howard-edition.html)|`2026-07-17 19:29:00`|`Other Games`|
 |[failed attestation status](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/762474-failed-attestation-status.html)|`2026-07-17 19:25:00`|`Call of Duty: Black Ops 7`|
