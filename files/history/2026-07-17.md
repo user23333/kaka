@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger  how to get offset ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/760755-arma-reforger-offset.html)|`2026-07-17 23:40:00`|`ARMA 3`|
+|[I'm curious, which injection method are you using?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/741052-im-curious-injection-method-using.html)|`2026-07-17 23:39:00`|`Counterstrike Global Offensive`|
+|[The New Yimmenu / Chronix DLL is aviable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762803-yimmenu-chronix-dll-aviable.html)|`2026-07-17 23:36:00`|`Grand Theft Auto V`|
+|[RGH BO2 Rain Reach's Image To Emblem Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/741403-rgh-bo2-rain-reachs-image-emblem-tool.html)|`2026-07-17 23:35:00`|`Call of Duty: Black Ops 2`|
+|[why did my thread about scooby being a virus get deleted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762779-thread-scooby-virus-deleted.html)|`2026-07-17 23:27:00`|`Grand Theft Auto V`|
+|[ShadowReaper &#45; The Best External on UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762798-shadowreaper-external-uc.html)|`2026-07-17 23:26:00`|`Counter-Strike 2`|
 |[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-07-17 22:14:00`|`Grand Theft Auto V`|
 |[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-17 22:03:00`|`Valorant`|
 |[automatically r&#42; account switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736497-automatically-account-switcher.html)|`2026-07-17 21:58:00`|`Alternative Online Mods`|
