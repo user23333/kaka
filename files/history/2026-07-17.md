@@ -34,6 +34,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-07-17 16:09:00`|`Palworld`|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2026-07-17 16:09:00`|`Palworld`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-17 16:06:00`|`ARC Raiders`|
+|[All Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758810-player.html)|`2026-07-17 16:04:00`|`Alternative Online Mods`|
+|[MouClass Fix EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762469-mouclass-fix-eac.html)|`2026-07-17 15:59:00`|`Anti-Cheat Bypass`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-17 15:56:00`|`Rainbow Six Siege`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-07-17 15:50:00`|`Red Dead Redemption 2`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-17 15:49:00`|`Other Games`|
 |[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-07-17 13:57:00`|`Other MMORPG and Strategy`|
 |[Need For Speed World auto finish hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630561-speed-world-auto-finish-hack.html)|`2026-07-17 13:53:00`|`Other MMORPG and Strategy`|
 |[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-07-17 13:30:00`|`Valorant`|
