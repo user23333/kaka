@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CustomLocalSaves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/731986-customlocalsaves.html)|`2026-07-17 22:14:00`|`Grand Theft Auto V`|
+|[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-17 22:03:00`|`Valorant`|
+|[automatically r&#42; account switcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/736497-automatically-account-switcher.html)|`2026-07-17 21:58:00`|`Alternative Online Mods`|
+|[Emu restart](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-series/762730-emu-restart.html)|`2026-07-17 21:55:00`|`Quake Series`|
 |[Python external hack&#40;no require python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/762783-python-external-hack-require-python.html)|`2026-07-17 20:44:00`|`Counterstrike Global Offensive`|
 |[CS2&#45;Unlocker/Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762745-cs2-unlocker-dumper.html)|`2026-07-17 20:36:00`|`Counter-Strike 2`|
 |[Bo2 PS4 = I Gotta hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762154-bo2-ps4-gotta-hack.html)|`2026-07-17 19:34:00`|`Call of Duty: Black Ops 2`|
