@@ -24,9 +24,21 @@
 |58|[13&#46;01 hotfix sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56319)|`2026-07-18 00:44:07`|
 |824|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46189](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56318)|`2026-07-18 00:44:07`|
 |254|[vaclive bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56317)|`2026-07-18 00:44:07`|
+|1|[dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56363)|`2026-07-18 02:40:26`|
+|7|[Fortnite EAC Exception Handler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56362)|`2026-07-18 02:40:26`|
+|10|[b3751 patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56361)|`2026-07-18 02:40:26`|
+|2|[Csgo External Python 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56357)|`2026-07-18 02:40:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal pattern scan for offsets &#124; auto update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762842-internal-pattern-scan-offsets-auto-update.html)|`2026-07-18 02:38:00`|`Valorant`|
+|[ツ Silent Night For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/732840-silent-night-yimmenu.html)|`2026-07-18 02:32:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-07-18 02:31:00`|`Other MMORPG and Strategy`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-07-18 02:30:00`|`League of Legends`|
+|[The Kortz Heist's honeypot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762736-kortz-heists-honeypot.html)|`2026-07-18 02:27:00`|`Grand Theft Auto V`|
+|[Python external hack&#40;no require python&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/762783-python-external-hack-require-python.html)|`2026-07-18 02:23:00`|`Counterstrike Global Offensive`|
+|[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-18 02:22:00`|`Grand Theft Auto V`|
+|[UpdateAccuracyPenalty](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762808-updateaccuracypenalty.html)|`2026-07-18 02:17:00`|`Counter-Strike 2`|
 |[dont &#91;removed&#93; and go](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762824-dont-removed.html)|`2026-07-18 01:42:00`|`Valorant`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-18 01:42:00`|`Escape from Tarkov`|
 |[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-18 01:42:00`|`Counter-Strike 2 Releases`|
