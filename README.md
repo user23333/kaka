@@ -28,9 +28,18 @@
 |22|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56307)|`2026-07-17 00:53:06`|
 |1|[the finals sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56342)|`2026-07-17 06:03:58`|
 |0|[PubgSDK&#95;2607&#46;1&#46;1&#46;91&#95;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56341)|`2026-07-17 06:03:58`|
+|2|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56347)|`2026-07-17 13:59:57`|
+|6|[SDK latest mini patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56344)|`2026-07-17 13:59:57`|
+|2|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56343)|`2026-07-17 13:59:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-07-17 13:57:00`|`Other MMORPG and Strategy`|
+|[Need For Speed World auto finish hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630561-speed-world-auto-finish-hack.html)|`2026-07-17 13:53:00`|`Other MMORPG and Strategy`|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-07-17 13:30:00`|`Valorant`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-07-17 13:16:00`|`Other FPS Games`|
+|[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-07-17 13:13:00`|`Other Games`|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-07-17 12:55:00`|`Other Games`|
 |[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-07-17 11:15:00`|`Other Games`|
 |[Yim Menu not working after latest GTA V update 1&#46;73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762390-yim-menu-gta-update-1-73-a.html)|`2026-07-17 11:13:00`|`Alternative Online Mods`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-07-17 11:05:00`|`Other FPS Games`|
