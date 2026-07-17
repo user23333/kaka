@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dont &#91;removed&#93; and go](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762824-dont-removed.html)|`2026-07-18 01:42:00`|`Valorant`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-18 01:42:00`|`Escape from Tarkov`|
+|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-18 01:42:00`|`Counter-Strike 2 Releases`|
+|[kdmapper with EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762786-kdmapper-eac.html)|`2026-07-18 01:39:00`|`Anti-Cheat Bypass`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-07-18 01:37:00`|`DayZ SA`|
+|[Vanguard Emulator Vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762662-vanguard-emulator-vulnerability.html)|`2026-07-18 01:34:00`|`Anti-Cheat Bypass`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-18 01:33:00`|`Palworld`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-07-18 01:30:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-18 01:30:00`|`Escape from Tarkov`|
 |[ShadowReaper &#45; The Best External on UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762798-shadowreaper-external-uc.html)|`2026-07-18 00:41:00`|`Counter-Strike 2`|
 |[Networkable Key Decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762732-networkable-key-decrypt.html)|`2026-07-18 00:36:00`|`Rust`|
 |[INTEL/AMD Wireframe ESP in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762813-intel-amd-wireframe-esp-cs2.html)|`2026-07-18 00:32:00`|`Counter-Strike 2`|
