@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 with a decent LUA API](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/756825-yimmenuv2-decent-lua-api.html)|`2026-07-18 10:21:00`|`Grand Theft Auto V`|
+|[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-18 10:20:00`|`Valorant`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-18 10:19:00`|`Overwatch`|
+|[&#91;HELP&#93; DMA 100% BIOS but 0% Windows &#45; DMA 75T](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762903-help-dma-100-bios-0-windows-dma-75t.html)|`2026-07-18 10:18:00`|`Anti-Cheat Bypass`|
+|[Fixing unlock all & skins not applied](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762650-fixing-unlock-skins-applied.html)|`2026-07-18 10:14:00`|`Valorant`|
+|[me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/762891-me.html)|`2026-07-18 10:03:00`|`Introductions`|
 |[Knife Changer HUD help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762292-knife-changer-hud-help.html)|`2026-07-18 07:58:00`|`Counter-Strike 2`|
 |[The isle evirma ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/742540-isle-evirma-esp.html)|`2026-07-18 07:57:00`|`Other FPS Games`|
 |[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-07-18 07:56:00`|`Alternative Online Mods`|
