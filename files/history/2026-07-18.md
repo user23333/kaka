@@ -11,6 +11,7 @@
 |35|[mapping over signed memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761930-mapping-signed-memory.html)|`2026-07-18 00:44:07`|`anti-cheat-bypass`|
 |29|[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762039-dead-daylight-dma.html)|`2026-07-18 00:44:07`|`other-fps-games`|
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-18 00:44:07`|`grand-theft-auto-v`|
+|13|[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-18 19:13:36`|`call-of-duty-black-ops`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-18 19:03:00`|`Valorant`|
+|[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-07-18 18:58:00`|`Escape from Tarkov`|
+|[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-07-18 18:56:00`|`Other Games`|
+|[I need an explanation about internet cheats&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762960-explanation-internet-cheats.html)|`2026-07-18 18:56:00`|`Valorant`|
+|[Rust Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762567-rust-features.html)|`2026-07-18 18:53:00`|`Rust`|
 |[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-07-18 18:02:00`|`Alternative Online Mods`|
 |[cheats for Day of Defeat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/day-of-defeat/762947-cheats-day-defeat.html)|`2026-07-18 17:59:00`|`Day of Defeat`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-18 17:51:00`|`Other Games`|
