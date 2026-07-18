@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-18 21:37:00`|`Counter-Strike 2 Releases`|
+|[Will i get banned for using unlock all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763008-banned-using-unlock.html)|`2026-07-18 21:37:00`|`Grand Theft Auto V`|
+|[It's Just Us &#40;an internal menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/753111-internal-menu.html)|`2026-07-18 21:33:00`|`Among Us`|
+|[VAC 14 Modules Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763001-vac-14-modules-research.html)|`2026-07-18 21:28:00`|`Anti-Cheat Bypass`|
+|[Any way to use Wireframes while bypassing Invalid Signatures or No Signatures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762656-wireframes-bypassing-invalid-signatures-signatures.html)|`2026-07-18 21:19:00`|`Counter-Strike 2`|
+|[Brawlhalla AI Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762829-brawlhalla-ai-thread.html)|`2026-07-18 21:16:00`|`Other Games`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-18 19:58:00`|`HELLDIVERS 2`|
 |[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-18 19:56:00`|`Other Games`|
 |[Chronixv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762993-chronixv2.html)|`2026-07-18 19:52:00`|`Grand Theft Auto V`|
