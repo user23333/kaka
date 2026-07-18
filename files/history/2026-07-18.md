@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected external cheat for Polygon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758051-undetected-external-cheat-polygon.html)|`2026-07-18 23:27:00`|`Other FPS Games`|
+|[Can someone give me a Amalgam TF2 Source Code?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/763002-amalgam-tf2-source-code.html)|`2026-07-18 23:26:00`|`Team Fortress 2`|
+|[Convar offsets? &#40;Spoonfeed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763022-convar-offsets-spoonfeed.html)|`2026-07-18 23:25:00`|`Counter-Strike 2`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-07-18 23:15:00`|`Other FPS Games`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-07-18 23:13:00`|`THE FINALS`|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-07-18 23:08:00`|`DayZ SA`|
 |[Would anyone be willing to share a very simple ESP base source?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/762888-willing-share-simple-esp-base-source.html)|`2026-07-18 22:30:00`|`Garry's Mod`|
 |[APB and AutoIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/763015-apb-autoit.html)|`2026-07-18 22:27:00`|`All Points Bulletin`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-07-18 22:21:00`|`Combat Master`|
