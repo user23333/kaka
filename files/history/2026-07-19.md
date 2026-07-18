@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-19 06:55:00`|`Other Games`|
+|[Strikers Club](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762864-strikers-club.html)|`2026-07-19 06:55:00`|`Other Games`|
+|[usercmd protobufs does not work correctly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763073-usercmd-protobufs-correctly.html)|`2026-07-19 06:54:00`|`Counter-Strike 2`|
+|[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-07-19 06:53:00`|`Forum General`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-07-19 06:49:00`|`League of Legends`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-19 06:43:00`|`Counter-Strike 2 Releases`|
 |[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-07-19 06:02:00`|`Overwatch`|
 |[War Thunder Cheese &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762421-war-thunder-cheese-1-a.html)|`2026-07-19 06:01:00`|`Other MMORPG and Strategy`|
 |[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2026-07-19 05:53:00`|`Payday 3`|
