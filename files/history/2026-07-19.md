@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-07-19 06:02:00`|`Overwatch`|
+|[War Thunder Cheese &#35;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762421-war-thunder-cheese-1-a.html)|`2026-07-19 06:01:00`|`Other MMORPG and Strategy`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2026-07-19 05:53:00`|`Payday 3`|
+|[GROK AI BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/761894-grok-ai-bypass.html)|`2026-07-19 05:49:00`|`Forum General`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-19 05:43:00`|`Rainbow Six Siege`|
 |[&#91;Release&#93; NightSense &#45; Internal CS2 Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762456-release-nightsense-internal-cs2-mod.html)|`2026-07-19 05:07:00`|`Counter-Strike 2 Releases`|
 |[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-19 05:07:00`|`Counter-Strike 2 Releases`|
 |[Echo Custom Strings Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762856-echo-custom-strings-detection.html)|`2026-07-19 04:58:00`|`Alternative Online Mods`|
