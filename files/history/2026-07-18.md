@@ -32,9 +32,17 @@
 |28|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56370)|`2026-07-18 06:09:15`|
 |0|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56369)|`2026-07-18 06:09:15`|
 |35|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56368)|`2026-07-18 06:09:15`|
+|1|[Il2CPP Dump EFT 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56387)|`2026-07-18 20:03:27`|
+|7|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221 With Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56377)|`2026-07-18 20:03:27`|
+|3|[IDA Pro 9&#46;4 classinformer & SigMaker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56376)|`2026-07-18 20:03:27`|
+|4|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221 v0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56372)|`2026-07-18 20:03:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-18 19:58:00`|`HELLDIVERS 2`|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-18 19:56:00`|`Other Games`|
+|[Chronixv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762993-chronixv2.html)|`2026-07-18 19:52:00`|`Grand Theft Auto V`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-18 19:47:00`|`Other FPS Games`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-07-18 19:03:00`|`Valorant`|
 |[EFT 1&#46;0&#46;2&#46;0317 Il2Cpp Dump &#40;dump&#46;cs &#43; DummyDll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/744115-eft-1-0-2-0317-il2cpp-dump-dump-cs-dummydll.html)|`2026-07-18 18:58:00`|`Escape from Tarkov`|
 |[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-07-18 18:56:00`|`Other Games`|
