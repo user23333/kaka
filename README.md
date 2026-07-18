@@ -11,6 +11,7 @@
 |35|[mapping over signed memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761930-mapping-signed-memory.html)|`2026-07-19 00:27:57`|`anti-cheat-bypass`|
 |34|[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-19 00:27:57`|`valorant`|
 |13|[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-19 00:27:57`|`call-of-duty-black-ops`|
+|41|[Task & Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762490-task-modules.html)|`2026-07-19 05:09:01`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Release&#93; NightSense &#45; Internal CS2 Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762456-release-nightsense-internal-cs2-mod.html)|`2026-07-19 05:07:00`|`Counter-Strike 2 Releases`|
+|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-19 05:07:00`|`Counter-Strike 2 Releases`|
+|[Echo Custom Strings Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762856-echo-custom-strings-detection.html)|`2026-07-19 04:58:00`|`Alternative Online Mods`|
+|[Need help with fov scaling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/763070-help-fov-scaling.html)|`2026-07-19 04:55:00`|`ARC Raiders`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-19 04:52:00`|`Other Games`|
 |[Skinchanger crashes randomly on match end or death](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763065-skinchanger-crashes-randomly-match-death.html)|`2026-07-19 04:21:00`|`Counter-Strike 2`|
 |[Task & Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762490-task-modules.html)|`2026-07-19 04:09:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-19 04:08:00`|`Rust`|
