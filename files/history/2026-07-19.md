@@ -27,9 +27,14 @@
 |43|[b3751 patterns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56361)|`2026-07-19 00:27:57`|
 |1|[Full Offset Tree](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56394)|`2026-07-19 02:25:48`|
 |0|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56393)|`2026-07-19 02:25:48`|
+|2|[Maphack&#95;AoM&#95;EE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56383)|`2026-07-19 12:31:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hijacking discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763089-hijacking-discord-overlay.html)|`2026-07-19 12:28:00`|`Anti-Cheat Bypass`|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-07-19 12:17:00`|`Valorant`|
+|[hvci secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763067-hvci-secure-boot.html)|`2026-07-19 12:16:00`|`Anti-Cheat Bypass`|
+|[Free valorant DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762547-free-valorant-dma-cheat.html)|`2026-07-19 12:14:00`|`Valorant`|
 |[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-19 09:07:00`|`Other Games`|
 |[Roblox injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762060-roblox-injector.html)|`2026-07-19 08:55:00`|`Roblox`|
 |[Lie Detector &#40;LD&#41; Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/760084-lie-detector-ld-solver.html)|`2026-07-19 08:39:00`|`Maple Story`|
