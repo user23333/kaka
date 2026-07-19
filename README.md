@@ -11,6 +11,7 @@
 |42|[Task & Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762490-task-modules.html)|`2026-07-20 00:04:52`|`valorant`|
 |34|[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-20 00:04:52`|`valorant`|
 |13|[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-20 00:04:52`|`call-of-duty-black-ops`|
+|38|[Correct Auth Payload after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763024-correct-auth-payload-update.html)|`2026-07-20 04:12:05`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[T6ZM plutonium chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762933-t6zm-plutonium-chams.html)|`2026-07-20 04:11:00`|`Call of Duty: Black Ops 2`|
+|[The Mound: Omen of Cthulhu DEMO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/759776-mound-omen-cthulhu-demo.html)|`2026-07-20 04:07:00`|`Cheat Engine Tables`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-07-20 04:04:00`|`Other MMORPG and Strategy`|
+|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-20 03:53:00`|`Grand Theft Auto V`|
+|[hijacking discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763089-hijacking-discord-overlay.html)|`2026-07-20 03:53:00`|`Anti-Cheat Bypass`|
+|[i need a working cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/763171-cheat.html)|`2026-07-20 03:48:00`|`Rainbow Six Siege`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-20 03:36:00`|`Counter-Strike 2`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-20 03:16:00`|`Grand Theft Auto V`|
 |[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-07-20 03:12:00`|`Marvel Rivals`|
 |[Crash on execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763168-crash-execution.html)|`2026-07-20 03:11:00`|`Alternative Online Mods`|
