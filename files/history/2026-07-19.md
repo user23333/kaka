@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-19 23:05:00`|`Palworld`|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-07-19 23:03:00`|`Marvel Rivals`|
+|[GoldSrc complete version list with original binaries](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/505474-goldsrc-complete-version-list-original-binaries.html)|`2026-07-19 23:01:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-07-19 22:59:00`|`Genshin Impact`|
+|[Bloodstrike Now Bans Hwid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761308-bloodstrike-bans-hwid.html)|`2026-07-19 22:52:00`|`Other FPS Games`|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2026-07-19 22:49:00`|`Off Topic`|
+|[The Division 2 &#45; Reflection Lite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759117-division-2-reflection-lite.html)|`2026-07-19 22:47:00`|`Tom Clancy's The Division`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-19 22:00:00`|`Overwatch`|
 |[Overlay Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751455-overlay-hijacking.html)|`2026-07-19 21:58:00`|`Anti-Cheat Bypass`|
 |[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-07-19 21:54:00`|`Overwatch`|
