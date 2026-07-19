@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-07-19 20:32:00`|`Other MMORPG and Strategy`|
+|[Does Intel/AMD CPU detect differences in games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763132-intel-amd-cpu-detect-differences-games.html)|`2026-07-19 20:25:00`|`Anti-Cheat Bypass`|
+|[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-19 20:23:00`|`Grand Theft Auto V`|
+|[player&#95;eye Silentaim External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762901-player_eye-silentaim-external.html)|`2026-07-19 20:20:00`|`Rust`|
+|[August 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/763131-august-2026-motm-nominations.html)|`2026-07-19 20:18:00`|`Member of the Month`|
+|[Brawlhalla AI Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762829-brawlhalla-ai-thread.html)|`2026-07-19 20:13:00`|`Other Games`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-07-19 19:30:00`|`Deadlock`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-07-19 19:26:00`|`Other MMORPG and Strategy`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-07-19 19:20:00`|`Anti-Cheat Bypass`|
