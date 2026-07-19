@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-07-20 05:00:00`|`Grand Theft Auto V`|
+|[ShadowReaper &#45; The Best External on UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762798-shadowreaper-external-uc.html)|`2026-07-20 05:00:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-20 04:51:00`|`Roblox`|
+|[Instant crash when applying Knife Changer &#40;Weapons/Gloves/Models work fine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763179-instant-crash-applying-knife-changer-weapons-gloves-models-fine.html)|`2026-07-20 04:42:00`|`Counter-Strike 2`|
+|[Black Ops 7 Difference From Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763175-black-ops-7-difference-warzone.html)|`2026-07-20 04:41:00`|`Call of Duty: Black Ops 7`|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-07-20 04:38:00`|`Call of Duty: Black Ops 7`|
 |[T6ZM plutonium chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762933-t6zm-plutonium-chams.html)|`2026-07-20 04:11:00`|`Call of Duty: Black Ops 2`|
 |[The Mound: Omen of Cthulhu DEMO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/759776-mound-omen-cthulhu-demo.html)|`2026-07-20 04:07:00`|`Cheat Engine Tables`|
 |[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-07-20 04:04:00`|`Other MMORPG and Strategy`|
