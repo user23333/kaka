@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-07-20 01:09:00`|`Other Games`|
+|[EAC driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763113-eac-driver.html)|`2026-07-20 01:09:00`|`Anti-Cheat Bypass`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-20 01:08:00`|`Escape from Tarkov`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-07-20 01:06:00`|`Other FPS Games`|
+|[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-07-20 01:05:00`|`Other MMORPG and Strategy`|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-07-20 00:58:00`|`Other FPS Games`|
+|[how to reverse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/761400-reverse.html)|`2026-07-20 00:56:00`|`General Programming and Reversing`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-20 00:54:00`|`Grand Theft Auto V`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-20 00:01:00`|`Palworld`|
 |[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-19 23:57:00`|`Other Games`|
 |[need help antiaim/cusercmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762986-help-antiaim-cusercmd.html)|`2026-07-19 23:57:00`|`Counter-Strike 2`|
