@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Easy way to make your own rust localsrv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763123-easy-own-rust-localsrv.html)|`2026-07-19 18:37:00`|`Rust`|
+|[Easy way to make your own rust localsrv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763122-easy-own-rust-localsrv.html)|`2026-07-19 18:35:00`|`Rust`|
+|[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-07-19 18:29:00`|`Call of Duty: Black Ops 2`|
+|[Celex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/760570-celex-external.html)|`2026-07-19 18:27:00`|`Roblox`|
+|[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-07-19 18:27:00`|`Palworld`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-19 18:19:00`|`Alternative Online Mods`|
+|[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-19 18:18:00`|`Grand Theft Auto V`|
 |[VAC 14 Modules Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763001-vac-14-modules-research.html)|`2026-07-19 17:06:00`|`Anti-Cheat Bypass`|
 |[EAC EOS Runtime Driver Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758892-eac-eos-runtime-driver-dump.html)|`2026-07-19 16:56:00`|`Rust`|
 |[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-19 16:53:00`|`Other MMORPG and Strategy`|
