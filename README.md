@@ -25,9 +25,15 @@
 |392|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56370)|`2026-07-20 00:04:52`|
 |365|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56369)|`2026-07-20 00:04:52`|
 |225|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56368)|`2026-07-20 00:04:52`|
+|2|[Dumped VGC &#43; Fixed Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56415)|`2026-07-20 06:57:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-20 06:53:00`|`Rust`|
+|[Elysium &#45; UEFI Bootkit Framework that attacks boot&#45;time Code Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/718917-elysium-uefi-bootkit-framework-attacks-boot-time-code-integrity.html)|`2026-07-20 06:49:00`|`Anti-Cheat Bypass`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-20 06:47:00`|`Counter-Strike 2`|
+|[Did My First Driver Whats Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758876-driver-whats.html)|`2026-07-20 06:46:00`|`Rust`|
+|[Will i get banned for using unlock all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763008-banned-using-unlock.html)|`2026-07-20 06:42:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-20 05:57:00`|`Call of Duty: Black Ops 7`|
 |[Summer Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/763201-summer-banner-contest-2026-winners.html)|`2026-07-20 05:54:00`|`Information and Announcements`|
 |[Ragnarok New World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/763199-ragnarok-world.html)|`2026-07-20 05:51:00`|`Ragnarok`|
