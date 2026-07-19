@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC 14 Modules Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763001-vac-14-modules-research.html)|`2026-07-19 17:06:00`|`Anti-Cheat Bypass`|
+|[EAC EOS Runtime Driver Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/758892-eac-eos-runtime-driver-dump.html)|`2026-07-19 16:56:00`|`Rust`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-19 16:53:00`|`Other MMORPG and Strategy`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-07-19 16:50:00`|`Phasmophobia`|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-19 16:41:00`|`Other Games`|
+|[Chronixv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762993-chronixv2.html)|`2026-07-19 16:36:00`|`Grand Theft Auto V`|
+|[EAC driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763113-eac-driver.html)|`2026-07-19 16:29:00`|`Anti-Cheat Bypass`|
 |[Does Yimmenu v2 work as of today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762886-yimmenu-v2.html)|`2026-07-19 14:54:00`|`Grand Theft Auto V`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-19 14:52:00`|`Apex Legends`|
 |[Epic Games method patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762923-epic-games-method-patched.html)|`2026-07-19 14:41:00`|`Grand Theft Auto V`|
