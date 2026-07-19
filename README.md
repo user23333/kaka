@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-19 22:00:00`|`Overwatch`|
+|[Overlay Hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751455-overlay-hijacking.html)|`2026-07-19 21:58:00`|`Anti-Cheat Bypass`|
+|[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-07-19 21:54:00`|`Overwatch`|
+|[Is anyone reverse&#45;escaping Tarkov?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/762781-reverse-escaping-tarkov.html)|`2026-07-19 21:48:00`|`Escape from Tarkov`|
+|[Players not rendering at long distance – Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/762561-players-rendering-distance-internal-cheat.html)|`2026-07-19 21:36:00`|`Counterstrike Global Offensive`|
 |[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-07-19 20:32:00`|`Other MMORPG and Strategy`|
 |[Does Intel/AMD CPU detect differences in games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763132-intel-amd-cpu-detect-differences-games.html)|`2026-07-19 20:25:00`|`Anti-Cheat Bypass`|
 |[Any working mod menus for GTA V Legacy online without FSL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/760361-mod-menus-gta-legacy-online-fsl.html)|`2026-07-19 20:23:00`|`Grand Theft Auto V`|
