@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does Yimmenu v2 work as of today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762886-yimmenu-v2.html)|`2026-07-19 14:54:00`|`Grand Theft Auto V`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-19 14:52:00`|`Apex Legends`|
+|[Epic Games method patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762923-epic-games-method-patched.html)|`2026-07-19 14:41:00`|`Grand Theft Auto V`|
+|[need help antiaim/cusercmd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762986-help-antiaim-cusercmd.html)|`2026-07-19 14:35:00`|`Counter-Strike 2`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-19 14:29:00`|`HELLDIVERS 2`|
 |[hijacking discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763089-hijacking-discord-overlay.html)|`2026-07-19 12:28:00`|`Anti-Cheat Bypass`|
 |[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-07-19 12:17:00`|`Valorant`|
 |[hvci secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763067-hvci-secure-boot.html)|`2026-07-19 12:16:00`|`Anti-Cheat Bypass`|
