@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-20 18:26:00`|`Other MMORPG and Strategy`|
+|[prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763281-prediction.html)|`2026-07-20 18:24:00`|`Counter-Strike 2`|
+|[How NOT to Write a Cheat &#40;Unless You Like Bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763280-write-cheat-unless-bans.html)|`2026-07-20 18:21:00`|`Anti-Cheat Bypass`|
+|[Lost Light &#40;Steam&#41; Python Sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750215-lost-light-steam-python-sdk.html)|`2026-07-20 18:18:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-07-20 18:13:00`|`DayZ SA`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-20 15:39:00`|`Grand Theft Auto V`|
 |[best way to get base addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762868-base-addresses.html)|`2026-07-20 15:37:00`|`Anti-Cheat Bypass`|
 |[XONE &#45; value smooth in aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763265-xone-value-smooth-aimbot.html)|`2026-07-20 15:32:00`|`Counter-Strike 2`|
