@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-20 20:29:00`|`Other FPS Games`|
+|[Battle For Embolia](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762197-battle-embolia.html)|`2026-07-20 20:22:00`|`Other MMORPG and Strategy`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-07-20 20:20:00`|`Grand Theft Auto V`|
+|[Convar offsets? &#40;Spoonfeed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763022-convar-offsets-spoonfeed.html)|`2026-07-20 20:20:00`|`Counter-Strike 2`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-20 20:12:00`|`Overwatch`|
+|[Question regarding RsExternal offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763268-question-regarding-rsexternal-offsets.html)|`2026-07-20 20:11:00`|`Overwatch`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-20 18:26:00`|`Other MMORPG and Strategy`|
 |[prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763281-prediction.html)|`2026-07-20 18:24:00`|`Counter-Strike 2`|
 |[How NOT to Write a Cheat &#40;Unless You Like Bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763280-write-cheat-unless-bans.html)|`2026-07-20 18:21:00`|`Anti-Cheat Bypass`|
