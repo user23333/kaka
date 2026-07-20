@@ -26,9 +26,15 @@
 |365|[TarkovAddonsRefactored for 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56369)|`2026-07-20 00:04:52`|
 |225|[TA Com&#46; Updated for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56368)|`2026-07-20 00:04:52`|
 |2|[Dumped VGC &#43; Fixed Imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56415)|`2026-07-20 06:57:03`|
+|0|[Tyr Dump SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56411)|`2026-07-20 09:15:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Real auth payload before encrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763232-real-auth-payload-encrypt.html)|`2026-07-20 09:11:00`|`Valorant`|
+|[Knives out offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763237-knives-offset.html)|`2026-07-20 09:10:00`|`Other FPS Games`|
+|[🐟Fishing Planet🐟&#124;⚡IL2CPP Dump⚡&#124;✨20/6/2026 🐳](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758290-fishing-planet-il2cpp-dump-20-6-2026-a.html)|`2026-07-20 09:04:00`|`Other Games`|
+|[PostMessage blocked:coolmaninthetoilet:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763126-postmessage-blocked-coolmaninthetoilet.html)|`2026-07-20 08:56:00`|`Valorant`|
+|[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-07-20 08:55:00`|`Palworld`|
 |[Dead Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763212-dead-check.html)|`2026-07-20 07:48:00`|`Call of Duty: Black Ops 7`|
 |[Best LLM for anti cheat bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/756641-llm-anti-cheat-bypass.html)|`2026-07-20 07:29:00`|`Anti-Cheat Bypass`|
 |[Whats wrong with my aspect ratio changer?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/758199-whats-wrong-aspect-ratio-changer.html)|`2026-07-20 07:26:00`|`Counter-Strike 2`|
