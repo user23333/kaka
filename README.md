@@ -12,6 +12,7 @@
 |34|[NEW RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762793-rsa-keys.html)|`2026-07-20 00:04:52`|`valorant`|
 |13|[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-20 00:04:52`|`call-of-duty-black-ops`|
 |38|[Correct Auth Payload after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763024-correct-auth-payload-update.html)|`2026-07-20 04:12:05`|`valorant`|
+|9|[Yim Menu not working after latest GTA V update 1&#46;73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762390-yim-menu-gta-update-1-73-a.html)|`2026-07-20 12:52:30`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-20 12:44:00`|`Counter-Strike 2`|
+|[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-07-20 12:35:00`|`Overwatch`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-20 12:18:00`|`Overwatch`|
+|[Command history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763252-command-history.html)|`2026-07-20 11:57:00`|`Overwatch`|
+|[Brawlhalla AI Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762829-brawlhalla-ai-thread.html)|`2026-07-20 11:56:00`|`Other Games`|
+|[Blocking EAC Packets by manipulating NtDeviceIoControlFile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763254-blocking-eac-packets-manipulating-ntdeviceiocontrolfile.html)|`2026-07-20 11:52:00`|`Anti-Cheat Bypass`|
+|[VGC 200](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759119-vgc-200-a.html)|`2026-07-20 11:47:00`|`Anti-Cheat Bypass`|
 |[Real auth payload before encrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763232-real-auth-payload-encrypt.html)|`2026-07-20 09:11:00`|`Valorant`|
 |[Knives out offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763237-knives-offset.html)|`2026-07-20 09:10:00`|`Other FPS Games`|
 |[🐟Fishing Planet🐟&#124;⚡IL2CPP Dump⚡&#124;✨20/6/2026 🐳](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758290-fishing-planet-il2cpp-dump-20-6-2026-a.html)|`2026-07-20 09:04:00`|`Other Games`|
