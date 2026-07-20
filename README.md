@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-21 02:16:00`|`Overwatch`|
+|[What Does Fn&#92;eac ban rn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763338-fn-eac-ban-rn.html)|`2026-07-21 02:10:00`|`Anti-Cheat Bypass`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-21 02:08:00`|`Grand Theft Auto V`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-07-21 02:04:00`|`Counter-Strike 2`|
+|[Security attestation help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763348-security-attestation-help.html)|`2026-07-21 02:03:00`|`Call of Duty: Black Ops 7`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-21 01:56:00`|`ARC Raiders`|
+|[200 in auth working for now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763345-200-auth.html)|`2026-07-21 01:48:00`|`Valorant`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-21 00:11:00`|`Palworld`|
 |[How NOT to Write a Cheat &#40;Unless You Like Bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763280-write-cheat-unless-bans.html)|`2026-07-21 00:10:00`|`Anti-Cheat Bypass`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-21 00:09:00`|`Rust`|
