@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-07-21 06:03:00`|`Other MMORPG and Strategy`|
+|[Crash on execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763168-crash-execution.html)|`2026-07-21 06:01:00`|`Alternative Online Mods`|
+|[DMA Radar/Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/697254-dma-radar-fuser.html)|`2026-07-21 06:00:00`|`DayZ SA`|
+|[New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/763229-new.html)|`2026-07-21 05:56:00`|`Introductions`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-21 05:56:00`|`Deadlock`|
+|[Brawlhalla AI Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762829-brawlhalla-ai-thread.html)|`2026-07-21 05:50:00`|`Other Games`|
+|[Blocking EAC Packets by manipulating NtDeviceIoControlFile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763254-blocking-eac-packets-manipulating-ntdeviceiocontrolfile.html)|`2026-07-21 05:46:00`|`Anti-Cheat Bypass`|
+|[&#91;Release&#93; NightSense &#45; Internal CS2 Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762456-release-nightsense-internal-cs2-mod.html)|`2026-07-21 05:37:00`|`Counter-Strike 2 Releases`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-21 05:04:00`|`Escape from Tarkov`|
 |[SilentCat &#124; External Client &#40;1&#46;20–1&#46;2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/747244-silentcat-external-client-1-20-1-2-a.html)|`2026-07-21 04:55:00`|`Minecraft`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-21 04:49:00`|`Counter-Strike 2`|
