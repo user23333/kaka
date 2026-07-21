@@ -32,9 +32,14 @@
 |0|[Escape the Backrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56434)|`2026-07-21 16:42:55`|
 |2|[MHUR719](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56413)|`2026-07-21 16:42:55`|
 |5|[lame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56386)|`2026-07-21 16:42:55`|
+|1|[Delta Force LUA Engine dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56445)|`2026-07-21 23:54:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getting eacs cr3 from a hypervisor context](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763449-getting-eacs-cr3-hypervisor-context.html)|`2026-07-21 23:54:00`|`Anti-Cheat Bypass`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-21 23:49:00`|`Other MMORPG and Strategy`|
+|[30 day bans on 2 accounts already&#46; Need advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/763420-30-day-bans-2-accounts-advice.html)|`2026-07-21 23:47:00`|`ARC Raiders`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-21 23:42:00`|`Alternative Online Mods`|
 |[Dungeon Slasher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763480-dungeon-slasher.html)|`2026-07-21 22:18:00`|`Cheat Engine Tables`|
 |[HELP A NEWBIE 	:think&#95;gun:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762416-help-newbie-think_gun.html)|`2026-07-21 22:17:00`|`Rust`|
 |[Looking for a tester &#45; DMA & MAKCU required](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763478-looking-tester-dma-makcu-required.html)|`2026-07-21 22:16:00`|`League of Legends`|
