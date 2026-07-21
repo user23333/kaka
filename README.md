@@ -26,9 +26,16 @@
 |650|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221 v0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56372)|`2026-07-21 00:11:48`|
 |402|[TA&#43;&#43; Com&#46; for GV 1&#46;0&#46;6&#46;5&#46;46221](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56370)|`2026-07-21 00:11:48`|
 |1|[5&#46;5&#46;4&#45;40574608&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56431)|`2026-07-21 07:11:46`|
+|1|[4&#46;27&#46;1&#45;0&#43;&#43;&#43;UE4&#43;Partner&#45;Oculus&#45;4&#46;27&#45;Contractor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56433)|`2026-07-21 08:07:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Convar offsets? &#40;Spoonfeed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763022-convar-offsets-spoonfeed.html)|`2026-07-21 08:06:00`|`Counter-Strike 2`|
+|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763396-skin-changer.html)|`2026-07-21 08:02:00`|`Counter-Strike 2`|
+|[Axoim Recoil Reducer V1 all&#45;in&#45;one you only need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/758802-axoim-recoil-reducer-v1.html)|`2026-07-21 08:00:00`|`Rainbow Six Siege`|
+|[Palworld Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/620076-palworld-reversal-structs-offsets.html)|`2026-07-21 07:56:00`|`Palworld`|
+|[Instant crash when applying Knife Changer &#40;Weapons/Gloves/Models work fine&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763179-instant-crash-applying-knife-changer-weapons-gloves-models-fine.html)|`2026-07-21 07:49:00`|`Counter-Strike 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-21 07:48:00`|`Other FPS Games`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-07-21 07:11:00`|`Other FPS Games`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-21 07:05:00`|`Counter-Strike 2`|
 |[CS2 Cheats, Legit for Main ACC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763383-cs2-cheats-legit-main-acc.html)|`2026-07-21 07:04:00`|`Counter-Strike 2`|
