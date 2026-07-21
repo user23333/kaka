@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How VGK Actually Works &#45; The Internals &#40;TPM/HVCI/VBS/HV/IOMMU/DMA/OB/HWID & More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/755911-vgk-actually-internals-tpm-hvci-vbs-hv-iommu-dma-ob-hwid.html)|`2026-07-21 11:25:00`|`Valorant`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-21 11:25:00`|`Counter-Strike 2`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-21 11:17:00`|`Other Games`|
+|[GTA V &#45; Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763409-gta-hyper.html)|`2026-07-21 11:12:00`|`Grand Theft Auto V`|
+|[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-07-21 10:46:00`|`Overwatch`|
 |[Convar offsets? &#40;Spoonfeed&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763022-convar-offsets-spoonfeed.html)|`2026-07-21 08:06:00`|`Counter-Strike 2`|
 |[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763396-skin-changer.html)|`2026-07-21 08:02:00`|`Counter-Strike 2`|
 |[Axoim Recoil Reducer V1 all&#45;in&#45;one you only need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/758802-axoim-recoil-reducer-v1.html)|`2026-07-21 08:00:00`|`Rainbow Six Siege`|
