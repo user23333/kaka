@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-07-22 05:52:00`|`Forum General`|
+|[glitter&shine &#45; yet another metadata dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/763560-glitter-shine-metadata-dumper.html)|`2026-07-22 05:51:00`|`Escape from Tarkov`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-22 05:48:00`|`Other Games`|
+|[Taimanin Squad cheat &#40;test version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761177-taimanin-squad-cheat-test-version.html)|`2026-07-22 05:45:00`|`Other MMORPG and Strategy`|
+|[Safest way to get back on track in ENHANCED? YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763486-safest-track-enhanced-yimmenuv2.html)|`2026-07-22 05:44:00`|`Grand Theft Auto V`|
+|[Regarding new dead by daylight "method"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761463-regarding-dead-daylight-method.html)|`2026-07-22 05:42:00`|`Other FPS Games`|
+|[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-07-22 05:38:00`|`Overwatch`|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-07-22 05:37:00`|`Team Fortress 2`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-22 05:34:00`|`Grand Theft Auto V`|
 |[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-07-22 04:47:00`|`Other Games`|
 |[Hell Let Loose &#45; Simple ESP DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763556-hell-loose-simple-esp-dll.html)|`2026-07-22 04:44:00`|`Other FPS Games`|
 |[Taskbar Hero Inventory Unlocker – 104 to 260 Slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763259-taskbar-hero-inventory-unlocker-104-260-slots.html)|`2026-07-22 04:44:00`|`Other Games`|
