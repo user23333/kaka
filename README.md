@@ -12,6 +12,7 @@
 |13|[GPAD Editor&#91;PS4/PS5&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/762215-gpad-editor-ps4-ps5.html)|`2026-07-21 00:11:48`|`call-of-duty-black-ops`|
 |9|[Yim Menu not working after latest GTA V update 1&#46;73](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762390-yim-menu-gta-update-1-73-a.html)|`2026-07-21 00:11:48`|`alternative-online-mods`|
 |7|[Need yimmenu for kortz heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762301-yimmenu-kortz-heist.html)|`2026-07-21 05:05:40`|`grand-theft-auto-v`|
+|10|[INTEL/AMD Wireframe ESP in CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762813-intel-amd-wireframe-esp-cs2.html)|`2026-07-21 20:11:47`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-07-21 20:09:00`|`Battlefield 6`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-07-21 20:01:00`|`Overwatch`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-07-21 19:58:00`|`Other FPS Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-21 19:50:00`|`Counter-Strike 2`|
 |[7 Days To Die Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763460-7-days-die-patch.html)|`2026-07-21 18:41:00`|`Other FPS Games`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-21 18:37:00`|`Roblox`|
 |[Rs External&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756272-rs-external.html)|`2026-07-21 18:36:00`|`Overwatch`|
