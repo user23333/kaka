@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-22 03:54:00`|`Valorant`|
+|[Hearts of Iron IV Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/703167-hearts-iron-iv-cheat.html)|`2026-07-22 03:50:00`|`Other MMORPG and Strategy`|
+|[get transform data from obj](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/763542-transform-data-obj.html)|`2026-07-22 03:44:00`|`Unity`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-22 03:40:00`|`Rainbow Six Siege`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-22 03:37:00`|`Tom Clancy's The Division`|
+|[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-07-22 03:34:00`|`Call of Duty: Black Ops 2`|
+|[Real auth payload before encrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763232-real-auth-payload-encrypt.html)|`2026-07-22 03:32:00`|`Valorant`|
+|[Alternative methods for Kernel&#45;level Input Simulation? &#40;GHub IOCTL & FakeInput blocke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759056-alternative-methods-kernel-level-input-simulation-ghub-ioctl-fakeinput-blocke.html)|`2026-07-22 03:22:00`|`Anti-Cheat Bypass`|
+|[BYOVD discovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763534-byovd-discovery.html)|`2026-07-22 03:22:00`|`Anti-Cheat Bypass`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-22 02:19:00`|`Valorant`|
 |[Updated Particles System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763531-updated-particles-system.html)|`2026-07-22 02:19:00`|`Counter-Strike 2`|
 |[Farever Forever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753132-farever-forever.html)|`2026-07-22 02:18:00`|`Other MMORPG and Strategy`|
