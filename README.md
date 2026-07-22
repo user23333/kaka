@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Taskbar Hero v1&#46;00&#46;28 – Updated Offsets and StatType Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762620-taskbar-hero-v1-00-28-updated-offsets-stattype-table.html)|`2026-07-22 12:18:00`|`Other Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-22 12:18:00`|`Counter-Strike 2 Releases`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-07-22 12:13:00`|`Rust`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-07-22 12:03:00`|`Grand Theft Auto V`|
+|[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763603-ragebot-missing.html)|`2026-07-22 11:46:00`|`Counter-Strike 2`|
+|[DayZ Input System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757628-dayz-input-system.html)|`2026-07-22 11:38:00`|`DayZ SA`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-07-22 11:36:00`|`Other FPS Games`|
 |[YIM version 1&#46;73?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762520-yim-version-1-73-a.html)|`2026-07-22 09:01:00`|`Grand Theft Auto V`|
 |[ACE &#40;Anti&#45;Cheat Expert&#41; &#45; Let's talk about it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759500-ace-anti-cheat-expert-talk.html)|`2026-07-22 08:52:00`|`Anti-Cheat Bypass`|
 |[Whats wrong with my glow esp external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763469-whats-wrong-glow-esp-external.html)|`2026-07-22 08:51:00`|`Counter-Strike 2`|
