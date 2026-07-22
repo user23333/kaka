@@ -14,6 +14,7 @@
 |16|[ShadowReaper &#45; The Best External on UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762798-shadowreaper-external-uc.html)|`2026-07-22 04:55:39`|`counter-strike-2-a`|
 |20|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-22 07:37:20`|`other-games`|
 |7|[&#91;Release&#93; NightSense &#45; Internal CS2 Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762456-release-nightsense-internal-cs2-mod.html)|`2026-07-22 17:14:53`|`counter-strike-2-releases`|
+|24|[How NOT to Write a Cheat &#40;Unless You Like Bans&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763280-write-cheat-unless-bans.html)|`2026-07-22 20:48:13`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal by sniper&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754440-smite-2-internal-sniper.html)|`2026-07-22 20:45:00`|`Other FPS Games`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-07-22 20:38:00`|`Other FPS Games`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-22 20:36:00`|`ARMA 3`|
+|[Are there any good externals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/758640-externals.html)|`2026-07-22 20:35:00`|`Overwatch`|
+|[Help with YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763457-help-yimmenuv2.html)|`2026-07-22 20:33:00`|`Grand Theft Auto V`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-22 20:24:00`|`Call of Duty: Black Ops 7`|
 |[Anti Aim Movement Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762634-anti-aim-movement-issue.html)|`2026-07-22 19:11:00`|`Counter-Strike 2`|
 |[Dungeon Slasher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763480-dungeon-slasher.html)|`2026-07-22 19:06:00`|`Cheat Engine Tables`|
 |[🎯 R6S SIG OFFSET FINDER v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/724698-r6s-sig-offset-finder-v3-0-a.html)|`2026-07-22 19:00:00`|`Rainbow Six Siege`|
