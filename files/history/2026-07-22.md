@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-22 14:43:00`|`Rust`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-22 14:29:00`|`Counter-Strike 2`|
+|[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-07-22 14:27:00`|`Call of Duty: Black Ops 7`|
+|[5 days stuck with SkinChanger crashing at the end of a match&#46; HELP&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763619-5-days-stuck-skinchanger-crashing-match-help.html)|`2026-07-22 14:17:00`|`Counter-Strike 2`|
+|[What the best way to make money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763236-money-yimmenuv2.html)|`2026-07-22 14:13:00`|`Grand Theft Auto V`|
 |[Taskbar Hero v1&#46;00&#46;28 – Updated Offsets and StatType Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762620-taskbar-hero-v1-00-28-updated-offsets-stattype-table.html)|`2026-07-22 12:18:00`|`Other Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-22 12:18:00`|`Counter-Strike 2 Releases`|
 |[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-07-22 12:13:00`|`Rust`|
