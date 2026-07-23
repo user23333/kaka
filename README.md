@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how can i find RenderBatchList in ida?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763799-renderbatchlist-ida.html)|`2026-07-23 22:20:00`|`Counter-Strike 2`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-23 22:19:00`|`Grand Theft Auto V`|
+|[Help Bypass OpenProcess detection on Usermode Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763601-help-bypass-openprocess-detection-usermode-anticheat.html)|`2026-07-23 22:13:00`|`Anti-Cheat Bypass`|
+|[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-07-23 22:12:00`|`Counter-Strike 2`|
+|[Sons Of The Forest Gibson Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747569-sons-forest-gibson-menu.html)|`2026-07-23 22:11:00`|`Other Games`|
 |[The Isle Internal ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762367-isle-internal-esp-aimbot.html)|`2026-07-23 19:56:00`|`Other FPS Games`|
 |[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-07-23 19:54:00`|`Palworld`|
 |[Edgebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/759770-edgebug.html)|`2026-07-23 19:46:00`|`Counter-Strike 2`|
