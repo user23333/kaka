@@ -25,9 +25,16 @@
 |72|[Aqueline&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56453)|`2026-07-24 00:04:59`|
 |20|[Marvel Rivals DMA esp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56452)|`2026-07-24 00:04:59`|
 |38|[Delta Force LUA Engine dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56445)|`2026-07-24 00:04:59`|
+|2|[TBH&#45;Pro&#45;UC&#45;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56483)|`2026-07-24 06:11:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Loader &#45; License Authentication Implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/761965-loader-license-authentication-implementation.html)|`2026-07-24 06:10:00`|`C and C++`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-24 06:04:00`|`ARMA 3`|
+|[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-07-24 06:02:00`|`Counter-Strike 2`|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-24 05:59:00`|`Other Games`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2026-07-24 05:56:00`|`Counter-Strike 2 Releases`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-24 05:56:00`|`Escape from Tarkov`|
 |[Memesense CFG?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763873-memesense-cfg.html)|`2026-07-24 05:01:00`|`Counter-Strike 2`|
 |[BO2&#45;Auto Snake&#45;Jitter&#45;Rapid Fire script &#40;XBS/XB1/PS4&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/761808-bo2-auto-snake-jitter-rapid-fire-script-xbs-xb1-ps4.html)|`2026-07-24 04:53:00`|`Call of Duty: Black Ops`|
 |[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-07-24 04:52:00`|`Other FPS Games`|
