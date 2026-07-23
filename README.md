@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-23 10:19:00`|`Other Games`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-23 10:09:00`|`Tom Clancy's The Division`|
+|[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-07-23 10:05:00`|`Other Games`|
+|[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-07-23 10:03:00`|`Counter-Strike 2 Releases`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-07-23 10:03:00`|`Apex Legends`|
 |[Automatic Duplication AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752633-automatic-duplication-ahk-script.html)|`2026-07-23 07:54:00`|`DayZ SA`|
 |[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-07-23 07:37:00`|`Alternative Online Mods`|
 |[Marvel Rivals DMA ESP Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/763526-marvel-rivals-dma-esp-cheat.html)|`2026-07-23 07:31:00`|`Marvel Rivals`|
