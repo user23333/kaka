@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Meccha Chameleon &#45; Auto painter &#40;Camoflague and custom images&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759051-meccha-chameleon-auto-painter-camoflague-custom-images.html)|`2026-07-23 13:34:00`|`Other Games`|
+|[Apex &#45; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/763764-apex-offsets.html)|`2026-07-23 13:25:00`|`Apex Legends`|
+|[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-07-23 13:24:00`|`Valorant`|
+|[Rust offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763763-rust-offsets.html)|`2026-07-23 13:21:00`|`Rust`|
+|[Any way to reset the weekly bonus count?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763762-reset-weekly-bonus-count.html)|`2026-07-23 13:16:00`|`Grand Theft Auto V`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-07-23 12:58:00`|`Other FPS Games`|
 |[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-23 10:19:00`|`Other Games`|
 |[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-23 10:09:00`|`Tom Clancy's The Division`|
 |[Meccha Chameleon External 1&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758498-meccha-chameleon-external-1-4-1-a.html)|`2026-07-23 10:05:00`|`Other Games`|
