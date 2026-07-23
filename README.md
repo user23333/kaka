@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Got multiplayer esp working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/763787-multiplayer-esp.html)|`2026-07-24 07:08:00`|`Call of Duty: Black Ops 2`|
+|[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-07-24 07:06:00`|`Cheat Engine Tables`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-24 07:04:00`|`Counter-Strike 2`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-24 07:01:00`|`Palworld`|
+|[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-07-24 06:37:00`|`Other MMORPG and Strategy`|
+|[Revolution Idle Anti Cheat Bypass/Freeshop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/711124-revolution-idle-anti-cheat-bypass-freeshop.html)|`2026-07-24 06:35:00`|`Other Games`|
 |[C&#43;&#43; Loader &#45; License Authentication Implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/761965-loader-license-authentication-implementation.html)|`2026-07-24 06:10:00`|`C and C++`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-07-24 06:04:00`|`ARMA 3`|
 |[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-07-24 06:02:00`|`Counter-Strike 2`|
