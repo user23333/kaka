@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forza Horizon 6 Helper &#45; SQL Database Browser &#43; Free Cars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754134-forza-horizon-6-helper-sql-database-browser-free-cars.html)|`2026-07-24 01:38:00`|`Other Games`|
+|[ANDROMEDA &#124;1&#35; INTERNAL for Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-1-internal-deadlock.html)|`2026-07-24 01:35:00`|`Deadlock`|
+|[Hello&#46;&#46;hi hi hiiiiiiiiiiiiiiiiiiii](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/763838-hello-hi-hi-hiiiiiiiiiiiiiiiiiiii.html)|`2026-07-24 01:32:00`|`Introductions`|
+|[Rdma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763599-rdma.html)|`2026-07-24 01:28:00`|`Anti-Cheat Bypass`|
+|[How can I get the latest Valorant RSA key?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763810-valorant-rsa-key.html)|`2026-07-24 01:27:00`|`Valorant`|
+|[Lua executor and Resource manager for FiveM enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763837-lua-executor-resource-manager-fivem-enhanced.html)|`2026-07-24 01:23:00`|`Alternative Online Mods`|
+|[Ragebot slow to shoot / sometimes does nothing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763836-ragebot-slow-shoot-sometimes.html)|`2026-07-24 01:22:00`|`Counter-Strike 2`|
+|[Multiplatform achievement unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/763834-multiplatform-achievement-unlocker.html)|`2026-07-24 01:18:00`|`General Programming and Reversing`|
+|[PHYSX &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/709796-physx-rust.html)|`2026-07-24 01:16:00`|`Rust`|
 |[Zombies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763197-zombies.html)|`2026-07-24 00:01:00`|`Call of Duty: Black Ops 7`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-24 00:01:00`|`Counter-Strike 2 Releases`|
 |[expectional cs2 kernel software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/758795-expectional-cs2-kernel-software.html)|`2026-07-23 23:59:00`|`Counter-Strike 2 Releases`|
