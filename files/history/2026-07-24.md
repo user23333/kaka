@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-24 08:06:00`|`Other Games`|
+|[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-07-24 08:04:00`|`Other FPS Games`|
+|[Anyone got the latest offsets and all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762001-offsets.html)|`2026-07-24 07:59:00`|`Rainbow Six Siege`|
+|[Samurai's Scripts &#91;LEGACY ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/748763-samurais-scripts-legacy.html)|`2026-07-24 07:38:00`|`Grand Theft Auto V`|
+|[Votekicking opponents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763728-votekicking-opponents.html)|`2026-07-24 07:28:00`|`Counter-Strike 2`|
+|[&#91;FREE&#93; FIVEM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755613-free-fivem-spoofer.html)|`2026-07-24 07:27:00`|`Alternative Online Mods`|
 |[Got multiplayer esp working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/763787-multiplayer-esp.html)|`2026-07-24 07:08:00`|`Call of Duty: Black Ops 2`|
 |[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-07-24 07:06:00`|`Cheat Engine Tables`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-24 07:04:00`|`Counter-Strike 2`|
