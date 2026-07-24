@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-24 18:25:00`|`Rust`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-24 18:21:00`|`Marvel Rivals`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-24 18:19:00`|`Other FPS Games`|
+|[Meccha Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/757748-meccha-chameleon.html)|`2026-07-24 18:17:00`|`Other Games`|
+|[landing aimpunch destroyed nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763962-landing-aimpunch-destroyed-nospread.html)|`2026-07-24 18:13:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-24 16:34:00`|`Overwatch`|
 |[Ascension COA &#45; 3&#46;3&#46;5a &#124; GetSpellCharges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/763890-ascension-coa-3-3-5a-getspellcharges.html)|`2026-07-24 16:30:00`|`World of Warcraft`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-24 16:30:00`|`Other MMORPG and Strategy`|
