@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-24 16:34:00`|`Overwatch`|
+|[Ascension COA &#45; 3&#46;3&#46;5a &#124; GetSpellCharges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/763890-ascension-coa-3-3-5a-getspellcharges.html)|`2026-07-24 16:30:00`|`World of Warcraft`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-07-24 16:30:00`|`Other MMORPG and Strategy`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2026-07-24 16:21:00`|`Anti-Cheat Bypass`|
+|[RageMP Playername](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/741541-ragemp-playername.html)|`2026-07-24 16:18:00`|`Alternative Online Mods`|
 |[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-07-24 14:08:00`|`Other MMORPG and Strategy`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-24 13:56:00`|`Rust`|
 |[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-07-24 13:23:00`|`Counter-Strike 2`|
