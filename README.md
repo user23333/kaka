@@ -12,6 +12,7 @@
 |10|[Strikers Club](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762864-strikers-club.html)|`2026-07-25 01:08:32`|`other-games`|
 |15|[What the best way to make money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763236-money-yimmenuv2.html)|`2026-07-25 01:08:32`|`grand-theft-auto-v`|
 |17|[VGC Dumped &#43; Imports are fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763151-vgc-dumped-imports-fixed.html)|`2026-07-25 04:00:18`|`valorant`|
+|12|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-25 05:05:02`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay for faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763993-overlay-faceit.html)|`2026-07-25 04:59:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-25 04:57:00`|`Rust`|
+|[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-07-25 04:55:00`|`Other MMORPG and Strategy`|
+|[Silent Aura/Rotation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/749818-silent-aura-rotation.html)|`2026-07-25 04:51:00`|`Minecraft`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-07-25 04:50:00`|`Escape from Tarkov`|
+|[Strikers Club Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764071-strikers-club-internal.html)|`2026-07-25 04:49:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-25 04:36:00`|`Rust`|
 |[what traces does paid cheats leave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764057-traces-paid-cheats-leave.html)|`2026-07-25 03:59:00`|`Anti-Cheat Bypass`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-07-25 03:59:00`|`Other FPS Games`|
 |[Friday the 13th &#45; Camp Forest Green](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705749-friday-13th-camp-forest-green.html)|`2026-07-25 03:54:00`|`Other Games`|
