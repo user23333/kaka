@@ -11,6 +11,7 @@
 |14|[Does Yimmenu v2 work as of today](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762886-yimmenu-v2.html)|`2026-07-25 01:08:32`|`grand-theft-auto-v`|
 |10|[Strikers Club](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762864-strikers-club.html)|`2026-07-25 01:08:32`|`other-games`|
 |15|[What the best way to make money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763236-money-yimmenuv2.html)|`2026-07-25 01:08:32`|`grand-theft-auto-v`|
+|17|[VGC Dumped &#43; Imports are fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763151-vgc-dumped-imports-fixed.html)|`2026-07-25 04:00:18`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,19 @@
 |191|[TBH&#45;Pro&#45;UC&#45;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56483)|`2026-07-25 01:08:32`|
 |113|[ArgusMonitor&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56480)|`2026-07-25 01:08:32`|
 |12|[EgguWare&#95;SrcCode&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56467)|`2026-07-25 01:08:32`|
+|2|[7&#45;24&#45;26 rico dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56522)|`2026-07-25 04:00:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[what traces does paid cheats leave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764057-traces-paid-cheats-leave.html)|`2026-07-25 03:59:00`|`Anti-Cheat Bypass`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-07-25 03:59:00`|`Other FPS Games`|
+|[Friday the 13th &#45; Camp Forest Green](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705749-friday-13th-camp-forest-green.html)|`2026-07-25 03:54:00`|`Other Games`|
+|[Camp forest green &#123;esp&#125;user overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764058-camp-forest-green-esp-user-overlay.html)|`2026-07-25 03:52:00`|`Other FPS Games`|
+|[Scropts QOL v1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/575498-scropts-qol-v1-5-a.html)|`2026-07-25 03:48:00`|`Call of Duty: Black Ops 3`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-25 03:48:00`|`Other Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-25 03:46:00`|`Call of Duty: Black Ops 7`|
+|[Rogue Company &#45; 1st Generation Rogue Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/746942-rogue-company-1st-generation-rogue-internal.html)|`2026-07-25 03:45:00`|`Other Games`|
+|[CS:R Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/764054-cs-cheats.html)|`2026-07-25 03:36:00`|`Counterstrike Global Offensive`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-25 02:40:00`|`Grand Theft Auto V`|
 |[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-25 02:37:00`|`Rust`|
 |[crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/763793-crash.html)|`2026-07-25 02:31:00`|`Deadlock`|
