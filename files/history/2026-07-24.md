@@ -26,9 +26,14 @@
 |20|[Marvel Rivals DMA esp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56452)|`2026-07-24 00:04:59`|
 |38|[Delta Force LUA Engine dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56445)|`2026-07-24 00:04:59`|
 |2|[TBH&#45;Pro&#45;UC&#45;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56483)|`2026-07-24 06:11:04`|
+|6|[DragonSword Awakening CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56510)|`2026-07-24 14:10:45`|
+|1|[Silver Palace SDK CBT 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56507)|`2026-07-24 14:10:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-07-24 14:08:00`|`Other MMORPG and Strategy`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-24 13:56:00`|`Rust`|
+|[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-07-24 13:23:00`|`Counter-Strike 2`|
 |[Custom Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754935-custom-model-changer.html)|`2026-07-24 11:24:00`|`Counter-Strike 2`|
 |[Hyper Dash VR metadata decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/763936-hyper-dash-vr-metadata-decrypt.html)|`2026-07-24 11:10:00`|`Unity`|
 |[i cant read the local player for some reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763760-cant-read-local-player-reason.html)|`2026-07-24 11:04:00`|`Counter-Strike 2`|
