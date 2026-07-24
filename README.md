@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-07-25 07:14:00`|`Grand Theft Auto V`|
+|[How does EAC detect the presence of a debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764084-eac-detect-presence-debugger.html)|`2026-07-25 07:13:00`|`Anti-Cheat Bypass`|
+|[Roblox Always updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/757294-roblox-updated-offsets.html)|`2026-07-25 07:03:00`|`Roblox`|
+|[Votekicking opponents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763728-votekicking-opponents.html)|`2026-07-25 06:46:00`|`Counter-Strike 2`|
+|[Ruby Internal V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/763948-ruby-internal-v1-2-a.html)|`2026-07-25 06:40:00`|`Combat Master`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-07-25 06:29:00`|`Counter-Strike 2 Releases`|
 |[Visibility check methods?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763788-visibility-check-methods.html)|`2026-07-25 06:11:00`|`Overwatch`|
 |[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763603-ragebot-missing.html)|`2026-07-25 05:55:00`|`Counter-Strike 2`|
 |[Anyone got the latest offsets and all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762001-offsets.html)|`2026-07-25 05:50:00`|`Rainbow Six Siege`|
