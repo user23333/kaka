@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Custom Model Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754935-custom-model-changer.html)|`2026-07-24 11:24:00`|`Counter-Strike 2`|
+|[Hyper Dash VR metadata decrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/763936-hyper-dash-vr-metadata-decrypt.html)|`2026-07-24 11:10:00`|`Unity`|
+|[i cant read the local player for some reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763760-cant-read-local-player-reason.html)|`2026-07-24 11:04:00`|`Counter-Strike 2`|
+|[Dropped Weapons esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763930-dropped-weapons-esp.html)|`2026-07-24 10:59:00`|`Counter-Strike 2`|
 |[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-24 08:06:00`|`Other Games`|
 |[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-07-24 08:04:00`|`Other FPS Games`|
 |[Anyone got the latest offsets and all?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/762001-offsets.html)|`2026-07-24 07:59:00`|`Rainbow Six Siege`|
