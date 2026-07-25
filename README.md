@@ -15,6 +15,7 @@
 |12|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-25 05:05:02`|`valorant`|
 |29|[Soon The Division 2 Cheat Menu By Tokal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763847-soon-division-2-cheat-menu-tokal.html)|`2026-07-25 11:36:23`|`tom-clancy-s-the-division`|
 |30|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-25 20:08:16`|`rust`|
+|13|[Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/763689-vulnerable-driver-eac.html)|`2026-07-25 21:57:16`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vertex fixer Fivem share source code vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764176-vertex-fixer-fivem-share-source-code-vertexfixer-cpp.html)|`2026-07-25 21:53:00`|`Grand Theft Auto V`|
+|[Need Help Understanding Rust Offset Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763883-help-understanding-rust-offset-decryption.html)|`2026-07-25 21:50:00`|`Rust`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-25 21:47:00`|`Marvel Rivals`|
+|[Rust ESP intermittent read fails via KeStackAttachProcess, players flickering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764173-rust-esp-intermittent-read-fails-via-kestackattachprocess-players-flickering.html)|`2026-07-25 21:43:00`|`Rust`|
+|[nospread is buggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764077-nospread-buggy.html)|`2026-07-25 21:42:00`|`Counter-Strike 2`|
+|[Internal Skinchanger not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764108-internal-skinchanger.html)|`2026-07-25 21:42:00`|`Counter-Strike 2`|
 |[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-07-25 20:04:00`|`Counter-Strike 2`|
 |[ClaudeHalla&#46; Brawlhalla bot made by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/764004-claudehalla-brawlhalla-bot-claude.html)|`2026-07-25 20:00:00`|`Half Life`|
 |[How to implement pSilent aim efficiently using HL SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/764151-implement-psilent-aim-efficiently-using-hl-sdk.html)|`2026-07-25 19:47:00`|`CounterStrike 1.5, 1.6 and Mods`|
