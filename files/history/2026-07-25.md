@@ -14,6 +14,7 @@
 |17|[VGC Dumped &#43; Imports are fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763151-vgc-dumped-imports-fixed.html)|`2026-07-25 04:00:18`|`valorant`|
 |12|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-25 05:05:02`|`valorant`|
 |29|[Soon The Division 2 Cheat Menu By Tokal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763847-soon-division-2-cheat-menu-tokal.html)|`2026-07-25 11:36:23`|`tom-clancy-s-the-division`|
+|30|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-25 20:08:16`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-07-25 20:04:00`|`Counter-Strike 2`|
+|[ClaudeHalla&#46; Brawlhalla bot made by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/764004-claudehalla-brawlhalla-bot-claude.html)|`2026-07-25 20:00:00`|`Half Life`|
+|[How to implement pSilent aim efficiently using HL SDK?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/764151-implement-psilent-aim-efficiently-using-hl-sdk.html)|`2026-07-25 19:47:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[latest offset ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764150-offset.html)|`2026-07-25 19:46:00`|`Sea of Thieves`|
+|[map name / id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764125-map-name-id.html)|`2026-07-25 19:46:00`|`Overwatch`|
 |[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-07-25 19:08:00`|`Cheat Engine Tables`|
 |[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-07-25 19:07:00`|`Grand Theft Auto V`|
 |[Rust Recoil Macro Tables 2026 &#91;Makcu/ESP/DMA/Anything&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762129-rust-recoil-macro-tables-2026-makcu-esp-dma.html)|`2026-07-25 19:06:00`|`Rust`|
