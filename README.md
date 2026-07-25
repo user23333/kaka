@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rendering from internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764180-rendering-internal.html)|`2026-07-25 22:50:00`|`Rust`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-25 22:43:00`|`Valorant`|
+|[Could an AI fully develop an aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764178-ai-develop-aimbot.html)|`2026-07-25 22:31:00`|`Overwatch`|
 |[vertex fixer Fivem share source code vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764176-vertex-fixer-fivem-share-source-code-vertexfixer-cpp.html)|`2026-07-25 21:53:00`|`Grand Theft Auto V`|
 |[Need Help Understanding Rust Offset Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763883-help-understanding-rust-offset-decryption.html)|`2026-07-25 21:50:00`|`Rust`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-25 21:47:00`|`Marvel Rivals`|
