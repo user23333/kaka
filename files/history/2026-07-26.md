@@ -25,9 +25,19 @@
 |5|[squad last sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56484)|`2026-07-26 00:51:40`|
 |269|[TBH&#45;Pro&#45;UC&#45;V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56483)|`2026-07-26 00:51:40`|
 |144|[ArgusMonitor&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56480)|`2026-07-26 00:51:40`|
+|1|[vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56536)|`2026-07-26 04:35:38`|
+|3|[DragonSword Awakening v1&#46;1 CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56534)|`2026-07-26 04:35:38`|
+|2|[Payday3&#45;Internal V2&#46;0&#46;0b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56532)|`2026-07-26 04:35:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Devirtualizing Battleye Service/Obtaining process handle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764189-devirtualizing-battleye-service-obtaining-process-handle.html)|`2026-07-26 04:32:00`|`Anti-Cheat Bypass`|
+|[Heartwood Online &#124; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763563-heartwood-online-internal.html)|`2026-07-26 04:32:00`|`Other MMORPG and Strategy`|
+|[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-07-26 04:28:00`|`Other MMORPG and Strategy`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-07-26 04:27:00`|`Other FPS Games`|
+|[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-07-26 04:27:00`|`Other FPS Games`|
+|[Kortz Heist Max Payout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764226-kortz-heist-max-payout.html)|`2026-07-26 04:24:00`|`Grand Theft Auto V`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-07-26 04:22:00`|`Other FPS Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-26 03:47:00`|`Rainbow Six Siege`|
 |[vertex fixer Fivem share source code vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764176-vertex-fixer-fivem-share-source-code-vertexfixer-cpp.html)|`2026-07-26 03:46:00`|`Grand Theft Auto V`|
 |[what traces does paid cheats leave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764057-traces-paid-cheats-leave.html)|`2026-07-26 03:45:00`|`Anti-Cheat Bypass`|
