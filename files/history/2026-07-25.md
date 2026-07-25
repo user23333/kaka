@@ -13,6 +13,7 @@
 |15|[What the best way to make money with YimMenuV2?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763236-money-yimmenuv2.html)|`2026-07-25 01:08:32`|`grand-theft-auto-v`|
 |17|[VGC Dumped &#43; Imports are fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763151-vgc-dumped-imports-fixed.html)|`2026-07-25 04:00:18`|`valorant`|
 |12|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-25 05:05:02`|`valorant`|
+|29|[Soon The Division 2 Cheat Menu By Tokal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763847-soon-division-2-cheat-menu-tokal.html)|`2026-07-25 11:36:23`|`tom-clancy-s-the-division`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-07-25 11:35:00`|`Marvel Rivals`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-25 11:12:00`|`Overwatch`|
+|[Unleashed DMA &#45; OW2 &#40;2026&#45;06&#45;15&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757641-unleashed-dma-ow2-2026-06-15-a.html)|`2026-07-25 11:07:00`|`Overwatch`|
+|[Bo2 offsets and hooking &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/764107-bo2-offsets-hooking-steam.html)|`2026-07-25 10:58:00`|`Call of Duty: Black Ops 2`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-07-25 07:14:00`|`Grand Theft Auto V`|
 |[How does EAC detect the presence of a debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764084-eac-detect-presence-debugger.html)|`2026-07-25 07:13:00`|`Anti-Cheat Bypass`|
 |[Roblox Always updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/757294-roblox-updated-offsets.html)|`2026-07-25 07:03:00`|`Roblox`|
