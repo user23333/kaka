@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-26 03:47:00`|`Rainbow Six Siege`|
+|[vertex fixer Fivem share source code vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764176-vertex-fixer-fivem-share-source-code-vertexfixer-cpp.html)|`2026-07-26 03:46:00`|`Grand Theft Auto V`|
+|[what traces does paid cheats leave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764057-traces-paid-cheats-leave.html)|`2026-07-26 03:45:00`|`Anti-Cheat Bypass`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-26 03:45:00`|`Grand Theft Auto V`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-07-26 03:43:00`|`Apex Legends`|
+|[active item and inventory/eyes component methods failing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764218-active-item-inventory-eyes-component-methods-failing.html)|`2026-07-26 03:41:00`|`Rust`|
+|[Fallout 76 Gold Bullion Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764217-fallout-76-gold-bullion-cheat.html)|`2026-07-26 03:39:00`|`Other FPS Games`|
+|[Strikers Club](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762864-strikers-club.html)|`2026-07-26 03:39:00`|`Other Games`|
+|[This topic serves simultaneously as an assignment, a request for help, and educationa](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764075-topic-serves-simultaneously-assignment-request-help-educationa.html)|`2026-07-26 03:34:00`|`Counter-Strike 2`|
 |[Need Help Understanding Rust Offset Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763883-help-understanding-rust-offset-decryption.html)|`2026-07-26 02:35:00`|`Rust`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-26 02:34:00`|`Counter-Strike 2`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-07-26 02:33:00`|`Phasmophobia`|
