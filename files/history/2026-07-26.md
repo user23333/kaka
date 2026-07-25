@@ -11,6 +11,7 @@
 |17|[VGC Dumped &#43; Imports are fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763151-vgc-dumped-imports-fixed.html)|`2026-07-26 00:51:40`|`valorant`|
 |14|[Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/763689-vulnerable-driver-eac.html)|`2026-07-26 00:51:40`|`apex-legends`|
 |14|[getting eacs cr3 from a hypervisor context](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763449-getting-eacs-cr3-hypervisor-context.html)|`2026-07-26 00:51:40`|`anti-cheat-bypass`|
+|9|[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-07-26 01:44:16`|`cheat-engine-tables`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762004-detection-virtualization.html)|`2026-07-26 01:42:00`|`Anti-Cheat Bypass`|
+|[Rust ESP intermittent read fails via KeStackAttachProcess, players flickering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764173-rust-esp-intermittent-read-fails-via-kestackattachprocess-players-flickering.html)|`2026-07-26 01:34:00`|`Rust`|
+|[nospread is buggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764077-nospread-buggy.html)|`2026-07-26 01:29:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-26 01:24:00`|`Apex Legends`|
+|[Halo Campaign Evolved Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/764052-halo-campaign-evolved-reversal-structs-offsets.html)|`2026-07-26 01:22:00`|`Halo`|
+|[How does EAC detect the presence of a debugger?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764084-eac-detect-presence-debugger.html)|`2026-07-26 01:21:00`|`Anti-Cheat Bypass`|
+|[ClaudeHalla&#46; Brawlhalla bot made by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/764004-claudehalla-brawlhalla-bot-claude.html)|`2026-07-26 01:21:00`|`Half Life`|
+|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-26 01:21:00`|`Rust`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-26 01:18:00`|`Overwatch`|
+|[getting eacs cr3 from a hypervisor context](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763449-getting-eacs-cr3-hypervisor-context.html)|`2026-07-26 01:16:00`|`Anti-Cheat Bypass`|
 |[Could an AI fully develop an aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764178-ai-develop-aimbot.html)|`2026-07-26 00:45:00`|`Overwatch`|
 |[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-07-26 00:42:00`|`Valorant`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-07-26 00:40:00`|`Grand Theft Auto V`|
