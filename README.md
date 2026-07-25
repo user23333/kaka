@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Understanding Rust Offset Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763883-help-understanding-rust-offset-decryption.html)|`2026-07-26 02:35:00`|`Rust`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-26 02:34:00`|`Counter-Strike 2`|
+|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-07-26 02:33:00`|`Phasmophobia`|
+|[Votekicking opponents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763728-votekicking-opponents.html)|`2026-07-26 02:30:00`|`Counter-Strike 2`|
+|[vis check help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764208-vis-check-help.html)|`2026-07-26 02:28:00`|`Counter-Strike 2`|
+|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-26 02:25:00`|`Valorant`|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-26 02:24:00`|`Other Games`|
+|[MouseServiceCallback Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764177-mouseservicecallback-fixed.html)|`2026-07-26 02:24:00`|`Anti-Cheat Bypass`|
 |[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762004-detection-virtualization.html)|`2026-07-26 01:42:00`|`Anti-Cheat Bypass`|
 |[Rust ESP intermittent read fails via KeStackAttachProcess, players flickering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764173-rust-esp-intermittent-read-fails-via-kestackattachprocess-players-flickering.html)|`2026-07-26 01:34:00`|`Rust`|
 |[nospread is buggy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764077-nospread-buggy.html)|`2026-07-26 01:29:00`|`Counter-Strike 2`|
