@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-26 17:20:00`|`Valorant`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-07-26 17:13:00`|`Counter-Strike 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-07-26 17:11:00`|`Marvel Rivals`|
+|[Bullet Force internal cheat / Triple T &#45; Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763736-bullet-force-internal-cheat-triple-hook.html)|`2026-07-26 17:09:00`|`Other Games`|
+|[pe&#45;packer x86&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761963-pe-packer-x86-x64.html)|`2026-07-26 17:07:00`|`Anti-Cheat Bypass`|
+|[Soon The Division 2 Cheat Menu By Tokal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763847-soon-division-2-cheat-menu-tokal.html)|`2026-07-26 17:05:00`|`Tom Clancy's The Division`|
+|[external overlay delay &#40;discord overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764291-external-overlay-delay-discord-overlay.html)|`2026-07-26 16:55:00`|`Counter-Strike 2`|
+|[Rivals Injector &#40;MANUAL MAP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/764300-rivals-injector-manual-map.html)|`2026-07-26 16:50:00`|`Marvel Rivals`|
 |[Is there a way to unlock all nmodifications in bunker using yim menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764293-unlock-nmodifications-bunker-using-yim-menu.html)|`2026-07-26 15:08:00`|`Grand Theft Auto V`|
 |[Ragebot help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757357-ragebot-help.html)|`2026-07-26 15:08:00`|`Counter-Strike 2`|
 |[PZ Hack &#91;B42&#46;18&#43;&#93; and source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755204-pz-hack-b42-18-source-code.html)|`2026-07-26 15:00:00`|`Other Games`|
