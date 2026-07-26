@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-27 03:44:00`|`Anti-Cheat Bypass`|
+|[bewithereddaisy &#45; BEDaisy dynamic report grabber & spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761216-bewithereddaisy-bedaisy-dynamic-report-grabber-spoofer.html)|`2026-07-27 03:41:00`|`Anti-Cheat Bypass`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-27 03:36:00`|`Overwatch`|
+|[BitBlt/Desktop Duplication Detected on Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764334-bitblt-desktop-duplication-detected-win11.html)|`2026-07-27 03:22:00`|`Valorant`|
 |[dll search order hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764375-dll-search-hijacking.html)|`2026-07-27 02:31:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-27 02:30:00`|`Other FPS Games`|
 |[Fixing unlock all & skins not applied](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762650-fixing-unlock-skins-applied.html)|`2026-07-27 02:26:00`|`Valorant`|
