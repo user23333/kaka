@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant spoof mobo uuid with amideefi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764210-cant-spoof-mobo-uuid-amideefi.html)|`2026-07-27 04:30:00`|`Anti-Cheat Bypass`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-27 04:29:00`|`Overwatch`|
+|[impossible to spoof smbios uuid on AM5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764260-impossible-spoof-smbios-uuid-am5.html)|`2026-07-27 04:24:00`|`Valorant`|
+|[Combat Master &#45; 0&#46;30&#46;2 &#124; &#40;Steam&#41; Il2Cpp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/764333-combat-master-0-30-2-steam-il2cpp-dump.html)|`2026-07-27 04:21:00`|`Combat Master`|
+|[ragebot not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764385-ragebot.html)|`2026-07-27 04:21:00`|`Counter-Strike 2`|
+|[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-07-27 04:13:00`|`Other Games`|
+|[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-07-27 04:13:00`|`League of Legends`|
+|[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-07-27 04:13:00`|`Anti-Cheat Bypass`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-27 04:09:00`|`Escape from Tarkov`|
 |[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-27 03:44:00`|`Anti-Cheat Bypass`|
 |[bewithereddaisy &#45; BEDaisy dynamic report grabber & spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761216-bewithereddaisy-bedaisy-dynamic-report-grabber-spoofer.html)|`2026-07-27 03:41:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-27 03:36:00`|`Overwatch`|
