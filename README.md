@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[dll search order hijacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764375-dll-search-hijacking.html)|`2026-07-27 02:31:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-27 02:30:00`|`Other FPS Games`|
+|[Fixing unlock all & skins not applied](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762650-fixing-unlock-skins-applied.html)|`2026-07-27 02:26:00`|`Valorant`|
+|[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764374-kdmapper-3-0-a.html)|`2026-07-27 02:26:00`|`Anti-Cheat Bypass`|
+|[Is 15 million classic heist for enhanced patched?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764339-15-million-classic-heist-enhanced-patched.html)|`2026-07-27 02:17:00`|`Grand Theft Auto V`|
+|[latest offset ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764150-offset.html)|`2026-07-27 02:05:00`|`Sea of Thieves`|
+|[external overlay delay &#40;discord overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764291-external-overlay-delay-discord-overlay.html)|`2026-07-27 01:57:00`|`Counter-Strike 2`|
+|[where do i get the latest offsets for R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764126-offsets-r6.html)|`2026-07-27 01:51:00`|`Rainbow Six Siege`|
 |[Achievement Unlocker Cheat for EFT &#40;PvE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764123-achievement-unlocker-cheat-eft-pve.html)|`2026-07-27 01:31:00`|`Escape from Tarkov`|
 |[Vanguard mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764367-vanguard-mouse-movement.html)|`2026-07-27 01:29:00`|`Anti-Cheat Bypass`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-27 01:28:00`|`Call of Duty: Black Ops 7`|
