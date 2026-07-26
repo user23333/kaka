@@ -24,9 +24,19 @@
 |12|[Silver Palace SDK CBT 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56507)|`2026-07-27 00:29:52`|
 |2505|[XIPEX&#45;Injector&#43;XIPEX&#45;PalWorld1&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56495)|`2026-07-27 00:29:52`|
 |87|[Tears of Metal CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56487)|`2026-07-27 00:29:52`|
+|7|[EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56559)|`2026-07-27 05:31:40`|
+|18|[kdmapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56549)|`2026-07-27 05:31:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-27 05:29:00`|`Other MMORPG and Strategy`|
+|[Rust External &#45; LocalPlayer Children/Inventory pointers returning 0x0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764261-rust-external-localplayer-children-inventory-pointers-returning-0x0.html)|`2026-07-27 05:29:00`|`Rust`|
+|[SpiritVale Bot autospellcast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764209-spiritvale-bot-autospellcast.html)|`2026-07-27 05:28:00`|`Other MMORPG and Strategy`|
+|[Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764391-detection.html)|`2026-07-27 05:27:00`|`Counter-Strike 2`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-27 05:22:00`|`Deadlock`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-27 05:22:00`|`ARC Raiders`|
+|[Looking for Ideas to Bypass Scanners for an External FiveM Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763931-looking-ideas-bypass-scanners-external-fivem-cheat.html)|`2026-07-27 05:17:00`|`Alternative Online Mods`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-07-27 05:15:00`|`Tom Clancy's The Division`|
 |[Cant spoof mobo uuid with amideefi](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764210-cant-spoof-mobo-uuid-amideefi.html)|`2026-07-27 04:30:00`|`Anti-Cheat Bypass`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-07-27 04:29:00`|`Overwatch`|
 |[impossible to spoof smbios uuid on AM5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764260-impossible-spoof-smbios-uuid-am5.html)|`2026-07-27 04:24:00`|`Valorant`|
