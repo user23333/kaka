@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-07-26 12:31:00`|`Valorant`|
+|[DLL &#45; Injector &#124; Recent Version &#45; 07/14/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762303-dll-injector-recent-version-07-14-2026-a.html)|`2026-07-26 12:29:00`|`Roblox`|
+|[Roblox injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762060-roblox-injector.html)|`2026-07-26 12:28:00`|`Roblox`|
+|[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-07-26 12:25:00`|`Grand Theft Auto V`|
+|[Overlay for faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763993-overlay-faceit.html)|`2026-07-26 12:14:00`|`Anti-Cheat Bypass`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-26 12:13:00`|`Grand Theft Auto V`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-07-26 12:11:00`|`Other Games`|
+|[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-07-26 12:10:00`|`Roblox`|
 |[Valorant UTOC Signature Bypass &#40;Custom PAK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/743396-valorant-utoc-signature-bypass-custom-pak.html)|`2026-07-26 08:51:00`|`Valorant`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-26 08:50:00`|`Counter-Strike 2`|
 |[Palworld Internal for 0&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/760449-palworld-internal-0-7-3-a.html)|`2026-07-26 08:33:00`|`Palworld`|
