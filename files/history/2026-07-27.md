@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ShellShock Live Aimbot & Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761063-shellshock-live-aimbot-spinbot.html)|`2026-07-27 06:30:00`|`Other FPS Games`|
+|[Could an AI fully develop an aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764178-ai-develop-aimbot.html)|`2026-07-27 06:18:00`|`Overwatch`|
+|[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-07-27 06:10:00`|`Valorant`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-07-27 06:10:00`|`Payday 3`|
+|[This topic serves simultaneously as an assignment, a request for help, and educationa](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764075-topic-serves-simultaneously-assignment-request-help-educationa.html)|`2026-07-27 06:07:00`|`Counter-Strike 2`|
+|[What script do the good cheats use to ping all](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/763634-script-cheats-ping.html)|`2026-07-27 06:04:00`|`ARC Raiders`|
 |[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-27 05:29:00`|`Other MMORPG and Strategy`|
 |[Rust External &#45; LocalPlayer Children/Inventory pointers returning 0x0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764261-rust-external-localplayer-children-inventory-pointers-returning-0x0.html)|`2026-07-27 05:29:00`|`Rust`|
 |[SpiritVale Bot autospellcast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764209-spiritvale-bot-autospellcast.html)|`2026-07-27 05:28:00`|`Other MMORPG and Strategy`|
