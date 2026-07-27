@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[concolorms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764543-concolorms.html)|`2026-07-28 04:18:00`|`Counter-Strike 2`|
+|[CrusX&#95;For&#95;Honor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752209-crusx_for_honor.html)|`2026-07-28 04:15:00`|`Other MMORPG and Strategy`|
+|[BitBlt/Desktop Duplication Detected on Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764334-bitblt-desktop-duplication-detected-win11.html)|`2026-07-28 04:02:00`|`Valorant`|
+|[native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763624-native-invoker.html)|`2026-07-28 04:02:00`|`Alternative Online Mods`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-28 03:59:00`|`Other Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-28 03:58:00`|`Escape from Tarkov`|
 |[Escape The Backrooms PC Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762009-escape-backrooms-pc-cheat.html)|`2026-07-28 02:56:00`|`Other FPS Games`|
 |[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-07-28 02:54:00`|`Other FPS Games`|
 |[TLS External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764527-tls-external.html)|`2026-07-28 02:53:00`|`Alternative Online Mods`|
