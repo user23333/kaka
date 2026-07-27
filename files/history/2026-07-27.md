@@ -30,9 +30,16 @@
 |87|[Tears of Metal CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56487)|`2026-07-27 00:29:52`|
 |7|[EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56559)|`2026-07-27 05:31:40`|
 |18|[kdmapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56549)|`2026-07-27 05:31:40`|
+|4|[KdMapper Remake Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56578)|`2026-07-27 21:55:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-07-27 21:53:00`|`Other MMORPG and Strategy`|
+|[Feature Request: Free Shopping &#40;YimMenu V2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764398-feature-request-free-shopping-yimmenu-v2.html)|`2026-07-27 21:52:00`|`Grand Theft Auto V`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-27 21:50:00`|`Rust`|
+|[Dota 2 GSI Auto Armlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764475-dota-2-gsi-auto-armlet.html)|`2026-07-27 21:43:00`|`Other MMORPG and Strategy`|
+|[Ragnarok New World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/763199-ragnarok-world.html)|`2026-07-27 21:30:00`|`Ragnarok`|
+|[Fonts for cheat stuff](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764473-fonts-cheat-stuff.html)|`2026-07-27 21:27:00`|`Rust`|
 |[Taskbar Hero Inventory Unlocker – 104 to 260 Slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763259-taskbar-hero-inventory-unlocker-104-260-slots.html)|`2026-07-27 19:33:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-27 19:28:00`|`Apex Legends`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-27 19:28:00`|`Grand Theft Auto V`|
