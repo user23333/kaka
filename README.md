@@ -14,6 +14,7 @@
 |7|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-27 09:07:43`|`rust`|
 |6|[Valorant DMA External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763291-valorant-dma-external-cheat.html)|`2026-07-27 09:07:43`|`valorant`|
 |28|[The Division 2 &#45; EAC Charlie&#45;003 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/764356-division-2-eac-charlie-003-bypass.html)|`2026-07-27 16:15:28`|`tom-clancy-s-the-division`|
+|45|[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764374-kdmapper-3-0-a.html)|`2026-07-27 19:39:35`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Taskbar Hero Inventory Unlocker – 104 to 260 Slots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763259-taskbar-hero-inventory-unlocker-104-260-slots.html)|`2026-07-27 19:33:00`|`Other Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-27 19:28:00`|`Apex Legends`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-27 19:28:00`|`Grand Theft Auto V`|
+|[What HWID does EAC ban on a perma ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764465-hwid-eac-ban-perma-ban.html)|`2026-07-27 19:23:00`|`Anti-Cheat Bypass`|
+|[How to equip any item on this game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/591436-equip-item-game.html)|`2026-07-27 19:15:00`|`Paladins`|
+|[VisibleCheck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764464-visiblecheck.html)|`2026-07-27 19:13:00`|`Counter-Strike 2`|
+|[Guildrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763517-guildrun.html)|`2026-07-27 19:13:00`|`Cheat Engine Tables`|
 |[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-07-27 16:00:00`|`Counter-Strike 2`|
 |[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-07-27 15:45:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-27 12:46:00`|`Escape from Tarkov`|
