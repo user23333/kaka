@@ -24,9 +24,18 @@
 |28|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56520)|`2026-07-28 00:06:38`|
 |604|[VEX Valorant External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56517)|`2026-07-28 00:06:38`|
 |369|[DragonSword Awakening CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56510)|`2026-07-28 00:06:38`|
+|2|[DNL ESP HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56583)|`2026-07-28 01:50:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-28 01:45:00`|`Alternative Online Mods`|
+|[warframe shadown ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757473-warframe-shadown-ban.html)|`2026-07-28 01:44:00`|`Other FPS Games`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-28 01:39:00`|`Tom Clancy's The Division`|
+|[Dark and Light ESP Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764507-dark-light-esp-hack.html)|`2026-07-28 01:32:00`|`Other MMORPG and Strategy`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-07-28 01:28:00`|`Other Games`|
+|[what traces does paid cheats leave](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764057-traces-paid-cheats-leave.html)|`2026-07-28 01:24:00`|`Anti-Cheat Bypass`|
+|[Title: Does EA Javelin actually check anything inside dwm&#46;exe?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764519-title-ea-javelin-actually-check-inside-dwm-exe.html)|`2026-07-28 01:21:00`|`Anti-Cheat Bypass`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-07-28 01:21:00`|`Palworld`|
 |[amd svm shadow paging / data cloaking issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764478-amd-svm-shadow-paging-data-cloaking-issues.html)|`2026-07-28 00:01:00`|`Rust`|
 |[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-07-28 00:01:00`|`Counter-Strike 2`|
 |[Rocket League Bot &#45; Prism](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764500-rocket-league-bot-prism.html)|`2026-07-27 23:59:00`|`Other Games`|
