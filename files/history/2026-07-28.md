@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape The Backrooms PC Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762009-escape-backrooms-pc-cheat.html)|`2026-07-28 02:56:00`|`Other FPS Games`|
+|[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-07-28 02:54:00`|`Other FPS Games`|
+|[TLS External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764527-tls-external.html)|`2026-07-28 02:53:00`|`Alternative Online Mods`|
+|[Guide a noob through setting up his scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764377-guide-noob-setting-scripts.html)|`2026-07-28 02:44:00`|`Grand Theft Auto V`|
+|[Combat Master &#45; 0&#46;30&#46;2 &#124; &#40;Steam&#41; Il2Cpp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/764333-combat-master-0-30-2-steam-il2cpp-dump.html)|`2026-07-28 02:40:00`|`Combat Master`|
+|[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764374-kdmapper-3-0-a.html)|`2026-07-28 02:36:00`|`Anti-Cheat Bypass`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-28 02:34:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-07-28 01:45:00`|`Alternative Online Mods`|
 |[warframe shadown ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757473-warframe-shadown-ban.html)|`2026-07-28 01:44:00`|`Other FPS Games`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-07-28 01:39:00`|`Tom Clancy's The Division`|
