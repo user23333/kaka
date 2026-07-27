@@ -25,9 +25,25 @@
 |604|[VEX Valorant External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56517)|`2026-07-28 00:06:38`|
 |369|[DragonSword Awakening CE Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56510)|`2026-07-28 00:06:38`|
 |2|[DNL ESP HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56583)|`2026-07-28 01:50:28`|
+|2|[DarkHours1&#46;0Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56590)|`2026-07-28 06:35:50`|
+|1|[4&#46;11&#46;1&#45;0&#43;UE4&#45;BendGame](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56589)|`2026-07-28 06:35:50`|
+|2|[Escape the Backrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56588)|`2026-07-28 06:35:50`|
+|2|[Monkey Business v1&#46;0 &#45; SPT 4&#46;0&#46;13](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56587)|`2026-07-28 06:35:50`|
+|1|[5&#46;6&#46;1&#45;0&#43;UE5&#45;Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56586)|`2026-07-28 06:35:50`|
+|1|[5&#46;5&#46;4&#45;277857&#43;&#43;&#43;FTW&#43;Release&#45;0&#46;4&#46;7&#46;0&#45;GZW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56585)|`2026-07-28 06:35:50`|
+|8|[NUTON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56577)|`2026-07-28 06:35:50`|
+|2|[Redmatch 2 &#124; Imperium Lucent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56570)|`2026-07-28 06:35:50`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darkwater Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763777-darkwater-cheat.html)|`2026-07-28 06:25:00`|`Other Games`|
+|[DMA Failed to get module win32k](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/764551-dma-failed-module-win32k.html)|`2026-07-28 06:25:00`|`PC Software`|
+|[Simple Recoil GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763390-simple-recoil-gui.html)|`2026-07-28 06:22:00`|`Battlefield 6`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-28 06:22:00`|`Apex Legends`|
+|[CS2&#45;Unlocker/Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762745-cs2-unlocker-dumper.html)|`2026-07-28 06:18:00`|`Counter-Strike 2`|
+|[Rust External base &#40;currently updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/742343-rust-external-base-currently-updated.html)|`2026-07-28 06:18:00`|`Rust`|
+|[CS2 Weapon Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764403-cs2-weapon-paks.html)|`2026-07-28 06:09:00`|`Valorant`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-07-28 06:09:00`|`Other FPS Games`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-07-28 05:31:00`|`Other MMORPG and Strategy`|
 |[How to hulk bhop without a wall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/758329-hulk-bhop-wall.html)|`2026-07-28 05:30:00`|`Marvel Rivals`|
 |[Rivals Injector &#40;MANUAL MAP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/764300-rivals-injector-manual-map.html)|`2026-07-28 05:22:00`|`Marvel Rivals`|
