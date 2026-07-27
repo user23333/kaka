@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-07-28 05:31:00`|`Other MMORPG and Strategy`|
+|[How to hulk bhop without a wall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/758329-hulk-bhop-wall.html)|`2026-07-28 05:30:00`|`Marvel Rivals`|
+|[Rivals Injector &#40;MANUAL MAP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/764300-rivals-injector-manual-map.html)|`2026-07-28 05:22:00`|`Marvel Rivals`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-28 05:21:00`|`Rust`|
+|[Strikers Club Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764071-strikers-club-internal.html)|`2026-07-28 05:20:00`|`Other Games`|
+|[SpiritVale Bot autospellcast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764209-spiritvale-bot-autospellcast.html)|`2026-07-28 05:12:00`|`Other MMORPG and Strategy`|
+|[antiaim movement fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764548-antiaim-movement-fix.html)|`2026-07-28 05:07:00`|`Counter-Strike 2`|
 |[concolorms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764543-concolorms.html)|`2026-07-28 04:18:00`|`Counter-Strike 2`|
 |[CrusX&#95;For&#95;Honor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752209-crusx_for_honor.html)|`2026-07-28 04:15:00`|`Other MMORPG and Strategy`|
 |[BitBlt/Desktop Duplication Detected on Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764334-bitblt-desktop-duplication-detected-win11.html)|`2026-07-28 04:02:00`|`Valorant`|
