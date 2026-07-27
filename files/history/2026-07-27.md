@@ -13,6 +13,7 @@
 |18|[getting eacs cr3 from a hypervisor context](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763449-getting-eacs-cr3-hypervisor-context.html)|`2026-07-27 00:29:52`|`anti-cheat-bypass`|
 |7|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-27 09:07:43`|`rust`|
 |6|[Valorant DMA External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763291-valorant-dma-external-cheat.html)|`2026-07-27 09:07:43`|`valorant`|
+|28|[The Division 2 &#45; EAC Charlie&#45;003 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/764356-division-2-eac-charlie-003-bypass.html)|`2026-07-27 16:15:28`|`tom-clancy-s-the-division`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-07-27 16:00:00`|`Counter-Strike 2`|
+|[Project Zomboid Cheat &#124; EtherHack &#124; 42&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/744233-project-zomboid-cheat-etherhack-42-15-a.html)|`2026-07-27 15:45:00`|`Other Games`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-07-27 12:46:00`|`Escape from Tarkov`|
 |[UpdateClientSideAnimation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/764429-updateclientsideanimation.html)|`2026-07-27 12:45:00`|`CounterStrike Source`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-07-27 12:43:00`|`Other FPS Games`|
