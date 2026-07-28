@@ -37,6 +37,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti Aim movement correction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760258-anti-aim-movement-correction.html)|`2026-07-28 08:55:00`|`Counter-Strike 2`|
+|[Need to know a thing or two about vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764400-vac.html)|`2026-07-28 08:54:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-28 08:40:00`|`Overwatch`|
+|[One macro for every game &#45;&#91;NO DMA&#93; 1 PC Makcu &#124; ESP32&#45;S3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764379-macro-game-dma-1-pc-makcu-esp32-s3.html)|`2026-07-28 08:33:00`|`Rust`|
+|[Trusted FiveM Lua Executors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764561-trusted-fivem-lua-executors.html)|`2026-07-28 08:33:00`|`Alternative Online Mods`|
+|[Tool for watching VAC Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764471-tool-watching-vac-modules.html)|`2026-07-28 08:31:00`|`Anti-Cheat Bypass`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-07-28 08:29:00`|`Payday 3`|
+|[Finding and calling FiveM natives with IDA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764233-finding-calling-fivem-natives-ida.html)|`2026-07-28 08:24:00`|`Alternative Online Mods`|
+|[getusercmd hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/764432-getusercmd-hook.html)|`2026-07-28 08:20:00`|`CounterStrike Source`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-07-28 07:36:00`|`Grand Theft Auto V`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-28 07:29:00`|`Call of Duty: Black Ops 7`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-07-28 07:24:00`|`Valorant`|
