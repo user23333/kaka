@@ -14,6 +14,7 @@
 |12|[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-28 17:20:21`|`anti-cheat-bypass`|
 |4|[EAC possible bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763687-eac-bypass.html)|`2026-07-28 17:20:21`|`tom-clancy-s-the-division`|
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-28 17:20:21`|`valorant`|
+|18|[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-07-28 23:29:14`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-28 23:28:00`|`Counter-Strike 2`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-28 23:27:00`|`Tom Clancy's The Division`|
+|[viewmodel chams flicker with skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764621-viewmodel-chams-flicker-skins.html)|`2026-07-28 23:20:00`|`Counter-Strike 2`|
+|[bewithereddaisy &#45; BEDaisy dynamic report grabber & spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761216-bewithereddaisy-bedaisy-dynamic-report-grabber-spoofer.html)|`2026-07-28 23:19:00`|`Anti-Cheat Bypass`|
+|[brawlhalla offsets? can some one provide me all the offsets from the new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764613-brawlhalla-offsets-provide-offsets-update.html)|`2026-07-28 23:18:00`|`Other Games`|
+|[Spoof tpm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764620-spoof-tpm.html)|`2026-07-28 23:13:00`|`Valorant`|
 |[The Division 2 &#45; Reflection Lite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759117-division-2-reflection-lite.html)|`2026-07-28 21:04:00`|`Tom Clancy's The Division`|
 |[Cube 2: Sauerbraten C&#43;&#43; Mod Menu &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764611-cube-2-sauerbraten-mod-menu-external.html)|`2026-07-28 20:58:00`|`Other FPS Games`|
 |[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-07-28 20:54:00`|`ARC Raiders`|
