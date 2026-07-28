@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape The Backrooms PC Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762009-escape-backrooms-pc-cheat.html)|`2026-07-29 07:35:00`|`Other FPS Games`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-07-29 07:35:00`|`Other FPS Games`|
+|[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-07-29 07:24:00`|`Call of Duty: Black Ops 2`|
+|[ShellShock Live Aimbot & Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761063-shellshock-live-aimbot-spinbot.html)|`2026-07-29 07:10:00`|`Other FPS Games`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-07-29 07:01:00`|`Other MMORPG and Strategy`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-29 06:41:00`|`Escape from Tarkov`|
 |[EAC possible bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763687-eac-bypass.html)|`2026-07-29 06:39:00`|`Tom Clancy's The Division`|
 |[Reversing Randgrid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764404-reversing-randgrid.html)|`2026-07-29 06:36:00`|`Call of Duty: Black Ops 7`|
