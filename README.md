@@ -11,6 +11,9 @@
 |12|[VALORANT PROTOBUF SCHEMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763437-valorant-protobuf-schema.html)|`2026-07-28 00:06:38`|`valorant`|
 |8|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-28 00:06:38`|`rust`|
 |18|[getting eacs cr3 from a hypervisor context](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763449-getting-eacs-cr3-hypervisor-context.html)|`2026-07-28 00:06:38`|`anti-cheat-bypass`|
+|12|[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-28 17:20:21`|`anti-cheat-bypass`|
+|4|[EAC possible bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763687-eac-bypass.html)|`2026-07-28 17:20:21`|`tom-clancy-s-the-division`|
+|13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-28 17:20:21`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +42,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764391-detection.html)|`2026-07-28 17:14:00`|`Counter-Strike 2`|
+|[Cs2 backtrack chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764565-cs2-backtrack-chams.html)|`2026-07-28 17:10:00`|`Counter-Strike 2`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-07-28 17:01:00`|`Grand Theft Auto V`|
+|[How to properly map a hypervisor? BE/EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764588-properly-map-hypervisor-eac.html)|`2026-07-28 16:54:00`|`Anti-Cheat Bypass`|
+|[need offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/763720-offsets.html)|`2026-07-28 16:53:00`|`Garry's Mod`|
+|[TBH: Task Bar Hero Chest Peeker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760012-tbh-task-bar-hero-chest-peeker.html)|`2026-07-28 16:42:00`|`Other Games`|
+|[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-07-28 16:42:00`|`Other FPS Games`|
 |[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-07-28 14:35:00`|`Other FPS Games`|
 |[Is there a way to avoid 48 hour permabans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764529-avoid-48-hour-permabans.html)|`2026-07-28 14:33:00`|`Overwatch`|
 |[Scp sl ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764124-scp-sl-ac.html)|`2026-07-28 14:01:00`|`General Programming and Reversing`|
