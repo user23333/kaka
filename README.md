@@ -42,6 +42,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764599-ragebot-missing.html)|`2026-07-28 19:29:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-28 19:29:00`|`ARC Raiders`|
+|[Glove changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764603-glove-changer.html)|`2026-07-28 19:26:00`|`Counter-Strike 2`|
+|[game of thrones kingsroad hack & offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/701827-game-thrones-kingsroad-hack-offsets.html)|`2026-07-28 19:23:00`|`Other MMORPG and Strategy`|
+|[Hwho Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764601-hwho-question.html)|`2026-07-28 19:22:00`|`Escape from Tarkov`|
+|[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-07-28 19:18:00`|`Other MMORPG and Strategy`|
+|[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-07-28 19:12:00`|`Rainbow Six Siege`|
 |[Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764391-detection.html)|`2026-07-28 17:14:00`|`Counter-Strike 2`|
 |[Cs2 backtrack chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764565-cs2-backtrack-chams.html)|`2026-07-28 17:10:00`|`Counter-Strike 2`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-07-28 17:01:00`|`Grand Theft Auto V`|
