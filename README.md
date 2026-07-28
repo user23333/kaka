@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-29 06:41:00`|`Escape from Tarkov`|
+|[EAC possible bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763687-eac-bypass.html)|`2026-07-29 06:39:00`|`Tom Clancy's The Division`|
+|[Reversing Randgrid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764404-reversing-randgrid.html)|`2026-07-29 06:36:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-29 06:34:00`|`Other FPS Games`|
+|[Any way to reset the weekly bonus count?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763762-reset-weekly-bonus-count.html)|`2026-07-29 06:33:00`|`Grand Theft Auto V`|
+|[Bullet Force internal cheat / Triple T &#45; Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763736-bullet-force-internal-cheat-triple-hook.html)|`2026-07-29 06:33:00`|`Other Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-29 06:30:00`|`Rainbow Six Siege`|
+|[Hell Let Loose &#45; Simple ESP DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763556-hell-loose-simple-esp-dll.html)|`2026-07-29 06:30:00`|`Other FPS Games`|
+|[Banned for cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764663-banned-cheating.html)|`2026-07-29 06:23:00`|`Rust`|
 |[VAL 5 at queue despite working vg3/vg4/vg7 gateway chain — missing piece?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763489-val-5-queue-despite-vg3-vg4-vg7-gateway-chain-missing-piece.html)|`2026-07-29 05:47:00`|`Valorant`|
 |[question abt current triggerbot situation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764559-question-abt-current-triggerbot-situation.html)|`2026-07-29 05:44:00`|`Valorant`|
 |[crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764411-crash.html)|`2026-07-29 05:42:00`|`Valorant`|
