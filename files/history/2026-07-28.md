@@ -34,9 +34,16 @@
 |8|[NUTON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56577)|`2026-07-28 06:35:50`|
 |2|[Redmatch 2 &#124; Imperium Lucent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56570)|`2026-07-28 06:35:50`|
 |4|[fonts&#45;for&#45;cheat&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56579)|`2026-07-28 07:39:22`|
+|1|[WARFRAME KIM Chemistry Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56593)|`2026-07-28 14:38:35`|
+|0|[gsi&#95;autoarmlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56580)|`2026-07-28 14:38:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[For the Linux version of Dead by Daylight, a simple external cheat for speed modifica](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750585-linux-version-dead-daylight-simple-external-cheat-speed-modifica.html)|`2026-07-28 14:35:00`|`Other FPS Games`|
+|[Is there a way to avoid 48 hour permabans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764529-avoid-48-hour-permabans.html)|`2026-07-28 14:33:00`|`Overwatch`|
+|[Scp sl ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764124-scp-sl-ac.html)|`2026-07-28 14:01:00`|`General Programming and Reversing`|
+|[The Division 2 &#45; EAC Charlie&#45;003 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/764356-division-2-eac-charlie-003-bypass.html)|`2026-07-28 13:55:00`|`Tom Clancy's The Division`|
+|[WARFRAME KIM Chemistry finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764579-warframe-kim-chemistry-finder.html)|`2026-07-28 13:55:00`|`Other FPS Games`|
 |[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-07-28 12:09:00`|`League of Legends`|
 |[&#91; Funnel Runners / StormEscape &#93; Internal Trainer — ESP &#43; Movement/Defensive Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763313-funnel-runners-stormescape-internal-trainer-esp-movement-defensive-exploits.html)|`2026-07-28 12:01:00`|`Other Games`|
 |[What's the highest secondary loot value you've had on the kortz center heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764571-whats-secondary-loot-value-youve-kortz-center-heist.html)|`2026-07-28 11:58:00`|`Grand Theft Auto V`|
