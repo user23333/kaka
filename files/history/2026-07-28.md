@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-07-28 12:09:00`|`League of Legends`|
+|[&#91; Funnel Runners / StormEscape &#93; Internal Trainer — ESP &#43; Movement/Defensive Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763313-funnel-runners-stormescape-internal-trainer-esp-movement-defensive-exploits.html)|`2026-07-28 12:01:00`|`Other Games`|
+|[What's the highest secondary loot value you've had on the kortz center heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764571-whats-secondary-loot-value-youve-kortz-center-heist.html)|`2026-07-28 11:58:00`|`Grand Theft Auto V`|
+|[Cheating bans questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764569-cheating-bans-questions.html)|`2026-07-28 11:55:00`|`Sea of Thieves`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-07-28 11:44:00`|`Counter-Strike 2`|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-07-28 11:38:00`|`Other MMORPG and Strategy`|
 |[Anti Aim movement correction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/760258-anti-aim-movement-correction.html)|`2026-07-28 08:55:00`|`Counter-Strike 2`|
 |[Need to know a thing or two about vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764400-vac.html)|`2026-07-28 08:54:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-28 08:40:00`|`Overwatch`|
