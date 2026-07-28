@@ -42,6 +42,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 2 &#45; Reflection Lite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/759117-division-2-reflection-lite.html)|`2026-07-28 21:04:00`|`Tom Clancy's The Division`|
+|[Cube 2: Sauerbraten C&#43;&#43; Mod Menu &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764611-cube-2-sauerbraten-mod-menu-external.html)|`2026-07-28 20:58:00`|`Other FPS Games`|
+|[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-07-28 20:54:00`|`ARC Raiders`|
+|[PostMessage blocked:coolmaninthetoilet:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763126-postmessage-blocked-coolmaninthetoilet.html)|`2026-07-28 20:39:00`|`Valorant`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-07-28 20:39:00`|`Anti-Cheat Bypass`|
 |[ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764599-ragebot-missing.html)|`2026-07-28 19:29:00`|`Counter-Strike 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-07-28 19:29:00`|`ARC Raiders`|
 |[Glove changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764603-glove-changer.html)|`2026-07-28 19:26:00`|`Counter-Strike 2`|
