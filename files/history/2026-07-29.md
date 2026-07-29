@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How I load my Type 2 SVM Hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764732-load-type-2-svm-hypervisor.html)|`2026-07-29 19:48:00`|`Anti-Cheat Bypass`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-29 19:45:00`|`Tom Clancy's The Division`|
+|[&#91;C&#43;&#43;&#93; From Zero to Hero – Complete Beginner Seeking Roadmap for Coding, Hooking, and](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764593-zero-hero-complete-beginner-seeking-roadmap-coding-hooking.html)|`2026-07-29 19:44:00`|`Counter-Strike 2`|
+|[ANDROMEDA &#124;1&#35; INTERNAL for Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-1-internal-deadlock.html)|`2026-07-29 19:38:00`|`Deadlock`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-29 19:38:00`|`Other Games`|
+|[Creating Particles Anywhere &#40;Weather, Env, Etc&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/697184-creating-particles-weather-env-etc.html)|`2026-07-29 19:35:00`|`Counter-Strike 2`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-07-29 19:33:00`|`Roblox`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-29 17:44:00`|`Deadlock`|
 |[how to enable pull up phone animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764615-enable-pull-phone-animation.html)|`2026-07-29 17:41:00`|`Grand Theft Auto V`|
 |[Guide a noob through setting up his scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764377-guide-noob-setting-scripts.html)|`2026-07-29 17:37:00`|`Grand Theft Auto V`|
