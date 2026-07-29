@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to properly map a hypervisor? BE/EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764588-properly-map-hypervisor-eac.html)|`2026-07-29 09:03:00`|`Anti-Cheat Bypass`|
+|[PowerShell Pro Obfuscator & Virtualizer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/764696-powershell-pro-obfuscator-virtualizer.html)|`2026-07-29 09:03:00`|`Web and Scripting`|
+|[About injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762714-injection.html)|`2026-07-29 08:58:00`|`Roblox`|
+|[How to add inventory changer cases and keys without steam errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764695-add-inventory-changer-keys-steam-errors.html)|`2026-07-29 08:53:00`|`Counter-Strike 2`|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-07-29 08:46:00`|`Counter-Strike 2`|
+|[SecureBoot &#40;BF6&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764685-secureboot-bf6.html)|`2026-07-29 08:41:00`|`Anti-Cheat Bypass`|
+|[Is there a way to avoid 48 hour permabans?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764529-avoid-48-hour-permabans.html)|`2026-07-29 08:40:00`|`Overwatch`|
 |[Escape The Backrooms PC Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/762009-escape-backrooms-pc-cheat.html)|`2026-07-29 07:35:00`|`Other FPS Games`|
 |[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-07-29 07:35:00`|`Other FPS Games`|
 |[CoD: Black Ops 2 &#124; Plutonium T6 MP/ZM Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/739782-cod-black-ops-2-plutonium-t6-mp-zm-offsets.html)|`2026-07-29 07:24:00`|`Call of Duty: Black Ops 2`|
