@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-07-29 17:44:00`|`Deadlock`|
+|[how to enable pull up phone animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764615-enable-pull-phone-animation.html)|`2026-07-29 17:41:00`|`Grand Theft Auto V`|
+|[Guide a noob through setting up his scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764377-guide-noob-setting-scripts.html)|`2026-07-29 17:37:00`|`Grand Theft Auto V`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2026-07-29 17:31:00`|`Grand Theft Auto V`|
+|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-07-29 17:30:00`|`Anti-Cheat Bypass`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-29 17:21:00`|`Counter-Strike 2`|
 |[Anti&#45;Spoofers deep dive &#40;Focus on FiveM's Protect5M & General HWID tracking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764691-anti-spoofers-deep-dive-focus-fivems-protect5m-hwid-tracking.html)|`2026-07-29 15:03:00`|`Alternative Online Mods`|
 |[How to not get caught cheating? Getting banned after 30 games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/763404-caught-cheating-getting-banned-30-games.html)|`2026-07-29 14:47:00`|`Marvel Rivals`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-29 14:43:00`|`Rainbow Six Siege`|
