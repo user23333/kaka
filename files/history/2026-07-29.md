@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[🎵 Hush Little Cheater &#40;Valve Anti&#45;Cheat Parody&#41; 🎵](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764852-hush-little-cheater-valve-anti-cheat-parody.html)|`2026-07-30 07:38:00`|`Team Fortress 2`|
+|[🎵 HOW 💥 I 🦅 CURED 🧠 MY 🍟 AUTISM 🚀 VIA 🎯 TF2 💣 HVH 💀 🎵](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764850-cured-autism-via-tf2-hvh.html)|`2026-07-30 07:36:00`|`Team Fortress 2`|
+|[bo2 plutonium trickshot multiplayer cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/764005-bo2-plutonium-trickshot-multiplayer-cheats.html)|`2026-07-30 07:34:00`|`Call of Duty: Black Ops 2`|
+|[WIP, REDSync menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/764715-wip-redsync-menu.html)|`2026-07-30 07:33:00`|`Call of Duty: Black Ops 2`|
+|[NETENYAHU IN TF2? :ISRAEL: :ISRAEL:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764842-netenyahu-tf2-israel-israel.html)|`2026-07-30 07:32:00`|`Team Fortress 2`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-07-30 07:31:00`|`Other Games`|
+|[🤯💥 HOW 🗿 I 🐟 CURED 🦅 MY 🧀 AUTISM 🚀 VIA 🥄 TF2 🎯 HVH 💀](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764847-cured-autism-via-tf2-hvh.html)|`2026-07-30 07:29:00`|`Team Fortress 2`|
+|[HOW I SAVED UNKNOWNCHEATS TF2 SUBFORUM FROM FALLING INTO OBSCURITY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764846-saved-unknowncheats-tf2-subforum-falling-obscurity.html)|`2026-07-30 07:27:00`|`Team Fortress 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-30 07:26:00`|`Rust`|
+|[REVOLUTIONARY HACK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764844-revolutionary-hack.html)|`2026-07-30 07:23:00`|`Team Fortress 2`|
 |[TF2 lua script manager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/753504-tf2-lua-script-manager.html)|`2026-07-30 06:40:00`|`Team Fortress 2`|
 |[SEOwnedDE &#40;highly improved&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/725042-seownedde-highly-improved.html)|`2026-07-30 06:39:00`|`Team Fortress 2`|
 |[seo64 &#91;fixed june 26 2026&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/759431-seo64-fixed-june-26-2026-a.html)|`2026-07-30 06:38:00`|`Team Fortress 2`|
