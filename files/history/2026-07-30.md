@@ -11,6 +11,7 @@
 |12|[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-30 00:41:54`|`anti-cheat-bypass`|
 |9|[Full Penetration / Autowall / Damage calculation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764290-penetration-autowall-damage-calculation.html)|`2026-07-30 00:41:54`|`counter-strike-2-a`|
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-30 00:41:54`|`valorant`|
+|21|[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-07-30 01:53:15`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-30 01:48:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-30 01:44:00`|`Other FPS Games`|
+|[how to enable pull up phone animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764602-enable-pull-phone-animation.html)|`2026-07-30 01:43:00`|`Grand Theft Auto V`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-07-30 01:41:00`|`Other MMORPG and Strategy`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-30 01:41:00`|`Escape from Tarkov`|
+|[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-07-30 01:41:00`|`Other Games`|
+|[Кощей &#124; x64 Loader/Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/746242-x64-loader-driver.html)|`2026-07-30 01:39:00`|`Anti-Cheat Bypass`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-30 01:34:00`|`Rust`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2026-07-30 01:34:00`|`Counter-Strike 2 Releases`|
+|[RecoilMaster v1&#46;0 &#45; Full RCS Suite with GSI, BHOP, Counter&#45;Strafe & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/745463-recoilmaster-v1-0-rcs-suite-gsi-bhop-counter-strafe.html)|`2026-07-30 01:33:00`|`Counter-Strike 2 Releases`|
 |[DX12 Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/746687-dx12-internal-source.html)|`2026-07-30 00:41:00`|`Rainbow Six Siege`|
 |[external overlay delay &#40;discord overlay&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764291-external-overlay-delay-discord-overlay.html)|`2026-07-30 00:40:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-07-30 00:36:00`|`Other FPS Games`|
