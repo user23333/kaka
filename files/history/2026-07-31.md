@@ -12,6 +12,7 @@
 |9|[Full Penetration / Autowall / Damage calculation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764290-penetration-autowall-damage-calculation.html)|`2026-07-31 00:20:46`|`counter-strike-2-a`|
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-31 00:20:46`|`valorant`|
 |10|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-07-31 03:03:07`|`counter-strike-2-a`|
+|8|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-07-31 07:38:00`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust External Cheat Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762062-rust-external-cheat-help.html)|`2026-07-31 07:32:00`|`Rust`|
+|[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-07-31 07:30:00`|`Rust`|
+|[Codename CURE II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764825-codename-cure-ii.html)|`2026-07-31 07:08:00`|`Other FPS Games`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-07-31 06:28:00`|`Grand Theft Auto V`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-31 06:26:00`|`Other FPS Games`|
 |[Guide a noob through setting up his scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764377-guide-noob-setting-scripts.html)|`2026-07-31 06:22:00`|`Grand Theft Auto V`|
