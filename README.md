@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2026-07-30 22:49:00`|`Other MMORPG and Strategy`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-07-30 22:48:00`|`Rust`|
+|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-07-30 22:37:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-07-30 22:36:00`|`Call of Duty: Black Ops 7`|
+|[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-07-30 22:35:00`|`Rust`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-07-30 22:33:00`|`Valorant`|
+|[Behavioral Detection by AntiCheats in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764974-behavioral-detection-anticheats-2026-a.html)|`2026-07-30 22:32:00`|`Anti-Cheat Bypass`|
+|[Strikers Club](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762864-strikers-club.html)|`2026-07-30 22:32:00`|`Other Games`|
 |[Reversing Randgrid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764404-reversing-randgrid.html)|`2026-07-30 20:54:00`|`Call of Duty: Black Ops 7`|
 |[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-07-30 20:54:00`|`Other Games`|
 |[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-07-30 20:53:00`|`Other Games`|
