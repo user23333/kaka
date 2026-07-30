@@ -29,9 +29,22 @@
 |2|[ACE&#45;GAME&#95;devirtualized&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56633)|`2026-07-31 01:53:06`|
 |1|[Valorant 13&#46;02&#46;00&#46;5092570 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56623)|`2026-07-31 01:53:06`|
 |16|[&#43;1&#46;8K vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56638)|`2026-07-31 03:03:07`|
+|3|[RsInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56640)|`2026-07-31 05:35:06`|
+|2|[Ni no Kuni: Cross Worlds v1&#46;2b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56634)|`2026-07-31 05:35:06`|
+|1|[RustDataExporter plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56632)|`2026-07-31 05:35:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-07-31 05:31:00`|`Other MMORPG and Strategy`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-07-31 05:30:00`|`Overwatch`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-07-31 05:30:00`|`Other MMORPG and Strategy`|
+|[Missing some bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765038-missing-bones.html)|`2026-07-31 05:29:00`|`Rust`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-07-31 05:28:00`|`HELLDIVERS 2`|
+|[Updated Rust Offsets &#40;Website & Discord&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765013-updated-rust-offsets-website-discord.html)|`2026-07-31 05:27:00`|`Rust`|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-07-31 05:26:00`|`Call of Duty: Black Ops 7`|
+|[reveal scoreboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765034-reveal-scoreboard.html)|`2026-07-31 05:25:00`|`Counter-Strike 2`|
+|[Bullet Force internal cheat / Triple T &#45; Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763736-bullet-force-internal-cheat-triple-hook.html)|`2026-07-31 05:25:00`|`Other Games`|
+|[Sunoki's fully updated TB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/669250-sunokis-updated-tb.html)|`2026-07-31 05:24:00`|`Valorant`|
 |[FACEIT Anticheats new "Human Input Detection"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765018-faceit-anticheats-human-input-detection.html)|`2026-07-31 04:12:00`|`Anti-Cheat Bypass`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-31 04:09:00`|`Overwatch`|
 |[viewmodel chams flicker with skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764621-viewmodel-chams-flicker-skins.html)|`2026-07-31 04:03:00`|`Counter-Strike 2`|
