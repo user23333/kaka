@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FACEIT Anticheats new "Human Input Detection"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765018-faceit-anticheats-human-input-detection.html)|`2026-07-31 04:12:00`|`Anti-Cheat Bypass`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-07-31 04:09:00`|`Overwatch`|
+|[viewmodel chams flicker with skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764621-viewmodel-chams-flicker-skins.html)|`2026-07-31 04:03:00`|`Counter-Strike 2`|
+|[ESP EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765016-esp-external.html)|`2026-07-31 04:00:00`|`Overwatch`|
+|[StrafeHelper &#45; Movement macroing tool for Apex legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/739831-strafehelper-movement-macroing-tool-apex-legends.html)|`2026-07-31 03:53:00`|`Apex Legends`|
+|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-07-31 03:53:00`|`Anti-Cheat Bypass`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-07-31 03:52:00`|`Other MMORPG and Strategy`|
 |["Double shot" with engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764744-double-shot-engine-prediction.html)|`2026-07-31 03:02:00`|`Counter-Strike 2`|
 |[Detecting TPM Spoofers Without Remote Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762318-detecting-tpm-spoofers-remote-attestation.html)|`2026-07-31 02:54:00`|`Anti-Cheat Bypass`|
 |[Instant finish for the Kortz Heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765012-instant-finish-kortz-heist.html)|`2026-07-31 02:54:00`|`Grand Theft Auto V`|
