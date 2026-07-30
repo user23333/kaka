@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-07-30 11:55:00`|`Anti-Cheat Bypass`|
+|[Straftaft Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/758244-straftaft-rage-cheat.html)|`2026-07-30 11:51:00`|`Other Games`|
+|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-07-30 11:39:00`|`Rust`|
+|[The Division 2 &#45; EAC Charlie&#45;003 bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/764356-division-2-eac-charlie-003-bypass.html)|`2026-07-30 11:23:00`|`Tom Clancy's The Division`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-07-30 11:22:00`|`Tom Clancy's The Division`|
+|[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-07-30 11:21:00`|`Grand Theft Auto V`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-07-30 11:18:00`|`Other Games`|
+|[aimbot humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764881-aimbot-humanization.html)|`2026-07-30 11:16:00`|`Counter-Strike 2`|
+|[How to get the same 5 gobblegum in a pack &#40;PS4&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/762264-5-gobblegum-pack-ps4.html)|`2026-07-30 11:12:00`|`Call of Duty: Black Ops 3`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-07-30 08:55:00`|`Other FPS Games`|
 |[Hey everyone &#45; New member here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/764798-hey.html)|`2026-07-30 08:55:00`|`Introductions`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-07-30 08:51:00`|`Other FPS Games`|
