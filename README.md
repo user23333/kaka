@@ -11,6 +11,7 @@
 |12|[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-07-31 00:20:46`|`anti-cheat-bypass`|
 |9|[Full Penetration / Autowall / Damage calculation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764290-penetration-autowall-damage-calculation.html)|`2026-07-31 00:20:46`|`counter-strike-2-a`|
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-31 00:20:46`|`valorant`|
+|10|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-07-31 03:03:07`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,19 @@
 |2|[VALORANT 13&#46;02 IDA DB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56637)|`2026-07-31 01:53:06`|
 |2|[ACE&#45;GAME&#95;devirtualized&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56633)|`2026-07-31 01:53:06`|
 |1|[Valorant 13&#46;02&#46;00&#46;5092570 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56623)|`2026-07-31 01:53:06`|
+|16|[&#43;1&#46;8K vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56638)|`2026-07-31 03:03:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["Double shot" with engine prediction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764744-double-shot-engine-prediction.html)|`2026-07-31 03:02:00`|`Counter-Strike 2`|
+|[Detecting TPM Spoofers Without Remote Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762318-detecting-tpm-spoofers-remote-attestation.html)|`2026-07-31 02:54:00`|`Anti-Cheat Bypass`|
+|[Instant finish for the Kortz Heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765012-instant-finish-kortz-heist.html)|`2026-07-31 02:54:00`|`Grand Theft Auto V`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-07-31 02:54:00`|`Counter-Strike 2`|
+|[Hypervisor Eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764873-hypervisor-eac.html)|`2026-07-31 02:49:00`|`Anti-Cheat Bypass`|
+|[Brawlhalla offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764903-brawlhalla-offsets.html)|`2026-07-31 02:43:00`|`Other Games`|
+|[Ruby Internal V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/763948-ruby-internal-v1-2-a.html)|`2026-07-31 02:38:00`|`Combat Master`|
+|[Could I get the "unlock all" offset? I will bestow the title of "God" upon anyone who](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764987-unlock-offset-bestow-title-god.html)|`2026-07-31 02:33:00`|`Valorant`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-07-31 02:32:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-07-31 01:50:00`|`Rust`|
 |[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-07-31 01:46:00`|`Anti-Cheat Bypass`|
 |[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2026-07-31 01:43:00`|`Counter-Strike 2 Releases`|
