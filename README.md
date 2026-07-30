@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-07-30 19:16:00`|`Battlefield 6`|
+|[Anti&#45;Spoofers deep dive &#40;Focus on FiveM's Protect5M & General HWID tracking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764691-anti-spoofers-deep-dive-focus-fivems-protect5m-hwid-tracking.html)|`2026-07-30 19:08:00`|`Alternative Online Mods`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-30 19:04:00`|`Rainbow Six Siege`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-30 19:04:00`|`Marvel Rivals`|
+|[Dungeon Slasher Trainer and Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/763222-dungeon-slasher-trainer-unlocker.html)|`2026-07-30 18:59:00`|`Unity`|
+|[wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764935-wallhack.html)|`2026-07-30 18:58:00`|`Rainbow Six Siege`|
 |[Anyone who wants a PHP script in any field can request it here and I will try to prov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/764905-php-script-field-request-try-prov.html)|`2026-07-30 17:00:00`|`Web and Scripting`|
 |[hooking generateprimitives with idx instead of sig](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753352-hooking-generateprimitives-idx-instead-sig.html)|`2026-07-30 16:51:00`|`Counter-Strike 2`|
 |[overwatch driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764616-overwatch-driver.html)|`2026-07-30 16:46:00`|`Overwatch`|
