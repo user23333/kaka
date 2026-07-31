@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enhanced Is there any tool to swap Anti&#45;Aircraft Trailer slot with OppressorMK2 slot？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765193-enhanced-tool-swap-anti-aircraft-trailer-slot-oppressormk2-slot.html)|`2026-08-01 07:32:00`|`Grand Theft Auto V`|
+|[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-08-01 07:28:00`|`ARC Raiders`|
+|[snow particles &#46;vpcf&#40;&#95;c&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765223-snow-particles-vpcf-_c.html)|`2026-08-01 07:25:00`|`Counter-Strike 2`|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-01 07:19:00`|`Anti-Cheat Bypass`|
+|[30 day bans on 2 accounts already&#46; Need advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/763420-30-day-bans-2-accounts-advice.html)|`2026-08-01 07:15:00`|`ARC Raiders`|
+|[Ragnarok New World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765199-ragnarok-world-hack.html)|`2026-08-01 07:13:00`|`Other MMORPG and Strategy`|
 |[AI aimbot help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764940-ai-aimbot-help.html)|`2026-08-01 06:31:00`|`Valorant`|
 |[Lua to grab console or chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765204-lua-grab-console-chat.html)|`2026-08-01 06:30:00`|`Counter-Strike 2`|
 |[&#40;Battleye&#41; Inline Hooks &#40;full render detection mechanism&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765151-battleye-inline-hooks-render-detection-mechanism.html)|`2026-08-01 06:25:00`|`Anti-Cheat Bypass`|
