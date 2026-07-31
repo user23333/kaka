@@ -38,6 +38,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arduino and Usbhostshield](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765129-arduino-usbhostshield.html)|`2026-07-31 20:01:00`|`Valorant`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-07-31 19:55:00`|`Marvel Rivals`|
+|[plutonium menu esp, aimbot, bhop source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/764669-plutonium-menu-esp-aimbot-bhop-source.html)|`2026-07-31 19:55:00`|`Call of Duty: Black Ops 2`|
+|[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-07-31 19:47:00`|`Counter-Strike 2`|
+|[BFH External Aimer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-heroes/642272-bfh-external-aimer.html)|`2026-07-31 19:45:00`|`Battlefield Heroes`|
+|[Driver for apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/764897-driver-apex.html)|`2026-07-31 19:41:00`|`Apex Legends`|
+|[Need help starting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764360-help-starting.html)|`2026-07-31 19:37:00`|`Roblox`|
+|[has anyone ever managed to get AIMBOT &#45; on fake mouse&#45;drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765051-managed-aimbot-fake-mouse-drivers.html)|`2026-07-31 19:32:00`|`Anti-Cheat Bypass`|
 |[Dota 2 GSI Auto Armlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764475-dota-2-gsi-auto-armlet.html)|`2026-07-31 18:00:00`|`Other MMORPG and Strategy`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-31 17:53:00`|`Apex Legends`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-07-31 17:47:00`|`Counter-Strike 2`|
