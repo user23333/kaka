@@ -30,6 +30,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-08-01 02:57:00`|`Payday 3`|
+|[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-08-01 02:56:00`|`Rust`|
+|[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-08-01 02:52:00`|`Grand Theft Auto V`|
+|[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-08-01 02:49:00`|`Other Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-01 02:48:00`|`Other FPS Games`|
+|[Fivem Anti Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764187-fivem-anti-spoof.html)|`2026-08-01 02:47:00`|`Alternative Online Mods`|
+|[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-08-01 02:41:00`|`Counter-Strike 2 Releases`|
+|[community effort to dank on VAC wikipedia page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765140-community-effort-dank-vac-wikipedia-page.html)|`2026-08-01 02:39:00`|`Counter-Strike 2`|
+|[SKJH DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763690-skjh-dma.html)|`2026-08-01 02:29:00`|`Rust`|
+|[internal bullet tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765072-internal-bullet-tracers.html)|`2026-08-01 02:26:00`|`Counter-Strike 2`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-01 01:50:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-01 01:46:00`|`Rust`|
 |[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-08-01 01:44:00`|`Other MMORPG and Strategy`|
