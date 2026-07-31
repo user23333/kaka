@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI aimbot help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764940-ai-aimbot-help.html)|`2026-08-01 06:31:00`|`Valorant`|
+|[Lua to grab console or chat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765204-lua-grab-console-chat.html)|`2026-08-01 06:30:00`|`Counter-Strike 2`|
+|[&#40;Battleye&#41; Inline Hooks &#40;full render detection mechanism&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765151-battleye-inline-hooks-render-detection-mechanism.html)|`2026-08-01 06:25:00`|`Anti-Cheat Bypass`|
+|[eFootball Void Match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759084-efootball-void-match.html)|`2026-08-01 06:25:00`|`Other Games`|
+|[help for swapchain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765214-help-swapchain.html)|`2026-08-01 06:24:00`|`Counter-Strike 2`|
+|[&#91;Help&#93; How to retrieve VALORANT account email from Riot Client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765208-help-retrieve-valorant-account-email-riot-client.html)|`2026-08-01 06:23:00`|`Valorant`|
+|[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-01 06:20:00`|`Anti-Cheat Bypass`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-08-01 06:19:00`|`Other MMORPG and Strategy`|
 |[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-08-01 05:29:00`|`Counter-Strike 2`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-08-01 05:28:00`|`Elite: Dangerous`|
 |[External ESP issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765065-external-esp-issue.html)|`2026-08-01 05:25:00`|`Rust`|
