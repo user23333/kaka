@@ -13,6 +13,7 @@
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-07-31 00:20:46`|`valorant`|
 |10|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-07-31 03:03:07`|`counter-strike-2-a`|
 |8|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-07-31 07:38:00`|`counter-strike-2-a`|
+|19|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-07-31 18:01:47`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dota 2 GSI Auto Armlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764475-dota-2-gsi-auto-armlet.html)|`2026-07-31 18:00:00`|`Other MMORPG and Strategy`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-07-31 17:53:00`|`Apex Legends`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-07-31 17:47:00`|`Counter-Strike 2`|
+|[New to cheating, how risky is it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764928-cheating-risky.html)|`2026-07-31 17:46:00`|`Grand Theft Auto V`|
+|[Basic esp &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/764956-basic-esp-internal.html)|`2026-07-31 17:44:00`|`Apex Legends`|
+|[Need For Speed World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630560-speed-world-hack.html)|`2026-07-31 17:42:00`|`Other MMORPG and Strategy`|
+|[landing aimpunch destroyed nospread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763962-landing-aimpunch-destroyed-nospread.html)|`2026-07-31 17:36:00`|`Counter-Strike 2`|
 |[FullBright Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/765094-fullbright-chams.html)|`2026-07-31 15:23:00`|`Unreal Engine 4`|
 |[UE4&#46;28 Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/758052-ue4-28-chams.html)|`2026-07-31 15:19:00`|`Unreal Engine 4`|
 |[Shadow GUI &#40;UE Canvas GUI&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/763670-shadow-gui-ue-canvas-gui.html)|`2026-07-31 15:18:00`|`Unreal Engine 4`|
