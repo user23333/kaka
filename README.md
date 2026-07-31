@@ -36,6 +36,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-31 09:06:00`|`Apex Legends`|
+|[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-07-31 08:56:00`|`Rainbow Six Siege`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-31 08:54:00`|`Escape from Tarkov`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-07-31 08:53:00`|`Other FPS Games`|
+|[How to not get caught cheating? Getting banned after 30 games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/763404-caught-cheating-getting-banned-30-games.html)|`2026-07-31 08:53:00`|`Marvel Rivals`|
+|[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-07-31 08:47:00`|`Roblox`|
+|[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-07-31 08:47:00`|`Forum General`|
+|[game fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765060-game-fps.html)|`2026-07-31 08:46:00`|`Counter-Strike 2`|
+|[Combat Master &#45; 0&#46;30&#46;2 &#124; &#40;Steam&#41; Il2Cpp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/764333-combat-master-0-30-2-steam-il2cpp-dump.html)|`2026-07-31 08:45:00`|`Combat Master`|
 |[Rust External Cheat Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762062-rust-external-cheat-help.html)|`2026-07-31 07:32:00`|`Rust`|
 |[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-07-31 07:30:00`|`Rust`|
 |[Codename CURE II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764825-codename-cure-ii.html)|`2026-07-31 07:08:00`|`Other FPS Games`|
