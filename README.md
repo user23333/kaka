@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-07-31 12:29:00`|`Counter-Strike 2 Releases`|
+|[module/task part](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765074-module-task.html)|`2026-07-31 12:21:00`|`Valorant`|
+|[Modified YimmenuV2 for solo casino heist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/758316-modified-yimmenuv2-solo-casino-heist.html)|`2026-07-31 12:19:00`|`Grand Theft Auto V`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-07-31 12:10:00`|`Grand Theft Auto V`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-07-31 12:07:00`|`Rainbow Six Siege`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-07-31 11:57:00`|`Rainbow Six Siege`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-07-31 09:06:00`|`Apex Legends`|
 |[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-07-31 08:56:00`|`Rainbow Six Siege`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-07-31 08:54:00`|`Escape from Tarkov`|
