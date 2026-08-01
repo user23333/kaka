@@ -28,9 +28,17 @@
 |8|[ACE&#45;BASE&#95;devirtualized&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56647)|`2026-08-01 01:51:54`|
 |0|[11&#46;3 finals sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56646)|`2026-08-01 01:51:54`|
 |3|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56630)|`2026-08-01 01:51:54`|
+|1|[Tower of Fantasy CET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56685)|`2026-08-01 23:14:08`|
+|0|[Tower of Fantasy DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56684)|`2026-08-01 23:14:08`|
+|0|[halo campaign evolved cet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56680)|`2026-08-01 23:14:08`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get my silent aimbot to hit more often?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/764595-silent-aimbot-hit.html)|`2026-08-01 23:11:00`|`Garry's Mod`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-08-01 23:11:00`|`Phasmophobia`|
+|[Halo: Campaign Evolved](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/764089-halo-campaign-evolved.html)|`2026-08-01 23:06:00`|`Halo`|
+|[Clipc&#46;dll GetOfflineDeviceUniqueID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760893-clipc-dll-getofflinedeviceuniqueid-spoofing.html)|`2026-08-01 23:05:00`|`Alternative Online Mods`|
+|[ASX Software &#45; Spoofer &#43; Mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765297-asx-software-spoofer-mapper.html)|`2026-08-01 23:03:00`|`Anti-Cheat Bypass`|
 |[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-08-01 22:04:00`|`Rainbow Six Siege`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-01 22:02:00`|`Anti-Cheat Bypass`|
 |[Drawing incorrectly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765293-drawing-incorrectly.html)|`2026-08-01 21:59:00`|`Alternative Online Mods`|
