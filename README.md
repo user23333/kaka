@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-08-01 22:04:00`|`Rainbow Six Siege`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-01 22:02:00`|`Anti-Cheat Bypass`|
+|[Drawing incorrectly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765293-drawing-incorrectly.html)|`2026-08-01 21:59:00`|`Alternative Online Mods`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-08-01 21:59:00`|`Other Games`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-08-01 21:55:00`|`Tom Clancy's The Division`|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2026-08-01 21:53:00`|`Grand Theft Auto V`|
 |[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-08-01 20:40:00`|`Other Games`|
 |[Whic Overlay Method Is UD on RUST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764828-whic-overlay-method-ud-rust.html)|`2026-08-01 20:35:00`|`Rust`|
 |[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-01 20:30:00`|`Other FPS Games`|
