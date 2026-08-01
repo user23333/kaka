@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned offsets 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753364-unturned-offsets-2026-a.html)|`2026-08-01 16:52:00`|`Other Games`|
+|[working internal cheat for arch linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765261-internal-cheat-arch-linux.html)|`2026-08-01 16:52:00`|`Paladins`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-01 16:30:00`|`Counter-Strike 2`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-08-01 16:26:00`|`Other MMORPG and Strategy`|
+|[Heartwood Online &#124; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763563-heartwood-online-internal.html)|`2026-08-01 16:26:00`|`Other MMORPG and Strategy`|
+|[the anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/755983-anticheat.html)|`2026-08-01 16:21:00`|`Marvel Rivals`|
 |[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-01 14:56:00`|`Rust`|
 |[NoSpread Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765235-nospread.html)|`2026-08-01 14:50:00`|`Counter-Strike 2`|
 |[Division 1 &#46;dll crashes game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/765017-division-1-dll-crashes-game.html)|`2026-08-01 14:41:00`|`Tom Clancy's The Division`|
