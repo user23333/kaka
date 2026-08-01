@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-01 14:56:00`|`Rust`|
+|[NoSpread Not Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765235-nospread.html)|`2026-08-01 14:50:00`|`Counter-Strike 2`|
+|[Division 1 &#46;dll crashes game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/765017-division-1-dll-crashes-game.html)|`2026-08-01 14:41:00`|`Tom Clancy's The Division`|
+|[Globals and Locals&#40;no discussion, read page 1&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/500059-globals-locals-discussion-read-page-1-a.html)|`2026-08-01 14:39:00`|`Grand Theft Auto V`|
+|[Instant finish for the Kortz Heist?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765012-instant-finish-kortz-heist.html)|`2026-08-01 14:30:00`|`Grand Theft Auto V`|
 |[Save Data doesn't load when using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765142-save-data-doesnt-load-using-yimmenu.html)|`2026-08-01 12:25:00`|`Grand Theft Auto V`|
 |[what are the main pillars for hardware "fingerprinting" and "hwid"? &#124;&#124;&#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765246-main-pillars-hardware-fingerprinting-hwid.html)|`2026-08-01 12:12:00`|`Anti-Cheat Bypass`|
 |[Gta Account Modding Scammers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765237-gta-account-modding-scammers.html)|`2026-08-01 12:04:00`|`Grand Theft Auto V`|
