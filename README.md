@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763603-ragebot-missing.html)|`2026-08-01 18:44:00`|`Counter-Strike 2`|
+|[Vuln driver &#40;working for eac RIGHT NOW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/764477-vuln-driver-eac.html)|`2026-08-01 18:40:00`|`Apex Legends`|
+|[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-01 18:35:00`|`Grand Theft Auto V`|
+|[Tower of Fantasy dump &#43; CET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/765272-tower-fantasy-dump-cet.html)|`2026-08-01 18:25:00`|`Tower of Fantasy`|
 |[Unturned offsets 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/753364-unturned-offsets-2026-a.html)|`2026-08-01 16:52:00`|`Other Games`|
 |[working internal cheat for arch linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765261-internal-cheat-arch-linux.html)|`2026-08-01 16:52:00`|`Paladins`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-01 16:30:00`|`Counter-Strike 2`|
