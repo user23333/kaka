@@ -11,6 +11,7 @@
 |12|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-01 00:15:09`|`counter-strike-2-a`|
 |13|[Fresh Generated MachineID & f15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764207-fresh-generated-machineid-f15.html)|`2026-08-01 00:15:09`|`valorant`|
 |20|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-08-01 00:15:09`|`anti-cheat-bypass`|
+|18|[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-01 12:28:37`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Save Data doesn't load when using yimmenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765142-save-data-doesnt-load-using-yimmenu.html)|`2026-08-01 12:25:00`|`Grand Theft Auto V`|
+|[what are the main pillars for hardware "fingerprinting" and "hwid"? &#124;&#124;&#124;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765246-main-pillars-hardware-fingerprinting-hwid.html)|`2026-08-01 12:12:00`|`Anti-Cheat Bypass`|
+|[Gta Account Modding Scammers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765237-gta-account-modding-scammers.html)|`2026-08-01 12:04:00`|`Grand Theft Auto V`|
+|[A hidden process &#43; topmost overlay without hooks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759582-hidden-process-topmost-overlay-hooks.html)|`2026-08-01 11:53:00`|`Anti-Cheat Bypass`|
+|[Are the apartment heists bugged in solo mode enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765245-apartment-heists-bugged-solo-mode-enhanced.html)|`2026-08-01 11:48:00`|`Grand Theft Auto V`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-08-01 11:36:00`|`Counter-Strike 2 Releases`|
 |[Genshin Impact  &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761858-genshin-impact-external-cheat.html)|`2026-08-01 08:50:00`|`Genshin Impact`|
 |[⚜️Fishing Planet⚜️&#124;⚡Full IL2CPP Dump⚡&#124;✨6/6/2026 ✨](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756271-fishing-planet-il2cpp-dump-6-6-2026-a.html)|`2026-08-01 08:49:00`|`Other Games`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-01 08:48:00`|`Rainbow Six Siege`|
