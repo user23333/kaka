@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-08-02 06:05:00`|`Garry's Mod`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-02 06:05:00`|`ARC Raiders`|
+|[How to get Offsets In PUBG Steam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753374-offsets-pubg-steam.html)|`2026-08-02 06:02:00`|`Other FPS Games`|
+|[proj&#46; silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765356-proj-silent.html)|`2026-08-02 05:57:00`|`Rust`|
+|[Starting making cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/765195-starting-cheats.html)|`2026-08-02 05:54:00`|`Forum General`|
+|[Hwho&#45;Launcher Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764891-hwho-launcher-ban-question.html)|`2026-08-02 05:42:00`|`Escape from Tarkov`|
+|[Help with external SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/765290-help-external-sdk.html)|`2026-08-02 05:35:00`|`Marvel Rivals`|
 |[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-08-02 05:09:00`|`Call of Duty: Black Ops 7`|
 |[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-08-02 05:06:00`|`Anti-Cheat Bypass`|
 |[Evading an EAC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765232-evading-eac-ban.html)|`2026-08-02 05:05:00`|`Rust`|
