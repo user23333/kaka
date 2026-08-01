@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-02 02:09:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-02 02:05:00`|`Call of Duty: Black Ops 7`|
+|[Tower of Fantasy dump &#43; CET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/765272-tower-fantasy-dump-cet.html)|`2026-08-02 02:03:00`|`Tower of Fantasy`|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-08-02 02:02:00`|`Other Games`|
+|[How to make knife changer cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764596-knife-changer-cs2.html)|`2026-08-02 01:55:00`|`Counter-Strike 2`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-02 01:53:00`|`Other Games`|
+|[Gta Account Modding Scammers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765237-gta-account-modding-scammers.html)|`2026-08-02 01:48:00`|`Grand Theft Auto V`|
 |[TPM Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765224-tpm-ban.html)|`2026-08-02 01:08:00`|`Call of Duty: Black Ops 7`|
 |[&#91;Help&#93; How to retrieve VALORANT account email from Riot Client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765208-help-retrieve-valorant-account-email-riot-client.html)|`2026-08-02 01:07:00`|`Valorant`|
 |[DMA &#43; HWID BAN ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764228-dma-hwid-ban.html)|`2026-08-02 01:06:00`|`Call of Duty: Black Ops 7`|
