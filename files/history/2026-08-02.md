@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TPM Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765224-tpm-ban.html)|`2026-08-02 01:08:00`|`Call of Duty: Black Ops 7`|
+|[&#91;Help&#93; How to retrieve VALORANT account email from Riot Client?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765208-help-retrieve-valorant-account-email-riot-client.html)|`2026-08-02 01:07:00`|`Valorant`|
+|[DMA &#43; HWID BAN ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764228-dma-hwid-ban.html)|`2026-08-02 01:06:00`|`Call of Duty: Black Ops 7`|
+|[Drawing incorrectly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765293-drawing-incorrectly.html)|`2026-08-02 01:03:00`|`Alternative Online Mods`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-08-02 01:02:00`|`Other Games`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-02 01:01:00`|`Overwatch`|
+|[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-08-02 00:57:00`|`Counter-Strike 2`|
+|[enemy has defuse kit on him](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765309-enemy-defuse-kit.html)|`2026-08-02 00:56:00`|`Counter-Strike 2`|
+|[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-08-02 00:54:00`|`Other MMORPG and Strategy`|
+|[Rust External &#45; LocalPlayer Children/Inventory pointers returning 0x0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764261-rust-external-localplayer-children-inventory-pointers-returning-0x0.html)|`2026-08-02 00:49:00`|`Rust`|
 |[EAC &#45; fortnite new identifier PCW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765295-eac-fortnite-identifier-pcw.html)|`2026-08-02 00:07:00`|`Anti-Cheat Bypass`|
 |[plutonium mw3 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/496183-plutonium-mw3-offsets.html)|`2026-08-02 00:05:00`|`Call of Duty: Modern Warfare 3`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-02 00:02:00`|`Other Games`|
