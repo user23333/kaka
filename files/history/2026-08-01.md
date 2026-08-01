@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cheat Injector loads successfully, but the game crashes after selecting a game mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764467-cheat-injector-loads-successfully-game-crashes-selecting-game-mode.html)|`2026-08-01 19:42:00`|`Call of Duty: Black Ops 7`|
+|[How to make knife changer cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764596-knife-changer-cs2.html)|`2026-08-01 19:41:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-08-01 19:25:00`|`Other Games`|
+|[Strikers Club &#45; Multi Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765282-strikers-club-multi-internal.html)|`2026-08-01 19:25:00`|`Other Games`|
 |[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763603-ragebot-missing.html)|`2026-08-01 18:44:00`|`Counter-Strike 2`|
 |[Vuln driver &#40;working for eac RIGHT NOW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/764477-vuln-driver-eac.html)|`2026-08-01 18:40:00`|`Apex Legends`|
 |[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-01 18:35:00`|`Grand Theft Auto V`|
