@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-08-02 22:04:00`|`Counter-Strike 2 Releases`|
+|[make trigerbot not shooting enemey through wall fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765441-trigerbot-shooting-enemey-wall-fix.html)|`2026-08-02 22:02:00`|`Counter-Strike 2`|
+|[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-02 22:00:00`|`Call of Duty: Black Ops 7`|
+|[fTPM / TPM 2&#46;0 spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753266-ftpm-tpm-2-0-spoofing.html)|`2026-08-02 21:59:00`|`Valorant`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-02 21:59:00`|`Rust`|
+|[Raspberry Pi Camera Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/502823-raspberry-pi-camera-triggerbot.html)|`2026-08-02 21:33:00`|`Anti-Cheat Bypass`|
 |[Anti&#45;Spoofers deep dive &#40;Focus on FiveM's Protect5M & General HWID tracking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764691-anti-spoofers-deep-dive-focus-fivems-protect5m-hwid-tracking.html)|`2026-08-02 20:37:00`|`Alternative Online Mods`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-02 20:36:00`|`Marvel Rivals`|
 |[&#40;Battleye&#41; Inline Hooks &#40;full render detection mechanism&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765151-battleye-inline-hooks-render-detection-mechanism.html)|`2026-08-02 20:23:00`|`Anti-Cheat Bypass`|
