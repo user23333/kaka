@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-02 11:39:00`|`Other FPS Games`|
+|[Rustafied ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765393-rustafied-ban-evading.html)|`2026-08-02 11:36:00`|`Rust`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-02 11:32:00`|`Other FPS Games`|
+|[kdmapper 6&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764895-kdmapper-6-7-a.html)|`2026-08-02 11:25:00`|`Anti-Cheat Bypass`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-02 11:05:00`|`Other FPS Games`|
+|[Tarkov steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/765080-tarkov-steam.html)|`2026-08-02 11:05:00`|`Escape from Tarkov`|
+|[Working Cheat for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764664-cheat-sea-thieves.html)|`2026-08-02 11:03:00`|`Sea of Thieves`|
+|[Safest way to get back on track in ENHANCED? YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/763486-safest-track-enhanced-yimmenuv2.html)|`2026-08-02 11:02:00`|`Grand Theft Auto V`|
+|[I want to code transaction logger &#91;Lua&#93; &#91;YimMenu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/764980-code-transaction-logger-lua-yimmenu.html)|`2026-08-02 10:57:00`|`Grand Theft Auto V`|
 |[JJYY External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/733608-jjyy-external.html)|`2026-08-02 08:03:00`|`Garry's Mod`|
 |[Enhanced Is there any tool to swap Anti&#45;Aircraft Trailer slot with OppressorMK2 slot？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765193-enhanced-tool-swap-anti-aircraft-trailer-slot-oppressormk2-slot.html)|`2026-08-02 07:53:00`|`Grand Theft Auto V`|
 |[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-08-02 07:45:00`|`Sea of Thieves`|
