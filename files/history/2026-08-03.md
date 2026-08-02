@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-03 04:20:00`|`Anti-Cheat Bypass`|
+|[Skin Dumping Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764692-skin-dumping-logic.html)|`2026-08-03 04:19:00`|`Counter-Strike 2`|
+|[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-08-03 04:19:00`|`Forum General`|
+|[Need working chams and silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765495-chams-silent-aim.html)|`2026-08-03 04:19:00`|`Counter-Strike 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-08-03 04:19:00`|`Counter-Strike 2`|
+|[August 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/763131-august-2026-motm-nominations.html)|`2026-08-03 04:12:00`|`Member of the Month`|
+|[How to get out of limited user ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/765418-limited-user.html)|`2026-08-03 04:11:00`|`Deadlock`|
+|[3rd person not working in publics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765499-3rd-person-publics.html)|`2026-08-03 04:10:00`|`Counter-Strike 2`|
 |[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-08-03 03:28:00`|`Counter-Strike 2`|
 |[Rust World Esp &#40;driving me crazy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765485-rust-world-esp-driving-crazy.html)|`2026-08-03 03:28:00`|`Rust`|
 |[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-03 03:27:00`|`Valorant`|
