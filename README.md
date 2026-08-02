@@ -13,6 +13,7 @@
 |20|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-08-02 00:11:56`|`anti-cheat-bypass`|
 |14|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-02 04:16:00`|`other-mmorpg-and-strategy`|
 |20|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-02 07:05:55`|`anti-cheat-bypass`|
+|22|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-08-02 14:20:11`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,19 @@
 |194|[&#43;1&#46;8K vulnerable drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56638)|`2026-08-02 00:11:56`|
 |74|[VALORANT 13&#46;02 IDA DB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56637)|`2026-08-02 00:11:56`|
 |26|[Ni no Kuni: Cross Worlds v1&#46;2b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56634)|`2026-08-02 00:11:56`|
+|14|[KEVLAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56663)|`2026-08-02 14:20:11`|
+|4|[r6 Chams injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56660)|`2026-08-02 14:20:11`|
+|5|[R6 Chams Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56659)|`2026-08-02 14:20:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-08-02 14:11:00`|`Deadlock`|
+|[dumper or all the new offsets and etc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765395-dumper-offsets-etc.html)|`2026-08-02 14:07:00`|`Valorant`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-02 14:05:00`|`Other MMORPG and Strategy`|
+|[SCPSL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/763230-scpsl-external.html)|`2026-08-02 14:05:00`|`General Programming and Reversing`|
+|[ClaudeHalla&#46; Brawlhalla bot made by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/764004-claudehalla-brawlhalla-bot-claude.html)|`2026-08-02 13:58:00`|`Half Life`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-08-02 13:51:00`|`Overwatch`|
+|[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-02 13:50:00`|`Rainbow Six Siege`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-02 11:39:00`|`Other FPS Games`|
 |[Rustafied ban evading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765393-rustafied-ban-evading.html)|`2026-08-02 11:36:00`|`Rust`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-02 11:32:00`|`Other FPS Games`|
