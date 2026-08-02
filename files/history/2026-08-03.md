@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Card Crashes PC, Boots Only to BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736511-dma-card-crashes-pc-boots-bios.html)|`2026-08-03 05:03:00`|`Forum General`|
+|[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-03 04:58:00`|`Rainbow Six Siege`|
+|[DARKEST DAYS INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756009-darkest-days-internal.html)|`2026-08-03 04:56:00`|`Other FPS Games`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-03 04:55:00`|`Rainbow Six Siege`|
+|[Chams only rendering while player is invisible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765505-chams-rendering-player-invisible.html)|`2026-08-03 04:55:00`|`Counter-Strike 2`|
 |[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-03 04:20:00`|`Anti-Cheat Bypass`|
 |[Skin Dumping Logic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764692-skin-dumping-logic.html)|`2026-08-03 04:19:00`|`Counter-Strike 2`|
 |[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-08-03 04:19:00`|`Forum General`|
