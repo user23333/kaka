@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undetected external cheat for Polygon&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758051-undetected-external-cheat-polygon.html)|`2026-08-03 06:13:00`|`Other FPS Games`|
+|[Creating a new fog entity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754186-creating-fog-entity.html)|`2026-08-03 06:12:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-03 06:08:00`|`Apex Legends`|
+|[Particle Bullet Trace](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765476-particle-bullet-trace.html)|`2026-08-03 06:05:00`|`Valorant`|
+|[FiveM External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762069-fivem-external-silent-aim.html)|`2026-08-03 06:04:00`|`Alternative Online Mods`|
+|[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-08-03 06:02:00`|`Alternative Online Mods`|
+|[Cheadleware Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765387-cheadleware-release.html)|`2026-08-03 05:58:00`|`Garry's Mod`|
 |[DMA Card Crashes PC, Boots Only to BIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736511-dma-card-crashes-pc-boots-bios.html)|`2026-08-03 05:03:00`|`Forum General`|
 |[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-03 04:58:00`|`Rainbow Six Siege`|
 |[DARKEST DAYS INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756009-darkest-days-internal.html)|`2026-08-03 04:56:00`|`Other FPS Games`|
