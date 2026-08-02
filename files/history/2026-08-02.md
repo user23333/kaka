@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-02 23:12:00`|`HELLDIVERS 2`|
+|[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-08-02 23:08:00`|`Forum General`|
+|[Meccha Chameleon Offsets – Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760596-meccha-chameleon-offsets-patch.html)|`2026-08-02 22:53:00`|`Other Games`|
+|[How to get out of limited user ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/765418-limited-user.html)|`2026-08-02 22:51:00`|`Deadlock`|
 |[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-08-02 22:04:00`|`Counter-Strike 2 Releases`|
 |[make trigerbot not shooting enemey through wall fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765441-trigerbot-shooting-enemey-wall-fix.html)|`2026-08-02 22:02:00`|`Counter-Strike 2`|
 |[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-02 22:00:00`|`Call of Duty: Black Ops 7`|
