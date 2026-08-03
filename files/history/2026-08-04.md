@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-04 06:36:00`|`Anti-Cheat Bypass`|
+|[Hook java methods natively from rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/764712-hook-java-methods-natively-rust.html)|`2026-08-04 06:32:00`|`Rust (Language)`|
+|[How to avoid 429 and switching accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765660-avoid-429-switching-accounts.html)|`2026-08-04 06:31:00`|`Valorant`|
+|[3258 fivem offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765626-3258-fivem-offset.html)|`2026-08-04 06:25:00`|`Alternative Online Mods`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-04 06:21:00`|`Other FPS Games`|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-04 06:18:00`|`Other FPS Games`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-04 05:34:00`|`Overwatch`|
 |[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-08-04 05:31:00`|`Other MMORPG and Strategy`|
 |[How to use an unsigned driver for Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760209-unsigned-driver-rust.html)|`2026-08-04 05:28:00`|`Anti-Cheat Bypass`|
