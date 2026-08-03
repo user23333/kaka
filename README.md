@@ -15,6 +15,7 @@
 |18|[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-03 03:30:38`|`anti-cheat-bypass`|
 |9|[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-08-03 11:48:53`|`counter-strike-2-releases`|
 |16|[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-08-03 11:48:53`|`counter-strike-2-a`|
+|16|[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-03 18:27:27`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-08-03 18:26:00`|`Counter-Strike 2`|
+|[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-08-03 18:22:00`|`Other FPS Games`|
+|[Best Way to Earn & Share Money by Cheating in GTA V Online Enhanced in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765454-earn-share-money-cheating-gta-online-enhanced-2026-a.html)|`2026-08-03 18:20:00`|`Grand Theft Auto V`|
+|[Division 1 &#46;dll crashes game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/765017-division-1-dll-crashes-game.html)|`2026-08-03 18:19:00`|`Tom Clancy's The Division`|
+|[Multiplatform achievement unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/763834-multiplatform-achievement-unlocker.html)|`2026-08-03 18:18:00`|`General Programming and Reversing`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-08-03 18:16:00`|`Phasmophobia`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-08-03 18:09:00`|`Escape from Tarkov`|
+|[Dungeon Slasher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763480-dungeon-slasher.html)|`2026-08-03 18:04:00`|`Cheat Engine Tables`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-03 14:29:00`|`Other Games`|
 |[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-03 14:16:00`|`Call of Duty: Black Ops 7`|
 |[Invoker method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/765481-invoker-method.html)|`2026-08-03 14:03:00`|`Marvel Rivals`|
