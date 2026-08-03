@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[getusercmd hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/764432-getusercmd-hook.html)|`2026-08-04 04:37:00`|`CounterStrike Source`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-04 04:33:00`|`Call of Duty: Black Ops 7`|
+|[Brawlhalla offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764903-brawlhalla-offsets.html)|`2026-08-04 04:29:00`|`Other Games`|
+|[HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765491-hwid-ban.html)|`2026-08-04 04:28:00`|`Valorant`|
+|[Genshin Impact  &#45; External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761858-genshin-impact-external-cheat.html)|`2026-08-04 04:20:00`|`Genshin Impact`|
+|[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-04 04:19:00`|`Sea of Thieves`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-08-04 04:13:00`|`Other MMORPG and Strategy`|
 |[Member of the Month &#45; August 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/765619-month-august-2026-a.html)|`2026-08-04 03:07:00`|`Member of the Month`|
 |[Enhanced Is there any tool to swap Anti&#45;Aircraft Trailer slot with OppressorMK2 slot？](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765193-enhanced-tool-swap-anti-aircraft-trailer-slot-oppressormk2-slot.html)|`2026-08-04 03:05:00`|`Grand Theft Auto V`|
 |[World Of Eggs:Idle Adventures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765624-world-eggs-idle-adventures.html)|`2026-08-04 03:05:00`|`Other MMORPG and Strategy`|
