@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-03 21:17:00`|`Other MMORPG and Strategy`|
+|[Strikers Club Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764071-strikers-club-internal.html)|`2026-08-03 21:16:00`|`Other Games`|
+|[Working Cheat for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764664-cheat-sea-thieves.html)|`2026-08-03 21:11:00`|`Sea of Thieves`|
+|[Whopper Hack &#124; Airport Security Sucks — Jail All, Vacuum Items & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/752077-whopper-hack-airport-security-sucks-jail-vacuum-items-esp.html)|`2026-08-03 21:05:00`|`Other Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-03 20:58:00`|`Counter-Strike 2`|
 |[Exitec &#124; Simple legit cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/755000-exitec-simple-legit-cheat.html)|`2026-08-03 18:26:00`|`Counter-Strike 2`|
 |[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-08-03 18:22:00`|`Other FPS Games`|
 |[Best Way to Earn & Share Money by Cheating in GTA V Online Enhanced in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765454-earn-share-money-cheating-gta-online-enhanced-2026-a.html)|`2026-08-03 18:20:00`|`Grand Theft Auto V`|
