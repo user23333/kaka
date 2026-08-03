@@ -24,9 +24,21 @@
 |14|[11&#46;3 finals sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56646)|`2026-08-04 01:45:57`|
 |179|[meme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56645)|`2026-08-04 01:45:57`|
 |233|[RsInternal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56640)|`2026-08-04 01:45:57`|
+|14|[1&#46;1&#46;0&#46;0&#46;46624&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56723)|`2026-08-04 07:43:56`|
+|6|[dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56722)|`2026-08-04 07:43:56`|
+|3|[global&#45;metadata&#46;dat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56714)|`2026-08-04 07:43:56`|
+|1|[discovery binary dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56706)|`2026-08-04 07:43:56`|
+|1|[Evitania Online &#45; Idle Rpg Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56704)|`2026-08-04 07:43:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764374-kdmapper-3-0-a.html)|`2026-08-04 07:42:00`|`Anti-Cheat Bypass`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-04 07:34:00`|`Escape from Tarkov`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-08-04 07:24:00`|`THE FINALS`|
+|[Repeatedly creating accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765659-repeatedly-creating-accounts.html)|`2026-08-04 07:21:00`|`Alternative Online Mods`|
+|[Evitania Online &#45; Idle Rpg Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765472-evitania-online-idle-rpg-cheat-table.html)|`2026-08-04 07:21:00`|`Other Games`|
+|[Welcome to the Game 3 — Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/764329-welcome-game-3-internal-injector.html)|`2026-08-04 07:17:00`|`Other Single Player Games`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-04 07:11:00`|`Other FPS Games`|
 |[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-04 06:36:00`|`Anti-Cheat Bypass`|
 |[Hook java methods natively from rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust-language-/764712-hook-java-methods-natively-rust.html)|`2026-08-04 06:32:00`|`Rust (Language)`|
 |[How to avoid 429 and switching accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765660-avoid-429-switching-accounts.html)|`2026-08-04 06:31:00`|`Valorant`|
