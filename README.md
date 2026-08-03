@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Spoofers deep dive &#40;Focus on FiveM's Protect5M & General HWID tracking&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764691-anti-spoofers-deep-dive-focus-fivems-protect5m-hwid-tracking.html)|`2026-08-03 23:46:00`|`Alternative Online Mods`|
+|[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-08-03 23:35:00`|`Other MMORPG and Strategy`|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-03 23:27:00`|`Anti-Cheat Bypass`|
+|[MTA:SA METHOD FOR SERIAL SPOOFING 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763290-mta-sa-method-serial-spoofing-2026-a.html)|`2026-08-03 23:19:00`|`Other FPS Games`|
+|[Welcome to the Game 3 — Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/764329-welcome-game-3-internal-injector.html)|`2026-08-03 23:12:00`|`Other Single Player Games`|
 |[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-03 21:17:00`|`Other MMORPG and Strategy`|
 |[Strikers Club Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764071-strikers-club-internal.html)|`2026-08-03 21:16:00`|`Other Games`|
 |[Working Cheat for Sea of Thieves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/764664-cheat-sea-thieves.html)|`2026-08-03 21:11:00`|`Sea of Thieves`|
