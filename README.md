@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-08-04 17:27:00`|`Grand Theft Auto V`|
+|[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-04 17:24:00`|`Call of Duty: Black Ops 7`|
+|[TempleWare Project&#45;Based Learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765719-templeware-project-based-learning.html)|`2026-08-04 17:24:00`|`Counter-Strike 2`|
+|[Has anyone gotten anywhere with cooldown avoiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/764709-gotten-cooldown-avoiding.html)|`2026-08-04 17:19:00`|`Age of Empires`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-04 17:17:00`|`Other MMORPG and Strategy`|
+|[EAC Crashing &#45; Game Security Violation Detected &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765717-eac-crashing-game-security-violation-detected.html)|`2026-08-04 17:14:00`|`Anti-Cheat Bypass`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-08-04 14:41:00`|`Other FPS Games`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-04 14:36:00`|`Palworld`|
 |[Meccha Chameleon Internal 3&#46;5&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765558-meccha-chameleon-internal-3-5-1-a.html)|`2026-08-04 14:32:00`|`Other Games`|
