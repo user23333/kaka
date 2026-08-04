@@ -11,6 +11,7 @@
 |9|[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-08-04 01:45:57`|`counter-strike-2-releases`|
 |18|[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-04 01:45:57`|`rainbow-six-siege`|
 |16|[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-08-04 01:45:57`|`counter-strike-2-a`|
+|9|[EAC &#45; fortnite new identifier PCW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765295-eac-fortnite-identifier-pcw.html)|`2026-08-04 23:38:44`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-04 23:37:00`|`HELLDIVERS 2`|
+|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-04 23:35:00`|`Call of Duty: Black Ops 7`|
+|[PhasmoEditor &#45; editor ur money/player level/T3 tiems](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/765050-phasmoeditor-editor-ur-money-player-level-t3-tiems.html)|`2026-08-04 23:33:00`|`Phasmophobia`|
+|[Force VAC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765666-force-vac-ban.html)|`2026-08-04 23:33:00`|`Counter-Strike 2`|
+|[&#91;AUTO UPDATE&#93; Overwatch EZWIN EXTERNAL release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765728-auto-update-overwatch-ezwin-external-release.html)|`2026-08-04 23:30:00`|`Overwatch`|
+|[Tidal Nexus Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765729-tidal-nexus-online.html)|`2026-08-04 23:30:00`|`Other MMORPG and Strategy`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-04 21:16:00`|`Counter-Strike 2`|
 |[Hello from India&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/765747-hello-india.html)|`2026-08-04 21:07:00`|`Introductions`|
 |[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-08-04 21:05:00`|`Rainbow Six Siege`|
