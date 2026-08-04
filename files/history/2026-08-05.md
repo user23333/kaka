@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-05 07:37:00`|`Marvel Rivals`|
+|[WaveShield Potential threat to the server message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765824-waveshield-potential-threat-server-message.html)|`2026-08-05 07:32:00`|`Alternative Online Mods`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-08-05 07:31:00`|`Grand Theft Auto V`|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-08-05 07:30:00`|`Call of Duty: Black Ops 7`|
+|[The Mound: Omen of Cthulhu Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/765603-mound-omen-cthulhu-internal.html)|`2026-08-05 07:30:00`|`Other Single Player Games`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-08-05 07:29:00`|`Grand Theft Auto V`|
+|[Sticky Aimbot Idea](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765816-sticky-aimbot-idea.html)|`2026-08-05 07:29:00`|`Counter-Strike 2`|
+|[How to get started in video game hacking? &#40;My ultimate answer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/257420-started-video-game-hacking-ultimate-answer.html)|`2026-08-05 07:25:00`|`Programming for Beginners`|
 |[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-05 06:34:00`|`Valorant`|
 |[VALORANT Emulator Tasks and Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765522-valorant-emulator-tasks-modules.html)|`2026-08-05 06:33:00`|`Valorant`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-05 06:32:00`|`Alternative Online Mods`|
