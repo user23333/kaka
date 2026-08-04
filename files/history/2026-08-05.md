@@ -24,9 +24,19 @@
 |17|[Evitania Online &#45; Idle Rpg Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56704)|`2026-08-05 01:15:44`|
 |18|[Tower of Fantasy CET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56685)|`2026-08-05 01:15:44`|
 |6|[Tower of Fantasy DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56684)|`2026-08-05 01:15:44`|
+|2|[mistfallhunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56744)|`2026-08-05 05:35:14`|
+|1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56731)|`2026-08-05 05:35:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-08-05 05:34:00`|`Other FPS Games`|
+|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-05 05:27:00`|`Other FPS Games`|
+|[Server Event Logging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765808-server-event-logging.html)|`2026-08-05 05:23:00`|`Alternative Online Mods`|
+|[THESE ARE THE THING YOU NEED TO FULLY SPOOFED BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765601-spoofed-ban.html)|`2026-08-05 05:20:00`|`Valorant`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-05 05:20:00`|`HELLDIVERS 2`|
+|[fivem freecam external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765763-fivem-freecam-external.html)|`2026-08-05 05:12:00`|`Alternative Online Mods`|
+|[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-05 05:12:00`|`Call of Duty: Black Ops 7`|
+|[HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765491-hwid-ban.html)|`2026-08-05 05:04:00`|`Valorant`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-05 04:10:00`|`Rust`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-05 04:04:00`|`Grand Theft Auto V`|
 |[Dead By Daylight DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758872-dead-daylight-dma.html)|`2026-08-05 03:59:00`|`Other FPS Games`|
