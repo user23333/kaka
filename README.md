@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NDIS PDB Kernel Mac Spoofing &#40;Help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765834-ndis-pdb-kernel-mac-spoofing-help.html)|`2026-08-06 04:47:00`|`Anti-Cheat Bypass`|
+|[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-06 04:40:00`|`Sea of Thieves`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-06 04:39:00`|`Overwatch`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-08-06 04:38:00`|`Counter-Strike 2`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-06 04:13:00`|`Other Games`|
+|[Memory reading in EAC&#45;protected games &#40;GunZ&#41; &#45; Where to start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765394-memory-reading-eac-protected-games-gunz-start.html)|`2026-08-06 04:08:00`|`Anti-Cheat Bypass`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-06 03:51:00`|`Counter-Strike 2`|
 |[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-08-06 03:50:00`|`Overwatch`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-06 03:42:00`|`Deadlock`|
