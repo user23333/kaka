@@ -32,9 +32,19 @@
 |1|[Valorant 13&#46;02&#46;00&#46;5229475 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56751)|`2026-08-05 14:37:45`|
 |19|[Valorant&#95;20260804](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56750)|`2026-08-05 14:37:45`|
 |1|[FragPunk&#45;433&#46;0&#45;structs&#45;sdk&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56749)|`2026-08-05 14:37:45`|
+|23|[EFT 1&#46;1&#46;0&#46;46657 dump &#43; global&#95;metadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56760)|`2026-08-05 21:12:35`|
+|10|[PUBG SDK 2607&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56754)|`2026-08-05 21:12:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-05 21:08:00`|`Anti-Cheat Bypass`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-08-05 21:03:00`|`DayZ SA`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-08-05 21:02:00`|`Other FPS Games`|
+|[BF6 DMA Base / Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/765358-bf6-dma-base-source.html)|`2026-08-05 21:01:00`|`Battlefield 6`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-05 20:56:00`|`Roblox`|
+|[porting colorbot / triggerbot logic to valorant mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/765903-porting-colorbot-triggerbot-logic-valorant-mobile.html)|`2026-08-05 20:55:00`|`Android`|
+|[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-08-05 20:54:00`|`Other MMORPG and Strategy`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-05 20:50:00`|`Other MMORPG and Strategy`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-08-05 19:31:00`|`Rust`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-08-05 19:29:00`|`Other FPS Games`|
 |[What is the best mapping tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765762-mapping-tool.html)|`2026-08-05 19:26:00`|`Rust`|
