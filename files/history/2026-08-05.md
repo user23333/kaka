@@ -27,9 +27,20 @@
 |6|[Tower of Fantasy DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56684)|`2026-08-05 01:15:44`|
 |2|[mistfallhunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56744)|`2026-08-05 05:35:14`|
 |1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56731)|`2026-08-05 05:35:14`|
+|3|[VALORANT game client IDA DB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56753)|`2026-08-05 14:37:45`|
+|1|[VALORANT game client dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56752)|`2026-08-05 14:37:45`|
+|1|[Valorant 13&#46;02&#46;00&#46;5229475 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56751)|`2026-08-05 14:37:45`|
+|19|[Valorant&#95;20260804](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56750)|`2026-08-05 14:37:45`|
+|1|[FragPunk&#45;433&#46;0&#45;structs&#45;sdk&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56749)|`2026-08-05 14:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[no recoil and no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765858-recoil-spread.html)|`2026-08-05 14:26:00`|`Counter-Strike 2`|
+|[Anyone got a free open source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765634-free-source.html)|`2026-08-05 14:23:00`|`Garry's Mod`|
+|[How to spawn weapon without triggering AC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765632-spawn-weapon-triggering-ac-ban.html)|`2026-08-05 14:11:00`|`Alternative Online Mods`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-05 14:09:00`|`HELLDIVERS 2`|
+|[YimMenuV2 &#124; Themes, Vehicles, Outfits & Locations Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/741656-yimmenuv2-themes-vehicles-outfits-locations-collection-thread.html)|`2026-08-05 14:07:00`|`Grand Theft Auto V`|
+|[Skin changer source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765849-skin-changer-source.html)|`2026-08-05 14:05:00`|`Valorant`|
 |[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-08-05 12:05:00`|`Other Games`|
 |[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-08-05 12:01:00`|`Other FPS Games`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-08-05 11:55:00`|`THE FINALS`|
