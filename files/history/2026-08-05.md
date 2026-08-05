@@ -37,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-05 23:24:00`|`Rainbow Six Siege`|
+|[CS2 external RCS source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765549-cs2-external-rcs-source.html)|`2026-08-05 23:19:00`|`Counter-Strike 2`|
+|[How risky is adding a police car to my garage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765925-risky-adding-police-car-garage.html)|`2026-08-05 23:17:00`|`Grand Theft Auto V`|
+|[My cars disappear in session with yim menu&#46; What can I do?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765620-cars-disappear-session-yim-menu.html)|`2026-08-05 23:14:00`|`Grand Theft Auto V`|
+|[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765922-aimbot-detection.html)|`2026-08-05 23:07:00`|`Anti-Cheat Bypass`|
+|[S&box &#40;Garrys Mod 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/516338-box-garrys-mod-2-a.html)|`2026-08-05 23:06:00`|`Other FPS Games`|
 |[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-05 21:08:00`|`Anti-Cheat Bypass`|
 |[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-08-05 21:03:00`|`DayZ SA`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-08-05 21:02:00`|`Other FPS Games`|
