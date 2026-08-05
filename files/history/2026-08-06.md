@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox Private ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765972-roblox-private-esp.html)|`2026-08-06 06:35:00`|`Roblox`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-08-06 06:33:00`|`Sea of Thieves`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-06 06:30:00`|`Counter-Strike 2`|
 |[YimMenuV2 Could not join invited only session Becuase BattlEye is Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765968-yimmenuv2-join-invited-session-becuase-battleye.html)|`2026-08-06 05:52:00`|`Grand Theft Auto V`|
 |[Clipc&#46;dll GetOfflineDeviceUniqueID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760893-clipc-dll-getofflinedeviceuniqueid-spoofing.html)|`2026-08-06 05:50:00`|`Alternative Online Mods`|
 |[WaveShield Potential threat to the server message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765824-waveshield-potential-threat-server-message.html)|`2026-08-06 05:46:00`|`Alternative Online Mods`|
