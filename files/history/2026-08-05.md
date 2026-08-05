@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard boot device verification](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765873-vanguard-boot-device-verification.html)|`2026-08-05 16:59:00`|`Anti-Cheat Bypass`|
+|[Board CH559](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/762576-board-ch559.html)|`2026-08-05 16:55:00`|`PC Hardware`|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-08-05 16:43:00`|`Other MMORPG and Strategy`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-05 16:42:00`|`Other MMORPG and Strategy`|
+|[spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765864-spectator-list.html)|`2026-08-05 16:31:00`|`Counter-Strike 2`|
+|[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-08-05 16:29:00`|`Rainbow Six Siege`|
 |[no recoil and no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765858-recoil-spread.html)|`2026-08-05 14:26:00`|`Counter-Strike 2`|
 |[Anyone got a free open source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765634-free-source.html)|`2026-08-05 14:23:00`|`Garry's Mod`|
 |[How to spawn weapon without triggering AC ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765632-spawn-weapon-triggering-ac-ban.html)|`2026-08-05 14:11:00`|`Alternative Online Mods`|
