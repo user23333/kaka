@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 Could not join invited only session Becuase BattlEye is Off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765968-yimmenuv2-join-invited-session-becuase-battleye.html)|`2026-08-06 05:52:00`|`Grand Theft Auto V`|
+|[Clipc&#46;dll GetOfflineDeviceUniqueID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760893-clipc-dll-getofflinedeviceuniqueid-spoofing.html)|`2026-08-06 05:50:00`|`Alternative Online Mods`|
+|[WaveShield Potential threat to the server message](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765824-waveshield-potential-threat-server-message.html)|`2026-08-06 05:46:00`|`Alternative Online Mods`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-06 05:43:00`|`Rainbow Six Siege`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765301-chams.html)|`2026-08-06 05:43:00`|`Counter-Strike 2`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-08-06 05:36:00`|`Phasmophobia`|
 |[NDIS PDB Kernel Mac Spoofing &#40;Help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765834-ndis-pdb-kernel-mac-spoofing-help.html)|`2026-08-06 04:47:00`|`Anti-Cheat Bypass`|
 |[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-06 04:40:00`|`Sea of Thieves`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-06 04:39:00`|`Overwatch`|
