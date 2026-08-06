@@ -11,6 +11,7 @@
 |34|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-06 00:56:46`|`other-fps-games`|
 |18|[VAC detection status nowadays](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765063-vac-detection-status-nowadays.html)|`2026-08-06 00:56:46`|`counter-strike-2-a`|
 |9|[EAC &#45; fortnite new identifier PCW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765295-eac-fortnite-identifier-pcw.html)|`2026-08-06 00:56:46`|`anti-cheat-bypass`|
+|14|[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-08-06 15:10:04`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-06 15:05:00`|`Other MMORPG and Strategy`|
+|[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-08-06 14:59:00`|`Other MMORPG and Strategy`|
+|[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-06 14:53:00`|`Rust`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-06 14:48:00`|`Other FPS Games`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-08-06 14:45:00`|`Sea of Thieves`|
+|[need offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766005-offset.html)|`2026-08-06 14:43:00`|`Alternative Online Mods`|
 |[HELP ME ！I can't use any Roblox external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765892-help-cant-roblox-external.html)|`2026-08-06 12:23:00`|`Roblox`|
 |[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765685-mistfall-hunter.html)|`2026-08-06 12:17:00`|`Other Games`|
 |[Guildrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763517-guildrun.html)|`2026-08-06 12:16:00`|`Cheat Engine Tables`|
