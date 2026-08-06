@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-06 09:00:00`|`Palworld`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-08-06 08:40:00`|`Among Us`|
+|[kdmapper 6&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764895-kdmapper-6-7-a.html)|`2026-08-06 08:37:00`|`Anti-Cheat Bypass`|
+|[vac &#92; Vac live](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765501-vac-vac-live.html)|`2026-08-06 08:35:00`|`Counter-Strike 2`|
+|[YimMenuv2 Crash the game while entering story mode ERR&#95;GFX&#95;STATE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765980-yimmenuv2-crash-game-entering-story-mode-err_gfx_state.html)|`2026-08-06 08:28:00`|`Grand Theft Auto V`|
+|[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-06 08:27:00`|`Valorant`|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-08-06 08:26:00`|`Other MMORPG and Strategy`|
+|[Xenos injector v2&#46;3&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/124013-xenos-injector-v2-3-2-a.html)|`2026-08-06 08:25:00`|`General Programming and Reversing`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-06 07:46:00`|`Other FPS Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-06 07:21:00`|`Counter-Strike 2 Releases`|
 |[How risky is adding a police car to my garage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765925-risky-adding-police-car-garage.html)|`2026-08-06 07:11:00`|`Grand Theft Auto V`|
