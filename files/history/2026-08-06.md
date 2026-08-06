@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HELP ME ！I can't use any Roblox external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765892-help-cant-roblox-external.html)|`2026-08-06 12:23:00`|`Roblox`|
+|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765685-mistfall-hunter.html)|`2026-08-06 12:17:00`|`Other Games`|
+|[Guildrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763517-guildrun.html)|`2026-08-06 12:16:00`|`Cheat Engine Tables`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-08-06 12:14:00`|`Scum`|
+|[Help with MW2019 THEIRS NO UNLOCK TOOLS PUBLIC NO MRON WHATEVER WORKING ONE PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/758304-help-mw2019-theirs-unlock-tools-public-mron-whatever-public.html)|`2026-08-06 12:11:00`|`Call of Duty: Modern Warfare`|
+|[What Type of Signed Kernel Component Can Intercept and Modify CPUID Results?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765907-type-signed-kernel-component-intercept-modify-cpuid-results.html)|`2026-08-06 12:07:00`|`Anti-Cheat Bypass`|
+|[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-08-06 12:04:00`|`Overwatch`|
+|[need friends who play fsl to make money any groups](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766002-friends-play-fsl-money.html)|`2026-08-06 12:03:00`|`Grand Theft Auto V`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-06 09:00:00`|`Palworld`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-08-06 08:40:00`|`Among Us`|
 |[kdmapper 6&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764895-kdmapper-6-7-a.html)|`2026-08-06 08:37:00`|`Anti-Cheat Bypass`|
