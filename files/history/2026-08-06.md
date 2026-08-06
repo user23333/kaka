@@ -13,6 +13,7 @@
 |9|[EAC &#45; fortnite new identifier PCW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765295-eac-fortnite-identifier-pcw.html)|`2026-08-06 00:56:46`|`anti-cheat-bypass`|
 |14|[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-08-06 15:10:04`|`other-fps-games`|
 |11|[R6 External Cheat &#40;Source Code&#41; Made by Overhead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765618-r6-external-cheat-source-code-overhead.html)|`2026-08-06 17:47:56`|`rainbow-six-siege`|
+|10|[YoungPay's EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765016-youngpays-external.html)|`2026-08-06 23:34:09`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight MarketFiles 10&#46;0&#46;3 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766057-dead-daylight-marketfiles-10-0-3-a.html)|`2026-08-06 23:33:00`|`Other Games`|
+|[Bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766058-bhop-macro.html)|`2026-08-06 23:20:00`|`Marvel Rivals`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-08-06 23:17:00`|`DayZ SA`|
+|[ILLUSORITY &#45; undetected knifebot and movement cheat for hns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/758895-illusority-undetected-knifebot-movement-cheat-hns.html)|`2026-08-06 23:05:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-08-06 23:04:00`|`ARMA 3`|
 |[Level of at which u could get away with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/765444-level.html)|`2026-08-06 21:23:00`|`Marvel Rivals`|
 |[items icons from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766029-items-icons-game.html)|`2026-08-06 21:05:00`|`Rust`|
 |[Strikers Club &#45; Multi Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765282-strikers-club-multi-internal.html)|`2026-08-06 20:54:00`|`Other Games`|
