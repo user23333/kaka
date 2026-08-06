@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Level of at which u could get away with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/765444-level.html)|`2026-08-06 21:23:00`|`Marvel Rivals`|
+|[items icons from the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766029-items-icons-game.html)|`2026-08-06 21:05:00`|`Rust`|
+|[Strikers Club &#45; Multi Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765282-strikers-club-multi-internal.html)|`2026-08-06 20:54:00`|`Other Games`|
+|[reauth in lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766031-reauth-lobby.html)|`2026-08-06 20:46:00`|`Valorant`|
 |[Anti SilentAim question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765815-anti-silentaim-question.html)|`2026-08-06 19:42:00`|`Alternative Online Mods`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-08-06 19:34:00`|`Other FPS Games`|
 |[Which source code for Rust aimbot prediction is written the best?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765998-source-code-rust-aimbot-prediction-written.html)|`2026-08-06 19:30:00`|`Rust`|
