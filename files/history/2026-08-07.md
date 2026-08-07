@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-07 18:21:00`|`Counter-Strike 2 Releases`|
+|[multiple Apex accounts banned for "Aim Snap" with AI vision aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766020-multiple-apex-accounts-banned-aim-snap-ai-vision-aimbot.html)|`2026-08-07 18:16:00`|`Apex Legends`|
+|[Anti SilentAim question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765815-anti-silentaim-question.html)|`2026-08-07 18:12:00`|`Alternative Online Mods`|
+|[Valorant classic triggerbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766203-valorant-classic-triggerbot-source.html)|`2026-08-07 18:07:00`|`Valorant`|
+|[porting colorbot / triggerbot logic to valorant mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765847-porting-colorbot-triggerbot-logic-valorant-mobile.html)|`2026-08-07 17:58:00`|`Valorant`|
+|[PC &#43; Mobile Setup on EAC, Am I Already Cooked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766201-pc-mobile-setup-eac-am-cooked.html)|`2026-08-07 17:50:00`|`Anti-Cheat Bypass`|
+|[crash handling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766113-crash-handling.html)|`2026-08-07 17:48:00`|`Counter-Strike 2`|
 |[how to cheat with no ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766166-cheat-ban.html)|`2026-08-07 17:34:00`|`Rust`|
 |[Which source code for Rust aimbot prediction is written the best?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765998-source-code-rust-aimbot-prediction-written.html)|`2026-08-07 17:33:00`|`Rust`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-07 17:31:00`|`Rainbow Six Siege`|
