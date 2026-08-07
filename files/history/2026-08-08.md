@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet Force internal cheat / Triple T &#45; Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763736-bullet-force-internal-cheat-triple-hook.html)|`2026-08-08 07:36:00`|`Other FPS Games`|
+|[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-08 07:28:00`|`Valorant`|
+|[Marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766287-marvel.html)|`2026-08-08 07:09:00`|`Marvel Rivals`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-08 07:07:00`|`Apex Legends`|
 |[HELP ME ！I can't use any Roblox external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765892-help-cant-roblox-external.html)|`2026-08-08 07:00:00`|`Roblox`|
 |[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-08-08 06:50:00`|`Call of Duty: Black Ops 2`|
