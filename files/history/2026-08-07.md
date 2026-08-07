@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-08-07 13:02:00`|`Call of Duty: Black Ops 2`|
+|[BO2 Plutonium Ara&#95;blops2 &#43; source &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/765913-bo2-plutonium-ara_blops2-source-injector.html)|`2026-08-07 13:00:00`|`Call of Duty: Black Ops 2`|
+|[GTA V Ultimate Trainer 2026 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765672-gta-ultimate-trainer-2026-1-0-a.html)|`2026-08-07 12:58:00`|`Grand Theft Auto V`|
+|[backtrack chams work but drop fps heavily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766192-backtrack-chams-drop-fps-heavily.html)|`2026-08-07 12:58:00`|`Counter-Strike 2`|
+|[Forum looks much cleaner after donating to remove ads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/765457-forum-looks-cleaner-donating-remove-ads.html)|`2026-08-07 12:52:00`|`Off Topic`|
+|[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-08-07 12:47:00`|`Counter-Strike 2`|
+|[How biggest p2c devs does penetration that good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766191-biggest-p2c-devs-penetration.html)|`2026-08-07 12:43:00`|`Counter-Strike 2`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-08-07 12:38:00`|`Other FPS Games`|
+|[Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743197-project-zomboid-cheat.html)|`2026-08-07 12:34:00`|`Other MMORPG and Strategy`|
 |[Division Resurgence PC Launch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/750332-division-resurgence-pc-launch.html)|`2026-08-07 11:00:00`|`Tom Clancy's The Division`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/766173-chams.html)|`2026-08-07 10:55:00`|`Call of Duty: Black Ops 2`|
 |[The Division Resurgence PC version cheat &#40;aimbot&#41; DLL?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766172-division-resurgence-pc-version-cheat-aimbot-dll.html)|`2026-08-07 10:54:00`|`Tom Clancy's The Division`|
