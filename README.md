@@ -14,6 +14,7 @@
 |12|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-08 01:52:10`|`valorant`|
 |1|[PvEnabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/765675-pvenabler.html)|`2026-08-08 03:32:14`|`escape-from-tarkov`|
 |7|[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-08 04:52:52`|`grand-theft-auto-v`|
+|11|[Serversided Bait Fake Players &#91;?&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765621-serversided-bait-fake-players.html)|`2026-08-08 07:08:08`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-08 07:07:00`|`Apex Legends`|
+|[HELP ME ！I can't use any Roblox external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765892-help-cant-roblox-external.html)|`2026-08-08 07:00:00`|`Roblox`|
+|[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-08-08 06:50:00`|`Call of Duty: Black Ops 2`|
 |[Forum looks much cleaner after donating to remove ads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/765457-forum-looks-cleaner-donating-remove-ads.html)|`2026-08-08 06:30:00`|`Off Topic`|
 |[Custom Hit Sounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766129-custom-hit-sounds.html)|`2026-08-08 06:27:00`|`Counter-Strike 2`|
 |[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-08 06:15:00`|`Roblox`|
