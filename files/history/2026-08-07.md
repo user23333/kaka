@@ -26,9 +26,16 @@
 |52|[Valorant 13&#46;02&#46;00&#46;5229475 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56751)|`2026-08-07 08:27:50`|
 |99|[Valorant&#95;20260804](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56750)|`2026-08-07 08:27:50`|
 |13|[FragPunk&#45;433&#46;0&#45;structs&#45;sdk&#45;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56749)|`2026-08-07 08:27:50`|
+|3|[Dead by Daylight Full SDK &#43; Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56808)|`2026-08-07 22:16:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[emu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766199-emu.html)|`2026-08-07 22:13:00`|`Valorant`|
+|[Frag Punk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766226-frag-punk.html)|`2026-08-07 22:11:00`|`Other FPS Games`|
+|[Frag Punk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766225-frag-punk.html)|`2026-08-07 22:11:00`|`Other FPS Games`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-08-07 22:09:00`|`Farlight 84`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-08-07 21:57:00`|`Counter-Strike 2 Releases`|
+|[Battlefield V cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/759081-battlefield-cheat.html)|`2026-08-07 21:52:00`|`Battlefield V`|
 |[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765685-mistfall-hunter.html)|`2026-08-07 20:56:00`|`Other Games`|
 |[Mouse input suggestions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766023-mouse-input-suggestions.html)|`2026-08-07 20:51:00`|`Overwatch`|
 |[Anyone actually scripting on the new VGK update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766217-actually-scripting-vgk-update.html)|`2026-08-07 20:45:00`|`League of Legends`|
