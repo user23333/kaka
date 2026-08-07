@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-07 14:08:00`|`Palworld`|
+|[Ruby Internal V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/763948-ruby-internal-v1-2-a.html)|`2026-08-07 14:05:00`|`Combat Master`|
+|[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-07 14:02:00`|`Rust`|
+|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-07 13:58:00`|`Valorant`|
+|[cr3/retrieving virtual module base address](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766193-cr3-retrieving-virtual-module-base-address.html)|`2026-08-07 13:41:00`|`Apex Legends`|
+|[List of Dev/Unobtainable Item IDs for item spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/658527-list-dev-unobtainable-item-ids-item-spawner.html)|`2026-08-07 13:38:00`|`Escape from Tarkov`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-07 13:35:00`|`Other MMORPG and Strategy`|
 |[Zirconium v2 &#45; Major Feature Update & Release Post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/760470-zirconium-v2-major-feature-update-release-post.html)|`2026-08-07 13:02:00`|`Call of Duty: Black Ops 2`|
 |[BO2 Plutonium Ara&#95;blops2 &#43; source &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/765913-bo2-plutonium-ara_blops2-source-injector.html)|`2026-08-07 13:00:00`|`Call of Duty: Black Ops 2`|
 |[GTA V Ultimate Trainer 2026 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765672-gta-ultimate-trainer-2026-1-0-a.html)|`2026-08-07 12:58:00`|`Grand Theft Auto V`|
