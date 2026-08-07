@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765685-mistfall-hunter.html)|`2026-08-07 20:56:00`|`Other Games`|
+|[Mouse input suggestions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766023-mouse-input-suggestions.html)|`2026-08-07 20:51:00`|`Overwatch`|
+|[Anyone actually scripting on the new VGK update?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766217-actually-scripting-vgk-update.html)|`2026-08-07 20:45:00`|`League of Legends`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-07 20:43:00`|`Other FPS Games`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-07 20:41:00`|`HELLDIVERS 2`|
 |[Dead by Daylight SDK OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766209-dead-daylight-sdk-offsets.html)|`2026-08-07 19:52:00`|`Other Games`|
 |[R6 External Cheat &#40;Source Code&#41; Made by Overhead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765618-r6-external-cheat-source-code-overhead.html)|`2026-08-07 19:44:00`|`Rainbow Six Siege`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-07 19:40:00`|`Tom Clancy's The Division`|
