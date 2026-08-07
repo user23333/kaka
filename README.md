@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My first ABI ESP &#40;External&#41; — rough base for someone better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766281-abi-esp-external-rough-base.html)|`2026-08-08 05:21:00`|`Other FPS Games`|
+|[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-08-08 05:12:00`|`Counter-Strike 2`|
+|[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-08 05:10:00`|`Counter-Strike 2 Releases`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-08-08 05:08:00`|`Sea of Thieves`|
+|[Germonium MP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/766186-germonium-mp.html)|`2026-08-08 04:57:00`|`Call of Duty: Black Ops 2`|
+|[Simple ESP & Aimbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/758875-simple-esp-aimbot-source.html)|`2026-08-08 04:53:00`|`BattleBit Remastered`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-08 04:42:00`|`Overwatch`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-08 04:41:00`|`Counter-Strike 2 Releases`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-08 04:40:00`|`Palworld`|
