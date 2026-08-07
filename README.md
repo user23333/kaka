@@ -26,9 +26,14 @@
 |51|[VALORANT game client dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56752)|`2026-08-08 00:05:40`|
 |59|[Valorant 13&#46;02&#46;00&#46;5229475 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56751)|`2026-08-08 00:05:40`|
 |107|[Valorant&#95;20260804](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56750)|`2026-08-08 00:05:40`|
+|1|[Marvel rivals lasted sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56813)|`2026-08-08 04:07:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[src rust cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760165-src-rust-cheat.html)|`2026-08-08 04:05:00`|`Rust`|
+|[EFT DMA radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764258-eft-dma-radar.html)|`2026-08-08 04:04:00`|`Escape from Tarkov`|
+|[Question Offsets and Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766232-question-offsets-exploits.html)|`2026-08-08 03:55:00`|`Alternative Online Mods`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-08 03:54:00`|`Other FPS Games`|
 |[FIVEM early exit Trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766256-fivem-exit-trap.html)|`2026-08-08 03:29:00`|`Alternative Online Mods`|
 |[GuildRun Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766267-guildrun-demo.html)|`2026-08-08 03:28:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-08 03:27:00`|`Overwatch`|
