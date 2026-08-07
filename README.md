@@ -11,6 +11,7 @@
 |24|[Modified Rs External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765534-modified-rs-external.html)|`2026-08-08 00:05:40`|`overwatch`|
 |8|[&#40;Battleye&#41; Inline Hooks &#40;full render detection mechanism&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765151-battleye-inline-hooks-render-detection-mechanism.html)|`2026-08-08 00:05:40`|`anti-cheat-bypass`|
 |8|[VALORANT Emulator Tasks and Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765522-valorant-emulator-tasks-modules.html)|`2026-08-08 00:05:40`|`valorant`|
+|12|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-08 01:52:10`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for Help With Multiple ESP Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/766080-looking-help-multiple-esp-issues.html)|`2026-08-08 01:46:00`|`Escape from Tarkov`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-08 01:42:00`|`Sea of Thieves`|
+|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-08 01:40:00`|`Valorant`|
+|[External Sound Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766013-external-sound-esp.html)|`2026-08-08 01:39:00`|`Counter-Strike 2`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-08-08 01:38:00`|`Escape from Tarkov`|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-08 01:36:00`|`Counter-Strike 2`|
+|[Which source code for Rust aimbot prediction is written the best?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765998-source-code-rust-aimbot-prediction-written.html)|`2026-08-08 01:34:00`|`Rust`|
+|[Tidal Nexus Online &#91;Vacuum Auto Collect all Items&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765795-tidal-nexus-online-vacuum-auto-collect-items.html)|`2026-08-08 01:32:00`|`Other MMORPG and Strategy`|
 |[Detecting TPM Spoofers Without Remote Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/762318-detecting-tpm-spoofers-remote-attestation.html)|`2026-08-08 01:01:00`|`Anti-Cheat Bypass`|
 |[How to test features for detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766245-test-features-detections.html)|`2026-08-08 01:01:00`|`Counter-Strike 2`|
 |[First CS2 Internal Cheat &#45; Looking for Feedback Before Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766022-cs2-internal-cheat-looking-feedback-release.html)|`2026-08-08 00:59:00`|`Counter-Strike 2`|
