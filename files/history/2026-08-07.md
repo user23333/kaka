@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[execute code in eac protected process from usermode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765070-execute-code-eac-protected-process-usermode.html)|`2026-08-07 16:31:00`|`Anti-Cheat Bypass`|
+|[How do i make a inventory injector like fatality](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765302-inventory-injector-fatality.html)|`2026-08-07 16:18:00`|`Counter-Strike 2`|
+|[how in the world to use a vulnerable driver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766197-world-vulnerable-driver.html)|`2026-08-07 16:09:00`|`Anti-Cheat Bypass`|
+|[HOW DO PEOPLE BYPASS IOMMU with dma firmware currently](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766198-people-bypass-iommu-dma-firmware-currently.html)|`2026-08-07 16:04:00`|`Anti-Cheat Bypass`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-07 15:55:00`|`Counter-Strike 2`|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-07 15:48:00`|`Alternative Online Mods`|
 |[Looking for Help With Multiple ESP Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/766080-looking-help-multiple-esp-issues.html)|`2026-08-07 15:31:00`|`Escape from Tarkov`|
 |[glitter&shine &#45; yet another metadata dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/763560-glitter-shine-metadata-dumper.html)|`2026-08-07 15:05:00`|`Escape from Tarkov`|
 |[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-08-07 14:46:00`|`Rust`|
