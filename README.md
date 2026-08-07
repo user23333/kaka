@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Forum looks much cleaner after donating to remove ads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/765457-forum-looks-cleaner-donating-remove-ads.html)|`2026-08-08 06:30:00`|`Off Topic`|
+|[Custom Hit Sounds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766129-custom-hit-sounds.html)|`2026-08-08 06:27:00`|`Counter-Strike 2`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-08 06:15:00`|`Roblox`|
 |[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-08 05:55:00`|`Valorant`|
 |[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-08-08 05:49:00`|`Anti-Cheat Bypass`|
 |[Apex Ring / Zone Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766283-apex-ring-zone-detection.html)|`2026-08-08 05:37:00`|`Apex Legends`|
