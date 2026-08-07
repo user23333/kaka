@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-08 05:55:00`|`Valorant`|
+|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-08-08 05:49:00`|`Anti-Cheat Bypass`|
+|[Apex Ring / Zone Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766283-apex-ring-zone-detection.html)|`2026-08-08 05:37:00`|`Apex Legends`|
 |[My first ABI ESP &#40;External&#41; — rough base for someone better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766281-abi-esp-external-rough-base.html)|`2026-08-08 05:21:00`|`Other FPS Games`|
 |[VAC LIVE BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/762365-vac-live-bypass.html)|`2026-08-08 05:12:00`|`Counter-Strike 2`|
 |[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-08 05:10:00`|`Counter-Strike 2 Releases`|
