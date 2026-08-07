@@ -12,6 +12,7 @@
 |8|[&#40;Battleye&#41; Inline Hooks &#40;full render detection mechanism&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765151-battleye-inline-hooks-render-detection-mechanism.html)|`2026-08-08 00:05:40`|`anti-cheat-bypass`|
 |8|[VALORANT Emulator Tasks and Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765522-valorant-emulator-tasks-modules.html)|`2026-08-08 00:05:40`|`valorant`|
 |12|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-08 01:52:10`|`valorant`|
+|1|[PvEnabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/765675-pvenabler.html)|`2026-08-08 03:32:14`|`escape-from-tarkov`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FIVEM early exit Trap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766256-fivem-exit-trap.html)|`2026-08-08 03:29:00`|`Alternative Online Mods`|
+|[GuildRun Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766267-guildrun-demo.html)|`2026-08-08 03:28:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-08 03:27:00`|`Overwatch`|
+|[R6 External Cheat &#40;Source Code&#41; Made by Overhead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765618-r6-external-cheat-source-code-overhead.html)|`2026-08-08 03:26:00`|`Rainbow Six Siege`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-08-08 03:17:00`|`Other Games`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-08-08 03:17:00`|`Roblox`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-08 03:09:00`|`Counter-Strike 2`|
 |[Multiplatform achievement unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/763834-multiplatform-achievement-unlocker.html)|`2026-08-08 02:25:00`|`General Programming and Reversing`|
 |[ESP32&#45;P4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764502-esp32-p4.html)|`2026-08-08 02:23:00`|`Valorant`|
 |[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-08 02:12:00`|`Other FPS Games`|
