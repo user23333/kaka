@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-08 12:07:00`|`Other MMORPG and Strategy`|
+|[SCP:Secret laboratory &#91;External&#93; ESP linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761969-scp-secret-laboratory-external-esp-linux.html)|`2026-08-08 12:05:00`|`Other FPS Games`|
+|[Arena war unlocks &#45; rare vehicles &#45; Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766307-arena-war-unlocks-rare-vehicles-legacy.html)|`2026-08-08 11:46:00`|`Grand Theft Auto V`|
 |[HOW VANGUARD WORK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766234-vanguard.html)|`2026-08-08 11:32:00`|`Valorant`|
 |[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-08-08 11:26:00`|`Other Games`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-08-08 11:23:00`|`Other FPS Games`|
