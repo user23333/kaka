@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[pe&#45;packer x86&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761963-pe-packer-x86-x64.html)|`2026-08-08 21:29:00`|`Anti-Cheat Bypass`|
+|[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2026-08-08 21:29:00`|`Anti-Cheat Bypass`|
+|[FiveM lua executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766340-fivem-lua-executer.html)|`2026-08-08 21:29:00`|`Alternative Online Mods`|
+|[Repeatedly creating accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765659-repeatedly-creating-accounts.html)|`2026-08-08 21:24:00`|`Alternative Online Mods`|
+|[PZ Hack &#91;B42&#46;18&#43;&#93; and source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755204-pz-hack-b42-18-source-code.html)|`2026-08-08 21:14:00`|`Other Games`|
+|[Desync method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/766339-desync-method.html)|`2026-08-08 21:12:00`|`Roblox`|
+|[How can I add normal game glow to a hero model in ESP Preview?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/766338-add-normal-game-glow-hero-model-esp-preview.html)|`2026-08-08 21:11:00`|`Deadlock`|
 |[No&#45;Spread Differences Between Online and Local Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766332-spread-differences-online-local-servers.html)|`2026-08-08 20:43:00`|`Counter-Strike 2`|
 |[Valorant classic triggerbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766203-valorant-classic-triggerbot-source.html)|`2026-08-08 20:22:00`|`Valorant`|
 |[Ragnarok New World](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/763199-ragnarok-world.html)|`2026-08-08 20:14:00`|`Ragnarok`|
