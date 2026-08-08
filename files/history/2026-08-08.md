@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[text   &#91;SIZE="5"&#93;&#91;COLOR="Red"&#93;&#91;B&#93;&#91;RELEASE&#93; Roblox DataModel MCP Bridge — Real&#45;Time AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/766314-text-size-5-color-red-release-roblox-datamodel-mcp-bridge-real-time-ai.html)|`2026-08-08 16:03:00`|`Roblox`|
+|[Overlay in CS2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765597-overlay-cs2-external.html)|`2026-08-08 16:02:00`|`Counter-Strike 2`|
+|[Internal Auto Strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765809-internal-auto-strafer.html)|`2026-08-08 16:01:00`|`Counter-Strike 2`|
+|[Broken chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766071-broken-chams.html)|`2026-08-08 16:01:00`|`Counter-Strike 2`|
+|[Anti&#45;cheat systems on Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/745313-anti-cheat-systems-deadlock.html)|`2026-08-08 15:56:00`|`Deadlock`|
+|[VGK Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/752325-vgk-spoofing.html)|`2026-08-08 15:52:00`|`Valorant`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-08 15:19:00`|`Deadlock`|
 |[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-08 15:16:00`|`Grand Theft Auto V`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-08 15:15:00`|`Other Games`|
