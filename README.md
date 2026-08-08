@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[multiple Apex accounts banned for "Aim Snap" with AI vision aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766020-multiple-apex-accounts-banned-aim-snap-ai-vision-aimbot.html)|`2026-08-09 02:36:00`|`Apex Legends`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765301-chams.html)|`2026-08-09 02:34:00`|`Counter-Strike 2`|
+|[Could an AI fully develop an aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764178-ai-develop-aimbot.html)|`2026-08-09 02:33:00`|`Overwatch`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-09 02:30:00`|`Sea of Thieves`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-09 02:23:00`|`Tom Clancy's The Division`|
 |[Astral Sober external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761255-astral-sober-external.html)|`2026-08-09 01:54:00`|`Roblox`|
 |[Rabnarok Rebirth](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ragnarok/766374-rabnarok-rebirth.html)|`2026-08-09 01:47:00`|`Ragnarok`|
 |[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-08-09 01:45:00`|`Rust`|
