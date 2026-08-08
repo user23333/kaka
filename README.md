@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-08-08 10:09:00`|`THE FINALS`|
+|[Red trust on cs2 even after Windows Reinstall and new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766300-red-trust-cs2-windows-reinstall-account.html)|`2026-08-08 10:08:00`|`Counter-Strike 2`|
+|[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765922-aimbot-detection.html)|`2026-08-08 10:06:00`|`Anti-Cheat Bypass`|
+|[EAC mouse input detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766081-eac-mouse-input-detection.html)|`2026-08-08 10:04:00`|`Anti-Cheat Bypass`|
+|[Does EAC/Javelin actually ban for using SendInput / NtUserSendInput?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766299-eac-javelin-actually-ban-using-sendinput-ntusersendinput.html)|`2026-08-08 10:03:00`|`Anti-Cheat Bypass`|
+|[R6 "fully auto updating" source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/760536-r6-auto-updating-source.html)|`2026-08-08 09:52:00`|`Rainbow Six Siege`|
+|[how do i do subtick auto strafe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766298-subtick-auto-strafe.html)|`2026-08-08 09:49:00`|`Counter-Strike 2`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-08-08 08:04:00`|`Grand Theft Auto V`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-08 08:02:00`|`Counter-Strike 2`|
 |[GTA Legacy newest Version Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765617-gta-legacy-version-silent-aim.html)|`2026-08-08 08:01:00`|`Alternative Online Mods`|
