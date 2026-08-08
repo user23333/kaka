@@ -24,9 +24,16 @@
 |53|[VALORANT game client IDA DB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56753)|`2026-08-09 00:32:30`|
 |57|[VALORANT game client dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56752)|`2026-08-09 00:32:30`|
 |71|[Valorant 13&#46;02&#46;00&#46;5229475 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56751)|`2026-08-09 00:32:30`|
+|0|[WARDOGS Playtest SDK 8&#46;08&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56828)|`2026-08-09 05:58:13`|
+|0|[steam8&#45;7SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56822)|`2026-08-09 05:58:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-08-09 05:56:00`|`THE FINALS`|
+|[Mapper for EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/751033-mapper-eac.html)|`2026-08-09 05:47:00`|`Anti-Cheat Bypass`|
+|[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-08-09 05:46:00`|`Other Games`|
+|[Fivem flip car](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766403-fivem-flip-car.html)|`2026-08-09 05:45:00`|`Alternative Online Mods`|
+|[wyvern still viable?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766295-wyvern-viable.html)|`2026-08-09 05:40:00`|`Overwatch`|
 |[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-09 05:28:00`|`Valorant`|
 |[Script Source Code for 16&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766397-script-source-code-16-15-a.html)|`2026-08-09 05:25:00`|`League of Legends`|
 |[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-08-09 05:19:00`|`Forum General`|
