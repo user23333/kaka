@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-09 05:28:00`|`Valorant`|
+|[Script Source Code for 16&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766397-script-source-code-16-15-a.html)|`2026-08-09 05:25:00`|`League of Legends`|
+|[The Outlast Trials EAC injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/733347-outlast-trials-eac-injection.html)|`2026-08-09 05:19:00`|`Forum General`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-09 05:17:00`|`Rainbow Six Siege`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-09 05:13:00`|`HELLDIVERS 2`|
 |[Best Way to Earn & Share Money by Cheating in GTA V Online Enhanced in 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765454-earn-share-money-cheating-gta-online-enhanced-2026-a.html)|`2026-08-09 04:59:00`|`Grand Theft Auto V`|
 |[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-08-09 04:58:00`|`Alternative Online Mods`|
 |[Mouse input suggestions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766023-mouse-input-suggestions.html)|`2026-08-09 04:54:00`|`Overwatch`|
