@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-08-08 08:04:00`|`Grand Theft Auto V`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-08 08:02:00`|`Counter-Strike 2`|
+|[GTA Legacy newest Version Silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765617-gta-legacy-version-silent-aim.html)|`2026-08-08 08:01:00`|`Alternative Online Mods`|
 |[Bullet Force internal cheat / Triple T &#45; Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763736-bullet-force-internal-cheat-triple-hook.html)|`2026-08-08 07:36:00`|`Other FPS Games`|
 |[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-08 07:28:00`|`Valorant`|
 |[Marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766287-marvel.html)|`2026-08-08 07:09:00`|`Marvel Rivals`|
