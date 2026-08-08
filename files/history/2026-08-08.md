@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Rust Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766131-updated-rust-offsets.html)|`2026-08-08 19:26:00`|`Rust`|
+|[HUD Color changer &#40;without native call&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766331-hud-color-changer-native-call.html)|`2026-08-08 19:19:00`|`Grand Theft Auto V`|
+|[GeoGuessr Location Finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761981-geoguessr-location-finder.html)|`2026-08-08 19:17:00`|`Other Games`|
 |[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-08-08 19:13:00`|`Marvel Rivals`|
 |[External help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766329-external-help.html)|`2026-08-08 19:11:00`|`Valorant`|
 |[Secure mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/761645-secure-mode.html)|`2026-08-08 19:08:00`|`Valorant`|
