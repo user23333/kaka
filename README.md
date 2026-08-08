@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-08 18:09:00`|`Other FPS Games`|
+|[TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765780-tpm.html)|`2026-08-08 17:58:00`|`Call of Duty: Black Ops 7`|
 |[whats wrong in bvh in catalyst?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766324-whats-wrong-bvh-catalyst.html)|`2026-08-08 17:39:00`|`Counter-Strike 2`|
 |[Soon The Division 2 Cheat Menu By Tokal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/763847-soon-division-2-cheat-menu-tokal.html)|`2026-08-08 17:31:00`|`Tom Clancy's The Division`|
 |[val 5 on emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766323-val-5-emulator.html)|`2026-08-08 17:23:00`|`Valorant`|
