@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-09 03:13:00`|`Counter-Strike 2 Releases`|
+|[FiveM lua menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766379-fivem-lua-menu.html)|`2026-08-09 03:04:00`|`Alternative Online Mods`|
+|[Forum looks much cleaner after donating to remove ads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/765457-forum-looks-cleaner-donating-remove-ads.html)|`2026-08-09 03:03:00`|`Off Topic`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-09 03:01:00`|`Other FPS Games`|
+|[Glow Apex External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766382-glow-apex-external.html)|`2026-08-09 03:00:00`|`Apex Legends`|
+|[DVAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/766380-dvar.html)|`2026-08-09 02:57:00`|`Call of Duty: Black Ops 7`|
+|[Chams Crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766019-chams-crashing.html)|`2026-08-09 02:48:00`|`Counter-Strike 2`|
+|[Perfect External Seed Trigger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764408-perfect-external-seed-trigger.html)|`2026-08-09 02:42:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-09 02:40:00`|`Apex Legends`|
 |[multiple Apex accounts banned for "Aim Snap" with AI vision aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766020-multiple-apex-accounts-banned-aim-snap-ai-vision-aimbot.html)|`2026-08-09 02:36:00`|`Apex Legends`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765301-chams.html)|`2026-08-09 02:34:00`|`Counter-Strike 2`|
 |[Could an AI fully develop an aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/764178-ai-develop-aimbot.html)|`2026-08-09 02:33:00`|`Overwatch`|
