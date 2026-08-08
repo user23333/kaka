@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-09 03:37:00`|`Valorant`|
+|[How is BattleEye making the physical reading fail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766384-battleeye-physical-reading-fail.html)|`2026-08-09 03:36:00`|`Anti-Cheat Bypass`|
+|[HELP with Strange Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766140-help-strange-ban.html)|`2026-08-09 03:31:00`|`Valorant`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-08-09 03:22:00`|`Elite: Dangerous`|
 |[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-09 03:13:00`|`Counter-Strike 2 Releases`|
 |[FiveM lua menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766379-fivem-lua-menu.html)|`2026-08-09 03:04:00`|`Alternative Online Mods`|
 |[Forum looks much cleaner after donating to remove ads](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/765457-forum-looks-cleaner-donating-remove-ads.html)|`2026-08-09 03:03:00`|`Off Topic`|
