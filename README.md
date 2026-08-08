@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-08 21:56:00`|`Alternative Online Mods`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-08 21:54:00`|`Rainbow Six Siege`|
 |[pe&#45;packer x86&#45;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761963-pe-packer-x86-x64.html)|`2026-08-08 21:29:00`|`Anti-Cheat Bypass`|
 |[x86 PE Packer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/707409-x86-pe-packer.html)|`2026-08-08 21:29:00`|`Anti-Cheat Bypass`|
 |[FiveM lua executer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766340-fivem-lua-executer.html)|`2026-08-08 21:29:00`|`Alternative Online Mods`|
