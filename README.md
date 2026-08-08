@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HOW VANGUARD WORK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766234-vanguard.html)|`2026-08-08 11:32:00`|`Valorant`|
+|[Taskbar Hero Pro Trainer – Updated for v1&#46;00&#46;28](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/762619-taskbar-hero-pro-trainer-updated-v1-00-28-a.html)|`2026-08-08 11:26:00`|`Other Games`|
+|[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-08-08 11:23:00`|`Other FPS Games`|
+|[One macro for every game &#45;&#91;NO DMA&#93; 1 PC Makcu &#124; ESP32&#45;S3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764379-macro-game-dma-1-pc-makcu-esp32-s3.html)|`2026-08-08 11:19:00`|`Rust`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-08-08 10:09:00`|`THE FINALS`|
 |[Red trust on cs2 even after Windows Reinstall and new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766300-red-trust-cs2-windows-reinstall-account.html)|`2026-08-08 10:08:00`|`Counter-Strike 2`|
 |[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765922-aimbot-detection.html)|`2026-08-08 10:06:00`|`Anti-Cheat Bypass`|
