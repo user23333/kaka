@@ -15,6 +15,7 @@
 |1|[PvEnabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/765675-pvenabler.html)|`2026-08-08 03:32:14`|`escape-from-tarkov`|
 |7|[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-08 04:52:52`|`grand-theft-auto-v`|
 |11|[Serversided Bait Fake Players &#91;?&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765621-serversided-bait-fake-players.html)|`2026-08-08 07:08:08`|`valorant`|
+|6|[&#91;AUTO UPDATE&#93; Overwatch EZWIN EXTERNAL release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765728-auto-update-overwatch-ezwin-external-release.html)|`2026-08-08 15:38:00`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-08 15:19:00`|`Deadlock`|
+|[DMA Cheat &#45; &#91;Global, Local, Stat Editing&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765271-dma-cheat-global-local-stat-editing.html)|`2026-08-08 15:16:00`|`Grand Theft Auto V`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-08 15:15:00`|`Other Games`|
+|[Valorant Yolo11n Model &#43; Weights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766233-valorant-yolo11n-model-weights.html)|`2026-08-08 15:12:00`|`Valorant`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-08-08 15:05:00`|`Call of Duty: Black Ops 3`|
 |[Does anyone have an MCBE offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766175-mcbe-offset.html)|`2026-08-08 14:49:00`|`Minecraft`|
 |[Division Resurgence PC Launch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/750332-division-resurgence-pc-launch.html)|`2026-08-08 14:46:00`|`Tom Clancy's The Division`|
 |[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-08 14:36:00`|`Other MMORPG and Strategy`|
