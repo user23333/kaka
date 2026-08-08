@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-08-08 16:55:00`|`Tom Clancy's The Division`|
+|[About kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766316-kdmapper.html)|`2026-08-08 16:24:00`|`Anti-Cheat Bypass`|
+|[working internal cheat for arch linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765261-internal-cheat-arch-linux.html)|`2026-08-08 16:21:00`|`Paladins`|
+|[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2026-08-08 16:21:00`|`Other Games`|
+|[Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765399-aimbot.html)|`2026-08-08 16:18:00`|`Counter-Strike 2`|
 |[text   &#91;SIZE="5"&#93;&#91;COLOR="Red"&#93;&#91;B&#93;&#91;RELEASE&#93; Roblox DataModel MCP Bridge — Real&#45;Time AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/766314-text-size-5-color-red-release-roblox-datamodel-mcp-bridge-real-time-ai.html)|`2026-08-08 16:03:00`|`Roblox`|
 |[Overlay in CS2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765597-overlay-cs2-external.html)|`2026-08-08 16:02:00`|`Counter-Strike 2`|
 |[Internal Auto Strafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765809-internal-auto-strafer.html)|`2026-08-08 16:01:00`|`Counter-Strike 2`|
