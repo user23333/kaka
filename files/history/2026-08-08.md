@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone have an MCBE offset?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766175-mcbe-offset.html)|`2026-08-08 14:49:00`|`Minecraft`|
+|[Division Resurgence PC Launch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/750332-division-resurgence-pc-launch.html)|`2026-08-08 14:46:00`|`Tom Clancy's The Division`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-08 14:36:00`|`Other MMORPG and Strategy`|
+|[Guildrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763517-guildrun.html)|`2026-08-08 14:30:00`|`Cheat Engine Tables`|
+|[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-08 14:13:00`|`Valorant`|
+|[Tarkov IL2CPP decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/726047-tarkov-il2cpp-decryption.html)|`2026-08-08 14:09:00`|`Escape from Tarkov`|
+|[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-08-08 14:09:00`|`DayZ SA`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-08-08 14:06:00`|`Escape from Tarkov`|
 |[van 102 and temp ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756307-van-102-temp-ban.html)|`2026-08-08 13:50:00`|`Valorant`|
 |[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-08-08 13:40:00`|`Other FPS Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-08 13:21:00`|`Other FPS Games`|
