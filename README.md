@@ -11,6 +11,7 @@
 |10|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-09 00:32:30`|`roblox`|
 |13|[THESE ARE THE THING YOU NEED TO FULLY SPOOFED BAN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765601-spoofed-ban.html)|`2026-08-09 00:32:30`|`valorant`|
 |13|[Rust ESP External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765593-rust-esp-external.html)|`2026-08-09 00:32:30`|`rust`|
+|7|[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-09 07:12:21`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to hijack a kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765806-hijack-kernel-driver.html)|`2026-08-09 07:03:00`|`Rust`|
+|[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-09 07:02:00`|`Rust`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-08-09 07:02:00`|`Roblox`|
+|[yim menu v2 rig slot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766407-yim-menu-v2-rig-slot.html)|`2026-08-09 06:59:00`|`Grand Theft Auto V`|
 |[EFT DMA radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764258-eft-dma-radar.html)|`2026-08-09 06:51:00`|`Escape from Tarkov`|
 |[Recreating One Of The Top Colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/761625-recreating-top-colorbots.html)|`2026-08-09 06:45:00`|`Call of Duty: Black Ops 7`|
 |[WoW &#40;Classic, Era, Retail&#41; / Diablo IV / Overwatch / Any Eidolon Decrypter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764216-wow-classic-era-retail-diablo-iv-overwatch-eidolon-decrypter.html)|`2026-08-09 06:43:00`|`General Programming and Reversing`|
