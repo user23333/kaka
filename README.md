@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-09 01:02:00`|`Valorant`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-09 01:00:00`|`Palworld`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-09 00:58:00`|`Apex Legends`|
+|[Simple ESP & Aimbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/758875-simple-esp-aimbot-source.html)|`2026-08-09 00:55:00`|`BattleBit Remastered`|
+|[Reversing for External and Internal cheat on AssaultCube](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/702509-reversing-external-internal-cheat-assaultcube.html)|`2026-08-09 00:53:00`|`General Programming and Reversing`|
+|[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765922-aimbot-detection.html)|`2026-08-09 00:52:00`|`Anti-Cheat Bypass`|
+|[All Serials eac/fn bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766328-serials-eac-fn-bans.html)|`2026-08-09 00:50:00`|`Anti-Cheat Bypass`|
+|[KnivesOut ESP Box](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753885-knivesout-esp-box.html)|`2026-08-09 00:50:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-09 00:46:00`|`Rust`|
 |[Discord &#45; Cheat for Level System Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765964-discord-cheat-level-system-bot.html)|`2026-08-09 00:30:00`|`Other Games`|
 |[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-09 00:29:00`|`Other FPS Games`|
 |[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-09 00:24:00`|`Paladins`|
