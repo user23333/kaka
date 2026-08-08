@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-09 04:26:00`|`Other FPS Games`|
+|[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-08-09 04:16:00`|`Counter-Strike 2 Releases`|
+|[Valorant classic triggerbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766203-valorant-classic-triggerbot-source.html)|`2026-08-09 04:16:00`|`Valorant`|
+|[Arena war unlocks &#45; rare vehicles &#45; Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766307-arena-war-unlocks-rare-vehicles-legacy.html)|`2026-08-09 04:09:00`|`Grand Theft Auto V`|
+|[&#91;AUTO UPDATE&#93; Overwatch EZWIN EXTERNAL release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765728-auto-update-overwatch-ezwin-external-release.html)|`2026-08-09 04:08:00`|`Overwatch`|
+|[Looking for BO2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/766334-looking-bo2-cheat.html)|`2026-08-09 04:07:00`|`Call of Duty: Black Ops 2`|
 |[Axoim Recoil Reducer all&#45;in&#45;one you only need&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/758802-axoim-recoil-reducer.html)|`2026-08-09 04:01:00`|`Rainbow Six Siege`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-09 03:55:00`|`Marvel Rivals`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-09 03:50:00`|`Overwatch`|
