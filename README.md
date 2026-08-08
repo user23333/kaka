@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EFT DMA radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764258-eft-dma-radar.html)|`2026-08-09 06:51:00`|`Escape from Tarkov`|
+|[Recreating One Of The Top Colorbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/761625-recreating-top-colorbots.html)|`2026-08-09 06:45:00`|`Call of Duty: Black Ops 7`|
+|[WoW &#40;Classic, Era, Retail&#41; / Diablo IV / Overwatch / Any Eidolon Decrypter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764216-wow-classic-era-retail-diablo-iv-overwatch-eidolon-decrypter.html)|`2026-08-09 06:43:00`|`General Programming and Reversing`|
+|[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-08-09 06:34:00`|`Minecraft`|
 |[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-08-09 06:17:00`|`Other Games`|
 |[Inquiring Unity assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/766405-inquiring-unity-assistance.html)|`2026-08-09 06:16:00`|`Unity`|
 |[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-09 06:15:00`|`Valorant`|
