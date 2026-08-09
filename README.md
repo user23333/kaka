@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-08-10 00:50:00`|`Grand Theft Auto V`|
+|[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-08-10 00:47:00`|`Valorant`|
+|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-10 00:46:00`|`Valorant`|
+|[custom models](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766285-custom-models.html)|`2026-08-10 00:45:00`|`Counter-Strike 2`|
+|[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763756-secure-boot.html)|`2026-08-10 00:43:00`|`Battlefield 6`|
+|[calculate grenade and c4 damage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766422-calculate-grenade-c4-damage.html)|`2026-08-10 00:42:00`|`Counter-Strike 2`|
+|[Need Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766516-internal.html)|`2026-08-10 00:42:00`|`Valorant`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-10 00:35:00`|`Apex Legends`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-10 00:32:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-10 00:09:00`|`Call of Duty: Black Ops 7`|
 |[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-08-10 00:03:00`|`Palworld`|
 |[how to navigate using the Thresh Q during the cast?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766510-navigate-using-thresh-cast.html)|`2026-08-10 00:03:00`|`League of Legends`|
