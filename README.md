@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2026-08-09 19:34:00`|`Other Games`|
+|[XIGNCODE3 RE &#45; Black Desert Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764717-xigncode3-re-black-desert-online.html)|`2026-08-09 19:33:00`|`Anti-Cheat Bypass`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-08-09 19:21:00`|`Escape from Tarkov`|
+|[Monkey Business v1&#46;0 – All&#45;in&#45;One SPT Menu by aap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764450-monkey-business-v1-0-spt-menu-aap.html)|`2026-08-09 19:20:00`|`Escape from Tarkov`|
+|[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-08-09 19:06:00`|`Other Games`|
 |[SS&#45;GI &#124; Genshin Impact &#40;6&#46;6&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/758519-ss-gi-genshin-impact-6-6-0-a.html)|`2026-08-09 19:05:00`|`Genshin Impact`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-09 19:00:00`|`Grand Theft Auto V`|
 |[Meccha Chameleon Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760596-meccha-chameleon-reversal-structs-offsets.html)|`2026-08-09 18:41:00`|`Other Games`|
