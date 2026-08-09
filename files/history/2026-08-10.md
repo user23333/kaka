@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Macku Arduino &#40;Help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766156-macku-arduino-help.html)|`2026-08-10 05:40:00`|`Anti-Cheat Bypass`|
+|[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-10 05:39:00`|`Anti-Cheat Bypass`|
+|[High Roller outfit not unlocked &#40;1&#46;73 Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766346-roller-outfit-unlocked-1-73-legacy.html)|`2026-08-10 05:38:00`|`Grand Theft Auto V`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-10 05:38:00`|`ARC Raiders`|
+|[TF2 Classified Offsets Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/766554-tf2-classified-offsets-dump.html)|`2026-08-10 05:37:00`|`Team Fortress 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-10 05:34:00`|`Other FPS Games`|
+|[can i use scylla to dump ow ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765119-scylla-dump-ow.html)|`2026-08-10 05:32:00`|`Overwatch`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-10 05:28:00`|`Other Games`|
 |[NBA 2K26 Shot Meter Holder & Auto&#45;Shoot Suite vision&#45;timed release &#40;Arrow 2 / Purple&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html)|`2026-08-10 05:02:00`|`Other Games`|
 |[HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766550-hvci.html)|`2026-08-10 05:00:00`|`Valorant`|
 |[2PC Triggerbots/Colorbots, Screen capture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766508-2pc-triggerbots-colorbots-screen-capture.html)|`2026-08-10 04:56:00`|`Valorant`|
