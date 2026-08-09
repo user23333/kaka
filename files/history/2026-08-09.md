@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-09 22:45:00`|`Other MMORPG and Strategy`|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-08-09 22:35:00`|`Forum General`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-08-09 22:35:00`|`Other FPS Games`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-08-09 22:30:00`|`Counter-Strike 2 Releases`|
+|[NBA 2K26 Shot Meter Holder & Auto&#45;Shoot Suite vision&#45;timed release &#40;Arrow 2 / Purple&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html)|`2026-08-09 22:29:00`|`Other Games`|
+|[3751 fivem pattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766478-3751-fivem-pattern.html)|`2026-08-09 22:27:00`|`Alternative Online Mods`|
 |[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766475-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-08-09 22:00:00`|`Other Games`|
 |[Trying to make a proper subtick airstop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766322-trying-proper-subtick-airstop.html)|`2026-08-09 21:54:00`|`Counter-Strike 2`|
 |[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-08-09 21:52:00`|`Other Games`|
