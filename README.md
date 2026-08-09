@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-10 04:29:00`|`Other FPS Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-10 04:27:00`|`Counter-Strike 2`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-10 04:25:00`|`Other FPS Games`|
+|[yim menu v2 rig slot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766407-yim-menu-v2-rig-slot.html)|`2026-08-10 04:24:00`|`Grand Theft Auto V`|
+|[What kind of reverse engineering tool do you use?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766387-reverse-engineering-tool.html)|`2026-08-10 04:24:00`|`General Programming and Reversing`|
+|[How to hijack a kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765806-hijack-kernel-driver.html)|`2026-08-10 04:23:00`|`Rust`|
 |[CS2 esp ExTreM3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766463-cs2-esp-extrem3.html)|`2026-08-10 03:56:00`|`Counter-Strike 2`|
 |[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-08-10 03:53:00`|`Rust`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-08-10 03:52:00`|`Payday 3`|
