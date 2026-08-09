@@ -24,9 +24,17 @@
 |2|[sbox&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56764)|`2026-08-10 00:12:40`|
 |223|[EFT 1&#46;1&#46;0&#46;46657 dump &#43; global&#95;metadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56760)|`2026-08-10 00:12:40`|
 |119|[PUBG SDK 2607&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56754)|`2026-08-10 00:12:40`|
+|1|[Mikuware&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56831)|`2026-08-10 01:48:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-10 01:47:00`|`Grand Theft Auto V`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-10 01:44:00`|`Tom Clancy's The Division`|
+|[TempleWare Project&#45;Based Learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765719-templeware-project-based-learning.html)|`2026-08-10 01:41:00`|`Counter-Strike 2`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-08-10 01:37:00`|`Counter-Strike 2`|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-10 01:35:00`|`CounterStrike Source`|
+|[FiveM bypasses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766409-fivem-bypasses.html)|`2026-08-10 01:31:00`|`Alternative Online Mods`|
+|[Quint cs2 rage/semirage cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/759038-quint-cs2-rage-semirage-cheat.html)|`2026-08-10 01:29:00`|`Counter-Strike 2 Releases`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-10 01:12:00`|`Counter-Strike 2 Releases`|
 |[&#35;HITB2023AMS D1T2 &#45; Next Generation Virtualization&#45;Based Obfuscators &#45; T&#46; Blazytko &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766521-hitb2023ams-d1t2-generation-virtualization-based-obfuscators-blazytko.html)|`2026-08-10 01:12:00`|`Anti-Cheat Bypass`|
 |[Does FaceIT know?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766467-faceit.html)|`2026-08-10 01:09:00`|`Anti-Cheat Bypass`|
