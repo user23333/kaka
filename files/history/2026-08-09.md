@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Secure boot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763756-secure-boot.html)|`2026-08-09 20:45:00`|`Battlefield 6`|
+|[About kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766316-kdmapper.html)|`2026-08-09 20:42:00`|`Anti-Cheat Bypass`|
+|[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-09 20:25:00`|`Apex Legends`|
 |[Verox FiveM &#91;Enhanced&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765046-verox-fivem-enhanced.html)|`2026-08-09 19:57:00`|`Alternative Online Mods`|
 |[Has anyone gotten anywhere with cooldown avoiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/764709-gotten-cooldown-avoiding.html)|`2026-08-09 19:57:00`|`Age of Empires`|
 |[Yim Menu and Ultimate script crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766030-yim-menu-ultimate-script-crash.html)|`2026-08-09 19:51:00`|`Grand Theft Auto V`|
