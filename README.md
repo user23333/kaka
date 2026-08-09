@@ -25,9 +25,16 @@
 |223|[EFT 1&#46;1&#46;0&#46;46657 dump &#43; global&#95;metadata](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56760)|`2026-08-10 00:12:40`|
 |119|[PUBG SDK 2607&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56754)|`2026-08-10 00:12:40`|
 |1|[Mikuware&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56831)|`2026-08-10 01:48:29`|
+|1|[Ares  2&#46;57&#46;1&#46;69](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56766)|`2026-08-10 06:02:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-10 06:00:00`|`Apex Legends`|
+|[AlignmentZM &#45; Plutonium Pixel Perfect Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/766558-alignmentzm-plutonium-pixel-perfect-chams.html)|`2026-08-10 05:52:00`|`Call of Duty: Black Ops 2`|
+|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-10 05:51:00`|`Other FPS Games`|
+|[Company of Heroes 3 FINAL STAND](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765389-company-heroes-3-final-stand.html)|`2026-08-10 05:50:00`|`Other Games`|
+|[Cheats available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/766557-cheats-available.html)|`2026-08-10 05:50:00`|`Call of Duty: Modern Warfare III`|
+|[Class Names &#40;11,286&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/765693-class-names-11-286-a.html)|`2026-08-10 05:48:00`|`DayZ SA`|
 |[Macku Arduino &#40;Help&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766156-macku-arduino-help.html)|`2026-08-10 05:40:00`|`Anti-Cheat Bypass`|
 |[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-10 05:39:00`|`Anti-Cheat Bypass`|
 |[High Roller outfit not unlocked &#40;1&#46;73 Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766346-roller-outfit-unlocked-1-73-legacy.html)|`2026-08-10 05:38:00`|`Grand Theft Auto V`|
