@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Cheat Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764462-r6-cheat-source-code.html)|`2026-08-09 16:02:00`|`Rainbow Six Siege`|
+|[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-09 16:01:00`|`Other MMORPG and Strategy`|
+|[High Roller outfit not unlocked &#40;1&#46;73 Legacy&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766346-roller-outfit-unlocked-1-73-legacy.html)|`2026-08-09 15:55:00`|`Grand Theft Auto V`|
+|[plutonium menu esp, aimbot, bhop source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/764669-plutonium-menu-esp-aimbot-bhop-source.html)|`2026-08-09 15:51:00`|`Call of Duty: Black Ops 2`|
+|[Gears Of War E&#45;Day Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766184-gears-war-day-reversal-structs-offsets.html)|`2026-08-09 15:49:00`|`Other FPS Games`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-09 15:34:00`|`Other FPS Games`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-09 15:26:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-09 15:14:00`|`Counter-Strike 2`|
 |[Lua executor and Resource manager for FiveM enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763837-lua-executor-resource-manager-fivem-enhanced.html)|`2026-08-09 14:49:00`|`Alternative Online Mods`|
 |[bewithereddaisy &#45; BEDaisy dynamic report grabber & spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761216-bewithereddaisy-bedaisy-dynamic-report-grabber-spoofer.html)|`2026-08-09 14:47:00`|`Anti-Cheat Bypass`|
