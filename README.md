@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766475-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-08-09 22:00:00`|`Other Games`|
+|[Trying to make a proper subtick airstop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766322-trying-proper-subtick-airstop.html)|`2026-08-09 21:54:00`|`Counter-Strike 2`|
+|[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-08-09 21:52:00`|`Other Games`|
+|[Need Contractors Exfilzone VR Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766472-contractors-exfilzone-vr-offsets.html)|`2026-08-09 21:39:00`|`Other FPS Games`|
 |[No Gravity Ragdolls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/652059-gravity-ragdolls.html)|`2026-08-09 21:34:00`|`Counter-Strike 2`|
 |[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-08-09 21:33:00`|`Roblox`|
 |[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-08-09 21:32:00`|`Valorant`|
