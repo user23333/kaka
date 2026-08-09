@@ -11,6 +11,7 @@
 |10|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-10 00:12:40`|`roblox`|
 |11|[Serversided Bait Fake Players &#91;?&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765621-serversided-bait-fake-players.html)|`2026-08-10 00:12:40`|`valorant`|
 |14|[Rust ESP External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765593-rust-esp-external.html)|`2026-08-10 00:12:40`|`rust`|
+|12|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-10 07:02:24`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-10 06:46:00`|`Call of Duty: Black Ops 7`|
 |[Driver cheat Cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766462-driver-cheat-cs2.html)|`2026-08-10 06:35:00`|`Counter-Strike 2`|
 |[Internal V2 : SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/728713-internal-v2-soon.html)|`2026-08-10 06:29:00`|`Star Wars Battlefront 2`|
 |[AlterAra &#45; FiveM Offset Dumper &#43; Player List&#40;names&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766553-alterara-fivem-offset-dumper-player-list-names.html)|`2026-08-10 06:20:00`|`Alternative Online Mods`|
