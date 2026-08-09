@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-10 01:12:00`|`Counter-Strike 2 Releases`|
+|[&#35;HITB2023AMS D1T2 &#45; Next Generation Virtualization&#45;Based Obfuscators &#45; T&#46; Blazytko &](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766521-hitb2023ams-d1t2-generation-virtualization-based-obfuscators-blazytko.html)|`2026-08-10 01:12:00`|`Anti-Cheat Bypass`|
+|[Does FaceIT know?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766467-faceit.html)|`2026-08-10 01:09:00`|`Anti-Cheat Bypass`|
+|[HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766520-hvci.html)|`2026-08-10 01:08:00`|`Valorant`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-10 01:05:00`|`Other MMORPG and Strategy`|
+|[bewithereddaisy &#45; BEDaisy dynamic report grabber & spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/761216-bewithereddaisy-bedaisy-dynamic-report-grabber-spoofer.html)|`2026-08-10 01:04:00`|`Anti-Cheat Bypass`|
+|[Sudden attack offsets &#40;not tested&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/766518-sudden-attack-offsets-tested.html)|`2026-08-10 00:56:00`|`Sudden Attack`|
 |[Verox GTA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/738527-verox-gta.html)|`2026-08-10 00:50:00`|`Grand Theft Auto V`|
 |[Meta KVM Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748118-meta-kvm-valorant.html)|`2026-08-10 00:47:00`|`Valorant`|
 |[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-10 00:46:00`|`Valorant`|
