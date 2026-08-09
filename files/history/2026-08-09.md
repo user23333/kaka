@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2: Easily Find Class of Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/764434-tf2-easily-class-player.html)|`2026-08-09 08:01:00`|`Team Fortress 2`|
+|[First CS2 Internal Cheat &#45; Looking for Feedback Before Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766022-cs2-internal-cheat-looking-feedback-release.html)|`2026-08-09 08:00:00`|`Counter-Strike 2`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-08-09 07:47:00`|`Other FPS Games`|
+|[ClaudeHalla&#46; Brawlhalla bot made by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764004-claudehalla-brawlhalla-bot-claude.html)|`2026-08-09 07:44:00`|`Other Games`|
 |[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-09 07:29:00`|`Other MMORPG and Strategy`|
 |[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-08-09 07:15:00`|`Counter-Strike 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-09 07:13:00`|`Alternative Online Mods`|
