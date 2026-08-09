@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NBA 2K26 Shot Meter Holder & Auto&#45;Shoot Suite vision&#45;timed release &#40;Arrow 2 / Purple&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html)|`2026-08-10 05:02:00`|`Other Games`|
+|[HVCI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766550-hvci.html)|`2026-08-10 05:00:00`|`Valorant`|
+|[2PC Triggerbots/Colorbots, Screen capture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766508-2pc-triggerbots-colorbots-screen-capture.html)|`2026-08-10 04:56:00`|`Valorant`|
+|[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765922-aimbot-detection.html)|`2026-08-10 04:56:00`|`Anti-Cheat Bypass`|
+|[Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/750729-injector.html)|`2026-08-10 04:50:00`|`Anti-Cheat Bypass`|
+|[Level of at which u could get away with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/765444-level.html)|`2026-08-10 04:49:00`|`Marvel Rivals`|
+|[Repeatedly creating accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765659-repeatedly-creating-accounts.html)|`2026-08-10 04:48:00`|`Alternative Online Mods`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-10 04:29:00`|`Other FPS Games`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-10 04:27:00`|`Counter-Strike 2`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-10 04:25:00`|`Other FPS Games`|
