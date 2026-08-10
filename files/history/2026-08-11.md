@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Modified Rs External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765534-modified-rs-external.html)|`2026-08-11 07:15:00`|`Overwatch`|
+|[&#91;AUTO UPDATE&#93; Overwatch EZWIN EXTERNAL release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765728-auto-update-overwatch-ezwin-external-release.html)|`2026-08-11 07:12:00`|`Overwatch`|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-11 07:07:00`|`Marvel Rivals`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-11 07:04:00`|`Sea of Thieves`|
+|[does someone have additional infos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766740-additional-infos.html)|`2026-08-11 07:04:00`|`Alternative Online Mods`|
+|[DVAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/766380-dvar.html)|`2026-08-11 06:55:00`|`Call of Duty: Black Ops 7`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-08-11 06:40:00`|`Anti-Cheat Bypass`|
 |[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-11 06:39:00`|`Valorant`|
 |[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-11 06:39:00`|`Overwatch`|
