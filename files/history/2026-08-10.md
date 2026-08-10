@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My first ABI ESP &#40;External&#41; — rough base for someone better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766281-abi-esp-external-rough-base.html)|`2026-08-10 23:33:00`|`Other FPS Games`|
+|[rust map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766719-rust-map.html)|`2026-08-10 23:32:00`|`Rust`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-10 23:32:00`|`Grand Theft Auto V`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-10 23:31:00`|`Sea of Thieves`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-08-10 23:30:00`|`Grand Theft Auto V`|
+|[Making a macku rust macro/script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766404-macku-rust-macro-script.html)|`2026-08-10 23:12:00`|`Rust`|
 |[FiveM Hitboxes External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766577-fivem-hitboxes-external.html)|`2026-08-10 22:40:00`|`Alternative Online Mods`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-08-10 22:05:00`|`Other Games`|
 |[smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745091-smoke-voxels.html)|`2026-08-10 22:05:00`|`Counter-Strike 2`|
