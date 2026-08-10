@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-08-11 04:36:00`|`Roblox`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-11 04:34:00`|`Other FPS Games`|
+|[i want to play&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766761-play.html)|`2026-08-11 04:28:00`|`Valorant`|
+|[External Release &#43; Source &#124; Koio Client w/ Auto Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765410-external-release-source-koio-client-auto-offsets.html)|`2026-08-11 04:25:00`|`Roblox`|
+|[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-11 04:11:00`|`Paladins`|
+|[Rs Internal&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/757540-rs-internal.html)|`2026-08-11 04:10:00`|`Overwatch`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-08-11 03:57:00`|`Other FPS Games`|
 |[Any Free Rust Cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766752-free-rust-cheat.html)|`2026-08-11 03:56:00`|`Rust`|
 |[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-11 03:55:00`|`Valorant`|
