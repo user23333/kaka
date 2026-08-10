@@ -36,6 +36,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759853-temp-spoofer.html)|`2026-08-11 06:40:00`|`Anti-Cheat Bypass`|
+|[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-11 06:39:00`|`Valorant`|
+|[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-11 06:39:00`|`Overwatch`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-11 06:36:00`|`Overwatch`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-11 06:36:00`|`ARC Raiders`|
+|[BO4 Black Market Unlock All After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/766775-bo4-black-market-unlock-patch.html)|`2026-08-11 06:34:00`|`Call of Duty: Black Ops 4`|
+|[il2cpp&#45;external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766643-il2cpp-external.html)|`2026-08-11 06:27:00`|`Rust`|
+|[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-08-11 06:22:00`|`Overwatch`|
 |[mast1c0re on PS4 13&#46;52](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/766599-mast1c0re-ps4-13-52-a.html)|`2026-08-11 05:58:00`|`PlayStation`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-11 05:56:00`|`Rust`|
 |[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-11 05:52:00`|`Anti-Cheat Bypass`|
