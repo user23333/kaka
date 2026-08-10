@@ -13,6 +13,7 @@
 |14|[Rust ESP External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765593-rust-esp-external.html)|`2026-08-10 00:12:40`|`rust`|
 |12|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-10 07:02:24`|`valorant`|
 |16|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-10 10:10:11`|`valorant`|
+|8|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-10 21:50:16`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-10 21:44:00`|`Overwatch`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-10 21:22:00`|`Overwatch`|
+|[Warframe &#124; Chams &#124; Loot/Coin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/600451-warframe-chams-loot-coin-changer.html)|`2026-08-10 21:18:00`|`Other FPS Games`|
+|[Temp Acc Suspend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766711-temp-acc-suspend.html)|`2026-08-10 21:17:00`|`Valorant`|
 |[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-08-10 20:25:00`|`Palworld`|
 |[Get bone coords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766702-bone-coords.html)|`2026-08-10 20:22:00`|`Alternative Online Mods`|
 |[Yimmenu V2 can't inject dll file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766641-yimmenu-v2-cant-inject-dll-file.html)|`2026-08-10 20:20:00`|`Grand Theft Auto V`|
