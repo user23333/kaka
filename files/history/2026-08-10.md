@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Latest partner depot &#40;March 2019 &#124; PANORAMA &#33;&#33;&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/766576-partner-depot-march-2019-panorama.html)|`2026-08-10 07:54:00`|`Counterstrike Global Offensive`|
+|[Latest partner depot &#40;March 2019 &#124; PANORAMA &#33;&#33;&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/766575-partner-depot-march-2019-panorama.html)|`2026-08-10 07:52:00`|`Counterstrike Global Offensive`|
+|[skybox changer and world customizability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766574-skybox-changer-world-customizability.html)|`2026-08-10 07:51:00`|`Counter-Strike 2`|
+|[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2026-08-10 07:43:00`|`Other Games`|
+|[How to get perfect object collision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766555-perfect-object-collision.html)|`2026-08-10 07:41:00`|`Valorant`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-10 07:28:00`|`Palworld`|
 |[pixel&#45;memory scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765812-pixel-memory-scanning.html)|`2026-08-10 07:21:00`|`Call of Duty: Black Ops 7`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-10 07:19:00`|`Red Dead Redemption 2`|
