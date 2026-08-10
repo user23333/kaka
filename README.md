@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mast1c0re on PS4 13&#46;52](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/766599-mast1c0re-ps4-13-52-a.html)|`2026-08-10 12:03:00`|`PlayStation`|
+|[Can I equip a special license plate on the Terrorbyte stored on the 5th floor of my n](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765850-equip-special-license-plate-terrorbyte-stored-5th-floor.html)|`2026-08-10 11:54:00`|`Grand Theft Auto V`|
+|[Arena war unlocks &#45; rare vehicles &#45; Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766307-arena-war-unlocks-rare-vehicles-legacy.html)|`2026-08-10 11:46:00`|`Grand Theft Auto V`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-10 11:43:00`|`Other FPS Games`|
+|[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-08-10 11:41:00`|`Phasmophobia`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-10 09:56:00`|`Rust`|
 |[EAC mouse input detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766081-eac-mouse-input-detection.html)|`2026-08-10 09:49:00`|`Anti-Cheat Bypass`|
 |[Total newbie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/766587-total-newbie.html)|`2026-08-10 09:47:00`|`Introductions`|
