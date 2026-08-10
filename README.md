@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-11 01:20:00`|`Other MMORPG and Strategy`|
+|[Serversided Bait Fake Players &#91;?&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765621-serversided-bait-fake-players.html)|`2026-08-11 01:15:00`|`Valorant`|
+|[AlterAra &#45; FiveM Offset Dumper &#43; Player List&#40;names&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766553-alterara-fivem-offset-dumper-player-list-names.html)|`2026-08-11 01:11:00`|`Alternative Online Mods`|
+|[How to use an unsigned driver for Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760209-unsigned-driver-rust.html)|`2026-08-11 01:11:00`|`Anti-Cheat Bypass`|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-11 01:09:00`|`Rainbow Six Siege`|
+|[Steam HWID Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754135-steam-hwid-spoofer.html)|`2026-08-11 01:06:00`|`Counter-Strike 2`|
+|[Anyone using LLMs for cheat development?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766695-using-llms-cheat-development.html)|`2026-08-11 01:03:00`|`Overwatch`|
+|[Trying to make a proper subtick airstop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766322-trying-proper-subtick-airstop.html)|`2026-08-11 01:00:00`|`Counter-Strike 2`|
+|[Astral Sober external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761255-astral-sober-external.html)|`2026-08-11 01:00:00`|`Roblox`|
 |[Mordhau MultiTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765431-mordhau-multitool.html)|`2026-08-11 00:23:00`|`Other FPS Games`|
 |[desync fivem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766721-desync-fivem.html)|`2026-08-11 00:01:00`|`Alternative Online Mods`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-10 23:54:00`|`Escape from Tarkov`|
