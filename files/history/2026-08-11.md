@@ -36,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mast1c0re on PS4 13&#46;52](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/766599-mast1c0re-ps4-13-52-a.html)|`2026-08-11 05:58:00`|`PlayStation`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-11 05:56:00`|`Rust`|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-11 05:52:00`|`Anti-Cheat Bypass`|
+|[FairShieldAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765403-fairshieldac.html)|`2026-08-11 05:51:00`|`Alternative Online Mods`|
+|[Intel vs AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/766726-intel-vs-amd.html)|`2026-08-11 05:47:00`|`Forum General`|
+|[x64dbg anti&#45;debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766466-x64dbg-anti-debugger.html)|`2026-08-11 05:43:00`|`General Programming and Reversing`|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-11 05:41:00`|`Counter-Strike 2`|
 |[Roblox Private ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765972-roblox-private-esp.html)|`2026-08-11 05:22:00`|`Roblox`|
 |[The death effect isn't working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766074-death-effect-isnt.html)|`2026-08-11 05:19:00`|`Counter-Strike 2`|
 |[Warthunder Tank Cham Implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766768-warthunder-tank-cham-implementation.html)|`2026-08-11 05:13:00`|`Other MMORPG and Strategy`|
