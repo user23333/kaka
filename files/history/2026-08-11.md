@@ -13,6 +13,7 @@
 |23|[Mistfall Hunter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766244-mistfall-hunter-internal.html)|`2026-08-11 00:26:55`|`other-games`|
 |8|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-11 02:07:28`|`call-of-duty-black-ops-7-a`|
 |6|[TempleWare Project&#45;Based Learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765719-templeware-project-based-learning.html)|`2026-08-11 03:10:06`|`counter-strike-2-a`|
+|11|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-11 05:22:35`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox Private ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765972-roblox-private-esp.html)|`2026-08-11 05:22:00`|`Roblox`|
+|[The death effect isn't working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766074-death-effect-isnt.html)|`2026-08-11 05:19:00`|`Counter-Strike 2`|
+|[Warthunder Tank Cham Implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766768-warthunder-tank-cham-implementation.html)|`2026-08-11 05:13:00`|`Other MMORPG and Strategy`|
+|[Usercmd for aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766527-usercmd-aimbot.html)|`2026-08-11 05:13:00`|`Counter-Strike 2`|
+|[smoke voxels](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/745091-smoke-voxels.html)|`2026-08-11 05:12:00`|`Counter-Strike 2`|
+|[R6 External Cheat &#40;Source Code&#41; Made by Overhead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765618-r6-external-cheat-source-code-overhead.html)|`2026-08-11 05:10:00`|`Rainbow Six Siege`|
 |[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-08-11 04:36:00`|`Roblox`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-11 04:34:00`|`Other FPS Games`|
 |[i want to play&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766761-play.html)|`2026-08-11 04:28:00`|`Valorant`|
