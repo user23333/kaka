@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[preview model in menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766578-preview-model-menu.html)|`2026-08-10 17:47:00`|`Counter-Strike 2`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-10 17:37:00`|`Other MMORPG and Strategy`|
+|[easy&#45;ac&#46;pem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766619-easy-ac-pem.html)|`2026-08-10 17:30:00`|`Anti-Cheat Bypass`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-08-10 17:19:00`|`Deadlock`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-10 17:17:00`|`Valorant`|
+|[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-10 17:16:00`|`Valorant`|
 |[Black Ops 3 PS4 &#40;SPRX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/766622-black-ops-3-ps4-sprx.html)|`2026-08-10 16:14:00`|`Call of Duty: Black Ops 3`|
 |[Astral Sober external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761255-astral-sober-external.html)|`2026-08-10 16:12:00`|`Roblox`|
 |[Ps1 Based Low level & Exploit Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766594-ps1-based-low-level-exploit-framework.html)|`2026-08-10 16:10:00`|`Anti-Cheat Bypass`|
