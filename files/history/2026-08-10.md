@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-08-10 20:25:00`|`Palworld`|
+|[Get bone coords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766702-bone-coords.html)|`2026-08-10 20:22:00`|`Alternative Online Mods`|
+|[Yimmenu V2 can't inject dll file](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766641-yimmenu-v2-cant-inject-dll-file.html)|`2026-08-10 20:20:00`|`Grand Theft Auto V`|
+|[Anyone using LLMs for cheat development?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766695-using-llms-cheat-development.html)|`2026-08-10 20:10:00`|`Overwatch`|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-10 20:00:00`|`Rainbow Six Siege`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-10 19:31:00`|`Escape from Tarkov`|
 |[Which source code for Rust aimbot prediction is written the best?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765998-source-code-rust-aimbot-prediction-written.html)|`2026-08-10 19:29:00`|`Rust`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-10 19:24:00`|`Valorant`|
