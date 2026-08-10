@@ -12,6 +12,7 @@
 |11|[Serversided Bait Fake Players &#91;?&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765621-serversided-bait-fake-players.html)|`2026-08-10 00:12:40`|`valorant`|
 |14|[Rust ESP External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765593-rust-esp-external.html)|`2026-08-10 00:12:40`|`rust`|
 |12|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-10 07:02:24`|`valorant`|
+|16|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-10 10:10:11`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-10 09:56:00`|`Rust`|
+|[EAC mouse input detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766081-eac-mouse-input-detection.html)|`2026-08-10 09:49:00`|`Anti-Cheat Bypass`|
+|[Total newbie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/766587-total-newbie.html)|`2026-08-10 09:47:00`|`Introductions`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-08-10 09:40:00`|`Other FPS Games`|
+|[Rust Offsets / Decrypts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766560-rust-offsets-decrypts.html)|`2026-08-10 09:39:00`|`Rust`|
 |[Latest partner depot &#40;March 2019 &#124; PANORAMA &#33;&#33;&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/766576-partner-depot-march-2019-panorama.html)|`2026-08-10 07:54:00`|`Counterstrike Global Offensive`|
 |[Latest partner depot &#40;March 2019 &#124; PANORAMA &#33;&#33;&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/766575-partner-depot-march-2019-panorama.html)|`2026-08-10 07:52:00`|`Counterstrike Global Offensive`|
 |[skybox changer and world customizability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766574-skybox-changer-world-customizability.html)|`2026-08-10 07:51:00`|`Counter-Strike 2`|
