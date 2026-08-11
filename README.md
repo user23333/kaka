@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-12 06:20:00`|`Paladins`|
+|[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-12 06:15:00`|`Anti-Cheat Bypass`|
+|[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-08-12 06:15:00`|`Rust`|
+|[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-08-12 06:15:00`|`Other Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-12 06:15:00`|`Call of Duty: Black Ops 7`|
+|[Monkey Business v1&#46;0 – All&#45;in&#45;One SPT Menu by aap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764450-monkey-business-v1-0-spt-menu-aap.html)|`2026-08-12 06:14:00`|`Escape from Tarkov`|
 |[x64dbg anti&#45;debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766466-x64dbg-anti-debugger.html)|`2026-08-12 05:45:00`|`General Programming and Reversing`|
 |[external visible check no physx &#40;this is a rep grab&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766801-external-visible-check-physx-rep-grab.html)|`2026-08-12 05:45:00`|`Rust`|
 |[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-12 05:43:00`|`Alternative Online Mods`|
