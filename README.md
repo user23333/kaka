@@ -24,9 +24,18 @@
 |15|[DBD SDK &#45; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56847)|`2026-08-12 00:31:45`|
 |6|[Fire State Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56846)|`2026-08-12 00:31:45`|
 |24|[CSGO Panorama source code &#43;  VPC fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56845)|`2026-08-12 00:31:45`|
+|1|[HLL steam version ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56877)|`2026-08-12 03:29:56`|
+|2|[glitter&shine&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56876)|`2026-08-12 03:29:56`|
+|2|[PS4&#95;13&#46;52&#45;libkernel&#95;sys&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56875)|`2026-08-12 03:29:56`|
+|13|[The Division 2 Hack v3&#46;4&#46;5&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56873)|`2026-08-12 03:29:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-08-12 03:28:00`|`Other FPS Games`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-08-12 03:23:00`|`Escape from Tarkov`|
+|[mast1c0re on PS4 13&#46;52](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/766599-mast1c0re-ps4-13-52-a.html)|`2026-08-12 03:12:00`|`PlayStation`|
+|[Auto&#45;Parry &#91; Help Needed &#93; :v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/766876-auto-parry-help.html)|`2026-08-12 03:07:00`|`Deadlock`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-08-12 03:07:00`|`Other FPS Games`|
 |[Apex Legends bans, DMA and serverside&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/756860-apex-legends-bans-dma-serverside.html)|`2026-08-12 02:21:00`|`Apex Legends`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-12 02:20:00`|`Overwatch`|
 |[ESP32&#45;S2 as HID Mouse &#45; Valorant only accept 1 input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766869-esp32-s2-hid-mouse-valorant-accept-1-input.html)|`2026-08-12 02:18:00`|`Valorant`|
