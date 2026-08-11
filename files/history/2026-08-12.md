@@ -28,9 +28,16 @@
 |2|[glitter&shine&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56876)|`2026-08-12 03:29:56`|
 |2|[PS4&#95;13&#46;52&#45;libkernel&#95;sys&#45;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56875)|`2026-08-12 03:29:56`|
 |13|[The Division 2 Hack v3&#46;4&#46;5&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56873)|`2026-08-12 03:29:56`|
+|3|[Signed Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56880)|`2026-08-12 07:07:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[preserve killfeed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764597-preserve-killfeed.html)|`2026-08-12 07:03:00`|`Counter-Strike 2`|
+|[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-08-12 06:59:00`|`ARC Raiders`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-08-12 06:58:00`|`Tom Clancy's The Division`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-12 06:57:00`|`Valorant`|
+|[DMA or EXT base?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/766889-dma-ext-base.html)|`2026-08-12 06:57:00`|`Escape from Tarkov`|
+|[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-12 06:52:00`|`Tom Clancy's The Division`|
 |[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-12 06:20:00`|`Paladins`|
 |[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-12 06:15:00`|`Anti-Cheat Bypass`|
 |[&#91;SOURCE&#93; Cl1k External Rust Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763956-source-cl1k-external-rust-cheat.html)|`2026-08-12 06:15:00`|`Rust`|
