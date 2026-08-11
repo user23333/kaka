@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 Double Tap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766767-cs2-double-tap.html)|`2026-08-11 12:01:00`|`Counter-Strike 2`|
+|[backtrack chams work but drop fps heavily](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766192-backtrack-chams-drop-fps-heavily.html)|`2026-08-11 12:01:00`|`Counter-Strike 2`|
+|[how can i get EntityList, DecryptComponent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766809-entitylist-decryptcomponent.html)|`2026-08-11 12:00:00`|`Overwatch`|
+|[Red trust on cs2 even after Windows Reinstall and new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766300-red-trust-cs2-windows-reinstall-account.html)|`2026-08-11 11:55:00`|`Counter-Strike 2`|
+|[Naraka Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766807-naraka-cheat.html)|`2026-08-11 11:51:00`|`Other Games`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-11 11:50:00`|`Palworld`|
 |[Remote TPM Attestation: Why We Trust Crypto, Not Serial Numbers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766790-remote-tpm-attestation-trust-crypto-serial.html)|`2026-08-11 10:36:00`|`Anti-Cheat Bypass`|
 |[seed trigger bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766795-seed-trigger-bot.html)|`2026-08-11 10:26:00`|`Counter-Strike 2`|
 |[Combat Arms : Cheater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/611163-combat-arms-cheater.html)|`2026-08-11 10:18:00`|`Combat Arms`|
