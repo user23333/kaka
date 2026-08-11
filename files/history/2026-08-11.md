@@ -16,6 +16,7 @@
 |11|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-11 05:22:35`|`alternative-online-mods`|
 |16|[How is BattleEye making the physical reading fail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766384-battleeye-physical-reading-fail.html)|`2026-08-11 18:09:41`|`anti-cheat-bypass`|
 |14|[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-11 19:48:48`|`valorant`|
+|12|[All Serials eac/fn bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766328-serials-eac-fn-bans.html)|`2026-08-11 22:46:35`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -41,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-11 22:38:00`|`HELLDIVERS 2`|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-08-11 22:00:00`|`Call of Duty: Black Ops 7`|
 |[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-08-11 21:52:00`|`Call of Duty: Black Ops 2`|
 |[The Division 2 &#124; Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/753543-division-2-offset-dumper.html)|`2026-08-11 21:46:00`|`Tom Clancy's The Division`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2026-08-11 20:28:00`|`Other FPS Games`|
