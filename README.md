@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[legs animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766645-legs-animation.html)|`2026-08-12 04:48:00`|`CounterStrike Source`|
+|[Making a macku rust macro/script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766404-macku-rust-macro-script.html)|`2026-08-12 04:41:00`|`Rust`|
+|[how to set skillshot aim direction in memory without moving the real cursor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766206-set-skillshot-aim-direction-memory-moving-real-cursor.html)|`2026-08-12 04:39:00`|`League of Legends`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-12 04:39:00`|`Other FPS Games`|
 |[Desync method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/766339-desync-method.html)|`2026-08-12 04:07:00`|`Roblox`|
 |[Sv evt trigger – Electron blocks, others don't&#46; Why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766792-sv-evt-trigger-electron-blocks-dont.html)|`2026-08-12 04:07:00`|`Alternative Online Mods`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-12 04:07:00`|`Apex Legends`|
