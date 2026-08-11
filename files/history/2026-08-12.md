@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[x64dbg anti&#45;debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766466-x64dbg-anti-debugger.html)|`2026-08-12 05:45:00`|`General Programming and Reversing`|
+|[external visible check no physx &#40;this is a rep grab&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766801-external-visible-check-physx-rep-grab.html)|`2026-08-12 05:45:00`|`Rust`|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-12 05:43:00`|`Alternative Online Mods`|
+|[How to dump R6?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766749-dump-r6.html)|`2026-08-12 05:25:00`|`Rainbow Six Siege`|
+|[Createmove skips my cmd for shot processing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766796-createmove-skips-cmd-shot-processing.html)|`2026-08-12 05:22:00`|`Counter-Strike 2`|
 |[legs animation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766645-legs-animation.html)|`2026-08-12 04:48:00`|`CounterStrike Source`|
 |[Making a macku rust macro/script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766404-macku-rust-macro-script.html)|`2026-08-12 04:41:00`|`Rust`|
 |[how to set skillshot aim direction in memory without moving the real cursor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766206-set-skillshot-aim-direction-memory-moving-real-cursor.html)|`2026-08-12 04:39:00`|`League of Legends`|
