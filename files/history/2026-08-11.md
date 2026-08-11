@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-11 18:49:00`|`Counter-Strike 2 Releases`|
+|[Where Winds Meet Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/725040-winds-meet-reversal-structs-offsets.html)|`2026-08-11 18:43:00`|`Other MMORPG and Strategy`|
+|[How to know if i was banned by Serversided AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766831-banned-serversided-ac.html)|`2026-08-11 18:40:00`|`Valorant`|
+|[Hello everyone&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/766803-hello.html)|`2026-08-11 18:40:00`|`Introductions`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-08-11 18:36:00`|`Tom Clancy's The Division`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-08-11 18:34:00`|`Other MMORPG and Strategy`|
 |[Looking for someone to help finalize a custom kernel driver &#43; loader &#40;EAC bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766716-looking-help-finalize-custom-kernel-driver-loader-eac-bypass.html)|`2026-08-11 18:08:00`|`Apex Legends`|
 |[Is there a way to store a Raiju or an Akula or a Hangar Aircraft on the MOC Storage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766818-store-raiju-akula-hangar-aircraft-moc-storage.html)|`2026-08-11 18:02:00`|`Grand Theft Auto V`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-11 17:42:00`|`Alternative Online Mods`|
