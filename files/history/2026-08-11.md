@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-08-11 15:10:00`|`Other FPS Games`|
+|[yim menu v2 rig slot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766407-yim-menu-v2-rig-slot.html)|`2026-08-11 14:52:00`|`Grand Theft Auto V`|
+|[Grand Theft Auto V Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/144028-grand-theft-auto-reversal-structs-offsets.html)|`2026-08-11 14:47:00`|`Grand Theft Auto V`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-08-11 14:47:00`|`Counter-Strike 2 Releases`|
+|[Chop Chop Inc Menu &#45; BepInEx plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766821-chop-chop-inc-menu-bepinex-plugin.html)|`2026-08-11 14:38:00`|`Other Games`|
 |[any cheat for 64 bit cs source that has norecoil and no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/745340-cheat-64-bit-cs-source-norecoil-spread.html)|`2026-08-11 14:01:00`|`CounterStrike Source`|
 |[How do I spoof my motherboard and onboard NIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766810-spoof-motherboard-onboard-nic.html)|`2026-08-11 13:56:00`|`Anti-Cheat Bypass`|
 |[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-11 13:52:00`|`Valorant`|
