@@ -14,6 +14,7 @@
 |8|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-11 02:07:28`|`call-of-duty-black-ops-7-a`|
 |6|[TempleWare Project&#45;Based Learning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765719-templeware-project-based-learning.html)|`2026-08-11 03:10:06`|`counter-strike-2-a`|
 |11|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-11 05:22:35`|`alternative-online-mods`|
+|16|[How is BattleEye making the physical reading fail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766384-battleeye-physical-reading-fail.html)|`2026-08-11 18:09:41`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for someone to help finalize a custom kernel driver &#43; loader &#40;EAC bypass&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766716-looking-help-finalize-custom-kernel-driver-loader-eac-bypass.html)|`2026-08-11 18:08:00`|`Apex Legends`|
+|[Is there a way to store a Raiju or an Akula or a Hangar Aircraft on the MOC Storage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766818-store-raiju-akula-hangar-aircraft-moc-storage.html)|`2026-08-11 18:02:00`|`Grand Theft Auto V`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-11 17:42:00`|`Alternative Online Mods`|
 |[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-08-11 16:47:00`|`Alternative Online Mods`|
 |[VMProtect 3&#46;9&#46;5 Static Unpacking Script &#40;No IAT Repair&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766828-vmprotect-3-9-5-static-unpacking-script-iat-repair.html)|`2026-08-11 16:39:00`|`General Programming and Reversing`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-11 16:36:00`|`Rainbow Six Siege`|
