@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[All Serials eac/fn bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766328-serials-eac-fn-bans.html)|`2026-08-12 22:37:00`|`Anti-Cheat Bypass`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-12 22:28:00`|`Counter-Strike 2`|
+|[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-12 22:07:00`|`Rust`|
 |[Inquiring Unity assistance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/766405-inquiring-unity-assistance.html)|`2026-08-12 21:31:00`|`Unity`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-12 21:19:00`|`Other FPS Games`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-12 20:06:00`|`HELLDIVERS 2`|
