@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TF2 Classified Offsets Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/766554-tf2-classified-offsets-dump.html)|`2026-08-13 06:18:00`|`Team Fortress 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-13 06:15:00`|`Apex Legends`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-08-13 06:10:00`|`DayZ SA`|
+|[Class Names &#40;11,286&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/765693-class-names-11-286-a.html)|`2026-08-13 06:08:00`|`DayZ SA`|
+|[CS2 VacNet Button Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766844-cs2-vacnet-button-revealer.html)|`2026-08-13 05:59:00`|`Counter-Strike 2`|
 |[Farlight 84 &#45; Anticheat Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/748744-farlight-84-anticheat-bypass.html)|`2026-08-13 05:28:00`|`Farlight 84`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-13 05:25:00`|`Other FPS Games`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-13 05:25:00`|`HELLDIVERS 2`|
