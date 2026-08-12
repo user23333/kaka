@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-12 23:18:00`|`HELLDIVERS 2`|
+|[AlterAra &#45; FiveM Offset Dumper &#43; Player List&#40;names&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766553-alterara-fivem-offset-dumper-player-list-names.html)|`2026-08-12 23:06:00`|`Alternative Online Mods`|
 |[All Serials eac/fn bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766328-serials-eac-fn-bans.html)|`2026-08-12 22:37:00`|`Anti-Cheat Bypass`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-12 22:28:00`|`Counter-Strike 2`|
 |[emucall &#45; cpu emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/765258-emucall-cpu-emulator.html)|`2026-08-12 22:07:00`|`Rust`|
