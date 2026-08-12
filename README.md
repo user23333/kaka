@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-12 13:50:00`|`Counter-Strike 2`|
+|[Meccha Chameleon Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765938-meccha-chameleon-glitch.html)|`2026-08-12 13:44:00`|`Other Games`|
+|[Is there a way to store a Raiju or an Akula or a Hangar Aircraft on the MOC Storage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766818-store-raiju-akula-hangar-aircraft-moc-storage.html)|`2026-08-12 13:36:00`|`Grand Theft Auto V`|
 |[Anyone using LLMs for cheat development?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766695-using-llms-cheat-development.html)|`2026-08-12 12:45:00`|`Overwatch`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-12 12:35:00`|`Counter-Strike 2`|
 |[Modified Rs External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765534-modified-rs-external.html)|`2026-08-12 12:21:00`|`Overwatch`|
