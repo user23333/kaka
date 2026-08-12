@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-08-13 03:16:00`|`Battlefield 6`|
+|[I honestly need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766936-honestly-help.html)|`2026-08-13 03:14:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-13 03:13:00`|`Call of Duty: Black Ops 7`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-13 02:54:00`|`Grand Theft Auto V`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-08-13 02:48:00`|`Tom Clancy's The Division`|
+|[Apex Legends bans, DMA and serverside&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/756860-apex-legends-bans-dma-serverside.html)|`2026-08-13 02:46:00`|`Apex Legends`|
+|[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-13 02:45:00`|`Valorant`|
 |[BO2 Plutonium Ara&#95;blops2 &#43; source &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/765913-bo2-plutonium-ara_blops2-source-injector.html)|`2026-08-13 02:09:00`|`Call of Duty: Black Ops 2`|
 |[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-08-13 02:08:00`|`Call of Duty: Black Ops 7`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-13 02:04:00`|`Other Games`|
