@@ -24,9 +24,21 @@
 |83|[Grain Rot Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56858)|`2026-08-13 00:28:34`|
 |68|[1&#46;1&#46;0&#46;46699&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56857)|`2026-08-13 00:28:34`|
 |17|[obsidian released files v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56856)|`2026-08-13 00:28:34`|
+|13|[Super Mission Editor v1&#46;0&#46;4&#46;0&#46;2&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56895)|`2026-08-13 01:26:48`|
+|7|[TierkovHTML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56891)|`2026-08-13 01:26:48`|
+|21|[Mistfall Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56890)|`2026-08-13 01:26:48`|
+|7|[EFT&#95;CheatTable&#95;1&#46;1&#46;0&#46;46699](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56888)|`2026-08-13 01:26:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-13 01:24:00`|`Escape from Tarkov`|
+|[Mistfall Hunter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766244-mistfall-hunter-internal.html)|`2026-08-13 01:20:00`|`Other Games`|
+|[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-08-13 01:19:00`|`Rainbow Six Siege`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-13 01:18:00`|`Grand Theft Auto V`|
+|[Script Source Code for 16&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766397-script-source-code-16-15-a.html)|`2026-08-13 01:18:00`|`League of Legends`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-13 01:09:00`|`Tom Clancy's The Division`|
+|[rcs x aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766977-rcs-aimbot.html)|`2026-08-13 01:07:00`|`Counter-Strike 2`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-13 01:00:00`|`Deadlock`|
 |[Project Zomboid Cheat &#45; Valkur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/645408-project-zomboid-cheat-valkur.html)|`2026-08-13 00:28:00`|`Other MMORPG and Strategy`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-13 00:27:00`|`Escape from Tarkov`|
 |[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-13 00:24:00`|`Anti-Cheat Bypass`|
