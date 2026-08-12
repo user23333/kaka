@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-12 20:06:00`|`HELLDIVERS 2`|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-08-12 20:03:00`|`Other MMORPG and Strategy`|
+|[I honestly need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766936-honestly-help.html)|`2026-08-12 19:57:00`|`Valorant`|
+|[Undetected Cheat Engine &#43; Driver &#124; 2023 &#124; Bypass Anticheats &#40;BE / EAC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/504191-undetected-cheat-engine-driver-2023-bypass-anticheats-eac.html)|`2026-08-12 19:54:00`|`Anti-Cheat Bypass`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-08-12 19:54:00`|`Call of Duty: Black Ops 3`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-12 19:52:00`|`Other FPS Games`|
+|[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-12 19:47:00`|`Valorant`|
 |[R6 Smart Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/750000-r6-smart-recoil-helper.html)|`2026-08-12 19:16:00`|`Rainbow Six Siege`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-08-12 19:05:00`|`Other FPS Games`|
 |[BeLauncherNew Dump &#40;pe&#45;sieve&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766943-belaunchernew-dump-pe-sieve.html)|`2026-08-12 19:03:00`|`Anti-Cheat Bypass`|
