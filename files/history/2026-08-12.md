@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-12 18:41:00`|`Valorant`|
+|[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-12 18:34:00`|`Counter-Strike 2 Releases`|
+|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-12 18:32:00`|`Valorant`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-08-12 18:31:00`|`DayZ SA`|
+|[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-08-12 18:31:00`|`HELLDIVERS 2`|
+|[Kernel Dispatch Monitor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766938-kernel-dispatch-monitor.html)|`2026-08-12 18:13:00`|`Anti-Cheat Bypass`|
 |[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-08-12 17:33:00`|`Other MMORPG and Strategy`|
 |[Stealth Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764687-stealth-injector.html)|`2026-08-12 17:33:00`|`General Programming and Reversing`|
 |[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-08-12 17:30:00`|`Other MMORPG and Strategy`|
