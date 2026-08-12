@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex legends jitter aim pixel Razer synapse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766829-apex-legends-jitter-aim-pixel-razer-synapse.html)|`2026-08-12 11:04:00`|`Apex Legends`|
+|[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-08-12 11:04:00`|`Call of Duty: Black Ops 7`|
+|[Combat Master internal &#43; Unlocker by y8x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766905-combat-master-internal-unlocker-y8x.html)|`2026-08-12 11:01:00`|`Combat Master`|
+|[Latest partner depot &#40;March 2019 &#124; PANORAMA &#33;&#33;&#33;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/766576-partner-depot-march-2019-panorama.html)|`2026-08-12 10:58:00`|`Counterstrike Global Offensive`|
+|[PostMessage blocked&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762290-postmessage-blocked.html)|`2026-08-12 10:54:00`|`Valorant`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-12 10:48:00`|`Other FPS Games`|
 |[i want to play&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766761-play.html)|`2026-08-12 08:40:00`|`Valorant`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-12 08:34:00`|`Escape from Tarkov`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-12 08:16:00`|`Marvel Rivals`|
