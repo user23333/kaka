@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 Smart Recoil Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/750000-r6-smart-recoil-helper.html)|`2026-08-12 19:16:00`|`Rainbow Six Siege`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-08-12 19:05:00`|`Other FPS Games`|
+|[BeLauncherNew Dump &#40;pe&#45;sieve&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766943-belaunchernew-dump-pe-sieve.html)|`2026-08-12 19:03:00`|`Anti-Cheat Bypass`|
+|[EasyAntiCheat&#46;sys Kernel Driver RE &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748063-easyanticheat-sys-kernel-driver-re-rust.html)|`2026-08-12 18:56:00`|`General Programming and Reversing`|
+|[Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/766864-question.html)|`2026-08-12 18:51:00`|`Call of Duty: Black Ops 7`|
+|[CS2 VacNet Button Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766844-cs2-vacnet-button-revealer.html)|`2026-08-12 18:48:00`|`Counter-Strike 2`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-12 18:41:00`|`Valorant`|
 |[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-12 18:34:00`|`Counter-Strike 2 Releases`|
 |[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-12 18:32:00`|`Valorant`|
