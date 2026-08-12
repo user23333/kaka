@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-12 15:43:00`|`Counter-Strike 2`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-12 15:36:00`|`Palworld`|
+|[Any pypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766862-pypass.html)|`2026-08-12 15:35:00`|`Tom Clancy's The Division`|
+|[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-12 15:18:00`|`Other MMORPG and Strategy`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-12 15:17:00`|`Grand Theft Auto V`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-12 14:59:00`|`Rust`|
+|[Stop Using UWorld Decrypt — Get World Through GEngine Instead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/762249-stop-using-uworld-decrypt-world-gengine-instead.html)|`2026-08-12 14:58:00`|`Unreal Engine 4`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-12 13:50:00`|`Counter-Strike 2`|
 |[Meccha Chameleon Glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765938-meccha-chameleon-glitch.html)|`2026-08-12 13:44:00`|`Other Games`|
 |[Is there a way to store a Raiju or an Akula or a Hangar Aircraft on the MOC Storage?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766818-store-raiju-akula-hangar-aircraft-moc-storage.html)|`2026-08-12 13:36:00`|`Grand Theft Auto V`|
