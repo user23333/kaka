@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-08-12 17:33:00`|`Other MMORPG and Strategy`|
+|[Stealth Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764687-stealth-injector.html)|`2026-08-12 17:33:00`|`General Programming and Reversing`|
+|[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-08-12 17:30:00`|`Other MMORPG and Strategy`|
+|[porting colorbot / triggerbot logic to valorant mobile?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765847-porting-colorbot-triggerbot-logic-valorant-mobile.html)|`2026-08-12 17:26:00`|`Valorant`|
+|[how do i do doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766932-doubletap.html)|`2026-08-12 17:23:00`|`Counter-Strike 2`|
+|[Grand Chase Classic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766933-grand-chase-classic.html)|`2026-08-12 17:16:00`|`Other MMORPG and Strategy`|
 |[Stuck on my Lua Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/766929-stuck-lua-executor.html)|`2026-08-12 16:47:00`|`Roblox`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-12 16:38:00`|`Rainbow Six Siege`|
 |[kernel driver or hardware solution?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766926-kernel-driver-hardware-solution.html)|`2026-08-12 16:37:00`|`Anti-Cheat Bypass`|
