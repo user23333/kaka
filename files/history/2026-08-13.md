@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-13 22:08:00`|`Rainbow Six Siege`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-08-13 22:06:00`|`Call of Duty: Black Ops 3`|
+|[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-13 22:02:00`|`Rust`|
+|[controller support with cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767120-controller-support-cheats.html)|`2026-08-13 21:57:00`|`Rainbow Six Siege`|
 |[Black Ops 3 PS4 &#40;SPRX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/766622-black-ops-3-ps4-sprx.html)|`2026-08-13 20:50:00`|`Call of Duty: Black Ops 3`|
 |[External For CSGO 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/744036-external-csgo-2026-a.html)|`2026-08-13 20:47:00`|`Counterstrike Global Offensive`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-13 20:46:00`|`Apex Legends`|
