@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-08-13 14:13:00`|`Other MMORPG and Strategy`|
+|[how do i do auto scope?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767071-auto-scope.html)|`2026-08-13 14:07:00`|`Counter-Strike 2`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-13 14:03:00`|`Valorant`|
+|[How to starting modding in gta online &#40;enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767008-starting-modding-gta-online-enhanced.html)|`2026-08-13 13:54:00`|`Grand Theft Auto V`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-13 12:48:00`|`Other FPS Games`|
 |[Arena Breakout Infinite Elma V1 ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755606-arena-breakout-infinite-elma-v1-esp-dma.html)|`2026-08-13 12:38:00`|`Other FPS Games`|
 |[Auto&#45;Parry &#91; Help Needed &#93; :v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/766876-auto-parry-help.html)|`2026-08-13 12:36:00`|`Deadlock`|
