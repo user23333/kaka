@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to avoid 429 and switching accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765660-avoid-429-switching-accounts.html)|`2026-08-13 11:13:00`|`Valorant`|
+|[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-13 11:12:00`|`Anti-Cheat Bypass`|
+|[auth&#43;access 200, session holds ~25&#45;30min then get VAN&#45;102, stuck on tasks/modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767031-auth-access-200-session-holds-25-30min-van-102-stuck-tasks-modules.html)|`2026-08-13 11:12:00`|`Valorant`|
+|[AUTH&#43;ACCESS 200](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766843-auth-access-200-a.html)|`2026-08-13 11:07:00`|`Valorant`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-08-13 11:05:00`|`League of Legends`|
+|[Vanguard emu full source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766076-vanguard-emu-source-code.html)|`2026-08-13 11:04:00`|`Valorant`|
+|[Viewmodel bobbing removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767019-viewmodel-bobbing-removal.html)|`2026-08-13 10:59:00`|`Counter-Strike 2`|
 |[GTA V Ultimate Trainer 2026 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/765672-gta-ultimate-trainer-2026-1-0-a.html)|`2026-08-13 08:47:00`|`Grand Theft Auto V`|
 |[My Farming Guide CT &#43; SC Farming AutoIt macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/754114-farming-guide-ct-sc-farming-autoit-macro.html)|`2026-08-13 08:43:00`|`HELLDIVERS 2`|
 |[fivem external Undetected anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766865-fivem-external-undetected-anticheat.html)|`2026-08-13 08:37:00`|`Alternative Online Mods`|
