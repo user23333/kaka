@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-14 05:23:00`|`Escape from Tarkov`|
+|[serenity destiny 2 dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766049-serenity-destiny-2-dma.html)|`2026-08-14 05:13:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-14 04:59:00`|`Other FPS Games`|
+|[VANGUARD LATEST RSA KEYS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766227-vanguard-rsa-keys.html)|`2026-08-14 04:57:00`|`Valorant`|
 |[BattlEye BEDaisy&#46;sys – looking for recent kernel driver dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767188-battleye-bedaisy-sys-looking-recent-kernel-driver-dump.html)|`2026-08-14 04:37:00`|`Anti-Cheat Bypass`|
 |[detect&#46;ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767187-detect-ac.html)|`2026-08-14 04:31:00`|`Alternative Online Mods`|
 |[DVAR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/766380-dvar.html)|`2026-08-14 04:31:00`|`Call of Duty: Black Ops 7`|
