@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766058-bhop-macro.html)|`2026-08-14 07:16:00`|`Marvel Rivals`|
+|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-14 07:15:00`|`Valorant`|
+|[VALORANT Emulator Tasks and Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765522-valorant-emulator-tasks-modules.html)|`2026-08-14 07:15:00`|`Valorant`|
+|[What age did you find Games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/707599-age-games.html)|`2026-08-14 07:14:00`|`Off Topic`|
+|[Downloading CS2 Cheat, MalwareBytes flagged certain file type](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/766835-downloading-cs2-cheat-malwarebytes-flagged-file-type.html)|`2026-08-14 07:07:00`|`Introductions`|
+|[WINNERZ EXTERNAL &#91;AUTO UPDATE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767149-winnerz-external-auto-update.html)|`2026-08-14 07:06:00`|`Overwatch`|
+|[Extending Emulator Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767201-extending-emulator-session.html)|`2026-08-14 07:06:00`|`Valorant`|
 |[How to get perfect object collision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766555-perfect-object-collision.html)|`2026-08-14 06:39:00`|`Valorant`|
 |[how do i do auto scope?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767071-auto-scope.html)|`2026-08-14 06:28:00`|`Counter-Strike 2`|
 |[FiveM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766787-fivem-dma.html)|`2026-08-14 06:19:00`|`Alternative Online Mods`|
