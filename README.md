@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-13 12:48:00`|`Other FPS Games`|
+|[Arena Breakout Infinite Elma V1 ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755606-arena-breakout-infinite-elma-v1-esp-dma.html)|`2026-08-13 12:38:00`|`Other FPS Games`|
+|[Auto&#45;Parry &#91; Help Needed &#93; :v](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/766876-auto-parry-help.html)|`2026-08-13 12:36:00`|`Deadlock`|
+|[has anyone got an extremely simple esp that wont get me banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767018-extremely-simple-esp-wont-banned.html)|`2026-08-13 12:35:00`|`Rust`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-08-13 12:26:00`|`Rainbow Six Siege`|
 |[How to avoid 429 and switching accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765660-avoid-429-switching-accounts.html)|`2026-08-13 11:13:00`|`Valorant`|
 |[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-13 11:12:00`|`Anti-Cheat Bypass`|
 |[auth&#43;access 200, session holds ~25&#45;30min then get VAN&#45;102, stuck on tasks/modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767031-auth-access-200-session-holds-25-30min-van-102-stuck-tasks-modules.html)|`2026-08-13 11:12:00`|`Valorant`|
