@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Learning C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/752910-learning.html)|`2026-08-14 20:32:00`|`Off Topic`|
+|[Need help removing or reducing grenade sound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/766982-help-removing-reducing-grenade-sound.html)|`2026-08-14 20:31:00`|`Battlefield 2`|
+|[World Of Eggs:Idle Adventures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765624-world-eggs-idle-adventures.html)|`2026-08-14 20:20:00`|`Other MMORPG and Strategy`|
+|[COMBAT MASTER AIMBOT &#40;By ytx&#41; latest game version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766517-combat-master-aimbot-ytx-game-version.html)|`2026-08-14 19:55:00`|`Combat Master`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-08-14 19:54:00`|`DayZ SA`|
 |[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-08-14 19:48:00`|`Palworld`|
 |[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-08-14 19:43:00`|`Elite: Dangerous`|
