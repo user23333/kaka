@@ -13,6 +13,7 @@
 |19|[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-14 00:07:18`|`anti-cheat-bypass`|
 |16|[How is BattleEye making the physical reading fail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766384-battleeye-physical-reading-fail.html)|`2026-08-14 02:02:53`|`anti-cheat-bypass`|
 |2|[EAC &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766157-eac-tpm.html)|`2026-08-14 04:38:24`|`anti-cheat-bypass`|
+|6|[Valorant Yolo11n Model &#43; Weights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766233-valorant-yolo11n-model-weights.html)|`2026-08-14 08:09:16`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-14 08:02:00`|`Valorant`|
+|[dropped items esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767200-dropped-items-esp.html)|`2026-08-14 07:53:00`|`Counter-Strike 2`|
+|[The Mound: Omen of Cthulhu Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/765603-mound-omen-cthulhu-internal.html)|`2026-08-14 07:50:00`|`Other Single Player Games`|
+|[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-14 07:44:00`|`Other MMORPG and Strategy`|
+|[Arena Breakout Infinite Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766188-arena-breakout-infinite-cheat.html)|`2026-08-14 07:44:00`|`Other FPS Games`|
 |[Bhop macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766058-bhop-macro.html)|`2026-08-14 07:16:00`|`Marvel Rivals`|
 |[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-14 07:15:00`|`Valorant`|
 |[VALORANT Emulator Tasks and Modules](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765522-valorant-emulator-tasks-modules.html)|`2026-08-14 07:15:00`|`Valorant`|
