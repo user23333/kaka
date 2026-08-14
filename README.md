@@ -14,6 +14,7 @@
 |16|[How is BattleEye making the physical reading fail?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766384-battleeye-physical-reading-fail.html)|`2026-08-14 02:02:53`|`anti-cheat-bypass`|
 |2|[EAC &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766157-eac-tpm.html)|`2026-08-14 04:38:24`|`anti-cheat-bypass`|
 |6|[Valorant Yolo11n Model &#43; Weights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766233-valorant-yolo11n-model-weights.html)|`2026-08-14 08:09:16`|`valorant`|
+|15|[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766531-anti-cheats-boot-integrity.html)|`2026-08-14 10:40:16`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-14 10:36:00`|`Alternative Online Mods`|
+|[Modders on Public lobbies with BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767213-modders-public-lobbies.html)|`2026-08-14 10:36:00`|`Grand Theft Auto V`|
+|[CPoints modifier &#40;get/set in&#45;game currency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766890-cpoints-modifier-set-game-currency.html)|`2026-08-14 10:15:00`|`Combat Master`|
+|[anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767076-anti-aim.html)|`2026-08-14 10:09:00`|`Counter-Strike 2`|
+|[Fov changer &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767211-fov-changer-external.html)|`2026-08-14 10:03:00`|`Rust`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-08-14 10:02:00`|`League of Legends`|
 |[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-14 08:02:00`|`Valorant`|
 |[dropped items esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767200-dropped-items-esp.html)|`2026-08-14 07:53:00`|`Counter-Strike 2`|
 |[The Mound: Omen of Cthulhu Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/765603-mound-omen-cthulhu-internal.html)|`2026-08-14 07:50:00`|`Other Single Player Games`|
