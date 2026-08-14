@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766531-anti-cheats-boot-integrity.html)|`2026-08-14 19:10:00`|`Anti-Cheat Bypass`|
+|[how to dump vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767267-dump-vanguard.html)|`2026-08-14 19:10:00`|`Valorant`|
+|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-14 19:02:00`|`Other MMORPG and Strategy`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-08-14 19:00:00`|`ARMA 3`|
+|[cheat that allow change armor stats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/767263-cheat-allow-change-armor-stats.html)|`2026-08-14 18:47:00`|`Escape from Tarkov`|
 |[How to make dead body immediately dissapear](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767129-dead-body-immediately-dissapear.html)|`2026-08-14 18:24:00`|`Counter-Strike 2`|
 |[delay ban after 1 report](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767258-delay-ban-1-report.html)|`2026-08-14 18:21:00`|`Valorant`|
 |[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-14 18:21:00`|`Valorant`|
