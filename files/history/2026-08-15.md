@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XBOX E&#45;Day DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767339-xbox-day-dma-release.html)|`2026-08-15 07:45:00`|`Other FPS Games`|
 |[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-15 07:20:00`|`Overwatch`|
 |[I'm a newbie and I want to know how to bypass GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767338-im-newbie-bypass-gg.html)|`2026-08-15 07:09:00`|`HELLDIVERS 2`|
 |[FRAGPUNK, Unreal Engine 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/766770-fragpunk-unreal-engine-4-a.html)|`2026-08-15 06:58:00`|`Unreal Engine 4`|
