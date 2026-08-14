@@ -15,6 +15,7 @@
 |2|[EAC &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766157-eac-tpm.html)|`2026-08-14 04:38:24`|`anti-cheat-bypass`|
 |6|[Valorant Yolo11n Model &#43; Weights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766233-valorant-yolo11n-model-weights.html)|`2026-08-14 08:09:16`|`valorant`|
 |15|[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766531-anti-cheats-boot-integrity.html)|`2026-08-14 10:40:16`|`anti-cheat-bypass`|
+|19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-14 21:57:37`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-08-14 21:50:00`|`Other FPS Games`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-08-14 21:47:00`|`Other FPS Games`|
+|[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-14 21:43:00`|`Rust`|
+|[External gadget/drone ESP &#45; where does the ptr chain start?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767278-external-gadget-drone-esp-ptr-chain-start.html)|`2026-08-14 21:36:00`|`Rainbow Six Siege`|
+|[ABI / ACE Anticheat &#45; What exact HWIDs are flagged? Looking for permanent manual spo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/753367-abi-ace-anticheat-exact-hwids-flagged-looking-permanent-manual-spo.html)|`2026-08-14 21:32:00`|`Anti-Cheat Bypass`|
+|[Hell Let Loose &#45; Simple ESP DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763556-hell-loose-simple-esp-dll.html)|`2026-08-14 21:31:00`|`Other FPS Games`|
 |[Learning C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/752910-learning.html)|`2026-08-14 20:32:00`|`Off Topic`|
 |[Need help removing or reducing grenade sound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/766982-help-removing-reducing-grenade-sound.html)|`2026-08-14 20:31:00`|`Battlefield 2`|
 |[World Of Eggs:Idle Adventures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/765624-world-eggs-idle-adventures.html)|`2026-08-14 20:20:00`|`Other MMORPG and Strategy`|
