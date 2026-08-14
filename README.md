@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-08-14 12:14:00`|`Grand Theft Auto V`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-08-14 12:12:00`|`Call of Duty: Black Ops 3`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-14 12:04:00`|`Counter-Strike 2 Releases`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-14 11:56:00`|`Other Games`|
 |[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-14 10:36:00`|`Alternative Online Mods`|
 |[Modders on Public lobbies with BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767213-modders-public-lobbies.html)|`2026-08-14 10:36:00`|`Grand Theft Auto V`|
 |[CPoints modifier &#40;get/set in&#45;game currency&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766890-cpoints-modifier-set-game-currency.html)|`2026-08-14 10:15:00`|`Combat Master`|
