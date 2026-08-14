@@ -11,6 +11,7 @@
 |7|[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-15 00:25:52`|`anti-cheat-bypass`|
 |19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-15 00:25:52`|`counter-strike-2-a`|
 |6|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-15 00:25:52`|`rainbow-six-siege`|
+|5|[easy&#45;ac&#46;pem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766619-easy-ac-pem.html)|`2026-08-15 01:22:52`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TempleWare Rewrite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/766278-templeware-rewrite.html)|`2026-08-15 01:19:00`|`Counter-Strike 2 Releases`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-15 01:18:00`|`Apex Legends`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-15 01:14:00`|`HELLDIVERS 2`|
+|[Custom 3d models externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767162-custom-3d-models-externally.html)|`2026-08-15 01:14:00`|`Rust`|
+|[hooking ResizeBuffers crashes NO MATTER WHAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766997-hooking-resizebuffers-crashes-matter.html)|`2026-08-15 01:13:00`|`Counter-Strike 2`|
+|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-08-15 01:12:00`|`Counter-Strike 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-15 01:12:00`|`Tom Clancy's The Division`|
+|[Script Source Code for 16&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766397-script-source-code-16-15-a.html)|`2026-08-15 01:08:00`|`League of Legends`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-15 01:07:00`|`Valorant`|
+|[Extending Emulator Session](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767201-extending-emulator-session.html)|`2026-08-15 01:05:00`|`Valorant`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-15 00:22:00`|`Escape from Tarkov`|
 |[how do i do auto scope?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767071-auto-scope.html)|`2026-08-15 00:20:00`|`Counter-Strike 2`|
 |[material id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767291-material-id.html)|`2026-08-15 00:20:00`|`Rust`|
