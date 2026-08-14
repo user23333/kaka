@@ -16,6 +16,7 @@
 |6|[Valorant Yolo11n Model &#43; Weights](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766233-valorant-yolo11n-model-weights.html)|`2026-08-14 08:09:16`|`valorant`|
 |15|[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766531-anti-cheats-boot-integrity.html)|`2026-08-14 10:40:16`|`anti-cheat-bypass`|
 |19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-14 21:57:37`|`counter-strike-2-a`|
+|7|[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-14 22:45:17`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2026-08-14 22:45:00`|`ARMA 3`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-08-14 22:41:00`|`Other FPS Games`|
+|[All I want is to teleport&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766115-teleport.html)|`2026-08-14 22:39:00`|`Grand Theft Auto V`|
+|[Lame osu&#33;lazer updated offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766337-lame-osu-lazer-updated-offsets.html)|`2026-08-14 22:33:00`|`Other Games`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-08-14 22:21:00`|`Call of Duty: Black Ops Cold War`|
 |[Hell Let Loose ESP DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717316-hell-loose-esp-dma.html)|`2026-08-14 21:50:00`|`Other FPS Games`|
 |[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-08-14 21:47:00`|`Other FPS Games`|
 |[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-14 21:43:00`|`Rust`|
