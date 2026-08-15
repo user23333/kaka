@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[C&#43;&#43; Loader &#45; License Authentication Implementation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/761965-loader-license-authentication-implementation.html)|`2026-08-15 07:53:00`|`C and C++`|
+|[rust external &#40;with ud driver&#41; LEAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763957-rust-external-ud-driver-leak.html)|`2026-08-15 07:51:00`|`Rust`|
+|[Self and Walls Opacity &#40;Game Fade&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767143-self-walls-opacity-game-fade.html)|`2026-08-15 07:51:00`|`Deadlock`|
+|[Methods On Protecting Loaders in the Big 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/765048-methods-protecting-loaders-26-a.html)|`2026-08-15 07:49:00`|`C and C++`|
+|[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-15 07:48:00`|`Anti-Cheat Bypass`|
 |[XBOX E&#45;Day DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767339-xbox-day-dma-release.html)|`2026-08-15 07:45:00`|`Other FPS Games`|
 |[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-15 07:20:00`|`Overwatch`|
 |[I'm a newbie and I want to know how to bypass GG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767338-im-newbie-bypass-gg.html)|`2026-08-15 07:09:00`|`HELLDIVERS 2`|
