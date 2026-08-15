@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2026-08-15 15:21:00`|`Grand Theft Auto V`|
+|[script to change outfits for other players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767376-script-change-outfits-players.html)|`2026-08-15 15:15:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-15 15:14:00`|`Other MMORPG and Strategy`|
+|[&#91; External &#93; SPT&#45;AKI MinimalCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/767372-external-spt-aki-minimalcheat.html)|`2026-08-15 15:04:00`|`Escape from Tarkov`|
+|[Nuclear Option Trainer — 20&#43; Features &#124; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/739839-nuclear-option-trainer-20-features-bepinex.html)|`2026-08-15 15:01:00`|`Other Games`|
 |[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-08-15 14:49:00`|`Tom Clancy's The Division`|
 |[Brawlhalla offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764903-brawlhalla-offsets.html)|`2026-08-15 14:46:00`|`Other Games`|
 |[Fov changer &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767211-fov-changer-external.html)|`2026-08-15 14:19:00`|`Rust`|
