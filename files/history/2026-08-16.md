@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Free FiveM DMA ESP / Aimbot / Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740882-free-fivem-dma-esp-aimbot-web-radar.html)|`2026-08-16 03:31:00`|`Alternative Online Mods`|
+|[Verox FiveM &#91;Enhanced&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765046-verox-fivem-enhanced.html)|`2026-08-16 03:25:00`|`Alternative Online Mods`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-08-16 03:21:00`|`Valorant`|
+|[Injection fails when I switch accounts&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767272-injection-fails-switch-accounts.html)|`2026-08-16 03:17:00`|`Counter-Strike 2`|
+|[What is the best device to clone for DMA card?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767413-device-clone-dma-card.html)|`2026-08-16 03:16:00`|`Rust`|
+|[backtrack chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767399-backtrack-chams.html)|`2026-08-16 03:13:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-16 03:13:00`|`Overwatch`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-16 02:58:00`|`Other FPS Games`|
 |[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766878-mouse-driver-example-signed-microsoft.html)|`2026-08-16 02:57:00`|`Anti-Cheat Bypass`|
 |[Self and Walls Opacity &#40;Game Fade&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767143-self-walls-opacity-game-fade.html)|`2026-08-16 02:44:00`|`Deadlock`|
