@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-08-15 14:49:00`|`Tom Clancy's The Division`|
+|[Brawlhalla offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764903-brawlhalla-offsets.html)|`2026-08-15 14:46:00`|`Other Games`|
+|[Fov changer &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767211-fov-changer-external.html)|`2026-08-15 14:19:00`|`Rust`|
+|[Unsure about ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766920-unsure-ban.html)|`2026-08-15 14:18:00`|`Rust`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-15 14:11:00`|`Sea of Thieves`|
 |[I shared the CE code through the forum and created a bypass program&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755711-shared-ce-code-forum-created-bypass-program.html)|`2026-08-15 13:47:00`|`HELLDIVERS 2`|
 |[Crasher Editor &#91;Castle Crasher&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767368-crasher-editor-castle-crasher.html)|`2026-08-15 13:45:00`|`Other Games`|
