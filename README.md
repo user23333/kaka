@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-16 00:39:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-16 00:39:00`|`Call of Duty: Black Ops 7`|
+|[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-16 00:35:00`|`Valorant`|
+|[hooking ResizeBuffers crashes NO MATTER WHAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766997-hooking-resizebuffers-crashes-matter.html)|`2026-08-16 00:31:00`|`Counter-Strike 2`|
+|[Fov changer &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767211-fov-changer-external.html)|`2026-08-16 00:28:00`|`Rust`|
+|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-16 00:27:00`|`Other MMORPG and Strategy`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-16 00:27:00`|`Palworld`|
+|[cs2 perfomance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767363-cs2-perfomance.html)|`2026-08-16 00:23:00`|`Counter-Strike 2`|
+|[how to customize sheen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/656152-customize-sheen.html)|`2026-08-16 00:16:00`|`Team Fortress 2`|
 |[Silent AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767405-silent-aim.html)|`2026-08-16 00:10:00`|`Rust`|
 |[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-08-16 00:08:00`|`Other MMORPG and Strategy`|
 |[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-08-16 00:05:00`|`Other FPS Games`|
