@@ -12,6 +12,7 @@
 |19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-16 00:13:44`|`counter-strike-2-a`|
 |5|[easy&#45;ac&#46;pem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766619-easy-ac-pem.html)|`2026-08-16 00:13:44`|`anti-cheat-bypass`|
 |14|[Tested SC Farming for new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767138-tested-sc-farming-update.html)|`2026-08-16 03:46:00`|`helldivers-2-a`|
+|35|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-16 05:58:04`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-16 05:48:00`|`Call of Duty: Black Ops Cold War`|
 |[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2026-08-16 05:29:00`|`Sea of Thieves`|
 |[Has anyone gotten anywhere with cooldown avoiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/764709-gotten-cooldown-avoiding.html)|`2026-08-16 05:14:00`|`Age of Empires`|
 |[&#91; Funnel Runners / StormEscape &#93; Internal Trainer — ESP &#43; Movement/Defensive Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763313-funnel-runners-stormescape-internal-trainer-esp-movement-defensive-exploits.html)|`2026-08-16 05:13:00`|`Other Games`|
