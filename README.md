@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTAHaX for 1&#46;70 &#91;External&#93; &#91;Thread 3&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/461672-gtahax-1-70-external-thread-3-a.html)|`2026-08-15 13:01:00`|`Grand Theft Auto V`|
+|[can i use scylla to dump ow ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765119-scylla-dump-ow.html)|`2026-08-15 12:55:00`|`Overwatch`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-08-15 12:42:00`|`Paladins`|
 |[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-15 12:41:00`|`Paladins`|
 |[&#91;Reverse Engineering&#93; Club MStar / VFUN 2026 Client Structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766955-reverse-engineering-club-mstar-vfun-2026-client-structure.html)|`2026-08-15 12:29:00`|`General Programming and Reversing`|
