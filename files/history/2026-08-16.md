@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Self and Walls Opacity &#40;Game Fade&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767143-self-walls-opacity-game-fade.html)|`2026-08-16 02:44:00`|`Deadlock`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-08-16 02:43:00`|`Escape from Tarkov`|
+|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-16 02:36:00`|`Other MMORPG and Strategy`|
+|[External Release &#43; Source &#124; Koio Client w/ Auto Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765410-external-release-source-koio-client-auto-offsets.html)|`2026-08-16 02:33:00`|`Roblox`|
+|[sv&#95;quantize&#95;movement&#95;input autostrafer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766640-sv_quantize_movement_input-autostrafer.html)|`2026-08-16 02:30:00`|`Counter-Strike 2`|
+|[Pixel Surf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766913-pixel-surf.html)|`2026-08-16 02:30:00`|`Counter-Strike 2`|
 |[Astral loader &#40;remake&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767179-astral-loader-remake.html)|`2026-08-16 02:28:00`|`Counter-Strike 2`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-16 02:27:00`|`Overwatch`|
 |[Hell Let Loose: Vietnam Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749633-hell-loose-vietnam-reversal-structs-offsets.html)|`2026-08-16 02:14:00`|`Other FPS Games`|
