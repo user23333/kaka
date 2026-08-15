@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Azure and Rico work's for Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760164-azure-rico-attestation.html)|`2026-08-15 22:59:00`|`Call of Duty: Black Ops 7`|
+|[Rust Recoil Macro Tables 2026 &#91;Makcu/ESP/DMA/Anything&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762129-rust-recoil-macro-tables-2026-makcu-esp-dma.html)|`2026-08-15 22:53:00`|`Rust`|
 |[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-08-15 22:40:00`|`Other FPS Games`|
 |[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-15 22:37:00`|`Valorant`|
 |[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-08-15 22:35:00`|`Marvel Rivals`|
