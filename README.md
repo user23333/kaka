@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-15 21:35:00`|`Tom Clancy's The Division`|
+|[Mordhau MultiTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765431-mordhau-multitool.html)|`2026-08-15 21:31:00`|`Other FPS Games`|
+|[DMA &#43; HWID BAN ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764228-dma-hwid-ban.html)|`2026-08-15 21:15:00`|`Call of Duty: Black Ops 7`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-15 21:06:00`|`Palworld`|
 |[Rust get steam id on atlas servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767402-rust-steam-id-atlas-servers.html)|`2026-08-15 20:58:00`|`Rust`|
 |[FiveM Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767401-fivem-internal-injector.html)|`2026-08-15 20:35:00`|`Alternative Online Mods`|
