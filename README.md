@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Adafruit Feather RP2040 USB Host HID Mouse Bridge with TinyUSB &#43; Lua 5&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759880-adafruit-feather-rp2040-usb-host-hid-mouse-bridge-tinyusb-lua-5-4-a.html)|`2026-08-15 19:35:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-08-15 19:24:00`|`Other FPS Games`|
 |[Any pypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766862-pypass.html)|`2026-08-15 19:13:00`|`Tom Clancy's The Division`|
 |[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-15 19:08:00`|`Other MMORPG and Strategy`|
