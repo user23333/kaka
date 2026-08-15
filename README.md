@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-08-15 23:43:00`|`Counter-Strike 2 Releases`|
+|[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-08-15 23:43:00`|`Valorant`|
+|[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-08-15 23:38:00`|`DayZ SA`|
+|[Verox FiveM &#91;Enhanced&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765046-verox-fivem-enhanced.html)|`2026-08-15 23:37:00`|`Alternative Online Mods`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-08-15 23:27:00`|`Other FPS Games`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-08-15 23:20:00`|`Rainbow Six Siege`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-15 23:10:00`|`Other FPS Games`|
