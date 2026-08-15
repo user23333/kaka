@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2026-08-16 05:29:00`|`Sea of Thieves`|
+|[Has anyone gotten anywhere with cooldown avoiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/764709-gotten-cooldown-avoiding.html)|`2026-08-16 05:14:00`|`Age of Empires`|
+|[&#91; Funnel Runners / StormEscape &#93; Internal Trainer — ESP &#43; Movement/Defensive Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763313-funnel-runners-stormescape-internal-trainer-esp-movement-defensive-exploits.html)|`2026-08-16 05:13:00`|`Other Games`|
+|[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-08-16 05:11:00`|`Valorant`|
+|[Maplestory Idle rpg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767451-maplestory-idle-rpg.html)|`2026-08-16 05:08:00`|`Other MMORPG and Strategy`|
 |[Friday the 13th &#45; Camp Forest Green](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705749-friday-13th-camp-forest-green.html)|`2026-08-16 05:07:00`|`Other Games`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-08-16 05:06:00`|`Other FPS Games`|
 |[apbemu 2026 update lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/765629-apbemu-2026-update-lol.html)|`2026-08-16 04:58:00`|`All Points Bulletin`|
