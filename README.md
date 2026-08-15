@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAN/VAL &#45;79 Error Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767231-van-val-79-error-ban.html)|`2026-08-16 01:12:00`|`Valorant`|
+|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-16 01:11:00`|`Valorant`|
+|[Can i play in online lobbys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767381-play-online-lobbys.html)|`2026-08-16 01:03:00`|`Grand Theft Auto V`|
+|[lame&#45;osu a simple osu&#33; external base compatible with osu&#33; stable and lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754488-lame-osu-simple-osu-external-base-compatible-osu-stable-lazer.html)|`2026-08-16 01:02:00`|`Other Games`|
+|[ragebot hideshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767362-ragebot-hideshots.html)|`2026-08-16 01:00:00`|`Counter-Strike 2`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-16 00:56:00`|`HELLDIVERS 2`|
 |[fivem lua executor problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767423-fivem-lua-executor.html)|`2026-08-16 00:55:00`|`Alternative Online Mods`|
 |[World War Legion &#45; Il2Cpp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767422-world-war-legion-il2cpp-dump.html)|`2026-08-16 00:52:00`|`Other FPS Games`|
