@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-08-15 19:24:00`|`Other FPS Games`|
+|[Any pypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766862-pypass.html)|`2026-08-15 19:13:00`|`Tom Clancy's The Division`|
 |[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-15 19:08:00`|`Other MMORPG and Strategy`|
 |[Combat Master internal &#43; Unlocker by y8x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766905-combat-master-internal-unlocker-y8x.html)|`2026-08-15 19:07:00`|`Combat Master`|
 |[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-08-15 18:28:00`|`Other Games`|
