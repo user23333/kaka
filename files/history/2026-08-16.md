@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-16 00:56:00`|`HELLDIVERS 2`|
+|[fivem lua executor problem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767423-fivem-lua-executor.html)|`2026-08-16 00:55:00`|`Alternative Online Mods`|
+|[World War Legion &#45; Il2Cpp Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767422-world-war-legion-il2cpp-dump.html)|`2026-08-16 00:52:00`|`Other FPS Games`|
+|[USB Phantom Protocol &#45; Camouflage Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767356-usb-phantom-protocol-camouflage-cheats.html)|`2026-08-16 00:52:00`|`Anti-Cheat Bypass`|
+|[how do i do doubletap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766932-doubletap.html)|`2026-08-16 00:52:00`|`Counter-Strike 2`|
+|[CS2 desync keeps local viewmodel spazzing&#40;cmd viewangles fake, camera pinned real&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767333-cs2-desync-local-viewmodel-spazzing-cmd-viewangles-fake-camera-pinned-real.html)|`2026-08-16 00:51:00`|`Counter-Strike 2`|
+|[FiveM Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767401-fivem-internal-injector.html)|`2026-08-16 00:49:00`|`Alternative Online Mods`|
+|[Andromeda base prediction?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767337-andromeda-base-prediction.html)|`2026-08-16 00:47:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-16 00:39:00`|`Other FPS Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-16 00:39:00`|`Call of Duty: Black Ops 7`|
 |[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-16 00:35:00`|`Valorant`|
