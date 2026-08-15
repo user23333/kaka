@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Friday the 13th &#45; Camp Forest Green](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/705749-friday-13th-camp-forest-green.html)|`2026-08-16 05:07:00`|`Other Games`|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-08-16 05:06:00`|`Other FPS Games`|
+|[apbemu 2026 update lol](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/765629-apbemu-2026-update-lol.html)|`2026-08-16 04:58:00`|`All Points Bulletin`|
 |[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-16 04:46:00`|`Rust`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-16 04:46:00`|`Apex Legends`|
 |[Weapon Held Issue BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/758452-weapon-held-issue-bo7.html)|`2026-08-16 04:43:00`|`Call of Duty: Black Ops 7`|
