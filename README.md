@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-08-15 16:29:00`|`Palworld`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-15 16:04:00`|`Grand Theft Auto V`|
 |[How to do unlock all for BO2 PS4/PS5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/762087-unlock-bo2-ps4-ps5.html)|`2026-08-15 15:33:00`|`Call of Duty: Black Ops 2`|
 |[Skinchnager &#40;LiveTime mods selector&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767379-skinchnager-livetime-mods-selector.html)|`2026-08-15 15:27:00`|`Deadlock`|
 |[WebViewer Overlay, good for Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767022-webviewer-overlay-web-radar.html)|`2026-08-15 15:25:00`|`Counter-Strike 2`|
