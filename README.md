@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-15 14:11:00`|`Sea of Thieves`|
 |[I shared the CE code through the forum and created a bypass program&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755711-shared-ce-code-forum-created-bypass-program.html)|`2026-08-15 13:47:00`|`HELLDIVERS 2`|
 |[Crasher Editor &#91;Castle Crasher&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767368-crasher-editor-castle-crasher.html)|`2026-08-15 13:45:00`|`Other Games`|
 |[Project Zomboid Frikitona Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764617-project-zomboid-frikitona-cheat.html)|`2026-08-15 13:23:00`|`Other MMORPG and Strategy`|
