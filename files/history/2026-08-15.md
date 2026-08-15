@@ -26,6 +26,7 @@
 |302|[Signed Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56880)|`2026-08-15 00:25:52`|
 |29|[HLL steam version ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56877)|`2026-08-15 00:25:52`|
 |20|[glitter&shine&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56876)|`2026-08-15 00:25:52`|
+|0|[EAC UM Module dump august 15 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56952)|`2026-08-15 18:56:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
