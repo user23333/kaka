@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-08-15 12:42:00`|`Paladins`|
+|[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-15 12:41:00`|`Paladins`|
+|[&#91;Reverse Engineering&#93; Club MStar / VFUN 2026 Client Structure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/766955-reverse-engineering-club-mstar-vfun-2026-client-structure.html)|`2026-08-15 12:29:00`|`General Programming and Reversing`|
+|[cs2 perfomance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767363-cs2-perfomance.html)|`2026-08-15 12:17:00`|`Counter-Strike 2`|
 |[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-08-15 12:14:00`|`Other MMORPG and Strategy`|
 |[kernel driver or hardware solution?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766926-kernel-driver-hardware-solution.html)|`2026-08-15 12:12:00`|`Anti-Cheat Bypass`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-15 12:10:00`|`Counter-Strike 2 Releases`|
