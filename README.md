@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Auto strafer fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767460-auto-strafer-fix.html)|`2026-08-16 06:08:00`|`Counter-Strike 2`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-16 06:06:00`|`Rainbow Six Siege`|
+|[Calling R&#95;AddCmdDrawStretchPic More than once in my FPS hook causes game to hang](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/767459-calling-r_addcmddrawstretchpic-fps-hook-causes-game-hang.html)|`2026-08-16 06:01:00`|`Call of Duty: Black Ops 2`|
+|[Palworld Internal for Steam &#40;support 0&#46;4&#46;14&#46;65422&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/686432-palworld-internal-steam-support-0-4-14-65422-a.html)|`2026-08-16 05:58:00`|`Palworld`|
 |[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-16 05:48:00`|`Call of Duty: Black Ops Cold War`|
 |[Sea of Thieves Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/649766-sea-thieves-spoofer.html)|`2026-08-16 05:29:00`|`Sea of Thieves`|
 |[Has anyone gotten anywhere with cooldown avoiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/764709-gotten-cooldown-avoiding.html)|`2026-08-16 05:14:00`|`Age of Empires`|
