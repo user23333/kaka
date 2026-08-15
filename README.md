@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-08-15 20:17:00`|`ARMA 3`|
+|[Arduino Leonardo Ultimate USB Spoofer &#40;Interactive &#43; Safe&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758938-arduino-leonardo-ultimate-usb-spoofer-interactive-safe.html)|`2026-08-15 20:16:00`|`Valorant`|
+|[backtrack chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767399-backtrack-chams.html)|`2026-08-15 20:14:00`|`Counter-Strike 2`|
+|[Coloured Vissable/NonVissable unreal engine chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767397-coloured-vissable-nonvissable-unreal-engine-chams.html)|`2026-08-15 20:11:00`|`Other FPS Games`|
 |[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-08-15 19:52:00`|`Other Games`|
 |[Adafruit Feather RP2040 USB Host HID Mouse Bridge with TinyUSB &#43; Lua 5&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759880-adafruit-feather-rp2040-usb-host-hid-mouse-bridge-tinyusb-lua-5-4-a.html)|`2026-08-15 19:35:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-08-15 19:24:00`|`Other FPS Games`|
