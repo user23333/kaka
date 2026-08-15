@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to dump kernel vgc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767388-dump-kernel-vgc.html)|`2026-08-15 21:45:00`|`Anti-Cheat Bypass`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-08-15 21:39:00`|`Phasmophobia`|
 |[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-15 21:35:00`|`Tom Clancy's The Division`|
 |[Mordhau MultiTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765431-mordhau-multitool.html)|`2026-08-15 21:31:00`|`Other FPS Games`|
 |[DMA &#43; HWID BAN ???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/764228-dma-hwid-ban.html)|`2026-08-15 21:15:00`|`Call of Duty: Black Ops 7`|
