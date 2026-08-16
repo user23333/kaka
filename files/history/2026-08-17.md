@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Script crashes game after 1&#45;2 minutes in multiplayer match of Age of Empires 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/767510-script-crashes-game-1-2-minutes-multiplayer-match-age-empires-4-a.html)|`2026-08-17 04:10:00`|`Age of Empires`|
+|[Autoblock effective in Gloria Victis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767577-autoblock-effective-gloria-victis.html)|`2026-08-17 04:07:00`|`Other MMORPG and Strategy`|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-17 04:07:00`|`Alternative Online Mods`|
 |[local server vs mm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767576-local-server-vs-mm.html)|`2026-08-17 03:52:00`|`Counter-Strike 2`|
 |[About the agent changer world model jitter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767471-agent-changer-world-model-jitter.html)|`2026-08-17 03:43:00`|`Counter-Strike 2`|
 |[Internal Bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767447-internal-bhop.html)|`2026-08-17 03:42:00`|`Counter-Strike 2`|
