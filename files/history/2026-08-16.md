@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-16 21:56:00`|`Overwatch`|
+|[Experimental/ED Table &#45; Data](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/763411-experimental-ed-table-data.html)|`2026-08-16 21:50:00`|`HELLDIVERS 2`|
 |[September 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/767530-september-2026-motm-nominations.html)|`2026-08-16 21:41:00`|`Member of the Month`|
 |[Intel vs AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/766726-intel-vs-amd.html)|`2026-08-16 21:35:00`|`Forum General`|
 |[Majestic: Obtaining animal coordinates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767325-majestic-obtaining-animal-coordinates.html)|`2026-08-16 21:34:00`|`Alternative Online Mods`|
