@@ -11,6 +11,7 @@
 |25|[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-17 00:04:31`|`rust`|
 |26|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-17 00:04:31`|`other-mmorpg-and-strategy`|
 |14|[Tested SC Farming for new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767138-tested-sc-farming-update.html)|`2026-08-17 00:04:31`|`helldivers-2-a`|
+|19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-17 02:47:01`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-17 02:33:00`|`Overwatch`|
+|[BF6 Javelin zeroing all DMA reads on custom 75T pcileech after ~60s in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/767569-bf6-javelin-zeroing-dma-reads-custom-75t-pcileech-60s-game.html)|`2026-08-17 02:33:00`|`Battlefield 6`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-17 02:31:00`|`Other FPS Games`|
+|[Auto strafer fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767460-auto-strafer-fix.html)|`2026-08-17 02:28:00`|`Counter-Strike 2`|
+|[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-17 02:27:00`|`Tom Clancy's The Division`|
+|[Info by RiotID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/767464-info-riotid.html)|`2026-08-17 02:25:00`|`League of Legends`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-08-17 02:21:00`|`Other MMORPG and Strategy`|
 |[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-08-17 02:12:00`|`League of Legends`|
 |[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-17 02:07:00`|`Anti-Cheat Bypass`|
 |[Weapon Held Issue BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/758452-weapon-held-issue-bo7.html)|`2026-08-17 01:54:00`|`Call of Duty: Black Ops 7`|
