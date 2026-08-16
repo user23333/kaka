@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-17 01:06:00`|`Rust`|
+|[RDR2 Natives Dump External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/767555-rdr2-natives-dump-external.html)|`2026-08-17 01:00:00`|`Red Dead Redemption 2`|
+|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-17 00:56:00`|`Other MMORPG and Strategy`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-17 00:54:00`|`Apex Legends`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-17 00:53:00`|`Valorant`|
 |[SimpleM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740359-simplem-fivem-external-cheat.html)|`2026-08-17 00:48:00`|`Alternative Online Mods`|
 |[Glep &#45; OW2 External &#40;ESP &#43; Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/748888-glep-ow2-external-esp-aimbot.html)|`2026-08-17 00:44:00`|`Overwatch`|
