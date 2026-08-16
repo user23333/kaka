@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FUMES CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/767587-fumes-ct.html)|`2026-08-17 05:12:00`|`Cheat Engine Tables`|
+|[Debugging BattlEye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767586-debugging-battleye.html)|`2026-08-17 05:07:00`|`Anti-Cheat Bypass`|
 |[The strongest Paladins DLL ever made&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/742336-strongest-paladins-dll.html)|`2026-08-17 04:57:00`|`Paladins`|
 |[DMA&#45;Memory&#45;Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767585-dma-memory-editor.html)|`2026-08-17 04:46:00`|`General Programming and Reversing`|
 |[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-17 04:44:00`|`Valorant`|
