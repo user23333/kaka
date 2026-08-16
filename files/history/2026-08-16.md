@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Roblox version&#45;ddf602d9cfe44005 RAYCAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767484-roblox-version-ddf602d9cfe44005-raycast.html)|`2026-08-16 12:21:00`|`Roblox`|
+|[Question about Internal Cheat Memory Access: Are Decryptions Required or Just Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767414-question-internal-cheat-memory-access-decryptions-required-offsets.html)|`2026-08-16 12:04:00`|`Rust`|
 |[vpk parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767482-vpk-parsing.html)|`2026-08-16 11:34:00`|`Counter-Strike 2`|
 |[Custom 3d models externally](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767162-custom-3d-models-externally.html)|`2026-08-16 11:15:00`|`Rust`|
 |[CS2 Anti Aim/Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767443-cs2-anti-aim-spinbot.html)|`2026-08-16 11:11:00`|`Counter-Strike 2`|
