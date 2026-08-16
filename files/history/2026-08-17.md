@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-08-17 06:15:00`|`Other MMORPG and Strategy`|
+|[L4D2 Storm Source &#45; Custom Menu Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/755726-l4d2-storm-source-custom-menu-included.html)|`2026-08-17 06:15:00`|`Half Life`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-17 06:12:00`|`Overwatch`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-08-17 06:09:00`|`Other FPS Games`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-08-17 06:02:00`|`Elite: Dangerous`|
+|[Bloodstrike External &#91;Steam Updated 29/6/26&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759834-bloodstrike-external-steam-updated-29-6-26-a.html)|`2026-08-17 06:01:00`|`Other FPS Games`|
+|[no spread not fully removing spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767597-spread-removing-spread.html)|`2026-08-17 06:01:00`|`Counter-Strike 2`|
 |[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-08-17 05:58:00`|`Other MMORPG and Strategy`|
 |[rust external &#40;with ud driver&#41; LEAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763957-rust-external-ud-driver-leak.html)|`2026-08-17 05:46:00`|`Rust`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-17 05:43:00`|`Rust`|
