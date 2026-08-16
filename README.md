@@ -29,9 +29,16 @@
 |33|[HLL steam version ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56877)|`2026-08-16 00:13:44`|
 |4|[vgc&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56960)|`2026-08-16 01:33:51`|
 |4|[cryptopp&#95;inv&#95;rsa&#46;bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56958)|`2026-08-16 01:33:51`|
+|2|[41040depotUE4Releases410Athena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56896)|`2026-08-16 12:56:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[7 Days To Die Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763460-7-days-die-patch.html)|`2026-08-16 12:48:00`|`Other FPS Games`|
+|[auth/access/hb/type9 ALL 200, session still dies at heartbeat &#35;5 with 401](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767493-auth-access-hb-type9-200-session-dies-heartbeat-5-401-a.html)|`2026-08-16 12:46:00`|`Valorant`|
+|[updated yim menu for legacy &#40;16/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762621-updated-yim-menu-legacy-16-7-2026-a.html)|`2026-08-16 12:43:00`|`Grand Theft Auto V`|
+|[reveal scoreboard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765034-reveal-scoreboard.html)|`2026-08-16 12:40:00`|`Counter-Strike 2`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-16 12:32:00`|`Sea of Thieves`|
+|[Permanently banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767424-permanently-banned.html)|`2026-08-16 12:31:00`|`Grand Theft Auto V`|
 |[Roblox version&#45;ddf602d9cfe44005 RAYCAST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767484-roblox-version-ddf602d9cfe44005-raycast.html)|`2026-08-16 12:21:00`|`Roblox`|
 |[Question about Internal Cheat Memory Access: Are Decryptions Required or Just Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767414-question-internal-cheat-memory-access-decryptions-required-offsets.html)|`2026-08-16 12:04:00`|`Rust`|
 |[vpk parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767482-vpk-parsing.html)|`2026-08-16 11:34:00`|`Counter-Strike 2`|
