@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Magic Bullet and Hitbox Editor detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766073-magic-bullet-hitbox-editor-detected.html)|`2026-08-16 13:42:00`|`Marvel Rivals`|
 |[7 Days To Die Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763460-7-days-die-patch.html)|`2026-08-16 12:48:00`|`Other FPS Games`|
 |[auth/access/hb/type9 ALL 200, session still dies at heartbeat &#35;5 with 401](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767493-auth-access-hb-type9-200-session-dies-heartbeat-5-401-a.html)|`2026-08-16 12:46:00`|`Valorant`|
 |[updated yim menu for legacy &#40;16/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762621-updated-yim-menu-legacy-16-7-2026-a.html)|`2026-08-16 12:43:00`|`Grand Theft Auto V`|
