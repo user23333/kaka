@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-08-16 22:56:00`|`Battlefield 6`|
+|[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-08-16 22:54:00`|`Other FPS Games`|
+|[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2026-08-16 22:52:00`|`Other FPS Games`|
+|[Arena Breakout Infinite Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766188-arena-breakout-infinite-cheat.html)|`2026-08-16 22:48:00`|`Other FPS Games`|
 |[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-08-16 22:41:00`|`General Programming and Reversing`|
 |[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-16 22:38:00`|`Other MMORPG and Strategy`|
 |[Instant Max&#45;Level Account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/767533-instant-max-level-account.html)|`2026-08-16 22:37:00`|`Combat Master`|
