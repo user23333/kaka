@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XBOX E&#45;Day DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767339-xbox-day-dma-release.html)|`2026-08-16 16:30:00`|`Other FPS Games`|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-16 16:15:00`|`Other FPS Games`|
+|[spinbot/anti aim still not working&#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767506-spinbot-anti-aim.html)|`2026-08-16 16:11:00`|`Counter-Strike 2`|
 |[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-08-16 15:54:00`|`Other MMORPG and Strategy`|
 |[internal skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767504-internal-skinchanger.html)|`2026-08-16 15:30:00`|`Counter-Strike 2`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-16 15:22:00`|`Rust`|
