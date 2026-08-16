@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767500-spoof.html)|`2026-08-16 14:53:00`|`Rust`|
 |[TBH: TASK BAR HERO SAVE EDITOR &#45; JSON EXTRACTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759493-tbh-task-bar-hero-save-editor-json-extractor.html)|`2026-08-16 14:45:00`|`Other Games`|
 |[External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/767348-external-base.html)|`2026-08-16 14:18:00`|`Escape from Tarkov`|
 |[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-08-16 14:16:00`|`League of Legends`|
