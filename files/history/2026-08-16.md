@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Corsair Cove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767206-corsair-cove.html)|`2026-08-16 11:04:00`|`Other Games`|
+|[Overlay for faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763993-overlay-faceit.html)|`2026-08-16 11:00:00`|`Anti-Cheat Bypass`|
+|[auth/access/HB/type9 all 200 but session dies at ≈ heartbeat&#35;5 with 401](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767475-auth-access-hb-type9-200-session-dies-heartbeat-5-401-a.html)|`2026-08-16 10:37:00`|`Valorant`|
+|[Weapon Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763445-weapon-features.html)|`2026-08-16 10:36:00`|`Alternative Online Mods`|
+|[Arc Raider Live Radar 2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/767479-arc-raider-live-radar-2-7-a.html)|`2026-08-16 10:35:00`|`ARC Raiders`|
+|[GunZ: The Duel Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767478-gunz-duel-remastered.html)|`2026-08-16 10:29:00`|`Other FPS Games`|
 |[Asthmaphobia update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/673621-asthmaphobia-update.html)|`2026-08-16 10:04:00`|`Phasmophobia`|
 |[dork&#46;cat &#91; Templeware Rewrite &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/767313-dork-cat-templeware-rewrite.html)|`2026-08-16 10:02:00`|`Counter-Strike 2 Releases`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-16 09:47:00`|`Deadlock`|
