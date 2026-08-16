@@ -14,6 +14,7 @@
 |14|[Tested SC Farming for new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767138-tested-sc-farming-update.html)|`2026-08-16 03:46:00`|`helldivers-2-a`|
 |35|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-16 05:58:04`|`other-mmorpg-and-strategy`|
 |23|[Rust External source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767114-rust-external-source.html)|`2026-08-16 11:56:06`|`rust`|
+|26|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-16 21:46:00`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[September 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/767530-september-2026-motm-nominations.html)|`2026-08-16 21:41:00`|`Member of the Month`|
+|[Intel vs AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/766726-intel-vs-amd.html)|`2026-08-16 21:35:00`|`Forum General`|
+|[Majestic: Obtaining animal coordinates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767325-majestic-obtaining-animal-coordinates.html)|`2026-08-16 21:34:00`|`Alternative Online Mods`|
+|[BO2 Plutonium Ara&#95;blops2 &#43; source &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/765913-bo2-plutonium-ara_blops2-source-injector.html)|`2026-08-16 21:23:00`|`Call of Duty: Black Ops 2`|
 |[ARP Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767527-arp-spoofer.html)|`2026-08-16 21:16:00`|`General Programming and Reversing`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-08-16 20:53:00`|`Payday 3`|
 |[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-16 20:51:00`|`Other FPS Games`|
