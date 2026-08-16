@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rust external &#40;with ud driver&#41; LEAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763957-rust-external-ud-driver-leak.html)|`2026-08-17 05:46:00`|`Rust`|
+|[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-17 05:43:00`|`Rust`|
+|[eac devirtualized &#45; help finding post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767593-eac-devirtualized-help-finding-post.html)|`2026-08-17 05:42:00`|`Anti-Cheat Bypass`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-17 05:41:00`|`HELLDIVERS 2`|
 |[My first ABI ESP &#40;External&#41; — rough base for someone better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/766281-abi-esp-external-rough-base.html)|`2026-08-17 05:32:00`|`Other FPS Games`|
 |[Ni no Kuni: CrossWorlds 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750161-ni-kuni-crossworlds-2026-a.html)|`2026-08-17 05:22:00`|`Other MMORPG and Strategy`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-17 05:22:00`|`Deadlock`|
