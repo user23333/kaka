@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARP Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767527-arp-spoofer.html)|`2026-08-16 21:16:00`|`General Programming and Reversing`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-08-16 20:53:00`|`Payday 3`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-16 20:51:00`|`Other FPS Games`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-16 20:49:00`|`Counter-Strike 2`|
 |[Script crashes game after 1&#45;2 minutes in multiplayer match of Age of Empires 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/767510-script-crashes-game-1-2-minutes-multiplayer-match-age-empires-4-a.html)|`2026-08-16 20:38:00`|`Age of Empires`|
 |[Auth Token &#40;Xbox / PS / Epic Game / Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748208-auth-token-xbox-ps-epic-game-steam.html)|`2026-08-16 20:33:00`|`ARC Raiders`|
 |[About the &#40;FTPM / TPM&#41; ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/728957-ftpm-tpm-ban.html)|`2026-08-16 20:31:00`|`Call of Duty: Black Ops 7`|
