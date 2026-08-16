@@ -33,6 +33,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SS&#45;GI &#124; Genshin Impact &#40;6&#46;6&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/758519-ss-gi-genshin-impact-6-6-0-a.html)|`2026-08-16 13:56:00`|`Genshin Impact`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-16 13:55:00`|`Other MMORPG and Strategy`|
 |[Magic Bullet and Hitbox Editor detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766073-magic-bullet-hitbox-editor-detected.html)|`2026-08-16 13:42:00`|`Marvel Rivals`|
 |[7 Days To Die Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763460-7-days-die-patch.html)|`2026-08-16 12:48:00`|`Other FPS Games`|
 |[auth/access/hb/type9 ALL 200, session still dies at heartbeat &#35;5 with 401](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767493-auth-access-hb-type9-200-session-dies-heartbeat-5-401-a.html)|`2026-08-16 12:46:00`|`Valorant`|
