@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sand Raiders of Sophie Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753940-sand-raiders-sophie-dump.html)|`2026-08-17 05:58:00`|`Other MMORPG and Strategy`|
 |[rust external &#40;with ud driver&#41; LEAK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763957-rust-external-ud-driver-leak.html)|`2026-08-17 05:46:00`|`Rust`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-17 05:43:00`|`Rust`|
 |[eac devirtualized &#45; help finding post](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767593-eac-devirtualized-help-finding-post.html)|`2026-08-17 05:42:00`|`Anti-Cheat Bypass`|
