@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-16 23:04:00`|`Valorant`|
+|[what i should use to have a good Tow/Sraw aimbot&#43;prediction in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/766904-tow-sraw-aimbot-prediction-vehicles.html)|`2026-08-16 23:03:00`|`Battlefield 4`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-08-16 22:56:00`|`Battlefield 6`|
 |[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-08-16 22:54:00`|`Other FPS Games`|
 |[Unturned DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/601369-unturned-dma.html)|`2026-08-16 22:52:00`|`Other FPS Games`|
