@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-08-17 06:47:00`|`DayZ SA`|
+|[DirtyBomb Aimbot&#43;ESP&#43;SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748255-dirtybomb-aimbot-esp-source.html)|`2026-08-17 06:47:00`|`Other FPS Games`|
+|[Corsair Cove](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767206-corsair-cove.html)|`2026-08-17 06:47:00`|`Other Games`|
+|[Overlay for faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/763993-overlay-faceit.html)|`2026-08-17 06:47:00`|`Anti-Cheat Bypass`|
 |[Jewsploit Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767600-jewsploit-updated.html)|`2026-08-17 06:28:00`|`Roblox`|
 |[DirtyBomb Cheat Teleport&#43;RapidFire&#43;Aimbot&#43;ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767599-dirtybomb-cheat-teleport-rapidfire-aimbot-esp.html)|`2026-08-17 06:17:00`|`Other FPS Games`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-08-17 06:15:00`|`Other MMORPG and Strategy`|
