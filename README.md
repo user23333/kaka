@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-08-16 23:33:00`|`Alternative Online Mods`|
+|[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-08-16 23:19:00`|`Counter-Strike 2`|
 |[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-16 23:04:00`|`Valorant`|
 |[what i should use to have a good Tow/Sraw aimbot&#43;prediction in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/766904-tow-sraw-aimbot-prediction-vehicles.html)|`2026-08-16 23:03:00`|`Battlefield 4`|
 |[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-08-16 22:56:00`|`Battlefield 6`|
