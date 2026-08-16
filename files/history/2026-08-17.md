@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Weapon Held Issue BO7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/758452-weapon-held-issue-bo7.html)|`2026-08-17 01:54:00`|`Call of Duty: Black Ops 7`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-08-17 01:50:00`|`Tom Clancy's The Division`|
 |[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-08-17 01:45:00`|`General Programming and Reversing`|
 |[Win11 DWM Hook &#45; Missing Present Calls & MPO Bypass Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767561-win11-dwm-hook-missing-calls-mpo-bypass-issues.html)|`2026-08-17 01:38:00`|`Anti-Cheat Bypass`|
 |[September 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/767530-september-2026-motm-nominations.html)|`2026-08-17 01:36:00`|`Member of the Month`|
