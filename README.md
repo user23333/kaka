@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-16 19:10:00`|`CounterStrike Source`|
+|[how can I make penetration crosshair?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767517-penetration-crosshair.html)|`2026-08-16 19:07:00`|`Counter-Strike 2`|
 |[May I ask if there are any experts who can share the offset of CN Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767516-experts-share-offset-cn-valorant.html)|`2026-08-16 18:36:00`|`Valorant`|
 |[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-16 18:33:00`|`Sea of Thieves`|
 |[Marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766287-marvel.html)|`2026-08-16 18:02:00`|`Marvel Rivals`|
