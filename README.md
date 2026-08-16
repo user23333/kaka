@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-08-17 01:45:00`|`General Programming and Reversing`|
+|[Win11 DWM Hook &#45; Missing Present Calls & MPO Bypass Issues](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767561-win11-dwm-hook-missing-calls-mpo-bypass-issues.html)|`2026-08-17 01:38:00`|`Anti-Cheat Bypass`|
+|[September 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/767530-september-2026-motm-nominations.html)|`2026-08-17 01:36:00`|`Member of the Month`|
 |[Intel vs AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/766726-intel-vs-amd.html)|`2026-08-17 01:28:00`|`Forum General`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-17 01:20:00`|`Grand Theft Auto V`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-08-17 01:18:00`|`Roblox`|
