@@ -30,9 +30,12 @@
 |4|[vgc&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56960)|`2026-08-16 01:33:51`|
 |4|[cryptopp&#95;inv&#95;rsa&#46;bin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56958)|`2026-08-16 01:33:51`|
 |2|[41040depotUE4Releases410Athena](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56896)|`2026-08-16 12:56:12`|
+|0|[INFARCTED V1&#46;1 SPRX BO3 PS4 &#40;Game Version v1&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56939)|`2026-08-16 17:24:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-08-16 17:12:00`|`Other FPS Games`|
+|[Black Ops 3 PS4 &#40;SPRX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/766622-black-ops-3-ps4-sprx.html)|`2026-08-16 17:02:00`|`Call of Duty: Black Ops 3`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-08-16 16:46:00`|`ARMA 3`|
 |[AC Point Blank Zepetto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767509-ac-blank-zepetto.html)|`2026-08-16 16:37:00`|`Anti-Cheat Bypass`|
 |[XBOX E&#45;Day DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767339-xbox-day-dma-release.html)|`2026-08-16 16:30:00`|`Other FPS Games`|
