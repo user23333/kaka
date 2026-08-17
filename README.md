@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fivem executor bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767707-fivem-executor-bug.html)|`2026-08-18 04:51:00`|`Alternative Online Mods`|
+|[how to properly inject lua code ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767695-properly-inject-lua-code.html)|`2026-08-18 04:45:00`|`Alternative Online Mods`|
+|[no spread not fully removing spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767597-spread-removing-spread.html)|`2026-08-18 04:42:00`|`Counter-Strike 2`|
+|[ARC&#45;Raiders&#45;Quick&#45;Move&#45;Snap&#45;Hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/767605-arc-raiders-quick-move-snap-hook.html)|`2026-08-18 04:42:00`|`ARC Raiders`|
+|[Marvel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766287-marvel.html)|`2026-08-18 04:41:00`|`Marvel Rivals`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-18 04:37:00`|`Alternative Online Mods`|
 |[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-08-18 04:36:00`|`ARC Raiders`|
 |[Aiden DMA converted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/763615-aiden-dma-converted.html)|`2026-08-18 04:25:00`|`Call of Duty: Black Ops 7`|
