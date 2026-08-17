@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-17 11:19:00`|`Marvel Rivals`|
+|[AI and cheating :c](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/767572-ai-cheating.html)|`2026-08-17 11:01:00`|`Off Topic`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-17 10:55:00`|`Alternative Online Mods`|
+|[plutonium integrity/crc32 check bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/767604-plutonium-integrity-crc32-check-bypass.html)|`2026-08-17 10:55:00`|`Call of Duty: Black Ops 2`|
+|[Question about silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/750352-question-silent-aim.html)|`2026-08-17 10:52:00`|`Deadlock`|
+|[KittenWare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/765449-kittenware.html)|`2026-08-17 10:44:00`|`Phasmophobia`|
 |[Fov changer &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767211-fov-changer-external.html)|`2026-08-17 10:15:00`|`Rust`|
 |[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-08-17 09:49:00`|`Other Games`|
 |[vpk parsing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767482-vpk-parsing.html)|`2026-08-17 09:46:00`|`Counter-Strike 2`|
