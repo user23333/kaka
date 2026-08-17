@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stuck on my Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767674-stuck-roblox-executor.html)|`2026-08-17 22:11:00`|`Roblox`|
+|[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-08-17 22:10:00`|`Other FPS Games`|
+|[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-08-17 22:08:00`|`Anti-Cheat Bypass`|
+|[EasyAntiCheat&#46;sys Kernel Driver RE &#45; Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/748063-easyanticheat-sys-kernel-driver-re-rust.html)|`2026-08-17 22:08:00`|`General Programming and Reversing`|
 |[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-17 21:26:00`|`Rust`|
 |[platform=1 always HTTP 400, platform=6 works fine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767670-platform-1-http-400-platform-6-fine.html)|`2026-08-17 21:11:00`|`Valorant`|
 |[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-08-17 21:09:00`|`Garry's Mod`|
