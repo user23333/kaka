@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764903-brawlhalla-offsets.html)|`2026-08-17 19:32:00`|`Other Games`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-17 19:25:00`|`Grand Theft Auto V`|
+|[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-08-17 19:25:00`|`Other Games`|
 |[BO4 Black Market Unlock All After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/766775-bo4-black-market-unlock-patch.html)|`2026-08-17 19:23:00`|`Call of Duty: Black Ops 4`|
 |[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-08-17 19:17:00`|`Other Software`|
 |[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-08-17 19:10:00`|`DayZ SA`|
