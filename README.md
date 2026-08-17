@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-08-18 06:16:00`|`Overwatch`|
+|[BIOS Malware??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/767275-bios-malware.html)|`2026-08-18 06:07:00`|`Off Topic`|
+|[Perfect outline via chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767716-perfect-outline-via-chams.html)|`2026-08-18 06:06:00`|`Valorant`|
+|[What is the best device to clone for DMA card?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767413-device-clone-dma-card.html)|`2026-08-18 06:03:00`|`Rust`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-08-18 05:51:00`|`Other MMORPG and Strategy`|
 |[config/pak detection source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767715-config-pak-detection-source.html)|`2026-08-18 05:48:00`|`Marvel Rivals`|
 |[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-08-18 05:46:00`|`Valorant`|
