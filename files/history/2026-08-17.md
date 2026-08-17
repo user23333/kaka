@@ -34,6 +34,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[waveshield anti entity spawning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/758914-waveshield-anti-entity-spawning.html)|`2026-08-17 22:50:00`|`Alternative Online Mods`|
+|[Super Mission Editor CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752404-super-mission-editor-ct.html)|`2026-08-17 22:25:00`|`HELLDIVERS 2`|
 |[Stuck on my Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767674-stuck-roblox-executor.html)|`2026-08-17 22:11:00`|`Roblox`|
 |[some stuff for l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/181424-stuff-l4d2.html)|`2026-08-17 22:10:00`|`Other FPS Games`|
 |[EAC Nvidia &#45; Why Spoofing One GPU UUID Isn't Enough](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/760656-eac-nvidia-spoofing-gpu-uuid-isnt.html)|`2026-08-17 22:08:00`|`Anti-Cheat Bypass`|
