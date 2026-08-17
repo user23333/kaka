@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-17 21:26:00`|`Rust`|
 |[platform=1 always HTTP 400, platform=6 works fine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767670-platform-1-http-400-platform-6-fine.html)|`2026-08-17 21:11:00`|`Valorant`|
 |[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-08-17 21:09:00`|`Garry's Mod`|
 |[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-17 21:01:00`|`Valorant`|
