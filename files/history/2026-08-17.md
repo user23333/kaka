@@ -13,6 +13,7 @@
 |14|[Tested SC Farming for new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767138-tested-sc-farming-update.html)|`2026-08-17 00:04:31`|`helldivers-2-a`|
 |19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-17 02:47:01`|`counter-strike-2-a`|
 |5|[CS2 VacNet Button Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766844-cs2-vacnet-button-revealer.html)|`2026-08-17 17:25:39`|`counter-strike-2-a`|
+|3|[Astral loader &#40;remake&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767179-astral-loader-remake.html)|`2026-08-17 19:24:33`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BO4 Black Market Unlock All After Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-4-a/766775-bo4-black-market-unlock-patch.html)|`2026-08-17 19:23:00`|`Call of Duty: Black Ops 4`|
+|[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-08-17 19:17:00`|`Other Software`|
+|[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-08-17 19:10:00`|`DayZ SA`|
 |[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-17 18:55:00`|`CounterStrike Source`|
 |[Friends vs Friends Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764995-friends-vs-friends-internal.html)|`2026-08-17 18:48:00`|`Other FPS Games`|
 |[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-08-17 18:46:00`|`Minecraft`|
