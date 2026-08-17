@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-08-18 05:51:00`|`Other MMORPG and Strategy`|
+|[config/pak detection source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767715-config-pak-detection-source.html)|`2026-08-18 05:48:00`|`Marvel Rivals`|
+|[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-08-18 05:46:00`|`Valorant`|
 |[Stuck on my Roblox executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767674-stuck-roblox-executor.html)|`2026-08-18 05:43:00`|`Roblox`|
 |[norecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767713-norecoil.html)|`2026-08-18 05:42:00`|`Call of Duty: Black Ops 7`|
 |[Unlock all for pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/767653-unlock-pc.html)|`2026-08-18 05:34:00`|`Call of Duty: Black Ops 2`|
