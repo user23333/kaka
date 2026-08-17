@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2 Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/722406-dead-frontier-2-cheats.html)|`2026-08-18 05:00:00`|`Other Games`|
+|[Apex is dying](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767601-apex-dying.html)|`2026-08-18 05:00:00`|`Apex Legends`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-18 04:59:00`|`HELLDIVERS 2`|
 |[fivem executor bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767707-fivem-executor-bug.html)|`2026-08-18 04:51:00`|`Alternative Online Mods`|
 |[how to properly inject lua code ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767695-properly-inject-lua-code.html)|`2026-08-18 04:45:00`|`Alternative Online Mods`|
 |[no spread not fully removing spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767597-spread-removing-spread.html)|`2026-08-18 04:42:00`|`Counter-Strike 2`|
