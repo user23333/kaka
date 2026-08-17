@@ -29,9 +29,15 @@
 |56|[TierkovHTML](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56891)|`2026-08-17 00:04:31`|
 |1|[FvF Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56897)|`2026-08-17 18:59:38`|
 |1|[arlr2&#46;7&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56966)|`2026-08-17 20:43:55`|
+|3|[test3v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56916)|`2026-08-17 21:26:14`|
+|1|[Payday3&#45;Internal V2&#46;2&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56906)|`2026-08-17 21:26:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[platform=1 always HTTP 400, platform=6 works fine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767670-platform-1-http-400-platform-6-fine.html)|`2026-08-17 21:11:00`|`Valorant`|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-08-17 21:09:00`|`Garry's Mod`|
+|[VGC latest griffin fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766122-vgc-griffin-fix.html)|`2026-08-17 21:01:00`|`Valorant`|
+|[Cs Source Movement Recorder 64 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/761678-cs-source-movement-recorder-64-bit.html)|`2026-08-17 20:52:00`|`CounterStrike Source`|
 |[External Aspect Ratio?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767665-external-aspect-ratio.html)|`2026-08-17 20:24:00`|`Rust`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-17 20:00:00`|`Counter-Strike 2 Releases`|
 |[Osussist updated extra features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/760447-osussist-updated-extra-features.html)|`2026-08-17 19:51:00`|`Other Games`|
