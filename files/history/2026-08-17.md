@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zula Spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767623-zula-spinbot.html)|`2026-08-17 12:01:00`|`Other FPS Games`|
+|[anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767076-anti-aim.html)|`2026-08-17 11:31:00`|`Counter-Strike 2`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-17 11:19:00`|`Marvel Rivals`|
 |[AI and cheating :c](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/767572-ai-cheating.html)|`2026-08-17 11:01:00`|`Off Topic`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-17 10:55:00`|`Alternative Online Mods`|
