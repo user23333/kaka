@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-08-18 16:41:00`|`CounterStrike Source`|
+|[Understanding Rust/EAC Ban and HWID Spoofing Options](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767185-understanding-rust-eac-ban-hwid-spoofing-options.html)|`2026-08-18 16:31:00`|`Rust`|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-18 16:28:00`|`Alternative Online Mods`|
+|[Airdrop/Hackable crate stopped working esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767836-airdrop-hackable-crate-stopped-esp.html)|`2026-08-18 16:26:00`|`Rust`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-18 16:24:00`|`Anti-Cheat Bypass`|
 |[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-18 15:43:00`|`Rust`|
 |[EAC Emulation / Bypass for Custom Mods &#40;Rocket League&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766957-eac-emulation-bypass-custom-mods-rocket-league.html)|`2026-08-18 15:34:00`|`Anti-Cheat Bypass`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-08-18 14:55:00`|`Grand Theft Auto V`|
