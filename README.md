@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-19 04:55:00`|`Valorant`|
+|[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-08-19 04:52:00`|`Minecraft`|
+|[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767931-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-19 04:45:00`|`Roblox`|
+|[CS2 Backtrack Implementation — Input History Timing / Server Rewind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767930-cs2-backtrack-implementation-input-history-timing-server-rewind.html)|`2026-08-19 04:41:00`|`Counter-Strike 2`|
 |[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767929-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-19 04:38:00`|`Roblox`|
 |[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-19 04:38:00`|`Other MMORPG and Strategy`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-19 04:29:00`|`Anti-Cheat Bypass`|
