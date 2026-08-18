@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[May I ask if there are any experts who can share the offset of CN Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767516-experts-share-offset-cn-valorant.html)|`2026-08-19 04:10:00`|`Valorant`|
+|[&#91;WIP&#93; 'Hero Menu' trainer, showcase video &#40;no release yet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/767547-wip-hero-menu-trainer-showcase-video-release.html)|`2026-08-19 04:09:00`|`Payday 2`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-19 04:05:00`|`Other MMORPG and Strategy`|
 |[Updated Rust Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766131-updated-rust-offsets.html)|`2026-08-19 03:56:00`|`Rust`|
 |[Pokemon MMO 3D External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756928-pokemon-mmo-3d-external.html)|`2026-08-19 03:54:00`|`Other MMORPG and Strategy`|
 |[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-08-19 03:50:00`|`Team Fortress 2`|
