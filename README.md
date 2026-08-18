@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Poolians 8ball predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763245-poolians-8ball-predictor.html)|`2026-08-19 06:54:00`|`Other Games`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-19 06:50:00`|`Roblox`|
+|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-19 06:49:00`|`Other MMORPG and Strategy`|
+|[dork&#46;cat &#91; Templeware Rewrite &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/767313-dork-cat-templeware-rewrite.html)|`2026-08-19 06:44:00`|`Counter-Strike 2 Releases`|
+|[ValHack &#45; Valheim Hack with ESP, Godmode, Spawn System and much more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/451046-valhack-valheim-hack-esp-godmode-spawn-system.html)|`2026-08-19 06:40:00`|`Other FPS Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-08-19 06:38:00`|`League of Legends`|
 |[ValHack &#45; Valheim Updated ESP, Godmode, Spawn System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767950-valhack-valheim-updated-esp-godmode-spawn-system.html)|`2026-08-19 06:36:00`|`Other FPS Games`|
 |[did anything new happen to the AC?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767689-happen-ac.html)|`2026-08-19 06:33:00`|`Rust`|
 |[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-19 06:29:00`|`Tom Clancy's The Division`|
