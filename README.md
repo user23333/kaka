@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-18 21:00:00`|`Red Dead Redemption 2`|
+|[Raid0 on one drive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767803-raid0-drive.html)|`2026-08-18 20:56:00`|`Anti-Cheat Bypass`|
+|[Silent Aim Bypass Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767878-silent-aim-bypass-question.html)|`2026-08-18 20:52:00`|`Alternative Online Mods`|
 |[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-08-18 20:10:00`|`Other FPS Games`|
 |[ANDROMEDA &#124;1&#35; INTERNAL for Deadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/757796-andromeda-1-internal-deadlock.html)|`2026-08-18 20:03:00`|`Deadlock`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-08-18 19:53:00`|`DayZ SA`|
