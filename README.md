@@ -11,6 +11,7 @@
 |19|[New overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766813-overwatch.html)|`2026-08-18 00:10:31`|`counter-strike-2-a`|
 |5|[CS2 VacNet Button Revealer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766844-cs2-vacnet-button-revealer.html)|`2026-08-18 00:10:31`|`counter-strike-2-a`|
 |3|[Astral loader &#40;remake&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767179-astral-loader-remake.html)|`2026-08-18 00:10:31`|`counter-strike-2-a`|
+|22|[dork&#46;cat &#91; Templeware Rewrite &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/767313-dork-cat-templeware-rewrite.html)|`2026-08-18 13:18:03`|`counter-strike-2-releases`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-18 13:12:00`|`Call of Duty: Black Ops Cold War`|
+|[Unlock all for pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/767652-unlock-pc.html)|`2026-08-18 13:08:00`|`Call of Duty: Black Ops`|
+|[skybox changer and world customizability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766574-skybox-changer-world-customizability.html)|`2026-08-18 13:03:00`|`Counter-Strike 2`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-18 13:02:00`|`Counter-Strike 2`|
+|[I shared the CE code through the forum and created a bypass program&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755711-shared-ce-code-forum-created-bypass-program.html)|`2026-08-18 12:57:00`|`HELLDIVERS 2`|
 |[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-08-18 12:35:00`|`Team Fortress 2`|
 |[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-08-18 12:14:00`|`Other FPS Games`|
 |[SAT Bluebook bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764269-sat-bluebook-bypass.html)|`2026-08-18 12:13:00`|`Anti-Cheat Bypass`|
