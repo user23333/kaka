@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Updated Rust Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766131-updated-rust-offsets.html)|`2026-08-19 03:56:00`|`Rust`|
+|[Pokemon MMO 3D External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756928-pokemon-mmo-3d-external.html)|`2026-08-19 03:54:00`|`Other MMORPG and Strategy`|
+|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-08-19 03:50:00`|`Team Fortress 2`|
 |[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-08-19 03:42:00`|`CounterStrike Source`|
 |[Rank Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767919-rank-changer.html)|`2026-08-19 03:32:00`|`Overwatch`|
 |[dysonbehind released](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/762917-dysonbehind-released.html)|`2026-08-19 03:29:00`|`Deadlock`|
