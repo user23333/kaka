@@ -26,9 +26,19 @@
 |41|[lasted sdk marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56909)|`2026-08-18 00:10:31`|
 |3|[Payday3&#45;Internal V2&#46;2&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56906)|`2026-08-18 00:10:31`|
 |1|[CoH3&#95;Final&#95;Stand&#95;v2&#46;5&#46;2&#46;49048&#95;CONFIRMED&#95;9&#95;OPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56922)|`2026-08-18 17:48:09`|
+|1|[eFootball VoidMatch&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56951)|`2026-08-18 18:10:17`|
+|2|[Ara&#95;blox v1&#46;2 Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56946)|`2026-08-18 18:10:17`|
+|1|[Liar's Bar Mod dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56944)|`2026-08-18 18:10:17`|
+|2|[Bugtopia v2&#46;7&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56942)|`2026-08-18 18:10:17`|
+|6|[HD2 ED Features Merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56935)|`2026-08-18 18:10:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-18 18:10:00`|`Other MMORPG and Strategy`|
+|[eFootball Void Match](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759084-efootball-void-match.html)|`2026-08-18 18:04:00`|`Other Games`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-18 18:02:00`|`Roblox`|
+|[Liar's bar DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767212-liars-bar-dll.html)|`2026-08-18 17:58:00`|`Other Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-18 17:56:00`|`Other Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-18 17:47:00`|`Valorant`|
 |[Company of Heroes 3 FINAL STAND](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765389-company-heroes-3-final-stand.html)|`2026-08-18 17:39:00`|`Other Games`|
 |[Internal for OW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767845-internal-ow.html)|`2026-08-18 17:38:00`|`Overwatch`|
