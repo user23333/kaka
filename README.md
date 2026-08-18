@@ -35,9 +35,15 @@
 |34|[Division2ImGuiHook&#95;Release&#95;3&#46;4&#46;5&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56963)|`2026-08-18 18:43:11`|
 |2|[MiniGarageMod GTA V Legacy 1&#46;73 &#91;unknowncheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56956)|`2026-08-18 18:43:11`|
 |1|[Crasher Editor 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56955)|`2026-08-18 18:43:11`|
+|1|[BOCW&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56977)|`2026-08-18 19:01:03`|
+|2|[Mikuware&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56976)|`2026-08-18 19:01:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-18 18:59:00`|`CounterStrike Source`|
+|[Updated Rust Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766131-updated-rust-offsets.html)|`2026-08-18 18:54:00`|`Rust`|
+|[New Windows 11 Driver Policy Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754407-windows-11-driver-policy-update.html)|`2026-08-18 18:49:00`|`Anti-Cheat Bypass`|
+|[Sudden attack offsets &#40;not tested&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/766518-sudden-attack-offsets-tested.html)|`2026-08-18 18:46:00`|`Sudden Attack`|
 |[debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767851-debug.html)|`2026-08-18 18:19:00`|`Overwatch`|
 |[Crasher Editor &#91;Castle Crasher&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767368-crasher-editor-castle-crasher.html)|`2026-08-18 18:17:00`|`Other Games`|
 |[Put benny's wheels in personal vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/376369-bennys-wheels-personal-vehicle.html)|`2026-08-18 18:11:00`|`Grand Theft Auto V`|
