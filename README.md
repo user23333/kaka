@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-18 15:43:00`|`Rust`|
+|[EAC Emulation / Bypass for Custom Mods &#40;Rocket League&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766957-eac-emulation-bypass-custom-mods-rocket-league.html)|`2026-08-18 15:34:00`|`Anti-Cheat Bypass`|
 |[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-08-18 14:55:00`|`Grand Theft Auto V`|
 |[Dead By Daylight DMA New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767833-dead-daylight-dma.html)|`2026-08-18 14:49:00`|`Other FPS Games`|
 |[COMBAT MASTER AIMBOT &#40;By ytx&#41; latest game version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766517-combat-master-aimbot-ytx-game-version.html)|`2026-08-18 14:37:00`|`Combat Master`|
