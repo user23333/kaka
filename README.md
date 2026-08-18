@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Black Ops 3 PS4 &#40;SPRX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/766622-black-ops-3-ps4-sprx.html)|`2026-08-18 14:02:00`|`Call of Duty: Black Ops 3`|
+|[Friends vs Friends Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764995-friends-vs-friends-internal.html)|`2026-08-18 13:48:00`|`Other FPS Games`|
 |[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-18 13:12:00`|`Call of Duty: Black Ops Cold War`|
 |[Unlock all for pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/767652-unlock-pc.html)|`2026-08-18 13:08:00`|`Call of Duty: Black Ops`|
 |[skybox changer and world customizability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766574-skybox-changer-world-customizability.html)|`2026-08-18 13:03:00`|`Counter-Strike 2`|
