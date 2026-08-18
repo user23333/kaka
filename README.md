@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-19 01:00:00`|`Overwatch`|
+|[tpm mmio trick with hv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767814-tpm-mmio-trick-hv.html)|`2026-08-19 00:55:00`|`Anti-Cheat Bypass`|
+|[Current Apex Squirrel Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755197-current-apex-squirrel-scripts.html)|`2026-08-19 00:52:00`|`Apex Legends`|
+|[Unlock all for pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/767652-unlock-pc.html)|`2026-08-19 00:41:00`|`Call of Duty: Black Ops`|
 |[Leaking dtb and pagetables from UM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767897-leaking-dtb-pagetables-um.html)|`2026-08-19 00:38:00`|`Anti-Cheat Bypass`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-19 00:38:00`|`ARC Raiders`|
 |[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-19 00:34:00`|`Rainbow Six Siege`|
