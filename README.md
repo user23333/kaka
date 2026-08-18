@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gta Online Enhanced PC Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767669-gta-online-enhanced-pc-outfit-editor.html)|`2026-08-18 08:35:00`|`Grand Theft Auto V`|
+|[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-18 08:34:00`|`Sea of Thieves`|
+|[WildLife Mod v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767797-wildlife-mod-v2-0-a.html)|`2026-08-18 08:22:00`|`Grand Theft Auto V`|
+|[Mistfall Hunter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766244-mistfall-hunter-internal.html)|`2026-08-18 08:15:00`|`Other Games`|
 |[Vein Internal v0&#46;023](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754196-vein-internal-v0-023-a.html)|`2026-08-18 07:54:00`|`Other FPS Games`|
 |[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-08-18 07:41:00`|`League of Legends`|
 |[internal skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767504-internal-skinchanger.html)|`2026-08-18 07:10:00`|`Counter-Strike 2`|
