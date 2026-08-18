@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Leaking dtb and pagetables from UM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767897-leaking-dtb-pagetables-um.html)|`2026-08-19 00:38:00`|`Anti-Cheat Bypass`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-19 00:38:00`|`ARC Raiders`|
+|[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-19 00:34:00`|`Rainbow Six Siege`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-19 00:29:00`|`Tom Clancy's The Division`|
+|[Hell Let Loose: Vietnam Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749633-hell-loose-vietnam-reversal-structs-offsets.html)|`2026-08-19 00:27:00`|`Other FPS Games`|
+|[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-08-19 00:22:00`|`Valorant`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-19 00:16:00`|`Alternative Online Mods`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-19 00:14:00`|`HELLDIVERS 2`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-08-19 00:05:00`|`Other FPS Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-19 00:04:00`|`Rust`|
 |[External chams &#40;DMA &#43; Fuser&#41; Bo7 / WZ s5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767862-external-chams-dma-fuser-bo7-wz-s5.html)|`2026-08-19 00:02:00`|`Call of Duty: Black Ops 7`|
 |[EAC &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766157-eac-tpm.html)|`2026-08-19 00:00:00`|`Anti-Cheat Bypass`|
 |[Silent Aim Breaks Camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767859-silent-aim-breaks-camera.html)|`2026-08-19 00:00:00`|`Rust`|
