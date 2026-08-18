@@ -25,9 +25,15 @@
 |247|[1&#46;1&#46;0&#46;46777&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56912)|`2026-08-18 00:10:31`|
 |41|[lasted sdk marvel rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56909)|`2026-08-18 00:10:31`|
 |3|[Payday3&#45;Internal V2&#46;2&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56906)|`2026-08-18 00:10:31`|
+|1|[CoH3&#95;Final&#95;Stand&#95;v2&#46;5&#46;2&#46;49048&#95;CONFIRMED&#95;9&#95;OPT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56922)|`2026-08-18 17:48:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-18 17:47:00`|`Valorant`|
+|[Company of Heroes 3 FINAL STAND](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765389-company-heroes-3-final-stand.html)|`2026-08-18 17:39:00`|`Other Games`|
+|[Internal for OW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767845-internal-ow.html)|`2026-08-18 17:38:00`|`Overwatch`|
+|[Melancholy Rage/Semi&#45;rage hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/762289-melancholy-rage-semi-rage-hack.html)|`2026-08-18 17:31:00`|`Counter-Strike 2 Releases`|
+|[How to make glove changer&#40;without inventory changer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767844-glove-changer-inventory-changer.html)|`2026-08-18 17:27:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-18 17:08:00`|`Rainbow Six Siege`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-18 16:57:00`|`Counter-Strike 2 Releases`|
 |[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-08-18 16:41:00`|`CounterStrike Source`|
