@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-18 10:00:00`|`ARC Raiders`|
+|[WinnerZ External Auto&#45;Update ZERO BANS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/767805-winnerz-external-auto-update-zero-bans.html)|`2026-08-18 09:56:00`|`Overwatch`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-08-18 09:48:00`|`Counter-Strike 2`|
+|[The New Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767791-andromeda.html)|`2026-08-18 09:28:00`|`Deadlock`|
 |[Gta Online Enhanced PC Outfit Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767669-gta-online-enhanced-pc-outfit-editor.html)|`2026-08-18 08:35:00`|`Grand Theft Auto V`|
 |[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-18 08:34:00`|`Sea of Thieves`|
 |[WildLife Mod v2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767797-wildlife-mod-v2-0-a.html)|`2026-08-18 08:22:00`|`Grand Theft Auto V`|
