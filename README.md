@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External chams &#40;DMA &#43; Fuser&#41; Bo7 / WZ s5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767862-external-chams-dma-fuser-bo7-wz-s5.html)|`2026-08-18 19:49:00`|`Call of Duty: Black Ops 7`|
+|[Silent Aim Breaks Camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767859-silent-aim-breaks-camera.html)|`2026-08-18 19:43:00`|`Rust`|
+|[Controller Cheat Bo7 Warzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767841-controller-cheat-bo7-warzone.html)|`2026-08-18 19:40:00`|`Call of Duty: Black Ops 7`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-08-18 19:40:00`|`Tom Clancy's The Division`|
 |[Tested SC Farming for new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767138-tested-sc-farming-update.html)|`2026-08-18 19:24:00`|`HELLDIVERS 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-18 19:15:00`|`Other FPS Games`|
 |[&#91;Source&#93; Secure Boot Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764225-source-secure-boot-spoofer.html)|`2026-08-18 19:08:00`|`Anti-Cheat Bypass`|
