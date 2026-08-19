@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Javelin zeroing all DMA reads on custom 75T pcileech after ~60s in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/767569-bf6-javelin-zeroing-dma-reads-custom-75t-pcileech-60s-game.html)|`2026-08-19 17:49:00`|`Battlefield 6`|
+|[HalTranslateBusAddress Failing Before Physical Memory Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767999-haltranslatebusaddress-failing-physical-memory-mapping.html)|`2026-08-19 17:40:00`|`Valorant`|
+|[Unsure about ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766920-unsure-ban.html)|`2026-08-19 17:20:00`|`Rust`|
 |[A simple heirloom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744561-simple-heirloom.html)|`2026-08-19 17:04:00`|`Apex Legends`|
 |[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-08-19 16:53:00`|`Valorant`|
 |[new rsa keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767937-rsa-keys.html)|`2026-08-19 16:17:00`|`Valorant`|
