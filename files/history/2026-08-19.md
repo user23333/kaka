@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[: WDM Driver ZwMapViewOfSection IOCTL returns Win32Err 487 on physical RAM addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768002-wdm-driver-zwmapviewofsection-ioctl-returns-win32err-487-physical-ram-addresses.html)|`2026-08-19 19:00:00`|`Anti-Cheat Bypass`|
+|[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-19 18:58:00`|`Anti-Cheat Bypass`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-08-19 18:45:00`|`Grand Theft Auto V`|
 |[Updated skin unlocker please?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/767892-updated-skin-unlocker-please.html)|`2026-08-19 18:15:00`|`Payday 2`|
 |[PayDay 3 were is ModMenu at??????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/759154-payday-3-modmenu.html)|`2026-08-19 18:10:00`|`Payday 3`|
 |[anyone got a save file with everything unlocked and alot of money and c stacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/763078-save-file-unlocked-alot-money-stacks.html)|`2026-08-19 18:09:00`|`Payday 3`|
