@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-20 05:15:00`|`Marvel Rivals`|
+|[Enlisted ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756399-enlisted-esp-aimbot.html)|`2026-08-20 05:06:00`|`Other FPS Games`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-08-20 05:04:00`|`Counter-Strike 2 Releases`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-20 04:57:00`|`Other FPS Games`|
 |[config/pak detection source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767715-config-pak-detection-source.html)|`2026-08-20 04:56:00`|`Marvel Rivals`|
 |[Why is my reputation so low?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768063-reputation-low.html)|`2026-08-20 04:46:00`|`Anti-Cheat Bypass`|
