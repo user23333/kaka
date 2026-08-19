@@ -25,9 +25,17 @@
 |20|[Mikuware&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56976)|`2026-08-20 00:03:26`|
 |33|[arlr2&#46;7&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56966)|`2026-08-20 00:03:26`|
 |69|[NUTON Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56965)|`2026-08-20 00:03:26`|
+|1|[marvel&#45;rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57033)|`2026-08-20 03:32:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-08-20 03:30:00`|`HELLDIVERS 2`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-20 03:28:00`|`Marvel Rivals`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-20 03:22:00`|`Rust`|
+|[ValHack &#45; Valheim Updated ESP, Godmode, Spawn System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767950-valhack-valheim-updated-esp-godmode-spawn-system.html)|`2026-08-20 03:15:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-08-20 03:10:00`|`DayZ SA`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-08-20 03:10:00`|`Counter-Strike 2 Releases`|
+|[All Water Pumps / Wells locations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/764746-water-pumps-locations.html)|`2026-08-20 03:08:00`|`DayZ SA`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-20 02:59:00`|`Other FPS Games`|
 |[Raid0 on one drive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767803-raid0-drive.html)|`2026-08-20 02:57:00`|`Anti-Cheat Bypass`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-20 02:51:00`|`Rust`|
