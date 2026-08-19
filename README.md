@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PayDay 3 were is ModMenu at??????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/759154-payday-3-modmenu.html)|`2026-08-19 18:10:00`|`Payday 3`|
+|[anyone got a save file with everything unlocked and alot of money and c stacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/763078-save-file-unlocked-alot-money-stacks.html)|`2026-08-19 18:09:00`|`Payday 3`|
+|[Payday 3 Black Market](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/606667-payday-3-black-market.html)|`2026-08-19 18:07:00`|`Payday 3`|
 |[BF6 Javelin zeroing all DMA reads on custom 75T pcileech after ~60s in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/767569-bf6-javelin-zeroing-dma-reads-custom-75t-pcileech-60s-game.html)|`2026-08-19 17:49:00`|`Battlefield 6`|
 |[HalTranslateBusAddress Failing Before Physical Memory Mapping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767999-haltranslatebusaddress-failing-physical-memory-mapping.html)|`2026-08-19 17:40:00`|`Valorant`|
 |[Unsure about ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766920-unsure-ban.html)|`2026-08-19 17:20:00`|`Rust`|
