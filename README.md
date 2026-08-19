@@ -32,9 +32,12 @@
 |3|[Crasher Editor 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56955)|`2026-08-19 00:03:32`|
 |64|[EAC UM Module dump august 15 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56952)|`2026-08-19 00:03:32`|
 |1|[DELTA FORCE SDK 18&#45;08&#45;2026 WEGAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57030)|`2026-08-19 09:23:07`|
+|1|[4&#46;2&#46;0 IW4X MP &#124; Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56983)|`2026-08-19 21:01:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[4&#46;2&#46;0 IW4X MP &#124; Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/767549-4-2-0-iw4x-mp-enhanced.html)|`2026-08-19 21:00:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-19 20:53:00`|`Rust`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-19 20:02:00`|`Call of Duty: Black Ops 7`|
 |[: WDM Driver ZwMapViewOfSection IOCTL returns Win32Err 487 on physical RAM addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768002-wdm-driver-zwmapviewofsection-ioctl-returns-win32err-487-physical-ram-addresses.html)|`2026-08-19 19:00:00`|`Anti-Cheat Bypass`|
 |[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764984-anticheatexpert-devirtualized.html)|`2026-08-19 18:58:00`|`Anti-Cheat Bypass`|
