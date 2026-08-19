@@ -14,6 +14,7 @@
 |4|[Combat Master internal &#43; Unlocker by y8x](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766905-combat-master-internal-unlocker-y8x.html)|`2026-08-19 04:41:05`|`combat-master`|
 |10|[BattlEye BEDaisy&#46;sys – looking for recent kernel driver dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767188-battleye-bedaisy-sys-looking-recent-kernel-driver-dump.html)|`2026-08-19 06:37:42`|`anti-cheat-bypass`|
 |9|[&#91;DX12&#93; Apex Legends Highlight System &#45; Structure Analysis & Glow Activation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767078-dx12-apex-legends-highlight-system-structure-analysis-glow-activation.html)|`2026-08-19 07:49:59`|`apex-legends`|
+|5|[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-19 11:25:32`|`rust`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-19 11:06:00`|`Escape from Tarkov`|
+|[COMBAT MASTER AIMBOT &#40;By ytx&#41; latest game version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/766517-combat-master-aimbot-ytx-game-version.html)|`2026-08-19 11:03:00`|`Combat Master`|
+|[anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767076-anti-aim.html)|`2026-08-19 10:57:00`|`Counter-Strike 2`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-19 10:54:00`|`Counter-Strike 2`|
+|[Polish fivem server antispoof – their detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767975-polish-fivem-server-antispoof-detection.html)|`2026-08-19 10:51:00`|`Alternative Online Mods`|
 |[Apex Legends Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/760378-apex-legends-executor.html)|`2026-08-19 10:17:00`|`Apex Legends`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-19 10:06:00`|`Counter-Strike 2`|
 |[Faster weapon XP method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767945-faster-weapon-xp-method.html)|`2026-08-19 09:56:00`|`HELLDIVERS 2`|
