@@ -17,6 +17,7 @@
 |5|[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-19 11:25:32`|`rust`|
 |6|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-19 12:04:13`|`valorant`|
 |22|[tpm mmio trick with hv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767814-tpm-mmio-trick-hv.html)|`2026-08-19 13:45:03`|`anti-cheat-bypass`|
+|17|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-08-19 16:02:57`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[how to start learning game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/767508-start-learning-game-hacking.html)|`2026-08-19 16:02:00`|`Forum General`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-19 16:01:00`|`Deadlock`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-19 15:40:00`|`Rainbow Six Siege`|
 |[offset dump 13&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767994-offset-dump-13-04-a.html)|`2026-08-19 15:24:00`|`Valorant`|
 |[ZHook Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework.html)|`2026-08-19 15:22:00`|`CounterStrike Source`|
 |[Do Valorant and LoL use different RSA keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767819-valorant-lol-rsa-keys.html)|`2026-08-19 15:22:00`|`Valorant`|
