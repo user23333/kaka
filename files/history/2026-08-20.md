@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-08-20 05:55:00`|`ARC Raiders`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-20 05:35:00`|`Counter-Strike 2`|
 |[Stealth Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764687-stealth-injector.html)|`2026-08-20 05:31:00`|`General Programming and Reversing`|
 |[HWID Spoofing for Apex](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767694-hwid-spoofing-apex.html)|`2026-08-20 05:24:00`|`Apex Legends`|
