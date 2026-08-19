@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Player Stats and LobbyKD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767953-player-stats-lobbykd.html)|`2026-08-20 06:25:00`|`Call of Duty: Black Ops 7`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-20 06:20:00`|`Call of Duty: Black Ops 7`|
+|[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-20 06:19:00`|`Other MMORPG and Strategy`|
+|[Cs2 WH Works in bots game but not in online game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768073-cs2-wh-bots-game-online-game.html)|`2026-08-20 06:17:00`|`Counter-Strike 2`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-20 06:14:00`|`Roblox`|
 |[Arc Raiders Token Tool &#40;JWT Extractor&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/757031-arc-raiders-token-tool-jwt-extractor.html)|`2026-08-20 05:55:00`|`ARC Raiders`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-20 05:35:00`|`Counter-Strike 2`|
 |[Stealth Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/764687-stealth-injector.html)|`2026-08-20 05:31:00`|`General Programming and Reversing`|
