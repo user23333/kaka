@@ -29,6 +29,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Disc Overlay Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767988-disc-overlay-hijack.html)|`2026-08-20 06:47:00`|`Anti-Cheat Bypass`|
+|[How to unlock all skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alien-vs-predator/768076-unlock-skins.html)|`2026-08-20 06:30:00`|`Alien vs Predator`|
 |[Player Stats and LobbyKD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767953-player-stats-lobbykd.html)|`2026-08-20 06:25:00`|`Call of Duty: Black Ops 7`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-20 06:20:00`|`Call of Duty: Black Ops 7`|
 |[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-20 06:19:00`|`Other MMORPG and Strategy`|
