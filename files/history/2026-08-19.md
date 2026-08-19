@@ -16,6 +16,7 @@
 |9|[&#91;DX12&#93; Apex Legends Highlight System &#45; Structure Analysis & Glow Activation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767078-dx12-apex-legends-highlight-system-structure-analysis-glow-activation.html)|`2026-08-19 07:49:59`|`apex-legends`|
 |5|[EAC UM module dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767366-eac-um-module-dumped.html)|`2026-08-19 11:25:32`|`rust`|
 |6|[skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767204-skin-changer.html)|`2026-08-19 12:04:13`|`valorant`|
+|22|[tpm mmio trick with hv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767814-tpm-mmio-trick-hv.html)|`2026-08-19 13:45:03`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-19 13:41:00`|`Other FPS Games`|
+|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-08-19 13:36:00`|`Alternative Online Mods`|
+|[Free valorant DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/762547-free-valorant-dma-cheat.html)|`2026-08-19 13:36:00`|`Valorant`|
+|[Disc Overlay Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767988-disc-overlay-hijack.html)|`2026-08-19 13:28:00`|`Anti-Cheat Bypass`|
+|[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-08-19 13:02:00`|`ARC Raiders`|
+|[HELP Needed: Friday 13th CFG Resurrected Mod – Looking for Experienced UE4 coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767986-help-friday-13th-cfg-resurrected-mod-looking-experienced-ue4-coding.html)|`2026-08-19 13:01:00`|`Other FPS Games`|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-08-19 12:57:00`|`Marvel Rivals`|
 |[aa resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767983-aa-resolver.html)|`2026-08-19 12:44:00`|`Counter-Strike 2`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-19 12:35:00`|`Counter-Strike 2`|
 |[Homemade HPTT or Heino2 Alternatives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767904-homemade-hptt-heino2-alternatives.html)|`2026-08-19 12:21:00`|`Anti-Cheat Bypass`|
