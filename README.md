@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[aa resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767983-aa-resolver.html)|`2026-08-19 12:44:00`|`Counter-Strike 2`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-19 12:35:00`|`Counter-Strike 2`|
+|[Homemade HPTT or Heino2 Alternatives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767904-homemade-hptt-heino2-alternatives.html)|`2026-08-19 12:21:00`|`Anti-Cheat Bypass`|
+|[BattlEye BEDaisy&#46;sys – looking for recent kernel driver dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767188-battleye-bedaisy-sys-looking-recent-kernel-driver-dump.html)|`2026-08-19 12:20:00`|`Anti-Cheat Bypass`|
 |[How to starting modding in gta online &#40;enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767008-starting-modding-gta-online-enhanced.html)|`2026-08-19 12:02:00`|`Grand Theft Auto V`|
 |[Cheat Legit External &#40;UPDATE&#41; TKZ CREDITS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/683283-cheat-legit-external-update-tkz-credits.html)|`2026-08-19 12:00:00`|`Counter-Strike 2 Releases`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-19 11:55:00`|`Apex Legends`|
