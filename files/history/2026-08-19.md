@@ -27,9 +27,14 @@
 |7|[MiniGarageMod GTA V Legacy 1&#46;73 &#91;unknowncheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56956)|`2026-08-19 00:03:32`|
 |3|[Crasher Editor 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56955)|`2026-08-19 00:03:32`|
 |64|[EAC UM Module dump august 15 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56952)|`2026-08-19 00:03:32`|
+|1|[DELTA FORCE SDK 18&#45;08&#45;2026 WEGAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57030)|`2026-08-19 09:23:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-19 09:21:00`|`Other FPS Games`|
+|[TrueView & Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767960-trueview-silent-aim.html)|`2026-08-19 09:20:00`|`Counter-Strike 2`|
+|[gt6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/767959-gt6.html)|`2026-08-19 09:16:00`|`Forum General`|
+|[Can anyone provide a simple slient aim&#46; please?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767957-provide-simple-slient-aim-please.html)|`2026-08-19 09:08:00`|`Counter-Strike 2`|
 |[Majestic &#40;Alt:V&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767954-majestic-alt.html)|`2026-08-19 07:53:00`|`Alternative Online Mods`|
 |[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-19 07:46:00`|`Sea of Thieves`|
 |[POLYGON Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/496953-polygon-reversal-structs-offsets.html)|`2026-08-19 07:46:00`|`Other FPS Games`|
