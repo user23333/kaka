@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[A simple heirloom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/744561-simple-heirloom.html)|`2026-08-19 17:04:00`|`Apex Legends`|
+|[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-08-19 16:53:00`|`Valorant`|
 |[new rsa keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767937-rsa-keys.html)|`2026-08-19 16:17:00`|`Valorant`|
 |[how to start learning game hacking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/767508-start-learning-game-hacking.html)|`2026-08-19 16:02:00`|`Forum General`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-19 16:01:00`|`Deadlock`|
