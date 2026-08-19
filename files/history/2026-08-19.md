@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Majestic &#40;Alt:V&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767954-majestic-alt.html)|`2026-08-19 07:53:00`|`Alternative Online Mods`|
 |[Sotcea Sea of Thives External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/765609-sotcea-sea-thives-external.html)|`2026-08-19 07:46:00`|`Sea of Thieves`|
 |[POLYGON Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/496953-polygon-reversal-structs-offsets.html)|`2026-08-19 07:46:00`|`Other FPS Games`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-08-19 07:40:00`|`HELLDIVERS 2`|
