@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZHook Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework.html)|`2026-08-20 07:43:00`|`CounterStrike Source`|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-08-20 07:43:00`|`Marvel Rivals`|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-08-20 07:38:00`|`Combat Master`|
+|[stupid vulnerable driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764736-stupid-vulnerable-driver.html)|`2026-08-20 07:32:00`|`Anti-Cheat Bypass`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-20 07:31:00`|`Other Games`|
 |[Disc Overlay Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767988-disc-overlay-hijack.html)|`2026-08-20 06:47:00`|`Anti-Cheat Bypass`|
 |[How to unlock all skins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alien-vs-predator/768076-unlock-skins.html)|`2026-08-20 06:30:00`|`Alien vs Predator`|
 |[Player Stats and LobbyKD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767953-player-stats-lobbykd.html)|`2026-08-20 06:25:00`|`Call of Duty: Black Ops 7`|
