@@ -33,9 +33,19 @@
 |64|[EAC UM Module dump august 15 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56952)|`2026-08-19 00:03:32`|
 |1|[DELTA FORCE SDK 18&#45;08&#45;2026 WEGAME](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57030)|`2026-08-19 09:23:07`|
 |1|[4&#46;2&#46;0 IW4X MP &#124; Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56983)|`2026-08-19 21:01:16`|
+|8|[Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57000)|`2026-08-19 21:47:58`|
+|2|[Elite&#95;Not&#95;So&#95;Dangerous&#95;Lynx&#95;Highliner&#95;4&#46;3&#46;3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56990)|`2026-08-19 21:47:58`|
+|1|[FUMES&#46;ct](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56989)|`2026-08-19 21:47:58`|
+|2|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=56987)|`2026-08-19 21:47:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[any possible way to &#46;&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768020-any-possible-way-to.html)|`2026-08-19 21:45:00`|`Anti-Cheat Bypass`|
+|[amongus in console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767924-amongus-console.html)|`2026-08-19 21:36:00`|`Counter-Strike 2`|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-08-19 21:24:00`|`Other FPS Games`|
+|[internal skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767504-internal-skinchanger.html)|`2026-08-19 21:21:00`|`Counter-Strike 2`|
+|[ENSD &#45; Lynx Highliner 4&#46;3&#46;3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/753468-ensd-lynx-highliner-4-3-3-0-update.html)|`2026-08-19 21:16:00`|`Elite: Dangerous`|
+|[Dead Island 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768017-dead-island-2-internal.html)|`2026-08-19 21:16:00`|`Other FPS Games`|
 |[4&#46;2&#46;0 IW4X MP &#124; Enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/767549-4-2-0-iw4x-mp-enhanced.html)|`2026-08-19 21:00:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-19 20:53:00`|`Rust`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-19 20:02:00`|`Call of Duty: Black Ops 7`|
