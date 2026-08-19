@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[offset dump 13&#46;04](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767994-offset-dump-13-04-a.html)|`2026-08-19 15:24:00`|`Valorant`|
+|[ZHook Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework.html)|`2026-08-19 15:22:00`|`CounterStrike Source`|
+|[Do Valorant and LoL use different RSA keys?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767819-valorant-lol-rsa-keys.html)|`2026-08-19 15:22:00`|`Valorant`|
+|[I have a question, could you please answer it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767992-question-please-answer.html)|`2026-08-19 15:20:00`|`Valorant`|
+|[Roblox Offsets &#45; Auto&#45;Updated &#124; Apr 2026 &#124; v668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/746512-roblox-offsets-auto-updated-apr-2026-v668.html)|`2026-08-19 15:01:00`|`Roblox`|
+|[VAN/VAL &#45;79 Error Ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767231-van-val-79-error-ban.html)|`2026-08-19 15:01:00`|`Valorant`|
 |[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-08-19 14:33:00`|`Overwatch`|
 |[Astral Sober external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761255-astral-sober-external.html)|`2026-08-19 14:29:00`|`Roblox`|
 |[&#91;Hololive Dreams&#93; Offsets Dump&#46;cs &#40;My own runtime dumper&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764430-hololive-dreams-offsets-dump-cs-own-runtime-dumper.html)|`2026-08-19 14:28:00`|`Other Games`|
