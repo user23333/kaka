@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2026-08-20 16:51:00`|`Age of Empires`|
+|[Bodycam Reversed Structs & Offsets Up to Date](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753278-bodycam-reversed-structs-offsets-date.html)|`2026-08-20 16:40:00`|`Other FPS Games`|
+|[Mistfall Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765286-mistfall-hunter.html)|`2026-08-20 16:31:00`|`Other FPS Games`|
+|[Faceit hardware/anticheat bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768077-faceit-hardware-anticheat-bans.html)|`2026-08-20 16:16:00`|`Counter-Strike 2`|
 |[keep gettin vac lived  can anyone provide vac bypass to slient](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768084-gettin-vac-lived-provide-vac-bypass-slient.html)|`2026-08-20 15:53:00`|`Counter-Strike 2`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-20 15:39:00`|`Alternative Online Mods`|
 |[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-20 15:14:00`|`Other FPS Games`|
