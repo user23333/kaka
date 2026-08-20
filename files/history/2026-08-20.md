@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ILLUSORITY &#45; undetected knifebot and movement cheat for hns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/758895-illusority-undetected-knifebot-movement-cheat-hns.html)|`2026-08-20 18:45:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Switching characters with YimMenu V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/768048-switching-characters-yimmenu-v2.html)|`2026-08-20 18:43:00`|`Grand Theft Auto V`|
+|[Building My Own Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768126-building-own-kernel-driver.html)|`2026-08-20 18:40:00`|`Anti-Cheat Bypass`|
+|[BF1 classes dump and more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/768125-bf1-classes-dump.html)|`2026-08-20 18:38:00`|`Battlefield 1`|
+|[Brawlhalla Autododge v1 — Public & Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767989-brawlhalla-autododge-v1-public-source-release.html)|`2026-08-20 18:34:00`|`Other Games`|
+|[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-08-20 18:26:00`|`Valorant`|
+|[Is makcu box detected or has it been banned by valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768124-makcu-box-detected-banned-valorant.html)|`2026-08-20 18:22:00`|`Valorant`|
 |[Can I get banned in practice mode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768081-banned-practice-mode.html)|`2026-08-20 18:08:00`|`Valorant`|
 |[Building My Own Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768121-building-own-kernel-driver.html)|`2026-08-20 18:04:00`|`Apex Legends`|
 |[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-20 18:03:00`|`Anti-Cheat Bypass`|
