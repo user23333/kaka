@@ -12,6 +12,7 @@
 |18|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-08-20 00:03:26`|`alternative-online-mods`|
 |9|[&#91;DX12&#93; Apex Legends Highlight System &#45; Structure Analysis & Glow Activation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767078-dx12-apex-legends-highlight-system-structure-analysis-glow-activation.html)|`2026-08-20 00:03:26`|`apex-legends`|
 |22|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-20 01:59:37`|`other-mmorpg-and-strategy`|
+|17|[Why your external read/write "method" is probably detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767692-external-read-write-method-probably-detected.html)|`2026-08-20 19:35:31`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
