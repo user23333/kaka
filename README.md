@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-20 17:44:00`|`Rainbow Six Siege`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-08-20 17:38:00`|`Counter-Strike 2`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-20 17:38:00`|`Anti-Cheat Bypass`|
+|[usermode anticheat dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767926-usermode-anticheat-dumps.html)|`2026-08-20 17:36:00`|`Marvel Rivals`|
 |[EAC &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766157-eac-tpm.html)|`2026-08-20 17:08:00`|`Anti-Cheat Bypass`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-20 17:06:00`|`Palworld`|
 |[Age of Empires IV &#45; External Scar Script Injector & Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/712742-age-empires-iv-external-scar-script-injector-helper.html)|`2026-08-20 16:51:00`|`Age of Empires`|
