@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to avoid 429 and switching accounts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765660-avoid-429-switching-accounts.html)|`2026-08-20 23:43:00`|`Valorant`|
+|[cr3 finding via vuln driver read physmem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768158-cr3-finding-via-vuln-driver-read-physmem.html)|`2026-08-20 23:24:00`|`Anti-Cheat Bypass`|
 |[I shared the CE code through the forum and created a bypass program&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/755711-shared-ce-code-forum-created-bypass-program.html)|`2026-08-20 23:15:00`|`HELLDIVERS 2`|
 |[Humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/765492-humanization.html)|`2026-08-20 23:11:00`|`Valorant`|
 |[How to know if i was banned by Serversided AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766831-banned-serversided-ac.html)|`2026-08-20 23:05:00`|`Valorant`|
