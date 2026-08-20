@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[429 Ratelimit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768150-429-ratelimit.html)|`2026-08-20 22:31:00`|`Valorant`|
+|[i need help to make a bypass for a game thats protected with BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768033-help-bypass-game-thats-protected.html)|`2026-08-20 22:28:00`|`Anti-Cheat Bypass`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-08-20 22:21:00`|`Other FPS Games`|
 |[GMOD &#40;LINUX&#41; &#45; Esd&#46;Gmod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765880-gmod-linux-esd-gmod.html)|`2026-08-20 21:52:00`|`Garry's Mod`|
 |[Optimizing de&#95;ancient map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768145-optimizing-de_ancient-map.html)|`2026-08-20 21:46:00`|`Counter-Strike 2`|
 |[How does VAC Live detect abnormal mouse input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768144-vac-live-detect-abnormal-mouse-input.html)|`2026-08-20 21:45:00`|`Counter-Strike 2`|
