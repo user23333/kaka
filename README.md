@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emulator free?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768056-emulator-free.html)|`2026-08-20 10:24:00`|`Valorant`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-20 10:21:00`|`Other FPS Games`|
+|[VAN Restriction 2: Secure Boot verification failure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767133-van-restriction-2-secure-boot-verification-failure.html)|`2026-08-20 10:20:00`|`Anti-Cheat Bypass`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-20 10:16:00`|`Other MMORPG and Strategy`|
+|[BloodStrike External V2 &#45; Steam Build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767822-bloodstrike-external-v2-steam-build.html)|`2026-08-20 10:06:00`|`Other FPS Games`|
+|[Air Hangar Cargo Auto&#45;Filler & Limit Bypass &#91;LEGACY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/768092-air-hangar-cargo-auto-filler-limit-bypass-legacy.html)|`2026-08-20 10:05:00`|`Grand Theft Auto V`|
+|[Unsure about ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766920-unsure-ban.html)|`2026-08-20 09:57:00`|`Rust`|
 |[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-20 09:14:00`|`Rainbow Six Siege`|
 |[Starting to Reverse Engineer games, running into issues&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/767974-starting-reverse-engineer-games-running-issues.html)|`2026-08-20 08:35:00`|`Call of Duty: Black Ops 2`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-20 08:30:00`|`Counter-Strike 2`|
