@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Magic Bullet and Hitbox Editor detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/766073-magic-bullet-hitbox-editor-detected.html)|`2026-08-21 06:40:00`|`Marvel Rivals`|
+|[MERCYKILLER3000 EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768207-mercykiller3000-external.html)|`2026-08-21 06:39:00`|`Overwatch`|
+|[External skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/737704-external-skin-changer.html)|`2026-08-21 06:39:00`|`Marvel Rivals`|
+|[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-08-21 06:37:00`|`HELLDIVERS 2`|
+|[Apex Legends Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768093-apex-legends-offsets.html)|`2026-08-21 06:36:00`|`Apex Legends`|
+|[Ark ASA Hack ESP AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763428-ark-asa-hack-esp-aimbot.html)|`2026-08-21 06:31:00`|`Other Games`|
+|[Health mp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/768206-health-mp.html)|`2026-08-21 06:30:00`|`Call of Duty: Black Ops 2`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-21 06:09:00`|`Grand Theft Auto V`|
 |[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-21 06:08:00`|`Valorant`|
 |[Is there any minecraft bedrock hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/765871-minecraft-bedrock-hacks.html)|`2026-08-21 06:08:00`|`Minecraft`|
