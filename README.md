@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-20 20:20:00`|`Other FPS Games`|
+|[Heirloom](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765259-heirloom.html)|`2026-08-20 20:06:00`|`Apex Legends`|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-20 19:58:00`|`Rainbow Six Siege`|
 |[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-08-20 19:49:00`|`Anti-Cheat Bypass`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-08-20 19:47:00`|`Other FPS Games`|
 |[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-08-20 19:40:00`|`Other FPS Games`|
