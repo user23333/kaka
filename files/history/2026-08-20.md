@@ -13,6 +13,7 @@
 |9|[&#91;DX12&#93; Apex Legends Highlight System &#45; Structure Analysis & Glow Activation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/767078-dx12-apex-legends-highlight-system-structure-analysis-glow-activation.html)|`2026-08-20 00:03:26`|`apex-legends`|
 |22|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-20 01:59:37`|`other-mmorpg-and-strategy`|
 |17|[Why your external read/write "method" is probably detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767692-external-read-write-method-probably-detected.html)|`2026-08-20 19:35:31`|`anti-cheat-bypass`|
+|3|[internal skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767504-internal-skinchanger.html)|`2026-08-20 22:04:17`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD &#40;LINUX&#41; &#45; Esd&#46;Gmod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765880-gmod-linux-esd-gmod.html)|`2026-08-20 21:52:00`|`Garry's Mod`|
+|[Optimizing de&#95;ancient map](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768145-optimizing-de_ancient-map.html)|`2026-08-20 21:46:00`|`Counter-Strike 2`|
+|[How does VAC Live detect abnormal mouse input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768144-vac-live-detect-abnormal-mouse-input.html)|`2026-08-20 21:45:00`|`Counter-Strike 2`|
+|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-08-20 21:43:00`|`Alternative Online Mods`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-08-20 21:30:00`|`Escape from Tarkov`|
+|[ARMA 3 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/114242-arma-3-reversal-structs-offsets.html)|`2026-08-20 21:25:00`|`ARMA 3`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-20 21:06:00`|`Sea of Thieves`|
 |[Lua executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767891-lua-executor.html)|`2026-08-20 20:58:00`|`Alternative Online Mods`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-20 20:50:00`|`Grand Theft Auto V`|
