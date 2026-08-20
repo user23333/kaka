@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-20 12:26:00`|`Deadlock`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-08-20 12:26:00`|`Other FPS Games`|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-08-20 12:25:00`|`League of Legends`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-08-20 12:17:00`|`Other FPS Games`|
+|[Mistfall Hunter &#45; Has anyone tried this? I don't think this is legit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767940-mistfall-hunter-tried-dont-legit.html)|`2026-08-20 12:06:00`|`Other Games`|
 |[Faster weapon XP method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/767945-faster-weapon-xp-method.html)|`2026-08-20 11:56:00`|`HELLDIVERS 2`|
 |[how to set skillshot aim direction in memory without moving the real cursor?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766206-set-skillshot-aim-direction-memory-moving-real-cursor.html)|`2026-08-20 11:53:00`|`League of Legends`|
 |[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-08-20 11:34:00`|`Other MMORPG and Strategy`|
