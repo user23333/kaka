@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-08-21 23:53:00`|`Escape from Tarkov`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-08-21 23:52:00`|`Escape from Tarkov`|
+|[The isle evrima dll &#42;PUBLIC&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759496-isle-evrima-dll-public.html)|`2026-08-21 23:50:00`|`Other FPS Games`|
 |[Script crashes game after 1&#45;2 minutes in multiplayer match of Age of Empires 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/767510-script-crashes-game-1-2-minutes-multiplayer-match-age-empires-4-a.html)|`2026-08-21 23:23:00`|`Age of Empires`|
 |[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-08-21 23:20:00`|`Overwatch`|
 |[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-21 23:18:00`|`Valorant`|
