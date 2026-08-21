@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-22 07:31:00`|`Counter-Strike 2`|
+|[CodeDefender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768348-codedefender.html)|`2026-08-22 07:28:00`|`Anti-Cheat Bypass`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-08-22 06:50:00`|`Other MMORPG and Strategy`|
 |[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2026-08-22 06:49:00`|`Other FPS Games`|
 |[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-22 06:48:00`|`HELLDIVERS 2`|
 |[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767931-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-22 06:41:00`|`Roblox`|
