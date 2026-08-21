@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[IsInGame&#40;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768232-isingame.html)|`2026-08-22 04:00:00`|`Counter-Strike 2`|
+|[How to Fish &#45; Cheat Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768223-fish-cheat-menu-v3-0-a.html)|`2026-08-22 03:59:00`|`Other FPS Games`|
 |[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-22 03:47:00`|`Rust`|
 |[Rex / zm&#95;sat&#95;scarab preloaded quest assets&#46; Possible Directed Mode content?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768320-rex-zm_sat_scarab-preloaded-quest-assets-directed-mode-content.html)|`2026-08-22 03:41:00`|`Call of Duty: Black Ops 7`|
 |[How do I find and decrypt the hidden imports in eac &#40;Fortnite&#41; driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768208-decrypt-hidden-imports-eac-fortnite-driver.html)|`2026-08-22 03:39:00`|`Anti-Cheat Bypass`|
