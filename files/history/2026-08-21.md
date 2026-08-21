@@ -42,6 +42,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help needed in fixing temp 102 in heartbeat emulator &#40; restart &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768278-help-fixing-temp-102-heartbeat-emulator-restart.html)|`2026-08-21 20:10:00`|`Valorant`|
+|[&#91;CLAWAIM&#93; Marvel Rivals FREE AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/768280-clawaim-marvel-rivals-free-ai-aimbot.html)|`2026-08-21 19:51:00`|`Marvel Rivals`|
 |[Inaccurate ESP Ark ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768277-inaccurate-esp-ark-ascended.html)|`2026-08-21 19:49:00`|`Other FPS Games`|
 |[SCUM DMA &#40;simple esp only&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/759887-scum-dma-simple-esp.html)|`2026-08-21 19:42:00`|`Scum`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-08-21 19:38:00`|`Scum`|
