@@ -35,9 +35,16 @@
 |0|[Marvel rivals sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57062)|`2026-08-21 13:18:14`|
 |1|[r6 itemids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57048)|`2026-08-21 13:18:14`|
 |0|[Bodycam&#45;SDK&#45;Dump&#45;UE5&#46;5&#46;4&#45;40574608](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57024)|`2026-08-21 13:49:57`|
+|3|[TA&#43;&#43;&#95;Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57053)|`2026-08-21 14:18:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can you recommend some music?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/749336-recommend-music.html)|`2026-08-21 14:14:00`|`Music and Videos`|
+|[jumpscout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768253-jumpscout.html)|`2026-08-21 14:13:00`|`Counter-Strike 2`|
+|[How to obtain a clean and unencrypted memory dump of Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768230-obtain-clean-unencrypted-memory-dump-valorant.html)|`2026-08-21 14:07:00`|`Valorant`|
+|[Cheese Rolling &#45; BepInEx Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768249-cheese-rolling-bepinex-cheat-menu.html)|`2026-08-21 14:06:00`|`Other Games`|
+|[Wallhacks on geforce now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768109-wallhacks-geforce.html)|`2026-08-21 13:58:00`|`Apex Legends`|
+|[7 Days To Die Latest Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763460-7-days-die-patch.html)|`2026-08-21 13:53:00`|`Other FPS Games`|
 |[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-08-21 13:45:00`|`Rainbow Six Siege`|
 |[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-21 13:45:00`|`HELLDIVERS 2`|
 |[detect&#46;ac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767187-detect-ac.html)|`2026-08-21 13:42:00`|`Alternative Online Mods`|
