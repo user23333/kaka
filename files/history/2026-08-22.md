@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2026-08-22 06:49:00`|`Other FPS Games`|
+|[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-22 06:48:00`|`HELLDIVERS 2`|
+|[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767931-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-22 06:41:00`|`Roblox`|
+|[esping is off the players / how to find offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/766310-esping-players-offsets.html)|`2026-08-22 06:38:00`|`Apex Legends`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-08-22 06:36:00`|`DayZ SA`|
 |[EAC Emulation / Bypass for Custom Mods &#40;Rocket League&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766957-eac-emulation-bypass-custom-mods-rocket-league.html)|`2026-08-22 06:30:00`|`Anti-Cheat Bypass`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-22 06:27:00`|`Rainbow Six Siege`|
