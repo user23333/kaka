@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Script crashes game after 1&#45;2 minutes in multiplayer match of Age of Empires 4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/767510-script-crashes-game-1-2-minutes-multiplayer-match-age-empires-4-a.html)|`2026-08-21 23:23:00`|`Age of Empires`|
+|[&#91;Linux&#93; External Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/762580-linux-external-src.html)|`2026-08-21 23:20:00`|`Overwatch`|
+|[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-21 23:18:00`|`Valorant`|
 |[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-08-21 22:06:00`|`DayZ SA`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-08-21 21:50:00`|`Rust`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-21 21:45:00`|`Counter-Strike 2`|
