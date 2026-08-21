@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does overwatch have any Anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768118-overwatch-anti-cheat.html)|`2026-08-21 15:03:00`|`Overwatch`|
+|[fix thirdperson not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768219-fix-thirdperson.html)|`2026-08-21 15:02:00`|`Counter-Strike 2`|
 |[Can you recommend some music?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/749336-recommend-music.html)|`2026-08-21 14:14:00`|`Music and Videos`|
 |[jumpscout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768253-jumpscout.html)|`2026-08-21 14:13:00`|`Counter-Strike 2`|
 |[How to obtain a clean and unencrypted memory dump of Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768230-obtain-clean-unencrypted-memory-dump-valorant.html)|`2026-08-21 14:07:00`|`Valorant`|
