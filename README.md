@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-22 02:44:00`|`Apex Legends`|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-22 02:41:00`|`Alternative Online Mods`|
+|[jumpscout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768253-jumpscout.html)|`2026-08-22 02:36:00`|`Counter-Strike 2`|
+|[Internal source&#45;RAGE BOT&#43;The anti&#45;vac parody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/768318-internal-source-rage-bot-anti-vac-parody.html)|`2026-08-22 02:36:00`|`Counter-Strike 2 Releases`|
+|[norecoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767713-norecoil.html)|`2026-08-22 02:25:00`|`Call of Duty: Black Ops 7`|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-22 02:23:00`|`CounterStrike Source`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-08-22 02:23:00`|`Sea of Thieves`|
 |[stacked rust ext src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768225-stacked-rust-ext-src.html)|`2026-08-22 01:45:00`|`Rust`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-08-22 01:44:00`|`Counter-Strike 2 Releases`|
 |[Memory Aimbot &#43; No recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/758150-memory-aimbot-recoil.html)|`2026-08-22 01:38:00`|`Apex Legends`|
