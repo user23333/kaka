@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-22 03:47:00`|`Rust`|
+|[Rex / zm&#95;sat&#95;scarab preloaded quest assets&#46; Possible Directed Mode content?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768320-rex-zm_sat_scarab-preloaded-quest-assets-directed-mode-content.html)|`2026-08-22 03:41:00`|`Call of Duty: Black Ops 7`|
+|[How do I find and decrypt the hidden imports in eac &#40;Fortnite&#41; driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768208-decrypt-hidden-imports-eac-fortnite-driver.html)|`2026-08-22 03:39:00`|`Anti-Cheat Bypass`|
+|[OverWin &#45; Release &#45; 21&#46;08&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768315-overwin-release-21-08-2026-a.html)|`2026-08-22 03:38:00`|`Overwatch`|
 |[Fivem aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720777-fivem-aimbot-esp.html)|`2026-08-22 03:35:00`|`Alternative Online Mods`|
 |[ZHook Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework.html)|`2026-08-22 03:30:00`|`CounterStrike Source`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-22 03:02:00`|`Tom Clancy's The Division`|
