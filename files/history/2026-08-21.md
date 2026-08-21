@@ -30,6 +30,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outdated EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768210-outdated-efi-spoofer.html)|`2026-08-21 07:50:00`|`Anti-Cheat Bypass`|
 |[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-08-21 07:32:00`|`Other Games`|
 |[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-08-21 07:16:00`|`Minecraft`|
 |[Welcome to the Game 3 — Internal &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/764329-welcome-game-3-internal-injector.html)|`2026-08-21 07:16:00`|`Other Single Player Games`|
