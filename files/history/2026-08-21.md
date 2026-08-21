@@ -30,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why is my reputation so low?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768063-reputation-low.html)|`2026-08-21 09:19:00`|`Anti-Cheat Bypass`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-21 09:14:00`|`Other FPS Games`|
+|[no more anybrain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768221-anybrain.html)|`2026-08-21 09:13:00`|`Rust`|
+|[Info by RiotID](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/767464-info-riotid.html)|`2026-08-21 09:13:00`|`League of Legends`|
+|[&#91;Source&#93; T7 Release: patching the RCE &#43; crash exploits hosts use in BO3 lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/764130-source-t7-release-patching-rce-crash-exploits-hosts-bo3-lobbies.html)|`2026-08-21 09:10:00`|`Call of Duty: Black Ops 3`|
+|[is modifying cheat engine enough?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/759902-modifying-cheat-engine.html)|`2026-08-21 09:10:00`|`Call of Duty: Black Ops Cold War`|
+|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-21 09:09:00`|`Other MMORPG and Strategy`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-08-21 09:07:00`|`Anti-Cheat Bypass`|
+|[Radar&#40;ESP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768153-radar-esp.html)|`2026-08-21 09:02:00`|`Valorant`|
 |[Outdated EFI Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768210-outdated-efi-spoofer.html)|`2026-08-21 07:50:00`|`Anti-Cheat Bypass`|
 |[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-08-21 07:32:00`|`Other Games`|
 |[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-08-21 07:16:00`|`Minecraft`|
