@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COD BO7 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768224-cod-bo7-offsets.html)|`2026-08-22 05:05:00`|`Call of Duty: Black Ops 7`|
+|[24 Hour Wait After HWID Temp Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768332-24-hour-wait-hwid-temp-spoofing.html)|`2026-08-22 04:59:00`|`Rust`|
+|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-22 04:57:00`|`Other MMORPG and Strategy`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-08-22 04:29:00`|`ARMA 3`|
 |[Mistfall Hunter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766244-mistfall-hunter-internal.html)|`2026-08-22 04:26:00`|`Other Games`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-22 04:25:00`|`Call of Duty: Black Ops 7`|
