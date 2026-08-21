@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/720777-fivem-aimbot-esp.html)|`2026-08-22 03:35:00`|`Alternative Online Mods`|
+|[ZHook Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework.html)|`2026-08-22 03:30:00`|`CounterStrike Source`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-22 03:02:00`|`Tom Clancy's The Division`|
 |[BYOVD — WHQL&#45; Signed Kernel Driver Testing &#40;ArgusMonitor, bsitf64, MsIo64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768287-byovd-whql-signed-kernel-driver-testing-argusmonitor-bsitf64-msio64.html)|`2026-08-22 02:55:00`|`Anti-Cheat Bypass`|
 |[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-22 02:44:00`|`Apex Legends`|
