@@ -16,6 +16,7 @@
 |9|[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-21 04:59:44`|`rainbow-six-siege`|
 |10|[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-08-21 13:18:14`|`helldivers-2-a`|
 |27|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-08-21 19:27:48`|`team-fortress-2-a`|
+|11|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-21 21:55:11`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-08-21 21:50:00`|`Rust`|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-21 21:45:00`|`Counter-Strike 2`|
+|[adhesive "stackwalk"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760073-adhesive-stackwalk.html)|`2026-08-21 21:39:00`|`Alternative Online Mods`|
+|[injecting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768292-injecting.html)|`2026-08-21 21:32:00`|`Valorant`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-08-21 21:29:00`|`Counter-Strike 2`|
 |[Help needed in fixing temp 102 in heartbeat emulator &#40; restart &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768278-help-fixing-temp-102-heartbeat-emulator-restart.html)|`2026-08-21 20:10:00`|`Valorant`|
 |[&#91;CLAWAIM&#93; Marvel Rivals FREE AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/768280-clawaim-marvel-rivals-free-ai-aimbot.html)|`2026-08-21 19:51:00`|`Marvel Rivals`|
 |[Inaccurate ESP Ark ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768277-inaccurate-esp-ark-ascended.html)|`2026-08-21 19:49:00`|`Other FPS Games`|
