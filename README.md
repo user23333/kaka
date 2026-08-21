@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-08-22 05:46:00`|`ARC Raiders`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-22 05:40:00`|`HELLDIVERS 2`|
+|[developing an internal &#40;help requested&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768336-developing-internal-help-requested.html)|`2026-08-22 05:38:00`|`Overwatch`|
+|[&#91;CLAWAIM&#93; Marvel Rivals FREE AI Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/768280-clawaim-marvel-rivals-free-ai-aimbot.html)|`2026-08-22 05:37:00`|`Marvel Rivals`|
+|[no more anybrain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768221-anybrain.html)|`2026-08-22 05:35:00`|`Rust`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-22 05:29:00`|`Other FPS Games`|
 |[COD BO7 offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768224-cod-bo7-offsets.html)|`2026-08-22 05:05:00`|`Call of Duty: Black Ops 7`|
 |[24 Hour Wait After HWID Temp Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768332-24-hour-wait-hwid-temp-spoofing.html)|`2026-08-22 04:59:00`|`Rust`|
