@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-22 03:02:00`|`Tom Clancy's The Division`|
+|[BYOVD — WHQL&#45; Signed Kernel Driver Testing &#40;ArgusMonitor, bsitf64, MsIo64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768287-byovd-whql-signed-kernel-driver-testing-argusmonitor-bsitf64-msio64.html)|`2026-08-22 02:55:00`|`Anti-Cheat Bypass`|
 |[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-22 02:44:00`|`Apex Legends`|
 |[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-22 02:41:00`|`Alternative Online Mods`|
 |[jumpscout](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768253-jumpscout.html)|`2026-08-22 02:36:00`|`Counter-Strike 2`|
