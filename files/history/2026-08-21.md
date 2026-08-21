@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Contractors Showdown Exfilzone Vr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767017-contractors-showdown-exfilzone-vr.html)|`2026-08-21 15:41:00`|`Other FPS Games`|
+|[How to fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768258-fish.html)|`2026-08-21 15:39:00`|`Other Games`|
+|[Sudden attack offsets &#40;not tested&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/766518-sudden-attack-offsets-tested.html)|`2026-08-21 15:34:00`|`Sudden Attack`|
 |[Does overwatch have any Anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768118-overwatch-anti-cheat.html)|`2026-08-21 15:03:00`|`Overwatch`|
 |[fix thirdperson not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768219-fix-thirdperson.html)|`2026-08-21 15:02:00`|`Counter-Strike 2`|
 |[Can you recommend some music?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/749336-recommend-music.html)|`2026-08-21 14:14:00`|`Music and Videos`|
