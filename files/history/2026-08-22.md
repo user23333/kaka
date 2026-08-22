@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Casino heist solo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/768360-casino-heist-solo.html)|`2026-08-22 10:25:00`|`Grand Theft Auto V`|
+|[Among Us Undetectable&#40;AUU&#41; Fork &#40;Player table &#43; radar&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/742796-undetectable-auu-fork-player-table-radar.html)|`2026-08-22 10:08:00`|`Among Us`|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2026-08-22 10:05:00`|`Among Us`|
 |[Valorant Cheat Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768327-valorant-cheat-update.html)|`2026-08-22 09:53:00`|`Valorant`|
 |[alternatives to kdmapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767562-alternatives-kdmapper.html)|`2026-08-22 09:44:00`|`Rainbow Six Siege`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-22 09:30:00`|`Grand Theft Auto V`|
