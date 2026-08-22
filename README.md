@@ -34,6 +34,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-08-22 23:37:00`|`Anti-Cheat Bypass`|
 |[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-08-22 23:29:00`|`League of Legends`|
 |[Arduino Leonardo Ultimate USB Spoofer &#40;Interactive &#43; Safe&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758938-arduino-leonardo-ultimate-usb-spoofer-interactive-safe.html)|`2026-08-22 23:22:00`|`Valorant`|
 |[Spoofing Map1202/Map1602 WMIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753083-spoofing-map1202-map1602-wmic.html)|`2026-08-22 23:11:00`|`Valorant`|
