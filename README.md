@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-23 01:59:00`|`Escape from Tarkov`|
+|[Trajectory line constantly jittering &#40;Source 2 grenade prediction&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768432-trajectory-line-constantly-jittering-source-2-grenade-prediction.html)|`2026-08-23 01:54:00`|`Counter-Strike 2`|
 |[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-23 01:47:00`|`Anti-Cheat Bypass`|
 |[Albion Online Auto Mine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761481-albion-online-auto-mine.html)|`2026-08-23 01:46:00`|`Other MMORPG and Strategy`|
 |[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-08-23 01:40:00`|`Elite: Dangerous`|
