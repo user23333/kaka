@@ -24,9 +24,17 @@
 |32|[Marvel rivals sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57062)|`2026-08-23 00:16:24`|
 |116|[TA&#43;&#43;&#95;Configurable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57053)|`2026-08-23 00:16:24`|
 |64|[r6 itemids](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57048)|`2026-08-23 00:16:24`|
+|0|[steam8&#45;22SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57128)|`2026-08-23 07:59:39`|
+|0|[Decompiled lua from marvel rivals anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57118)|`2026-08-23 07:59:39`|
+|0|[actual sdk dune](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57111)|`2026-08-23 07:59:39`|
+|0|[vgm&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57110)|`2026-08-23 07:59:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dune: Awakening Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699887-dune-awakening-reversal-structs-offsets.html)|`2026-08-23 07:56:00`|`Other FPS Games`|
+|[usermode anticheat dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767926-usermode-anticheat-dumps.html)|`2026-08-23 07:53:00`|`Marvel Rivals`|
+|[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-23 07:52:00`|`Valorant`|
+|[How to Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768302-fish.html)|`2026-08-23 07:49:00`|`Other Games`|
 |[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-08-23 07:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-08-23 07:39:00`|`Other Games`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-08-23 07:34:00`|`Apex Legends`|
