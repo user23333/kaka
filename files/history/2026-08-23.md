@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strange Brigade Vulkan Menu &#45; ESP &#45; Aimbot &#45; Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768391-strange-brigade-vulkan-menu-esp-aimbot-godmode.html)|`2026-08-23 04:54:00`|`Other FPS Games`|
+|[24 Hour Wait After HWID Temp Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768332-24-hour-wait-hwid-temp-spoofing.html)|`2026-08-23 04:39:00`|`Rust`|
 |[PGA 2K25 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766592-pga-2k25-internal.html)|`2026-08-23 04:35:00`|`Other Games`|
 |[NMRIH2 Offsets Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768454-nmrih2-offsets-thread.html)|`2026-08-23 04:20:00`|`Other FPS Games`|
 |[How to Fish &#45; Cheat Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768223-fish-cheat-menu-v3-0-a.html)|`2026-08-23 04:18:00`|`Other FPS Games`|
