@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-08-23 07:43:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-08-23 07:39:00`|`Other Games`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-08-23 07:34:00`|`Apex Legends`|
 |[Can I get banned in practice mode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768081-banned-practice-mode.html)|`2026-08-23 07:30:00`|`Valorant`|
 |[False HWID Ban &#40;HELP&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768481-false-hwid-ban-help.html)|`2026-08-23 07:28:00`|`Valorant`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-23 07:25:00`|`Other Games`|
