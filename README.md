@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-08-22 16:40:00`|`Other FPS Games`|
+|[Colourbots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767721-colourbots.html)|`2026-08-22 16:31:00`|`Valorant`|
+|[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-08-22 16:22:00`|`Other Games`|
+|[HELLDIVERS 2 &#45; &#40;ARMOR PASSIVE EDITOR&#41; HOW IT WORKS?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768383-helldivers-2-armor-passive-editor.html)|`2026-08-22 16:17:00`|`HELLDIVERS 2`|
 |[Emus temp bans/vanguard silent update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768376-emus-temp-bans-vanguard-silent-update.html)|`2026-08-22 14:54:00`|`Valorant`|
 |[Silent Aim Bypass Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767878-silent-aim-bypass-question.html)|`2026-08-22 14:35:00`|`Alternative Online Mods`|
 |[Rules of Survival is shutting down on June 27, 2022](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rules-of-survival/497495-rules-survival-shutting-june-27-2022-a.html)|`2026-08-22 14:34:00`|`Rules of Survival`|
