@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Emus temp bans/vanguard silent update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768376-emus-temp-bans-vanguard-silent-update.html)|`2026-08-22 14:54:00`|`Valorant`|
+|[Silent Aim Bypass Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767878-silent-aim-bypass-question.html)|`2026-08-22 14:35:00`|`Alternative Online Mods`|
+|[Rules of Survival is shutting down on June 27, 2022](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rules-of-survival/497495-rules-survival-shutting-june-27-2022-a.html)|`2026-08-22 14:34:00`|`Rules of Survival`|
+|[usermode anticheat dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/767926-usermode-anticheat-dumps.html)|`2026-08-22 14:22:00`|`Marvel Rivals`|
 |[Printing to console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768375-printing-console.html)|`2026-08-22 14:11:00`|`Counter-Strike 2`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-08-22 13:57:00`|`Other MMORPG and Strategy`|
 |[Modified Rs External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/765534-modified-rs-external.html)|`2026-08-22 13:36:00`|`Overwatch`|
