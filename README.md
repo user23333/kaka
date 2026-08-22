@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[About the agent changer world model jitter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767471-agent-changer-world-model-jitter.html)|`2026-08-23 03:54:00`|`Counter-Strike 2`|
+|[Fallout Shelter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768450-fallout-shelter-internal.html)|`2026-08-23 03:48:00`|`Other Games`|
+|[Having trouble with CL&#95;WritePacket VEH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/768449-trouble-cl_writepacket-veh.html)|`2026-08-23 03:46:00`|`Call of Duty: Black Ops 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-23 03:43:00`|`Overwatch`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-08-23 03:27:00`|`Rust`|
 |[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-08-23 03:25:00`|`Other MMORPG and Strategy`|
