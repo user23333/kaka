@@ -27,6 +27,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal source&#45;RAGE BOT&#43;The anti&#45;vac parody](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/768318-internal-source-rage-bot-anti-vac-parody.html)|`2026-08-23 02:59:00`|`Counter-Strike 2 Releases`|
+|[reliable cheats for arc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768440-reliable-cheats-arc.html)|`2026-08-23 02:48:00`|`ARC Raiders`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-23 02:34:00`|`Other FPS Games`|
 |[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-23 02:33:00`|`Valorant`|
 |[yim menu v2 rig slot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/766407-yim-menu-v2-rig-slot.html)|`2026-08-23 02:29:00`|`Grand Theft Auto V`|
