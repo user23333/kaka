@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-08-23 00:57:00`|`Anti-Cheat Bypass`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-23 00:53:00`|`Tom Clancy's The Division`|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-08-23 00:51:00`|`Counter-Strike 2 Releases`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-23 00:47:00`|`Escape from Tarkov`|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-23 00:47:00`|`CounterStrike Source`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-23 00:40:00`|`HELLDIVERS 2`|
 |["New" hypervisor VMEXIT handler for Intel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759444-hypervisor-vmexit-handler-intel.html)|`2026-08-23 00:34:00`|`Anti-Cheat Bypass`|
 |[Disc Overlay Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767988-disc-overlay-hijack.html)|`2026-08-23 00:31:00`|`Anti-Cheat Bypass`|
