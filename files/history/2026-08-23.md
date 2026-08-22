@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-23 05:08:00`|`Call of Duty: Black Ops Cold War`|
+|[no more anybrain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768221-anybrain.html)|`2026-08-23 05:05:00`|`Rust`|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768463-anticheats-flag-signed-drivers.html)|`2026-08-23 05:02:00`|`Anti-Cheat Bypass`|
+|[Will To Live Online Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768262-live-online-reversal-structs-offsets.html)|`2026-08-23 05:01:00`|`Introductions`|
+|[Methods On Protecting Loaders in the Big 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/765048-methods-protecting-loaders-26-a.html)|`2026-08-23 04:57:00`|`C and C++`|
+|[Shinoko&#45;NIKKE &#91; Goddess of Victory: Nikke Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744217-shinoko-nikke-goddess-victory-nikke-cheat.html)|`2026-08-23 04:57:00`|`Other MMORPG and Strategy`|
 |[Strange Brigade Vulkan Menu &#45; ESP &#45; Aimbot &#45; Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768391-strange-brigade-vulkan-menu-esp-aimbot-godmode.html)|`2026-08-23 04:54:00`|`Other FPS Games`|
 |[24 Hour Wait After HWID Temp Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768332-24-hour-wait-hwid-temp-spoofing.html)|`2026-08-23 04:39:00`|`Rust`|
 |[PGA 2K25 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766592-pga-2k25-internal.html)|`2026-08-23 04:35:00`|`Other Games`|
