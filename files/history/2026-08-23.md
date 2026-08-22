@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tpm mmio trick with hv](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767814-tpm-mmio-trick-hv.html)|`2026-08-23 05:45:00`|`Anti-Cheat Bypass`|
+|[FiveM Bypasses Are Scamming?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768467-fivem-bypasses-scamming.html)|`2026-08-23 05:44:00`|`Alternative Online Mods`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-08-23 05:40:00`|`Counter-Strike 2`|
+|[⭐GamerFun Valo: Valorant Trigger Bot, Instant Lock and Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/690063-gamerfun-valo-valorant-trigger-bot-instant-lock-spoofer.html)|`2026-08-23 05:38:00`|`Valorant`|
+|[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-23 05:36:00`|`Other MMORPG and Strategy`|
+|[Some questions about viewmatrix and local coords for making aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/768275-questions-viewmatrix-local-coords-aimbot.html)|`2026-08-23 05:35:00`|`General Programming and Reversing`|
 |[Android UnityResolve Project src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/758740-android-unityresolve-project-src.html)|`2026-08-23 05:18:00`|`C and C++`|
 |[Is there any minecraft bedrock hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/765871-minecraft-bedrock-hacks.html)|`2026-08-23 05:09:00`|`Minecraft`|
 |[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-23 05:08:00`|`Call of Duty: Black Ops Cold War`|
