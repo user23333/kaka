@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-08-22 23:29:00`|`League of Legends`|
+|[Arduino Leonardo Ultimate USB Spoofer &#40;Interactive &#43; Safe&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/758938-arduino-leonardo-ultimate-usb-spoofer-interactive-safe.html)|`2026-08-22 23:22:00`|`Valorant`|
+|[Spoofing Map1202/Map1602 WMIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/753083-spoofing-map1202-map1602-wmic.html)|`2026-08-22 23:11:00`|`Valorant`|
+|[How to bypass EOSSDK protection and crack games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768417-bypass-eossdk-protection-crack-games.html)|`2026-08-22 23:07:00`|`Introductions`|
 |[nProtect GameGuard disabler &#40;&#43;writeup&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768402-nprotect-gameguard-disabler-writeup.html)|`2026-08-22 22:56:00`|`HELLDIVERS 2`|
 |[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-08-22 22:49:00`|`ARC Raiders`|
 |[No Gravity Ragdolls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/652059-gravity-ragdolls.html)|`2026-08-22 22:05:00`|`Counter-Strike 2`|
