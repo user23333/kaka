@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-23 01:15:00`|`Valorant`|
+|[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-08-23 01:15:00`|`Roblox`|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-23 01:08:00`|`Rainbow Six Siege`|
+|[teamcheck not working for some reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/768425-teamcheck-reason.html)|`2026-08-23 01:06:00`|`Marvel Rivals`|
+|[Verox FiveM &#91;Enhanced&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765046-verox-fivem-enhanced.html)|`2026-08-23 01:04:00`|`Alternative Online Mods`|
 |[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-08-23 00:57:00`|`Anti-Cheat Bypass`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-23 00:53:00`|`Tom Clancy's The Division`|
 |[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-08-23 00:51:00`|`Counter-Strike 2 Releases`|
