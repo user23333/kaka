@@ -34,6 +34,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can someone post the offsets i cant dump it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/768392-post-offsets-cant-dump.html)|`2026-08-22 19:18:00`|`Escape from Tarkov`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-08-22 19:10:00`|`Counter-Strike 2`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-08-22 19:10:00`|`Call of Duty: Black Ops Cold War`|
 |[Strange Brigade Vulkan Menu &#45; ESP &#45; Aimbot &#45; Godmode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768391-strange-brigade-vulkan-menu-esp-aimbot-godmode.html)|`2026-08-22 19:07:00`|`Other FPS Games`|
 |[BODYCAM INTERNAL Cheat / ESP, Aimbot, &#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/753477-bodycam-internal-cheat-esp-aimbot.html)|`2026-08-22 18:58:00`|`Other FPS Games`|
 |[Disc Overlay Hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767988-disc-overlay-hijack.html)|`2026-08-22 18:46:00`|`Anti-Cheat Bypass`|
