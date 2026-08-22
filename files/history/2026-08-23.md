@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PGA 2K25 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766592-pga-2k25-internal.html)|`2026-08-23 04:35:00`|`Other Games`|
+|[NMRIH2 Offsets Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768454-nmrih2-offsets-thread.html)|`2026-08-23 04:20:00`|`Other FPS Games`|
+|[How to Fish &#45; Cheat Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768223-fish-cheat-menu-v3-0-a.html)|`2026-08-23 04:18:00`|`Other FPS Games`|
+|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-08-23 04:17:00`|`Anti-Cheat Bypass`|
+|[pixel&#45;memory scanning](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765812-pixel-memory-scanning.html)|`2026-08-23 04:15:00`|`Call of Duty: Black Ops 7`|
 |[Megabonk cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/768451-megabonk-cheat.html)|`2026-08-23 04:03:00`|`Other Single Player Games`|
 |[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-23 03:59:00`|`Other MMORPG and Strategy`|
 |[About the agent changer world model jitter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/767471-agent-changer-world-model-jitter.html)|`2026-08-23 03:54:00`|`Counter-Strike 2`|
