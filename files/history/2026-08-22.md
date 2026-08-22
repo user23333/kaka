@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sineus Arena Survivors &#45; Cheat Menu v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768412-sineus-arena-survivors-cheat-menu-v1-0-a.html)|`2026-08-22 21:36:00`|`Other Games`|
+|[DuskFade Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/768411-duskfade-trainer.html)|`2026-08-22 21:33:00`|`Other MMORPG and Strategy`|
+|[How to fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768258-fish.html)|`2026-08-22 21:25:00`|`Other Games`|
+|[&#91;FREE&#93; FIVEM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755613-free-fivem-spoofer.html)|`2026-08-22 21:18:00`|`Alternative Online Mods`|
 |[Which overlay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768410-overlay.html)|`2026-08-22 21:04:00`|`Anti-Cheat Bypass`|
 |[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-22 20:59:00`|`Rainbow Six Siege`|
 |[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-08-22 20:59:00`|`Anti-Cheat Bypass`|
