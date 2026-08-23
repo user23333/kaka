@@ -25,9 +25,16 @@
 |467|[HD2 ED Features Merge &#43; BOX v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57107)|`2026-08-24 00:19:00`|
 |143|[1&#46;1&#46;0&#46;1&#46;46911&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57092)|`2026-08-24 00:19:00`|
 |14|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57088)|`2026-08-24 00:19:00`|
+|0|[FirstClassTroubleSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57144)|`2026-08-24 05:32:05`|
+|0|[DeadByDaylightSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57143)|`2026-08-24 05:32:05`|
+|1|[BEDaisy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57141)|`2026-08-24 05:32:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[spoofer perm or temp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768621-spoofer-perm-temp.html)|`2026-08-24 05:26:00`|`Apex Legends`|
+|[First Class Trouble SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768567-class-trouble-sdk.html)|`2026-08-24 05:23:00`|`Other Games`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-24 05:20:00`|`Other MMORPG and Strategy`|
+|[I created my own BYOVD scrapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768620-created-own-byovd-scrapper.html)|`2026-08-24 05:17:00`|`Anti-Cheat Bypass`|
 |[ud driver &#43; mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768619-ud-driver-mapper.html)|`2026-08-24 05:06:00`|`Anti-Cheat Bypass`|
 |[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-24 05:02:00`|`Valorant`|
 |[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-24 04:50:00`|`Alternative Online Mods`|
