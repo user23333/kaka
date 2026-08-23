@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Box overlay not rendering?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768507-box-overlay-rendering.html)|`2026-08-23 11:31:00`|`Counter-Strike 2`|
+|[Zula Name Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768502-zula-name-esp.html)|`2026-08-23 10:42:00`|`Other FPS Games`|
 |[HWID warning without being banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768501-hwid-warning-banned.html)|`2026-08-23 10:37:00`|`Call of Duty: Black Ops 7`|
 |[Dumping EFT, an &#40;mostly&#41; easy to follow tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760176-dumping-eft-easy-follow-tutorial.html)|`2026-08-23 10:34:00`|`Escape from Tarkov`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-08-23 10:27:00`|`Sea of Thieves`|
