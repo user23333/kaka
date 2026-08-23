@@ -35,6 +35,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Permanently change / Spoof kernel mac address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768530-permanently-change-spoof-kernel-mac-address.html)|`2026-08-23 17:41:00`|`Valorant`|
 |[SNIPER ELITE 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/763333-sniper-elite-5-a.html)|`2026-08-23 17:22:00`|`Forum General`|
 |[Neverness To Everness Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737134-neverness-everness-reversal-structs-offsets.html)|`2026-08-23 17:18:00`|`Other MMORPG and Strategy`|
 |[Starting making cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/765195-starting-cheats.html)|`2026-08-23 17:11:00`|`Forum General`|
