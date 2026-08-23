@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2026-08-23 13:40:00`|`Other FPS Games`|
+|[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-08-23 13:34:00`|`Other Games`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-23 13:29:00`|`Other MMORPG and Strategy`|
+|[ValoDaiv v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/748397-valodaiv-v1-0-a.html)|`2026-08-23 13:29:00`|`Valorant`|
+|[SpotTheLiar v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768513-spottheliar-v1.html)|`2026-08-23 13:24:00`|`Other Games`|
 |[Phasmophobia simple phyton for ouija photo value](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/768214-phasmophobia-simple-phyton-ouija-photo-value.html)|`2026-08-23 12:55:00`|`Phasmophobia`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-23 12:40:00`|`Palworld`|
 |[rev no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768511-rev-spread.html)|`2026-08-23 12:38:00`|`Counter-Strike 2`|
