@@ -32,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HWID warning without being banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768501-hwid-warning-banned.html)|`2026-08-23 10:37:00`|`Call of Duty: Black Ops 7`|
+|[Dumping EFT, an &#40;mostly&#41; easy to follow tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/760176-dumping-eft-easy-follow-tutorial.html)|`2026-08-23 10:34:00`|`Escape from Tarkov`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-08-23 10:27:00`|`Sea of Thieves`|
+|[DMA for Modern Warfare 4 Beta on Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768500-dma-modern-warfare-4-beta-steam.html)|`2026-08-23 10:24:00`|`Call of Duty: Black Ops 7`|
+|[GhostDebug: VEH&#45;based x64 undetected debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768486-ghostdebug-veh-based-x64-undetected-debugger.html)|`2026-08-23 10:20:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-23 10:11:00`|`Call of Duty: Black Ops 7`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-23 10:08:00`|`Marvel Rivals`|
+|[Casino heist solo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/768360-casino-heist-solo.html)|`2026-08-23 09:56:00`|`Grand Theft Auto V`|
 |[Issues related to Valorant errors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768495-issues-related-valorant-errors.html)|`2026-08-23 09:08:00`|`Valorant`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-23 09:03:00`|`Red Dead Redemption 2`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-23 08:57:00`|`Overwatch`|
