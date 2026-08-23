@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-08-23 13:47:00`|`Counter-Strike 2`|
+|[Mod for TPS game Sanctuary: Shattered Sun by Fockster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/768052-mod-tps-game-sanctuary-shattered-sun-fockster.html)|`2026-08-23 13:43:00`|`Other MMORPG and Strategy`|
 |[Grapples Galore internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719775-grapples-galore-internal-hack.html)|`2026-08-23 13:40:00`|`Other FPS Games`|
 |[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-08-23 13:34:00`|`Other Games`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-23 13:29:00`|`Other MMORPG and Strategy`|
