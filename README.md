@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-24 03:17:00`|`Marvel Rivals`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-24 03:15:00`|`Other FPS Games`|
+|[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2026-08-24 03:12:00`|`Grand Theft Auto V`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-08-24 03:10:00`|`Other FPS Games`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-08-24 03:07:00`|`Tom Clancy's The Division`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2026-08-24 03:07:00`|`Other FPS Games`|
 |[internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768177-internal-base.html)|`2026-08-24 03:00:00`|`Rust`|
 |[Reverse poker executable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/768601-reverse-poker-executable.html)|`2026-08-24 02:51:00`|`Other MMORPG and Strategy`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-24 02:40:00`|`Overwatch`|
