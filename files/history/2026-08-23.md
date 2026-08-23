@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NBA 2K26 Shot Meter Holder & Auto&#45;Shoot Suite vision&#45;timed release &#40;Arrow 2 / Purple&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html)|`2026-08-23 22:10:00`|`Other Games`|
+|[Is makcu box detected or has it been banned by valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768124-makcu-box-detected-banned-valorant.html)|`2026-08-23 22:03:00`|`Valorant`|
+|[ZHook Framework&#40;CSS x64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/767993-zhook-framework-css-x64.html)|`2026-08-23 22:02:00`|`CounterStrike Source`|
 |[vehicle stats like gravity for yimmenuv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/768558-vehicle-stats-gravity-yimmenuv2.html)|`2026-08-23 21:55:00`|`Grand Theft Auto V`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-23 21:53:00`|`Other FPS Games`|
 |[Valorant Trigger Bot Source Leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768548-valorant-trigger-bot-source-leak.html)|`2026-08-23 21:35:00`|`Valorant`|
