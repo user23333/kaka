@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768636-bloodstrike-offsets-dumper.html)|`2026-08-24 06:51:00`|`Other FPS Games`|
+|[Medius as an alternative to the default makcu firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/768635-medius-alternative-default-makcu-firmware.html)|`2026-08-24 06:50:00`|`Other Hardware`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-24 06:36:00`|`Counter-Strike 2`|
 |[no more anybrain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768221-anybrain.html)|`2026-08-24 06:36:00`|`Rust`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-08-24 06:31:00`|`Other FPS Games`|
