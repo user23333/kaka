@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-24 04:50:00`|`Alternative Online Mods`|
+|[&#91;HELP&#93; ROBLOX HWID SPOOFER FOR NEW AUTOMATIC DEVICE BAN SYSTEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/760005-help-roblox-hwid-spoofer-automatic-device-ban-system.html)|`2026-08-24 04:49:00`|`Roblox`|
+|[Lua executor and Resource manager for FiveM enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763837-lua-executor-resource-manager-fivem-enhanced.html)|`2026-08-24 04:48:00`|`Alternative Online Mods`|
 |[BEDaisy Entry Point Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768540-bedaisy-entry-resolution.html)|`2026-08-24 04:31:00`|`Anti-Cheat Bypass`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-08-24 04:27:00`|`Other FPS Games`|
 |[Final Fantasy XIII – Standalone 2&#45;Option Trainer &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768614-final-fantasy-xiii-standalone-2-option-trainer-2026-a.html)|`2026-08-24 04:26:00`|`Other Games`|
