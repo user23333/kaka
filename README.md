@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GhostDebug: VEH&#45;based x64 undetected debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768486-ghostdebug-veh-based-x64-undetected-debugger.html)|`2026-08-24 04:07:00`|`Anti-Cheat Bypass`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-24 04:04:00`|`Tom Clancy's The Division`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-24 04:01:00`|`Call of Duty: Black Ops 7`|
+|[is ghub still not detected in siege?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767571-ghub-detected-siege.html)|`2026-08-24 04:00:00`|`Rainbow Six Siege`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-24 03:57:00`|`Other FPS Games`|
 |[Finding Process Base Adress with only physical read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768611-finding-process-base-adress-physical-read-memory.html)|`2026-08-24 03:53:00`|`Anti-Cheat Bypass`|
 |[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-24 03:51:00`|`Anti-Cheat Bypass`|
 |[Gallipoli — Looking for Technical Information / Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768569-gallipoli-looking-technical-information-research.html)|`2026-08-24 03:45:00`|`Other FPS Games`|
