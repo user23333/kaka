@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-24 02:08:00`|`Escape from Tarkov`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-08-24 02:06:00`|`Counter-Strike 2`|
+|[Albion Pathfind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743846-albion-pathfind.html)|`2026-08-24 02:02:00`|`Other MMORPG and Strategy`|
+|[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-08-24 02:00:00`|`Anti-Cheat Bypass`|
+|[Building My Own Kernel Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768121-building-own-kernel-driver.html)|`2026-08-24 01:58:00`|`Apex Legends`|
+|[Creating DMA firmware &#45; newbie question&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755564-creating-dma-firmware-newbie-question.html)|`2026-08-24 01:54:00`|`Forum General`|
 |[Unity 6 Native Viewer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/754320-unity-6-native-viewer.html)|`2026-08-24 01:52:00`|`Unity`|
 |[nya~ everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768550-nya.html)|`2026-08-24 01:52:00`|`Introductions`|
 |[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-24 01:51:00`|`Other MMORPG and Strategy`|
