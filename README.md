@@ -12,6 +12,7 @@
 |15|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-23 00:16:24`|`other-mmorpg-and-strategy`|
 |3|[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-08-23 00:16:24`|`valorant`|
 |29|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-08-23 15:50:39`|`team-fortress-2-a`|
+|9|[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-23 18:36:06`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Question for private server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/new-world/744581-question-private-server.html)|`2026-08-23 18:33:00`|`New World`|
+|[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-23 18:30:00`|`Rainbow Six Siege`|
+|[Backtrack chams help????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764623-backtrack-chams-help.html)|`2026-08-23 18:14:00`|`Counter-Strike 2`|
 |[Shinoko&#45;ARKNIGTHS &#91; ARKNIGTHS Chetoo &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767288-shinoko-arknigths-arknigths-chetoo.html)|`2026-08-23 18:07:00`|`Other MMORPG and Strategy`|
 |[Permanently change / Spoof kernel mac address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768530-permanently-change-spoof-kernel-mac-address.html)|`2026-08-23 17:41:00`|`Valorant`|
 |[SNIPER ELITE 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/763333-sniper-elite-5-a.html)|`2026-08-23 17:22:00`|`Forum General`|
