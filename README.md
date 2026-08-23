@@ -28,9 +28,11 @@
 |0|[FirstClassTroubleSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57144)|`2026-08-24 05:32:05`|
 |0|[DeadByDaylightSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57143)|`2026-08-24 05:32:05`|
 |1|[BEDaisy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57141)|`2026-08-24 05:32:05`|
+|4|[Rust Decrypted 40%](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57155)|`2026-08-24 07:49:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[towards the perfect aimbot?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767035-towards-perfect-aimbot.html)|`2026-08-24 07:39:00`|`Anti-Cheat Bypass`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-08-24 07:29:00`|`Counter-Strike 2`|
 |[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-24 07:25:00`|`Roblox`|
 |[Rust Decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768637-rust-decrypted.html)|`2026-08-24 07:09:00`|`Rust`|
