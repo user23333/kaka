@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ud driver &#43; mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768619-ud-driver-mapper.html)|`2026-08-24 05:06:00`|`Anti-Cheat Bypass`|
+|[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-24 05:02:00`|`Valorant`|
 |[LunarM &#45; FiveM External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766144-lunarm-fivem-external-cheat.html)|`2026-08-24 04:50:00`|`Alternative Online Mods`|
 |[&#91;HELP&#93; ROBLOX HWID SPOOFER FOR NEW AUTOMATIC DEVICE BAN SYSTEM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/760005-help-roblox-hwid-spoofer-automatic-device-ban-system.html)|`2026-08-24 04:49:00`|`Roblox`|
 |[Lua executor and Resource manager for FiveM enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763837-lua-executor-resource-manager-fivem-enhanced.html)|`2026-08-24 04:48:00`|`Alternative Online Mods`|
