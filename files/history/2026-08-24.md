@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is there an way to remove object reflections&#40;cubemap&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768418-remove-object-reflections-cubemap.html)|`2026-08-24 13:03:00`|`Counter-Strike 2`|
 |[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-08-24 12:16:00`|`Other MMORPG and Strategy`|
 |[ban rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/768657-ban-rate.html)|`2026-08-24 12:09:00`|`Escape from Tarkov`|
 |[Color bot 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768656-color-bot-1pc.html)|`2026-08-24 12:07:00`|`Valorant`|
