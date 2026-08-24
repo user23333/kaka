@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-25 00:47:00`|`Other Games`|
+|[mac address efuse flashing &#40;realtek&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768679-mac-address-efuse-flashing-realtek.html)|`2026-08-25 00:44:00`|`Anti-Cheat Bypass`|
+|[Genshin Impact 7&#46;0 dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/768681-genshin-impact-7-0-dumps.html)|`2026-08-25 00:43:00`|`Genshin Impact`|
+|[Injection options for Valorant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768155-injection-options-valorant.html)|`2026-08-25 00:41:00`|`Valorant`|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-25 00:40:00`|`CounterStrike Source`|
+|[Backtrack chams help????](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764623-backtrack-chams-help.html)|`2026-08-25 00:39:00`|`Counter-Strike 2`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-08-25 00:38:00`|`Call of Duty: Black Ops 7`|
+|[spoofer perm or temp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/768621-spoofer-perm-temp.html)|`2026-08-25 00:37:00`|`Apex Legends`|
 |[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-08-25 00:02:00`|`HELLDIVERS 2`|
 |[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-24 23:58:00`|`Tom Clancy's The Division`|
 |[Nuton — Marvel Rivals Internal &#40;NEP bypass and Spoofer included&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/760311-nuton-marvel-rivals-internal-nep-bypass-spoofer-included.html)|`2026-08-24 23:58:00`|`Marvel Rivals`|
