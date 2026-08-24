@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Dump Vanguard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/759342-dump-vanguard.html)|`2026-08-24 21:30:00`|`Valorant`|
+|[JewSploit &#45; Open Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/764285-jewsploit-source-external.html)|`2026-08-24 21:29:00`|`Roblox`|
+|[Call of Duty API to get player stats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768716-call-duty-api-player-stats.html)|`2026-08-24 21:26:00`|`Call of Duty: Black Ops 7`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-24 21:20:00`|`Rainbow Six Siege`|
+|[OW2 Wiao Project External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/766593-ow2-wiao-project-external-source-code.html)|`2026-08-24 21:15:00`|`Overwatch`|
 |[SNIPER ELITE 5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/763333-sniper-elite-5-a.html)|`2026-08-24 20:27:00`|`Forum General`|
 |[Information for bypass vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768688-information-bypass-vac.html)|`2026-08-24 20:16:00`|`Counter-Strike 2`|
 |[UE5 DMA ESP &#45; boxes drift sideways when I turn, snap back when I stop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768711-ue5-dma-esp-boxes-drift-sideways-snap-stop.html)|`2026-08-24 20:13:00`|`Other FPS Games`|
