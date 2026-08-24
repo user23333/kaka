@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RF Online Next](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757871-rf-online.html)|`2026-08-24 12:16:00`|`Other MMORPG and Strategy`|
+|[ban rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/768657-ban-rate.html)|`2026-08-24 12:09:00`|`Escape from Tarkov`|
+|[Color bot 1pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768656-color-bot-1pc.html)|`2026-08-24 12:07:00`|`Valorant`|
+|[Desktop Detective &#45; Internal Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768655-desktop-detective-internal-mod-menu.html)|`2026-08-24 12:00:00`|`Other Games`|
+|[Lame osu&#33;lazer updated offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766337-lame-osu-lazer-updated-offsets.html)|`2026-08-24 11:53:00`|`Other Games`|
 |[Eac streamproof?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768648-eac-streamproof.html)|`2026-08-24 10:17:00`|`Anti-Cheat Bypass`|
 |[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-24 10:17:00`|`Anti-Cheat Bypass`|
 |[UEMod &#124; UE4/5 Graph Scripting Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/768649-uemod-ue4-5-graph-scripting-tool.html)|`2026-08-24 10:03:00`|`Unreal Engine 4`|
