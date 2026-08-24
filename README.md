@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase Your Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/764191-showcase-visuals.html)|`2026-08-25 03:47:00`|`Valorant`|
+|[External chams &#40;DMA &#43; Fuser&#41; Bo7 / WZ s5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767862-external-chams-dma-fuser-bo7-wz-s5.html)|`2026-08-25 03:46:00`|`Call of Duty: Black Ops 7`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-25 03:44:00`|`Call of Duty: Black Ops 7`|
+|[Bypass vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768662-bypass-vac.html)|`2026-08-25 03:43:00`|`Anti-Cheat Bypass`|
+|[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-25 03:37:00`|`HELLDIVERS 2`|
+|[Best approach for capturing/dumping dynamic Vanguard &#40;vgc&#46;exe&#41; modules & tasks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768485-approach-capturing-dumping-dynamic-vanguard-vgc-exe-modules-tasks.html)|`2026-08-25 03:30:00`|`Valorant`|
+|[eac kernel level injector for internal/dlls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766895-eac-kernel-level-injector-internal-dlls.html)|`2026-08-25 03:29:00`|`Anti-Cheat Bypass`|
 |[Megabonk cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/768451-megabonk-cheat.html)|`2026-08-25 03:23:00`|`Other Single Player Games`|
 |[rust offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768755-rust-offsets-dumper.html)|`2026-08-25 03:16:00`|`Rust`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-25 03:07:00`|`Escape from Tarkov`|
