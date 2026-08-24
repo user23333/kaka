@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Always Shoot/Omni Sprint](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768723-internal-shoot-omni-sprint.html)|`2026-08-24 23:28:00`|`Rust`|
+|[CFX Bans Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768568-cfx-bans-help.html)|`2026-08-24 23:21:00`|`Alternative Online Mods`|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-08-24 23:13:00`|`CounterStrike Source`|
+|[Can't get valorant running on KVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768729-cant-valorant-running-kvm.html)|`2026-08-24 23:07:00`|`Valorant`|
 |[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-24 22:56:00`|`Tom Clancy's The Division`|
 |[TCM &#40;the texas chain saw massacre&#41; hack please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647399-tcm-texas-chain-massacre-hack-please.html)|`2026-08-24 22:34:00`|`Other FPS Games`|
 |[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-08-24 22:33:00`|`Minecraft`|
