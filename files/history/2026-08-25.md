@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Problem Starting Resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768734-starting-resource.html)|`2026-08-25 07:58:00`|`Alternative Online Mods`|
+|[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-08-25 07:57:00`|`Other Games`|
+|[Cumhook Chess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768799-cumhook-chess.html)|`2026-08-25 07:53:00`|`Other Games`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-08-25 07:41:00`|`Palworld`|
 |[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-25 07:40:00`|`Anti-Cheat Bypass`|
 |[Knives Out Python Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768791-knives-python-offsets.html)|`2026-08-25 07:30:00`|`Other FPS Games`|
 |[Winds of valen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750993-winds-valen.html)|`2026-08-25 07:27:00`|`Other MMORPG and Strategy`|
