@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Genshin Impact 7&#46;0 dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/768681-genshin-impact-7-0-dumps.html)|`2026-08-24 16:19:00`|`Genshin Impact`|
+|[CrossFirePH SPEEDHACK  BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/767633-crossfireph-speedhack-bypass.html)|`2026-08-24 16:02:00`|`CrossFire`|
+|[mac address efuse flashing &#40;realtek&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768679-mac-address-efuse-flashing-realtek.html)|`2026-08-24 15:52:00`|`Anti-Cheat Bypass`|
+|[Genshin 6&#46;7 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/765196-genshin-6-7-dumper.html)|`2026-08-24 15:48:00`|`Genshin Impact`|
+|[League of Legends 2PC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/763705-league-legends-2pc-bypass.html)|`2026-08-24 15:46:00`|`League of Legends`|
+|[Texas Attributes Booster](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/696937-texas-attributes-booster.html)|`2026-08-24 15:45:00`|`Other FPS Games`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-24 15:21:00`|`Other Games`|
 |[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-08-24 15:20:00`|`DayZ SA`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-08-24 15:08:00`|`Rust`|
