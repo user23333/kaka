@@ -29,9 +29,14 @@
 |0|[DeadByDaylightSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57143)|`2026-08-24 05:32:05`|
 |1|[BEDaisy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57141)|`2026-08-24 05:32:05`|
 |4|[Rust Decrypted 40%](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57155)|`2026-08-24 07:49:11`|
+|1|[Terraria 1&#46;4&#46;5&#46;7 V4&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57119)|`2026-08-24 18:32:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; Terraria 1&#46;4&#46;5&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738308-steam-terraria-1-4-5-4-cheat-table.html)|`2026-08-24 18:25:00`|`Other Games`|
+|[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-24 18:16:00`|`HELLDIVERS 2`|
+|[Monkey Business v1&#46;0 – All&#45;in&#45;One SPT Menu by aap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/764450-monkey-business-v1-0-spt-menu-aap.html)|`2026-08-24 18:06:00`|`Escape from Tarkov`|
+|[Liar's Bar 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766330-liars-bar-2026-a.html)|`2026-08-24 18:04:00`|`Other Games`|
 |[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-08-24 17:54:00`|`Escape from Tarkov`|
 |[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-08-24 17:50:00`|`Tom Clancy's The Division`|
 |[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-24 17:09:00`|`Valorant`|
