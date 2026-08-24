@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CodeDefender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768348-codedefender.html)|`2026-08-25 01:16:00`|`Anti-Cheat Bypass`|
+|[internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768177-internal-base.html)|`2026-08-25 01:15:00`|`Rust`|
+|[Why your external read/write "method" is probably detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767692-external-read-write-method-probably-detected.html)|`2026-08-25 01:13:00`|`Anti-Cheat Bypass`|
+|[Can't get valorant running on KVM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768729-cant-valorant-running-kvm.html)|`2026-08-25 01:08:00`|`Valorant`|
+|[Automaton Propaganda Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/742538-automaton-propaganda-cheat-menu.html)|`2026-08-25 01:07:00`|`HELLDIVERS 2`|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-08-25 01:04:00`|`Rainbow Six Siege`|
+|[Attestation TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768741-attestation-tpm.html)|`2026-08-25 00:51:00`|`Call of Duty: Black Ops 7`|
 |[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-25 00:47:00`|`Other Games`|
 |[mac address efuse flashing &#40;realtek&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768679-mac-address-efuse-flashing-realtek.html)|`2026-08-25 00:44:00`|`Anti-Cheat Bypass`|
 |[Genshin Impact 7&#46;0 dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/768681-genshin-impact-7-0-dumps.html)|`2026-08-25 00:43:00`|`Genshin Impact`|
