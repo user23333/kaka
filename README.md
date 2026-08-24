@@ -27,9 +27,14 @@
 |83|[gameguard&#45;disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57117)|`2026-08-25 00:04:37`|
 |37|[gameguard&#45;disabler&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57116)|`2026-08-25 00:04:37`|
 |0|[5&#46;1&#46;1&#45;23901901&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;1&#45;Pavlov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57177)|`2026-08-25 05:08:05`|
+|1|[7&#46;0ida&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57169)|`2026-08-25 07:28:14`|
+|0|[7&#46;0dumps&#46;cs&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57168)|`2026-08-25 07:28:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Winds of valen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750993-winds-valen.html)|`2026-08-25 07:27:00`|`Other MMORPG and Strategy`|
+|[HWID Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768615-hwid-ban.html)|`2026-08-25 07:18:00`|`Call of Duty: Black Ops 7`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-08-25 07:11:00`|`Counter-Strike 2`|
 |[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-08-25 06:54:00`|`Minecraft`|
 |[EAC New HWID Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768786-eac-hwid-techniques.html)|`2026-08-25 06:53:00`|`Anti-Cheat Bypass`|
 |[ILLUSORITY &#45; undetected knifebot and movement cheat for hns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/758895-illusority-undetected-knifebot-movement-cheat-hns.html)|`2026-08-25 06:51:00`|`CounterStrike 1.5, 1.6 and Mods`|
