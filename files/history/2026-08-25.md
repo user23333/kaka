@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-25 14:56:00`|`Other FPS Games`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-08-25 14:37:00`|`Other MMORPG and Strategy`|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-08-25 14:35:00`|`Other MMORPG and Strategy`|
+|[Valorant classic triggerbot source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766203-valorant-classic-triggerbot-source.html)|`2026-08-25 14:28:00`|`Valorant`|
+|[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-08-25 14:25:00`|`Minecraft`|
+|[Restore Memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768837-restore-memory.html)|`2026-08-25 14:18:00`|`Alternative Online Mods`|
+|[cs 1&#46;6 reworked evol dop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766072-cs-1-6-reworked-evol-dop.html)|`2026-08-25 14:16:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[anyr &#45; Anti recoil Linux tool for any game &#40;ships with The Finals DB&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/765794-anyr-anti-recoil-linux-tool-game-ships-finals-db.html)|`2026-08-25 14:00:00`|`THE FINALS`|
 |[Script Source Code for 16&#46;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/766397-script-source-code-16-15-a.html)|`2026-08-25 13:55:00`|`League of Legends`|
 |[Basic Opengl Chams for 1&#46;5/1&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/655878-basic-opengl-chams-1-5-1-6-a.html)|`2026-08-25 13:40:00`|`CounterStrike 1.5, 1.6 and Mods`|
