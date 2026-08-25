@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ud driver &#43; mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768619-ud-driver-mapper.html)|`2026-08-25 20:29:00`|`Anti-Cheat Bypass`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-25 20:24:00`|`Rainbow Six Siege`|
+|[bypassed vg152 but still getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/752790-bypassed-vg152-getting-banned.html)|`2026-08-25 20:16:00`|`League of Legends`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-08-25 20:13:00`|`Other FPS Games`|
+|[How do I make an autorevolver exactly like the one in Neverlose and Fataliti?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768858-autorevolver-exactly-neverlose-fataliti.html)|`2026-08-25 20:10:00`|`Counter-Strike 2`|
 |[Very Basic Custom DMA Firmware Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/725509-basic-custom-dma-firmware-guide.html)|`2026-08-25 19:43:00`|`Anti-Cheat Bypass`|
 |[Diablo Immortal 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/742592-diablo-immortal-2026-a.html)|`2026-08-25 19:35:00`|`Other MMORPG and Strategy`|
 |[F15 identity blob — what feeds it behind VMP?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768854-f15-identity-blob-feeds-vmp.html)|`2026-08-25 19:21:00`|`Valorant`|
