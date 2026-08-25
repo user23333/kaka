@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Albion Online Auto Mine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761481-albion-online-auto-mine.html)|`2026-08-25 13:01:00`|`Other MMORPG and Strategy`|
+|[Is there an way to remove object reflections&#40;cubemap&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768418-remove-object-reflections-cubemap.html)|`2026-08-25 13:00:00`|`Counter-Strike 2`|
+|[aimbot undetectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768261-aimbot-undetectability.html)|`2026-08-25 12:49:00`|`Counter-Strike 2`|
+|[HellDivers&#45;2 Reversing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/623128-helldivers-2-reversing.html)|`2026-08-25 12:44:00`|`HELLDIVERS 2`|
 |[How to Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768302-fish.html)|`2026-08-25 12:32:00`|`Other Games`|
 |[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-25 12:16:00`|`Rainbow Six Siege`|
 |[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-08-25 12:14:00`|`ARC Raiders`|
