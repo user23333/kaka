@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[why are offsets detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768340-offsets-detected.html)|`2026-08-25 09:01:00`|`Rust`|
+|[How does Ping Reducer works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/768807-ping-reducer.html)|`2026-08-25 09:00:00`|`Team Fortress 2`|
+|[Box overlay not rendering?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768507-box-overlay-rendering.html)|`2026-08-25 08:38:00`|`Counter-Strike 2`|
+|[Riftstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768488-riftstorm.html)|`2026-08-25 08:32:00`|`Other Games`|
 |[Problem Starting Resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768734-starting-resource.html)|`2026-08-25 07:58:00`|`Alternative Online Mods`|
 |[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-08-25 07:57:00`|`Other Games`|
 |[Cumhook Chess](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768799-cumhook-chess.html)|`2026-08-25 07:53:00`|`Other Games`|
