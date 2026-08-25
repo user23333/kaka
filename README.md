@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ACE HWID SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768669-ace-hwid-spoofer.html)|`2026-08-25 18:39:00`|`Anti-Cheat Bypass`|
+|[Brawlhalla Autododge v1 — Public & Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767989-brawlhalla-autododge-v1-public-source-release.html)|`2026-08-25 18:33:00`|`Other Games`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-08-25 18:23:00`|`Farlight 84`|
+|[MFA Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766636-mfa-bypass.html)|`2026-08-25 18:21:00`|`Valorant`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-08-25 18:13:00`|`Overwatch`|
 |[How Azure and Rico work's for Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760164-azure-rico-attestation.html)|`2026-08-25 18:00:00`|`Call of Duty: Black Ops 7`|
 |[GetNativeHandler &#40;only new versions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756817-getnativehandler-versions.html)|`2026-08-25 17:54:00`|`Alternative Online Mods`|
 |[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-08-25 17:45:00`|`Overwatch`|
