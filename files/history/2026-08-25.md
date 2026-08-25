@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NO BACKUP &#45; Internal Mod Menu &#124; Aimbot, ESP, Infinite Ammo & Money, Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768816-backup-internal-mod-menu-aimbot-esp-infinite-ammo-money-bullet.html)|`2026-08-25 10:18:00`|`Other Games`|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-08-25 10:11:00`|`Forum General`|
+|[Sneak Peek of my Insurgency Sandstorm External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/768814-sneak-peek-insurgency-sandstorm-external.html)|`2026-08-25 10:00:00`|`Insurgency`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-08-25 09:56:00`|`Call of Duty: Black Ops Cold War`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-25 09:56:00`|`Counter-Strike 2`|
 |[why are offsets detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768340-offsets-detected.html)|`2026-08-25 09:01:00`|`Rust`|
 |[How does Ping Reducer works?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/768807-ping-reducer.html)|`2026-08-25 09:00:00`|`Team Fortress 2`|
 |[Box overlay not rendering?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768507-box-overlay-rendering.html)|`2026-08-25 08:38:00`|`Counter-Strike 2`|
