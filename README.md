@@ -13,6 +13,7 @@
 |6|[Working skeletons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/768419-skeletons.html)|`2026-08-26 00:20:35`|`rainbow-six-siege`|
 |7|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-08-26 00:59:09`|`counter-strike-2-a`|
 |31|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-26 05:41:05`|`anti-cheat-bypass`|
+|8|[nProtect GameGuard disabler &#40;&#43;writeup&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768402-nprotect-gameguard-disabler-writeup.html)|`2026-08-26 07:09:48`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Proton EAC Reversed / Reconstructed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769027-proton-eac-reversed-reconstructed.html)|`2026-08-26 07:07:00`|`Anti-Cheat Bypass`|
+|[Internal Native Invoker Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768560-internal-native-invoker-help.html)|`2026-08-26 07:05:00`|`Alternative Online Mods`|
+|[Rust Mobile Emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768721-rust-mobile-emulator.html)|`2026-08-26 06:57:00`|`Other FPS Games`|
 |[DeadByDaylight external &#91;Steam&#93; OUTDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769019-deadbydaylight-external-steam-outdated.html)|`2026-08-26 06:35:00`|`Other Games`|
 |[For RedM&#46;&#46; what new trolling/hack features do you wish?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/769018-redm-trolling-hack-features-wish.html)|`2026-08-26 06:25:00`|`Red Dead Redemption 2`|
 |[Automatic Duplication AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752633-automatic-duplication-ahk-script.html)|`2026-08-26 06:21:00`|`DayZ SA`|
