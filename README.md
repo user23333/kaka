@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How Azure and Rico work's for Attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/760164-azure-rico-attestation.html)|`2026-08-25 18:00:00`|`Call of Duty: Black Ops 7`|
+|[GetNativeHandler &#40;only new versions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/756817-getnativehandler-versions.html)|`2026-08-25 17:54:00`|`Alternative Online Mods`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-08-25 17:45:00`|`Overwatch`|
 |[Rust/EAC 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768850-rust-eac-2026-a.html)|`2026-08-25 17:40:00`|`Rust`|
 |[Super Mission Editor CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/752404-super-mission-editor-ct.html)|`2026-08-25 17:35:00`|`HELLDIVERS 2`|
 |[I hate intros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768623-hate-intros.html)|`2026-08-25 17:35:00`|`Introductions`|
