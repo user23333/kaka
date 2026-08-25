@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-26 02:59:00`|`Marvel Rivals`|
+|[How to fix autostrafer for sv&#95;subtick&#95;movement&#95;view&#95;angles 0 &#40;Quantized&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768989-fix-autostrafer-sv_subtick_movement_view_angles-0-quantized.html)|`2026-08-26 02:59:00`|`Counter-Strike 2`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-26 02:56:00`|`Alternative Online Mods`|
+|[Rust External: Module Base returns 0x0 on AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767502-rust-external-module-base-returns-0x0-amd.html)|`2026-08-26 02:55:00`|`Rust`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-08-26 02:53:00`|`Overwatch`|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-08-26 02:50:00`|`Unity`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-26 02:49:00`|`Rainbow Six Siege`|
+|[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-08-26 02:49:00`|`Other MMORPG and Strategy`|
 |[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-08-26 02:16:00`|`Combat Master`|
 |[Pubg Mobile Gameloop Emu bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768730-pubg-mobile-gameloop-emu-bypass.html)|`2026-08-26 02:16:00`|`Anti-Cheat Bypass`|
 |[rust offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768755-rust-offsets-dumper.html)|`2026-08-26 02:13:00`|`Rust`|
