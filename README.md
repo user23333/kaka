@@ -25,9 +25,16 @@
 |30|[DeadByDaylightSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57143)|`2026-08-26 00:20:35`|
 |33|[BEDaisy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57141)|`2026-08-26 00:20:35`|
 |34|[GhostDebug 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57134)|`2026-08-26 00:20:35`|
+|2|[sdk&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57204)|`2026-08-26 05:11:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC DMA Protection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769007-eac-dma-protection.html)|`2026-08-26 05:09:00`|`Anti-Cheat Bypass`|
+|[FemboyChanger &#45; A &#46;NET External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/741720-femboychanger-net-external-skin-changer.html)|`2026-08-26 05:08:00`|`Counter-Strike 2`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-08-26 05:08:00`|`Other FPS Games`|
+|[Dead by Daylight Items, Perks and Skins temporary Unlock Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756537-dead-daylight-items-perks-skins-temporary-unlock-guide.html)|`2026-08-26 05:05:00`|`Other FPS Games`|
+|[Farlight 84 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/768244-farlight-84-cheat.html)|`2026-08-26 05:03:00`|`Farlight 84`|
+|[kdmapper finally detected eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769005-kdmapper-finally-detected-eac.html)|`2026-08-26 05:02:00`|`Rust`|
 |[bypass anti screenshot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/736577-bypass-anti-screenshot.html)|`2026-08-26 04:47:00`|`Anti-Cheat Bypass`|
 |[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-08-26 04:45:00`|`Grand Theft Auto V`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-26 04:45:00`|`Escape from Tarkov`|
