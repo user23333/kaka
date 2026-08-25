@@ -11,6 +11,7 @@
 |15|[internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768177-internal-base.html)|`2026-08-26 00:20:35`|`rust`|
 |15|[CodeDefender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768348-codedefender.html)|`2026-08-26 00:20:35`|`anti-cheat-bypass`|
 |6|[Working skeletons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/768419-skeletons.html)|`2026-08-26 00:20:35`|`rainbow-six-siege`|
+|7|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-08-26 00:59:09`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[waveshield HWID ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768881-waveshield-hwid-ban.html)|`2026-08-26 00:56:00`|`Alternative Online Mods`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-08-26 00:53:00`|`Other FPS Games`|
+|[Is there an way to remove object reflections&#40;cubemap&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768418-remove-object-reflections-cubemap.html)|`2026-08-26 00:47:00`|`Counter-Strike 2`|
+|[ACE HWID SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768669-ace-hwid-spoofer.html)|`2026-08-26 00:44:00`|`Anti-Cheat Bypass`|
+|[My MW4 Beta base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768897-mw4-beta-base.html)|`2026-08-26 00:43:00`|`Call of Duty: Black Ops 7`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-26 00:42:00`|`Apex Legends`|
+|[How Vanguard Detects 2PC &#43; Macku Setups &#40;Raw Input & Statistical Analysis Tool&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/756671-vanguard-detects-2pc-macku-setups-raw-input-statistical-analysis-tool.html)|`2026-08-26 00:40:00`|`Valorant`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-08-26 00:35:00`|`Counter-Strike 2`|
 |[EAC New HWID Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768786-eac-hwid-techniques.html)|`2026-08-26 00:20:00`|`Anti-Cheat Bypass`|
 |[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-08-26 00:18:00`|`Phasmophobia`|
 |[VGC Update 8/25/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768882-vgc-update-8-25-2026-a.html)|`2026-08-26 00:18:00`|`Valorant`|
