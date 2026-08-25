@@ -13,6 +13,7 @@
 |15|[Helldivers 2 Table 8/20/26 NO SC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768122-helldivers-2-table-8-20-26-sc.html)|`2026-08-25 00:04:37`|`helldivers-2-a`|
 |26|[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-25 02:58:31`|`tom-clancy-s-the-division`|
 |14|[internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768177-internal-base.html)|`2026-08-25 05:58:01`|`rust`|
+|15|[CodeDefender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768348-codedefender.html)|`2026-08-25 11:14:49`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal base src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768823-internal-base-src.html)|`2026-08-25 11:07:00`|`Valorant`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-08-25 11:03:00`|`Overwatch`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-25 11:03:00`|`Other Games`|
+|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-25 11:00:00`|`Other MMORPG and Strategy`|
+|[UA with Imgui src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/768821-ua-imgui-src.html)|`2026-08-25 10:41:00`|`Call of Duty: Black Ops Cold War`|
+|[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764374-kdmapper-3-0-a.html)|`2026-08-25 10:35:00`|`Anti-Cheat Bypass`|
 |[NO BACKUP &#45; Internal Mod Menu &#124; Aimbot, ESP, Infinite Ammo & Money, Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768816-backup-internal-mod-menu-aimbot-esp-infinite-ammo-money-bullet.html)|`2026-08-25 10:18:00`|`Other Games`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-08-25 10:11:00`|`Forum General`|
 |[Sneak Peek of my Insurgency Sandstorm External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/768814-sneak-peek-insurgency-sandstorm-external.html)|`2026-08-25 10:00:00`|`Insurgency`|
