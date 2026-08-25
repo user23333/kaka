@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[internal chams / wallhack / wireframe &#40;filter&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761970-internal-chams-wallhack-wireframe-filter.html)|`2026-08-25 21:18:00`|`Alternative Online Mods`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-08-25 21:07:00`|`Other FPS Games`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-25 21:05:00`|`Counter-Strike 2`|
 |[ud driver &#43; mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768619-ud-driver-mapper.html)|`2026-08-25 20:29:00`|`Anti-Cheat Bypass`|
 |[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-08-25 20:24:00`|`Rainbow Six Siege`|
 |[bypassed vg152 but still getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/752790-bypassed-vg152-getting-banned.html)|`2026-08-25 20:16:00`|`League of Legends`|
