@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-08-26 02:16:00`|`Combat Master`|
+|[Pubg Mobile Gameloop Emu bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768730-pubg-mobile-gameloop-emu-bypass.html)|`2026-08-26 02:16:00`|`Anti-Cheat Bypass`|
+|[rust offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768755-rust-offsets-dumper.html)|`2026-08-26 02:13:00`|`Rust`|
+|[How to compensate spread with revolver?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768985-compensate-spread-revolver.html)|`2026-08-26 02:10:00`|`Counter-Strike 2`|
+|[4&#46;2&#46;0 IW4X MP Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/766958-4-2-0-iw4x-mp-offsets.html)|`2026-08-26 02:10:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-08-26 02:07:00`|`Battlefield 6`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-26 01:49:00`|`Tom Clancy's The Division`|
 |[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-26 01:47:00`|`Tom Clancy's The Division`|
 |[Vulnerable Driver Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768161-vulnerable-driver-release.html)|`2026-08-26 01:41:00`|`Anti-Cheat Bypass`|
