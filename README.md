@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-25 13:21:00`|`Marvel Rivals`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-08-25 13:18:00`|`Other Games`|
+|[Another Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/765146-vulnerable-driver-eac.html)|`2026-08-25 13:18:00`|`Apex Legends`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-08-25 13:18:00`|`Other Games`|
+|[How To Fish DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768832-fish-dll.html)|`2026-08-25 13:17:00`|`Other FPS Games`|
 |[Albion Online Auto Mine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761481-albion-online-auto-mine.html)|`2026-08-25 13:01:00`|`Other MMORPG and Strategy`|
 |[Is there an way to remove object reflections&#40;cubemap&#41;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768418-remove-object-reflections-cubemap.html)|`2026-08-25 13:00:00`|`Counter-Strike 2`|
 |[aimbot undetectability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768261-aimbot-undetectability.html)|`2026-08-25 12:49:00`|`Counter-Strike 2`|
