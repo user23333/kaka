@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DeadByDaylight external &#91;Steam&#93; OUTDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769019-deadbydaylight-external-steam-outdated.html)|`2026-08-26 06:35:00`|`Other Games`|
+|[For RedM&#46;&#46; what new trolling/hack features do you wish?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/769018-redm-trolling-hack-features-wish.html)|`2026-08-26 06:25:00`|`Red Dead Redemption 2`|
+|[Automatic Duplication AHK Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/752633-automatic-duplication-ahk-script.html)|`2026-08-26 06:21:00`|`DayZ SA`|
 |[External chams &#40;DMA &#43; Fuser&#41; Bo7 / WZ s5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767862-external-chams-dma-fuser-bo7-wz-s5.html)|`2026-08-26 06:15:00`|`Call of Duty: Black Ops 7`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-08-26 06:15:00`|`Other FPS Games`|
 |[I hate intros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768623-hate-intros.html)|`2026-08-26 05:58:00`|`Introductions`|
