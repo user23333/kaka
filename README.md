@@ -36,9 +36,18 @@
 |4|[vgc&#95;dump&#95;1&#46;19 part 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57198)|`2026-08-26 13:50:28`|
 |2|[vgc&#95;dump&#95;1&#46;19 part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57197)|`2026-08-26 13:50:28`|
 |2|[vgc&#95;dump&#95;1&#46;19 part 1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57196)|`2026-08-26 13:50:28`|
+|1|[TFTClient&#45;Win64&#45;Shipping&#95;SDK&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57219)|`2026-08-26 18:36:48`|
+|1|[PUBG SDK 2608&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57217)|`2026-08-26 18:36:48`|
+|1|[steam8&#45;20SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57213)|`2026-08-26 18:36:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|["New" hypervisor VMEXIT handler for Intel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759444-hypervisor-vmexit-handler-intel.html)|`2026-08-26 18:36:00`|`Anti-Cheat Bypass`|
+|[a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769004-a.html)|`2026-08-26 18:28:00`|`Counter-Strike 2`|
+|[DirtyBomb Cheat Teleport&#43;RapidFire&#43;Aimbot&#43;ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767599-dirtybomb-cheat-teleport-rapidfire-aimbot-esp.html)|`2026-08-26 18:28:00`|`Other FPS Games`|
+|[Looking for ESP and advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/769068-looking-esp-advice.html)|`2026-08-26 18:26:00`|`ARC Raiders`|
+|[esp external hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768695-esp-external-hack.html)|`2026-08-26 18:24:00`|`Counter-Strike 2`|
+|[hey guys im new&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/769067-hey-guys-im.html)|`2026-08-26 18:20:00`|`Introductions`|
 |[Help BO3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/769097-help-bo3.html)|`2026-08-26 17:59:00`|`Call of Duty: Black Ops 3`|
 |[external esp aim VEX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763435-external-esp-aim-vex.html)|`2026-08-26 17:46:00`|`Valorant`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-08-26 17:30:00`|`Counter-Strike 2`|
