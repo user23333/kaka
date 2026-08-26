@@ -42,6 +42,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[teamcheck not working for some reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/768425-teamcheck-reason.html)|`2026-08-26 23:53:00`|`Marvel Rivals`|
+|[FiveM NUI child frame question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/769159-fivem-nui-child-frame-question.html)|`2026-08-26 23:50:00`|`Alternative Online Mods`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-08-26 23:49:00`|`Other Games`|
+|[Astral Sober external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/761255-astral-sober-external.html)|`2026-08-26 23:47:00`|`Roblox`|
+|[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767931-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-26 23:44:00`|`Roblox`|
+|[nexoria GTA V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769120-nexoria-gta.html)|`2026-08-26 23:44:00`|`Grand Theft Auto V`|
+|[is there a way to not auto join any  team in casual matchmaking?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769158-auto-join-team-casual-matchmaking.html)|`2026-08-26 23:43:00`|`Counter-Strike 2`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-08-26 22:22:00`|`Phasmophobia`|
 |[Gloria Victis Autoblocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764679-gloria-victis-autoblocker.html)|`2026-08-26 22:22:00`|`Other MMORPG and Strategy`|
 |[Forge Master Google Play Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769145-forge-master-google-play-game.html)|`2026-08-26 22:13:00`|`Other Games`|
