@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need optimization tips for SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768209-optimization-tips-smm.html)|`2026-08-26 12:01:00`|`Anti-Cheat Bypass`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-26 11:57:00`|`HELLDIVERS 2`|
+|[External Valorant &#124; Features Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769050-external-valorant-features-collection.html)|`2026-08-26 11:54:00`|`Valorant`|
+|[Showcase of Killaura with silent rotations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/768988-showcase-killaura-silent-rotations.html)|`2026-08-26 11:48:00`|`Minecraft`|
+|[Mistfall Hunter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766244-mistfall-hunter-internal.html)|`2026-08-26 11:44:00`|`Other Games`|
 |[My prediction is causing me to miss shots against high&#45;speed players&#46; How can I fix t](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/769045-prediction-causing-miss-shots-speed-players-fix.html)|`2026-08-26 11:13:00`|`Counter-Strike 2 Releases`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-26 11:03:00`|`Deadlock`|
 |[Rust Decrypted &#40;better than crillmail's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769032-rust-decrypted-crillmails.html)|`2026-08-26 10:58:00`|`Rust`|
