@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Temporary Tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766147-temporary-tracers.html)|`2026-08-26 15:01:00`|`Rust`|
+|[internal chams / wallhack / wireframe &#40;filter&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761970-internal-chams-wallhack-wireframe-filter.html)|`2026-08-26 14:55:00`|`Alternative Online Mods`|
+|[Proper CSS Documentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/769076-proper-css-documentation.html)|`2026-08-26 14:52:00`|`Web and Scripting`|
+|[Running cheats on linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/767062-running-cheats-linux.html)|`2026-08-26 14:44:00`|`Deadlock`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-08-26 14:25:00`|`Other Games`|
 |[Rust/EAC 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768850-rust-eac-2026-a.html)|`2026-08-26 14:13:00`|`Rust`|
 |[AZomboid B42 &#91;Project Zomboid Trainer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767266-azomboid-b42-project-zomboid-trainer.html)|`2026-08-26 14:03:00`|`Other MMORPG and Strategy`|
 |[How to Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768302-fish.html)|`2026-08-26 14:00:00`|`Other Games`|
