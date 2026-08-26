@@ -42,6 +42,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-08-26 19:51:00`|`Other FPS Games`|
+|[nexoriabeta build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/769119-nexoriabeta-build.html)|`2026-08-26 19:50:00`|`Counter-Strike 2 Releases`|
+|[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-26 19:40:00`|`Counter-Strike 2`|
+|[How does VAC Live detect abnormal mouse input?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768144-vac-live-detect-abnormal-mouse-input.html)|`2026-08-26 19:27:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-26 19:35:00`|`Overwatch`|
 |[Testing with Adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/769111-testing-adhesive.html)|`2026-08-26 19:27:00`|`Alternative Online Mods`|
 |[Hi everyone / Introduction](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768863-hi-introduction.html)|`2026-08-26 19:26:00`|`Introductions`|
