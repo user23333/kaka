@@ -42,6 +42,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMOD &#40;LINUX&#41; &#45; Esd&#46;Gmod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765880-gmod-linux-esd-gmod.html)|`2026-08-26 18:48:00`|`Garry's Mod`|
+|[Critical Security Advisory THREAT ANALYSIS: MHUR Trojan Distributed via Forum Comment](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769092-critical-security-advisory-threat-analysis-mhur-trojan-distributed-via-forum-comment.html)|`2026-08-26 18:39:00`|`Other Games`|
+|[hey](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/769108-hey.html)|`2026-08-26 18:38:00`|`Introductions`|
 |["New" hypervisor VMEXIT handler for Intel](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/759444-hypervisor-vmexit-handler-intel.html)|`2026-08-26 18:36:00`|`Anti-Cheat Bypass`|
 |[a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769004-a.html)|`2026-08-26 18:28:00`|`Counter-Strike 2`|
 |[DirtyBomb Cheat Teleport&#43;RapidFire&#43;Aimbot&#43;ESP&#46;&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767599-dirtybomb-cheat-teleport-rapidfire-aimbot-esp.html)|`2026-08-26 18:28:00`|`Other FPS Games`|
