@@ -31,9 +31,12 @@
 |9|[TarkovAddons's updated item&#95;database&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57208)|`2026-08-26 05:41:05`|
 |0|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57201)|`2026-08-26 05:41:05`|
 |2|[reconstructed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57212)|`2026-08-26 08:25:02`|
+|2|[rust decrypted il2cpp dump 8&#46;25&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57215)|`2026-08-26 12:44:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSProject &#45; How to Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768671-bsproject-fish.html)|`2026-08-26 12:21:00`|`Other FPS Games`|
+|[Yimenu &#43;FSL Enhanced with Non Yim/FSL Randoms?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769046-yimenu-fsl-enhanced-yim-fsl-randoms.html)|`2026-08-26 12:20:00`|`Grand Theft Auto V`|
 |[Need optimization tips for SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768209-optimization-tips-smm.html)|`2026-08-26 12:01:00`|`Anti-Cheat Bypass`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-26 11:57:00`|`HELLDIVERS 2`|
 |[External Valorant &#124; Features Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769050-external-valorant-features-collection.html)|`2026-08-26 11:54:00`|`Valorant`|
