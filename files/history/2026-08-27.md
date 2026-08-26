@@ -11,6 +11,7 @@
 |15|[internal base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768177-internal-base.html)|`2026-08-27 00:39:38`|`rust`|
 |9|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-08-27 00:39:38`|`counter-strike-2-a`|
 |8|[nProtect GameGuard disabler &#40;&#43;writeup&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768402-nprotect-gameguard-disabler-writeup.html)|`2026-08-27 00:39:38`|`helldivers-2-a`|
+|31|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-27 04:10:36`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,18 @@
 |25|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57201)|`2026-08-27 00:39:38`|
 |20|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57199)|`2026-08-27 00:39:38`|
 |36|[vgc&#95;dump&#95;1&#46;19 part 3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57198)|`2026-08-27 00:39:38`|
+|4|[Full SDK 10&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57229)|`2026-08-27 04:10:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Proper CSS Documentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/769076-proper-css-documentation.html)|`2026-08-27 04:10:00`|`Web and Scripting`|
+|[CSS x64 &#40;Steam&#41; Latest Offsets/netvars](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/760204-css-x64-steam-offsets-netvars.html)|`2026-08-27 04:04:00`|`CounterStrike Source`|
+|[need cs source steam offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/768987-cs-source-steam-offset.html)|`2026-08-27 03:59:00`|`CounterStrike Source`|
+|[Re&#45;injection issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/769181-re-injection-issue.html)|`2026-08-27 03:58:00`|`Alternative Online Mods`|
+|[r6 external walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769180-r6-external-walls.html)|`2026-08-27 03:57:00`|`Rainbow Six Siege`|
+|[Can anyone help me fix this code that changes weapon values?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/758952-help-fix-code-changes-weapon-values.html)|`2026-08-27 03:56:00`|`HELLDIVERS 2`|
+|[One Armed Robber Maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768886-armed-robber-maps.html)|`2026-08-27 03:55:00`|`Other FPS Games`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-08-27 03:51:00`|`Apex Legends`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-08-27 02:19:00`|`Alternative Online Mods`|
 |[About not working External Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767942-external-source.html)|`2026-08-27 02:14:00`|`Valorant`|
 |[Brawlhalla dumper and dexbot tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769147-brawlhalla-dumper-dexbot-tutorial.html)|`2026-08-27 02:14:00`|`Other Games`|
