@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-26 15:39:00`|`Valorant`|
+|[Stuck on VGC gateway emulation — need secret&#95;16 and module decryption key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769078-stuck-vgc-gateway-emulation-secret_16-module-decryption-key.html)|`2026-08-26 15:39:00`|`Valorant`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-26 15:38:00`|`Call of Duty: Black Ops 7`|
+|[How do i decect convar by name not by address?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768524-decect-convar-name-address.html)|`2026-08-26 15:33:00`|`Counter-Strike 2`|
 |[Temporary Tracers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/766147-temporary-tracers.html)|`2026-08-26 15:01:00`|`Rust`|
 |[internal chams / wallhack / wireframe &#40;filter&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/761970-internal-chams-wallhack-wireframe-filter.html)|`2026-08-26 14:55:00`|`Alternative Online Mods`|
 |[Proper CSS Documentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/769076-proper-css-documentation.html)|`2026-08-26 14:52:00`|`Web and Scripting`|
