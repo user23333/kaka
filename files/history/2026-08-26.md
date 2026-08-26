@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Platform Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769070-platform-player.html)|`2026-08-26 13:14:00`|`Call of Duty: Black Ops 7`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-08-26 13:12:00`|`Other Games`|
+|[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-08-26 13:10:00`|`Rainbow Six Siege`|
+|[CrossFirePH SPEEDHACK  BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/crossfire/767633-crossfireph-speedhack-bypass.html)|`2026-08-26 12:54:00`|`CrossFire`|
 |[BSProject &#45; How to Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768671-bsproject-fish.html)|`2026-08-26 12:21:00`|`Other FPS Games`|
 |[Yimenu &#43;FSL Enhanced with Non Yim/FSL Randoms?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769046-yimenu-fsl-enhanced-yim-fsl-randoms.html)|`2026-08-26 12:20:00`|`Grand Theft Auto V`|
 |[Need optimization tips for SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768209-optimization-tips-smm.html)|`2026-08-26 12:01:00`|`Anti-Cheat Bypass`|
