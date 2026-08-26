@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-08-26 17:12:00`|`Grand Theft Auto V`|
+|[ILLUSORITY &#45; undetected knifebot and movement cheat for hns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/758895-illusority-undetected-knifebot-movement-cheat-hns.html)|`2026-08-26 17:12:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-08-26 17:11:00`|`Rainbow Six Siege`|
+|[cs 1&#46;6 reworked evol dop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766072-cs-1-6-reworked-evol-dop.html)|`2026-08-26 17:09:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-08-26 16:43:00`|`Other Games`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-08-26 16:35:00`|`Other MMORPG and Strategy`|
 |[custom internal chams ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769083-custom-internal-chams.html)|`2026-08-26 16:26:00`|`Counter-Strike 2`|
 |[How Server Admins detect cheaters on server join](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769082-server-admins-detect-cheaters-server-join.html)|`2026-08-26 16:23:00`|`Rust`|
 |[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-08-26 16:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
