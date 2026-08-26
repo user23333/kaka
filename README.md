@@ -42,6 +42,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cursor Overlay &#40;change Cursor Style to draw stuff&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769132-cursor-overlay-change-cursor-style-draw-stuff.html)|`2026-08-26 20:49:00`|`Anti-Cheat Bypass`|
+|[FiveM Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/743461-fivem-spoofer.html)|`2026-08-26 20:45:00`|`Alternative Online Mods`|
+|[RASPBERRY PI 4 COLORBOT ISSUE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769025-raspberry-pi-4-colorbot-issue.html)|`2026-08-26 20:36:00`|`Valorant`|
+|[How can I join the discord](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/293336-join-discord.html)|`2026-08-26 20:30:00`|`Off Topic`|
+|[Majestic x64dbg pause issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/769121-majestic-x64dbg-pause-issue.html)|`2026-08-26 20:28:00`|`Alternative Online Mods`|
+|[What's the best way to cheat in singleplayer games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/769077-whats-cheat-singleplayer-games.html)|`2026-08-26 20:26:00`|`Forum General`|
 |[Squad Offsets for UE 5&#46;5 &#40;Maybe&#46; First time trying&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720829-squad-offsets-ue-5-5-maybe-time-trying.html)|`2026-08-26 19:51:00`|`Other FPS Games`|
 |[nexoriabeta build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/769119-nexoriabeta-build.html)|`2026-08-26 19:50:00`|`Counter-Strike 2 Releases`|
 |[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-26 19:40:00`|`Counter-Strike 2`|
