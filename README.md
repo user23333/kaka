@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[custom internal chams ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769083-custom-internal-chams.html)|`2026-08-26 16:26:00`|`Counter-Strike 2`|
+|[How Server Admins detect cheaters on server join](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769082-server-admins-detect-cheaters-server-join.html)|`2026-08-26 16:23:00`|`Rust`|
+|[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-08-26 16:14:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Problem Starting Resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768734-starting-resource.html)|`2026-08-26 16:01:00`|`Alternative Online Mods`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-26 15:39:00`|`Valorant`|
 |[Stuck on VGC gateway emulation — need secret&#95;16 and module decryption key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769078-stuck-vgc-gateway-emulation-secret_16-module-decryption-key.html)|`2026-08-26 15:39:00`|`Valorant`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-08-26 15:38:00`|`Call of Duty: Black Ops 7`|
