@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-27 23:25:00`|`Tom Clancy's The Division`|
+|[Paladins Raper 9000](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/765625-paladins-raper-9000-a.html)|`2026-08-27 23:18:00`|`Paladins`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-08-27 23:15:00`|`Marvel Rivals`|
+|[3BILLION Laundering &#45; Don't Just Make Millions&#46; Clean Them &#40;Finance & Risk tracker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769283-3billion-laundering-dont-millions-clean-finance-risk-tracker.html)|`2026-08-27 23:12:00`|`Grand Theft Auto V`|
+|[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-27 23:01:00`|`Counter-Strike 2`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-27 23:01:00`|`Grand Theft Auto V`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-08-27 23:01:00`|`Call of Duty: Black Ops 7`|
 |[Looking for a way to use the token to actually get into a match&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768828-looking-token-actually-match.html)|`2026-08-27 12:32:00`|`ARC Raiders`|
 |[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-08-27 12:28:00`|`Overwatch`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-27 12:26:00`|`Apex Legends`|
