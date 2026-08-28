@@ -11,6 +11,7 @@
 |8|[nProtect GameGuard disabler &#40;&#43;writeup&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768402-nprotect-gameguard-disabler-writeup.html)|`2026-08-28 08:29:10`|`helldivers-2-a`|
 |13|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-08-28 08:29:10`|`overwatch`|
 |31|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-28 08:29:10`|`anti-cheat-bypass`|
+|23|[EAC New HWID Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768786-eac-hwid-techniques.html)|`2026-08-28 19:38:04`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,22 @@
 |85|[rust decrypted il2cpp dump 8&#46;25&#46;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57215)|`2026-08-28 08:29:10`|
 |28|[steam8&#45;20SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57213)|`2026-08-28 08:29:10`|
 |92|[reconstructed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57212)|`2026-08-28 08:29:10`|
+|1|[AssaultCube&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57270)|`2026-08-28 19:38:04`|
+|5|[The Finals SDK steam 8&#45;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57269)|`2026-08-28 19:38:04`|
+|1|[Smite2SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57267)|`2026-08-28 19:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-08-28 19:36:00`|`Other FPS Games`|
+|[How to win HVHs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769373-win-hvhs.html)|`2026-08-28 19:31:00`|`Counter-Strike 2`|
+|[3BILLION Laundering &#45; Don't Just Make Millions&#46; Clean Them &#40;Finance & Risk tracker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769283-3billion-laundering-dont-millions-clean-finance-risk-tracker.html)|`2026-08-28 19:26:00`|`Grand Theft Auto V`|
+|[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/769115-revemu-steamid-changer.html)|`2026-08-28 19:25:00`|`CounterStrike Source`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-08-28 19:25:00`|`Escape from Tarkov`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-28 19:22:00`|`Valorant`|
+|[Which overlay ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768410-overlay.html)|`2026-08-28 19:19:00`|`Anti-Cheat Bypass`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-08-28 19:19:00`|`Grand Theft Auto V`|
+|[Sea of Thieves Internal C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/769217-sea-thieves-internal.html)|`2026-08-28 19:19:00`|`Sea of Thieves`|
+|[Ara&#95;blox &#45; External &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/765870-ara_blox-external-source.html)|`2026-08-28 19:08:00`|`Roblox`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-28 08:18:00`|`Escape from Tarkov`|
 |[Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/768609-anticheat.html)|`2026-08-28 08:10:00`|`Alternative Online Mods`|
 |[HexTrainer Payday2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/769255-hextrainer-payday2.html)|`2026-08-28 08:00:00`|`Payday 2`|
