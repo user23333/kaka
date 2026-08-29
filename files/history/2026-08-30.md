@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Homemade HPTT or Heino2 Alternatives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767904-homemade-hptt-heino2-alternatives.html)|`2026-08-30 04:53:00`|`Anti-Cheat Bypass`|
+|[fix van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769674-fix-van-152-a.html)|`2026-08-30 04:52:00`|`Valorant`|
+|[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-30 04:50:00`|`Other MMORPG and Strategy`|
+|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-30 04:49:00`|`Anti-Cheat Bypass`|
+|[CodeDefender](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768348-codedefender.html)|`2026-08-30 04:47:00`|`Anti-Cheat Bypass`|
+|[Does EAC/Javelin actually ban for using SendInput / NtUserSendInput?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/766299-eac-javelin-actually-ban-using-sendinput-ntusersendinput.html)|`2026-08-30 04:45:00`|`Anti-Cheat Bypass`|
+|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-30 04:41:00`|`Other MMORPG and Strategy`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-30 04:41:00`|`Apex Legends`|
+|[Is freeing kdmapper allocated memory before EAC runs detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769628-freeing-kdmapper-allocated-memory-eac-runs-detected.html)|`2026-08-30 04:30:00`|`Anti-Cheat Bypass`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-08-30 02:12:00`|`Counter-Strike 2`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-08-30 02:11:00`|`Call of Duty: Black Ops 7`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-30 02:11:00`|`Other MMORPG and Strategy`|
