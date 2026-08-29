@@ -11,6 +11,7 @@
 |32|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-29 05:30:31`|`anti-cheat-bypass`|
 |20|[Rust Decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768637-rust-decrypted.html)|`2026-08-29 05:30:31`|`rust`|
 |8|[BEDaisy Entry Point Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768540-bedaisy-entry-resolution.html)|`2026-08-29 05:30:31`|`anti-cheat-bypass`|
+|8|[Aliens: Fireteam Elite 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769137-aliens-fireteam-elite-2-a.html)|`2026-08-29 11:15:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-08-29 11:14:00`|`Overwatch`|
+|[hijacking disc overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768429-hijacking-disc-overlay.html)|`2026-08-29 11:12:00`|`Anti-Cheat Bypass`|
+|[Another File Analyzer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/769194-file-analyzer.html)|`2026-08-29 11:10:00`|`Information and Announcements`|
+|[Your First External ESP &#45; From Zero to Working &#40;Game Agnostic&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/768847-external-esp-zero-game-agnostic.html)|`2026-08-29 11:03:00`|`Programming for Beginners`|
+|[What first step to be a cheat dev?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/769250-step-cheat-dev.html)|`2026-08-29 11:01:00`|`Programming for Beginners`|
+|[Help into to gamehacking &#45; next steps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/759916-help-gamehacking-steps.html)|`2026-08-29 10:57:00`|`Forum General`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-08-29 10:56:00`|`HELLDIVERS 2`|
+|[EAC Driver Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/757973-eac-driver-source.html)|`2026-08-29 10:54:00`|`Tom Clancy's The Division`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-08-29 05:28:00`|`Call of Duty: Black Ops 7`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-08-29 05:26:00`|`Escape from Tarkov`|
 |[DuskFade Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/768411-duskfade-trainer.html)|`2026-08-29 05:21:00`|`Other MMORPG and Strategy`|
