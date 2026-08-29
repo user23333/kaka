@@ -13,6 +13,7 @@
 |8|[BEDaisy Entry Point Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768540-bedaisy-entry-resolution.html)|`2026-08-29 05:30:31`|`anti-cheat-bypass`|
 |8|[Aliens: Fireteam Elite 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769137-aliens-fireteam-elite-2-a.html)|`2026-08-29 11:15:37`|`other-fps-games`|
 |28|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-08-29 18:06:24`|`helldivers-2-a`|
+|13|[ud driver &#43; mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768619-ud-driver-mapper.html)|`2026-08-29 23:00:43`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-08-29 22:50:00`|`Tom Clancy's The Division`|
+|[r6 aimbot, esp etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769483-r6-aimbot-esp-etc.html)|`2026-08-29 22:47:00`|`Rainbow Six Siege`|
+|[bypass ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769297-bypass-ricochet.html)|`2026-08-29 22:46:00`|`Call of Duty: Black Ops 7`|
+|[&#91;hyperion bypass&#93; "like sober" but open source &#45; Nuah &#45;  Linux Runtime for roblox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/767931-hyperion-bypass-sober-source-nuah-linux-runtime-roblox.html)|`2026-08-29 22:40:00`|`Roblox`|
+|[Banned bypasser?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769577-banned-bypasser.html)|`2026-08-29 22:40:00`|`Marvel Rivals`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-08-29 22:36:00`|`Apex Legends`|
+|[Gemini 3&#46;5 Jailbreak Prompt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/755829-gemini-3-5-jailbreak-prompt.html)|`2026-08-29 22:27:00`|`Forum General`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-08-29 22:24:00`|`Other MMORPG and Strategy`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-08-29 18:04:00`|`Other FPS Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-08-29 18:03:00`|`Other MMORPG and Strategy`|
 |[Hell Let Loose: Vietnam Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749633-hell-loose-vietnam-reversal-structs-offsets.html)|`2026-08-29 18:00:00`|`Other FPS Games`|
