@@ -11,6 +11,7 @@
 |20|[Rust Decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768637-rust-decrypted.html)|`2026-08-30 02:13:15`|`rust`|
 |8|[BEDaisy Entry Point Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768540-bedaisy-entry-resolution.html)|`2026-08-30 02:13:15`|`anti-cheat-bypass`|
 |10|[GhostDebug: VEH&#45;based x64 undetected debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768486-ghostdebug-veh-based-x64-undetected-debugger.html)|`2026-08-30 02:13:15`|`anti-cheat-bypass`|
+|5|[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-30 06:50:04`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,18 @@
 |2|[FFVIII&#95;Remastered&#95;Minimal&#95;v103&#95;WORKING](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57258)|`2026-08-30 02:13:15`|
 |49|[HexTrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57253)|`2026-08-30 02:13:15`|
 |20|[Super Mission Editor v1&#46;0&#46;4&#46;1&#46;1&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57251)|`2026-08-30 02:13:15`|
+|1|[ricochet&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57295)|`2026-08-30 06:50:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RICOCHET AC Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769691-ricochet-ac-dump.html)|`2026-08-30 06:47:00`|`Anti-Cheat Bypass`|
+|[Need some help w my driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769623-help-driver.html)|`2026-08-30 06:41:00`|`Rust`|
+|[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-08-30 06:34:00`|`General Programming and Reversing`|
+|[UE5 ver Make lock pick really easy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/769679-ue5-ver-lock-pick-easy.html)|`2026-08-30 06:26:00`|`Payday 3`|
+|[Reforger DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/768421-reforger-dma.html)|`2026-08-30 06:25:00`|`ARMA 3`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-08-30 06:25:00`|`Other FPS Games`|
+|[Riftstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768488-riftstorm.html)|`2026-08-30 06:22:00`|`Other Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-08-30 06:19:00`|`Apex Legends`|
 |[Homemade HPTT or Heino2 Alternatives](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767904-homemade-hptt-heino2-alternatives.html)|`2026-08-30 04:53:00`|`Anti-Cheat Bypass`|
 |[fix van 152](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769674-fix-van-152-a.html)|`2026-08-30 04:52:00`|`Valorant`|
 |[Soul's Remnant multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767842-souls-remnant-multihack.html)|`2026-08-30 04:50:00`|`Other MMORPG and Strategy`|
