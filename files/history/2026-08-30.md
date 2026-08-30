@@ -12,6 +12,7 @@
 |8|[BEDaisy Entry Point Resolution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768540-bedaisy-entry-resolution.html)|`2026-08-30 02:13:15`|`anti-cheat-bypass`|
 |10|[GhostDebug: VEH&#45;based x64 undetected debugger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768486-ghostdebug-veh-based-x64-undetected-debugger.html)|`2026-08-30 02:13:15`|`anti-cheat-bypass`|
 |5|[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-30 06:50:04`|`counter-strike-2-a`|
+|24|[r6 aimbot, esp etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769483-r6-aimbot-esp-etc.html)|`2026-08-30 23:00:15`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,18 @@
 |6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57305)|`2026-08-30 13:52:40`|
 |86|[R6 Aimbot Esp ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57283)|`2026-08-30 13:52:40`|
 |3|[prefabs&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57316)|`2026-08-30 18:43:42`|
+|5|[S2Cheat&#45;2026&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57292)|`2026-08-30 23:00:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-08-30 22:59:00`|`Counter-Strike 2`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-08-30 22:59:00`|`Counter-Strike 2 Releases`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-08-30 22:56:00`|`Scum`|
+|[Final Fantasy XIII – Standalone 2&#45;Option Trainer &#40;2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768614-final-fantasy-xiii-standalone-2-option-trainer-2026-a.html)|`2026-08-30 22:52:00`|`Other Games`|
+|[Fallout Shelter Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768450-fallout-shelter-internal.html)|`2026-08-30 22:49:00`|`Other Games`|
+|[Discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769756-discord-overlay.html)|`2026-08-30 22:49:00`|`Rust`|
+|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-08-30 22:46:00`|`Apex Legends`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-08-30 22:27:00`|`Valorant`|
 |[Use of hypervisors for Battleye protected games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769727-hypervisors-battleye-protected-games.html)|`2026-08-30 18:43:00`|`Anti-Cheat Bypass`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-30 18:34:00`|`Deadlock`|
 |[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-30 18:31:00`|`Tom Clancy's The Division`|
