@@ -29,9 +29,19 @@
 |3|[AssaultCubeEx&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57309)|`2026-08-30 08:46:51`|
 |6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57305)|`2026-08-30 13:52:40`|
 |86|[R6 Aimbot Esp ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57283)|`2026-08-30 13:52:40`|
+|3|[prefabs&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57316)|`2026-08-30 18:43:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Use of hypervisors for Battleye protected games?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769727-hypervisors-battleye-protected-games.html)|`2026-08-30 18:43:00`|`Anti-Cheat Bypass`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-08-30 18:34:00`|`Deadlock`|
+|[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-08-30 18:31:00`|`Tom Clancy's The Division`|
+|[Aliens: Fireteam Elite 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769137-aliens-fireteam-elite-2-a.html)|`2026-08-30 18:26:00`|`Other FPS Games`|
+|[RASPBERRY PI 4 COLORBOT ISSUE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769025-raspberry-pi-4-colorbot-issue.html)|`2026-08-30 18:24:00`|`Valorant`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-08-30 18:19:00`|`Other FPS Games`|
+|[bypassed vg152 but still getting banned?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/752790-bypassed-vg152-getting-banned.html)|`2026-08-30 18:18:00`|`League of Legends`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-08-30 18:15:00`|`Other MMORPG and Strategy`|
+|[Contractors Vr cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769072-contractors-vr-cheat.html)|`2026-08-30 18:15:00`|`Other FPS Games`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-30 13:51:00`|`Red Dead Redemption 2`|
 |[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-08-30 13:51:00`|`Counter-Strike 2`|
 |[Star Citizen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769715-star-citizen.html)|`2026-08-30 13:42:00`|`Other FPS Games`|
