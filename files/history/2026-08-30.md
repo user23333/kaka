@@ -27,9 +27,20 @@
 |20|[Super Mission Editor v1&#46;0&#46;4&#46;1&#46;1&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57251)|`2026-08-30 02:13:15`|
 |1|[ricochet&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57295)|`2026-08-30 06:50:04`|
 |3|[AssaultCubeEx&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57309)|`2026-08-30 08:46:51`|
+|6|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57305)|`2026-08-30 13:52:40`|
+|86|[R6 Aimbot Esp ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57283)|`2026-08-30 13:52:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-30 13:51:00`|`Red Dead Redemption 2`|
+|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-08-30 13:51:00`|`Counter-Strike 2`|
+|[Star Citizen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769715-star-citizen.html)|`2026-08-30 13:42:00`|`Other FPS Games`|
+|[Sharing my journey for accountability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/769570-sharing-journey-accountability.html)|`2026-08-30 13:35:00`|`General Programming and Reversing`|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-08-30 13:31:00`|`Anti-Cheat Bypass`|
+|[prefabs&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769712-prefabs-json-format.html)|`2026-08-30 13:30:00`|`Rust`|
+|[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-08-30 13:26:00`|`Other MMORPG and Strategy`|
+|[Sineus Arena Survivors &#45; Cheat Menu v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768412-sineus-arena-survivors-cheat-menu-v1-0-a.html)|`2026-08-30 13:18:00`|`Other Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-08-30 13:16:00`|`Overwatch`|
 |[Third Person &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769697-third-person-internal.html)|`2026-08-30 08:46:00`|`Counter-Strike 2`|
 |[Looking for a way to use the token to actually get into a match&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768828-looking-token-actually-match.html)|`2026-08-30 08:22:00`|`ARC Raiders`|
 |[Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/763689-vulnerable-driver-eac.html)|`2026-08-30 07:57:00`|`Apex Legends`|
