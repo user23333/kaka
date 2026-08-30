@@ -26,9 +26,15 @@
 |49|[HexTrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57253)|`2026-08-30 02:13:15`|
 |20|[Super Mission Editor v1&#46;0&#46;4&#46;1&#46;1&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57251)|`2026-08-30 02:13:15`|
 |1|[ricochet&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57295)|`2026-08-30 06:50:04`|
+|3|[AssaultCubeEx&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57309)|`2026-08-30 08:46:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Third Person &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769697-third-person-internal.html)|`2026-08-30 08:46:00`|`Counter-Strike 2`|
+|[Looking for a way to use the token to actually get into a match&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768828-looking-token-actually-match.html)|`2026-08-30 08:22:00`|`ARC Raiders`|
+|[Vulnerable Driver Against EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/763689-vulnerable-driver-eac.html)|`2026-08-30 07:57:00`|`Apex Legends`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-08-30 07:57:00`|`Overwatch`|
+|[bypass ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769297-bypass-ricochet.html)|`2026-08-30 07:52:00`|`Call of Duty: Black Ops 7`|
 |[RICOCHET AC Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769691-ricochet-ac-dump.html)|`2026-08-30 06:47:00`|`Anti-Cheat Bypass`|
 |[Need some help w my driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769623-help-driver.html)|`2026-08-30 06:41:00`|`Rust`|
 |[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-08-30 06:34:00`|`General Programming and Reversing`|
