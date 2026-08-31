@@ -14,6 +14,10 @@
 |7|[Genshin Impact 7&#46;0 dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/768681-genshin-impact-7-0-dumps.html)|`2026-08-31 05:20:39`|`genshin-impact`|
 |16|[Information for bypass vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768688-information-bypass-vac.html)|`2026-08-31 07:35:03`|`counter-strike-2-a`|
 |10|[Stuck on VGC gateway emulation — need secret&#95;16 and module decryption key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769078-stuck-vgc-gateway-emulation-secret_16-module-decryption-key.html)|`2026-08-31 15:31:47`|`valorant`|
+|8|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-08-31 23:18:38`|`anti-cheat-bypass`|
+|14|[Proton EAC Reversed / Reconstructed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769027-proton-eac-reversed-reconstructed.html)|`2026-08-31 23:18:38`|`anti-cheat-bypass`|
+|3|[Fishy a How to Fish Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768768-fishy-fish-cheat.html)|`2026-08-31 23:18:38`|`other-fps-games`|
+|6|[My MW4 Beta base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768897-mw4-beta-base.html)|`2026-08-31 23:18:38`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +31,19 @@
 |36|[The Finals SDK steam 8&#45;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57269)|`2026-08-31 02:28:00`|
 |116|[Apex legends ONNX YOLO model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57268)|`2026-08-31 02:28:00`|
 |9|[Smite2SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57267)|`2026-08-31 02:28:00`|
+|130|[Division2ImGuiHook&#95;Release&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57289)|`2026-08-31 23:18:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem offsets &#40;b1604&#45;b3751&#41; &#124; Updated in future for newer builds](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/765662-fivem-offsets-b1604-b3751-updated-future-builds.html)|`2026-08-31 23:10:00`|`Alternative Online Mods`|
+|[phasmo savefile](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/768994-phasmo-savefile.html)|`2026-08-31 23:07:00`|`Phasmophobia`|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2026-08-31 23:06:00`|`Other MMORPG and Strategy`|
+|[Smite 2 Internal by sniper&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754440-smite-2-internal-sniper.html)|`2026-08-31 23:05:00`|`Other FPS Games`|
+|[Instagram Video Posted By @callofduty as a Warning to Hackers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/769528-instagram-video-posted-callofduty-warning-hackers.html)|`2026-08-31 23:02:00`|`Off Topic`|
+|[Crazy exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/769822-crazy-exploit.html)|`2026-08-31 23:00:00`|`Farlight 84`|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-08-31 22:58:00`|`Anti-Cheat Bypass`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-08-31 22:57:00`|`Overwatch`|
+|[VALORANT 13&#46;04 — GWorld Alternating Between Two UWorld Instances](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769982-valorant-13-04-gworld-alternating-uworld-instances.html)|`2026-08-31 22:50:00`|`Valorant`|
 |[For korean users, cheat would be working after nexon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/755999-korean-users-cheat-nexon.html)|`2026-08-31 15:30:00`|`Overwatch`|
 |[SCP: SL Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761238-scp-sl-spoofer.html)|`2026-08-31 15:26:00`|`Other Games`|
 |[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-31 15:16:00`|`Other MMORPG and Strategy`|
