@@ -13,6 +13,7 @@
 |5|[nexoriabeta full source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769117-nexoriabeta-source.html)|`2026-08-31 02:28:00`|`counter-strike-2-a`|
 |7|[Genshin Impact 7&#46;0 dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/768681-genshin-impact-7-0-dumps.html)|`2026-08-31 05:20:39`|`genshin-impact`|
 |16|[Information for bypass vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768688-information-bypass-vac.html)|`2026-08-31 07:35:03`|`counter-strike-2-a`|
+|10|[Stuck on VGC gateway emulation — need secret&#95;16 and module decryption key](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769078-stuck-vgc-gateway-emulation-secret_16-module-decryption-key.html)|`2026-08-31 15:31:47`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[For korean users, cheat would be working after nexon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/755999-korean-users-cheat-nexon.html)|`2026-08-31 15:30:00`|`Overwatch`|
+|[SCP: SL Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761238-scp-sl-spoofer.html)|`2026-08-31 15:26:00`|`Other Games`|
+|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-08-31 15:16:00`|`Other MMORPG and Strategy`|
+|[Rotfront](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768670-rotfront.html)|`2026-08-31 15:08:00`|`Other FPS Games`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-08-31 15:06:00`|`Red Dead Redemption 2`|
+|[MarvelRivals dynamic bones resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769890-marvelrivals-dynamic-bones-resolver.html)|`2026-08-31 15:02:00`|`Marvel Rivals`|
+|[FOV manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/769889-fov-manipulation.html)|`2026-08-31 14:50:00`|`Battlefield 2`|
 |[Help creating a "RADAR" in mw4&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769559-help-creating-radar-mw4.html)|`2026-08-31 09:24:00`|`Call of Duty: Black Ops 7`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-08-31 09:21:00`|`Other FPS Games`|
 |[External Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/767348-external-base.html)|`2026-08-31 09:14:00`|`Escape from Tarkov`|
