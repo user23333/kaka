@@ -24,9 +24,23 @@
 |654|[R6 Aimbot Esp ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57283)|`2026-09-01 08:07:27`|
 |15|[AssaultCube&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57270)|`2026-09-01 08:07:27`|
 |48|[The Finals SDK steam 8&#45;27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57269)|`2026-09-01 08:07:27`|
+|3|[Deimos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57360)|`2026-09-01 22:17:58`|
+|14|[FishSense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57359)|`2026-09-01 22:17:58`|
+|9|[Fortnite&#45;2026&#45;08&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57357)|`2026-09-01 22:17:58`|
+|1|[SeaOfThieves Steam SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57356)|`2026-09-01 22:17:58`|
+|9|[GD files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57340)|`2026-09-01 22:17:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why your external read/write "method" is probably detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/767692-external-read-write-method-probably-detected.html)|`2026-09-01 22:14:00`|`Anti-Cheat Bypass`|
+|[Call of Duty: Black Ops 1 Steam Offhost Mod Tool &#40;Redboxes, Blackbird & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/760025-call-duty-black-ops-1-steam-offhost-mod-tool-redboxes-blackbird.html)|`2026-09-01 22:14:00`|`Call of Duty: Black Ops`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-09-01 22:13:00`|`Valorant`|
+|[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-09-01 22:10:00`|`Rainbow Six Siege`|
+|[Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769827-rogue-company-internal.html)|`2026-09-01 22:10:00`|`Other Games`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-09-01 22:09:00`|`Rainbow Six Siege`|
+|[race condition in battle eye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770058-race-condition-battle-eye.html)|`2026-09-01 22:05:00`|`Anti-Cheat Bypass`|
+|[PointBlank Log AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769872-pointblank-log-anticheat.html)|`2026-09-01 22:03:00`|`Anti-Cheat Bypass`|
+|[Stuck on Windows 11 24H2 — Need a Working Vulnerable Driver or a Way to Sign My Drive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769803-stuck-windows-11-24h2-vulnerable-driver-sign-drive.html)|`2026-09-01 21:56:00`|`Apex Legends`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-09-01 17:41:00`|`Overwatch`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-01 17:27:00`|`Other FPS Games`|
 |[NO BACKUP &#45; Internal Mod Menu &#124; Aimbot, ESP, Infinite Ammo & Money, Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768816-backup-internal-mod-menu-aimbot-esp-infinite-ammo-money-bullet.html)|`2026-09-01 17:26:00`|`Other Games`|
