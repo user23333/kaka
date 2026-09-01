@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-09-01 17:41:00`|`Overwatch`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-01 17:27:00`|`Other FPS Games`|
+|[NO BACKUP &#45; Internal Mod Menu &#124; Aimbot, ESP, Infinite Ammo & Money, Bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768816-backup-internal-mod-menu-aimbot-esp-infinite-ammo-money-bullet.html)|`2026-09-01 17:26:00`|`Other Games`|
+|[internal interface dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770115-internal-interface-dumper.html)|`2026-09-01 17:18:00`|`Counter-Strike 2`|
+|[Permanently banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/767424-permanently-banned.html)|`2026-09-01 17:12:00`|`Grand Theft Auto V`|
+|[Is there any way to extract contraband similar to the Secure container Boss right now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/770114-extract-contraband-similar-secure-container-boss.html)|`2026-09-01 17:06:00`|`Escape from Tarkov`|
+|[Soul's Remnant Mod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769900-souls-remnant-mod-cheat.html)|`2026-09-01 16:59:00`|`Other MMORPG and Strategy`|
+|[Contractors Vr cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769072-contractors-vr-cheat.html)|`2026-09-01 16:58:00`|`Other FPS Games`|
 |[help rust  external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769902-help-rust-external.html)|`2026-09-01 12:57:00`|`Rust`|
 |[Applying stickers and keychains on skinchanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/753000-applying-stickers-keychains-skinchanger.html)|`2026-09-01 12:57:00`|`Counter-Strike 2`|
 |[How did you get into this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/770101-how-did-you-get-into-this.html)|`2026-09-01 12:35:00`|`Forum General`|
