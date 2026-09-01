@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-09-02 06:29:00`|`Call of Duty: Black Ops 7`|
+|[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770201-spoofer.html)|`2026-09-02 06:25:00`|`Rust`|
+|[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-09-02 06:23:00`|`Valorant`|
+|[PRIVATE FIVEM CHEAT PROVIDER&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/770198-private-fivem-cheat-provider.html)|`2026-09-02 06:21:00`|`Alternative Online Mods`|
+|[Looking for a way to use the token to actually get into a match&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768828-looking-token-actually-match.html)|`2026-09-02 06:20:00`|`ARC Raiders`|
+|[VALORANT Range/Practice Bots invisible in ESP — FName is None, bone&#95;array read fails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770197-valorant-range-practice-bots-invisible-esp-fname-none-bone_array-read-fails.html)|`2026-09-02 06:13:00`|`Valorant`|
+|[hitbox spheres or skeleton, both half broken](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770097-hitbox-spheres-skeleton-half-broken.html)|`2026-09-02 06:08:00`|`Overwatch`|
 |[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-09-02 04:07:00`|`Other FPS Games`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-02 04:01:00`|`Anti-Cheat Bypass`|
 |[Testing with Adhesive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/769111-testing-adhesive.html)|`2026-09-02 04:00:00`|`Alternative Online Mods`|
