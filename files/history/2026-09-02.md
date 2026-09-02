@@ -12,6 +12,7 @@
 |8|[3BILLION Laundering &#45; Don't Just Make Millions&#46; Clean Them &#40;Finance & Risk tracker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769283-3billion-laundering-dont-millions-clean-finance-risk-tracker.html)|`2026-09-02 01:50:46`|`grand-theft-auto-v`|
 |8|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-09-02 01:50:46`|`apex-legends`|
 |13|[NEP Racer Bypass &#43; internal and injector &#40;Ready Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769135-nep-racer-bypass-internal-injector-ready-cheat.html)|`2026-09-02 08:27:40`|`marvel-rivals`|
+|17|[HexTrainer Payday2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/769255-hextrainer-payday2.html)|`2026-09-02 17:06:54`|`payday-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-09-02 17:06:00`|`Other FPS Games`|
+|[race condition in battle eye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770058-race-condition-battle-eye.html)|`2026-09-02 17:02:00`|`Anti-Cheat Bypass`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-02 16:57:00`|`Escape from Tarkov`|
+|[bypass ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769297-bypass-ricochet.html)|`2026-09-02 16:53:00`|`Call of Duty: Black Ops 7`|
+|[CM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/741894-cm-internal.html)|`2026-09-02 16:48:00`|`Combat Master`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-02 16:40:00`|`Call of Duty: Black Ops 7`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-09-02 16:31:00`|`Tom Clancy's The Division`|
 |[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-09-02 12:43:00`|`HELLDIVERS 2`|
 |[Rhythia Auto Play, Replay bot and Timewarp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767609-rhythia-auto-play-replay-bot-timewarp-cheat.html)|`2026-09-02 12:41:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-02 12:21:00`|`Escape from Tarkov`|
