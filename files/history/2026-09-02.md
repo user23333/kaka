@@ -13,6 +13,9 @@
 |8|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-09-02 01:50:46`|`apex-legends`|
 |13|[NEP Racer Bypass &#43; internal and injector &#40;Ready Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769135-nep-racer-bypass-internal-injector-ready-cheat.html)|`2026-09-02 08:27:40`|`marvel-rivals`|
 |17|[HexTrainer Payday2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/769255-hextrainer-payday2.html)|`2026-09-02 17:06:54`|`payday-2-a`|
+|12|[New R6 Anticheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770142-r6-anticheat.html)|`2026-09-02 21:34:04`|`rainbow-six-siege`|
+|18|[Brawlhalla dumper and dexbot tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769147-brawlhalla-dumper-dexbot-tutorial.html)|`2026-09-02 21:34:04`|`other-games`|
+|7|[Mystic &#45; Genshin 7&#46;0 Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/769732-mystic-genshin-7-0-release.html)|`2026-09-02 21:34:04`|`genshin-impact`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +29,17 @@
 |10|[AssaultCubeEx&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57309)|`2026-09-02 01:50:46`|
 |67|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57305)|`2026-09-02 01:50:46`|
 |68|[ricochet&#95;dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57295)|`2026-09-02 01:50:46`|
+|3|[Fallout Shelter Interal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57326)|`2026-09-02 21:34:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-02 21:32:00`|`Other FPS Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-02 21:23:00`|`Other FPS Games`|
+|[Brawlhalla dumper and dexbot tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769147-brawlhalla-dumper-dexbot-tutorial.html)|`2026-09-02 21:17:00`|`Other Games`|
+|[Dead By Daylight External Tool &#40;Linux&#43;Flatpak&#41;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/750598-dead-daylight-external-tool-linux-flatpak.html)|`2026-09-02 21:17:00`|`Other FPS Games`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-09-02 21:16:00`|`Elite: Dangerous`|
+|[Did Ricochet genuinely kill HWID spoofing? broke all the providers with an update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770262-ricochet-genuinely-kill-hwid-spoofing-broke-providers-update.html)|`2026-09-02 21:15:00`|`Anti-Cheat Bypass`|
+|[Meshing helper Ark Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769963-meshing-helper-ark-ascended.html)|`2026-09-02 21:03:00`|`Other FPS Games`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-09-02 17:06:00`|`Other FPS Games`|
 |[race condition in battle eye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770058-race-condition-battle-eye.html)|`2026-09-02 17:02:00`|`Anti-Cheat Bypass`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-02 16:57:00`|`Escape from Tarkov`|
