@@ -11,6 +11,7 @@
 |7|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-09-02 01:50:46`|`counter-strike-2-a`|
 |8|[3BILLION Laundering &#45; Don't Just Make Millions&#46; Clean Them &#40;Finance & Risk tracker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/769283-3billion-laundering-dont-millions-clean-finance-risk-tracker.html)|`2026-09-02 01:50:46`|`grand-theft-auto-v`|
 |8|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-09-02 01:50:46`|`apex-legends`|
+|13|[NEP Racer Bypass &#43; internal and injector &#40;Ready Cheat&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769135-nep-racer-bypass-internal-injector-ready-cheat.html)|`2026-09-02 08:27:40`|`marvel-rivals`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-02 08:15:00`|`Apex Legends`|
+|[EAC New HWID Techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/768786-eac-hwid-techniques.html)|`2026-09-02 07:54:00`|`Anti-Cheat Bypass`|
+|[Changing nameSuffix in userinfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770192-changing-namesuffix-userinfo.html)|`2026-09-02 07:41:00`|`Call of Duty: Black Ops 7`|
+|[Deadlock Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/762369-deadlock-help.html)|`2026-09-02 07:19:00`|`Deadlock`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-09-02 06:29:00`|`Call of Duty: Black Ops 7`|
 |[Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770201-spoofer.html)|`2026-09-02 06:25:00`|`Rust`|
 |[Val Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/767714-val-ext.html)|`2026-09-02 06:23:00`|`Valorant`|
