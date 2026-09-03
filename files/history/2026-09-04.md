@@ -11,6 +11,7 @@
 |9|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-09-04 02:30:44`|`apex-legends`|
 |26|[Soul's Remnant Mod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769900-souls-remnant-mod-cheat.html)|`2026-09-04 02:30:44`|`other-mmorpg-and-strategy`|
 |6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-04 02:30:44`|`anti-cheat-bypass`|
+|19|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-04 05:14:11`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,21 @@
 |70|[Fortnite&#45;2026&#45;08&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57357)|`2026-09-04 02:30:44`|
 |25|[SeaOfThieves Steam SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57356)|`2026-09-04 02:30:44`|
 |70|[signed matchio filter driver 204&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57344)|`2026-09-04 02:30:44`|
+|1|[DC Universe Online Flash Launcher &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57410)|`2026-09-04 05:14:11`|
+|0|[DC Universe Online Flash Launcher &#40;Binary&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57409)|`2026-09-04 05:14:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMM collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770426-smm-collab.html)|`2026-09-04 05:10:00`|`Anti-Cheat Bypass`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-04 05:10:00`|`Other FPS Games`|
+|[Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/769482-kirkware.html)|`2026-09-04 05:09:00`|`Garry's Mod`|
+|[Changing nameSuffix in userinfo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770192-changing-namesuffix-userinfo.html)|`2026-09-04 05:09:00`|`Call of Duty: Black Ops 7`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-09-04 05:09:00`|`Counter-Strike 2`|
+|[vulnerable drivers &#40; the last one &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/764900-vulnerable-drivers.html)|`2026-09-04 05:03:00`|`Anti-Cheat Bypass`|
+|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2026-09-04 05:01:00`|`Other Games`|
+|[bypass ricochet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769297-bypass-ricochet.html)|`2026-09-04 05:00:00`|`Call of Duty: Black Ops 7`|
+|[Contractors Showdown Exfilzone Vr](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767017-contractors-showdown-exfilzone-vr.html)|`2026-09-04 04:59:00`|`Other FPS Games`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-09-04 04:58:00`|`Phasmophobia`|
 |[Bodycam Locked & Loaded esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770338-bodycam-locked-loaded-esp.html)|`2026-09-04 02:28:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-04 02:24:00`|`Rust`|
 |[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-04 02:24:00`|`Anti-Cheat Bypass`|
