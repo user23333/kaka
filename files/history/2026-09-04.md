@@ -12,6 +12,7 @@
 |26|[Soul's Remnant Mod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769900-souls-remnant-mod-cheat.html)|`2026-09-04 02:30:44`|`other-mmorpg-and-strategy`|
 |6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-04 02:30:44`|`anti-cheat-bypass`|
 |19|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-04 05:14:11`|`valorant`|
+|14|[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770146-ai-deobfuscation.html)|`2026-09-04 07:16:27`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex Offset Dumper Source Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/770381-apex-offset-dumper-source-files.html)|`2026-09-04 07:11:00`|`Apex Legends`|
+|[Machine Party](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769590-machine-party.html)|`2026-09-04 07:09:00`|`Other Games`|
+|[Cheat Detectable&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770415-cheat-detectable.html)|`2026-09-04 07:08:00`|`Call of Duty: Black Ops 7`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-09-04 07:06:00`|`Grand Theft Auto V`|
+|[Jawsnow internal &#40;linux&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746731-jawsnow-internal-linux.html)|`2026-09-04 06:51:00`|`Overwatch`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-09-04 06:48:00`|`Overwatch`|
 |[SMM collab](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770426-smm-collab.html)|`2026-09-04 05:10:00`|`Anti-Cheat Bypass`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-04 05:10:00`|`Other FPS Games`|
 |[Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/769482-kirkware.html)|`2026-09-04 05:09:00`|`Garry's Mod`|
