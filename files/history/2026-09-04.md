@@ -13,6 +13,7 @@
 |6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-04 02:30:44`|`anti-cheat-bypass`|
 |19|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-04 05:14:11`|`valorant`|
 |14|[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770146-ai-deobfuscation.html)|`2026-09-04 07:16:27`|`anti-cheat-bypass`|
+|14|[Bodycam Locked & Loaded esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770338-bodycam-locked-loaded-esp.html)|`2026-09-04 09:00:00`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-04 08:52:00`|`Escape from Tarkov`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-09-04 08:52:00`|`Tom Clancy's The Division`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-09-04 08:46:00`|`Other FPS Games`|
+|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-04 08:45:00`|`Valorant`|
+|[Simple Recoil GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763390-simple-recoil-gui.html)|`2026-09-04 08:43:00`|`Battlefield 6`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-04 08:43:00`|`Apex Legends`|
+|[Need help fixing desync between portrait model and ESP preview](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/765329-help-fixing-desync-portrait-model-esp-preview.html)|`2026-09-04 08:37:00`|`Deadlock`|
 |[Apex Offset Dumper Source Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/770381-apex-offset-dumper-source-files.html)|`2026-09-04 07:11:00`|`Apex Legends`|
 |[Machine Party](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769590-machine-party.html)|`2026-09-04 07:09:00`|`Other Games`|
 |[Cheat Detectable&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770415-cheat-detectable.html)|`2026-09-04 07:08:00`|`Call of Duty: Black Ops 7`|
