@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Knive Out ESP &#45; Aimbot&#45;Silent NEW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769035-knive-esp-aimbot-silent.html)|`2026-09-04 21:47:00`|`Other FPS Games`|
+|[FiveM b3751: ResourceManager layout / getAllResources&#40;&#41; no longer works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/770433-fivem-b3751-resourcemanager-layout-getallresources.html)|`2026-09-04 21:37:00`|`Alternative Online Mods`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-09-04 21:22:00`|`Genshin Impact`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-09-04 21:19:00`|`Valorant`|
+|[MTA:SA METHOD FOR SERIAL SPOOFING 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763290-mta-sa-method-serial-spoofing-2026-a.html)|`2026-09-04 21:18:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-09-04 21:17:00`|`Payday 3`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-09-04 21:13:00`|`Rust`|
 |[Proving Ground Menu &#43; Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/770523-proving-ground-menu-scripts.html)|`2026-09-04 17:50:00`|`ARMA 3`|
 |[perfect bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769260-perfect-bhop.html)|`2026-09-04 17:43:00`|`Counter-Strike 2`|
 |[trigerbot help &#45; need to move cursor  for it to shoot FIX?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770386-trigerbot-help-move-cursor-shoot-fix.html)|`2026-09-04 17:40:00`|`Counter-Strike 2`|
