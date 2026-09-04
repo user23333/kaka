@@ -11,6 +11,8 @@
 |28|[Soul's Remnant Mod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769900-souls-remnant-mod-cheat.html)|`2026-09-05 01:08:18`|`other-mmorpg-and-strategy`|
 |21|[Kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/769482-kirkware.html)|`2026-09-05 01:08:18`|`garry-s-mod`|
 |21|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-05 01:08:18`|`valorant`|
+|6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-05 03:30:11`|`anti-cheat-bypass`|
+|8|[NMRIH2 Full ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769783-nmrih2-esp.html)|`2026-09-05 03:30:11`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-09-05 03:27:00`|`Counter-Strike 2`|
+|[hid&#45;mouse&#45;inject &#124; mouse input injection via hidclass's own IRP completion worker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770029-hid-mouse-inject-mouse-input-injection-via-hidclasss-own-irp-completion-worker.html)|`2026-09-05 03:09:00`|`Anti-Cheat Bypass`|
+|[WaveShield Anti&#45;Noclip Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/770300-waveshield-anti-noclip-bypass.html)|`2026-09-05 03:09:00`|`Alternative Online Mods`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-05 03:06:00`|`Rust`|
+|[VGC ANALYSIS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770310-vgc-analysis.html)|`2026-09-05 03:06:00`|`Valorant`|
+|[some bypass to battleye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/770127-bypass-battleye.html)|`2026-09-05 02:59:00`|`Grand Theft Auto V`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-09-05 02:51:00`|`Valorant`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-09-05 02:50:00`|`Counter-Strike 2`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-05 01:06:00`|`Escape from Tarkov`|
 |[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770146-ai-deobfuscation.html)|`2026-09-05 01:04:00`|`Anti-Cheat Bypass`|
 |[Undetected DirectX 9 hook wallhack for Black Squad](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770565-undetected-directx-9-hook-wallhack-black-squad.html)|`2026-09-05 01:02:00`|`Other FPS Games`|
