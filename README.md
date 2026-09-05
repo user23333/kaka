@@ -14,6 +14,7 @@
 |6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-05 03:30:11`|`anti-cheat-bypass`|
 |8|[NMRIH2 Full ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769783-nmrih2-esp.html)|`2026-09-05 03:30:11`|`other-fps-games`|
 |8|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-05 17:11:33`|`anti-cheat-bypass`|
+|8|[SenEmu &#45; SEN service emulator &#40;&#92;&#92;&#46;&#92;pipe&#92;sen&#95;service&#41; &#43; full stack reverse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770248-senemu-sen-service-emulator-pipe-sen_service-stack-reverse.html)|`2026-09-05 23:30:43`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight Entrypoint Patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770626-dead-daylight-entrypoint-patcher.html)|`2026-09-05 23:30:00`|`Other FPS Games`|
+|[Lef 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770521-lef-4-dead-2-a.html)|`2026-09-05 23:29:00`|`Other FPS Games`|
+|[my R6 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770669-r6-external.html)|`2026-09-05 23:11:00`|`Rainbow Six Siege`|
+|[teamid issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770647-teamid-issue.html)|`2026-09-05 23:09:00`|`Rust`|
+|[CS2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770666-cs2-external.html)|`2026-09-05 23:01:00`|`Counter-Strike 2`|
+|[CS2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770663-cs2-external.html)|`2026-09-05 22:51:00`|`Counter-Strike 2`|
 |[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-09-05 20:34:00`|`DayZ SA`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-09-05 20:27:00`|`Sea of Thieves`|
 |[Bodycam Locked & Loaded esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770338-bodycam-locked-loaded-esp.html)|`2026-09-05 20:22:00`|`Other FPS Games`|
