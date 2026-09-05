@@ -26,9 +26,18 @@
 |7|[DCUO SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57394)|`2026-09-05 01:08:18`|
 |33|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57391)|`2026-09-05 01:08:18`|
 |73|[legit cfg Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57390)|`2026-09-05 01:08:18`|
+|0|[MarvelRivalsSDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57405)|`2026-09-05 09:01:27`|
+|11|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57397)|`2026-09-05 09:01:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-05 08:56:00`|`Other FPS Games`|
+|[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-09-05 08:46:00`|`Valorant`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-09-05 08:34:00`|`Among Us`|
+|[EFI SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/727678-efi-spoofer.html)|`2026-09-05 08:31:00`|`PC Hardware`|
+|[HexTrainer Payday2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/769255-hextrainer-payday2.html)|`2026-09-05 08:22:00`|`Payday 2`|
+|[DC Universe Online SDK / Reversal / Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770317-dc-universe-online-sdk-reversal-discussion.html)|`2026-09-05 08:07:00`|`Other MMORPG and Strategy`|
+|[Dead By Daylight DMA New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767833-dead-daylight-dma.html)|`2026-09-05 08:01:00`|`Other FPS Games`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-09-05 05:35:00`|`Overwatch`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-09-05 05:34:00`|`Other FPS Games`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-09-05 05:25:00`|`Other FPS Games`|
