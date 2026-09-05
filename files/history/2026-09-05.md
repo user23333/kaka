@@ -13,6 +13,7 @@
 |21|[I get a "Val 5" error after playing 12–13 matches&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769753-val-5-error-playing-12-13-matches.html)|`2026-09-05 01:08:18`|`valorant`|
 |6|[Mouse Synthesis &#40; EasyAntiCheat &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769879-mouse-synthesis-easyanticheat.html)|`2026-09-05 03:30:11`|`anti-cheat-bypass`|
 |8|[NMRIH2 Full ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769783-nmrih2-esp.html)|`2026-09-05 03:30:11`|`other-fps-games`|
+|8|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-05 17:11:33`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to test if my external/internal is undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/769399-test-external-internal-undetected.html)|`2026-09-05 17:07:00`|`Roblox`|
+|[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-09-05 16:59:00`|`Other MMORPG and Strategy`|
+|[Deimos &#45; Wizard101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769789-deimos-wizard101.html)|`2026-09-05 16:29:00`|`Other MMORPG and Strategy`|
+|[Dx12 chams source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765165-dx12-chams-source.html)|`2026-09-05 16:12:00`|`Rainbow Six Siege`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-05 16:06:00`|`Tom Clancy's The Division`|
+|[7DTD 3&#46;2 Creative Assembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769575-7dtd-3-2-creative-assembly.html)|`2026-09-05 15:36:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-09-05 15:35:00`|`Overwatch`|
+|[Improved LUA Recoil Scripts &#40;helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770599-improved-lua-recoil-scripts-helpers.html)|`2026-09-05 15:27:00`|`Rainbow Six Siege`|
 |[AIMbot Color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770622-aimbot-color.html)|`2026-09-05 13:25:00`|`Overwatch`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-05 13:18:00`|`Other FPS Games`|
 |[BootViewer &#45; see TPM measured at boot &#40;Measured Boot / PCR / Secure Boot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770609-bootviewer-tpm-measured-boot-measured-boot-pcr-secure-boot.html)|`2026-09-05 13:03:00`|`Anti-Cheat Bypass`|
