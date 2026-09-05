@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-09-05 20:34:00`|`DayZ SA`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-09-05 20:27:00`|`Sea of Thieves`|
+|[Bodycam Locked & Loaded esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770338-bodycam-locked-loaded-esp.html)|`2026-09-05 20:22:00`|`Other FPS Games`|
+|[EAC kick with: EAC: Forbidden Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770614-eac-kick-eac-forbidden-tool.html)|`2026-09-05 20:20:00`|`Rust`|
+|[Alt:V Chams/glow](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/770652-alt-chams-glow.html)|`2026-09-05 20:16:00`|`Alternative Online Mods`|
+|[Apex Legends YOLO Model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769367-apex-legends-yolo-model.html)|`2026-09-05 20:06:00`|`Apex Legends`|
 |[How to test if my external/internal is undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/769399-test-external-internal-undetected.html)|`2026-09-05 17:07:00`|`Roblox`|
 |[Project Zomboid Megathread B42&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/732303-project-zomboid-megathread-b42.html)|`2026-09-05 16:59:00`|`Other MMORPG and Strategy`|
 |[Deimos &#45; Wizard101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769789-deimos-wizard101.html)|`2026-09-05 16:29:00`|`Other MMORPG and Strategy`|
