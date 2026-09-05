@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AIMbot Color](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770622-aimbot-color.html)|`2026-09-05 13:25:00`|`Overwatch`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-05 13:18:00`|`Other FPS Games`|
+|[BootViewer &#45; see TPM measured at boot &#40;Measured Boot / PCR / Secure Boot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770609-bootviewer-tpm-measured-boot-measured-boot-pcr-secure-boot.html)|`2026-09-05 13:03:00`|`Anti-Cheat Bypass`|
+|[HOW TO GET SERVER CREATED LABELS ON TOP OF PLAYERS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/770603-server-created-labels-top-players.html)|`2026-09-05 12:57:00`|`Alternative Online Mods`|
+|[polygon external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769572-polygon-external.html)|`2026-09-05 12:48:00`|`Other FPS Games`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-09-05 12:31:00`|`Rainbow Six Siege`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-05 12:27:00`|`Overwatch`|
 |[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-05 08:56:00`|`Other FPS Games`|
 |[Valorant Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/703073-valorant-reversal-structs-offsets.html)|`2026-09-05 08:46:00`|`Valorant`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-09-05 08:34:00`|`Among Us`|
