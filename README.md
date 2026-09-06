@@ -12,6 +12,7 @@
 |8|[SenEmu &#45; SEN service emulator &#40;&#92;&#92;&#46;&#92;pipe&#92;sen&#95;service&#41; &#43; full stack reverse](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770248-senemu-sen-service-emulator-pipe-sen_service-stack-reverse.html)|`2026-09-06 01:28:35`|`rainbow-six-siege`|
 |8|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-06 01:28:35`|`anti-cheat-bypass`|
 |20|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-06 03:13:20`|`other-fps-games`|
+|13|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-06 23:35:08`|`tom-clancy-s-the-division`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2026-09-06 23:30:00`|`Counter-Strike 2 Releases`|
+|[Shadow Region Reversal Struct and Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/708947-shadow-region-reversal-struct-offset.html)|`2026-09-06 23:28:00`|`Valorant`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-09-06 23:21:00`|`Valorant`|
+|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-09-06 23:19:00`|`Other MMORPG and Strategy`|
+|[Soul's Remnant Mod Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769900-souls-remnant-mod-cheat.html)|`2026-09-06 23:18:00`|`Other MMORPG and Strategy`|
+|[KFSystemBot v1 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770821-kfsystembot-v1-steam.html)|`2026-09-06 23:14:00`|`Other FPS Games`|
+|[How to load your driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770742-load-driver.html)|`2026-09-06 23:08:00`|`Valorant`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-09-06 23:03:00`|`Other MMORPG and Strategy`|
 |[Still getting VAC&#45;Live detected after pre&#45;firing cmd protobuf angle interpolation CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770807-getting-vac-live-detected-pre-firing-cmd-protobuf-angle-interpolation-cs2.html)|`2026-09-06 20:24:00`|`Counter-Strike 2`|
 |[ValHack &#45; Valheim Updated ESP, Godmode, Spawn System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767950-valhack-valheim-updated-esp-godmode-spawn-system.html)|`2026-09-06 20:10:00`|`Other FPS Games`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-09-06 20:06:00`|`THE FINALS`|
