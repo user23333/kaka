@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BytePatched Nospread &#40;external&#41; &#124; &#43; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/756662-bytepatched-nospread-external-question.html)|`2026-09-06 08:13:00`|`Rust`|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-09-06 08:12:00`|`Garry's Mod`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-06 08:11:00`|`Other FPS Games`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-09-06 08:09:00`|`Overwatch`|
+|[ntallocateuuids &#45; how to handle it properly not like a cripple](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770722-ntallocateuuids-handle-properly-cripple.html)|`2026-09-06 08:08:00`|`Anti-Cheat Bypass`|
+|[very sloppy solution for patchguard works for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770721-sloppy-solution-patchguard-eac.html)|`2026-09-06 08:05:00`|`Anti-Cheat Bypass`|
+|[hookless handling ndis&#46;sys properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770720-hookless-handling-ndis-sys-properly.html)|`2026-09-06 08:02:00`|`Anti-Cheat Bypass`|
 |[CS2 Double Tap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/766767-cs2-double-tap.html)|`2026-09-06 06:54:00`|`Counter-Strike 2`|
 |[chams help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770716-chams-help.html)|`2026-09-06 06:51:00`|`Counter-Strike 2`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-06 06:47:00`|`Escape from Tarkov`|
