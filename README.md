@@ -28,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Total Freeze DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770782-total-freeze-dma.html)|`2026-09-06 16:54:00`|`Call of Duty: Black Ops 7`|
+|[Crazy exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/769822-crazy-exploit.html)|`2026-09-06 16:52:00`|`Farlight 84`|
+|[Skeleton position mismatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770632-skeleton-position-mismatch.html)|`2026-09-06 16:42:00`|`Overwatch`|
+|[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770146-ai-deobfuscation.html)|`2026-09-06 16:41:00`|`Anti-Cheat Bypass`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-09-06 16:41:00`|`Other Games`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-09-06 16:40:00`|`Overwatch`|
+|[wrbxy DMA v2&#46;0 &#45; Rust DMA Cheat &#40;genaric 75T &#43; Makcu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770601-wrbxy-dma-v2-0-rust-dma-cheat-genaric-75t-makcu.html)|`2026-09-06 16:31:00`|`Rust`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-09-06 16:31:00`|`Other FPS Games`|
+|[Improved LUA Recoil Scripts &#40;helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770599-improved-lua-recoil-scripts-helpers.html)|`2026-09-06 16:29:00`|`Rainbow Six Siege`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-06 12:42:00`|`Anti-Cheat Bypass`|
 |[TCM &#40;the texas chain saw massacre&#41; hack please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647399-tcm-texas-chain-massacre-hack-please.html)|`2026-09-06 12:39:00`|`Other FPS Games`|
 |[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/769115-revemu-steamid-changer.html)|`2026-09-06 12:38:00`|`CounterStrike Source`|
