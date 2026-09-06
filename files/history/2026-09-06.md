@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Still getting VAC&#45;Live detected after pre&#45;firing cmd protobuf angle interpolation CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770807-getting-vac-live-detected-pre-firing-cmd-protobuf-angle-interpolation-cs2.html)|`2026-09-06 20:24:00`|`Counter-Strike 2`|
+|[ValHack &#45; Valheim Updated ESP, Godmode, Spawn System](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767950-valhack-valheim-updated-esp-godmode-spawn-system.html)|`2026-09-06 20:10:00`|`Other FPS Games`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-09-06 20:06:00`|`THE FINALS`|
+|[Clove ult filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770805-clove-ult-filter.html)|`2026-09-06 20:02:00`|`Valorant`|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-09-06 19:56:00`|`Anti-Cheat Bypass`|
+|[How to get the offsets in genshin and bypass the anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/770804-offsets-genshin-bypass-anticheat.html)|`2026-09-06 19:54:00`|`Genshin Impact`|
 |[Total Freeze DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770782-total-freeze-dma.html)|`2026-09-06 16:54:00`|`Call of Duty: Black Ops 7`|
 |[Crazy exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/769822-crazy-exploit.html)|`2026-09-06 16:52:00`|`Farlight 84`|
 |[Skeleton position mismatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770632-skeleton-position-mismatch.html)|`2026-09-06 16:42:00`|`Overwatch`|
