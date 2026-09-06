@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-06 12:42:00`|`Anti-Cheat Bypass`|
+|[TCM &#40;the texas chain saw massacre&#41; hack please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/647399-tcm-texas-chain-massacre-hack-please.html)|`2026-09-06 12:39:00`|`Other FPS Games`|
+|[RevEmu SteamID Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/769115-revemu-steamid-changer.html)|`2026-09-06 12:38:00`|`CounterStrike Source`|
+|[Best aimbot method with Anybrain active on Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770751-aimbot-method-anybrain-active-rust.html)|`2026-09-06 12:36:00`|`Rust`|
+|[is there an active Cheat Modern Warfare II DMZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/770762-active-cheat-modern-warfare-ii-dmz.html)|`2026-09-06 12:35:00`|`Call of Duty: Modern Warfare II`|
+|[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-09-06 12:26:00`|`Other FPS Games`|
 |[BytePatched Nospread &#40;external&#41; &#124; &#43; Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/756662-bytepatched-nospread-external-question.html)|`2026-09-06 08:13:00`|`Rust`|
 |[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-09-06 08:12:00`|`Garry's Mod`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-06 08:11:00`|`Other FPS Games`|
