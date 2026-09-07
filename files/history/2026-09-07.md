@@ -25,9 +25,16 @@
 |14|[DCUO SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57395)|`2026-09-07 01:40:16`|
 |11|[DCUO SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57394)|`2026-09-07 01:40:16`|
 |4|[DC Universe Online Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57466)|`2026-09-07 05:33:02`|
+|102|[Bodycam Internal V&#46;0&#46;1&#46;8&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57451)|`2026-09-07 08:51:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-09-07 08:49:00`|`Other Software`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-07 08:48:00`|`Apex Legends`|
+|[spy taunt control?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/770315-spy-taunt-control.html)|`2026-09-07 08:45:00`|`Team Fortress 2`|
+|[Faceit timers check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770752-faceit-timers-check.html)|`2026-09-07 08:44:00`|`Anti-Cheat Bypass`|
+|[Vulnerable Driver &#45; 32bit Truncation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770871-vulnerable-driver-32bit-truncation.html)|`2026-09-07 08:25:00`|`Anti-Cheat Bypass`|
+|[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-09-07 08:13:00`|`HELLDIVERS 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-07 06:51:00`|`Other FPS Games`|
 |[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-09-07 06:45:00`|`Overwatch`|
 |[Bodycam Vision &#40;BCVision&#41; Internal &#40;Auto Update, Aimbot, Silent Aim, ESP, Plus More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770769-bodycam-vision-bcvision-internal-auto-update-aimbot-silent-aim-esp-plus.html)|`2026-09-07 06:41:00`|`Other FPS Games`|
