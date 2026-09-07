@@ -29,9 +29,22 @@
 |102|[Bodycam Internal V&#46;0&#46;1&#46;8&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57451)|`2026-09-07 08:51:21`|
 |3|[PegaIo64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57472)|`2026-09-07 13:16:59`|
 |3|[Fake Vac Exploit &#40;Cancel Match Exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57468)|`2026-09-07 13:16:59`|
+|104|[Bodycam Mewcam Version 0&#46;2 Beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57459)|`2026-09-07 18:22:19`|
+|2|[PS4&#45;NetISOLoader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57452)|`2026-09-07 18:22:19`|
+|52|[EacAdaptiveGuard](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57450)|`2026-09-07 18:22:19`|
+|6|[BootViewer&#45;amd64&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57449)|`2026-09-07 18:22:19`|
+|3|[Lua Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57438)|`2026-09-07 18:22:19`|
+|2|[BootViewer Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57434)|`2026-09-07 18:22:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is makcu box detected or has it been banned by valorant?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/768124-makcu-box-detected-banned-valorant.html)|`2026-09-07 18:21:00`|`Valorant`|
+|[Valorant spoofable hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770380-valorant-spoofable-hardware.html)|`2026-09-07 18:19:00`|`Valorant`|
+|[External Chams and Vis Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/770901-external-chams-vis-check.html)|`2026-09-07 18:09:00`|`Escape from Tarkov`|
+|[Buckshot Roulette Built In Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770889-buckshot-roulette-built-cheat.html)|`2026-09-07 18:04:00`|`Other Games`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-09-07 18:04:00`|`Palworld`|
+|[Tyr &#45; Can someone make a simple cheat or find some funny exploits?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/763134-tyr-simple-cheat-funny-exploits.html)|`2026-09-07 18:02:00`|`Other MMORPG and Strategy`|
+|[InvalidSteamLogon exploit &#40;FAKE VAC LIVE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770879-invalidsteamlogon-exploit-fake-vac-live.html)|`2026-09-07 18:01:00`|`Counter-Strike 2`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-09-07 13:13:00`|`Deadlock`|
 |[Fake VAC Exploit &#40;Cancel match exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770856-fake-vac-exploit-cancel-match-exploit.html)|`2026-09-07 13:13:00`|`Counter-Strike 2`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-07 13:07:00`|`Anti-Cheat Bypass`|
