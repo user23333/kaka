@@ -11,6 +11,7 @@
 |13|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-07 01:40:16`|`tom-clancy-s-the-division`|
 |8|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-07 01:40:16`|`anti-cheat-bypass`|
 |20|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-09-07 01:40:16`|`other-fps-games`|
+|7|[New R6 Anti Cheat is a joke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770412-r6-anti-cheat-joke.html)|`2026-09-07 13:16:59`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,17 @@
 |11|[DCUO SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57394)|`2026-09-07 01:40:16`|
 |4|[DC Universe Online Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57466)|`2026-09-07 05:33:02`|
 |102|[Bodycam Internal V&#46;0&#46;1&#46;8&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57451)|`2026-09-07 08:51:21`|
+|3|[PegaIo64&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57472)|`2026-09-07 13:16:59`|
+|3|[Fake Vac Exploit &#40;Cancel Match Exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57468)|`2026-09-07 13:16:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-09-07 13:13:00`|`Deadlock`|
+|[Fake VAC Exploit &#40;Cancel match exploit&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770856-fake-vac-exploit-cancel-match-exploit.html)|`2026-09-07 13:13:00`|`Counter-Strike 2`|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-07 13:07:00`|`Anti-Cheat Bypass`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-09-07 12:53:00`|`Counter-Strike 2`|
+|[AimColor Again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/770881-aimcolor.html)|`2026-09-07 12:49:00`|`Overwatch`|
+|[Vac &#45;insecure error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770836-vac-insecure-error.html)|`2026-09-07 12:49:00`|`Counter-Strike 2`|
 |[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-09-07 08:49:00`|`Other Software`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-07 08:48:00`|`Apex Legends`|
 |[spy taunt control?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/770315-spy-taunt-control.html)|`2026-09-07 08:45:00`|`Team Fortress 2`|
