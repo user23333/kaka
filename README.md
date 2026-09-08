@@ -27,9 +27,20 @@
 |8|[BootViewer Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57434)|`2026-09-08 03:27:33`|
 |17|[Windows Test App Cert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57487)|`2026-09-08 06:10:23`|
 |3|[update&#95;price&#46;bat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57485)|`2026-09-08 06:10:23`|
+|14|[Cloak rust external source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57492)|`2026-09-08 08:20:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-08 08:17:00`|`Overwatch`|
+|[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-09-08 08:16:00`|`Other MMORPG and Strategy`|
+|[presentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771073-presentation.html)|`2026-09-08 08:06:00`|`Introductions`|
+|[&#91;Analysis / Diff&#93; CS2 Update &#40;07/08 Sep 2026 &#45; Patch 1&#46;41&#46;8&#46;0 / Build 2000905&#41; &#45; BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771069-analysis-diff-cs2-update-07-08-sep-2026-patch-1-41-8-0-build-2000905-bin.html)|`2026-09-08 08:04:00`|`Counter-Strike 2`|
+|[Reforger DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/768421-reforger-dma.html)|`2026-09-08 07:58:00`|`ARMA 3`|
+|[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-09-08 07:55:00`|`Other FPS Games`|
+|[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-09-08 07:54:00`|`Other Software`|
+|[Hell Let Loose &#45; Simple ESP DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763556-hell-loose-simple-esp-dll.html)|`2026-09-08 07:44:00`|`Other FPS Games`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-08 07:41:00`|`Other FPS Games`|
+|[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-09-08 07:40:00`|`Other FPS Games`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-09-08 06:03:00`|`Apex Legends`|
 |[Bodycam Information &#124; RCE, Telemetry, Ban Bypass, Crash Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770893-bodycam-information-rce-telemetry-ban-bypass-crash-exploit.html)|`2026-09-08 06:02:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-08 05:58:00`|`Rust`|
