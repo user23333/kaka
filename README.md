@@ -31,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770146-ai-deobfuscation.html)|`2026-09-08 12:48:00`|`Anti-Cheat Bypass`|
+|[Chivalry 2 Cheat Base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770905-chivalry-2-cheat-base.html)|`2026-09-08 12:42:00`|`Other FPS Games`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-09-08 12:36:00`|`Other FPS Games`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-09-08 12:26:00`|`Other MMORPG and Strategy`|
+|[Knive Out ESP &#45; Aimbot&#45;Silent NEW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769035-knive-esp-aimbot-silent.html)|`2026-09-08 12:05:00`|`Other FPS Games`|
+|[DMA: TypeInfo &#43; static&#95;fields OK, but client&#95;entities &#40;static&#43;0x8&#41; always 0 in&#45;world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770771-dma-typeinfo-static_fields-ok-client_entities-static-0x8-0-world.html)|`2026-09-08 11:58:00`|`Rust`|
+|[Marvel Rivals AI Aimbot &#43; controller support &#43; AI model](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771058-marvel-rivals-ai-aimbot-controller-support-ai-model.html)|`2026-09-08 11:23:00`|`Marvel Rivals`|
+|[How to flash unsigned bin BIOS AMD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770895-flash-unsigned-bin-bios-amd.html)|`2026-09-08 11:19:00`|`Anti-Cheat Bypass`|
 |[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-08 08:17:00`|`Overwatch`|
 |[Soul's Remnant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767352-souls-remnant.html)|`2026-09-08 08:16:00`|`Other MMORPG and Strategy`|
 |[presentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771073-presentation.html)|`2026-09-08 08:06:00`|`Introductions`|
