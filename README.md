@@ -28,9 +28,16 @@
 |1|[Quake Champions &#45; SDKv1 &#45;&#45; 1&#46;30&#46;RETAIL&#46;230544](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57511)|`2026-09-09 17:12:32`|
 |11|[Halloween Dump 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57503)|`2026-09-09 17:12:32`|
 |19|[1&#46;1&#46;5&#46;47242&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57498)|`2026-09-09 17:12:32`|
+|0|[Manor&#95;Lords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57514)|`2026-09-09 21:41:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-09-09 21:39:00`|`Rust`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-09 21:36:00`|`Overwatch`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-09-09 21:34:00`|`Other FPS Games`|
+|[For Honor &#45; Sciprt by florasSecret &#45; Autoblock, Parry, Deflects, D b/Unblockables](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/414701-honor-sciprt-florassecret-autoblock-parry-deflects-unblockables.html)|`2026-09-09 21:31:00`|`Other MMORPG and Strategy`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-09-09 21:19:00`|`Palworld`|
+|[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-09-09 21:18:00`|`Rainbow Six Siege`|
 |[Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769827-rogue-company-internal.html)|`2026-09-09 17:12:00`|`Other Games`|
 |[Can use my r6 cheat Y7S4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770864-r6-cheat-y7s4.html)|`2026-09-09 17:07:00`|`Rainbow Six Siege`|
 |[Quake Champions Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/771098-quake-champions-reversal-structs-offsets.html)|`2026-09-09 17:07:00`|`Quake Champions`|
