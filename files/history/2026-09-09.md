@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-09-09 08:10:00`|`Counter-Strike 2`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-09 08:08:00`|`Tom Clancy's The Division`|
+|[why am i still getting ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771117-am-getting-ban.html)|`2026-09-09 08:07:00`|`Marvel Rivals`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-09 08:04:00`|`ARC Raiders`|
+|[FACEIT Kernel — LBR: hook detection via CPU branch history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771144-faceit-kernel-lbr-hook-detection-via-cpu-branch-history.html)|`2026-09-09 08:04:00`|`Anti-Cheat Bypass`|
+|[Unturned GodlyWare cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769786-unturned-godlyware-cheat.html)|`2026-09-09 08:01:00`|`Other FPS Games`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-09 08:00:00`|`HELLDIVERS 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-09-09 07:58:00`|`Overwatch`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-09 07:57:00`|`Other FPS Games`|
 |[Bodycam Information &#124; RCE, Telemetry, Ban Bypass, Crash Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770893-bodycam-information-rce-telemetry-ban-bypass-crash-exploit.html)|`2026-09-09 06:14:00`|`Other FPS Games`|
 |[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-09 06:13:00`|`Other FPS Games`|
 |[Mystic &#45; Genshin 7&#46;0 Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/769732-mystic-genshin-7-0-release.html)|`2026-09-09 06:13:00`|`Genshin Impact`|
