@@ -11,6 +11,7 @@
 |10|[New R6 Anti Cheat is a joke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770412-r6-anti-cheat-joke.html)|`2026-09-10 01:16:20`|`rainbow-six-siege`|
 |19|[Bodycam Vision &#40;BCVision&#41; Internal &#40;Auto Update, Aimbot, Silent Aim, ESP, Plus More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770769-bodycam-vision-bcvision-internal-auto-update-aimbot-silent-aim-esp-plus.html)|`2026-09-10 01:16:20`|`other-fps-games`|
 |6|[2tap source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770642-2tap-source-code.html)|`2026-09-10 01:16:20`|`counter-strike-2-a`|
+|7|[VALORANT INTERNAL 13&#46;05 FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770903-valorant-internal-13-05-fixed.html)|`2026-09-10 14:24:21`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PEAK Internal Cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769875-peak-internal-cheat.html)|`2026-09-10 14:23:00`|`Other Games`|
+|[Dead By Daylight DMA New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767833-dead-daylight-dma.html)|`2026-09-10 14:18:00`|`Other FPS Games`|
+|[hid&#45;mouse&#45;inject &#124; mouse input injection via hidclass's own IRP completion worker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770029-hid-mouse-inject-mouse-input-injection-via-hidclasss-own-irp-completion-worker.html)|`2026-09-10 14:13:00`|`Anti-Cheat Bypass`|
+|[ban rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/768657-ban-rate.html)|`2026-09-10 14:10:00`|`Escape from Tarkov`|
+|[Internal visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771339-internal-visibility-check.html)|`2026-09-10 14:10:00`|`Rust`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-10 14:04:00`|`Overwatch`|
+|[Riftstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768488-riftstorm.html)|`2026-09-10 14:03:00`|`Other Games`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-09-10 13:47:00`|`Other FPS Games`|
+|[Ready or not Cheat 08/05/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751689-ready-cheat-08-05-2026-a.html)|`2026-09-10 13:40:00`|`Other FPS Games`|
 |[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-10 09:29:00`|`Anti-Cheat Bypass`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-09-10 09:28:00`|`Other FPS Games`|
 |[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-09-10 09:28:00`|`Other Games`|
