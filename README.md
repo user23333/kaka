@@ -27,9 +27,22 @@
 |8|[bf3external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57481)|`2026-09-10 01:16:20`|
 |28|[XIPEX&#45;Injector&#43;XIPEX&#45;Palworld1&#46;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57516)|`2026-09-10 03:46:45`|
 |63|[Mewcam v0&#46;4b ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57505)|`2026-09-10 09:29:55`|
+|13|[TslGame&#45;2609&#46;1&#46;1&#46;67](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57539)|`2026-09-10 19:32:15`|
+|3|[RWX Meme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57538)|`2026-09-10 19:32:15`|
+|0|[df sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57535)|`2026-09-10 19:32:15`|
+|43|[TslGame&#45;2609&#46;1&#46;1&#46;65](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57532)|`2026-09-10 19:32:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-10 19:32:00`|`Paladins`|
+|[Regarding the recent outage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/771398-regarding-recent-outage.html)|`2026-09-10 19:30:00`|`Information and Announcements`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-10 19:23:00`|`Rust`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-09-10 19:22:00`|`Other FPS Games`|
+|[Function where Gamemanager gets called often](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/771284-function-gamemanager-called.html)|`2026-09-10 19:06:00`|`Rainbow Six Siege`|
+|[Fix offline ban pubg mobile global 32bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771390-fix-offline-ban-pubg-mobile-global-32bit.html)|`2026-09-10 18:58:00`|`Introductions`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2026-09-10 18:55:00`|`PlanetSide 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-09-10 18:52:00`|`Tom Clancy's The Division`|
+|[Improved LUA Recoil Scripts &#40;helpers&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770599-improved-lua-recoil-scripts-helpers.html)|`2026-09-10 18:42:00`|`Rainbow Six Siege`|
 |[PEAK Internal Cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769875-peak-internal-cheat.html)|`2026-09-10 14:23:00`|`Other Games`|
 |[Dead By Daylight DMA New](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767833-dead-daylight-dma.html)|`2026-09-10 14:18:00`|`Other FPS Games`|
 |[hid&#45;mouse&#45;inject &#124; mouse input injection via hidclass's own IRP completion worker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770029-hid-mouse-inject-mouse-input-injection-via-hidclasss-own-irp-completion-worker.html)|`2026-09-10 14:13:00`|`Anti-Cheat Bypass`|
