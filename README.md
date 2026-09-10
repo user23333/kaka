@@ -24,9 +24,18 @@
 |3|[Manor&#95;Lords](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57514)|`2026-09-11 02:20:31`|
 |7|[Quake Champions &#45; SDKv1 &#45;&#45; 1&#46;30&#46;RETAIL&#46;230544](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57511)|`2026-09-11 02:20:31`|
 |373|[Mewcam v0&#46;4b ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57505)|`2026-09-11 02:20:31`|
+|9|[Vasile &#40;claudeai&#46;exe&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57543)|`2026-09-11 04:56:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smart Edge Bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770451-smart-edge-bug.html)|`2026-09-11 04:49:00`|`Counter-Strike 2`|
+|[My Party is Grinding Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771373-party-grinding-cheat-table.html)|`2026-09-11 04:49:00`|`Other Games`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-09-11 04:48:00`|`Counter-Strike 2`|
+|[Internal visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771339-internal-visibility-check.html)|`2026-09-11 04:45:00`|`Rust`|
+|[Vanguard Emulation Megathread &#40;Questions, Issues & Discussions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/766222-vanguard-emulation-megathread-questions-issues-discussions.html)|`2026-09-11 04:43:00`|`Valorant`|
+|[chams rendering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771460-chams-rendering.html)|`2026-09-11 04:40:00`|`Counter-Strike 2`|
+|[Why cheat if you're not making your own stuff?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771458-cheat-youre-own-stuff.html)|`2026-09-11 04:37:00`|`Off Topic`|
+|[h1z1 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/771335-h1z1-dma.html)|`2026-09-11 04:36:00`|`H1Z1`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-11 02:20:00`|`Escape from Tarkov`|
 |[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-11 02:17:00`|`Overwatch`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-11 02:16:00`|`Other FPS Games`|
