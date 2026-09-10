@@ -31,9 +31,19 @@
 |3|[RWX Meme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57538)|`2026-09-10 19:32:15`|
 |0|[df sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57535)|`2026-09-10 19:32:15`|
 |43|[TslGame&#45;2609&#46;1&#46;1&#46;65](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57532)|`2026-09-10 19:32:15`|
+|0|[Black Desert Online SDKv1 &#45;&#45; 0x6A9805E6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57533)|`2026-09-10 23:07:47`|
+|3|[CrossFire West SDKv1 &#45;&#45; 0x6A8F8F58](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57529)|`2026-09-10 23:07:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA: TypeInfo &#43; static&#95;fields OK, but client&#95;entities &#40;static&#43;0x8&#41; always 0 in&#45;world](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770771-dma-typeinfo-static_fields-ok-client_entities-static-0x8-0-world.html)|`2026-09-10 23:04:00`|`Rust`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-10 23:01:00`|`HELLDIVERS 2`|
+|[van 59 on kvm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770740-van-59-kvm.html)|`2026-09-10 22:59:00`|`Valorant`|
+|[What is up with KD Mapper?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770397-kd-mapper.html)|`2026-09-10 22:58:00`|`Anti-Cheat Bypass`|
+|[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-09-10 22:56:00`|`Other MMORPG and Strategy`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-09-10 22:55:00`|`Other Games`|
+|[Valorant spoofable hardware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770380-valorant-spoofable-hardware.html)|`2026-09-10 22:54:00`|`Valorant`|
+|[How can i get started with valorant cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770826-started-valorant-cheating.html)|`2026-09-10 22:52:00`|`Valorant`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-10 19:32:00`|`Paladins`|
 |[Regarding the recent outage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/771398-regarding-recent-outage.html)|`2026-09-10 19:30:00`|`Information and Announcements`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-10 19:23:00`|`Rust`|
