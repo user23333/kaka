@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ISO Simplest way to detect if VAC is WORKING and loading modules?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771480-iso-simplest-detect-vac-loading-modules.html)|`2026-09-11 21:38:00`|`Counter-Strike 2`|
+|[Internal or external? Why?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/770934-internal-external.html)|`2026-09-11 21:33:00`|`League of Legends`|
+|[MinHook hook present fail return 7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/771539-minhook-hook-fail-return-7-a.html)|`2026-09-11 21:32:00`|`League of Legends`|
+|[Bodycam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770423-bodycam-internal.html)|`2026-09-11 21:32:00`|`Other FPS Games`|
+|[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-11 21:27:00`|`Anti-Cheat Bypass`|
+|[A new method for VA to PA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771537-method-va-pa.html)|`2026-09-11 21:22:00`|`Anti-Cheat Bypass`|
 |[Rainbow Six Siege &#124; Unlock All Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/767896-rainbow-six-siege-unlock-source-code.html)|`2026-09-11 17:36:00`|`Rainbow Six Siege`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-11 17:35:00`|`Other FPS Games`|
 |[Internal ESP &#43; Aimbot /](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/736158-internal-esp-aimbot.html)|`2026-09-11 17:29:00`|`Combat Master`|
