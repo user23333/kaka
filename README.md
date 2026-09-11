@@ -32,6 +32,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-09-11 13:04:00`|`Tom Clancy's The Division`|
+|[Trippy Injector V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-software/767659-trippy-injector-v1.html)|`2026-09-11 13:02:00`|`Other Software`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-09-11 12:59:00`|`Other MMORPG and Strategy`|
+|[EAC are calling screenshotting api's on rust???](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771479-eac-calling-screenshotting-apis-rust.html)|`2026-09-11 12:57:00`|`Anti-Cheat Bypass`|
+|[beserk inv changer &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771531-beserk-inv-changer-updated.html)|`2026-09-11 12:57:00`|`Counter-Strike 2`|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-09-11 12:43:00`|`Marvel Rivals`|
+|[Valheim Mod Menu &#91;1&#46;0 Release&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771318-valheim-mod-menu-1-0-release.html)|`2026-09-11 12:41:00`|`Other FPS Games`|
+|[What FACEIT&#95;AC&#46;sys really sends about your PC &#40;driver&#45;&#62;service, decrypted&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771524-faceit_ac-sys-sends-pc-driver-service-decrypted.html)|`2026-09-11 12:28:00`|`Anti-Cheat Bypass`|
+|[&#91;LINUX&#93; External Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/696976-linux-external-multihack.html)|`2026-09-11 12:22:00`|`Counter-Strike 2 Releases`|
 |[C&#43;&#43; ImGui Viewer &#40;Coded by my cat he is C&#43;&#43; beginner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/771099-imgui-viewer-coded-cat-beginner.html)|`2026-09-11 08:25:00`|`C and C++`|
 |[Sword of Justice &#45; il2cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/728083-sword-justice-il2cpp.html)|`2026-09-11 08:24:00`|`Unity`|
 |[UEdumper DMA VERSION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/770364-uedumper-dma-version.html)|`2026-09-11 08:22:00`|`Unreal Engine 4`|
