@@ -11,6 +11,7 @@
 |9|[VALORANT INTERNAL 13&#46;05 FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/770903-valorant-internal-13-05-fixed.html)|`2026-09-12 01:17:14`|`valorant`|
 |6|[2tap source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770642-2tap-source-code.html)|`2026-09-12 01:17:14`|`counter-strike-2-a`|
 |20|[Cloak Rust External Source Updated build 25129251 Rainbow ESP &#43; Fonts No Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770890-cloak-rust-external-source-updated-build-25129251-rainbow-esp-fonts-driver.html)|`2026-09-12 01:17:14`|`rust`|
+|20|[FACEIT Kernel — LBR: hook detection via CPU branch history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771144-faceit-kernel-lbr-hook-detection-via-cpu-branch-history.html)|`2026-09-12 05:57:59`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ores ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771611-ores-esp.html)|`2026-09-12 05:54:00`|`Rust`|
+|[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-09-12 05:54:00`|`H1Z1`|
+|[New vanguard update patched Triggerbots once again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769154-vanguard-update-patched-triggerbots.html)|`2026-09-12 05:54:00`|`Valorant`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-09-12 05:52:00`|`Overwatch`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-12 05:45:00`|`Other FPS Games`|
+|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-12 05:32:00`|`Anti-Cheat Bypass`|
+|[Bodycam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770423-bodycam-internal.html)|`2026-09-12 05:30:00`|`Other FPS Games`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-09-12 03:44:00`|`Escape from Tarkov`|
 |[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-09-12 03:43:00`|`Other Games`|
 |[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-12 03:43:00`|`Other FPS Games`|
