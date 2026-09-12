@@ -14,6 +14,8 @@
 |20|[FACEIT Kernel — LBR: hook detection via CPU branch history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771144-faceit-kernel-lbr-hook-detection-via-cpu-branch-history.html)|`2026-09-12 05:57:59`|`anti-cheat-bypass`|
 |11|[BootViewer &#45; see TPM measured at boot &#40;Measured Boot / PCR / Secure Boot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770609-bootviewer-tpm-measured-boot-measured-boot-pcr-secure-boot.html)|`2026-09-12 07:50:27`|`anti-cheat-bypass`|
 |11|[Valheim Mod Menu &#91;1&#46;0 Release&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771318-valheim-mod-menu-1-0-release.html)|`2026-09-12 09:36:22`|`other-fps-games`|
+|3|[CS2 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770666-cs2-external.html)|`2026-09-12 18:59:53`|`counter-strike-2-a`|
+|6|[very sloppy solution for patchguard works for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770721-sloppy-solution-patchguard-eac.html)|`2026-09-12 18:59:53`|`anti-cheat-bypass`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +32,16 @@
 |16|[new new usmap file of wardogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57569)|`2026-09-12 03:45:28`|
 |6|[EFT&#95;CT&#95;47242](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57577)|`2026-09-12 07:50:27`|
 |12|[Autowall](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57571)|`2026-09-12 07:50:27`|
+|2|[&#91;PS4&#93; CW Prx Injector &#91;MP&#45;ZM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57544)|`2026-09-12 18:59:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Echoes of Mystralia Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/770866-echoes-mystralia-unlocker.html)|`2026-09-12 18:58:00`|`Cheat Engine Tables`|
+|[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-09-12 18:58:00`|`Other Games`|
+|[&#91;PS4&#93; CW Prx Injector &#91;MP&#45;ZM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/771446-ps4-cw-prx-injector-mp-zm.html)|`2026-09-12 18:53:00`|`Call of Duty: Black Ops Cold War`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-09-12 18:36:00`|`Call of Duty: Black Ops 7`|
+|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-09-12 18:30:00`|`Roblox`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-09-12 18:29:00`|`Palworld`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-09-12 14:19:00`|`Counter-Strike 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-12 13:59:00`|`ARC Raiders`|
 |[VALORANT PERFECT AUTOWALL/WALLBANG SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771570-valorant-perfect-autowall-wallbang-source-code.html)|`2026-09-12 13:53:00`|`Valorant`|
