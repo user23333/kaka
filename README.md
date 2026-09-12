@@ -11,6 +11,7 @@
 |20|[FACEIT Kernel — LBR: hook detection via CPU branch history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771144-faceit-kernel-lbr-hook-detection-via-cpu-branch-history.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
 |7|[very sloppy solution for patchguard works for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770721-sloppy-solution-patchguard-eac.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
 |23|[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
+|6|[SIMPLE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770781-simple-esp.html)|`2026-09-13 02:40:01`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,26 @@
 |3|[PUBG SDK 2609&#46;1&#46;1&#46;83](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57570)|`2026-09-13 00:34:03`|
 |78|[new new usmap file of wardogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57569)|`2026-09-13 00:34:03`|
 |1|[marvel rivals s10 sdk 11/09/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57567)|`2026-09-13 00:34:03`|
+|0|[Nexodev&#45;ProjectZomboid](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57595)|`2026-09-13 02:40:01`|
+|11|[BodycamUltra 0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57593)|`2026-09-13 02:40:01`|
+|22|[&#91;WARDOGS&#93;External UE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57592)|`2026-09-13 02:40:01`|
+|12|[anti cheats dumps DMA detection reversed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57591)|`2026-09-13 02:40:01`|
+|3|[5&#46;5&#46;4&#45;0&#43;UE5&#45;SevenDeadlySins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57590)|`2026-09-13 02:40:01`|
+|2|[NexoDev &#45; How To Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57589)|`2026-09-13 02:40:01`|
+|3|[Godlyware V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57586)|`2026-09-13 02:40:01`|
+|2|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57585)|`2026-09-13 02:40:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-13 02:38:00`|`Paladins`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-09-13 02:28:00`|`Overwatch`|
+|[NexoDev &#45; Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771297-nexodev-project-zomboid-cheat.html)|`2026-09-13 02:28:00`|`Other MMORPG and Strategy`|
+|[A simple driver with skCrypt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/769443-simple-driver-skcrypt.html)|`2026-09-13 02:23:00`|`General Programming and Reversing`|
+|[schema crash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771752-schema-crash.html)|`2026-09-13 02:23:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-13 02:19:00`|`ARC Raiders`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-09-13 02:18:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-13 02:17:00`|`DayZ SA`|
+|[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-09-13 02:17:00`|`Other Games`|
 |[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-09-13 00:31:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-13 00:30:00`|`Apex Legends`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-13 00:29:00`|`Escape from Tarkov`|
