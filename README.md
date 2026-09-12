@@ -13,6 +13,7 @@
 |20|[Cloak Rust External Source Updated build 25129251 Rainbow ESP &#43; Fonts No Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770890-cloak-rust-external-source-updated-build-25129251-rainbow-esp-fonts-driver.html)|`2026-09-12 01:17:14`|`rust`|
 |20|[FACEIT Kernel — LBR: hook detection via CPU branch history](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771144-faceit-kernel-lbr-hook-detection-via-cpu-branch-history.html)|`2026-09-12 05:57:59`|`anti-cheat-bypass`|
 |11|[BootViewer &#45; see TPM measured at boot &#40;Measured Boot / PCR / Secure Boot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770609-bootviewer-tpm-measured-boot-measured-boot-pcr-secure-boot.html)|`2026-09-12 07:50:27`|`anti-cheat-bypass`|
+|11|[Valheim Mod Menu &#91;1&#46;0 Release&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771318-valheim-mod-menu-1-0-release.html)|`2026-09-12 09:36:22`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-09-12 09:21:00`|`Marvel Rivals`|
+|[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-09-12 09:17:00`|`Call of Duty: Black Ops Cold War`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-12 09:14:00`|`Marvel Rivals`|
+|[ARK: Survial Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/694202-ark-survial-ascended.html)|`2026-09-12 09:06:00`|`Other FPS Games`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/743398-seven-deadly-sins-origin.html)|`2026-09-12 09:02:00`|`Other MMORPG and Strategy`|
 |[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-12 07:46:00`|`Anti-Cheat Bypass`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-12 07:43:00`|`Apex Legends`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-09-12 07:40:00`|`Other FPS Games`|
