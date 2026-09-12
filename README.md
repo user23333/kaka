@@ -38,9 +38,17 @@
 |3|[Mod menu release v&#46;2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57598)|`2026-09-13 04:55:39`|
 |13|[PHAROAH PALADINS CHEAT SUITE &#45; UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57597)|`2026-09-13 04:55:39`|
 |4|[SoT Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57594)|`2026-09-13 04:55:39`|
+|7|[PhasmoMenu v0&#46;5&#46;9&#46;8 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57605)|`2026-09-13 06:41:54`|
+|0|[ScarletSkipsMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57604)|`2026-09-13 06:41:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-09-13 06:41:00`|`Other Games`|
+|[NEED HELP WITH A FIVEM BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/771791-help-fivem-bypass.html)|`2026-09-13 06:33:00`|`Grand Theft Auto V`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-13 06:33:00`|`Other FPS Games`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-09-13 06:32:00`|`Other FPS Games`|
+|[VAC 2026 Field Monitor targets, Trusted Launch internals & the SteamService Process](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771788-vac-2026-field-monitor-targets-trusted-launch-internals-steamservice-process.html)|`2026-09-13 06:30:00`|`Counter-Strike 2`|
+|[Need Your Help&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771781-help.html)|`2026-09-13 06:20:00`|`Valorant`|
 |[EAC Performance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771483-eac-performance.html)|`2026-09-13 04:54:00`|`Rust`|
 |[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-13 04:53:00`|`HELLDIVERS 2`|
 |[Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769827-rogue-company-internal.html)|`2026-09-13 04:52:00`|`Other Games`|
