@@ -12,6 +12,7 @@
 |7|[very sloppy solution for patchguard works for EAC/BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/770721-sloppy-solution-patchguard-eac.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
 |23|[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
 |6|[SIMPLE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770781-simple-esp.html)|`2026-09-13 02:40:01`|`rainbow-six-siege`|
+|3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-13 04:55:39`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,9 +34,21 @@
 |2|[NexoDev &#45; How To Fish](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57589)|`2026-09-13 02:40:01`|
 |3|[Godlyware V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57586)|`2026-09-13 02:40:01`|
 |2|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57585)|`2026-09-13 02:40:01`|
+|0|[Russian Fishing 4 Assembly&#45;CSharp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57600)|`2026-09-13 04:55:39`|
+|3|[Mod menu release v&#46;2&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57598)|`2026-09-13 04:55:39`|
+|13|[PHAROAH PALADINS CHEAT SUITE &#45; UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57597)|`2026-09-13 04:55:39`|
+|4|[SoT Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57594)|`2026-09-13 04:55:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Performance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771483-eac-performance.html)|`2026-09-13 04:54:00`|`Rust`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-13 04:53:00`|`HELLDIVERS 2`|
+|[Rogue Company internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769827-rogue-company-internal.html)|`2026-09-13 04:52:00`|`Other Games`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-09-13 04:52:00`|`Call of Duty: Black Ops 7`|
+|[How to Fish &#45; Cheat Menu v3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768223-fish-cheat-menu-v3-0-a.html)|`2026-09-13 04:47:00`|`Other FPS Games`|
+|[New vanguard update patched Triggerbots once again](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/769154-vanguard-update-patched-triggerbots.html)|`2026-09-13 04:45:00`|`Valorant`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-09-13 04:45:00`|`Other MMORPG and Strategy`|
+|[EAC internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771606-eac-internal.html)|`2026-09-13 04:39:00`|`Anti-Cheat Bypass`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-13 02:38:00`|`Paladins`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-09-13 02:28:00`|`Overwatch`|
 |[NexoDev &#45; Project Zomboid Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771297-nexodev-project-zomboid-cheat.html)|`2026-09-13 02:28:00`|`Other MMORPG and Strategy`|
