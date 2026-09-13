@@ -11,6 +11,7 @@
 |10|[VALORANT PERFECT AUTOWALL/WALLBANG SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771570-valorant-perfect-autowall-wallbang-source-code.html)|`2026-09-14 03:24:35`|`valorant`|
 |3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-14 03:24:35`|`counter-strike-2-a`|
 |19|[A new method for VA to PA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771537-method-va-pa.html)|`2026-09-14 03:24:35`|`anti-cheat-bypass`|
+|22|[&#91;WoG&#93; War of Genesis: Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771553-wog-war-genesis-idle-loot.html)|`2026-09-14 07:19:07`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,9 +28,17 @@
 |5|[disk&#45;comm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57634)|`2026-09-14 05:29:26`|
 |9|[ChudwareBodyCamInternal V4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57633)|`2026-09-14 05:29:26`|
 |16|[SDK WARDOGS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57632)|`2026-09-14 05:29:26`|
+|1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57637)|`2026-09-14 07:19:07`|
+|5|[ligthweight&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57636)|`2026-09-14 07:19:07`|
+|0|[Auto Fish v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57635)|`2026-09-14 07:19:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cant manual map my dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771924-cant-manual-map-dll.html)|`2026-09-14 07:18:00`|`Counter-Strike 2`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-14 07:03:00`|`Other FPS Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-09-14 06:43:00`|`Rust`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-14 06:40:00`|`HELLDIVERS 2`|
+|[Any Updated Linux Methods Available?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/771581-updated-linux-methods-available.html)|`2026-09-14 06:39:00`|`HELLDIVERS 2`|
 |[Magic bullet offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/771897-magic-bullet-offset.html)|`2026-09-14 05:27:00`|`H1Z1`|
 |[Call of Duty: Modern Warfare II Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/514893-call-duty-modern-warfare-ii-reversal-structs-offsets.html)|`2026-09-14 05:26:00`|`Call of Duty: Modern Warfare II`|
 |[Cloak Rust External Source Updated build 25129251 Rainbow ESP &#43; Fonts No Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770890-cloak-rust-external-source-updated-build-25129251-rainbow-esp-fonts-driver.html)|`2026-09-14 05:22:00`|`Rust`|
