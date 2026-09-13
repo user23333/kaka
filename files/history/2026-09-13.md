@@ -13,6 +13,7 @@
 |23|[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-13 00:34:03`|`anti-cheat-bypass`|
 |6|[SIMPLE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770781-simple-esp.html)|`2026-09-13 02:40:01`|`rainbow-six-siege`|
 |3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-13 04:55:39`|`counter-strike-2-a`|
+|9|[&#91;Analysis / Diff&#93; CS2 Update &#40;07/08 Sep 2026 &#45; Patch 1&#46;41&#46;8&#46;0 / Build 2000905&#41; &#45; BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771069-analysis-diff-cs2-update-07-08-sep-2026-patch-1-41-8-0-build-2000905-bin.html)|`2026-09-13 08:19:12`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[It's Just Us &#40;an internal menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/753111-internal-menu.html)|`2026-09-13 08:12:00`|`Among Us`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-13 08:02:00`|`Other FPS Games`|
+|[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-09-13 07:50:00`|`Palworld`|
+|[Cloak Rust External Source Updated build 25129251 Rainbow ESP &#43; Fonts No Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770890-cloak-rust-external-source-updated-build-25129251-rainbow-esp-fonts-driver.html)|`2026-09-13 07:49:00`|`Rust`|
+|[Bodycam AI ultra cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770908-bodycam-ai-ultra-cheat-menu.html)|`2026-09-13 07:35:00`|`Other FPS Games`|
+|[what do EAC ban now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/763741-eac-ban.html)|`2026-09-13 07:35:00`|`Half Life`|
 |[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-09-13 06:41:00`|`Other Games`|
 |[NEED HELP WITH A FIVEM BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/771791-help-fivem-bypass.html)|`2026-09-13 06:33:00`|`Grand Theft Auto V`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-13 06:33:00`|`Other FPS Games`|
