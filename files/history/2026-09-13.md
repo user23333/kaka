@@ -14,6 +14,7 @@
 |6|[SIMPLE ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770781-simple-esp.html)|`2026-09-13 02:40:01`|`rainbow-six-siege`|
 |3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-13 04:55:39`|`counter-strike-2-a`|
 |9|[&#91;Analysis / Diff&#93; CS2 Update &#40;07/08 Sep 2026 &#45; Patch 1&#46;41&#46;8&#46;0 / Build 2000905&#41; &#45; BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771069-analysis-diff-cs2-update-07-08-sep-2026-patch-1-41-8-0-build-2000905-bin.html)|`2026-09-13 08:19:12`|`counter-strike-2-a`|
+|6|[Bodycam AI ultra cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770908-bodycam-ai-ultra-cheat-menu.html)|`2026-09-13 12:55:54`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -44,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VALORANT PERFECT AUTOWALL/WALLBANG SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771570-valorant-perfect-autowall-wallbang-source-code.html)|`2026-09-13 12:53:00`|`Valorant`|
+|[Naruto To Boruto shinobi striker trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771405-naruto-boruto-shinobi-striker-trainer.html)|`2026-09-13 12:42:00`|`Other MMORPG and Strategy`|
+|[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-13 12:40:00`|`Anti-Cheat Bypass`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-09-13 12:33:00`|`Counter-Strike 2`|
+|[No more room in hell 1 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771815-hell-1-internal.html)|`2026-09-13 12:18:00`|`Other FPS Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-09-13 12:08:00`|`Other Games`|
 |[It's Just Us &#40;an internal menu&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/753111-internal-menu.html)|`2026-09-13 08:12:00`|`Among Us`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-13 08:02:00`|`Other FPS Games`|
 |[palworld updated PalWorld&#45;NetCrack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/761851-palworld-updated-palworld-netcrack.html)|`2026-09-13 07:50:00`|`Palworld`|
