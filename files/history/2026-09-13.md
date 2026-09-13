@@ -15,6 +15,7 @@
 |3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-13 04:55:39`|`counter-strike-2-a`|
 |9|[&#91;Analysis / Diff&#93; CS2 Update &#40;07/08 Sep 2026 &#45; Patch 1&#46;41&#46;8&#46;0 / Build 2000905&#41; &#45; BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771069-analysis-diff-cs2-update-07-08-sep-2026-patch-1-41-8-0-build-2000905-bin.html)|`2026-09-13 08:19:12`|`counter-strike-2-a`|
 |6|[Bodycam AI ultra cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770908-bodycam-ai-ultra-cheat-menu.html)|`2026-09-13 12:55:54`|`other-fps-games`|
+|9|[VALORANT PERFECT AUTOWALL/WALLBANG SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771570-valorant-perfect-autowall-wallbang-source-code.html)|`2026-09-13 17:52:25`|`valorant`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,9 +43,25 @@
 |4|[SoT Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57594)|`2026-09-13 04:55:39`|
 |7|[PhasmoMenu v0&#46;5&#46;9&#46;8 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57605)|`2026-09-13 06:41:54`|
 |0|[ScarletSkipsMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57604)|`2026-09-13 06:41:54`|
+|2|[Valorant Colorbot V1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57614)|`2026-09-13 17:52:25`|
+|7|[TA&#43;&#43; Community 1&#46;1&#46;5&#46;0&#46;47242 v0&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57613)|`2026-09-13 17:52:25`|
+|5|[augur](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57612)|`2026-09-13 17:52:25`|
+|32|[PienZ v3 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57611)|`2026-09-13 17:52:25`|
+|16|[triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57610)|`2026-09-13 17:52:25`|
+|16|[CNOS&#45;LOKEN&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57608)|`2026-09-13 17:52:25`|
+|6|[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57607)|`2026-09-13 17:52:25`|
+|33|[BCVision](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57606)|`2026-09-13 17:52:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-09-13 17:49:00`|`Other MMORPG and Strategy`|
+|[&#91;WoG&#93; War of Genesis: Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771553-wog-war-genesis-idle-loot.html)|`2026-09-13 17:48:00`|`Other MMORPG and Strategy`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-09-13 17:46:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-13 17:43:00`|`Call of Duty: Black Ops 7`|
+|[Valorant CBot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771831-valorant-cbot.html)|`2026-09-13 17:42:00`|`Valorant`|
+|[If I use a leaked signature that hasn't been detected by EAC yet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771330-leaked-signature-hasnt-detected-eac.html)|`2026-09-13 17:42:00`|`Anti-Cheat Bypass`|
+|[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-09-13 17:36:00`|`HELLDIVERS 2`|
+|[FACEIT TPM Attestation — how faceitservice verifies your TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771828-faceit-tpm-attestation-faceitservice-verifies-tpm.html)|`2026-09-13 17:29:00`|`Anti-Cheat Bypass`|
 |[VALORANT PERFECT AUTOWALL/WALLBANG SOURCE CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/771570-valorant-perfect-autowall-wallbang-source-code.html)|`2026-09-13 12:53:00`|`Valorant`|
 |[Naruto To Boruto shinobi striker trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771405-naruto-boruto-shinobi-striker-trainer.html)|`2026-09-13 12:42:00`|`Other MMORPG and Strategy`|
 |[signed Input/Mouse&#45;Filter&#45;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/769904-signed-input-mouse-filter-driver.html)|`2026-09-13 12:40:00`|`Anti-Cheat Bypass`|
