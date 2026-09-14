@@ -32,9 +32,20 @@
 |5|[ligthweight&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57636)|`2026-09-14 07:19:07`|
 |0|[Auto Fish v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57635)|`2026-09-14 07:19:07`|
 |3|[DayZ&#45;Dumper&#45;v5&#45;Source&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57640)|`2026-09-14 09:11:44`|
+|1|[TYR Internal 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57645)|`2026-09-14 14:14:00`|
+|1|["Inside The Backrooms" Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57644)|`2026-09-14 14:14:00`|
+|1|[Marvel Rivals ESP/Aimbot &#45; UAC Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57643)|`2026-09-14 14:14:00`|
+|15|[PienZ v3&#46;1 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57642)|`2026-09-14 14:14:00`|
+|1|[how to fish C&#43;&#43; Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57641)|`2026-09-14 14:14:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valorant DMA External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763291-valorant-dma-external-cheat.html)|`2026-09-14 14:08:00`|`Valorant`|
+|[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-09-14 14:04:00`|`Other MMORPG and Strategy`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-09-14 13:59:00`|`HELLDIVERS 2`|
+|[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-09-14 13:56:00`|`Overwatch`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-14 13:49:00`|`Tom Clancy's The Division`|
+|["Inside the Backrooms" Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/586043-inside-backrooms-internal-trainer.html)|`2026-09-14 13:43:00`|`Other Games`|
 |[Offsets &#43; Newest decrypts and local player change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771945-offsets-decrypts-local-player-change.html)|`2026-09-14 08:57:00`|`Rust`|
 |[Chudware Bodycam Internal &#40;Made in Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771184-chudware-bodycam-internal-rust.html)|`2026-09-14 08:54:00`|`Other FPS Games`|
 |[disk&#45;comm &#124; driver communication over disk interrupts and one shared page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771895-disk-comm-driver-communication-disk-interrupts-shared-page.html)|`2026-09-14 08:51:00`|`Anti-Cheat Bypass`|
