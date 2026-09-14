@@ -12,6 +12,9 @@
 |3|[VAC Evasion techniques](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770938-vac-evasion-techniques.html)|`2026-09-14 03:24:35`|`counter-strike-2-a`|
 |19|[A new method for VA to PA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771537-method-va-pa.html)|`2026-09-14 03:24:35`|`anti-cheat-bypass`|
 |22|[&#91;WoG&#93; War of Genesis: Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771553-wog-war-genesis-idle-loot.html)|`2026-09-14 07:19:07`|`other-mmorpg-and-strategy`|
+|20|[Chudware Bodycam Internal &#40;Made in Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771184-chudware-bodycam-internal-rust.html)|`2026-09-14 20:45:31`|`other-fps-games`|
+|21|[pulzar&#45;hypervisor &#124; Type&#45;1 Hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771855-pulzar-hypervisor-type-1-hypervisor-base.html)|`2026-09-14 20:45:31`|`anti-cheat-bypass`|
+|14|[&#91;WARDOGS&#93;External UE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771709-wardogs-external-ue-dumper.html)|`2026-09-14 20:45:31`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,9 +40,25 @@
 |1|[Marvel Rivals ESP/Aimbot &#45; UAC Fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57643)|`2026-09-14 14:14:00`|
 |15|[PienZ v3&#46;1 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57642)|`2026-09-14 14:14:00`|
 |1|[how to fish C&#43;&#43; Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57641)|`2026-09-14 14:14:00`|
+|17|[PUBG SDK 2609&#46;1&#46;1&#46;87](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57653)|`2026-09-14 20:45:31`|
+|4|[BOAP&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57652)|`2026-09-14 20:45:31`|
+|2|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57651)|`2026-09-14 20:45:31`|
+|10|[GuardHunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57650)|`2026-09-14 20:45:31`|
+|14|[PUBG SDK 2609&#46;1&#46;1&#46;85 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57649)|`2026-09-14 20:45:31`|
+|52|[sdk wardogs 14&#46;09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57648)|`2026-09-14 20:45:31`|
+|3|[rzctlv2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57647)|`2026-09-14 20:45:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Retrieve current FiveM Build &#40;via static offset&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/751563-retrieve-current-fivem-build-via-static-offset.html)|`2026-09-14 20:39:00`|`Alternative Online Mods`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-09-14 20:37:00`|`Other Games`|
+|[CS2 External ESP – BYOVD &#124; FaceIT compatible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772000-cs2-external-esp-byovd-faceit-compatible.html)|`2026-09-14 20:30:00`|`Counter-Strike 2`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-09-14 20:29:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-09-14 20:27:00`|`Counter-Strike 2`|
+|[CNOS&#45;LOKEN by luoxueqi &#45; Free CS2 Internal Cheat &#124; V2&#46;2 Flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/771720-cnos-loken-luoxueqi-free-cs2-internal-cheat-v2-2-flash.html)|`2026-09-14 20:27:00`|`Counter-Strike 2 Releases`|
+|[hijacking overlay for eac protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771913-hijacking-overlay-eac-protected-game.html)|`2026-09-14 20:25:00`|`Anti-Cheat Bypass`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-09-14 20:24:00`|`Other Games`|
+|[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-09-14 20:24:00`|`Other Games`|
 |[Valorant DMA External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/763291-valorant-dma-external-cheat.html)|`2026-09-14 14:08:00`|`Valorant`|
 |[TYR Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/766934-tyr-internal.html)|`2026-09-14 14:04:00`|`Other MMORPG and Strategy`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-09-14 13:59:00`|`HELLDIVERS 2`|
