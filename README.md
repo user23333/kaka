@@ -31,9 +31,16 @@
 |1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57637)|`2026-09-14 07:19:07`|
 |5|[ligthweight&#95;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57636)|`2026-09-14 07:19:07`|
 |0|[Auto Fish v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57635)|`2026-09-14 07:19:07`|
+|3|[DayZ&#45;Dumper&#45;v5&#45;Source&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57640)|`2026-09-14 09:11:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets &#43; Newest decrypts and local player change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771945-offsets-decrypts-local-player-change.html)|`2026-09-14 08:57:00`|`Rust`|
+|[Chudware Bodycam Internal &#40;Made in Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771184-chudware-bodycam-internal-rust.html)|`2026-09-14 08:54:00`|`Other FPS Games`|
+|[disk&#45;comm &#124; driver communication over disk interrupts and one shared page](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771895-disk-comm-driver-communication-disk-interrupts-shared-page.html)|`2026-09-14 08:51:00`|`Anti-Cheat Bypass`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-09-14 08:51:00`|`Palworld`|
+|[pulzar&#45;hypervisor &#124; Type&#45;1 Hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771855-pulzar-hypervisor-type-1-hypervisor-base.html)|`2026-09-14 08:45:00`|`Anti-Cheat Bypass`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-09-14 08:42:00`|`Battlefield 4`|
 |[Cant manual map my dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771924-cant-manual-map-dll.html)|`2026-09-14 07:18:00`|`Counter-Strike 2`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-14 07:03:00`|`Other FPS Games`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-09-14 06:43:00`|`Rust`|
