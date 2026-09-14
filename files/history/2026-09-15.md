@@ -24,9 +24,22 @@
 |33|[PUBG SDK 2609&#46;1&#46;1&#46;87](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57653)|`2026-09-15 02:11:55`|
 |19|[BOAP&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57652)|`2026-09-15 02:11:55`|
 |27|[source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57651)|`2026-09-15 02:11:55`|
+|3|[Heirloom Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57663)|`2026-09-15 05:47:09`|
+|28|[PUBG SDK 2609&#46;1&#46;1&#46;89](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57662)|`2026-09-15 05:47:09`|
+|7|[ANIIMO Lua scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57660)|`2026-09-15 05:47:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex heirloom changer: correct model, wrong server animation sequences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/771843-apex-heirloom-changer-correct-model-wrong-server-animation-sequences.html)|`2026-09-15 05:46:00`|`Apex Legends`|
+|[DMA firmware / flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/772079-dma-firmware-flash.html)|`2026-09-15 05:46:00`|`Valorant`|
+|[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-09-15 05:45:00`|`Other FPS Games`|
+|[DMA firmware / flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/772077-dma-firmware-flash.html)|`2026-09-15 05:45:00`|`General Programming and Reversing`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-15 05:39:00`|`Rust`|
+|[R6:S General Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/158003-r6-discussion.html)|`2026-09-15 05:38:00`|`Rainbow Six Siege`|
+|[Gravity HVH Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772062-gravity-hvh-cheat.html)|`2026-09-15 05:37:00`|`Counter-Strike 2`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-15 05:36:00`|`HELLDIVERS 2`|
+|[shield guard kick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/772076-shield-guard-kick.html)|`2026-09-15 05:32:00`|`Rainbow Six Siege`|
+|[CS2 Rendering Pipeline / Rendering Research — Need Some Guidance](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772074-cs2-rendering-pipeline-rendering-research-guidance.html)|`2026-09-15 05:27:00`|`Counter-Strike 2`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-15 02:11:00`|`Other Games`|
 |[Aniimo &#45; LUA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736013-aniimo-lua-tool.html)|`2026-09-15 02:10:00`|`Other MMORPG and Strategy`|
 |[h1z1 Dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/771335-h1z1-dma.html)|`2026-09-15 02:06:00`|`H1Z1`|
