@@ -24,9 +24,24 @@
 |23|[NTE &#45; by JaneDoe007](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57675)|`2026-09-16 02:14:49`|
 |125|[XIPEX&#45;Palworld &#43; injector 1&#46;5 beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57674)|`2026-09-16 02:14:49`|
 |8|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57673)|`2026-09-16 02:14:49`|
+|10|[TA&#43;&#43; Community 1&#46;1&#46;5&#46;0&#46;47426 v0&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57692)|`2026-09-16 05:21:11`|
+|1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57691)|`2026-09-16 05:21:11`|
+|6|[SpaceBreacher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57690)|`2026-09-16 05:21:11`|
+|31|[VANGUARD EMULATOR SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57689)|`2026-09-16 05:21:11`|
+|10|[Valheim mod menu v1&#46;0&#46;2 Final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57684)|`2026-09-16 05:21:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-09-16 05:18:00`|`Rainbow Six Siege`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-16 05:12:00`|`Other Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-16 05:12:00`|`Escape from Tarkov`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-16 05:09:00`|`HELLDIVERS 2`|
+|[boiii client multiplayer hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/724716-boiii-client-multiplayer-hack.html)|`2026-09-16 05:08:00`|`Call of Duty: Black Ops 3`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-09-16 05:04:00`|`HELLDIVERS 2`|
+|[New member here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/772231-new-member-here.html)|`2026-09-16 05:04:00`|`Introductions`|
+|[Chudware Bodycam Internal &#40;Made in Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771184-chudware-bodycam-internal-rust.html)|`2026-09-16 05:02:00`|`Other FPS Games`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-09-16 05:01:00`|`Tom Clancy's The Division`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-09-16 05:01:00`|`Other FPS Games`|
 |[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-09-16 02:12:00`|`H1Z1`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-09-16 02:08:00`|`Other FPS Games`|
 |[DeadByDaylight external &#91;Steam&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/715450-deadbydaylight-external-steam.html)|`2026-09-16 02:06:00`|`Other Games`|
