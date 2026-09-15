@@ -29,9 +29,17 @@
 |6|[SpaceBreacher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57690)|`2026-09-16 05:21:11`|
 |31|[VANGUARD EMULATOR SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57689)|`2026-09-16 05:21:11`|
 |10|[Valheim mod menu v1&#46;0&#46;2 Final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57684)|`2026-09-16 05:21:11`|
+|7|[PienZ v9 &#40;Lucky edits&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57693)|`2026-09-16 07:32:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-09-16 07:28:00`|`Counter-Strike 2`|
+|[Rogue Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748599-rogue-company-internal.html)|`2026-09-16 07:27:00`|`Other Games`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-16 07:14:00`|`Other FPS Games`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-16 07:09:00`|`Tom Clancy's The Division`|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-09-16 07:04:00`|`ARC Raiders`|
+|[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-09-16 07:04:00`|`Roblox`|
+|[Road to Vostok Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/772251-road-vostok-internal.html)|`2026-09-16 06:43:00`|`Other Single Player Games`|
 |[R6S LUA NO RECOIL WITH DETECT OPERATOR, ALL OPERATORS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/759683-r6s-lua-recoil-detect-operator-operators.html)|`2026-09-16 05:18:00`|`Rainbow Six Siege`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-16 05:12:00`|`Other Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-16 05:12:00`|`Escape from Tarkov`|
