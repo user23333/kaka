@@ -27,9 +27,26 @@
 |3|[Heirloom Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57663)|`2026-09-15 05:47:09`|
 |28|[PUBG SDK 2609&#46;1&#46;1&#46;89](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57662)|`2026-09-15 05:47:09`|
 |7|[ANIIMO Lua scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57660)|`2026-09-15 05:47:09`|
+|5|[TYR Internal 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57672)|`2026-09-15 11:57:40`|
+|2|[mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57671)|`2026-09-15 11:57:40`|
+|21|[ChudwareBodyCamInternalV4&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57668)|`2026-09-15 11:57:40`|
+|3|[Modern Warefare III Steam dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57667)|`2026-09-15 11:57:40`|
+|14|[APEXDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57666)|`2026-09-15 11:57:40`|
+|1|[FFXIII&#46;CrystalTrainer V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57665)|`2026-09-15 11:57:40`|
+|33|[Gravity cs2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57664)|`2026-09-15 11:57:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-09-15 11:57:00`|`Counter-Strike 2`|
+|[Where should I start with Valorant dev?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/772005-start-valorant-dev.html)|`2026-09-15 11:56:00`|`Valorant`|
+|[CK Free Toolbox Dump decrypt Fix Fivem resource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/771847-ck-free-toolbox-dump-decrypt-fix-fivem-resource.html)|`2026-09-15 11:55:00`|`Alternative Online Mods`|
+|[mapper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772095-mapper.html)|`2026-09-15 11:53:00`|`Anti-Cheat Bypass`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-15 11:35:00`|`Other FPS Games`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-09-15 11:35:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-15 11:35:00`|`Apex Legends`|
+|[Help a bro to make money](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/771450-help-bro-money.html)|`2026-09-15 11:30:00`|`Grand Theft Auto V`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-09-15 11:24:00`|`Call of Duty: Modern Warfare III`|
+|[Confused About Entity List / Crosshair Index](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769243-confused-entity-list-crosshair-index.html)|`2026-09-15 11:22:00`|`Counter-Strike 2`|
 |[Apex heirloom changer: correct model, wrong server animation sequences](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/771843-apex-heirloom-changer-correct-model-wrong-server-animation-sequences.html)|`2026-09-15 05:46:00`|`Apex Legends`|
 |[DMA firmware / flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/valorant/772079-dma-firmware-flash.html)|`2026-09-15 05:46:00`|`Valorant`|
 |[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-09-15 05:45:00`|`Other FPS Games`|
