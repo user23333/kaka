@@ -11,6 +11,7 @@
 |20|[Chudware Bodycam Internal &#40;Made in Rust&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771184-chudware-bodycam-internal-rust.html)|`2026-09-15 02:11:55`|`other-fps-games`|
 |19|[A new method for VA to PA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771537-method-va-pa.html)|`2026-09-15 02:11:55`|`anti-cheat-bypass`|
 |9|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-09-15 02:11:55`|`roblox`|
+|10|[beserk inv changer &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771531-beserk-inv-changer-updated.html)|`2026-09-15 22:17:57`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,9 +38,18 @@
 |15|[XIPEX&#45;Palworld &#43; injector 1&#46;5 beta](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57674)|`2026-09-15 17:08:21`|
 |1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57673)|`2026-09-15 17:08:21`|
 |12|[eft external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57670)|`2026-09-15 17:08:21`|
+|11|[1&#46;1&#46;5&#46;47426&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57680)|`2026-09-15 22:17:57`|
+|3|[CNOS&#45;LOKEN&#46;dll &#124; Rage client&#46;exe ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57679)|`2026-09-15 22:17:57`|
+|11|[kdmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57676)|`2026-09-15 22:17:57`|
+|9|[NTE &#45; by JaneDoe007](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57675)|`2026-09-15 22:17:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[League of Legends Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/league-of-legends/310587-league-legends-reversal-structs-offsets.html)|`2026-09-15 22:06:00`|`League of Legends`|
+|[From Zero to C&#43;&#43;: A Complete Practical Programming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/772143-zero-complete-practical-programming-guide.html)|`2026-09-15 22:04:00`|`C and C++`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-15 21:55:00`|`Escape from Tarkov`|
+|[Inside EAC/EOS driver: hardware identity collection, kernel telemetry and CPU probes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772181-inside-eac-eos-driver-hardware-identity-collection-kernel-telemetry-cpu-probes.html)|`2026-09-15 21:48:00`|`Anti-Cheat Bypass`|
+|[CNOS&#45;LOKEN by luoxueqi &#45; Free CS2 Internal Cheat &#124; V2&#46;2 Flash](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/771720-cnos-loken-luoxueqi-free-cs2-internal-cheat-v2-2-flash.html)|`2026-09-15 21:45:00`|`Counter-Strike 2 Releases`|
 |[rust source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/772022-rust-source.html)|`2026-09-15 17:05:00`|`Rust`|
 |[Virtual Method Tables &#45; Everything there is to know](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772025-virtual-method-tables.html)|`2026-09-15 17:04:00`|`Anti-Cheat Bypass`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-15 17:00:00`|`Marvel Rivals`|
