@@ -13,6 +13,7 @@
 |14|[beserk inv changer &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771531-beserk-inv-changer-updated.html)|`2026-09-17 00:14:37`|`counter-strike-2-a`|
 |26|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-09-17 03:33:40`|`other-mmorpg-and-strategy`|
 |28|[Inside EAC/EOS driver: hardware identity collection, kernel telemetry and CPU probes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772181-inside-eac-eos-driver-hardware-identity-collection-kernel-telemetry-cpu-probes.html)|`2026-09-17 03:33:40`|`anti-cheat-bypass`|
+|35|[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-09-17 06:16:43`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,24 @@
 |38|[Shinoko&#45;Aniimo v0&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57720)|`2026-09-17 03:33:40`|
 |0|[onehand&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57719)|`2026-09-17 03:33:40`|
 |22|[AniimoAutoExtractor&#45;EN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57718)|`2026-09-17 03:33:40`|
+|2|[valheave&#45;fix&#45;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57726)|`2026-09-17 06:16:43`|
+|0|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;09&#45;16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57725)|`2026-09-17 06:16:43`|
+|3|[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57724)|`2026-09-17 06:16:43`|
+|42|[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57723)|`2026-09-17 06:16:43`|
+|7|[valheaven release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57722)|`2026-09-17 06:16:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-09-17 06:14:00`|`Unity`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-17 06:11:00`|`Marvel Rivals`|
+|[FiveM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766787-fivem-dma.html)|`2026-09-17 06:10:00`|`Alternative Online Mods`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-09-17 06:09:00`|`Battlefield 6`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-09-17 06:07:00`|`Other FPS Games`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-17 06:06:00`|`HELLDIVERS 2`|
+|[Aniimo &#45; LUA Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/736013-aniimo-lua-tool.html)|`2026-09-17 06:05:00`|`Other MMORPG and Strategy`|
+|[Inside EAC/EOS driver: hardware identity collection, kernel telemetry and CPU probes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772181-inside-eac-eos-driver-hardware-identity-collection-kernel-telemetry-cpu-probes.html)|`2026-09-17 06:04:00`|`Anti-Cheat Bypass`|
+|[Reccomendations for genshin hacks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/770880-reccomendations-genshin-hacks.html)|`2026-09-17 06:02:00`|`Genshin Impact`|
+|[ABYSS Rivals &#124; Leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770850-abyss-rivals-leak.html)|`2026-09-17 05:54:00`|`Marvel Rivals`|
 |[tb, texturebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772383-tb-texturebug.html)|`2026-09-17 03:32:00`|`Counter-Strike 2`|
 |[&#91;BLT&#93; Selective DLC Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/185930-blt-selective-dlc-unlocker.html)|`2026-09-17 03:21:00`|`Payday 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-17 03:13:00`|`Other FPS Games`|
