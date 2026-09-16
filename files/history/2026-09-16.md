@@ -44,6 +44,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 pawn reads break after a map change, controllers still work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772322-cs2-pawn-reads-break-map-change-controllers.html)|`2026-09-16 19:55:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-16 19:54:00`|`Escape from Tarkov`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-09-16 19:50:00`|`Battlefield 6`|
+|[Hello everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771869-hello.html)|`2026-09-16 19:45:00`|`Introductions`|
+|[Damages made through cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/772330-damages-cheats.html)|`2026-09-16 19:41:00`|`Off Topic`|
+|[Internal or External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772328-internal-external.html)|`2026-09-16 19:40:00`|`Counter-Strike 2`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-09-16 19:33:00`|`Other MMORPG and Strategy`|
 |[internal cs2 help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772307-internal-cs2-help.html)|`2026-09-16 14:27:00`|`Counter-Strike 2`|
 |[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-09-16 14:25:00`|`Call of Duty: Modern Warfare III`|
 |[Using a modified KDU combined with unsigned drivers to bypass EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/772051-using-modified-kdu-combined-unsigned-drivers-bypass-eac.html)|`2026-09-16 14:21:00`|`Anti-Cheat Bypass`|
