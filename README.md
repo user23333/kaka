@@ -37,9 +37,20 @@
 |7|[valheaven release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57722)|`2026-09-17 06:16:43`|
 |2|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57728)|`2026-09-17 08:34:08`|
 |8|[CNOS&#45;LOKEN&#46;dll &#124; Rage client&#46;exe ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57730)|`2026-09-17 13:14:19`|
+|2|[beserk inventory changer&#40;updated&#41; ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57737)|`2026-09-17 17:59:17`|
+|51|[Aniimo public version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57736)|`2026-09-17 17:59:17`|
+|7|[Manual&#45;Map&#95;x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57735)|`2026-09-17 17:59:17`|
+|45|[PienZ v5 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57734)|`2026-09-17 17:59:17`|
+|11|[Grovekeeper v0&#46;10&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57733)|`2026-09-17 17:59:17`|
+|4|[CSGO AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57732)|`2026-09-17 17:59:17`|
+|7|[NiceTrainer v1&#46;0 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57729)|`2026-09-17 17:59:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Spawn Money Triggers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/771170-fivem-spawn-money-triggers.html)|`2026-09-17 17:55:00`|`Alternative Online Mods`|
+|[Infinite Warfare Zombies Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743449-infinite-warfare-zombies-tool.html)|`2026-09-17 17:55:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-09-17 17:46:00`|`Rust`|
+|[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-09-17 17:37:00`|`Other MMORPG and Strategy`|
 |[Cs2 Name changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771894-cs2-name-changer.html)|`2026-09-17 13:05:00`|`Counter-Strike 2`|
 |[Screen rain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771832-screen-rain.html)|`2026-09-17 12:51:00`|`Counter-Strike 2`|
 |[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2026-09-17 12:45:00`|`Other Games`|
