@@ -36,9 +36,15 @@
 |42|[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57723)|`2026-09-17 06:16:43`|
 |7|[valheaven release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57722)|`2026-09-17 06:16:43`|
 |2|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57728)|`2026-09-17 08:34:08`|
+|8|[CNOS&#45;LOKEN&#46;dll &#124; Rage client&#46;exe ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57730)|`2026-09-17 13:14:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cs2 Name changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771894-cs2-name-changer.html)|`2026-09-17 13:05:00`|`Counter-Strike 2`|
+|[Screen rain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771832-screen-rain.html)|`2026-09-17 12:51:00`|`Counter-Strike 2`|
+|[Chivalry 2 Simple Lightweight Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/681745-chivalry-2-simple-lightweight-cheat.html)|`2026-09-17 12:45:00`|`Other Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-09-17 12:41:00`|`Other Games`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-17 12:33:00`|`Rust`|
 |[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772391-aniimo-internal-cheat.html)|`2026-09-17 08:22:00`|`Other MMORPG and Strategy`|
 |[hijacking overlay for eac protected game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-bypass/771913-hijacking-overlay-eac-protected-game.html)|`2026-09-17 08:08:00`|`Anti-Cheat Bypass`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-17 08:07:00`|`Other FPS Games`|
