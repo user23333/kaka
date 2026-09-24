@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-09-24 12:07:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-24 12:07:00`|`DayZ SA`|
+|[Mouse/Keyboard Memory Input &#124; Unreal Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772439-mouse-keyboard-memory-input-unreal-engine.html)|`2026-09-24 12:06:00`|`Anti-Cheat Research`|
+|[Flavia &#91;Cheat for Strinova&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755637-flavia-cheat-strinova.html)|`2026-09-24 12:05:00`|`Other FPS Games`|
+|[Rainbow operators icons SVG to make own font](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773530-rainbow-operators-icons-svg-own-font.html)|`2026-09-24 12:00:00`|`Rainbow Six Siege`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-09-24 12:00:00`|`HELLDIVERS 2`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-09-24 11:57:00`|`Grand Theft Auto V`|
+|[Undercover external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/772617-undercover-external.html)|`2026-09-24 11:48:00`|`Generals and Zero Hour`|
+|[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772391-aniimo-internal-cheat.html)|`2026-09-24 11:44:00`|`Other MMORPG and Strategy`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-24 11:38:00`|`Other FPS Games`|
 |[StarCraft 2 Observer Panel asm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772865-starcraft-2-observer-panel-asm.html)|`2026-09-24 11:28:00`|`Other MMORPG and Strategy`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-24 11:22:00`|`Rust`|
