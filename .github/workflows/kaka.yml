@@ -20,16 +20,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       
-      - uses: szenius/set-timezone@v2.0
-        with:
-          timezoneLinux: "Asia/Shanghai"
-          timezoneMacos: "Asia/Shanghai"
-          timezoneWindows: "China Standard Time"
+      - name: Set timezone
+        run: sudo timedatectl set-timezone Asia/Shanghai
 
       - name: Setup Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -39,8 +36,9 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run with retry
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4.0.0
         env:
+          V1: ${{ secrets.V1 }}
           V2: ${{ secrets.V2 }}
           V3: ${{ secrets.V3 }}
         with:
