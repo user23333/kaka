@@ -1,18 +1,22 @@
 import os
-import random
-import requests
-from datetime import datetime, timedelta
+import shutil
+import time
+from datetime import datetime, timedelta, timezone
+from DrissionPage import Chromium, ChromiumOptions
 from pyquery import PyQuery as pq
-import user_agent
-
-v1 = os.getenv('V1')
-v2 = os.getenv('V2')
-v3 = os.getenv('V3')
-
 
 def utc_to_cst(utc):
-    utc_time = datetime.strptime(utc, "%d-%m, %H:%M").replace(year=datetime.now().year)
-    cst_time = utc_time + timedelta(hours=8)
+    now = datetime.now(timezone.utc)
+    candidates = []
+    for year in (now.year - 1, now.year, now.year + 1):
+        try:
+            candidates.append(datetime.strptime(f"{year}-{utc}", "%Y-%d-%m, %H:%M").replace(tzinfo=timezone.utc))
+        except ValueError:
+            continue
+    if not candidates:
+        raise ValueError("Invalid forum date")
+    utc_time = min(candidates, key=lambda value: abs(value - now))
+    cst_time = utc_time.astimezone(timezone(timedelta(hours=8)))
     return cst_time.strftime("%Y-%m-%d %H:%M:%S")
 
 
@@ -38,46 +42,73 @@ def get_between(s, first, last):
     return s[start:end]
 
 
-def fetch():
-    ua = user_agent.random()
-    data = {
-        "url": f"{v2}{random.random() * 99999999999999}",
-        "options": {"method": "POST", "headers": {"User-Agent": ua}},
-    }
-    print("User-Agent: " + ua)
-    response = requests.post(v1, json=data)
-    response.raise_for_status()
+def fetch_blocks(v2):
+    options = ChromiumOptions(read_file=False).auto_port().headless(False)
+    options.set_load_mode('none')
+    chrome = os.getenv('CHROME_BIN') or shutil.which('google-chrome')
+    if chrome:
+        options.set_browser_path(chrome)
+    browser = Chromium(options)
+    try:
+        tab = browser.latest_tab
+        deadline = time.monotonic() + 55
+        try:
+            tab.get(f'{v2}{time.time_ns()}', retry=0, timeout=45)
+        except Exception:
+            raise RuntimeError('Browser navigation failed') from None
+        while time.monotonic() < deadline:
+            try:
+                html = tab.html or ''
+            except Exception:
+                tab = browser.latest_tab
+                time.sleep(1)
+                continue
+            blocks = [get_between(html, f'<block blockid="{i}"><![CDATA[', ']]></block>') for i in (1, 2, 3)]
+            if all(blocks):
+                return blocks
+            time.sleep(1)
+        raise RuntimeError('V2 blocks did not load within 55 seconds')
+    finally:
+        browser.quit()
 
-    doc = pq(get_between(response.text, '<block blockid="1"><![CDATA[', "]]></block>"))
+
+def fetch():
+    v2 = os.getenv('V2')
+    v3 = os.getenv('V3')
+    missing = [name for name, value in (('V2', v2), ('V3', v3)) if not value]
+    if missing:
+        raise RuntimeError(f'Missing environment variables: {", ".join(missing)}')
+    hottest_html, files_html, latest_html = fetch_blocks(v2)
+    scraped_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    doc = pq(hottest_html)
     hottest = []
     for tr in doc("tr").items():
         tag = tr("td").eq(1).find("a")
         title = tag.attr("title")
         link = tag.attr("href")
-        date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        forum = link.split("/")[0]
         reply = tr("td").eq(2).text()
 
         if title and link:
             title = markdown_escape(title)
+            forum = link.split("/")[0]
             link = v3 + link.split("?")[0]
-            hottest.append({"title": title, "link": link, "date": date, "forum": forum, "reply": reply})
+            hottest.append({"title": title, "link": link, "date": scraped_at, "forum": forum, "reply": reply})
 
-    doc = pq(get_between(response.text, '<block blockid="2"><![CDATA[', "]]></block>"))
+    doc = pq(files_html)
     files = []
     for tr in doc("tr").items():
         tag = tr("td").eq(1).find("a")
         title = tag.attr("title")
         link = tag.attr("href")
-        date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         downloads = tr("td").eq(2).text()
 
         if title and link:
             title = markdown_escape(title)
             link = v3 + link.split("&s=")[0]
-            files.append({"title": title, "link": link, "date": date, "downloads": downloads})
+            files.append({"title": title, "link": link, "date": scraped_at, "downloads": downloads})
 
-    doc = pq(get_between(response.text, '<block blockid="3"><![CDATA[', "]]></block>"))
+    doc = pq(latest_html)
     latest = []
     for tr in doc("tr").items():
         td = tr("td")
@@ -91,5 +122,8 @@ def fetch():
             link = v3 + link.split("?")[0]
             date = utc_to_cst(date)
             latest.append({"title": title, "link": link, "date": date, "forum": forum})
+
+    if not all((hottest, files, latest)):
+        raise RuntimeError('Forum panel contained no valid rows in one or more blocks')
 
     return {"hottest": hottest, "files": files, "latest": latest}

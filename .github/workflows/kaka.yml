@@ -13,7 +13,9 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -26,10 +28,10 @@ jobs:
           timezoneMacos: "Asia/Shanghai"
           timezoneWindows: "China Standard Time"
 
-      - name: Setup Python 3.8
+      - name: Setup Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -39,14 +41,13 @@ jobs:
       - name: Run with retry
         uses: nick-fields/retry@v3
         env:
-          V1: ${{ secrets.V1 }}
           V2: ${{ secrets.V2 }}
           V3: ${{ secrets.V3 }}
         with:
-          timeout_minutes: 1
+          timeout_minutes: 2
           max_attempts: 5
           retry_wait_seconds: 60
-          command: python main.py
+          command: xvfb-run -a -s '-screen 0 1280x800x24' python main.py
 
 
       - name: Push

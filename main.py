@@ -8,10 +8,6 @@ TODAY_DATE = datetime.now().strftime("%Y-%m-%d")
 TODAY_FILE = "files/history/%s.md" % TODAY_DATE
 CACHE_FILE = "files/cache.json"
 
-if not os.path.exists("files"):
-    os.makedirs("files/history", exist_ok=True)
-
-
 def load_cache():
     default = {"date": TODAY_DATE, "hottest": [], "files": [], "latest": []}
     try:
@@ -19,7 +15,9 @@ def load_cache():
             cache = json.load(file)
             if cache["date"] == default["date"]:
                 return cache
-    except Exception as err:
+    except FileNotFoundError:
+        pass
+    except (json.JSONDecodeError, UnicodeDecodeError, KeyError, TypeError) as err:
         print("load_cache error: " + str(err))
     return default
 
@@ -33,21 +31,21 @@ def update_cache():
     cache = load_cache()
     block = panel.fetch()
 
-    filter = set(thread["link"] for thread in cache["hottest"])
+    existing_links = {thread["link"] for thread in cache["hottest"]}
     for thread in block["hottest"]:
-        if thread["link"] not in filter:
+        if thread["link"] not in existing_links:
             print("hottest new thread: %(date)s %(title)s" % thread)
             cache["hottest"].append(thread)
 
-    filter = set(thread["link"] for thread in cache["files"])
+    existing_links = {thread["link"] for thread in cache["files"]}
     for thread in block["files"]:
-        if thread["link"] not in filter:
+        if thread["link"] not in existing_links:
             print("files new thread: %(date)s %(title)s" % thread)
             cache["files"].append(thread)
 
-    filter = set(thread["link"] for thread in cache["latest"])
+    existing_links = {thread["link"] for thread in cache["latest"]}
     for thread in reversed(block["latest"]):
-        if thread["link"] not in filter:
+        if thread["link"] not in existing_links:
             print("latest new thread: %(date)s %(title)s" % thread)
             cache["latest"].insert(0, thread)
 
@@ -78,4 +76,10 @@ def save_to_markdown(data):
     shutil.copy2(TODAY_FILE, "README.md")
 
 
-save_to_markdown(update_cache())
+def main():
+    os.makedirs("files/history", exist_ok=True)
+    save_to_markdown(update_cache())
+
+
+if __name__ == "__main__":
+    main()

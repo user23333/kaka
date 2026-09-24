@@ -1,2 +1,2 @@
-requests
 pyquery
+DrissionPage==4.1.1.4
