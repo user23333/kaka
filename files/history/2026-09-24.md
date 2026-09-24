@@ -11,6 +11,7 @@
 |21|[nmi&#45;immunity &#45; NMI&#45;immune shared memory driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772546-nmi-immunity-nmi-immune-shared-memory-driver.html)|`2026-09-24 11:42:20`|`anti-cheat-research`|
 |22|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-09-24 11:42:20`|`grand-theft-auto-v`|
 |8|[Spud&#33;&#33; cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772697-spud-cheat-cs2.html)|`2026-09-24 11:42:20`|`counter-strike-2-a`|
+|28|[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-09-24 18:14:16`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,18 @@
 |1|[PUBG SDK 2609&#46;1&#46;2&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57954)|`2026-09-24 13:25:00`|
 |2|[Evitania v0&#46;319&#46;3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57953)|`2026-09-24 13:25:00`|
 |1|[BLVCK PARRY: For Honor Auto Parry &#43; Counter G](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57952)|`2026-09-24 13:25:00`|
+|3|[Wardog&#45;Icon&#45;Font](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57962)|`2026-09-24 18:14:16`|
+|54|[vesta 1&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57961)|`2026-09-24 18:14:16`|
+|2|[Codename Cure 2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57959)|`2026-09-24 18:14:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-09-24 18:09:00`|`Other Games`|
+|[Chess&#46;com Cheat ImGui Overlay&#43;Stockfish 19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773545-chess-com-cheat-imgui-overlay-stockfish-19-a.html)|`2026-09-24 18:08:00`|`Other Games`|
+|[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-09-24 18:00:00`|`Other MMORPG and Strategy`|
+|[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-09-24 17:47:00`|`Tom Clancy's The Division`|
+|[DIVISION 2 &#45; EAC BYPASS AGAIN fml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/766888-division-2-eac-bypass-fml.html)|`2026-09-24 17:46:00`|`Tom Clancy's The Division`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-09-24 17:44:00`|`Marvel Rivals`|
 |[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-09-24 13:23:00`|`Counter-Strike 2`|
 |[game crashing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773525-game-crashing.html)|`2026-09-24 13:22:00`|`Counter-Strike 2`|
 |[theHunter: Call of the Wild – First Release &#124; Fly Mode, ESP, God Mode, Money & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772892-thehunter-call-wild-release-fly-mode-esp-god-mode-money.html)|`2026-09-24 13:22:00`|`Other FPS Games`|
