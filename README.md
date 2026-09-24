@@ -11,6 +11,8 @@
 |15|[H1Z1&#95;External ROTK Win10 and Win11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/772924-h1z1_external-rotk-win10-win11.html)|`2026-09-25 03:02:13`|`h1z1`|
 |36|[H1Z1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773252-h1z1-internal.html)|`2026-09-25 03:02:13`|`h1z1`|
 |22|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-09-25 03:02:13`|`grand-theft-auto-v`|
+|77|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-25 06:10:21`|`other-fps-games`|
+|33|[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-09-25 06:10:21`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +26,23 @@
 |5|[IdleMasterMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57979)|`2026-09-25 03:02:13`|
 |7|[Nulvex Ready Or Not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57978)|`2026-09-25 03:02:13`|
 |5|[il2flow&#95;x86&#95;64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57977)|`2026-09-25 03:02:13`|
+|6|[Mysterious External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57993)|`2026-09-25 06:10:21`|
+|2|[Umbra Windows Port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57992)|`2026-09-25 06:10:21`|
+|2|[cfg&#95;internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57991)|`2026-09-25 06:10:21`|
+|18|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57990)|`2026-09-25 06:10:21`|
+|21|[wardogs dump 9/24/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57989)|`2026-09-25 06:10:21`|
+|25|[stalzone&#95;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=57988)|`2026-09-25 06:10:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rotk hwid bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773626-rotk-hwid-bypass.html)|`2026-09-25 06:08:00`|`H1Z1`|
+|[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-09-25 06:03:00`|`HELLDIVERS 2`|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-25 06:03:00`|`Other FPS Games`|
+|[Clipc&#46;dll GetOfflineDeviceUniqueID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760893-clipc-dll-getofflinedeviceuniqueid-spoofing.html)|`2026-09-25 06:02:00`|`Alternative Online Mods`|
+|[H1Z1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773252-h1z1-internal.html)|`2026-09-25 06:00:00`|`H1Z1`|
+|[Missing in MM but hitting P in practice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773615-missing-mm-hitting-practice.html)|`2026-09-25 05:59:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-25 05:57:00`|`DayZ SA`|
+|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-09-25 05:50:00`|`Call of Duty: Black Ops 7`|
 |[latest pattern list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773612-pattern-list.html)|`2026-09-25 03:01:00`|`Counter-Strike 2`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-25 03:01:00`|`Tom Clancy's The Division`|
 |[Controller color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/773597-controller-color-aimbot.html)|`2026-09-25 02:56:00`|`Call of Duty: Black Ops 7`|
