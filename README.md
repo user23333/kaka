@@ -36,6 +36,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How To Get Recoil Values For A Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773659-recoil-values-recoil-script.html)|`2026-09-25 13:14:00`|`Rust`|
+|[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772391-aniimo-internal-cheat.html)|`2026-09-25 13:13:00`|`Other MMORPG and Strategy`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-09-25 13:10:00`|`HELLDIVERS 2`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-09-25 13:05:00`|`Counter-Strike 2`|
+|[Apex will switch to EA Javelin Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773650-apex-switch-ea-javelin-anticheat.html)|`2026-09-25 12:58:00`|`Apex Legends`|
+|[Spread Calc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773657-spread-calc.html)|`2026-09-25 12:46:00`|`Counter-Strike 2`|
+|[Why cheat if you're not making your own stuff?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771458-cheat-youre-own-stuff.html)|`2026-09-25 12:45:00`|`Off Topic`|
+|[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-09-25 12:33:00`|`Other Games`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-25 08:30:00`|`Marvel Rivals`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-09-25 08:28:00`|`Counter-Strike 2`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-25 08:24:00`|`Apex Legends`|
