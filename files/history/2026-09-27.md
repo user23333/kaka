@@ -24,9 +24,19 @@
 |34|[RS6 Logitech Recoil Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58021)|`2026-09-27 01:44:46`|
 |6|[RE8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58020)|`2026-09-27 01:44:46`|
 |193|[HD2 ED merge &#43; BOX &#43; Weapon Customization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58019)|`2026-09-27 01:44:46`|
+|1|[Dumper&#45;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58030)|`2026-09-27 04:08:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-27 04:07:00`|`Other FPS Games`|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-27 04:06:00`|`Other FPS Games`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-09-27 04:06:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-27 04:04:00`|`DayZ SA`|
+|[help with injection time](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773959-help-injection-time.html)|`2026-09-27 04:00:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-27 03:57:00`|`ARC Raiders`|
+|[Monitor Spoofing Hardware level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773963-monitor-spoofing-hardware-level.html)|`2026-09-27 03:52:00`|`Anti-Cheat Research`|
+|[TPM on kvm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773962-tpm-kvm.html)|`2026-09-27 03:52:00`|`Anti-Cheat Research`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-09-27 03:48:00`|`H1Z1`|
 |[Cheat For Smite 2 Aimbot & Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/739420-cheat-smite-2-aimbot-esp.html)|`2026-09-27 01:43:00`|`Other FPS Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-27 01:39:00`|`Other FPS Games`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-27 01:37:00`|`Anti-Cheat Research`|
