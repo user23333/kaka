@@ -12,6 +12,7 @@
 |34|[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-09-26 03:14:36`|`h1z1`|
 |8|[Spud&#33;&#33; cheat CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772697-spud-cheat-cs2.html)|`2026-09-26 03:14:36`|`counter-strike-2-a`|
 |35|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-09-26 08:40:19`|`rainbow-six-siege`|
+|12|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-09-26 22:11:46`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,9 +39,18 @@
 |83|[HD2 ED merge &#43; BOX &#43; Weapon Customization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58019)|`2026-09-26 18:00:22`|
 |4|[The Finals SDK CL1401273 24&#45;Sep&#45;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58018)|`2026-09-26 18:00:22`|
 |23|[Trollware1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58017)|`2026-09-26 18:00:22`|
+|3|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58029)|`2026-09-26 22:11:46`|
+|1|[killing floor 2 external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58028)|`2026-09-26 22:11:46`|
+|59|[Nenyoo V3 269&#46;26&#46;0602](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58026)|`2026-09-26 22:11:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-09-26 22:09:00`|`Other MMORPG and Strategy`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-09-26 22:07:00`|`Other FPS Games`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-09-26 22:07:00`|`Grand Theft Auto V`|
+|[r6 aimbot, esp etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769483-r6-aimbot-esp-etc.html)|`2026-09-26 22:06:00`|`Rainbow Six Siege`|
+|[Silent Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/767091-silent-bypass.html)|`2026-09-26 22:01:00`|`Alternative Online Mods`|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-09-26 21:58:00`|`Anti-Cheat Research`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-26 17:58:00`|`DayZ SA`|
 |[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-09-26 17:50:00`|`Other MMORPG and Strategy`|
 |[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-26 17:42:00`|`Other FPS Games`|
