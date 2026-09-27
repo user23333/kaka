@@ -38,6 +38,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC&#45;EOS usermode detection engine &#40;part 3/3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773899-eac-eos-usermode-detection-engine-3-3-a.html)|`2026-09-27 19:18:00`|`Anti-Cheat Research`|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-09-27 19:17:00`|`Other FPS Games`|
+|[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-09-27 19:04:00`|`Paladins`|
+|[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-09-27 19:02:00`|`General Programming and Reversing`|
+|[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-09-27 18:59:00`|`Minecraft`|
+|[i was wondering how polars anticheat velocity checks work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/772385-wondering-polars-anticheat-velocity-checks.html)|`2026-09-27 18:58:00`|`Minecraft`|
+|[PointBlank Zepetto Triggerbot Source External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774036-pointblank-zepetto-triggerbot-source-external.html)|`2026-09-27 18:58:00`|`Other FPS Games`|
+|[Minecraft Vape ghost client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/773341-minecraft-vape-ghost-client.html)|`2026-09-27 18:55:00`|`Minecraft`|
+|[free cs2 hvh cheat &#40;pasta velocity😂&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/772152-free-cs2-hvh-cheat-pasta-velocity.html)|`2026-09-27 18:54:00`|`Counter-Strike 2 Releases`|
 |[CSGO 2026 EXTERNAL AIMBOT TOOL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/772442-csgo-2026-external-aimbot-tool.html)|`2026-09-27 18:36:00`|`Counterstrike Global Offensive`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-09-27 18:29:00`|`Call of Duty: Black Ops 7`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-09-27 18:29:00`|`Apex Legends`|
