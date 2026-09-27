@@ -35,9 +35,13 @@
 |1|[RDR2&#95;VEROX&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58038)|`2026-09-27 13:52:58`|
 |1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58037)|`2026-09-27 13:52:58`|
 |1|[Liars Bar inkwell V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58036)|`2026-09-27 13:52:58`|
+|11|[stalzone&#95;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58047)|`2026-09-27 23:37:45`|
+|28|[vesta 1&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58044)|`2026-09-27 23:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DirtyBomb Cheat Linux Source&#43;DLL v9&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773345-dirtybomb-cheat-linux-source-dll-v9-11-a.html)|`2026-09-27 23:27:00`|`Other FPS Games`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-09-27 23:10:00`|`Escape from Tarkov`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-27 22:30:00`|`Marvel Rivals`|
 |[Infinite Warfare Basic directors cut unlock tool&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/772776-infinite-warfare-basic-directors-cut-unlock-tool.html)|`2026-09-27 22:27:00`|`Call of Duty 4: Modern Warfare`|
 |[Stop Using UWorld Decrypt — Get World Through GEngine Instead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/762249-stop-using-uworld-decrypt-world-gengine-instead.html)|`2026-09-27 22:12:00`|`Unreal Engine 4`|
