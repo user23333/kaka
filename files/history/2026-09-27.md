@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-27 08:52:00`|`Other Games`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-09-27 08:49:00`|`Tom Clancy's The Division`|
+|[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-09-27 08:37:00`|`H1Z1`|
+|[ROTK Exploits Drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773986-rotk-exploits-drop.html)|`2026-09-27 08:32:00`|`H1Z1`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-09-27 08:30:00`|`Alternative Online Mods`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-27 06:42:00`|`Call of Duty: Black Ops 7`|
 |[Clipc&#46;dll GetOfflineDeviceUniqueID Spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/760893-clipc-dll-getofflinedeviceuniqueid-spoofing.html)|`2026-09-27 06:40:00`|`Alternative Online Mods`|
 |[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-27 06:40:00`|`HELLDIVERS 2`|
