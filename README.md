@@ -35,6 +35,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Apex Glow Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774087-external-apex-glow-source.html)|`2026-09-28 05:36:00`|`Apex Legends`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-09-28 05:35:00`|`Red Dead Redemption 2`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-09-28 05:34:00`|`Other FPS Games`|
+|[DELETED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/774114-deleted.html)|`2026-09-28 05:31:00`|`Roblox`|
+|[H1Z1 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/772787-h1z1-dma.html)|`2026-09-28 05:27:00`|`H1Z1`|
+|[Accurate smoke visibility check &#40; Internal &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774100-accurate-smoke-visibility-check-internal.html)|`2026-09-28 05:21:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-09-28 05:18:00`|`Other FPS Games`|
 |[Why cheat if you're not making your own stuff?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771458-cheat-youre-own-stuff.html)|`2026-09-28 05:14:00`|`Off Topic`|
 |[ROTK Exploits Drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773986-rotk-exploits-drop.html)|`2026-09-28 05:14:00`|`H1Z1`|
