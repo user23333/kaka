@@ -35,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[skinchanger not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774038-skinchanger.html)|`2026-09-28 04:37:00`|`Counter-Strike 2`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-28 04:35:00`|`Call of Duty: Black Ops 7`|
+|[Does anybody have a free weapon and skin unlock tool/exploit for mw3 or mw2 2022?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/774107-free-weapon-skin-unlock-tool-exploit-mw3-mw2-2022-a.html)|`2026-09-28 04:25:00`|`Call of Duty: Modern Warfare III`|
+|[undetected debug camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773311-undetected-debug-camera.html)|`2026-09-28 04:18:00`|`Rust`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-09-28 04:17:00`|`Counter-Strike 2 Releases`|
+|[Enemy Territory ET nCHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/772667-enemy-territory-et-nchook.html)|`2026-09-28 04:16:00`|`Return To Castle Wolfenstein`|
+|[ioctl emulation for bypass ac?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774070-ioctl-emulation-bypass-ac.html)|`2026-09-28 04:14:00`|`Anti-Cheat Research`|
+|[How difficult is BattlEye detection to get around with drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/770921-difficult-battleye-detection-drivers.html)|`2026-09-28 04:14:00`|`Rainbow Six Siege`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-09-28 03:34:00`|`Grand Theft Auto V`|
 |[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-09-28 03:30:00`|`Other MMORPG and Strategy`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-09-28 03:29:00`|`Counter-Strike 2`|
