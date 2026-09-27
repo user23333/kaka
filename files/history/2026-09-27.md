@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-27 22:30:00`|`Marvel Rivals`|
+|[Infinite Warfare Basic directors cut unlock tool&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/772776-infinite-warfare-basic-directors-cut-unlock-tool.html)|`2026-09-27 22:27:00`|`Call of Duty 4: Modern Warfare`|
+|[Stop Using UWorld Decrypt — Get World Through GEngine Instead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/762249-stop-using-uworld-decrypt-world-gengine-instead.html)|`2026-09-27 22:12:00`|`Unreal Engine 4`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-09-27 21:36:00`|`Other FPS Games`|
 |[&#91;VOTE&#93; October 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/774051-vote-october-2026-month.html)|`2026-09-27 21:30:00`|`Member of the Month`|
 |[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-09-27 21:18:00`|`Other MMORPG and Strategy`|
