@@ -12,6 +12,7 @@
 |35|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-09-27 01:44:46`|`rainbow-six-siege`|
 |12|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-09-27 01:44:46`|`helldivers-2-a`|
 |19|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-09-27 13:01:46`|`h1z1`|
+|21|[Mysterious External &#40; Auto Update &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/773181-mysterious-external-auto-update.html)|`2026-09-27 15:37:54`|`roblox`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-27 15:12:00`|`Escape from Tarkov`|
+|[Ext/Int base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/773613-ext-int-base.html)|`2026-09-27 15:11:00`|`Overwatch`|
 |[need help regarding bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/772057-help-regarding-bans.html)|`2026-09-27 14:50:00`|`Overwatch`|
 |[perfect bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769260-perfect-bhop.html)|`2026-09-27 14:50:00`|`Counter-Strike 2`|
 |[r6 aimbot, esp etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769483-r6-aimbot-esp-etc.html)|`2026-09-27 14:39:00`|`Rainbow Six Siege`|
