@@ -28,9 +28,17 @@
 |1|[Dumper&#45;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58030)|`2026-09-27 04:08:16`|
 |8|[ChuchyEyes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58032)|`2026-09-27 06:43:11`|
 |7|[halloween 1&#46;04 sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58031)|`2026-09-27 06:43:11`|
+|1|[NiceTrainer v1&#46;4 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58035)|`2026-09-27 13:39:15`|
+|1|[SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58034)|`2026-09-27 13:39:15`|
+|1|[ValTrainer&#45;1&#46;8&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58033)|`2026-09-27 13:39:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-09-27 13:38:00`|`Payday 2`|
+|[&#91;STEAM&#93; Terraria 1&#46;4&#46;5&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738308-steam-terraria-1-4-5-4-cheat-table.html)|`2026-09-27 13:37:00`|`Other Games`|
+|[&#91; External &#93; SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773985-external-spt-aki-minimalcheat-il2cpp.html)|`2026-09-27 13:35:00`|`Escape from Tarkov`|
+|[Valheim Trainer &#45; Valtrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/773974-valheim-trainer-valtrainer.html)|`2026-09-27 13:33:00`|`Unity`|
+|[SAT Bluebook bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764269-sat-bluebook-bypass.html)|`2026-09-27 13:17:00`|`Anti-Cheat Research`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-27 12:40:00`|`Other FPS Games`|
 |[Need info on the current exp glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/773893-info-current-exp-glitch.html)|`2026-09-27 12:15:00`|`Tom Clancy's The Division`|
 |[Kernel&#45;side mouse input — anyone done this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/772870-kernel-mouse-input.html)|`2026-09-27 12:10:00`|`Overwatch`|
