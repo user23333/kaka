@@ -11,6 +11,7 @@
 |36|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-09-28 00:37:39`|`rainbow-six-siege`|
 |25|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-09-28 00:37:39`|`h1z1`|
 |24|[Mysterious External &#40; Auto Update &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/773181-mysterious-external-auto-update.html)|`2026-09-28 00:37:39`|`roblox`|
+|6|[EA Javelin analysis and devirtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773123-ea-javelin-analysis-devirtualization.html)|`2026-09-28 02:37:48`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ready Or Not Internal DX11/DX12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772658-ready-internal-dx11-dx12.html)|`2026-09-28 02:35:00`|`Other FPS Games`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-09-28 02:29:00`|`ARMA 3`|
+|[STALCRAFT FULL External Entity Retrieval &#45; SHM&#45;TEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756139-stalcraft-external-entity-retrieval-shm-team.html)|`2026-09-28 02:29:00`|`Other FPS Games`|
+|[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-09-28 02:24:00`|`Other MMORPG and Strategy`|
+|[subtick bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774033-subtick-bhop.html)|`2026-09-28 02:23:00`|`Counter-Strike 2`|
+|[beserk inv changer &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771531-beserk-inv-changer-updated.html)|`2026-09-28 02:17:00`|`Counter-Strike 2`|
+|[in&#45;menu blackjack and poker minigames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774081-menu-blackjack-poker-minigames.html)|`2026-09-28 02:08:00`|`Counter-Strike 2`|
 |[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-09-28 01:44:00`|`HELLDIVERS 2`|
 |[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-09-28 01:44:00`|`Other Games`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-28 01:42:00`|`Other FPS Games`|
