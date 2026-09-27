@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-09-28 05:18:00`|`Other FPS Games`|
+|[Why cheat if you're not making your own stuff?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771458-cheat-youre-own-stuff.html)|`2026-09-28 05:14:00`|`Off Topic`|
+|[ROTK Exploits Drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773986-rotk-exploits-drop.html)|`2026-09-28 05:14:00`|`H1Z1`|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-09-28 05:03:00`|`Counter-Strike 2`|
+|[Skinchanger with halloween effects?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/771173-skinchanger-halloween-effects.html)|`2026-09-28 04:52:00`|`Team Fortress 2`|
 |[skinchanger not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774038-skinchanger.html)|`2026-09-28 04:37:00`|`Counter-Strike 2`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-28 04:35:00`|`Call of Duty: Black Ops 7`|
 |[Does anybody have a free weapon and skin unlock tool/exploit for mw3 or mw2 2022?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/774107-free-weapon-skin-unlock-tool-exploit-mw3-mw2-2022-a.html)|`2026-09-28 04:25:00`|`Call of Duty: Modern Warfare III`|
