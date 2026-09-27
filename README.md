@@ -37,6 +37,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[need help regarding bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/772057-help-regarding-bans.html)|`2026-09-27 14:50:00`|`Overwatch`|
+|[perfect bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769260-perfect-bhop.html)|`2026-09-27 14:50:00`|`Counter-Strike 2`|
+|[r6 aimbot, esp etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/769483-r6-aimbot-esp-etc.html)|`2026-09-27 14:39:00`|`Rainbow Six Siege`|
+|[any free multiplayer cheats for cod bo cold war out there?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/772378-free-multiplayer-cheats-cod-bo-cold-war.html)|`2026-09-27 14:37:00`|`Call of Duty: Black Ops Cold War`|
+|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-27 14:35:00`|`Other FPS Games`|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772573-wardogs-dma-release.html)|`2026-09-27 14:34:00`|`Other FPS Games`|
+|[How did you get into this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/770101-how-did-you-get-into-this.html)|`2026-09-27 14:03:00`|`Forum General`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-09-27 13:57:00`|`Other MMORPG and Strategy`|
 |[Roblox internal offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/774017-roblox-internal-offsets.html)|`2026-09-27 13:47:00`|`Roblox`|
 |[Liar's Bar 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766330-liars-bar-2026-a.html)|`2026-09-27 13:41:00`|`Other Games`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-09-27 13:38:00`|`Payday 2`|
