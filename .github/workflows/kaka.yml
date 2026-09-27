@@ -5,8 +5,13 @@ name: kaka
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '12 * * * *'
   workflow_dispatch:
+
+# Serialize scheduled, Worker, and manual runs that update main.
+concurrency:
+  group: kaka-main
+  cancel-in-progress: false
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -14,6 +19,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-24.04
+    timeout-minutes: 25
     permissions:
       contents: write
 
@@ -21,6 +27,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v5
+        with:
+          # Check out the latest main after waiting for the concurrency lock.
+          ref: main
       
       - name: Set timezone
         run: sudo timedatectl set-timezone Asia/Shanghai
@@ -29,11 +38,11 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python -m pip install -r requirements.txt
       
       - name: Run with retry
         uses: nick-fields/retry@v4.0.0
