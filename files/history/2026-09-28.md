@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-09-28 01:31:00`|`Tom Clancy's The Division`|
+|[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-09-28 01:27:00`|`Paladins`|
+|[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-09-28 01:23:00`|`Alternative Online Mods`|
+|[Banned in Battlefield 6 &#45; Data Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/713413-banned-battlefield-6-data-collection-thread.html)|`2026-09-28 01:22:00`|`Battlefield 6`|
+|[Outdated cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/773987-outdated-cheats.html)|`2026-09-28 01:19:00`|`Genshin Impact`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-09-28 01:18:00`|`Escape from Tarkov`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-09-28 01:15:00`|`Alternative Online Mods`|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-28 01:14:00`|`Other FPS Games`|
 |[Rust Scripting](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/452384-rust-scripting.html)|`2026-09-28 00:35:00`|`Rust`|
 |[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-09-28 00:32:00`|`Call of Duty: Black Ops Cold War`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-09-28 00:29:00`|`Other MMORPG and Strategy`|
