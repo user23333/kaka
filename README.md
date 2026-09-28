@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-09-29 06:31:00`|`ARC Raiders`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-09-29 06:29:00`|`Other FPS Games`|
+|[help with texturebug please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773589-help-texturebug-please.html)|`2026-09-29 06:27:00`|`Counter-Strike 2`|
 |[Recoil Control with kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774219-recoil-control-kmbox.html)|`2026-09-29 05:54:00`|`Apex Legends`|
 |[Extra︁polation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773134-extra-polation.html)|`2026-09-29 05:29:00`|`Counter-Strike 2`|
 |[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-09-29 05:28:00`|`Other MMORPG and Strategy`|
