@@ -33,9 +33,18 @@
 |1|[NiceTrainer v1&#46;4&#46;1 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58052)|`2026-09-28 03:37:41`|
 |1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58051)|`2026-09-28 03:37:41`|
 |8|[TD2&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58050)|`2026-09-28 03:37:41`|
+|2|[SkyrimTrainerV1&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58061)|`2026-09-28 17:37:53`|
+|2|[dcplus&#95;v4&#46;2&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58060)|`2026-09-28 17:37:53`|
+|3|[Undercover Generals Online Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58059)|`2026-09-28 17:37:53`|
+|4|[Cumhook GeoGuessr V1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58058)|`2026-09-28 17:37:53`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-09-28 17:36:00`|`Unity`|
+|[H1Z1 Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774199-h1z1-triggerbot.html)|`2026-09-28 17:28:00`|`H1Z1`|
+|[Anti Vote kick in Casual](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773461-anti-vote-kick-casual.html)|`2026-09-28 17:23:00`|`Counter-Strike 2`|
+|[&#91;VOTE&#93; October 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/774051-vote-october-2026-month.html)|`2026-09-28 17:15:00`|`Member of the Month`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-09-28 17:09:00`|`Other Games`|
 |[TaeKwonDoe's Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/774195-taekwondoes-internal-menu.html)|`2026-09-28 16:20:00`|`Team Fortress 2`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2026-09-28 16:05:00`|`Alternative Online Mods`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-09-28 16:01:00`|`DayZ SA`|
