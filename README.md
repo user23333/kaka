@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-28 14:36:00`|`Other FPS Games`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-09-28 14:25:00`|`Battlefield 4`|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772573-wardogs-dma-release.html)|`2026-09-28 14:13:00`|`Other FPS Games`|
+|[YimMenu &#91;1&#46;69 &#45; b3351&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/476972-yimmenu-1-69-b3351.html)|`2026-09-28 13:53:00`|`Grand Theft Auto V`|
 |[Hey guys, just dropping by to say hello&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/774009-hey-guys-dropping-hello.html)|`2026-09-28 13:16:00`|`Introductions`|
 |[Hello from MT&#33; Solo dev & dad joining the community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/773810-hello-mt-solo-dev-dad-joining-community.html)|`2026-09-28 13:16:00`|`Introductions`|
 |[Hey Guys&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/772838-hey-guys.html)|`2026-09-28 13:15:00`|`Introductions`|
