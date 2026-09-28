@@ -36,6 +36,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-09-28 12:28:00`|`Counter-Strike 2`|
+|[EA Javelin analysis and devirtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773123-ea-javelin-analysis-devirtualization.html)|`2026-09-28 12:15:00`|`Anti-Cheat Research`|
+|[I wanna learn Cheats develop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/768537-wanna-learn-cheats-develop.html)|`2026-09-28 12:06:00`|`General Programming and Reversing`|
+|[I want to learn how to hack&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/774019-learn-hack.html)|`2026-09-28 12:04:00`|`Introductions`|
+|[I’ve been quietly indexing the internet for a while now&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/774181-ve-quietly-indexing-internet.html)|`2026-09-28 11:54:00`|`Off Topic`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-09-28 11:45:00`|`Apex Legends`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-09-28 11:42:00`|`Deadlock`|
 |[EAC/UAC Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774178-eac-uac-reversal.html)|`2026-09-28 11:20:00`|`Anti-Cheat Research`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-09-28 11:17:00`|`Counter-Strike 2`|
 |[Warframe &#124; Chams &#124; Loot/Coin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/600451-warframe-chams-loot-coin-changer.html)|`2026-09-28 11:14:00`|`Other FPS Games`|
