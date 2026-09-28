@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hey guys, just dropping by to say hello&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/774009-hey-guys-dropping-hello.html)|`2026-09-28 13:16:00`|`Introductions`|
+|[Hello from MT&#33; Solo dev & dad joining the community](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/773810-hello-mt-solo-dev-dad-joining-community.html)|`2026-09-28 13:16:00`|`Introductions`|
+|[Hey Guys&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/772838-hey-guys.html)|`2026-09-28 13:15:00`|`Introductions`|
+|[RF ONLINE NEXT MULTI LAUNCHER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/768021-rf-online-multi-launcher.html)|`2026-09-28 13:14:00`|`Other MMORPG and Strategy`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-09-28 12:28:00`|`Counter-Strike 2`|
 |[EA Javelin analysis and devirtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773123-ea-javelin-analysis-devirtualization.html)|`2026-09-28 12:15:00`|`Anti-Cheat Research`|
 |[I wanna learn Cheats develop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/768537-wanna-learn-cheats-develop.html)|`2026-09-28 12:06:00`|`General Programming and Reversing`|
