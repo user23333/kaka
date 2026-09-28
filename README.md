@@ -12,6 +12,7 @@
 |27|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-09-29 00:37:35`|`counter-strike-2-releases`|
 |13|[full legit/rage internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773167-legit-rage-internal.html)|`2026-09-29 00:37:35`|`counter-strike-2-a`|
 |16|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-29 03:37:37`|`other-fps-games`|
+|15|[EAC&#45;EOS usermode detection engine &#40;part 3/3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773899-eac-eos-usermode-detection-engine-3-3-a.html)|`2026-09-29 05:37:45`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Extra︁polation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773134-extra-polation.html)|`2026-09-29 05:29:00`|`Counter-Strike 2`|
+|[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-09-29 05:28:00`|`Other MMORPG and Strategy`|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-29 05:21:00`|`Other FPS Games`|
+|[kdmapper finally detected eac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769005-kdmapper-finally-detected-eac.html)|`2026-09-29 05:21:00`|`Rust`|
+|[&#91;WARDOGS&#93;Wardogs&#45;UEDumper&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774045-wardogs-wardogs-uedumper-dma.html)|`2026-09-29 05:19:00`|`Other FPS Games`|
+|[🎯 R6 Recoil Reducer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/730976-r6-recoil-reducer.html)|`2026-09-29 05:13:00`|`Rainbow Six Siege`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-09-29 05:11:00`|`Other Games`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-09-29 04:34:00`|`Other FPS Games`|
 |[SAT Bluebook bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764269-sat-bluebook-bypass.html)|`2026-09-29 04:27:00`|`Anti-Cheat Research`|
 |[H1Z1 DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/772787-h1z1-dma.html)|`2026-09-29 04:25:00`|`H1Z1`|
