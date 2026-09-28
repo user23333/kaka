@@ -13,6 +13,7 @@
 |24|[Mysterious External &#40; Auto Update &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/773181-mysterious-external-auto-update.html)|`2026-09-28 00:37:39`|`roblox`|
 |6|[EA Javelin analysis and devirtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773123-ea-javelin-analysis-devirtualization.html)|`2026-09-28 02:37:48`|`anti-cheat-research`|
 |23|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-09-28 08:37:41`|`counter-strike-2-releases`|
+|13|[full legit/rage internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773167-legit-rage-internal.html)|`2026-09-28 22:37:55`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,9 +44,12 @@
 |15|[Fortnite Emote Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58070)|`2026-09-28 21:37:52`|
 |3|[Universal Recoil Control kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58069)|`2026-09-28 21:37:52`|
 |2|[TYR Internal 1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58068)|`2026-09-28 21:37:52`|
+|2|[Emotes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58072)|`2026-09-28 22:37:55`|
+|11|[HD2&#45;SCDropper&#95;v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58071)|`2026-09-28 22:37:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fluing hackers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/773798-fluing-hackers.html)|`2026-09-28 22:24:00`|`Star Wars Battlefront 2`|
 |[Deskrawl: Idle ARPG v0&#46;1&#46;3f](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/770039-deskrawl-idle-arpg-v0-1-3f.html)|`2026-09-28 21:24:00`|`Other Single Player Games`|
 |[Engineering Materials override &#43; multiply](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/772970-engineering-materials-override-multiply.html)|`2026-09-28 21:23:00`|`Elite: Dangerous`|
 |[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-09-28 21:21:00`|`Cheat Engine Tables`|
