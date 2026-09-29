@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lootborne Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/773180-lootborne-multihack.html)|`2026-09-29 17:24:00`|`Other MMORPG and Strategy`|
+|[Infinite Warfare Basic directors cut unlock tool&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/772776-infinite-warfare-basic-directors-cut-unlock-tool.html)|`2026-09-29 16:47:00`|`Call of Duty 4: Modern Warfare`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-09-29 16:41:00`|`Other MMORPG and Strategy`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-09-29 16:31:00`|`Counter-Strike 2 Releases`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-09-29 16:02:00`|`Counter-Strike 2`|
 |[Genshin Impact 7&#46;1 Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/774301-genshin-impact-7-1-offset.html)|`2026-09-29 15:56:00`|`Genshin Impact`|
