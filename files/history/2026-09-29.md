@@ -26,9 +26,21 @@
 |320|[Aniimo Internal Cheat 1&#46;0&#46;0&#46;5 &#40;Update &#35;6&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58066)|`2026-09-29 00:37:35`|
 |64|[RotkInternalV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58065)|`2026-09-29 00:37:35`|
 |4|[SkyrimTrainerV1&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58061)|`2026-09-29 00:37:35`|
+|1|[Crime Simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58081)|`2026-09-29 08:37:52`|
+|5|[Trollware1&#46;0&#46;2&#95;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58080)|`2026-09-29 08:37:52`|
+|2|[release 4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58078)|`2026-09-29 08:37:52`|
+|4|[source obsidian 4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58077)|`2026-09-29 08:37:52`|
+|2|[PHAROAH&#95;OPENSOURCE&#95;CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58075)|`2026-09-29 08:37:52`|
+|4|[PHAROAH&#95;UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58074)|`2026-09-29 08:37:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770423-bodycam-internal.html)|`2026-09-29 08:35:00`|`Other FPS Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-09-29 08:33:00`|`Marvel Rivals`|
+|[need help with ow bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774303-help-ow-bans.html)|`2026-09-29 08:27:00`|`Overwatch`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-09-29 08:26:00`|`H1Z1`|
+|[Crime Simulator Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774310-crime-simulator-internal.html)|`2026-09-29 08:16:00`|`Other Games`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-09-29 08:16:00`|`Payday 2`|
 |[Scripts Stopped Working After EAC Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774305-scripts-stopped-eac-update.html)|`2026-09-29 07:19:00`|`Rust`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-09-29 07:13:00`|`Other MMORPG and Strategy`|
 |[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-09-29 06:31:00`|`ARC Raiders`|
