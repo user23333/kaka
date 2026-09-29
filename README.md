@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-09-29 16:02:00`|`Counter-Strike 2`|
+|[Genshin Impact 7&#46;1 Offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/774301-genshin-impact-7-1-offset.html)|`2026-09-29 15:56:00`|`Genshin Impact`|
+|[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-09-29 15:49:00`|`Other FPS Games`|
+|[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-09-29 15:44:00`|`Other MMORPG and Strategy`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-29 15:33:00`|`Other FPS Games`|
 |[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-09-29 15:28:00`|`Grand Theft Auto V`|
 |[ENSD &#40;Trailblazers v4&#46;1&#46;0&#46;0&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/658785-ensd-trailblazers-v4-1-0-0-a.html)|`2026-09-29 15:18:00`|`Elite: Dangerous`|
