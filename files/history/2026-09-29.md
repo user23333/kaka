@@ -44,6 +44,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-09-29 23:51:00`|`CounterStrike Source`|
 |[ROTK patched client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773664-rotk-patched-client.html)|`2026-09-29 23:34:00`|`H1Z1`|
 |[Should i release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/774377-release.html)|`2026-09-29 23:33:00`|`CounterStrike Source`|
 |[Tips for making my own cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/774379-tips-own-cheats.html)|`2026-09-29 23:26:00`|`Genshin Impact`|
