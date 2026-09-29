@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-30 07:28:00`|`Other FPS Games`|
+|[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-09-30 07:25:00`|`Other Single Player Games`|
+|[&#91;ARC Raiders&#93; Game Mesh Gallery – Browse Extracted Meshes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/774442-arc-raiders-game-mesh-gallery-browse-extracted-meshes.html)|`2026-09-30 07:22:00`|`ARC Raiders`|
+|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-09-30 07:19:00`|`Rainbow Six Siege`|
+|[I Keep getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774382-getting-banned.html)|`2026-09-30 06:56:00`|`Overwatch`|
 |[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-09-30 06:36:00`|`Deadlock`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-09-30 06:33:00`|`Rust`|
 |[deadbydaylight dma esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760233-deadbydaylight-dma-esp.html)|`2026-09-30 06:31:00`|`Other FPS Games`|
