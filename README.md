@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-09-30 04:35:00`|`Counter-Strike 2`|
+|[External Apex Visuals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774384-external-apex-visuals-cheat.html)|`2026-09-30 04:31:00`|`Apex Legends`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-09-30 04:31:00`|`Counter-Strike 2`|
+|[Is CR2 snitching on your bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774424-cr2-snitching-bypass.html)|`2026-09-30 04:20:00`|`Anti-Cheat Research`|
+|[Need No&#45;dma wardogs esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773780-dma-wardogs-esp.html)|`2026-09-30 04:14:00`|`Other FPS Games`|
 |[Undercover external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/772617-undercover-external.html)|`2026-09-30 03:36:00`|`Generals and Zero Hour`|
 |[NEW DISCOVERY: JITTER AIM MACROS NERFED AGAIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773673-discovery-jitter-aim-macros-nerfed.html)|`2026-09-30 03:33:00`|`Apex Legends`|
 |[How to implement a VAC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772864-implement-vac-bypass.html)|`2026-09-30 03:32:00`|`Counter-Strike 2`|
