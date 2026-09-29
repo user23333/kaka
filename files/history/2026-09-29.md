@@ -38,9 +38,18 @@
 |15|[Sleepy's Internal &#45; 2&#46;24&#46;1&#46;1&#46;153619 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58086)|`2026-09-29 21:37:41`|
 |36|[PienZ v5&#46;2 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58084)|`2026-09-29 21:37:41`|
 |2|[RIFT&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58082)|`2026-09-29 21:37:41`|
+|2|[Aero Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58088)|`2026-09-29 23:37:51`|
+|1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58087)|`2026-09-29 23:37:51`|
+|5|[Undercover Generals Online Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58085)|`2026-09-29 23:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK patched client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773664-rotk-patched-client.html)|`2026-09-29 23:34:00`|`H1Z1`|
+|[Should i release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/774377-release.html)|`2026-09-29 23:33:00`|`CounterStrike Source`|
+|[Tips for making my own cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/774379-tips-own-cheats.html)|`2026-09-29 23:26:00`|`Genshin Impact`|
+|[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-09-29 23:25:00`|`Other MMORPG and Strategy`|
+|[Beginner to internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774376-beginner-internals.html)|`2026-09-29 23:20:00`|`Anti-Cheat Research`|
+|[Platform Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769070-platform-player.html)|`2026-09-29 23:19:00`|`Call of Duty: Black Ops 7`|
 |[ZCity Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/772340-zcity-exploit.html)|`2026-09-29 22:32:00`|`Garry's Mod`|
 |[Dead by Daylight MarketFiles 10&#46;0&#46;3 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766063-dead-daylight-marketfiles-10-0-3-a.html)|`2026-09-29 22:25:00`|`Other Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-09-29 22:18:00`|`Other MMORPG and Strategy`|
