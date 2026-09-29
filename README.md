@@ -29,6 +29,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Undercover external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/772617-undercover-external.html)|`2026-09-30 03:36:00`|`Generals and Zero Hour`|
+|[NEW DISCOVERY: JITTER AIM MACROS NERFED AGAIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773673-discovery-jitter-aim-macros-nerfed.html)|`2026-09-30 03:33:00`|`Apex Legends`|
+|[How to implement a VAC bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772864-implement-vac-bypass.html)|`2026-09-30 03:32:00`|`Counter-Strike 2`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-09-30 03:29:00`|`Other MMORPG and Strategy`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-09-30 03:29:00`|`Apex Legends`|
+|[Recoil Control with kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774219-recoil-control-kmbox.html)|`2026-09-30 03:26:00`|`Apex Legends`|
+|[FilterTap &#45; How EAC could already invade your privacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774354-filtertap-eac-invade-privacy.html)|`2026-09-30 03:24:00`|`Anti-Cheat Research`|
+|[AeroClient for PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/774371-aeroclient-prbf2.html)|`2026-09-30 03:24:00`|`Battlefield 2`|
+|[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-09-30 03:17:00`|`Cheat Engine Tables`|
 |[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-09-30 02:37:00`|`General Programming and Reversing`|
 |[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-30 02:32:00`|`HELLDIVERS 2`|
 |[Force Rare Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774414-force-rare-animations.html)|`2026-09-30 02:30:00`|`Counter-Strike 2`|
