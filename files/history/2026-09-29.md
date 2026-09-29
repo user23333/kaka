@@ -32,9 +32,15 @@
 |4|[source obsidian 4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58077)|`2026-09-29 08:37:52`|
 |2|[PHAROAH&#95;OPENSOURCE&#95;CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58075)|`2026-09-29 08:37:52`|
 |4|[PHAROAH&#95;UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58074)|`2026-09-29 08:37:52`|
+|3|[wardogs sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58083)|`2026-09-29 18:37:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Thick bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774348-thick-bullets.html)|`2026-09-29 18:21:00`|`Rust`|
+|[How to find entity list in Xonotic 0&#46;8&#46;6 x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717962-entity-list-xonotic-0-8-6-x64.html)|`2026-09-29 18:21:00`|`Other FPS Games`|
+|[ROTK Exploits Drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773986-rotk-exploits-drop.html)|`2026-09-29 18:18:00`|`H1Z1`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-09-29 18:11:00`|`Other Games`|
+|[Cloned DMA Device](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/774280-cloned-dma-device.html)|`2026-09-29 18:09:00`|`PC Hardware`|
 |[Lootborne Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/773180-lootborne-multihack.html)|`2026-09-29 17:24:00`|`Other MMORPG and Strategy`|
 |[Infinite Warfare Basic directors cut unlock tool&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-4-modern-warfare/772776-infinite-warfare-basic-directors-cut-unlock-tool.html)|`2026-09-29 16:47:00`|`Call of Duty 4: Modern Warfare`|
 |[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-09-29 16:41:00`|`Other MMORPG and Strategy`|
