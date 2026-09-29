@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ABYSS Rivals &#124; Leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770850-abyss-rivals-leak.html)|`2026-09-29 19:36:00`|`Marvel Rivals`|
+|[FilterTap &#45; How EAC could already invade your privacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774354-filtertap-eac-invade-privacy.html)|`2026-09-29 19:28:00`|`Anti-Cheat Research`|
+|[Cant Got offest ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alliance-of-valiant-arms/770832-cant-offest.html)|`2026-09-29 19:28:00`|`Alliance of Valiant Arms`|
+|[PointBlank Log AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769872-pointblank-log-anticheat.html)|`2026-09-29 19:21:00`|`Anti-Cheat Research`|
+|[EAC&#45;EOS usermode detection engine &#40;part 3/3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773899-eac-eos-usermode-detection-engine-3-3-a.html)|`2026-09-29 19:07:00`|`Anti-Cheat Research`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-09-29 19:01:00`|`Counter-Strike 2 Releases`|
 |[Thick bullets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774348-thick-bullets.html)|`2026-09-29 18:21:00`|`Rust`|
 |[How to find entity list in Xonotic 0&#46;8&#46;6 x64?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/717962-entity-list-xonotic-0-8-6-x64.html)|`2026-09-29 18:21:00`|`Other FPS Games`|
 |[ROTK Exploits Drop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773986-rotk-exploits-drop.html)|`2026-09-29 18:18:00`|`H1Z1`|
