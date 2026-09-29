@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unturned Internal Injection &#43; Undetected Custom Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768815-unturned-internal-injection-undetected-custom-cheat.html)|`2026-09-29 20:35:00`|`Other FPS Games`|
+|[Material Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774041-material-dumper.html)|`2026-09-29 20:25:00`|`Rust`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-09-29 20:23:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-09-29 20:16:00`|`Alternative Online Mods`|
+|[GrandRp anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/773443-grandrp-anticheat.html)|`2026-09-29 20:16:00`|`Alternative Online Mods`|
 |[ABYSS Rivals &#124; Leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770850-abyss-rivals-leak.html)|`2026-09-29 19:36:00`|`Marvel Rivals`|
 |[FilterTap &#45; How EAC could already invade your privacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774354-filtertap-eac-invade-privacy.html)|`2026-09-29 19:28:00`|`Anti-Cheat Research`|
 |[Cant Got offest ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alliance-of-valiant-arms/770832-cant-offest.html)|`2026-09-29 19:28:00`|`Alliance of Valiant Arms`|
