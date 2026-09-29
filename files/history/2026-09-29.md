@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;cs2ext&#93; &#45; external read&#45;only kernel ESP/radar &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/743542-cs2ext-external-read-kernel-esp-radar-source.html)|`2026-09-29 10:36:00`|`Counter-Strike 2 Releases`|
+|[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-09-29 10:34:00`|`Other Games`|
+|[VACMonitor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774297-vacmonitor.html)|`2026-09-29 10:28:00`|`Anti-Cheat Research`|
+|[Simple Crime Simulator Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706044-simple-crime-simulator-menu.html)|`2026-09-29 10:26:00`|`Other Games`|
 |[H1Z1 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773252-h1z1-internal.html)|`2026-09-29 09:18:00`|`H1Z1`|
 |[Convars v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774319-convars-v2.html)|`2026-09-29 09:14:00`|`Counter-Strike 2`|
 |[custom hit materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774318-custom-hit-materials.html)|`2026-09-29 09:12:00`|`Rust`|
