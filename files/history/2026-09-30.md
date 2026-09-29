@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-09-30 02:37:00`|`General Programming and Reversing`|
+|[HD2 ED merge &#43; BOX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/769317-hd2-ed-merge-box.html)|`2026-09-30 02:32:00`|`HELLDIVERS 2`|
+|[Force Rare Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774414-force-rare-animations.html)|`2026-09-30 02:30:00`|`Counter-Strike 2`|
+|[Fatality Csgo Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/774413-fatality-csgo-source.html)|`2026-09-30 02:30:00`|`CS:GO Releases`|
+|[Windows ISO sourcing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/772449-windows-iso-sourcing.html)|`2026-09-30 02:30:00`|`Off Topic`|
+|[What game got you into cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771454-game-cheating.html)|`2026-09-30 02:28:00`|`Off Topic`|
+|[NEW FEATURE FOR THE FORUM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/774245-feature-forum.html)|`2026-09-30 02:27:00`|`Off Topic`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-09-30 01:36:00`|`Other FPS Games`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-09-30 01:33:00`|`Other MMORPG and Strategy`|
 |[BLVCK PARRY: For Honor Auto Parry &#43; Counter GB](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/773492-blvck-parry-honor-auto-parry-counter-gb.html)|`2026-09-30 01:32:00`|`Other MMORPG and Strategy`|
