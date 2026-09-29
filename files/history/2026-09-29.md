@@ -14,6 +14,7 @@
 |16|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-29 03:37:37`|`other-fps-games`|
 |15|[EAC&#45;EOS usermode detection engine &#40;part 3/3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773899-eac-eos-usermode-detection-engine-3-3-a.html)|`2026-09-29 05:37:45`|`anti-cheat-research`|
 |6|[the screenshot chain of AntiCheatExpert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773374-screenshot-chain-anticheatexpert.html)|`2026-09-29 21:37:41`|`anti-cheat-research`|
+|6|[CS2 VAC3 Modules dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773347-cs2-vac3-modules-dump.html)|`2026-09-29 22:37:34`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ZCity Exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/772340-zcity-exploit.html)|`2026-09-29 22:32:00`|`Garry's Mod`|
+|[Dead by Daylight MarketFiles 10&#46;0&#46;3 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766063-dead-daylight-marketfiles-10-0-3-a.html)|`2026-09-29 22:25:00`|`Other Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-09-29 22:18:00`|`Other MMORPG and Strategy`|
 |[What input is the best for triggerbots and recoil macros?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774098-input-triggerbots-recoil-macros.html)|`2026-09-29 21:36:00`|`Rainbow Six Siege`|
 |[Clan Tags are back&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773458-clan-tags.html)|`2026-09-29 21:23:00`|`Counter-Strike 2`|
 |[Uno Assistant — local overlay helper with LLM advice &#40;Linux/Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/774370-uno-assistant-local-overlay-helper-llm-advice-linux-windows.html)|`2026-09-29 21:15:00`|`Half Life`|
