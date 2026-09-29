@@ -13,6 +13,7 @@
 |13|[full legit/rage internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773167-legit-rage-internal.html)|`2026-09-29 00:37:35`|`counter-strike-2-a`|
 |16|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-29 03:37:37`|`other-fps-games`|
 |15|[EAC&#45;EOS usermode detection engine &#40;part 3/3&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773899-eac-eos-usermode-detection-engine-3-3-a.html)|`2026-09-29 05:37:45`|`anti-cheat-research`|
+|6|[the screenshot chain of AntiCheatExpert](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773374-screenshot-chain-anticheatexpert.html)|`2026-09-29 21:37:41`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,9 +34,16 @@
 |2|[PHAROAH&#95;OPENSOURCE&#95;CODE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58075)|`2026-09-29 08:37:52`|
 |4|[PHAROAH&#95;UPDATED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58074)|`2026-09-29 08:37:52`|
 |3|[wardogs sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58083)|`2026-09-29 18:37:37`|
+|15|[Sleepy's Internal &#45; 2&#46;24&#46;1&#46;1&#46;153619 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58086)|`2026-09-29 21:37:41`|
+|36|[PienZ v5&#46;2 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58084)|`2026-09-29 21:37:41`|
+|2|[RIFT&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58082)|`2026-09-29 21:37:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What input is the best for triggerbots and recoil macros?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774098-input-triggerbots-recoil-macros.html)|`2026-09-29 21:36:00`|`Rainbow Six Siege`|
+|[Clan Tags are back&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773458-clan-tags.html)|`2026-09-29 21:23:00`|`Counter-Strike 2`|
+|[Uno Assistant — local overlay helper with LLM advice &#40;Linux/Windows&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/774370-uno-assistant-local-overlay-helper-llm-advice-linux-windows.html)|`2026-09-29 21:15:00`|`Half Life`|
+|[FiveM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766787-fivem-dma.html)|`2026-09-29 21:13:00`|`Alternative Online Mods`|
 |[Unturned Internal Injection &#43; Undetected Custom Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768815-unturned-internal-injection-undetected-custom-cheat.html)|`2026-09-29 20:35:00`|`Other FPS Games`|
 |[Material Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774041-material-dumper.html)|`2026-09-29 20:25:00`|`Rust`|
 |[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-09-29 20:23:00`|`Other FPS Games`|
