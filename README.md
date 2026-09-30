@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-01 05:35:00`|`Call of Duty: Black Ops 7`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-01 05:34:00`|`Other FPS Games`|
+|[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-10-01 05:27:00`|`Other Games`|
+|[Road to Vostok Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/772251-road-vostok-internal.html)|`2026-10-01 05:23:00`|`Other Single Player Games`|
 |[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-01 04:36:00`|`Anti-Cheat Research`|
 |[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-10-01 04:36:00`|`Other MMORPG and Strategy`|
 |[Rust EAC Reversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774591-rust-eac-reversion.html)|`2026-10-01 04:34:00`|`Rust`|
