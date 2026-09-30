@@ -41,9 +41,16 @@
 |5|[Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58115)|`2026-10-01 02:37:33`|
 |0|[hitsound&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58135)|`2026-10-01 03:20:38`|
 |2|[PV Int Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58133)|`2026-10-01 03:20:38`|
+|1|[EAC Zip with all the goods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58137)|`2026-10-01 04:37:32`|
+|16|[DeobfuscatedNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58136)|`2026-10-01 04:37:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-01 04:36:00`|`Anti-Cheat Research`|
+|[Neverness To Everness Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/752768-neverness-everness-internal.html)|`2026-10-01 04:36:00`|`Other MMORPG and Strategy`|
+|[Rust EAC Reversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774591-rust-eac-reversion.html)|`2026-10-01 04:34:00`|`Rust`|
+|[Did EAC intercept WndProc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-2-a/774534-eac-intercept-wndproc.html)|`2026-10-01 04:30:00`|`Unreal Engine 2`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-01 04:27:00`|`Grand Theft Auto V`|
 |[Fatality Csgo Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/774413-fatality-csgo-source.html)|`2026-10-01 03:37:00`|`CS:GO Releases`|
 |[Mysterious External &#40; Auto Update &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/773181-mysterious-external-auto-update.html)|`2026-10-01 03:36:00`|`Roblox`|
 |[Monitor Spoofing Hardware level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773963-monitor-spoofing-hardware-level.html)|`2026-10-01 03:34:00`|`Anti-Cheat Research`|
