@@ -13,6 +13,7 @@
 |20|[Fortnite/CS2 Emote Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774220-fortnite-cs2-emote-source.html)|`2026-09-30 00:37:47`|`counter-strike-2-a`|
 |20|[ROTK patched client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773664-rotk-patched-client.html)|`2026-09-30 01:37:43`|`h1z1`|
 |6|[CS2 VAC3 Modules dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773347-cs2-vac3-modules-dump.html)|`2026-09-30 01:37:43`|`counter-strike-2-a`|
+|15|[rotk hwid bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773626-rotk-hwid-bypass.html)|`2026-09-30 09:37:44`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-09-30 09:36:00`|`Other FPS Games`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-09-30 09:36:00`|`Other Games`|
+|[Whats the fastest way to get a lot of xp, because i usually get around 12k xp max per](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774349-whats-fastest-lot-xp-usually-12k-xp-max.html)|`2026-09-30 09:35:00`|`HELLDIVERS 2`|
+|[How to learn to make a simple successful cheat program](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/774419-learn-simple-successful-cheat-program.html)|`2026-09-30 09:27:00`|`Programming for Beginners`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-09-30 09:13:00`|`THE FINALS`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-30 08:22:00`|`ARC Raiders`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-30 08:09:00`|`Other Games`|
 |[FiveM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766787-fivem-dma.html)|`2026-09-30 07:58:00`|`Alternative Online Mods`|
