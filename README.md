@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-09-30 17:32:00`|`Other FPS Games`|
+|[I AM A TOTAL COMMUNIST&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/774398-am-total-communist.html)|`2026-09-30 17:31:00`|`Introductions`|
+|[How did you get into this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/770101-how-did-you-get-into-this.html)|`2026-09-30 17:30:00`|`Forum General`|
+|[ROTK Patched Client &#124; 2&#46;0&#46;24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774482-rotk-patched-client-2-0-24-a.html)|`2026-09-30 17:21:00`|`H1Z1`|
+|[UAV DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774221-uav-dma.html)|`2026-09-30 17:18:00`|`Call of Duty: Black Ops 7`|
+|[Inside EAC/EOS driver: hardware identity collection, kernel telemetry and CPU probes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772181-inside-eac-eos-driver-hardware-identity-collection-kernel-telemetry-cpu-probes.html)|`2026-09-30 17:15:00`|`Anti-Cheat Research`|
 |[New Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755216-apex-dumper-driver-included.html)|`2026-09-30 16:32:00`|`Apex Legends`|
 |[Nexon Game Security &#40;NGS&#41; reversal and information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774474-nexon-game-security-ngs-reversal-information.html)|`2026-09-30 16:21:00`|`Anti-Cheat Research`|
 |[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-09-30 16:19:00`|`Other Games`|
