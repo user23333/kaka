@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-09-30 13:33:00`|`Garry's Mod`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-09-30 13:21:00`|`ARMA 3`|
+|[FULL dump of combat master&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/773622-dump-combat-master.html)|`2026-09-30 13:18:00`|`Combat Master`|
+|[What is the best device to clone for DMA card?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/767413-device-clone-dma-card.html)|`2026-09-30 13:15:00`|`Rust`|
+|[Scum DMA &#45; WIP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/770783-scum-dma-wip.html)|`2026-09-30 13:05:00`|`Scum`|
 |[ext read only skychanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773820-ext-read-skychanger.html)|`2026-09-30 12:35:00`|`Counter-Strike 2`|
 |[Silent Hill: Townfall &#45; Internal Mod Menu &#124; Full ESP, Puzzle Solver, Objective Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774461-silent-hill-townfall-internal-mod-menu-esp-puzzle-solver-objective-guide.html)|`2026-09-30 12:34:00`|`Other Games`|
 |[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-09-30 12:25:00`|`HELLDIVERS 2`|
