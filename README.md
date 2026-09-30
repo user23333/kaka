@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Windows 11 26H2 for ring 0 anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774531-windows-11-26h2-ring-0-anti-cheat.html)|`2026-09-30 22:34:00`|`Anti-Cheat Research`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-30 22:33:00`|`Paladins`|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-09-30 22:30:00`|`ARC Raiders`|
+|[no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774533-spread.html)|`2026-09-30 22:24:00`|`Counter-Strike 2`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-09-30 22:19:00`|`Other FPS Games`|
 |[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-09-30 21:41:00`|`H1Z1`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-09-30 21:25:00`|`Other FPS Games`|
 |[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-30 20:31:00`|`Other FPS Games`|
