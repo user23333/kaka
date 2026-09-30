@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-09-30 20:31:00`|`Other FPS Games`|
+|[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-09-30 20:28:00`|`Anti-Cheat Research`|
+|[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-09-30 20:25:00`|`Paladins`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-09-30 19:37:00`|`Other FPS Games`|
 |[help with edgebug l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768505-help-edgebug-l4d2.html)|`2026-09-30 19:36:00`|`Other FPS Games`|
 |[L4D2 Offsets/Signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774446-l4d2-offsets-signatures.html)|`2026-09-30 19:35:00`|`Other FPS Games`|
