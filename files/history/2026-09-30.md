@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Apex Dumper &#45; Driver Included](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/755216-apex-dumper-driver-included.html)|`2026-09-30 16:32:00`|`Apex Legends`|
+|[Nexon Game Security &#40;NGS&#41; reversal and information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774474-nexon-game-security-ngs-reversal-information.html)|`2026-09-30 16:21:00`|`Anti-Cheat Research`|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-09-30 16:19:00`|`Other Games`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-09-30 16:18:00`|`Palworld`|
+|[eft external release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/772093-eft-external-release.html)|`2026-09-30 16:01:00`|`Escape from Tarkov`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-09-30 15:36:00`|`Call of Duty: Black Ops 7`|
 |[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-09-30 15:36:00`|`H1Z1`|
 |[Chess&#46;com Cheat ImGui Overlay&#43;Stockfish 19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773545-chess-com-cheat-imgui-overlay-stockfish-19-a.html)|`2026-09-30 15:17:00`|`Other Games`|
