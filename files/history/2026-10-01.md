@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock's new anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774563-deadlocks-anti-cheat.html)|`2026-10-01 07:45:00`|`Deadlock`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-10-01 07:44:00`|`Other FPS Games`|
+|[Razer macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773839-razer-macros.html)|`2026-10-01 07:40:00`|`Rainbow Six Siege`|
+|[eac spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774610-eac-spoofer.html)|`2026-10-01 07:38:00`|`Anti-Cheat Research`|
 |[rotkc&#46;dll Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774609-rotkc-dll-reversal.html)|`2026-10-01 07:36:00`|`H1Z1`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-01 07:33:00`|`Tom Clancy's The Division`|
 |[Source Code/Data For Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774608-source-code-data-recoil.html)|`2026-10-01 07:32:00`|`Rust`|
