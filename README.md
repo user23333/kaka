@@ -29,9 +29,15 @@
 |9|[Crime Simulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58081)|`2026-09-30 00:37:47`|
 |78|[Trollware1&#46;0&#46;2&#95;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58080)|`2026-09-30 00:37:47`|
 |29|[release 4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58078)|`2026-09-30 00:37:47`|
+|9|[fuckyoublizzard&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58091)|`2026-09-30 19:37:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-09-30 19:37:00`|`Other FPS Games`|
+|[help with edgebug l4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768505-help-edgebug-l4d2.html)|`2026-09-30 19:36:00`|`Other FPS Games`|
+|[L4D2 Offsets/Signatures](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774446-l4d2-offsets-signatures.html)|`2026-09-30 19:35:00`|`Other FPS Games`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-09-30 19:33:00`|`Overwatch`|
+|[Laggy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/771961-laggy-esp.html)|`2026-09-30 19:32:00`|`Call of Duty: Black Ops 7`|
 |[Found a way to unlock all DLCs on Steam version of the game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/762949-found-unlock-dlcs-steam-version-game.html)|`2026-09-30 18:34:00`|`Payday 3`|
 |[resolving lists from gamemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774509-resolving-lists-gamemanager.html)|`2026-09-30 18:33:00`|`Rainbow Six Siege`|
 |[External visible check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/760651-external-visible-check.html)|`2026-09-30 18:24:00`|`DayZ SA`|
