@@ -11,6 +11,7 @@
 |12|[Working mouse movement driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773768-mouse-movement-driver.html)|`2026-10-01 00:38:05`|`anti-cheat-research`|
 |22|[Magicbullet offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773655-magicbullet-offset.html)|`2026-10-01 00:38:05`|`h1z1`|
 |11|[Apex will switch to EA Javelin Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773650-apex-switch-ea-javelin-anticheat.html)|`2026-10-01 00:38:05`|`apex-legends`|
+|22|[FilterTap &#45; How EAC could already invade your privacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774354-filtertap-eac-invade-privacy.html)|`2026-10-01 02:37:33`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +33,23 @@
 |2|[SilentValheim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58098)|`2026-10-01 01:37:57`|
 |1|[Hideaway&#95;20260929&#95;112857](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58096)|`2026-10-01 01:37:57`|
 |2|[FH For Honor Linux Cheat Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58093)|`2026-10-01 01:37:57`|
+|1|[SDK AION2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58134)|`2026-10-01 02:37:33`|
+|1|[SDK ARC Raiders 30&#46;09&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58128)|`2026-10-01 02:37:33`|
+|8|[Wardogs&#43;Live&#45;CL&#45;507060](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58124)|`2026-10-01 02:37:33`|
+|1|[killsound](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58119)|`2026-10-01 02:37:33`|
+|5|[PUBG SDK 2609&#46;1&#46;2&#46;11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58116)|`2026-10-01 02:37:33`|
+|5|[Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58115)|`2026-10-01 02:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-01 02:33:00`|`Other MMORPG and Strategy`|
+|[Silent Hill: Townfall &#45; Internal Mod Menu &#124; Full ESP, Puzzle Solver, Objective Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774461-silent-hill-townfall-internal-mod-menu-esp-puzzle-solver-objective-guide.html)|`2026-10-01 02:26:00`|`Other Games`|
+|[reading viewmodel bones](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774558-reading-viewmodel-bones.html)|`2026-10-01 02:24:00`|`Counter-Strike 2`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-10-01 02:24:00`|`Call of Duty: Black Ops Cold War`|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-10-01 02:24:00`|`Other FPS Games`|
+|[AION 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774554-aion-2-a.html)|`2026-10-01 02:23:00`|`Other MMORPG and Strategy`|
+|[For Honor script/cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774557-honor-script-cheat.html)|`2026-10-01 02:23:00`|`Other MMORPG and Strategy`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-01 02:22:00`|`ARC Raiders`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-01 01:35:00`|`Deadlock`|
 |[Ready or Not Offline Trainer v10&#46;5 &#45; TOC UI &#124; ESP &#124; Aim &#124; Mission Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774457-ready-offline-trainer-v10-5-toc-ui-esp-aim-mission-tools.html)|`2026-10-01 01:32:00`|`Other FPS Games`|
 |[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-10-01 01:32:00`|`ARC Raiders`|
