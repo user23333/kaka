@@ -14,6 +14,7 @@
 |20|[ROTK patched client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773664-rotk-patched-client.html)|`2026-09-30 01:37:43`|`h1z1`|
 |6|[CS2 VAC3 Modules dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773347-cs2-vac3-modules-dump.html)|`2026-09-30 01:37:43`|`counter-strike-2-a`|
 |15|[rotk hwid bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773626-rotk-hwid-bypass.html)|`2026-09-30 09:37:44`|`h1z1`|
+|6|[Updated patterns &#40;23th september&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773455-updated-patterns-23th-september.html)|`2026-09-30 11:37:31`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-09-30 11:32:00`|`Overwatch`|
+|[Show me the ROTK cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774458-rotk-cheat-menu.html)|`2026-09-30 11:23:00`|`H1Z1`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-09-30 11:04:00`|`Other FPS Games`|
+|[Any lethal company cheats working? All of them are outdated right now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/761887-lethal-company-cheats-outdated.html)|`2026-09-30 11:03:00`|`Lethal Company`|
+|[Monitor Spoofing Hardware level](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773963-monitor-spoofing-hardware-level.html)|`2026-09-30 11:00:00`|`Anti-Cheat Research`|
 |[Rustafied suspect profile bans how to evade?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774456-rustafied-suspect-profile-bans-evade.html)|`2026-09-30 10:29:00`|`Rust`|
 |[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764374-kdmapper-3-0-a.html)|`2026-09-30 10:16:00`|`Anti-Cheat Research`|
 |[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-09-30 10:16:00`|`Call of Duty: Black Ops Cold War`|
