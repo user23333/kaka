@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-09-30 08:22:00`|`ARC Raiders`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-09-30 08:09:00`|`Other Games`|
+|[FiveM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/766787-fivem-dma.html)|`2026-09-30 07:58:00`|`Alternative Online Mods`|
+|[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-09-30 07:54:00`|`Other MMORPG and Strategy`|
 |[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-09-30 07:28:00`|`Other FPS Games`|
 |[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-09-30 07:25:00`|`Other Single Player Games`|
 |[&#91;ARC Raiders&#93; Game Mesh Gallery – Browse Extracted Meshes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/774442-arc-raiders-game-mesh-gallery-browse-extracted-meshes.html)|`2026-09-30 07:22:00`|`ARC Raiders`|
