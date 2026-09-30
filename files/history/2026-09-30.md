@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Releasing my external Linux For Honor tool, because they took away linux support&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774399-releasing-external-linux-honor-tool-linux-support.html)|`2026-09-30 23:31:00`|`Other MMORPG and Strategy`|
+|[undetected debug camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773311-undetected-debug-camera.html)|`2026-09-30 23:24:00`|`Rust`|
+|[TD &#45; Looking For Group](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/173331-td-looking.html)|`2026-09-30 23:21:00`|`Tom Clancy's The Division`|
 |[Windows 11 26H2 for ring 0 anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774531-windows-11-26h2-ring-0-anti-cheat.html)|`2026-09-30 22:34:00`|`Anti-Cheat Research`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-09-30 22:33:00`|`Paladins`|
 |[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-09-30 22:30:00`|`ARC Raiders`|
