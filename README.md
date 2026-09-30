@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rotkc&#46;dll Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774609-rotkc-dll-reversal.html)|`2026-10-01 07:36:00`|`H1Z1`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-01 07:33:00`|`Tom Clancy's The Division`|
+|[Source Code/Data For Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774608-source-code-data-recoil.html)|`2026-10-01 07:32:00`|`Rust`|
+|[Division 2 Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/761206-division-2-toolkit.html)|`2026-10-01 07:31:00`|`Tom Clancy's The Division`|
+|[Deadlock VAC internals — reversed detection surface &#43; HWID pipeline &#40;steamclient64&#46;dl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774595-deadlock-vac-internals-reversed-detection-surface-hwid-pipeline-steamclient64-dl.html)|`2026-10-01 07:20:00`|`Deadlock`|
+|[Alternative Streamproof Method for NVIDIA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773544-alternative-streamproof-method-nvidia.html)|`2026-10-01 07:19:00`|`General Programming and Reversing`|
 |[Share schemasystem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774585-share-schemasystem.html)|`2026-10-01 06:31:00`|`Counter-Strike 2`|
 |[Rust internal question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774530-rust-internal-question.html)|`2026-10-01 06:04:00`|`Rust`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-01 05:35:00`|`Call of Duty: Black Ops 7`|
