@@ -44,9 +44,17 @@
 |1|[EAC Zip with all the goods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58137)|`2026-10-01 04:37:32`|
 |16|[DeobfuscatedNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58136)|`2026-10-01 04:37:32`|
 |0|[Elytra AC: Decrypted lighthouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58148)|`2026-10-01 13:37:44`|
+|1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58140)|`2026-10-01 14:37:40`|
+|1|[P5XOverlay&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58139)|`2026-10-01 14:37:40`|
+|1|[steamclient64&#95;fixed&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58138)|`2026-10-01 14:37:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-01 14:37:00`|`Other Games`|
+|[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-10-01 14:36:00`|`H1Z1`|
+|[Persona 5 The Phantom X](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774602-persona-5-phantom.html)|`2026-10-01 14:33:00`|`Other MMORPG and Strategy`|
+|[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-01 14:25:00`|`Anti-Cheat Research`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-10-01 14:23:00`|`Other MMORPG and Strategy`|
 |[Magicbullet offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773655-magicbullet-offset.html)|`2026-10-01 13:53:00`|`H1Z1`|
 |[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-10-01 13:52:00`|`Other MMORPG and Strategy`|
 |[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-10-01 13:52:00`|`Other Single Player Games`|
