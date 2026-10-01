@@ -63,9 +63,12 @@
 |3|[Bugtopia v3&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58154)|`2026-10-01 19:37:40`|
 |1|[Marvel rivals sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58158)|`2026-10-01 20:37:43`|
 |2|[IdleMasterMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58156)|`2026-10-01 20:37:43`|
+|3|[Mysterious External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58157)|`2026-10-01 21:14:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Antiaim viewmodel help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774691-antiaim-viewmodel-help.html)|`2026-10-01 21:12:00`|`Counter-Strike 2`|
+|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773877-wardogs-web-radar.html)|`2026-10-01 20:47:00`|`Other FPS Games`|
 |[Working mouse movement driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773768-mouse-movement-driver.html)|`2026-10-01 20:23:00`|`Anti-Cheat Research`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-01 20:09:00`|`Counter-Strike 2`|
 |[Dota 1 maphack &#91;Shodan Ultimate&#93; &#91;RGC&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/502076-dota-1-maphack-shodan-ultimate-rgc.html)|`2026-10-01 20:05:00`|`Other MMORPG and Strategy`|
