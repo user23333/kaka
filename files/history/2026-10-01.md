@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-01 11:29:00`|`Counter-Strike 2`|
+|[need some advice about kernel driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774630-advice-kernel-driver.html)|`2026-10-01 10:58:00`|`Anti-Cheat Research`|
 |[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-01 10:32:00`|`H1Z1`|
 |[Platform Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769070-platform-player.html)|`2026-10-01 10:32:00`|`Call of Duty: Black Ops 7`|
 |[Nexon Game Security &#40;NGS&#41; reversal and information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774474-nexon-game-security-ngs-reversal-information.html)|`2026-10-01 10:21:00`|`Anti-Cheat Research`|
