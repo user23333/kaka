@@ -27,9 +27,18 @@
 |11|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58167)|`2026-10-02 02:39:00`|
 |1|[prefabs&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58169)|`2026-10-02 03:32:02`|
 |1|[entities&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58168)|`2026-10-02 03:32:02`|
+|4|[fortnite dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58173)|`2026-10-02 04:37:45`|
+|1|[Nebula&#45;Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58166)|`2026-10-02 04:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774765-decryption.html)|`2026-10-02 04:31:00`|`Call of Duty: Black Ops 7`|
+|[Simple Module Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/573662-simple-module-editor.html)|`2026-10-02 04:29:00`|`Elite: Dangerous`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-10-02 04:26:00`|`Other FPS Games`|
+|[DayZ Internal Visibility Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/774094-dayz-internal-visibility-check.html)|`2026-10-02 04:23:00`|`DayZ SA`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-02 04:22:00`|`Other FPS Games`|
+|[how to hook schema](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774751-hook-schema.html)|`2026-10-02 04:22:00`|`Counter-Strike 2`|
+|[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-02 04:17:00`|`H1Z1`|
 |[Hell Let Loose: Vietnam Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749633-hell-loose-vietnam-reversal-structs-offsets.html)|`2026-10-02 03:33:00`|`Other FPS Games`|
 |[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-02 03:29:00`|`Anti-Cheat Research`|
 |[prefabs&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769712-prefabs-json-format.html)|`2026-10-02 03:29:00`|`Rust`|
