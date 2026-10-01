@@ -11,6 +11,7 @@
 |13|[Working mouse movement driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773768-mouse-movement-driver.html)|`2026-10-02 00:37:33`|`anti-cheat-research`|
 |23|[Magicbullet offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773655-magicbullet-offset.html)|`2026-10-02 00:37:33`|`h1z1`|
 |11|[Apex will switch to EA Javelin Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773650-apex-switch-ea-javelin-anticheat.html)|`2026-10-02 00:37:33`|`apex-legends`|
+|6|[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-10-02 06:37:49`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,9 +30,20 @@
 |1|[entities&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58168)|`2026-10-02 03:32:02`|
 |4|[fortnite dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58173)|`2026-10-02 04:37:45`|
 |1|[Nebula&#45;Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58166)|`2026-10-02 04:37:45`|
+|1|[seo64 &#40;fixed october 1 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58175)|`2026-10-02 06:37:49`|
+|10|[Hyperion Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58174)|`2026-10-02 06:37:49`|
+|1|[ValTrainer&#45;1&#46;9&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58172)|`2026-10-02 06:37:49`|
+|1|[DevourModMenu 2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58170)|`2026-10-02 06:37:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[full legit/rage internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773167-legit-rage-internal.html)|`2026-10-02 06:37:00`|`Counter-Strike 2`|
+|[Marvel Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/773947-marvel-dumper.html)|`2026-10-02 06:36:00`|`Marvel Rivals`|
+|[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-10-02 06:36:00`|`Cheat Engine Tables`|
+|[Undercover external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/generals-and-zero-hour/772617-undercover-external.html)|`2026-10-02 06:35:00`|`Generals and Zero Hour`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-02 06:33:00`|`Other MMORPG and Strategy`|
+|[Incident CS2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/761699-incident-cs2-internal.html)|`2026-10-02 06:29:00`|`Counter-Strike 2 Releases`|
+|[Sound bugg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774658-sound-bugg.html)|`2026-10-02 06:27:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-02 05:28:00`|`Other FPS Games`|
 |[is anyone workin on vanguard ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/770105-workin-vanguard.html)|`2026-10-02 05:28:00`|`Call of Duty: Vanguard`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-02 05:24:00`|`Apex Legends`|
