@@ -57,9 +57,15 @@
 |11|[BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58142)|`2026-10-01 15:37:51`|
 |6|[lootlin 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58141)|`2026-10-01 15:37:51`|
 |2|[warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58151)|`2026-10-01 16:37:51`|
+|3|[steamclient64&#95;fixed&#95;updated&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58153)|`2026-10-01 17:37:41`|
+|2|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58152)|`2026-10-01 17:37:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-01 17:36:00`|`H1Z1`|
+|[Scripts Stopped Working After EAC Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774305-scripts-stopped-eac-update.html)|`2026-10-01 17:32:00`|`Rust`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-01 17:31:00`|`Other Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-01 17:19:00`|`Marvel Rivals`|
 |[tarkov questie OAuth sign&#45;in bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773961-tarkov-questie-oauth-sign-bypass.html)|`2026-10-01 16:36:00`|`Escape from Tarkov`|
 |[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-10-01 16:29:00`|`Counter-Strike 2`|
 |[help with texturebug please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773589-help-texturebug-please.html)|`2026-10-01 16:27:00`|`Counter-Strike 2`|
