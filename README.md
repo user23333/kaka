@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-01 08:30:00`|`Payday 2`|
+|[nvidia streamproof bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/762875-nvidia-streamproof-bypass.html)|`2026-10-01 08:28:00`|`Alternative Online Mods`|
+|[Where are Genshin Impact Mobile cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/770625-genshin-impact-mobile-cheats.html)|`2026-10-01 08:27:00`|`Genshin Impact`|
+|[Arma 3 Internal DX11 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/772263-arma-3-internal-dx11-esp.html)|`2026-10-01 08:24:00`|`ARMA 3`|
+|[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-01 08:22:00`|`Anti-Cheat Research`|
+|[Trove Ship AFK Farm — XC3&#45;Aware &#124; Auto&#45;attack / invite / flask / respawn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774613-trove-ship-afk-farm-xc3-aware-auto-attack-invite-flask-respawn.html)|`2026-10-01 08:21:00`|`Other MMORPG and Strategy`|
 |[Deadlock's new anti cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774563-deadlocks-anti-cheat.html)|`2026-10-01 07:45:00`|`Deadlock`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-10-01 07:44:00`|`Other FPS Games`|
 |[Razer macros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773839-razer-macros.html)|`2026-10-01 07:40:00`|`Rainbow Six Siege`|
