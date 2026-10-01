@@ -59,9 +59,16 @@
 |2|[warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58151)|`2026-10-01 16:37:51`|
 |3|[steamclient64&#95;fixed&#95;updated&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58153)|`2026-10-01 17:37:41`|
 |2|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58152)|`2026-10-01 17:37:41`|
+|2|[Bugtopia Launcher v3&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58155)|`2026-10-01 19:37:40`|
+|3|[Bugtopia v3&#46;1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58154)|`2026-10-01 19:37:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-01 19:34:00`|`Other Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-01 19:34:00`|`Marvel Rivals`|
+|[ROTK ANTICHEAT REMOVAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774612-rotk-anticheat-removal.html)|`2026-10-01 19:30:00`|`H1Z1`|
+|[Spiritvale Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/739033-spiritvale-bot.html)|`2026-10-01 19:22:00`|`Other MMORPG and Strategy`|
+|[Sound bugg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774658-sound-bugg.html)|`2026-10-01 19:20:00`|`Counter-Strike 2`|
 |[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-10-01 18:32:00`|`Scum`|
 |[custom hit materials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774318-custom-hit-materials.html)|`2026-10-01 18:30:00`|`Rust`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-10-01 18:28:00`|`ARMA 3`|
