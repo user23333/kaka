@@ -56,9 +56,14 @@
 |3|[lootline source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58143)|`2026-10-01 15:37:51`|
 |11|[BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58142)|`2026-10-01 15:37:51`|
 |6|[lootlin 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58141)|`2026-10-01 15:37:51`|
+|2|[warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58151)|`2026-10-01 16:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[tarkov questie OAuth sign&#45;in bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773961-tarkov-questie-oauth-sign-bypass.html)|`2026-10-01 16:36:00`|`Escape from Tarkov`|
+|[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-10-01 16:29:00`|`Counter-Strike 2`|
+|[help with texturebug please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773589-help-texturebug-please.html)|`2026-10-01 16:27:00`|`Counter-Strike 2`|
+|[Kymera for Overwatch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768667-kymera-overwatch.html)|`2026-10-01 16:17:00`|`Overwatch`|
 |[TaeKwonDoe's Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/774195-taekwondoes-internal-menu.html)|`2026-10-01 15:32:00`|`Team Fortress 2`|
 |[Introduce myself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/774625-introduce.html)|`2026-10-01 15:32:00`|`Introductions`|
 |[Pathetic Noobie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/774627-pathetic-noobie.html)|`2026-10-01 15:26:00`|`Off Topic`|
