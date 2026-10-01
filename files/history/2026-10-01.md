@@ -65,9 +65,13 @@
 |2|[IdleMasterMod&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58156)|`2026-10-01 20:37:43`|
 |3|[Mysterious External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58157)|`2026-10-01 21:14:51`|
 |2|[WARDOGS ICONS FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58162)|`2026-10-01 22:37:36`|
+|2|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58161)|`2026-10-01 23:38:12`|
+|6|[Undercover Generals Online Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58159)|`2026-10-01 23:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-10-01 23:26:00`|`HELLDIVERS 2`|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-10-01 23:14:00`|`Other Games`|
 |[BO2 Plutonium Ara&#95;blops2 &#43; source &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/765913-bo2-plutonium-ara_blops2-source-injector.html)|`2026-10-01 22:21:00`|`Call of Duty: Black Ops 2`|
 |[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-10-01 22:17:00`|`Overwatch`|
 |[Wardogs Icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773540-wardogs-icons.html)|`2026-10-01 22:06:00`|`Other FPS Games`|
