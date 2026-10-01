@@ -43,9 +43,16 @@
 |2|[PV Int Paks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58133)|`2026-10-01 03:20:38`|
 |1|[EAC Zip with all the goods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58137)|`2026-10-01 04:37:32`|
 |16|[DeobfuscatedNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58136)|`2026-10-01 04:37:32`|
+|0|[Elytra AC: Decrypted lighthouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58148)|`2026-10-01 13:37:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-01 13:34:00`|`Overwatch`|
+|[War Thunder test drive unlock tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/671076-war-thunder-test-drive-unlock-tool.html)|`2026-10-01 13:30:00`|`Other MMORPG and Strategy`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-01 13:26:00`|`Other MMORPG and Strategy`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-10-01 13:14:00`|`Other MMORPG and Strategy`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-01 12:55:00`|`Other FPS Games`|
+|[Is there a way to improve external aimbot accuracy?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/774637-improve-external-aimbot-accuracy.html)|`2026-10-01 12:46:00`|`Sea of Thieves`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-10-01 12:36:00`|`Other FPS Games`|
 |[Learning the ropes of Reversing and engineering CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774636-learning-ropes-reversing-engineering-cs2.html)|`2026-10-01 12:26:00`|`Counter-Strike 2`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-01 11:29:00`|`Counter-Strike 2`|
