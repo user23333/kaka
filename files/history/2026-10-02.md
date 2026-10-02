@@ -15,6 +15,7 @@
 |12|[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-10-02 10:37:40`|`other-mmorpg-and-strategy`|
 |16|[External Apex Visuals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774384-external-apex-visuals-cheat.html)|`2026-10-02 10:37:40`|`apex-legends`|
 |17|[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-02 11:37:48`|`anti-cheat-research`|
+|10|[Deskrawl: Idle ARPG &#40; 1 Hit &#43; God Mode &#43; Gold Multiplier &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774252-deskrawl-idle-arpg-1-hit-god-mode-gold-multiplier.html)|`2026-10-02 14:37:56`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,9 +38,18 @@
 |10|[Hyperion Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58174)|`2026-10-02 06:37:49`|
 |1|[ValTrainer&#45;1&#46;9&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58172)|`2026-10-02 06:37:49`|
 |1|[DevourModMenu 2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58170)|`2026-10-02 06:37:49`|
+|11|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;01](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58179)|`2026-10-02 14:37:56`|
+|2|[Uno Assistant Extension ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58178)|`2026-10-02 14:37:56`|
+|1|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58177)|`2026-10-02 14:37:56`|
+|1|[Trackmania](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58176)|`2026-10-02 14:37:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-10-02 14:28:00`|`Call of Duty: Black Ops 2`|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-10-02 14:09:00`|`Tom Clancy's The Division`|
+|[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-10-02 14:08:00`|`Paladins`|
+|[umbra &#45; external esp/skeleton/aimbot/triggerbot &#43; optional kernal module mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/770676-umbra-external-esp-skeleton-aimbot-triggerbot-optional-kernal-module-mode.html)|`2026-10-02 14:08:00`|`THE FINALS`|
+|[PokeMMo cheats/bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/774821-pokemmo-cheats-bot.html)|`2026-10-02 14:05:00`|`Forum General`|
 |[any lua script for enhanced that lets you change car gravity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/774812-lua-script-enhanced-change-car-gravity.html)|`2026-10-02 13:35:00`|`Grand Theft Auto V`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-02 13:27:00`|`Other MMORPG and Strategy`|
 |[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-10-02 13:25:00`|`Other MMORPG and Strategy`|
