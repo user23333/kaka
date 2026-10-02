@@ -14,6 +14,7 @@
 |6|[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-10-02 06:37:49`|`anti-cheat-research`|
 |12|[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-10-02 10:37:40`|`other-mmorpg-and-strategy`|
 |16|[External Apex Visuals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774384-external-apex-visuals-cheat.html)|`2026-10-02 10:37:40`|`apex-legends`|
+|17|[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-02 11:37:48`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-10-02 11:37:00`|`Other FPS Games`|
+|[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-10-02 11:36:00`|`Apex Legends`|
+|[NEW DISCOVERY: JITTER AIM MACROS NERFED AGAIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773673-discovery-jitter-aim-macros-nerfed.html)|`2026-10-02 11:33:00`|`Apex Legends`|
+|[My journal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/764640-journal.html)|`2026-10-02 11:32:00`|`Rainbow Six Siege`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-10-02 11:32:00`|`Rainbow Six Siege`|
+|[gms v272 / classic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/774633-gms-v272-classic.html)|`2026-10-02 11:22:00`|`Maple Story`|
 |[How to get LiberTea Working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773364-libertea.html)|`2026-10-02 10:25:00`|`HELLDIVERS 2`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-02 10:20:00`|`Other FPS Games`|
 |[Quake Champions Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/771098-quake-champions-reversal-structs-offsets.html)|`2026-10-02 10:07:00`|`Quake Champions`|
