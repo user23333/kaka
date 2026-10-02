@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-03 02:24:00`|`H1Z1`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-03 02:18:00`|`Apex Legends`|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-10-03 02:13:00`|`Call of Duty: Black Ops 2`|
+|[Nivalis Nights BepInEx 6 Plugin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774895-nivalis-nights-bepinex-6-plugin.html)|`2026-10-03 02:09:00`|`Other Single Player Games`|
+|[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-10-03 02:03:00`|`Cheat Engine Tables`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-03 01:57:00`|`Overwatch`|
 |[Full UScript Function Disassembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/774887-uscript-function-disassembly.html)|`2026-10-03 01:36:00`|`America's Army: Proving Grounds`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-03 01:32:00`|`Rust`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-03 01:29:00`|`Apex Legends`|
