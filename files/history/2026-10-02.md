@@ -43,9 +43,13 @@
 |2|[Uno Assistant Extension ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58178)|`2026-10-02 14:37:56`|
 |1|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58177)|`2026-10-02 14:37:56`|
 |1|[Trackmania](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58176)|`2026-10-02 14:37:56`|
+|1|[The Finals SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58184)|`2026-10-02 23:37:48`|
+|3|[Bo2 AIO RTE Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58180)|`2026-10-02 23:37:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloons TD 6 Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/576272-bloons-td-6-internal-cheat.html)|`2026-10-02 23:36:00`|`Unity`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-02 23:22:00`|`Other Games`|
 |[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-10-02 22:30:00`|`H1Z1`|
 |[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-02 22:12:00`|`Other MMORPG and Strategy`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-02 21:37:00`|`Deadlock`|
