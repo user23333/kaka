@@ -16,6 +16,7 @@
 |16|[External Apex Visuals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774384-external-apex-visuals-cheat.html)|`2026-10-02 10:37:40`|`apex-legends`|
 |17|[EAC Rust Reversal &#40;Latest Update&#41; &#124; Detection Vectors, HWID Identifiers, Traces, Misc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774584-eac-rust-reversal-update-detection-vectors-hwid-identifiers-traces-misc.html)|`2026-10-02 11:37:48`|`anti-cheat-research`|
 |10|[Deskrawl: Idle ARPG &#40; 1 Hit &#43; God Mode &#43; Gold Multiplier &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774252-deskrawl-idle-arpg-1-hit-god-mode-gold-multiplier.html)|`2026-10-02 14:37:56`|`other-mmorpg-and-strategy`|
+|21|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-02 20:35:17`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -45,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI Deobfuscation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/770146-ai-deobfuscation.html)|`2026-10-02 20:09:00`|`Anti-Cheat Research`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-02 20:02:00`|`Escape from Tarkov`|
+|[vgk&#46;sys xor obfuscated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774743-vgk-sys-xor-obfuscated.html)|`2026-10-02 20:01:00`|`Anti-Cheat Research`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-02 19:18:00`|`THE FINALS`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-02 19:16:00`|`Call of Duty: Black Ops 7`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-10-02 18:35:00`|`Other FPS Games`|
