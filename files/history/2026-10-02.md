@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Wardogs&#41; anyone want me to post my external src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774824-wardogs-post-external-src.html)|`2026-10-02 16:27:00`|`Other FPS Games`|
+|[Elytra Anti Cheat &#45; Decrypted lighthouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774444-elytra-anti-cheat-decrypted-lighthouse-driver.html)|`2026-10-02 16:08:00`|`Anti-Cheat Research`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-02 16:06:00`|`Overwatch`|
+|[Latest Rust Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774832-rust-update.html)|`2026-10-02 16:04:00`|`Rust`|
+|[Internal visibility check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/771339-internal-visibility-check.html)|`2026-10-02 16:03:00`|`Rust`|
+|[warthunder cheat only working with anticheat off](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774293-warthunder-cheat-anticheat.html)|`2026-10-02 16:02:00`|`Other MMORPG and Strategy`|
 |[Pixel Jade Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774829-pixel-jade-online.html)|`2026-10-02 15:28:00`|`Other MMORPG and Strategy`|
 |[Subtick removal?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774030-subtick-removal.html)|`2026-10-02 15:22:00`|`Counter-Strike 2`|
 |[seo64 &#91;fixed june 26 2026&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/759431-seo64-fixed-june-26-2026-a.html)|`2026-10-02 15:19:00`|`Team Fortress 2`|
