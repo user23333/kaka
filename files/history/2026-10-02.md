@@ -45,6 +45,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-10-02 17:31:00`|`Grand Theft Auto V`|
+|[Is writing to body rotation completely DT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774730-writing-body-rotation-completely-dt.html)|`2026-10-02 17:23:00`|`Rust`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-10-02 17:17:00`|`Deadlock`|
+|[Web&#45;based game “Dotaoboji” / “Slap Stick Prince”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774839-web-based-game-dotaoboji-slap-stick-prince.html)|`2026-10-02 17:11:00`|`Other Games`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-02 17:11:00`|`H1Z1`|
 |[&#40;Wardogs&#41; anyone want me to post my external src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774824-wardogs-post-external-src.html)|`2026-10-02 16:27:00`|`Other FPS Games`|
 |[Elytra Anti Cheat &#45; Decrypted lighthouse driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774444-elytra-anti-cheat-decrypted-lighthouse-driver.html)|`2026-10-02 16:08:00`|`Anti-Cheat Research`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-02 16:06:00`|`Overwatch`|
