@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full UScript Function Disassembly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/america-s-army-proving-grounds/774887-uscript-function-disassembly.html)|`2026-10-03 01:36:00`|`America's Army: Proving Grounds`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-03 01:32:00`|`Rust`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-03 01:29:00`|`Apex Legends`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-03 01:29:00`|`Other MMORPG and Strategy`|
+|[seo64 &#91;fixed june 26 2026&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/759431-seo64-fixed-june-26-2026-a.html)|`2026-10-03 01:28:00`|`Team Fortress 2`|
+|[TaeKwonDoe's Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/774195-taekwondoes-internal-menu.html)|`2026-10-03 01:28:00`|`Team Fortress 2`|
+|[CreateMove CUserCMD&#42;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/774885-createmove-cusercmd.html)|`2026-10-03 01:25:00`|`Team Fortress 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-03 01:20:00`|`Overwatch`|
+|[Deadlock Overlay — ESP, Snap/Silent Aim & Sandbox Headshot Stats &#124; Build 6731](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774850-deadlock-overlay-esp-snap-silent-aim-sandbox-headshot-stats-build-6731-a.html)|`2026-10-03 01:18:00`|`Deadlock`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759678-wardogs-reversal-structs-offsets.html)|`2026-10-03 01:04:00`|`Other FPS Games`|
 |[Aniimo Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772391-aniimo-internal-cheat.html)|`2026-10-03 00:37:00`|`Other MMORPG and Strategy`|
 |[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-03 00:35:00`|`Apex Legends`|
 |[Nexon Game Security &#40;NGS&#41; reversal and information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774474-nexon-game-security-ngs-reversal-information.html)|`2026-10-03 00:33:00`|`Anti-Cheat Research`|
