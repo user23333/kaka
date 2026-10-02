@@ -26,9 +26,21 @@
 |37|[seo64 &#40;fixed october 1 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58175)|`2026-10-03 00:37:32`|
 |7|[DeobfuscatedNames](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58193)|`2026-10-03 03:37:48`|
 |1|[AAPG Full Function Dump&#46;txt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58190)|`2026-10-03 03:37:48`|
+|7|[update&#46;py](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58194)|`2026-10-03 04:37:52`|
+|2|[NivalisNightsInternal&#95;0&#46;12&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58191)|`2026-10-03 04:37:52`|
+|2|[wardogs sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58189)|`2026-10-03 04:37:52`|
+|3|[ArmaEsp&#95;1&#46;7&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58188)|`2026-10-03 04:37:52`|
+|2|[Nenyoo V3 2610&#46;02&#46;1036](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58187)|`2026-10-03 04:37:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-03 04:36:00`|`Counter-Strike 2`|
+|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-10-03 04:33:00`|`Call of Duty: Black Ops 7`|
+|[Arma 3 Internal DX11 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/772263-arma-3-internal-dx11-esp.html)|`2026-10-03 04:29:00`|`ARMA 3`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-03 04:28:00`|`Grand Theft Auto V`|
+|[RONFentry &#45; Ready or Not Internal, Feature&#45;Packed Multitool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html)|`2026-10-03 04:26:00`|`Other FPS Games`|
+|[&#91;READY TO PASTE&#93; Grenade Camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773980-ready-paste-grenade-camera.html)|`2026-10-03 04:26:00`|`Counter-Strike 2`|
+|[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-10-03 04:15:00`|`Rainbow Six Siege`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-10-03 03:32:00`|`Counter-Strike 2`|
 |[Rust Python Offset Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774909-rust-python-offset-updater.html)|`2026-10-03 03:24:00`|`Rust`|
 |[CS2  skinchanger issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774900-cs2-skinchanger-issue.html)|`2026-10-03 03:14:00`|`Counter-Strike 2`|
