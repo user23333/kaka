@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-02 09:28:00`|`Other FPS Games`|
+|[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-10-02 08:55:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-02 08:24:00`|`Alternative Online Mods`|
 |[SCARAB v1&#46;0&#46;0 — 3D Flight, Teleport & Gate Clip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/770120-scarab-v1-0-0-3d-flight-teleport-gate-clip.html)|`2026-10-02 08:17:00`|`Guild Wars 2`|
 |[Dark and Darker Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/562724-dark-darker-reversal-structs-offsets.html)|`2026-10-02 08:13:00`|`Other FPS Games`|
