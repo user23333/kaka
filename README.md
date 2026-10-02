@@ -11,6 +11,7 @@
 |14|[&#91;DTool&#93; Deskrawl: Idle ARPG Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774275-dtool-deskrawl-idle-arpg-trainer.html)|`2026-10-03 00:37:32`|`other-mmorpg-and-strategy`|
 |10|[Deskrawl: Idle ARPG &#40; 1 Hit &#43; God Mode &#43; Gold Multiplier &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774252-deskrawl-idle-arpg-1-hit-god-mode-gold-multiplier.html)|`2026-10-03 00:37:32`|`other-mmorpg-and-strategy`|
 |21|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-03 00:37:32`|`h1z1`|
+|25|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-03 05:37:39`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,14 @@
 |2|[wardogs sdk ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58189)|`2026-10-03 04:37:52`|
 |3|[ArmaEsp&#95;1&#46;7&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58188)|`2026-10-03 04:37:52`|
 |2|[Nenyoo V3 2610&#46;02&#46;1036](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58187)|`2026-10-03 04:37:52`|
+|6|[internal fixed&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58192)|`2026-10-03 05:37:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK Bullet Drop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774939-rotk-bullet-drop-external.html)|`2026-10-03 05:29:00`|`H1Z1`|
+|[Hyperion Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774748-hyperion-disabler.html)|`2026-10-03 05:20:00`|`Anti-Cheat Research`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-03 05:17:00`|`HELLDIVERS 2`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-03 05:05:00`|`Overwatch`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-03 04:36:00`|`Counter-Strike 2`|
 |[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-10-03 04:33:00`|`Call of Duty: Black Ops 7`|
 |[Arma 3 Internal DX11 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/772263-arma-3-internal-dx11-esp.html)|`2026-10-03 04:29:00`|`ARMA 3`|
