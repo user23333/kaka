@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-02 12:28:00`|`Paladins`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-02 12:12:00`|`Grand Theft Auto V`|
+|[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-02 12:11:00`|`Anti-Cheat Research`|
+|[Claude's External Multihack &#91;STEAM 64&#45;Bit&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/743681-claudes-external-multihack-steam-64-bit.html)|`2026-10-02 12:03:00`|`CounterStrike Source`|
+|[How to find offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773313-offsets.html)|`2026-10-02 12:01:00`|`Rust`|
 |[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-10-02 11:37:00`|`Other FPS Games`|
 |[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-10-02 11:36:00`|`Apex Legends`|
 |[NEW DISCOVERY: JITTER AIM MACROS NERFED AGAIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773673-discovery-jitter-aim-macros-nerfed.html)|`2026-10-02 11:33:00`|`Apex Legends`|
