@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Digging into vgk&#46;sys Import/Export](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774872-digging-vgk-sys-import-export.html)|`2026-10-03 15:31:00`|`Anti-Cheat Research`|
 |[Fivem spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774956-fivem-spoofer.html)|`2026-10-03 14:34:00`|`Alternative Online Mods`|
 |[DayZ Bible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/774987-dayz-bible.html)|`2026-10-03 14:30:00`|`DayZ SA`|
 |[&#91;Source&#93; T7 Release: patching the RCE &#43; crash exploits hosts use in BO3 lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/764130-source-t7-release-patching-rce-crash-exploits-hosts-bo3-lobbies.html)|`2026-10-03 14:25:00`|`Call of Duty: Black Ops 3`|
