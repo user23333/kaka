@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-10-03 17:25:00`|`Rust`|
+|[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-03 17:20:00`|`Other Games`|
+|[Trackmania 2020 CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774789-trackmania-2020-ce.html)|`2026-10-03 17:16:00`|`Other Games`|
+|[Balltimor ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/759110-balltimor-esp-source.html)|`2026-10-03 17:00:00`|`Apex Legends`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-03 16:09:00`|`Other FPS Games`|
 |[Geared Up Bundle IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/774735-geared-bundle-ids.html)|`2026-10-03 16:04:00`|`Payday 3`|
 |[Status of Recent BF1 Offsets & Reading Player Matrix for ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/774562-status-recent-bf1-offsets-reading-player-matrix-esp.html)|`2026-10-03 15:59:00`|`Battlefield 1`|
