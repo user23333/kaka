@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-03 12:29:00`|`Other FPS Games`|
+|[does rust have ban traces?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774977-rust-ban-traces.html)|`2026-10-03 12:23:00`|`Rust`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-03 12:15:00`|`Other Games`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-03 12:07:00`|`Tom Clancy's The Division`|
+|[ORMOD: Directive &#45; New survival PVP / PVE game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774975-ormod-directive-survival-pvp-pve-game.html)|`2026-10-03 12:05:00`|`Other FPS Games`|
 |[CHAMS HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774847-chams-help.html)|`2026-10-03 11:37:00`|`Counter-Strike 2`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772332-wardogs-dma.html)|`2026-10-03 11:31:00`|`Other FPS Games`|
 |[rust dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774881-rust-dumper.html)|`2026-10-03 11:26:00`|`Rust`|
