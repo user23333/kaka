@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Geared Up Bundle IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/774735-geared-bundle-ids.html)|`2026-10-03 16:04:00`|`Payday 3`|
+|[Status of Recent BF1 Offsets & Reading Player Matrix for ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/774562-status-recent-bf1-offsets-reading-player-matrix-esp.html)|`2026-10-03 15:59:00`|`Battlefield 1`|
+|[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-10-03 15:46:00`|`H1Z1`|
+|[Scapewatch: Idle MMO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774368-scapewatch-idle-mmo.html)|`2026-10-03 15:40:00`|`Other MMORPG and Strategy`|
 |[Digging into vgk&#46;sys Import/Export](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774872-digging-vgk-sys-import-export.html)|`2026-10-03 15:31:00`|`Anti-Cheat Research`|
 |[Fivem spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774956-fivem-spoofer.html)|`2026-10-03 14:34:00`|`Alternative Online Mods`|
 |[DayZ Bible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/774987-dayz-bible.html)|`2026-10-03 14:30:00`|`DayZ SA`|
