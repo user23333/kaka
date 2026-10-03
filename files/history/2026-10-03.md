@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-03 16:09:00`|`Other FPS Games`|
 |[Geared Up Bundle IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/774735-geared-bundle-ids.html)|`2026-10-03 16:04:00`|`Payday 3`|
 |[Status of Recent BF1 Offsets & Reading Player Matrix for ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/774562-status-recent-bf1-offsets-reading-player-matrix-esp.html)|`2026-10-03 15:59:00`|`Battlefield 1`|
 |[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-10-03 15:46:00`|`H1Z1`|
