@@ -12,6 +12,7 @@
 |10|[Deskrawl: Idle ARPG &#40; 1 Hit &#43; God Mode &#43; Gold Multiplier &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774252-deskrawl-idle-arpg-1-hit-god-mode-gold-multiplier.html)|`2026-10-03 00:37:32`|`other-mmorpg-and-strategy`|
 |21|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-03 00:37:32`|`h1z1`|
 |25|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-03 05:37:39`|`overwatch`|
+|21|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-03 09:37:42`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -36,6 +37,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dungeon Defenders Awakened &#45; Free Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774969-dungeon-defenders-awakened-free-mod-menu.html)|`2026-10-03 09:25:00`|`Other Games`|
+|[apex HWID ban after switching to Javelin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774968-apex-hwid-ban-switching-javelin.html)|`2026-10-03 09:24:00`|`Apex Legends`|
+|[Releasing my external Linux For Honor tool, because they took away linux support&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774399-releasing-external-linux-honor-tool-linux-support.html)|`2026-10-03 09:12:00`|`Other MMORPG and Strategy`|
+|[MarvelRivals dynamic bones resolver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/769890-marvelrivals-dynamic-bones-resolver.html)|`2026-10-03 09:06:00`|`Marvel Rivals`|
+|[SOCOM U&#46;S NAVY SEALs Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/689014-socom-navy-seals-reversal-structs-offsets.html)|`2026-10-03 08:47:00`|`PlayStation`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-03 08:44:00`|`Counter-Strike 2`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-03 08:28:00`|`Paladins`|
 |[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-10-03 08:27:00`|`Other Games`|
 |[esp drifting and game dropping fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/774908-esp-drifting-game-dropping-fps.html)|`2026-10-03 08:25:00`|`Marvel Rivals`|
