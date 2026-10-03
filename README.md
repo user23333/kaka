@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dungeon Defenders Awakened &#45; Free Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774969-dungeon-defenders-awakened-free-mod-menu.html)|`2026-10-04 04:29:00`|`Other Games`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-10-04 04:27:00`|`Counter-Strike 2 Releases`|
+|[ROTK Bullet Drop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774939-rotk-bullet-drop-external.html)|`2026-10-04 04:20:00`|`H1Z1`|
+|[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-10-04 04:12:00`|`Other MMORPG and Strategy`|
+|[Knife Skinchanger animations not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775042-knife-skinchanger-animations.html)|`2026-10-04 04:10:00`|`Counter-Strike 2`|
+|[Will AI Aimbot work on faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772278-ai-aimbot-faceit.html)|`2026-10-04 04:10:00`|`Counter-Strike 2`|
+|[esp drifting and game dropping fps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/774908-esp-drifting-game-dropping-fps.html)|`2026-10-04 04:05:00`|`Marvel Rivals`|
 |[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-10-04 03:36:00`|`Counter-Strike 2`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-04 03:35:00`|`Counter-Strike 2`|
 |[skybox materals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775019-skybox-materals.html)|`2026-10-04 03:34:00`|`Counter-Strike 2`|
