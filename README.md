@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-10-03 10:35:00`|`Deadlock`|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772573-wardogs-dma-release.html)|`2026-10-03 10:19:00`|`Other FPS Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-03 10:17:00`|`Other FPS Games`|
+|[SCARAB v1&#46;0&#46;0 — 3D Flight, Teleport & Gate Clip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/770120-scarab-v1-0-0-3d-flight-teleport-gate-clip.html)|`2026-10-03 10:17:00`|`Guild Wars 2`|
+|[Web&#45;based game “Dotaoboji” / “Slap Stick Prince”](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774839-web-based-game-dotaoboji-slap-stick-prince.html)|`2026-10-03 10:07:00`|`Other Games`|
 |[Dungeon Defenders Awakened &#45; Free Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774969-dungeon-defenders-awakened-free-mod-menu.html)|`2026-10-03 09:25:00`|`Other Games`|
 |[apex HWID ban after switching to Javelin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774968-apex-hwid-ban-switching-javelin.html)|`2026-10-03 09:24:00`|`Apex Legends`|
 |[Releasing my external Linux For Honor tool, because they took away linux support&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774399-releasing-external-linux-honor-tool-linux-support.html)|`2026-10-03 09:12:00`|`Other MMORPG and Strategy`|
