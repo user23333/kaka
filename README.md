@@ -13,6 +13,7 @@
 |21|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-03 00:37:32`|`h1z1`|
 |25|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-03 05:37:39`|`overwatch`|
 |21|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-03 09:37:42`|`helldivers-2-a`|
+|6|[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-10-03 18:37:42`|`other-single-player-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -48,6 +49,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[chams only working in menu&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774998-chams-menu.html)|`2026-10-03 18:35:00`|`Counter-Strike 2`|
+|[what causes this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775003-causes.html)|`2026-10-03 18:32:00`|`Overwatch`|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-10-03 18:18:00`|`Other MMORPG and Strategy`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-03 18:15:00`|`Other FPS Games`|
 |[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-10-03 17:25:00`|`Rust`|
 |[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-03 17:20:00`|`Other Games`|
 |[Trackmania 2020 CE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774789-trackmania-2020-ce.html)|`2026-10-03 17:16:00`|`Other Games`|
