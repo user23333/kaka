@@ -35,9 +35,25 @@
 |2|[Nenyoo V3 2610&#46;02&#46;1036](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58187)|`2026-10-03 04:37:52`|
 |6|[internal fixed&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58192)|`2026-10-03 05:37:39`|
 |1|[Cyberpunk 2077 2&#46;31 Internal ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58198)|`2026-10-03 13:37:42`|
+|0|[ Fivem spoofer fixall script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58213)|`2026-10-03 14:37:28`|
+|8|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58211)|`2026-10-03 14:37:28`|
+|1|[5&#46;6&#46;1&#45;0&#43;Unknown&#45;JP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58210)|`2026-10-03 14:37:28`|
+|3|[deadlock schemas 03&#46;10&#46;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58209)|`2026-10-03 14:37:28`|
+|1|[arlr3&#46;9&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58208)|`2026-10-03 14:37:28`|
+|1|[DDAModMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58207)|`2026-10-03 14:37:28`|
+|2|[Eterspire Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58205)|`2026-10-03 14:37:28`|
+|8|[TrollWareV1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58204)|`2026-10-03 14:37:28`|
+|2|[lootline 1&#46;2 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58200)|`2026-10-03 14:37:28`|
+|3|[lootline 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58199)|`2026-10-03 14:37:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774956-fivem-spoofer.html)|`2026-10-03 14:34:00`|`Alternative Online Mods`|
+|[DayZ Bible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/774987-dayz-bible.html)|`2026-10-03 14:30:00`|`DayZ SA`|
+|[&#91;Source&#93; T7 Release: patching the RCE &#43; crash exploits hosts use in BO3 lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/764130-source-t7-release-patching-rce-crash-exploits-hosts-bo3-lobbies.html)|`2026-10-03 14:25:00`|`Call of Duty: Black Ops 3`|
+|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-03 14:04:00`|`Deadlock`|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-03 14:02:00`|`Other FPS Games`|
+|[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-10-03 14:01:00`|`ARC Raiders`|
 |[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-03 13:36:00`|`Other Games`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-03 13:34:00`|`Call of Duty: Black Ops 7`|
 |[eac spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774610-eac-spoofer.html)|`2026-10-03 13:33:00`|`Anti-Cheat Research`|
