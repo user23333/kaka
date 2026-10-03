@@ -31,9 +31,18 @@
 |2|[The Crims Bot 03/10/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58217)|`2026-10-04 05:14:19`|
 |1|[WarThunerCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58214)|`2026-10-04 05:14:19`|
 |1|[Bo2 AIO RTE Tool v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58212)|`2026-10-04 05:14:19`|
+|2|[NiceTrainer v1&#46;4&#46;4 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58226)|`2026-10-04 06:37:38`|
+|14|[dcplus&#95;v4&#46;5&#45;pub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58219)|`2026-10-04 06:37:38`|
+|25|[Vantix&#95;changer&#95;V2&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58216)|`2026-10-04 06:37:38`|
+|6|[Brownie &#45; ROTMG Client Binary 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58215)|`2026-10-04 06:37:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-10-04 06:36:00`|`Other MMORPG and Strategy`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-04 06:35:00`|`Paladins`|
+|[auto stop for trigerbot or aimbot external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775101-auto-stop-trigerbot-aimbot-external.html)|`2026-10-04 06:20:00`|`Counter-Strike 2`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-04 06:16:00`|`H1Z1`|
+|[Platform Player](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/769070-platform-player.html)|`2026-10-04 06:13:00`|`Call of Duty: Black Ops 7`|
 |[Latest Release: War Thunder Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774826-release-war-thunder-internal-cheat.html)|`2026-10-04 05:12:00`|`Other MMORPG and Strategy`|
 |[jumpbug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775094-jumpbug.html)|`2026-10-04 05:11:00`|`Counter-Strike 2`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-04 05:09:00`|`Overwatch`|
