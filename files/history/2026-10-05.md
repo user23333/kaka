@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-05 03:37:00`|`Other Games`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-10-05 03:36:00`|`Other Games`|
+|[R6 WORKING 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773042-r6-1pc-makcu-colorbot.html)|`2026-10-05 03:33:00`|`Rainbow Six Siege`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-10-05 03:06:00`|`Call of Duty: Modern Warfare III`|
 |[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-10-05 02:35:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[anyone has a velo paste ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775091-velo-paste.html)|`2026-10-05 02:32:00`|`Counter-Strike 2`|
 |[Samurai Script's for Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775191-samurai-scripts-enhanced-version.html)|`2026-10-05 02:27:00`|`Grand Theft Auto V`|
