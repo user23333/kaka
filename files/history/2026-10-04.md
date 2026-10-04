@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BF6 Javelin zeroing all DMA reads on custom 75T pcileech after ~60s in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/767569-bf6-javelin-zeroing-dma-reads-custom-75t-pcileech-60s-game.html)|`2026-10-04 21:00:00`|`Battlefield 6`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-04 20:47:00`|`Other Games`|
+|[jawsnow, Aimbot, ESP, Aimtrigger :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/746401-jawsnow-aimbot-esp-aimtrigger.html)|`2026-10-04 20:47:00`|`Overwatch`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-04 20:28:00`|`Counter-Strike 2 Releases`|
 |[Ruby Internal V1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/763948-ruby-internal-v1-2-a.html)|`2026-10-04 20:12:00`|`Combat Master`|
 |[ext read only skychanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773820-ext-read-skychanger.html)|`2026-10-04 20:06:00`|`Counter-Strike 2`|
