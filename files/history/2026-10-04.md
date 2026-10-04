@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-10-04 17:34:00`|`Anti-Cheat Research`|
+|[Balltimor ESP Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/759110-balltimor-esp-source.html)|`2026-10-04 17:28:00`|`Apex Legends`|
+|[Packed Stats &#40;Int & Bool&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/578963-packed-stats-int-bool-collection-thread.html)|`2026-10-04 17:26:00`|`Grand Theft Auto V`|
+|[TF2 External&#45;ReadOnly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775100-tf2-external-readonly.html)|`2026-10-04 17:09:00`|`Team Fortress 2`|
 |[what causes this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775003-causes.html)|`2026-10-04 16:36:00`|`Overwatch`|
 |[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-04 16:33:00`|`Alternative Online Mods`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-04 16:15:00`|`THE FINALS`|
