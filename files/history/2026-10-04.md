@@ -35,9 +35,17 @@
 |14|[dcplus&#95;v4&#46;5&#45;pub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58219)|`2026-10-04 06:37:38`|
 |25|[Vantix&#95;changer&#95;V2&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58216)|`2026-10-04 06:37:38`|
 |6|[Brownie &#45; ROTMG Client Binary 5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58215)|`2026-10-04 06:37:38`|
+|0|[DarkHours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58229)|`2026-10-04 11:37:32`|
+|3|[MEWCAM v0&#46;4b&#46;r5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58227)|`2026-10-04 11:37:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-04 11:34:00`|`Tom Clancy's The Division`|
+|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-04 11:30:00`|`Deadlock`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-10-04 11:26:00`|`Other Games`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-04 11:14:00`|`Overwatch`|
+|[Ricochet Anti&#45;Cheat Dump &#40;Anaylsis&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775112-ricochet-anti-cheat-dump-anaylsis.html)|`2026-10-04 11:07:00`|`Call of Duty: Black Ops 7`|
+|[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-04 10:59:00`|`H1Z1`|
 |[ILLUSORITY &#45; undetected knifebot and movement cheat for hns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/758895-illusority-undetected-knifebot-movement-cheat-hns.html)|`2026-10-04 10:30:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-10-04 10:26:00`|`Overwatch`|
 |[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-04 10:16:00`|`Other MMORPG and Strategy`|
