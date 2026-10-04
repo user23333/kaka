@@ -40,6 +40,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-10-04 13:29:00`|`Other FPS Games`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-04 13:27:00`|`Counter-Strike 2`|
+|[Brute Force Crimebound ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773255-brute-force-crimebound-ids.html)|`2026-10-04 13:14:00`|`Payday 3`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-04 13:13:00`|`DayZ SA`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-04 13:10:00`|`Grand Theft Auto V`|
+|[CS2 Internal Chams &#45; Live Player Material Swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775133-cs2-internal-chams-live-player-material-swap.html)|`2026-10-04 13:02:00`|`Counter-Strike 2`|
+|[operation throwback R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774767-operation-throwback-r6.html)|`2026-10-04 12:55:00`|`Rainbow Six Siege`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-10-04 12:53:00`|`Sea of Thieves`|
 |[Want to fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775110-fly.html)|`2026-10-04 12:22:00`|`H1Z1`|
 |[&#91;L4D2&#93; How to bypass sv&#95;pure](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775131-l4d2-bypass-sv_pure.html)|`2026-10-04 12:17:00`|`Other FPS Games`|
 |[Legacy Casino cheat or glitch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775011-legacy-casino-cheat-glitch.html)|`2026-10-04 12:17:00`|`Grand Theft Auto V`|
