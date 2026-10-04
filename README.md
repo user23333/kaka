@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Working in Halo OpenCE &#45; Universal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/775174-halo-opence-universal.html)|`2026-10-04 23:10:00`|`Halo`|
+|[How do you do qs, quick reload, no spread without regging externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/775173-qs-quick-reload-spread-regging-externally.html)|`2026-10-04 23:09:00`|`Sea of Thieves`|
 |[Looking for decent wh/trigger for prem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775167-looking-decent-wh-trigger-prem.html)|`2026-10-04 22:24:00`|`Counter-Strike 2`|
 |[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-04 22:21:00`|`Anti-Cheat Research`|
 |[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-10-04 22:07:00`|`Other Single Player Games`|
