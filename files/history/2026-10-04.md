@@ -40,6 +40,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laggy ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/771961-laggy-esp.html)|`2026-10-04 14:15:00`|`Call of Duty: Black Ops 7`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2026-10-04 14:13:00`|`Call of Duty: Black Ops 6`|
+|[Ground Branch "tool" external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722462-ground-branch-tool-external.html)|`2026-10-04 14:11:00`|`Other FPS Games`|
+|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-04 13:44:00`|`Other Games`|
 |[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-10-04 13:29:00`|`Other FPS Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-04 13:27:00`|`Counter-Strike 2`|
 |[Brute Force Crimebound ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773255-brute-force-crimebound-ids.html)|`2026-10-04 13:14:00`|`Payday 3`|
