@@ -31,9 +31,16 @@
 |3|[WardogsDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58247)|`2026-10-05 15:38:29`|
 |2|[ANOMALY 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58250)|`2026-10-05 18:38:12`|
 |1|[T&#95;LOVE95&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58248)|`2026-10-05 18:38:12`|
+|9|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58253)|`2026-10-05 19:38:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[eac&#95;usermode&#95;9999999&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775267-eac_usermode_9999999-dll.html)|`2026-10-05 19:33:00`|`Anti-Cheat Research`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-05 19:33:00`|`Other FPS Games`|
+|[EAC Identifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775276-eac-identifier.html)|`2026-10-05 19:28:00`|`Anti-Cheat Research`|
+|[Mount & Blade 2 Bannerlord / Bannerlord Online](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/758272-mount-blade-2-bannerlord-bannerlord-online.html)|`2026-10-05 19:26:00`|`Other FPS Games`|
+|[New H1Z1 project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/770053-h1z1-project.html)|`2026-10-05 19:22:00`|`H1Z1`|
+|[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-10-05 19:19:00`|`H1Z1`|
 |[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-10-05 18:22:00`|`Counter-Strike 2`|
 |[Polygon DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775270-polygon-dma.html)|`2026-10-05 18:19:00`|`Other FPS Games`|
 |[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-05 18:12:00`|`H1Z1`|
