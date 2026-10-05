@@ -11,6 +11,7 @@
 |30|[FilterTap &#45; How EAC could already invade your privacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774354-filtertap-eac-invade-privacy.html)|`2026-10-06 00:00:14`|`anti-cheat-research`|
 |30|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-06 00:00:14`|`overwatch`|
 |31|[ROTK ANTICHEAT REMOVAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774612-rotk-anticheat-removal.html)|`2026-10-06 00:00:14`|`h1z1`|
+|8|[Hyperion Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774748-hyperion-disabler.html)|`2026-10-06 02:38:07`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to fix "unknown dinput8&#46;dll" in ROTK Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775337-fix-unknown-dinput8-dll-rotk-launcher.html)|`2026-10-06 02:35:00`|`H1Z1`|
+|[ORMOD: Directive &#45; New survival PVP / PVE game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774975-ormod-directive-survival-pvp-pve-game.html)|`2026-10-06 02:31:00`|`Other FPS Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-06 02:28:00`|`Marvel Rivals`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-06 02:24:00`|`H1Z1`|
+|[Latest Release: War Thunder Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774826-release-war-thunder-internal-cheat.html)|`2026-10-06 02:18:00`|`Other MMORPG and Strategy`|
 |[ROTK ANTICHEAT REMOVAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774612-rotk-anticheat-removal.html)|`2026-10-06 01:34:00`|`H1Z1`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-06 01:30:00`|`Apex Legends`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775205-wardogs-external.html)|`2026-10-06 01:29:00`|`Other FPS Games`|
