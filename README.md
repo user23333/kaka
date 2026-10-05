@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK ANTICHEAT REMOVAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774612-rotk-anticheat-removal.html)|`2026-10-06 01:34:00`|`H1Z1`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-06 01:30:00`|`Apex Legends`|
+|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775205-wardogs-external.html)|`2026-10-06 01:29:00`|`Other FPS Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-06 01:26:00`|`Other FPS Games`|
+|[Rust OpenCV detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775329-rust-opencv-detected.html)|`2026-10-06 01:24:00`|`Rust`|
+|[Beginner to internals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774376-beginner-internals.html)|`2026-10-06 01:22:00`|`Anti-Cheat Research`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-06 01:07:00`|`Other MMORPG and Strategy`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-06 00:37:00`|`Escape from Tarkov`|
 |[Is writing to body rotation completely DT now?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774730-writing-body-rotation-completely-dt.html)|`2026-10-06 00:33:00`|`Rust`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-06 00:32:00`|`Call of Duty: Black Ops 7`|
