@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs DMA Dumper with GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775247-wardogs-dma-dumper-gui.html)|`2026-10-05 13:17:00`|`Other FPS Games`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-05 13:01:00`|`Other MMORPG and Strategy`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-10-05 12:58:00`|`Other FPS Games`|
 |[I can't shoot through the walls&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775218-cant-shoot-walls.html)|`2026-10-05 12:18:00`|`Counter-Strike 2`|
 |[&#91;L4D2&#93;CalcHitChance method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775245-l4d2-calchitchance-method.html)|`2026-10-05 12:06:00`|`Other FPS Games`|
 |[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-10-05 12:01:00`|`Anti-Cheat Research`|
