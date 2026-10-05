@@ -29,6 +29,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[does rust have ban traces?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774977-rust-ban-traces.html)|`2026-10-05 08:45:00`|`Rust`|
 |[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-05 08:09:00`|`Apex Legends`|
 |[ORMOD: Directive &#45; New survival PVP / PVE game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/774975-ormod-directive-survival-pvp-pve-game.html)|`2026-10-05 08:02:00`|`Other FPS Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-05 07:40:00`|`Other FPS Games`|
