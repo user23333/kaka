@@ -35,9 +35,12 @@
 |1|[T&#95;LOVE95&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58248)|`2026-10-05 18:38:12`|
 |9|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58253)|`2026-10-05 19:38:13`|
 |5|[Chadware2 Skin Changer 2026 10 05](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58251)|`2026-10-05 22:38:14`|
+|4|[0157orbwalker&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58256)|`2026-10-05 23:38:14`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Legacy Casino cheat or glitch?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775011-legacy-casino-cheat-glitch.html)|`2026-10-05 23:35:00`|`Grand Theft Auto V`|
+|[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-10-05 23:29:00`|`Paladins`|
 |[jumpbug dont work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775312-jumpbug-dont.html)|`2026-10-05 22:35:00`|`Counter-Strike 2`|
 |[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-05 21:20:00`|`H1Z1`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-05 20:31:00`|`Counter-Strike 2`|
