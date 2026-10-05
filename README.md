@@ -28,9 +28,12 @@
 |2|[neac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58231)|`2026-10-05 06:38:03`|
 |2|[maps&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58244)|`2026-10-05 14:37:57`|
 |1|[MeownyaDMA 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58245)|`2026-10-05 15:02:56`|
+|3|[WardogsDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58247)|`2026-10-05 15:38:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to clean traces after getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775254-clean-traces-getting-banned.html)|`2026-10-05 15:35:00`|`Marvel Rivals`|
+|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775205-wardogs-external.html)|`2026-10-05 15:35:00`|`Other FPS Games`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-05 15:02:00`|`Counter-Strike 2 Releases`|
 |[Reforger DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/768421-reforger-dma.html)|`2026-10-05 14:44:00`|`ARMA 3`|
 |[mhypbase&#46;dll error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/775251-mhypbase-dll-error.html)|`2026-10-05 14:32:00`|`Genshin Impact`|
