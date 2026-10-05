@@ -32,6 +32,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pathetic Noobie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/774627-pathetic-noobie.html)|`2026-10-05 15:42:00`|`Off Topic`|
 |[How to clean traces after getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775254-clean-traces-getting-banned.html)|`2026-10-05 15:35:00`|`Marvel Rivals`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775205-wardogs-external.html)|`2026-10-05 15:35:00`|`Other FPS Games`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-05 15:02:00`|`Counter-Strike 2 Releases`|
