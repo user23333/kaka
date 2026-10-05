@@ -29,9 +29,14 @@
 |2|[maps&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58244)|`2026-10-05 14:37:57`|
 |1|[MeownyaDMA 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58245)|`2026-10-05 15:02:56`|
 |3|[WardogsDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58247)|`2026-10-05 15:38:29`|
+|2|[ANOMALY 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58250)|`2026-10-05 18:38:12`|
+|1|[T&#95;LOVE95&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58248)|`2026-10-05 18:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-10-05 18:22:00`|`Counter-Strike 2`|
+|[Polygon DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775270-polygon-dma.html)|`2026-10-05 18:19:00`|`Other FPS Games`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-05 18:12:00`|`H1Z1`|
 |[ROTK ANTICHEAT REMOVAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774612-rotk-anticheat-removal.html)|`2026-10-05 17:32:00`|`H1Z1`|
 |[Rush Mode Room Positions for Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773462-rush-mode-positions-radar.html)|`2026-10-05 17:24:00`|`Counter-Strike 2`|
 |[Pathetic Noobie](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/774627-pathetic-noobie.html)|`2026-10-05 15:42:00`|`Off Topic`|
