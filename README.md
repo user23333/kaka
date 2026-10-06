@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-06 11:36:00`|`ARC Raiders`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-06 11:16:00`|`Other FPS Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-10-06 11:04:00`|`Rust`|
+|[FNAF Online Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/775390-fnaf-online-multiplayer.html)|`2026-10-06 11:03:00`|`Cheat Engine Tables`|
 |[Will AI Aimbot work on faceit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772278-ai-aimbot-faceit.html)|`2026-10-06 10:49:00`|`Counter-Strike 2`|
 |[DayZ Bible](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/774987-dayz-bible.html)|`2026-10-06 10:38:00`|`DayZ SA`|
 |[Skyrim Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/773881-skyrim-featured-external.html)|`2026-10-06 10:36:00`|`Other MMORPG and Strategy`|
