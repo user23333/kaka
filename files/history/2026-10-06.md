@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/775381-offsets.html)|`2026-10-06 08:37:00`|`Combat Master`|
+|[Looking for help: NBA 2K27 DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775380-looking-help-nba-2k27-dma-cheat.html)|`2026-10-06 08:24:00`|`Other Games`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-10-06 08:18:00`|`Other FPS Games`|
 |[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-10-06 07:27:00`|`ARC Raiders`|
 |[TaeKwonDoe's Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/774195-taekwondoes-internal-menu.html)|`2026-10-06 07:25:00`|`Team Fortress 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-06 07:25:00`|`Rust`|
