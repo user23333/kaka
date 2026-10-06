@@ -38,9 +38,14 @@
 |3|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58260)|`2026-10-06 17:37:58`|
 |1|[Tf2&#45;Cheat&#45;External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58258)|`2026-10-06 17:37:58`|
 |1|[Fivem Free DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58257)|`2026-10-06 17:37:58`|
+|2|[RON CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58271)|`2026-10-06 18:17:48`|
+|1|[BL4Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58270)|`2026-10-06 18:17:48`|
+|1|[TF2 Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58268)|`2026-10-06 18:17:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-06 18:08:00`|`Payday 2`|
+|[How to Fish &#45; Tacklebox v2&#46;6 Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770123-fish-tacklebox-v2-6-cheat-menu.html)|`2026-10-06 18:03:00`|`Other FPS Games`|
 |[Permafrost Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775389-permafrost-internal.html)|`2026-10-06 17:37:00`|`Other MMORPG and Strategy`|
 |[Jitter Aim with 2pc or VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775410-jitter-aim-2pc-vm.html)|`2026-10-06 17:36:00`|`Apex Legends`|
 |[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-10-06 17:35:00`|`Team Fortress 2`|
