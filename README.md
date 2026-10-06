@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-07 06:35:00`|`Rainbow Six Siege`|
+|[Javelin CR3 acquire DMA, Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775315-javelin-cr3-acquire-dma-driver.html)|`2026-10-07 06:33:00`|`Apex Legends`|
+|[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-10-07 06:33:00`|`Overwatch`|
+|[eac&#95;usermode&#95;9999999&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775267-eac_usermode_9999999-dll.html)|`2026-10-07 06:32:00`|`Anti-Cheat Research`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-07 06:32:00`|`Other FPS Games`|
 |[Archive of GameAssembly's and Metadatas](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775370-archive-gameassemblys-metadatas.html)|`2026-10-07 05:34:00`|`Rust`|
 |[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-07 05:33:00`|`Deadlock`|
 |[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-10-07 05:16:00`|`Other MMORPG and Strategy`|
