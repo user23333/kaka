@@ -31,9 +31,20 @@
 |5|[RotkInternalV3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58264)|`2026-10-06 14:38:12`|
 |1|[Bugtopia v3&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58255)|`2026-10-06 14:38:12`|
 |1|[Bugtopia Launcher v3&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58254)|`2026-10-06 14:38:12`|
+|1|[Permafrost Internal 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58267)|`2026-10-06 17:37:58`|
+|1|[le&#95;helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58266)|`2026-10-06 17:37:58`|
+|1|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58265)|`2026-10-06 17:37:58`|
+|2|[BAD&#45;v2&#46;3&#46;2&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58263)|`2026-10-06 17:37:58`|
+|3|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58260)|`2026-10-06 17:37:58`|
+|1|[Tf2&#45;Cheat&#45;External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58258)|`2026-10-06 17:37:58`|
+|1|[Fivem Free DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58257)|`2026-10-06 17:37:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Permafrost Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775389-permafrost-internal.html)|`2026-10-06 17:37:00`|`Other MMORPG and Strategy`|
+|[Jitter Aim with 2pc or VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775410-jitter-aim-2pc-vm.html)|`2026-10-06 17:36:00`|`Apex Legends`|
+|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-10-06 17:35:00`|`Team Fortress 2`|
+|[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-06 17:34:00`|`Unity`|
 |[Rust internal question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774530-rust-internal-question.html)|`2026-10-06 16:38:00`|`Rust`|
 |[Avoiding VAC detection when hooking functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775221-avoiding-vac-detection-hooking-functions.html)|`2026-10-06 16:32:00`|`Counter-Strike 2`|
 |[particles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775406-particles.html)|`2026-10-06 16:30:00`|`Counter-Strike 2`|
