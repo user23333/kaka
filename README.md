@@ -12,6 +12,7 @@
 |9|[Hyperion Disabler](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774748-hyperion-disabler.html)|`2026-10-07 01:11:34`|`anti-cheat-research`|
 |21|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-07 01:11:34`|`h1z1`|
 |27|[Show me the ROTK cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774458-rotk-cheat-menu.html)|`2026-10-07 05:38:06`|`h1z1`|
+|15|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-07 07:38:02`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-07 07:23:00`|`Counter-Strike 2 Releases`|
+|[velocity&#46;cat source &#91;selfleak&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/765027-velocity-cat-source-selfleak.html)|`2026-10-07 07:21:00`|`Counter-Strike 2 Releases`|
+|[question about drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775412-question-drivers.html)|`2026-10-07 07:19:00`|`Rust`|
+|[Last Epoch Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775383-epoch-helper.html)|`2026-10-07 07:16:00`|`Other MMORPG and Strategy`|
+|[Stan's ROTK Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773452-stans-rotk-internal.html)|`2026-10-07 07:13:00`|`H1Z1`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-07 07:12:00`|`Other FPS Games`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-07 06:35:00`|`Rainbow Six Siege`|
 |[Javelin CR3 acquire DMA, Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775315-javelin-cr3-acquire-dma-driver.html)|`2026-10-07 06:33:00`|`Apex Legends`|
 |[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-10-07 06:33:00`|`Overwatch`|
