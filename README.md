@@ -28,9 +28,14 @@
 |79|[wd&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58243)|`2026-10-06 00:00:14`|
 |141|[Minecraft Dungeons II Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58241)|`2026-10-06 00:00:14`|
 |3|[Rust 2026 reversal assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58262)|`2026-10-06 07:38:10`|
+|5|[RotkInternalV3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58264)|`2026-10-06 14:38:12`|
+|1|[Bugtopia v3&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58255)|`2026-10-06 14:38:12`|
+|1|[Bugtopia Launcher v3&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58254)|`2026-10-06 14:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-06 14:37:00`|`Other Games`|
+|[Show me the ROTK cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774458-rotk-cheat-menu.html)|`2026-10-06 13:43:00`|`H1Z1`|
 |[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-10-06 13:37:00`|`Other Games`|
 |[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-10-06 13:25:00`|`Counter-Strike 2`|
 |[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-10-06 13:11:00`|`Farlight 84`|
