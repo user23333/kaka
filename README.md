@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-10-06 13:37:00`|`Other Games`|
+|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-10-06 13:25:00`|`Counter-Strike 2`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-10-06 13:11:00`|`Farlight 84`|
 |[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-06 12:34:00`|`H1Z1`|
 |[The Outlast Trials &#45; PAK Mods Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771274-outlast-trials-pak-mods-bypass.html)|`2026-10-06 12:05:00`|`Other Games`|
 |[About Apex coordinate encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775394-apex-coordinate-encryption.html)|`2026-10-06 12:01:00`|`Apex Legends`|
