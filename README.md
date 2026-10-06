@@ -43,9 +43,15 @@
 |1|[TF2 Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58268)|`2026-10-06 18:17:48`|
 |1|[Charcoal &#45; ground branch menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58272)|`2026-10-06 19:38:09`|
 |2|[The Crims Bot v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58275)|`2026-10-06 21:38:15`|
+|1|[Permafrost Internal 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58277)|`2026-10-06 22:38:26`|
+|2|[RON CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58276)|`2026-10-06 22:38:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-06 22:37:00`|`Other Games`|
+|[anything for halo infinite?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/771734-halo-infinite.html)|`2026-10-06 22:28:00`|`Halo`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-06 22:27:00`|`Genshin Impact`|
+|[COD WWII Loadout Editor and Unlocker for Local Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775331-cod-wwii-loadout-editor-unlocker-local-play.html)|`2026-10-06 22:24:00`|`Other Games`|
 |[FragPunk Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/666506-fragpunk-reversal-structs-offsets.html)|`2026-10-06 21:30:00`|`Other FPS Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-06 21:00:00`|`DayZ SA`|
 |[How did you get into this?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/770101-how-did-you-get-into-this.html)|`2026-10-06 20:57:00`|`Forum General`|
