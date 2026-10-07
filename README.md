@@ -29,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FREE CONSOLE SPAM EXPLOIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/775318-free-console-spam-exploit.html)|`2026-10-07 10:28:00`|`Roblox`|
+|[The driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/775454-driver.html)|`2026-10-07 10:23:00`|`ARC Raiders`|
+|[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-07 10:22:00`|`H1Z1`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-10-07 10:22:00`|`Grand Theft Auto V`|
 |[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/773877-wardogs-web-radar.html)|`2026-10-07 09:20:00`|`Wardogs`|
 |[AntiCheatExpert Devirtualized](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764984-anticheatexpert-devirtualized.html)|`2026-10-07 09:20:00`|`Anti-Cheat Research`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-07 09:18:00`|`Counter-Strike 2`|
