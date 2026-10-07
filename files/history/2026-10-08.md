@@ -12,6 +12,7 @@
 |12|[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-08 00:29:00`|`anti-cheat-research`|
 |9|[Deadlock VAC internals — reversed detection surface &#43; HWID pipeline &#40;steamclient64&#46;dl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774595-deadlock-vac-internals-reversed-detection-surface-hwid-pipeline-steamclient64-dl.html)|`2026-10-08 00:29:00`|`deadlock`|
 |5|[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-08 01:38:10`|`apex-legends`|
+|20|[internal cheat fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774903-internal-cheat-fixed.html)|`2026-10-08 04:38:37`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,15 @@
 |1|[tlntd&#46;jar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58289)|`2026-10-08 00:29:00`|
 |51|[patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58287)|`2026-10-08 00:29:00`|
 |136|[1&#46;2&#46;0&#46;47888&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58282)|`2026-10-08 00:29:00`|
+|2|[Internal &#40;1&#41;&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58283)|`2026-10-08 04:38:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone have the offsets for the ZEMU server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775353-offsets-zemu-server.html)|`2026-10-08 04:32:00`|`H1Z1`|
+|[ROTK Launcher Bypass &#45; Self&#45;Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774493-rotk-launcher-bypass-self-updating.html)|`2026-10-08 04:30:00`|`H1Z1`|
+|[Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775647-overlay.html)|`2026-10-08 04:28:00`|`Apex Legends`|
+|[Dead by Daylight Entrypoint Patcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770626-dead-daylight-entrypoint-patcher.html)|`2026-10-08 04:22:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-08 04:20:00`|`Call of Duty: Black Ops 7`|
 |[In Memory of KIDDIONS Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775545-memory-kiddions-mod-menu.html)|`2026-10-08 03:37:00`|`Grand Theft Auto V`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-08 03:31:00`|`Apex Legends`|
 |[griffin virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775639-griffin-virtualization.html)|`2026-10-08 03:22:00`|`Anti-Cheat Research`|
