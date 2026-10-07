@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hyper&#45;reV &#45; memory introspection &#43; reverse engineering powered by leveraging Hyper&#45;V](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/709634-hyper-rev-memory-introspection-reverse-engineering-powered-leveraging-hyper.html)|`2026-10-07 20:29:00`|`Anti-Cheat Research`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-07 20:27:00`|`Other FPS Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-07 20:24:00`|`Other Games`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-07 20:22:00`|`Payday 2`|
+|[Ark Survival Ascended Internal/External?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773300-ark-survival-ascended-internal-external.html)|`2026-10-07 20:20:00`|`Other FPS Games`|
 |[Want to fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775110-fly.html)|`2026-10-07 19:27:00`|`H1Z1`|
 |[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-10-07 19:18:00`|`H1Z1`|
 |[rotk hwid bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773626-rotk-hwid-bypass.html)|`2026-10-07 19:17:00`|`H1Z1`|
