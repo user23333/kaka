@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Want to fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775110-fly.html)|`2026-10-07 19:27:00`|`H1Z1`|
+|[How to Update External for ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773259-update-external-rotk.html)|`2026-10-07 19:18:00`|`H1Z1`|
+|[rotk hwid bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/773626-rotk-hwid-bypass.html)|`2026-10-07 19:17:00`|`H1Z1`|
+|[how to disable new rotk AC &#40;rotkc&#46;dll&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774535-disable-rotk-ac-rotkc-dll.html)|`2026-10-07 19:16:00`|`H1Z1`|
+|[New ROTKc&#46;dll Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775257-rotkc-dll-bypass.html)|`2026-10-07 19:15:00`|`H1Z1`|
+|[Jitter Aim with 2pc or VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775410-jitter-aim-2pc-vm.html)|`2026-10-07 19:09:00`|`Apex Legends`|
 |[CS2 Skin Changer — Holo / Foil / Glitter Variants](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775196-cs2-skin-changer-holo-foil-glitter-variants.html)|`2026-10-07 18:28:00`|`Counter-Strike 2`|
 |[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-10-07 18:26:00`|`Genshin Impact`|
 |[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-10-07 17:20:00`|`ARC Raiders`|
