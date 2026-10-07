@@ -15,6 +15,7 @@
 |15|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-07 07:38:02`|`deadlock`|
 |12|[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-07 13:38:27`|`anti-cheat-research`|
 |25|[ROTK 2&#46;0&#46;31 BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775473-rotk-2-0-31-bypass.html)|`2026-10-07 22:37:59`|`h1z1`|
+|9|[Deadlock VAC internals — reversed detection surface &#43; HWID pipeline &#40;steamclient64&#46;dl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774595-deadlock-vac-internals-reversed-detection-surface-hwid-pipeline-steamclient64-dl.html)|`2026-10-07 23:38:17`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,9 +32,15 @@
 |4|[NiceTrainer v1&#46;4&#46;5 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58290)|`2026-10-07 21:38:00`|
 |1|[tlntd&#46;jar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58289)|`2026-10-07 21:38:00`|
 |17|[patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58287)|`2026-10-07 21:38:00`|
+|2|[dump&#95;il2cpp&#43;js&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58295)|`2026-10-07 23:38:17`|
+|1|[src&#95;main&#46;bundle&#46;mjs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58294)|`2026-10-07 23:38:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Simple external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775324-simple-external-esp.html)|`2026-10-07 23:35:00`|`Call of Duty: Black Ops 7`|
+|[does rust have ban traces?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774977-rust-ban-traces.html)|`2026-10-07 23:29:00`|`Rust`|
+|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-07 23:16:00`|`Other MMORPG and Strategy`|
+|[VITTLOCK INTERNAL &#124; Lots of Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/746684-vittlock-internal-lots-features.html)|`2026-10-07 23:12:00`|`Deadlock`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-07 22:36:00`|`ARC Raiders`|
 |[Arma 3 Internal DX11 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/772263-arma-3-internal-dx11-esp.html)|`2026-10-07 22:27:00`|`ARMA 3`|
 |[Need Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775549-menu.html)|`2026-10-07 22:26:00`|`H1Z1`|
