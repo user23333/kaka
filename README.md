@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-07 11:16:00`|`Other FPS Games`|
+|[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-07 11:14:00`|`Alternative Online Mods`|
+|[War of Genesis Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775440-war-genesis-idle-loot.html)|`2026-10-07 11:06:00`|`Other Games`|
 |[FREE CONSOLE SPAM EXPLOIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/775318-free-console-spam-exploit.html)|`2026-10-07 10:28:00`|`Roblox`|
 |[The driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/775454-driver.html)|`2026-10-07 10:23:00`|`ARC Raiders`|
 |[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-07 10:22:00`|`H1Z1`|
