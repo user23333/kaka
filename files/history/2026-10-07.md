@@ -14,6 +14,7 @@
 |27|[Show me the ROTK cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774458-rotk-cheat-menu.html)|`2026-10-07 05:38:06`|`h1z1`|
 |15|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-07 07:38:02`|`deadlock`|
 |12|[kernel code execution any AC &#40;but without VBS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774551-kernel-code-execution-ac-vbs.html)|`2026-10-07 13:38:27`|`anti-cheat-research`|
+|25|[ROTK 2&#46;0&#46;31 BYPASS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775473-rotk-2-0-31-bypass.html)|`2026-10-07 22:37:59`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-07 22:36:00`|`ARC Raiders`|
+|[Arma 3 Internal DX11 ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/772263-arma-3-internal-dx11-esp.html)|`2026-10-07 22:27:00`|`ARMA 3`|
+|[Need Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775549-menu.html)|`2026-10-07 22:26:00`|`H1Z1`|
+|[Deskrawl: Idle ARPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/758726-deskrawl-idle-arpg.html)|`2026-10-07 22:26:00`|`Cheat Engine Tables`|
+|[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-10-07 22:24:00`|`Counter-Strike 2 Releases`|
 |[skybox materals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775019-skybox-materals.html)|`2026-10-07 21:37:00`|`Counter-Strike 2`|
 |[ROTK patched client & ac loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775441-rotk-patched-client-ac-loader.html)|`2026-10-07 21:31:00`|`H1Z1`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-07 21:25:00`|`Wardogs`|
