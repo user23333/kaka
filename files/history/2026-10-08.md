@@ -28,9 +28,17 @@
 |51|[patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58287)|`2026-10-08 00:29:00`|
 |136|[1&#46;2&#46;0&#46;47888&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58282)|`2026-10-08 00:29:00`|
 |2|[Internal &#40;1&#41;&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58283)|`2026-10-08 04:38:37`|
+|1|[Enki&#45;proton injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58300)|`2026-10-08 07:38:04`|
+|2|[Nightmare &#45; Free FiveM Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58297)|`2026-10-08 07:38:04`|
+|1|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58293)|`2026-10-08 07:38:04`|
+|1|[Hellraiser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58292)|`2026-10-08 07:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-10-08 07:29:00`|`Tom Clancy's The Division`|
+|[Smart proton injector for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/775529-smart-proton-injector-linux.html)|`2026-10-08 07:29:00`|`Programming for Beginners`|
+|[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-08 07:26:00`|`Alternative Online Mods`|
+|[Clive Barker's Hellraiser: Revival Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775495-clive-barkers-hellraiser-revival-internal.html)|`2026-10-08 07:24:00`|`Other Single Player Games`|
 |[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-08 06:33:00`|`H1Z1`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-08 06:24:00`|`Counter-Strike 2`|
 |[How do you do qs, quick reload, no spread without regging externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/775173-qs-quick-reload-spread-regging-externally.html)|`2026-10-08 06:24:00`|`Sea of Thieves`|
