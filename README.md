@@ -13,6 +13,7 @@
 |9|[Deadlock VAC internals — reversed detection surface &#43; HWID pipeline &#40;steamclient64&#46;dl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774595-deadlock-vac-internals-reversed-detection-surface-hwid-pipeline-steamclient64-dl.html)|`2026-10-08 00:29:00`|`deadlock`|
 |5|[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-08 01:38:10`|`apex-legends`|
 |20|[internal cheat fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774903-internal-cheat-fixed.html)|`2026-10-08 04:38:37`|`overwatch`|
+|18|[EAC Identifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775276-eac-identifier.html)|`2026-10-08 05:38:11`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot missing more while dt enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775633-ragebot-missing-dt-enabled.html)|`2026-10-08 05:34:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-08 05:34:00`|`Apex Legends`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-08 05:30:00`|`Genshin Impact`|
+|[Want to fly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775110-fly.html)|`2026-10-08 05:29:00`|`H1Z1`|
+|[CheatLock &#124; Aimbot &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774982-cheatlock-aimbot-silent-aim-esp.html)|`2026-10-08 05:19:00`|`Deadlock`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-08 05:10:00`|`Other MMORPG and Strategy`|
+|[DMA &#40;still working on it&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/763285-dma.html)|`2026-10-08 05:06:00`|`Overwatch`|
+|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-08 04:58:00`|`Overwatch`|
 |[Does anyone have the offsets for the ZEMU server?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775353-offsets-zemu-server.html)|`2026-10-08 04:32:00`|`H1Z1`|
 |[ROTK Launcher Bypass &#45; Self&#45;Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774493-rotk-launcher-bypass-self-updating.html)|`2026-10-08 04:30:00`|`H1Z1`|
 |[Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775647-overlay.html)|`2026-10-08 04:28:00`|`Apex Legends`|
