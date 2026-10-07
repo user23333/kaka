@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-08 06:33:00`|`H1Z1`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-08 06:24:00`|`Counter-Strike 2`|
+|[How do you do qs, quick reload, no spread without regging externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/775173-qs-quick-reload-spread-regging-externally.html)|`2026-10-08 06:24:00`|`Sea of Thieves`|
+|[apewar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775650-apewar-cheat.html)|`2026-10-08 06:09:00`|`Other FPS Games`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-08 06:08:00`|`Payday 2`|
 |[Possible detection point](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775491-detection.html)|`2026-10-08 05:52:00`|`Counter-Strike 2`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-08 05:52:00`|`Rainbow Six Siege`|
 |[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-10-08 05:51:00`|`Unity`|
