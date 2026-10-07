@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[In Memory of KIDDIONS Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775545-memory-kiddions-mod-menu.html)|`2026-10-08 03:37:00`|`Grand Theft Auto V`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-08 03:31:00`|`Apex Legends`|
+|[griffin virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775639-griffin-virtualization.html)|`2026-10-08 03:22:00`|`Anti-Cheat Research`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-08 03:17:00`|`Paladins`|
+|[unlock spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775611-unlock-spectating.html)|`2026-10-08 03:17:00`|`Counter-Strike 2`|
+|[What does javelin do with Apexs CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775524-javelin-apexs-cr3.html)|`2026-10-08 03:15:00`|`Apex Legends`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-08 02:36:00`|`Grand Theft Auto V`|
 |[Shinoko&#45;Aniimo &#91;Aniimo Chetoo&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772345-shinoko-aniimo-aniimo-chetoo.html)|`2026-10-08 02:29:00`|`Other MMORPG and Strategy`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-08 02:26:00`|`ARC Raiders`|
