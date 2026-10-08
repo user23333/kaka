@@ -46,6 +46,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-08 14:20:00`|`Other Games`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-10-08 14:14:00`|`Other FPS Games`|
+|[Echo&#46;ac Anticheat Research & Bypass Documentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775222-echo-ac-anticheat-research-bypass-documentation.html)|`2026-10-08 14:09:00`|`Anti-Cheat Research`|
+|[FOV Changer without decryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/732422-fov-changer-decryption.html)|`2026-10-08 13:57:00`|`Rust`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-10-08 13:55:00`|`Other FPS Games`|
 |[PnP Device Instance ID / Hardware ID Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768083-pnp-device-instance-id-hardware-id-manipulation.html)|`2026-10-08 13:36:00`|`Anti-Cheat Research`|
 |[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-10-08 13:26:00`|`ARC Raiders`|
 |[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-10-08 13:13:00`|`Other FPS Games`|
