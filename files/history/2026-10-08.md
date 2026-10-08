@@ -52,6 +52,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Building External Rust Visibility from PhysX: Collision Caching, BVHs, and Tri&#45;State](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775729-building-external-rust-visibility-physx-collision-caching-bvhs-tri.html)|`2026-10-08 19:33:00`|`Rust`|
+|[Reversing UnityPlayer PhysX Externally: Finding Scenes, Shapes, Pruners, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775728-reversing-unityplayer-physx-externally-finding-scenes-shapes-pruners-offsets.html)|`2026-10-08 19:30:00`|`Rust`|
 |[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-08 18:21:00`|`Other MMORPG and Strategy`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-08 18:17:00`|`Overwatch`|
 |[Reversing with AI Agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775718-reversing-ai-agents.html)|`2026-10-08 18:15:00`|`Anti-Cheat Research`|
