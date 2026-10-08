@@ -11,6 +11,7 @@
 |20|[Reversing rotkc&#46;dll &#45; HWID, RAC1 handshake, bytecode VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775356-reversing-rotkc-dll-hwid-rac1-handshake-bytecode-vm.html)|`2026-10-09 00:28:31`|`h1z1`|
 |12|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-09 00:28:31`|`wardogs`|
 |20|[internal cheat fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774903-internal-cheat-fixed.html)|`2026-10-09 00:28:31`|`overwatch`|
+|15|[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-09 01:38:12`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-09 01:36:00`|`ARC Raiders`|
+|[Physx external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775786-physx-external.html)|`2026-10-09 01:36:00`|`H1Z1`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-09 01:36:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-09 01:32:00`|`Rust`|
+|[Is your &#46;data section detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775780-data-section-detected.html)|`2026-10-09 01:32:00`|`Anti-Cheat Research`|
+|[Help inject menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775787-help-inject-menu.html)|`2026-10-09 01:32:00`|`H1Z1`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-09 01:31:00`|`Red Dead Redemption 2`|
 |[Staying undetected on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775634-staying-undetected-eac.html)|`2026-10-09 00:26:00`|`Anti-Cheat Research`|
 |[Reversing with AI Agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775718-reversing-ai-agents.html)|`2026-10-09 00:25:00`|`Anti-Cheat Research`|
 |[How do you use AI?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/762919-ai.html)|`2026-10-09 00:25:00`|`Forum General`|
