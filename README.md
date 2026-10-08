@@ -54,6 +54,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Muse Spark &#40;ai&#41; is Insanely Good at Runtime and Static Reverse Engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/770208-muse-spark-ai-insanely-runtime-static-reverse-engineering.html)|`2026-10-08 23:29:00`|`General Programming and Reversing`|
+|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-08 23:23:00`|`Counter-Strike 2`|
+|[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-10-08 23:20:00`|`Phasmophobia`|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-08 23:15:00`|`ARC Raiders`|
+|[&#91;EPIC&#93; Among Us Player Role Reader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/729482-epic-player-role-reader.html)|`2026-10-08 23:14:00`|`Among Us`|
 |[Cold War GSC Mod Menu &#91;The Lucy Menu&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/717858-cold-war-gsc-mod-menu-lucy-menu.html)|`2026-10-08 22:35:00`|`Call of Duty: Black Ops Cold War`|
 |[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-10-08 21:29:00`|`Other Games`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-08 21:23:00`|`Counter-Strike 2 Releases`|
