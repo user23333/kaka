@@ -28,9 +28,22 @@
 |7|[Epic OnlineServices Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58311)|`2026-10-09 00:28:31`|
 |52|[Dumper&#45;7&#45;&#40;Arion2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58309)|`2026-10-09 00:28:31`|
 |1|[WardogsClient decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58330)|`2026-10-09 02:38:04`|
+|5|[Drizzy&#45;Rendering&#45;Libary&#45;main&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58332)|`2026-10-09 04:38:10`|
+|0|[unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58331)|`2026-10-09 04:38:10`|
+|1|[The Crims Bot v1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58328)|`2026-10-09 04:38:10`|
+|1|[5&#46;7&#46;4&#45;541007&#43;&#43;&#43;Ravage&#43;rel&#95;1&#46;1&#46;0&#45;Ravage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58327)|`2026-10-09 04:38:10`|
+|2|[TarkovAddons32](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58323)|`2026-10-09 04:38:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-09 04:36:00`|`Escape from Tarkov`|
+|[Overflow Issue during MVP dll Lagger Server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775819-overflow-issue-mvp-dll-lagger-server.html)|`2026-10-09 04:36:00`|`Counter-Strike 2`|
+|[Apex Legends Esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775818-apex-legends-esp.html)|`2026-10-09 04:35:00`|`Apex Legends`|
+|[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-10-09 04:34:00`|`Team Fortress 2`|
+|[Rejoin/Antikick after Last Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775817-rejoin-antikick-update.html)|`2026-10-09 04:33:00`|`Counter-Strike 2`|
+|[RushUp Full Inventory / Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775528-rushup-inventory-skin-changer.html)|`2026-10-09 04:33:00`|`Counter-Strike 2`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-10-09 04:26:00`|`Other Games`|
+|[R6 AI Aim using C&#43;&#43; DirectML Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/755508-r6-ai-aim-using-directml-updated.html)|`2026-10-09 04:09:00`|`Rainbow Six Siege`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-09 03:33:00`|`Wardogs`|
 |[Entity List ROTK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775811-entity-list-rotk.html)|`2026-10-09 03:27:00`|`H1Z1`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-09 03:24:00`|`Counter-Strike 2 Releases`|
