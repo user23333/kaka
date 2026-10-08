@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-10-08 09:32:00`|`Other Games`|
+|[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2026-10-08 09:16:00`|`Other Games`|
+|[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-08 09:14:00`|`Anti-Cheat Research`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-08 09:10:00`|`Overwatch`|
 |[Nulvex Internal/Lua Executor x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775617-nulvex-internal-lua-executor-x86-x64.html)|`2026-10-08 08:25:00`|`Garry's Mod`|
 |[Any tips for using YimMenu v2 in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775262-tips-using-yimmenu-v2-enhanced.html)|`2026-10-08 08:22:00`|`Grand Theft Auto V`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-08 08:20:00`|`Call of Duty: Black Ops 7`|
