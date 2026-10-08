@@ -46,6 +46,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PnP Device Instance ID / Hardware ID Manipulation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768083-pnp-device-instance-id-hardware-id-manipulation.html)|`2026-10-08 13:36:00`|`Anti-Cheat Research`|
+|[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-10-08 13:26:00`|`ARC Raiders`|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-10-08 13:13:00`|`Other FPS Games`|
 |[TraceShape not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746533-traceshape-properly.html)|`2026-10-08 12:30:00`|`Counter-Strike 2`|
 |[ANYONE GOT A ESP/AIMBOT/RADAR FOR ROS LEGACY?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ros-releases/775055-esp-aimbot-radar-ros-legacy.html)|`2026-10-08 12:21:00`|`RoS Releases`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-08 12:02:00`|`Marvel Rivals`|
