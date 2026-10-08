@@ -52,6 +52,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-08 17:27:00`|`Counter-Strike 2`|
+|[War of Genesis Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775440-war-genesis-idle-loot.html)|`2026-10-08 17:26:00`|`Other Games`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-08 17:09:00`|`Counter-Strike 2`|
 |[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-10-08 16:42:00`|`Other MMORPG and Strategy`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-10-08 16:27:00`|`Counter-Strike 2 Releases`|
 |[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-08 16:25:00`|`Unity`|
