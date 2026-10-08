@@ -46,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-10-08 10:37:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-08 10:25:00`|`Other FPS Games`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-08 10:22:00`|`THE FINALS`|
+|[Reversing rotkc&#46;dll &#45; HWID, RAC1 handshake, bytecode VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775356-reversing-rotkc-dll-hwid-rac1-handshake-bytecode-vm.html)|`2026-10-08 10:13:00`|`H1Z1`|
+|[Hello everyone&#33; New member here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/775670-hello.html)|`2026-10-08 10:13:00`|`CounterStrike Source`|
+|[Custom shader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775683-custom-shader.html)|`2026-10-08 10:10:00`|`Counter-Strike 2`|
 |[&#91;WIP&#93; Bombanana Cheat – Would Anyone Be Interested?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775681-wip-bombanana-cheat.html)|`2026-10-08 09:46:00`|`Other Games`|
 |[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-10-08 09:32:00`|`Other Games`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2026-10-08 09:16:00`|`Other Games`|
