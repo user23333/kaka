@@ -43,9 +43,17 @@
 |2|[SHAPE Ext v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58338)|`2026-10-09 06:04:44`|
 |3|[AoE2 DE &#45; Counter Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58337)|`2026-10-09 06:04:44`|
 |1|[gtfo&#45;dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58339)|`2026-10-09 06:38:07`|
+|1|[th&#95;spawn&#95;menu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58343)|`2026-10-09 07:38:01`|
+|6|[ukayloadpublicversion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58342)|`2026-10-09 07:38:01`|
+|9|[HD2 ED Reforged v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58341)|`2026-10-09 07:38:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Partial Tick & External Raycasting &#40;PhysX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775825-partial-tick-external-raycasting-physx.html)|`2026-10-09 07:30:00`|`H1Z1`|
+|[Animal Bone Enum Lists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762697-animal-bone-enum-lists.html)|`2026-10-09 07:22:00`|`Rust`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-09 07:14:00`|`Counter-Strike 2`|
+|[theHunter: Call of the Wild &#45; Spawn Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775840-thehunter-call-wild-spawn-menu.html)|`2026-10-09 07:14:00`|`Other FPS Games`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-09 07:07:00`|`Other MMORPG and Strategy`|
 |[GTFO Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775836-gtfo-reversal.html)|`2026-10-09 06:28:00`|`Other FPS Games`|
 |[Training a model that reads x86&#45;64 assembly and names stripped functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/775838-training-model-reads-x86-64-assembly-names-stripped-functions.html)|`2026-10-09 06:24:00`|`Assembly`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-09 06:21:00`|`Marvel Rivals`|
