@@ -15,6 +15,7 @@
 |5|[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-09 02:38:04`|`apex-legends`|
 |7|[Deadlock Overlay — ESP, Snap/Silent Aim & Sandbox Headshot Stats &#124; Build 6731](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774850-deadlock-overlay-esp-snap-silent-aim-sandbox-headshot-stats-build-6731-a.html)|`2026-10-09 03:38:05`|`deadlock`|
 |13|[ROTK Bullet Drop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774939-rotk-bullet-drop-external.html)|`2026-10-09 05:38:10`|`h1z1`|
+|4|[Javelin CR3 acquire DMA, Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775315-javelin-cr3-acquire-dma-driver.html)|`2026-10-09 06:04:44`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,9 +40,15 @@
 |6|[Mod menu release v&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58333)|`2026-10-09 05:38:10`|
 |5|[SHAPE Ext v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58329)|`2026-10-09 05:38:10`|
 |9|[fuckyoublizzard&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58324)|`2026-10-09 05:38:10`|
+|2|[SHAPE Ext v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58338)|`2026-10-09 06:04:44`|
+|3|[AoE2 DE &#45; Counter Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58337)|`2026-10-09 06:04:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772573-wardogs-dma-release.html)|`2026-10-09 05:51:00`|`Wardogs`|
+|[Any good paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775835-paid-cheats.html)|`2026-10-09 05:50:00`|`H1Z1`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-09 05:49:00`|`Apex Legends`|
+|[&#91;WARDOGS&#93;Wardogs&#45;UEDumper&#45;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/774045-wardogs-wardogs-uedumper-dma.html)|`2026-10-09 05:40:00`|`Wardogs`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-09 05:37:00`|`Tom Clancy's The Division`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-09 05:35:00`|`Escape from Tarkov`|
 |[DrizzyDrake Rendering Libary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775803-drizzydrake-rendering-libary.html)|`2026-10-09 05:32:00`|`Anti-Cheat Research`|
