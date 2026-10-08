@@ -53,6 +53,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-10-08 21:29:00`|`Other Games`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-08 21:23:00`|`Counter-Strike 2 Releases`|
+|[Silent detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775744-silent-detections.html)|`2026-10-08 21:18:00`|`Alternative Online Mods`|
 |[External Overlay without latency/floaty esp lag?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775622-external-overlay-latency-floaty-esp-lag.html)|`2026-10-08 20:29:00`|`Counter-Strike 2`|
 |[Help with skeleton esp and any tips about hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775667-help-skeleton-esp-tips-hacking.html)|`2026-10-08 20:26:00`|`Counter-Strike 2`|
 |[Staying undetected on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775634-staying-undetected-eac.html)|`2026-10-08 20:21:00`|`Anti-Cheat Research`|
