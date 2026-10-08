@@ -17,6 +17,7 @@
 |12|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-08 08:38:10`|`wardogs`|
 |7|[Deadlock Overlay — ESP, Snap/Silent Aim & Sandbox Headshot Stats &#124; Build 6731](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774850-deadlock-overlay-esp-snap-silent-aim-sandbox-headshot-stats-build-6731-a.html)|`2026-10-08 08:38:10`|`deadlock`|
 |19|[Reversing rotkc&#46;dll &#45; HWID, RAC1 handshake, bytecode VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775356-reversing-rotkc-dll-hwid-rac1-handshake-bytecode-vm.html)|`2026-10-08 16:57:48`|`h1z1`|
+|22|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-08 20:38:09`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -52,6 +53,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Overlay without latency/floaty esp lag?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775622-external-overlay-latency-floaty-esp-lag.html)|`2026-10-08 20:29:00`|`Counter-Strike 2`|
+|[Help with skeleton esp and any tips about hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775667-help-skeleton-esp-tips-hacking.html)|`2026-10-08 20:26:00`|`Counter-Strike 2`|
+|[Staying undetected on EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775634-staying-undetected-eac.html)|`2026-10-08 20:21:00`|`Anti-Cheat Research`|
 |[Building External Rust Visibility from PhysX: Collision Caching, BVHs, and Tri&#45;State](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775729-building-external-rust-visibility-physx-collision-caching-bvhs-tri.html)|`2026-10-08 19:33:00`|`Rust`|
 |[Reversing UnityPlayer PhysX Externally: Finding Scenes, Shapes, Pruners, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775728-reversing-unityplayer-physx-externally-finding-scenes-shapes-pruners-offsets.html)|`2026-10-08 19:30:00`|`Rust`|
 |[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-08 18:21:00`|`Other MMORPG and Strategy`|
