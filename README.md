@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TraceShape not working properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/746533-traceshape-properly.html)|`2026-10-08 12:30:00`|`Counter-Strike 2`|
+|[ANYONE GOT A ESP/AIMBOT/RADAR FOR ROS LEGACY?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ros-releases/775055-esp-aimbot-radar-ros-legacy.html)|`2026-10-08 12:21:00`|`RoS Releases`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-08 12:02:00`|`Marvel Rivals`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-08 11:53:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-08 11:28:00`|`Overwatch`|
 |[Member of the Month &#45; October 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/775449-month-october-2026-a.html)|`2026-10-08 11:15:00`|`Member of the Month`|
 |[H1Z1 Internal Cheats Outdated/Patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775686-h1z1-internal-cheats-outdated-patched.html)|`2026-10-08 10:59:00`|`H1Z1`|
