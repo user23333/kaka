@@ -46,6 +46,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;WIP&#93; Bombanana Cheat – Would Anyone Be Interested?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775681-wip-bombanana-cheat.html)|`2026-10-08 09:46:00`|`Other Games`|
 |[MHUR Mod Maker &#40;Comes With Strike Froppy & Twice Set&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767660-mhur-mod-maker-comes-strike-froppy-twice-set.html)|`2026-10-08 09:32:00`|`Other Games`|
 |[Rocket League &#45; Nebula Client, Item Spawner, Title Spawner, Etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/696293-rocket-league-nebula-client-item-spawner-title-spawner-etc.html)|`2026-10-08 09:16:00`|`Other Games`|
 |[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-08 09:14:00`|`Anti-Cheat Research`|
