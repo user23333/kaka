@@ -12,6 +12,7 @@
 |12|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-09 00:28:31`|`wardogs`|
 |20|[internal cheat fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774903-internal-cheat-fixed.html)|`2026-10-09 00:28:31`|`overwatch`|
 |15|[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-09 01:38:12`|`h1z1`|
+|5|[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-09 02:38:04`|`apex-legends`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,16 @@
 |79|[5&#46;3&#46;2&#45;0&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;3&#46;2&#45;AION2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58312)|`2026-10-09 00:28:31`|
 |7|[Epic OnlineServices Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58311)|`2026-10-09 00:28:31`|
 |52|[Dumper&#45;7&#45;&#40;Arion2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58309)|`2026-10-09 00:28:31`|
+|1|[WardogsClient decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58330)|`2026-10-09 02:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PGA 2K25 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766592-pga-2k25-internal.html)|`2026-10-09 02:34:00`|`Other Games`|
+|[Echo&#46;ac Anticheat Research & Bypass Documentation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775222-echo-ac-anticheat-research-bypass-documentation.html)|`2026-10-09 02:34:00`|`Anti-Cheat Research`|
+|[Custom shader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775683-custom-shader.html)|`2026-10-09 02:31:00`|`Counter-Strike 2`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-10-09 02:31:00`|`Other MMORPG and Strategy`|
+|[Faceit ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775792-faceit-ban.html)|`2026-10-09 02:31:00`|`Counter-Strike 2`|
+|[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-09 02:27:00`|`H1Z1`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-09 01:36:00`|`ARC Raiders`|
 |[Physx external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775786-physx-external.html)|`2026-10-09 01:36:00`|`H1Z1`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-09 01:36:00`|`Counter-Strike 2`|
