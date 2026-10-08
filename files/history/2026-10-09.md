@@ -42,9 +42,15 @@
 |9|[fuckyoublizzard&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58324)|`2026-10-09 05:38:10`|
 |2|[SHAPE Ext v1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58338)|`2026-10-09 06:04:44`|
 |3|[AoE2 DE &#45; Counter Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58337)|`2026-10-09 06:04:44`|
+|1|[gtfo&#45;dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58339)|`2026-10-09 06:38:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GTFO Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775836-gtfo-reversal.html)|`2026-10-09 06:28:00`|`Other FPS Games`|
+|[Training a model that reads x86&#45;64 assembly and names stripped functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/775838-training-model-reads-x86-64-assembly-names-stripped-functions.html)|`2026-10-09 06:24:00`|`Assembly`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-09 06:21:00`|`Marvel Rivals`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-09 06:20:00`|`Payday 2`|
+|[Recoil Control with kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774219-recoil-control-kmbox.html)|`2026-10-09 06:14:00`|`Apex Legends`|
 |[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772573-wardogs-dma-release.html)|`2026-10-09 05:51:00`|`Wardogs`|
 |[Any good paid cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775835-paid-cheats.html)|`2026-10-09 05:50:00`|`H1Z1`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-09 05:49:00`|`Apex Legends`|
