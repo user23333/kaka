@@ -14,6 +14,8 @@
 |5|[Apex / Javelin Blocks Driver Loading While Game Is Running — Error 1450](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774842-apex-javelin-blocks-driver-loading-game-running-error-1450-a.html)|`2026-10-08 01:38:10`|`apex-legends`|
 |20|[internal cheat fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774903-internal-cheat-fixed.html)|`2026-10-08 04:38:37`|`overwatch`|
 |18|[EAC Identifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775276-eac-identifier.html)|`2026-10-08 05:38:11`|`anti-cheat-research`|
+|12|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-08 08:38:10`|`wardogs`|
+|7|[Deadlock Overlay — ESP, Snap/Silent Aim & Sandbox Headshot Stats &#124; Build 6731](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/774850-deadlock-overlay-esp-snap-silent-aim-sandbox-headshot-stats-build-6731-a.html)|`2026-10-08 08:38:10`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,9 +34,21 @@
 |2|[Nightmare &#45; Free FiveM Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58297)|`2026-10-08 07:38:04`|
 |1|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58293)|`2026-10-08 07:38:04`|
 |1|[Hellraiser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58292)|`2026-10-08 07:38:04`|
+|1|[apewar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58313)|`2026-10-08 08:38:10`|
+|6|[5&#46;3&#46;2&#45;0&#43;&#43;&#43;UE5&#43;Release&#45;5&#46;3&#46;2&#45;AION2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58312)|`2026-10-08 08:38:10`|
+|1|[Epic OnlineServices Rust](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58311)|`2026-10-08 08:38:10`|
+|4|[Dumper&#45;7&#45;&#40;Arion2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58309)|`2026-10-08 08:38:10`|
+|15|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58308)|`2026-10-08 08:38:10`|
+|2|[BS&#45;External&#45;GL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58307)|`2026-10-08 08:38:10`|
+|1|[BAD&#45;v2&#46;3&#46;3&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58306)|`2026-10-08 08:38:10`|
+|6|[fuckyoublizzard&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58305)|`2026-10-08 08:38:10`|
+|4|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58303)|`2026-10-08 08:38:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nulvex Internal/Lua Executor x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775617-nulvex-internal-lua-executor-x86-x64.html)|`2026-10-08 08:25:00`|`Garry's Mod`|
+|[Any tips for using YimMenu v2 in Enhanced?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775262-tips-using-yimmenu-v2-enhanced.html)|`2026-10-08 08:22:00`|`Grand Theft Auto V`|
+|[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-08 08:20:00`|`Call of Duty: Black Ops 7`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-10-08 07:29:00`|`Tom Clancy's The Division`|
 |[Smart proton injector for linux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/775529-smart-proton-injector-linux.html)|`2026-10-08 07:29:00`|`Programming for Beginners`|
 |[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-08 07:26:00`|`Alternative Online Mods`|
