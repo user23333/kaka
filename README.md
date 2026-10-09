@@ -13,6 +13,7 @@
 |13|[ROTK Bullet Drop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774939-rotk-bullet-drop-external.html)|`2026-10-10 00:16:30`|`h1z1`|
 |13|[Avoiding VAC detection when hooking functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775221-avoiding-vac-detection-hooking-functions.html)|`2026-10-10 03:38:10`|`counter-strike-2-a`|
 |12|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-10 05:38:03`|`overwatch`|
+|4|[wardogs external cheat, with magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775539-wardogs-external-cheat-magic-bullet.html)|`2026-10-10 06:38:04`|`wardogs`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -26,9 +27,26 @@
 |75|[PienZ v6 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58346)|`2026-10-10 00:16:30`|
 |61|[app&#46;asar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58344)|`2026-10-10 00:16:30`|
 |4|[th&#95;spawn&#95;menu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58343)|`2026-10-10 00:16:30`|
+|1|[The Crims Bot v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58365)|`2026-10-10 06:38:04`|
+|1|[InjectorTotalWarWarHammer3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58364)|`2026-10-10 06:38:04`|
+|1|[lootline 1&#46;4 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58363)|`2026-10-10 06:38:04`|
+|1|[lootline 1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58362)|`2026-10-10 06:38:04`|
+|1|[Auto Miner Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58360)|`2026-10-10 06:38:04`|
+|1|[GameSense Warzone External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58359)|`2026-10-10 06:38:04`|
+|1|[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58358)|`2026-10-10 06:38:04`|
+|17|[AION 2 External Version 2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58357)|`2026-10-10 06:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Crims Bot 2026 &#124; All&#45;in&#45;One Auto Bot &#124; Open Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774976-crims-bot-2026-auto-bot-source.html)|`2026-10-10 06:37:00`|`Other Games`|
+|[Total War WARHAMMER III Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warhammer/775909-total-war-warhammer-iii-internal.html)|`2026-10-10 06:36:00`|`Warhammer`|
+|[Auto Miner/Fishing &#40;AFK Farming Tool&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775897-auto-miner-fishing-afk-farming-tool.html)|`2026-10-10 06:33:00`|`Alternative Online Mods`|
+|[GameSense UI &#43; Loader External ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775898-gamesense-ui-loader-external-esp.html)|`2026-10-10 06:33:00`|`Call of Duty: Black Ops 7`|
+|[operation throwback R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774767-operation-throwback-r6.html)|`2026-10-10 06:31:00`|`Rainbow Six Siege`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-10-10 06:31:00`|`DayZ SA`|
+|[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-10-10 06:30:00`|`Counter-Strike 2 Releases`|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-10 06:30:00`|`ARC Raiders`|
+|[Scum DMA &#45; WIP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/770783-scum-dma-wip.html)|`2026-10-10 06:25:00`|`Scum`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-10 05:37:00`|`Deadlock`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-10 05:31:00`|`Counter-Strike 2 Releases`|
 |[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-10 05:31:00`|`Other MMORPG and Strategy`|
