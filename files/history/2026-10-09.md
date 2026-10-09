@@ -49,6 +49,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aniimo External Re&#45;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775852-aniimo-external-re-release.html)|`2026-10-09 08:34:00`|`Other MMORPG and Strategy`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-09 08:32:00`|`HELLDIVERS 2`|
+|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-09 08:26:00`|`Overwatch`|
+|[Reversing UnityPlayer PhysX Externally: Finding Scenes, Shapes, Pruners, and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775728-reversing-unityplayer-physx-externally-finding-scenes-shapes-pruners-offsets.html)|`2026-10-09 08:24:00`|`Rust`|
+|[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-10-09 08:11:00`|`Call of Duty: Modern Warfare III`|
+|[The Crims Bot 2026 &#124; All&#45;in&#45;One Auto Bot &#124; Open Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774976-crims-bot-2026-auto-bot-source.html)|`2026-10-09 07:56:00`|`Other Games`|
+|[ROTK Launcher Bypass &#45; Self&#45;Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774493-rotk-launcher-bypass-self-updating.html)|`2026-10-09 07:56:00`|`H1Z1`|
 |[Partial Tick & External Raycasting &#40;PhysX&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775825-partial-tick-external-raycasting-physx.html)|`2026-10-09 07:30:00`|`H1Z1`|
 |[Animal Bone Enum Lists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762697-animal-bone-enum-lists.html)|`2026-10-09 07:22:00`|`Rust`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-09 07:14:00`|`Counter-Strike 2`|
