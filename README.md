@@ -49,9 +49,17 @@
 |9|[HD2 ED Reforged v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58341)|`2026-10-09 07:38:01`|
 |2|[AION 2 External Version 2&#46;0 &#91;SOURCE &#43; EXE&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58355)|`2026-10-09 15:38:08`|
 |3|[app&#46;asar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58344)|`2026-10-09 15:38:08`|
+|4|[EAAC usermode client decrypted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58356)|`2026-10-09 16:38:10`|
+|2|[EAAntiCheat&#46;GameServiceLauncher&#46;decrypted&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58354)|`2026-10-09 16:38:10`|
+|2|[Machine Party](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58352)|`2026-10-09 16:38:10`|
+|2|[Charcoal &#45; ground branch menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58351)|`2026-10-09 16:38:10`|
+|2|[arlr&#95;update&#95;3&#46;9&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58350)|`2026-10-09 16:38:10`|
+|1|[Street Mobster Bot v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58347)|`2026-10-09 16:38:10`|
+|10|[PienZ v6 &#124; Project Zomboid Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58346)|`2026-10-09 16:38:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-09 16:21:00`|`Wardogs`|
 |[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-09 15:34:00`|`Other Games`|
 |[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-09 15:15:00`|`Counter-Strike 2`|
 |[How do i modify wind trees in game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775876-modify-wind-trees-game.html)|`2026-10-09 15:14:00`|`Counter-Strike 2`|
