@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-10 02:36:00`|`Other MMORPG and Strategy`|
+|[How can I trigger a fake &#35;PF so that the memory becomes readable for Voyager?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772571-trigger-fake-pf-memory-readable-voyager.html)|`2026-10-10 02:36:00`|`Anti-Cheat Research`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-10 02:35:00`|`Other MMORPG and Strategy`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-10 02:34:00`|`DayZ SA`|
+|[Apex will switch to EA Javelin Anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773650-apex-switch-ea-javelin-anticheat.html)|`2026-10-10 02:34:00`|`Apex Legends`|
+|[Help with dev cheats in general](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/775105-help-dev-cheats.html)|`2026-10-10 02:33:00`|`General Programming and Reversing`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-10 02:32:00`|`Overwatch`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-10 02:31:00`|`Other MMORPG and Strategy`|
 |[Hyper&#45;V VM&#45;Exit Hooking Without Binary Patching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775947-hyper-vm-exit-hooking-binary-patching.html)|`2026-10-10 01:37:00`|`Anti-Cheat Research`|
 |[kernel driver for cs2 ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772879-kernel-driver-cs2-ext.html)|`2026-10-10 01:29:00`|`Counter-Strike 2`|
 |[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-10 01:29:00`|`Other MMORPG and Strategy`|
