@@ -12,6 +12,7 @@
 |4|[Javelin CR3 acquire DMA, Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775315-javelin-cr3-acquire-dma-driver.html)|`2026-10-10 00:16:30`|`apex-legends`|
 |13|[ROTK Bullet Drop External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774939-rotk-bullet-drop-external.html)|`2026-10-10 00:16:30`|`h1z1`|
 |13|[Avoiding VAC detection when hooking functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775221-avoiding-vac-detection-hooking-functions.html)|`2026-10-10 03:38:10`|`counter-strike-2-a`|
+|12|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-10 05:38:03`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-10 05:37:00`|`Deadlock`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-10 05:31:00`|`Counter-Strike 2 Releases`|
+|[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-10 05:31:00`|`Other MMORPG and Strategy`|
+|[need offsets and some information](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775971-offsets-information.html)|`2026-10-10 05:24:00`|`H1Z1`|
+|[theHunter: Call of the Wild Internal Radar, ESP, & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/644365-thehunter-call-wild-internal-radar-esp.html)|`2026-10-10 05:18:00`|`Other FPS Games`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-10-10 05:17:00`|`Counter-Strike 2`|
 |[AFK acquisition of Super Credits and Medals, 17&#45;Aug&#45;26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/768055-afk-acquisition-super-credits-medals-17-aug-26-a.html)|`2026-10-10 04:37:00`|`HELLDIVERS 2`|
 |[Building a Stable External Rust Player Loop: BaseNetworkable and UnityPlayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775726-building-stable-external-rust-player-loop-basenetworkable-unityplayer.html)|`2026-10-10 04:37:00`|`Rust`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-10 04:22:00`|`Counter-Strike 2 Releases`|
