@@ -59,6 +59,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crab Champions Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775939-crab-champions-offsets.html)|`2026-10-09 23:24:00`|`Other Games`|
 |[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-09 22:29:00`|`Other MMORPG and Strategy`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-10-09 22:21:00`|`Alternative Online Mods`|
 |[ECC: REDLINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775932-ecc-redline.html)|`2026-10-09 22:20:00`|`Other FPS Games`|
