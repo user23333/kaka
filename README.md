@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2026-10-09 18:36:00`|`Among Us`|
+|[Is VAC updated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775887-vac-updated.html)|`2026-10-09 18:24:00`|`Counter-Strike 2`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-09 18:18:00`|`Counter-Strike 2 Releases`|
+|[ESP Drawing Fake Players &#43; Box Jittering When Players Move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/773928-esp-drawing-fake-players-box-jittering-players-move.html)|`2026-10-09 18:16:00`|`Team Fortress 2`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-09 17:09:00`|`Overwatch`|
 |[Ricochet Anti&#45;Cheat Dump &#40;Anaylsis&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775112-ricochet-anti-cheat-dump-anaylsis.html)|`2026-10-09 16:57:00`|`Call of Duty: Black Ops 7`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-09 16:21:00`|`Wardogs`|
