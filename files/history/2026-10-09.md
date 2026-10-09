@@ -59,6 +59,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[double tap to work](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775870-double-tap.html)|`2026-10-09 21:36:00`|`Counter-Strike 2`|
+|[Just curious, what game do you guys think is the most fun to play with cheats? 😂](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/775893-curious-game-guys-fun-play-cheats.html)|`2026-10-09 21:32:00`|`Off Topic`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-10-09 21:28:00`|`Rust`|
+|[Building External Rust Visibility from PhysX: Collision Caching, BVHs, and Tri&#45;State](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775729-building-external-rust-visibility-physx-collision-caching-bvhs-tri.html)|`2026-10-09 21:24:00`|`Rust`|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-10-09 21:19:00`|`Anti-Cheat Research`|
 |[Need Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775549-menu.html)|`2026-10-09 20:37:00`|`H1Z1`|
 |[Fully updated TempleWare Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/757633-updated-templeware-internal.html)|`2026-10-09 20:37:00`|`Counter-Strike 2`|
 |[PhasmoUnlocker &#40;Cosmetic, Badges, Ids, Clothes&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/752142-phasmounlocker-cosmetic-badges-ids-clothes.html)|`2026-10-09 20:34:00`|`Phasmophobia`|
