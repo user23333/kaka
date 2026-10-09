@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Regarding EFT PVE Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/774470-regarding-eft-pve-cheating.html)|`2026-10-09 19:33:00`|`Escape from Tarkov`|
+|[Knive Out ESP &#45; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/748357-knive-esp-aimbot.html)|`2026-10-09 19:26:00`|`Other FPS Games`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-09 19:23:00`|`Counter-Strike 2`|
+|[zemu client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775882-zemu-client.html)|`2026-10-09 19:22:00`|`H1Z1`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2026-10-09 18:36:00`|`Among Us`|
 |[Is VAC updated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775887-vac-updated.html)|`2026-10-09 18:24:00`|`Counter-Strike 2`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-09 18:18:00`|`Counter-Strike 2 Releases`|
