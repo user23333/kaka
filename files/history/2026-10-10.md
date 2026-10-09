@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hyper&#45;V VM&#45;Exit Hooking Without Binary Patching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775947-hyper-vm-exit-hooking-binary-patching.html)|`2026-10-10 01:37:00`|`Anti-Cheat Research`|
+|[kernel driver for cs2 ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/772879-kernel-driver-cs2-ext.html)|`2026-10-10 01:29:00`|`Counter-Strike 2`|
+|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-10 01:29:00`|`Other MMORPG and Strategy`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-10 01:23:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-10 01:16:00`|`ARC Raiders`|
+|[CSS x64 Steam Offsets &#91;Game Update: Sep 17&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/775948-css-x64-steam-offsets-game-update-sep-17-a.html)|`2026-10-10 01:16:00`|`CounterStrike Source`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-10 01:14:00`|`Apex Legends`|
+|[How to get actor offset for R6 external?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/761298-actor-offset-r6-external.html)|`2026-10-10 01:04:00`|`Rainbow Six Siege`|
 |[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-10 00:14:00`|`Counter-Strike 2`|
 |[BRAWLHALLA FULL GAME DUMP &#40;Attack hitboxes, etc&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755486-brawlhalla-game-dump-attack-hitboxes-etc.html)|`2026-10-10 00:13:00`|`Other Games`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-10 00:13:00`|`Anti-Cheat Research`|
