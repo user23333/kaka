@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Discord Overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776152-discord-overlay-hijack.html)|`2026-10-11 04:36:00`|`Anti-Cheat Research`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-11 04:28:00`|`Counter-Strike 2`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-11 04:25:00`|`Other Games`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-11 04:17:00`|`Counter-Strike 2`|
+|[Deskrawl: Idle ARPG HOA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/775640-deskrawl-idle-arpg-hoa.html)|`2026-10-11 04:16:00`|`Cheat Engine Tables`|
 |[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-11 04:03:00`|`Other MMORPG and Strategy`|
 |[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/776098-phasmophobia-sardinas-menu.html)|`2026-10-11 03:57:00`|`Phasmophobia`|
 |[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775896-gallipoli.html)|`2026-10-11 03:53:00`|`Other FPS Games`|
