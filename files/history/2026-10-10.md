@@ -48,6 +48,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-10 08:33:00`|`Tom Clancy's The Division`|
+|[&#91;Source&#93; ChadWare2 Internal Skin/Knife/Glove/Agent Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769568-source-chadware2-internal-skin-knife-glove-agent-changer.html)|`2026-10-10 08:32:00`|`Counter-Strike 2`|
+|[Building External Rust Visibility from PhysX: Collision Caching, BVHs, and Tri&#45;State](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775729-building-external-rust-visibility-physx-collision-caching-bvhs-tri.html)|`2026-10-10 08:31:00`|`Rust`|
+|[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-10-10 08:30:00`|`General Programming and Reversing`|
+|[CS2 Internal Skin Changer &#45; Skins, Knives, Gloves, Agents, Music Kits &#43; 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775869-cs2-internal-skin-changer-skins-knives-gloves-agents-music-kits-3d.html)|`2026-10-10 08:29:00`|`Counter-Strike 2`|
+|[Evitania Online &#45; Idle RPG internal cheat &#40;PC build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772436-evitania-online-idle-rpg-internal-cheat-pc-build.html)|`2026-10-10 08:23:00`|`Other Games`|
+|[Show me the ROTK cheat menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774458-rotk-cheat-menu.html)|`2026-10-10 08:09:00`|`H1Z1`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-10 07:32:00`|`Counter-Strike 2`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-10 07:29:00`|`Marvel Rivals`|
 |[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-10 07:26:00`|`Overwatch`|
