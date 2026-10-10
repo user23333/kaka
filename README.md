@@ -47,9 +47,18 @@
 |4|[Chadware2 Skin Changer 2026 10 09](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58371)|`2026-10-10 07:38:05`|
 |1|[arlr&#95;update&#95;3&#46;9&#45;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58385)|`2026-10-10 16:30:03`|
 |2|[interium fix2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58384)|`2026-10-10 16:30:03`|
+|6|[Valorant 13&#46;06 DUMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58392)|`2026-10-10 17:38:02`|
+|22|[Marvel Rivals Parallax Updated 2026&#45;10&#45;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58391)|`2026-10-10 17:38:02`|
+|8|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58390)|`2026-10-10 17:38:02`|
+|3|[Universal Recoil Control kmbox &#40;Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58389)|`2026-10-10 17:38:02`|
+|3|[DayZ Dumper v6 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58388)|`2026-10-10 17:38:02`|
+|6|[Evitania v0&#46;320&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58387)|`2026-10-10 17:38:02`|
+|13|[NSV1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58386)|`2026-10-10 17:38:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-10 17:27:00`|`Rainbow Six Siege`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-10 17:19:00`|`Wardogs`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-10-10 16:23:00`|`Phasmophobia`|
 |[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-10 16:21:00`|`Counter-Strike 2`|
 |[Wondering about gobble gums](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/776045-wondering-gobble-gums.html)|`2026-10-10 15:34:00`|`Call of Duty: Black Ops 3`|
