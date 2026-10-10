@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-10 14:37:00`|`Other FPS Games`|
+|[External Cheat Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/772031-external-cheat-features.html)|`2026-10-10 14:35:00`|`DayZ SA`|
+|[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-10-10 14:34:00`|`Minecraft`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-10 14:31:00`|`Counter-Strike 2`|
 |[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-10-10 13:35:00`|`Other FPS Games`|
 |[Help inject menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775787-help-inject-menu.html)|`2026-10-10 13:22:00`|`H1Z1`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-10 13:07:00`|`Other FPS Games`|
