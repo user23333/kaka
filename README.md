@@ -48,6 +48,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[lumen mod cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/775314-lumen-mod-cheats.html)|`2026-10-10 11:30:00`|`Call of Duty: Modern Warfare III`|
+|[MW3 Cheat dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/775996-mw3-cheat-dll.html)|`2026-10-10 11:28:00`|`Call of Duty: Modern Warfare III`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-10 11:23:00`|`Other Games`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-10-10 11:20:00`|`Call of Duty: Black Ops 3`|
+|[R6 WORKING 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773042-r6-1pc-makcu-colorbot.html)|`2026-10-10 11:14:00`|`Rainbow Six Siege`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-10-10 11:09:00`|`Other FPS Games`|
 |[OpenFront steam port](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776014-openfront-steam-port.html)|`2026-10-10 10:20:00`|`Other Games`|
 |[Insta dc in lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776012-insta-dc-lobby.html)|`2026-10-10 09:43:00`|`H1Z1`|
 |[injector issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775860-injector-issue.html)|`2026-10-10 09:41:00`|`Apex Legends`|
