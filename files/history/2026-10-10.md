@@ -63,9 +63,16 @@
 |1|[Stalker2Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58397)|`2026-10-10 18:38:11`|
 |1|[SkyrimTrainerV1&#46;3&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58396)|`2026-10-10 18:38:11`|
 |2|[RON CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58395)|`2026-10-10 18:38:11`|
+|1|[UE&#45;Universal&#45;PostRender&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58405)|`2026-10-10 19:38:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-10-10 19:32:00`|`Other FPS Games`|
+|[AoE2 DE &#45; External FOW Removal &#43; Resource ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/758084-aoe2-de-external-fow-removal-resource-esp.html)|`2026-10-10 19:31:00`|`Age of Empires`|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-10-10 19:27:00`|`Genshin Impact`|
+|[Rust OpenCV detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/775329-rust-opencv-detected.html)|`2026-10-10 19:25:00`|`Rust`|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-10-10 19:23:00`|`Team Fortress 2`|
+|[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-10-10 19:06:00`|`Other MMORPG and Strategy`|
 |[Current status of DMA cheats in R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776093-current-status-dma-cheats-r6.html)|`2026-10-10 18:38:00`|`Rainbow Six Siege`|
 |[States of Power Helper v2&#46;2&#46;0 – Money & Manpower Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776051-power-helper-v2-2-0-money-manpower-tool.html)|`2026-10-10 18:37:00`|`Other Games`|
 |[UE Universal PostRender/Tick/ProcessEvent Generator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/776092-ue-universal-postrender-tick-processevent-generator.html)|`2026-10-10 18:35:00`|`Unreal Engine 4`|
