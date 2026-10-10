@@ -48,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insta dc in lobby](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776012-insta-dc-lobby.html)|`2026-10-10 09:43:00`|`H1Z1`|
+|[injector issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775860-injector-issue.html)|`2026-10-10 09:41:00`|`Apex Legends`|
 |[Animal Bone Enum Lists](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/762697-animal-bone-enum-lists.html)|`2026-10-10 09:14:00`|`Rust`|
 |[Is VAC updated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775887-vac-updated.html)|`2026-10-10 09:11:00`|`Counter-Strike 2`|
 |[RushUp Full Inventory / Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775528-rushup-inventory-skin-changer.html)|`2026-10-10 09:00:00`|`Counter-Strike 2`|
