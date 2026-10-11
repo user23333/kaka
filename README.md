@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-12 06:26:00`|`Other FPS Games`|
+|[&#91; External &#93; SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773985-external-spt-aki-minimalcheat-il2cpp.html)|`2026-10-12 06:21:00`|`Escape from Tarkov`|
+|[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-10-12 06:21:00`|`H1Z1`|
+|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-12 06:14:00`|`Other MMORPG and Strategy`|
+|[keylogger in powershell Friends & Family](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776368-keylogger-powershell-friends-family.html)|`2026-10-12 06:11:00`|`Off Topic`|
+|[Enemy Territory ET nCHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/return-to-castle-wolfenstein/772667-enemy-territory-et-nchook.html)|`2026-10-12 06:11:00`|`Return To Castle Wolfenstein`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-12 05:57:00`|`Sea of Thieves`|
 |[How to stay undetected with BattlEye Oct&#46; 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776356-stay-undetected-battleye-oct-2026-a.html)|`2026-10-12 05:56:00`|`Anti-Cheat Research`|
 |[NMRIH2 Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768438-nmrih2-overlay.html)|`2026-10-12 05:55:00`|`Other FPS Games`|
