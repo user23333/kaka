@@ -41,6 +41,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Regarding EFT PVE Cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/774470-regarding-eft-pve-cheating.html)|`2026-10-11 09:27:00`|`Escape from Tarkov`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-10-11 09:15:00`|`Call of Duty: Black Ops Cold War`|
+|[Need help regarding vulnerable drivers&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/771566-help-regarding-vulnerable-drivers.html)|`2026-10-11 09:14:00`|`Anti-Cheat Research`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-11 08:30:00`|`Deadlock`|
 |[H1Z1 AC Keeps Banning Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776189-h1z1-ac-banning.html)|`2026-10-11 08:30:00`|`H1Z1`|
 |[very popular rust p2cs "bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776190-popular-rust-p2cs-bypass.html)|`2026-10-11 08:24:00`|`Anti-Cheat Research`|
