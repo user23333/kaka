@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Crims Bot 2026 &#124; All&#45;in&#45;One Auto Bot &#124; Open Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774976-crims-bot-2026-auto-bot-source.html)|`2026-10-11 21:32:00`|`Other Games`|
+|[Packet related](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/776286-packet-related.html)|`2026-10-11 21:31:00`|`Maple Story`|
+|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-11 21:14:00`|`Other MMORPG and Strategy`|
 |[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-10-11 20:45:00`|`Unity`|
 |[&#91;WoG&#93; War of Genesis: Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771553-wog-war-genesis-idle-loot.html)|`2026-10-11 20:40:00`|`Other MMORPG and Strategy`|
 |[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-11 20:13:00`|`Escape from Tarkov`|
