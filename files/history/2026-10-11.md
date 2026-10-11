@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-11 12:29:00`|`Other FPS Games`|
+|[Printing to console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768375-printing-console.html)|`2026-10-11 12:26:00`|`Counter-Strike 2`|
+|[Brute Force Crimebound ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773255-brute-force-crimebound-ids.html)|`2026-10-11 12:25:00`|`Payday 3`|
+|[question about finding a potential cve](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776207-question-finding-potential-cve.html)|`2026-10-11 12:17:00`|`Anti-Cheat Research`|
+|[External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776200-external.html)|`2026-10-11 11:59:00`|`H1Z1`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-11 11:08:00`|`Other Games`|
 |[PTE Swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776201-pte-swap.html)|`2026-10-11 10:41:00`|`Anti-Cheat Research`|
 |[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-11 10:37:00`|`ARC Raiders`|
