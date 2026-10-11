@@ -41,6 +41,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-11 13:30:00`|`DayZ SA`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-10-11 13:28:00`|`Other FPS Games`|
+|[Mordhau toolkit Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776223-mordhau-toolkit-hack.html)|`2026-10-11 13:27:00`|`Other FPS Games`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-11 13:13:00`|`Rainbow Six Siege`|
+|[Need Suggestions For Hypervisor Timing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775827-suggestions-hypervisor-timing.html)|`2026-10-11 13:10:00`|`Anti-Cheat Research`|
+|[RTSS/RivaTuner Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776220-rtss-rivatuner-injection.html)|`2026-10-11 13:09:00`|`Anti-Cheat Research`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-11 12:58:00`|`Escape from Tarkov`|
 |[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-11 12:29:00`|`Other FPS Games`|
 |[Printing to console](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768375-printing-console.html)|`2026-10-11 12:26:00`|`Counter-Strike 2`|
 |[Brute Force Crimebound ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773255-brute-force-crimebound-ids.html)|`2026-10-11 12:25:00`|`Payday 3`|
