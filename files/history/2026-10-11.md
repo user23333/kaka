@@ -41,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-10-11 15:36:00`|`Counter-Strike 2`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-11 15:23:00`|`Payday 2`|
+|[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-10-11 15:13:00`|`Counter-Strike 2`|
+|[Arc Raiders ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/768026-arc-raiders-ban.html)|`2026-10-11 15:11:00`|`ARC Raiders`|
 |[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-11 14:37:00`|`Deadlock`|
 |[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-10-11 14:29:00`|`Other MMORPG and Strategy`|
 |[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-11 14:24:00`|`Other Games`|
