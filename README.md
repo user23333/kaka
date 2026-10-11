@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-12 01:32:00`|`Counter-Strike 2`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-12 01:32:00`|`Tom Clancy's The Division`|
+|[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-12 01:29:00`|`Other MMORPG and Strategy`|
+|[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-10-12 01:29:00`|`ARC Raiders`|
+|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-12 01:27:00`|`Other MMORPG and Strategy`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-12 01:06:00`|`Other MMORPG and Strategy`|
+|[War Thunder cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776335-war-thunder-cheeto.html)|`2026-10-12 01:03:00`|`Other MMORPG and Strategy`|
+|[Bloodstrike simple Offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776307-bloodstrike-simple-offsets-dumper.html)|`2026-10-12 00:57:00`|`Other FPS Games`|
 |[Enki Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/772982-enki-injector.html)|`2026-10-12 00:36:00`|`Programming for Beginners`|
 |[Valheim Mod Menu &#91;1&#46;0 Release&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/771318-valheim-mod-menu-1-0-release.html)|`2026-10-12 00:36:00`|`Other FPS Games`|
 |[ROTK Launcher Bypass &#45; Self&#45;Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774493-rotk-launcher-bypass-self-updating.html)|`2026-10-12 00:31:00`|`H1Z1`|
