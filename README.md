@@ -38,9 +38,13 @@
 |7|[sdk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58423)|`2026-10-11 06:38:08`|
 |2|[Shinoko&#45;NIKKE v0&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58421)|`2026-10-11 06:38:08`|
 |4|[NSV1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58424)|`2026-10-11 07:33:42`|
+|3|[ACE&#45;IDS&#45;ncnn model&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58435)|`2026-10-11 19:38:09`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlhalla spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776041-brawlhalla-spoofing.html)|`2026-10-11 19:30:00`|`Anti-Cheat Research`|
+|[ACE&#40;Anti&#45;Cheat Expert&#41; IDS Screenshot Detection Model&#40;ncnn Pack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776246-ace-anti-cheat-expert-ids-screenshot-detection-model-ncnn-pack.html)|`2026-10-11 19:17:00`|`Anti-Cheat Research`|
+|[Vibeheke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/766158-vibeheke.html)|`2026-10-11 19:15:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Division 2 – Aimbot, ESP, RPM, Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/742104-division-2-aimbot-esp-rpm-recoil.html)|`2026-10-11 18:34:00`|`Tom Clancy's The Division`|
 |[attackware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776245-attackware.html)|`2026-10-11 18:30:00`|`Counter-Strike 2`|
 |[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-10-11 18:18:00`|`Overwatch`|
