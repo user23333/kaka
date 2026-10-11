@@ -41,6 +41,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MSCW CRC &#40;SetField&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/776241-mscw-crc-setfield.html)|`2026-10-11 16:36:00`|`Maple Story`|
+|[&#91;Help&#93; MapleStory Classic &#40;CN&#41; GPK Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/773873-help-maplestory-classic-cn-gpk-bypass.html)|`2026-10-11 16:33:00`|`Maple Story`|
+|[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-10-11 16:23:00`|`Team Fortress 2`|
+|[ESP Drawing Fake Players &#43; Box Jittering When Players Move](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/773928-esp-drawing-fake-players-box-jittering-players-move.html)|`2026-10-11 16:20:00`|`Team Fortress 2`|
+|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-10-11 16:18:00`|`Other FPS Games`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-11 16:13:00`|`Red Dead Redemption 2`|
+|[vehicle shift boost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776024-vehicle-shift-boost.html)|`2026-10-11 16:12:00`|`Alternative Online Mods`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-10-11 15:36:00`|`Counter-Strike 2`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-11 15:23:00`|`Payday 2`|
 |[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-10-11 15:13:00`|`Counter-Strike 2`|
