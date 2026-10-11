@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-11 11:08:00`|`Other Games`|
+|[PTE Swap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776201-pte-swap.html)|`2026-10-11 10:41:00`|`Anti-Cheat Research`|
 |[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-11 10:37:00`|`ARC Raiders`|
 |[Dead Island 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/776199-dead-island-2-internal.html)|`2026-10-11 10:33:00`|`Other Single Player Games`|
 |[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-11 10:22:00`|`Grand Theft Auto V`|
