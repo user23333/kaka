@@ -43,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Wardogs&#41; anyone want me to post my external src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/774824-wardogs-post-external-src.html)|`2026-10-11 22:24:00`|`Wardogs`|
+|[Rhythia Auto Player Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776126-rhythia-auto-player-internal.html)|`2026-10-11 22:22:00`|`Other Games`|
+|[anticheat analysis netease LITE Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776299-anticheat-analysis-netease-lite-marvel-rivals.html)|`2026-10-11 22:20:00`|`Marvel Rivals`|
+|[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-11 22:19:00`|`Anti-Cheat Research`|
 |[The Crims Bot 2026 &#124; All&#45;in&#45;One Auto Bot &#124; Open Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774976-crims-bot-2026-auto-bot-source.html)|`2026-10-11 21:32:00`|`Other Games`|
 |[Packet related](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/776286-packet-related.html)|`2026-10-11 21:31:00`|`Maple Story`|
 |[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-11 21:14:00`|`Other MMORPG and Strategy`|
