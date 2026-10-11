@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[createmove index, restore&#95;entity&#95;to&#95;predicted&#95;frame & commands&#95;predicted](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/776292-createmove-index-restore_entity_to_predicted_frame-commands_predicted.html)|`2026-10-12 07:37:00`|`CounterStrike Source`|
+|[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-12 07:37:00`|`Unity`|
+|[CS2 Internal Skin Changer &#45; Skins, Knives, Gloves, Agents, Music Kits &#43; 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775869-cs2-internal-skin-changer-skins-knives-gloves-agents-music-kits-3d.html)|`2026-10-12 07:35:00`|`Counter-Strike 2`|
+|[Permafrost Fully Featured Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776382-permafrost-featured-internal.html)|`2026-10-12 07:35:00`|`Other Games`|
+|[&#91;IL2CPP&#93; static&#95;fields = 0x0 on gameplay classes Rust Oct 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776282-il2cpp-static_fields-0x0-gameplay-classes-rust-oct-2026-a.html)|`2026-10-12 07:16:00`|`Rust`|
+|[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-12 07:13:00`|`Counter-Strike 2`|
+|[Hood Warfare 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776375-hood-warfare-2-cheat.html)|`2026-10-12 07:02:00`|`Other FPS Games`|
+|[Unlock Golden Slate Gloves & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/775317-unlock-golden-slate-gloves.html)|`2026-10-12 07:02:00`|`Payday 3`|
 |[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-12 06:26:00`|`Other FPS Games`|
 |[&#91; External &#93; SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773985-external-spt-aki-minimalcheat-il2cpp.html)|`2026-10-12 06:21:00`|`Escape from Tarkov`|
 |[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-10-12 06:21:00`|`H1Z1`|
