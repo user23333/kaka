@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-12 03:35:00`|`DayZ SA`|
+|[&#91;eac&#93; please unload &#40;thedriver&#41;&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776346-eac-please-unload-thedriver-sys.html)|`2026-10-12 03:28:00`|`Anti-Cheat Research`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-12 03:26:00`|`Other FPS Games`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-12 03:22:00`|`Marvel Rivals`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-12 03:22:00`|`Paladins`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-12 03:22:00`|`Other FPS Games`|
+|[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-12 03:19:00`|`Alternative Online Mods`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-12 03:18:00`|`Deadlock`|
 |[Current status of DMA cheats in R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776093-current-status-dma-cheats-r6.html)|`2026-10-12 02:33:00`|`Rainbow Six Siege`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-10-12 02:32:00`|`Grand Theft Auto V`|
 |[Nulvex Internal x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775615-nulvex-internal-x86-x64.html)|`2026-10-12 02:27:00`|`Garry's Mod`|
