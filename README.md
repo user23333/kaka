@@ -28,6 +28,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Reversing with AI Agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775718-reversing-ai-agents.html)|`2026-10-13 03:32:00`|`Anti-Cheat Research`|
+|[GameSense UI &#43; Loader External ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775898-gamesense-ui-loader-external-esp.html)|`2026-10-13 03:18:00`|`Call of Duty: Black Ops 7`|
+|[H1Z1 AC Keeps Banning Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776189-h1z1-ac-banning.html)|`2026-10-13 03:11:00`|`H1Z1`|
+|[Albion Online Auto Mine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/761481-albion-online-auto-mine.html)|`2026-10-13 03:07:00`|`Other MMORPG and Strategy`|
+|[Brute Force Crimebound ID's](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773255-brute-force-crimebound-ids.html)|`2026-10-13 03:06:00`|`Payday 3`|
+|[Anyone got Plague Inc offsets? 1&#46;24&#46;0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776494-plague-inc-offsets-1-24-0-7-a.html)|`2026-10-13 03:05:00`|`Other Games`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-13 02:35:00`|`HELLDIVERS 2`|
 |[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-10-13 02:24:00`|`ARC Raiders`|
 |[Gears of War: E&#45;Day &#124; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775142-gears-war-day-reversal-structs-offsets.html)|`2026-10-13 02:22:00`|`Other Games`|
