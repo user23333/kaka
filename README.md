@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ElectronAC vehicle spawn detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/772480-electronac-vehicle-spawn-detection.html)|`2026-10-12 13:34:00`|`Alternative Online Mods`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-12 13:27:00`|`Other Games`|
+|[Bloodstrike External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755667-bloodstrike-external-cheat.html)|`2026-10-12 13:24:00`|`Other FPS Games`|
+|[DMA SQUAD RADAR &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775494-dma-squad-radar-esp.html)|`2026-10-12 13:22:00`|`Other FPS Games`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-12 13:18:00`|`HELLDIVERS 2`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-12 13:14:00`|`Wardogs`|
+|[How to make weather visuals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776345-weather-visuals.html)|`2026-10-12 13:03:00`|`Counter-Strike 2`|
 |[AERO For PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/773151-aero-prbf2.html)|`2026-10-12 12:35:00`|`Battlefield 2`|
 |[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-12 12:27:00`|`Other FPS Games`|
 |[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-12 12:20:00`|`ARC Raiders`|
