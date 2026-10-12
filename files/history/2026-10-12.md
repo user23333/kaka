@@ -28,6 +28,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is your &#46;data section detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775780-data-section-detected.html)|`2026-10-12 10:12:00`|`Anti-Cheat Research`|
+|[Multiple games on 1 pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/776297-multiple-games-1-pc.html)|`2026-10-12 10:09:00`|`Wardogs`|
+|[KEVLAR &#45; x64 kernel driver emulator source &#40;EAC/BE/VGK&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/765226-kevlar-x64-kernel-driver-emulator-source-eac-vgk.html)|`2026-10-12 09:51:00`|`Anti-Cheat Research`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-12 09:05:00`|`Apex Legends`|
 |[H1Z1 AC Keeps Banning Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776189-h1z1-ac-banning.html)|`2026-10-12 09:00:00`|`H1Z1`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-12 08:53:00`|`Marvel Rivals`|
