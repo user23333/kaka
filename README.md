@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776460-hwid-ban.html)|`2026-10-13 06:33:00`|`H1Z1`|
+|[Arc Raiders SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776153-arc-raiders-sdk-dumper.html)|`2026-10-13 06:29:00`|`ARC Raiders`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-13 06:25:00`|`Apex Legends`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-10-13 06:18:00`|`Other Games`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-13 06:17:00`|`Sea of Thieves`|
 |[hotel hideaway](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/759993-hotel-hideaway.html)|`2026-10-13 05:15:00`|`Other Games`|
 |[R6 glowwww](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776508-r6-glowwww.html)|`2026-10-13 05:10:00`|`Rainbow Six Siege`|
 |[Brawlhalla spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776041-brawlhalla-spoofing.html)|`2026-10-13 05:07:00`|`Anti-Cheat Research`|
