@@ -12,6 +12,7 @@
 |14|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-12 00:37:59`|`overwatch`|
 |4|[Javelin CR3 acquire DMA, Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775315-javelin-cr3-acquire-dma-driver.html)|`2026-10-12 00:37:59`|`apex-legends`|
 |20|[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-12 04:38:01`|`other-mmorpg-and-strategy`|
+|20|[External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776200-external.html)|`2026-10-12 23:38:02`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -33,9 +34,13 @@
 |11|[VenDeadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58431)|`2026-10-12 21:38:00`|
 |2|[Mordhau Toolkit v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58430)|`2026-10-12 21:38:00`|
 |29|[ROTK External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58428)|`2026-10-12 21:38:00`|
+|6|[attackware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58434)|`2026-10-12 23:38:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chivalry 2 &#45; CJ V3&#46;5 &#45; Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756042-chivalry-2-cj-v3-5-internal.html)|`2026-10-12 23:37:00`|`Other Games`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-10-12 23:36:00`|`Counter-Strike 2`|
+|[What motherboard should i get for DMA?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/775982-motherboard-dma.html)|`2026-10-12 23:34:00`|`Forum General`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-10-12 22:37:00`|`Anti-Cheat Research`|
 |[Hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776460-hwid-ban.html)|`2026-10-12 22:30:00`|`H1Z1`|
 |[tf2 offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/776464-tf2-offsets.html)|`2026-10-12 22:27:00`|`Team Fortress 2`|
