@@ -25,9 +25,17 @@
 |4|[KevLard Table v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58419)|`2026-10-12 00:37:59`|
 |153|[PhasmoMenu v0&#46;6&#46;0&#46;0 By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58418)|`2026-10-12 00:37:59`|
 |101|[dcplus&#95;v4&#46;6&#45;pub ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58417)|`2026-10-12 00:37:59`|
+|14|[PUBG SDK 2609&#46;1&#46;3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58472)|`2026-10-12 18:38:04`|
+|1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58471)|`2026-10-12 18:38:04`|
+|1|[PencaSense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58452)|`2026-10-12 18:38:04`|
+|7|[EFT&#95;CT&#95;47965&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58429)|`2026-10-12 18:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do you make signature patterns survive major game updates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776430-signature-patterns-survive-major-game-updates.html)|`2026-10-12 18:32:00`|`General Programming and Reversing`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-12 18:11:00`|`Rust`|
+|[Way of The Hunter 2 Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776428-hunter-2-radar.html)|`2026-10-12 18:09:00`|`Other FPS Games`|
+|[Leak Mono Cheat Unturned &#45; PencaSense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776353-leak-mono-cheat-unturned-pencasense.html)|`2026-10-12 18:05:00`|`Other FPS Games`|
 |[Wondering about gobble gums](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/776045-wondering-gobble-gums.html)|`2026-10-12 17:05:00`|`Call of Duty: Black Ops 3`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-10-12 16:28:00`|`Forum General`|
 |[Discord Overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776152-discord-overlay-hijack.html)|`2026-10-12 16:25:00`|`Anti-Cheat Research`|
