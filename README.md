@@ -34,6 +34,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;DMA&#93; Failed to find cod&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772558-dma-failed-cod-exe.html)|`2026-10-13 07:36:00`|`Call of Duty: Black Ops 7`|
+|[I need help creating a loader for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776524-help-creating-loader-cs2.html)|`2026-10-13 07:34:00`|`Counter-Strike 2`|
+|[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-10-13 07:27:00`|`Counter-Strike 2`|
+|[Tower of Fantasy dump &#43; CET](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tower-of-fantasy/765272-tower-fantasy-dump-cet.html)|`2026-10-13 07:20:00`|`Tower of Fantasy`|
 |[Hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776460-hwid-ban.html)|`2026-10-13 06:33:00`|`H1Z1`|
 |[Arc Raiders SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776153-arc-raiders-sdk-dumper.html)|`2026-10-13 06:29:00`|`ARC Raiders`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-13 06:25:00`|`Apex Legends`|
