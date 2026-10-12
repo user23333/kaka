@@ -24,9 +24,17 @@
 |7|[attackware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58434)|`2026-10-13 00:37:59`|
 |74|[VenDeadlock](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58431)|`2026-10-13 00:37:59`|
 |5|[Mordhau Toolkit v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58430)|`2026-10-13 00:37:59`|
+|1|[Butopia Launcher v3&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58438)|`2026-10-13 02:37:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-13 02:35:00`|`HELLDIVERS 2`|
+|[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-10-13 02:24:00`|`ARC Raiders`|
+|[Gears of War: E&#45;Day &#124; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775142-gears-war-day-reversal-structs-offsets.html)|`2026-10-13 02:22:00`|`Other Games`|
+|[How do i access CCS2WeaponGraphController?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776490-access-ccs2weapongraphcontroller.html)|`2026-10-13 02:18:00`|`Counter-Strike 2`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-13 02:15:00`|`Deadlock`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-13 02:13:00`|`Other MMORPG and Strategy`|
+|[Wardogs Map JPGs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775240-wardogs-map-jpgs.html)|`2026-10-13 02:08:00`|`Wardogs`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-13 01:22:00`|`Apex Legends`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-13 01:21:00`|`Other FPS Games`|
 |[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-13 01:19:00`|`Other MMORPG and Strategy`|
