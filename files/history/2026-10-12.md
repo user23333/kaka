@@ -28,6 +28,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wondering about gobble gums](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/776045-wondering-gobble-gums.html)|`2026-10-12 17:05:00`|`Call of Duty: Black Ops 3`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-10-12 16:28:00`|`Forum General`|
 |[Discord Overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776152-discord-overlay-hijack.html)|`2026-10-12 16:25:00`|`Anti-Cheat Research`|
 |[Clive Barker's Hellraiser: Revival Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775495-clive-barkers-hellraiser-revival-internal.html)|`2026-10-12 16:25:00`|`Other Single Player Games`|
