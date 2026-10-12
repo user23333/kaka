@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-13 03:47:00`|`Counter-Strike 2`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-13 03:42:00`|`Other MMORPG and Strategy`|
 |[Reversing with AI Agents](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775718-reversing-ai-agents.html)|`2026-10-13 03:32:00`|`Anti-Cheat Research`|
 |[GameSense UI &#43; Loader External ESP Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775898-gamesense-ui-loader-external-esp.html)|`2026-10-13 03:18:00`|`Call of Duty: Black Ops 7`|
 |[H1Z1 AC Keeps Banning Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776189-h1z1-ac-banning.html)|`2026-10-13 03:11:00`|`H1Z1`|
