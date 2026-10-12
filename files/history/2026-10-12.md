@@ -29,9 +29,14 @@
 |1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58471)|`2026-10-12 18:38:04`|
 |1|[PencaSense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58452)|`2026-10-12 18:38:04`|
 |7|[EFT&#95;CT&#95;47965&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58429)|`2026-10-12 18:38:04`|
+|5|[PUBG SDK 2609&#46;1&#46;3&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58474)|`2026-10-12 19:37:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-12 19:34:00`|`Wardogs`|
+|[Working mouse movement driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773768-mouse-movement-driver.html)|`2026-10-12 19:29:00`|`Anti-Cheat Research`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-10-12 19:27:00`|`Other FPS Games`|
+|[Aniimo Metadata Decryptor — One&#45;Click, Il2CppDumper&#45;Ready](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772559-aniimo-metadata-decryptor-click-il2cppdumper-ready.html)|`2026-10-12 19:24:00`|`Other MMORPG and Strategy`|
 |[How do you make signature patterns survive major game updates?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776430-signature-patterns-survive-major-game-updates.html)|`2026-10-12 18:32:00`|`General Programming and Reversing`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-12 18:11:00`|`Rust`|
 |[Way of The Hunter 2 Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776428-hunter-2-radar.html)|`2026-10-12 18:09:00`|`Other FPS Games`|
