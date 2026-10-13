@@ -31,9 +31,22 @@
 |1|[Permafrost Internal 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58446)|`2026-10-13 05:37:57`|
 |2|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58444)|`2026-10-13 05:37:57`|
 |1|[Phas Recovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58443)|`2026-10-13 05:37:57`|
+|2|[Mod menu release v&#46;3&#46;51](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58481)|`2026-10-13 08:37:55`|
+|2|[RushUpSkinChanger&#45;unknowncheats&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58451)|`2026-10-13 08:37:55`|
+|3|[doliprane](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58450)|`2026-10-13 08:37:55`|
+|2|[KiraSoftWare&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58449)|`2026-10-13 08:37:55`|
+|1|[TS&#95;JumpMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58448)|`2026-10-13 08:37:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-13 08:32:00`|`Counter-Strike 2`|
+|[RushUp Full Inventory / Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775528-rushup-inventory-skin-changer.html)|`2026-10-13 08:27:00`|`Counter-Strike 2`|
+|[W2S Needs a Rework?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776533-w2s-rework.html)|`2026-10-13 08:24:00`|`ARC Raiders`|
+|[Is your &#46;data section detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775780-data-section-detected.html)|`2026-10-13 08:21:00`|`Anti-Cheat Research`|
+|[Doliprane cs2 movement &#43; inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776339-doliprane-cs2-movement-inventory-changer.html)|`2026-10-13 08:21:00`|`Counter-Strike 2`|
+|[War Thunder cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776335-war-thunder-cheeto.html)|`2026-10-13 08:20:00`|`Other MMORPG and Strategy`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-13 08:19:00`|`Counter-Strike 2 Releases`|
+|[Arena Breakout DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776318-arena-breakout-dma.html)|`2026-10-13 08:18:00`|`Other FPS Games`|
 |[&#91;DMA&#93; Failed to find cod&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772558-dma-failed-cod-exe.html)|`2026-10-13 07:36:00`|`Call of Duty: Black Ops 7`|
 |[I need help creating a loader for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776524-help-creating-loader-cs2.html)|`2026-10-13 07:34:00`|`Counter-Strike 2`|
 |[Laura External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/739784-laura-external.html)|`2026-10-13 07:27:00`|`Counter-Strike 2`|
