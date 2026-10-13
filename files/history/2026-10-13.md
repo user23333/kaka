@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776121-offset-finder.html)|`2026-10-13 16:35:00`|`Rainbow Six Siege`|
+|[IDA Pro 9&#46;4 classinformer & SigMaker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/762908-ida-pro-9-4-classinformer-sigmaker.html)|`2026-10-13 16:26:00`|`General Programming and Reversing`|
+|[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-13 16:23:00`|`Counter-Strike 2`|
 |[Rogue Company External & Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776567-rogue-company-external-source-code.html)|`2026-10-13 15:19:00`|`Other Games`|
 |[The Outlast Trials &#45; PAK Mods Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771274-outlast-trials-pak-mods-bypass.html)|`2026-10-13 15:12:00`|`Other Games`|
 |[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-13 15:12:00`|`Other Games`|
