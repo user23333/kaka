@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Minecraft Dungeon II Trainer &#40;Windows Store &#124; Xbox&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/774439-minecraft-dungeon-ii-trainer-windows-store-xbox.html)|`2026-10-13 13:33:00`|`Other Single Player Games`|
+|[Airstrikes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776443-airstrikes.html)|`2026-10-13 13:33:00`|`Alternative Online Mods`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-10-13 13:31:00`|`HELLDIVERS 2`|
+|[Going around EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776557-eac.html)|`2026-10-13 13:25:00`|`Anti-Cheat Research`|
+|[paranoid of main cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776530-paranoid-main-cheating.html)|`2026-10-13 13:21:00`|`Counter-Strike 2`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-13 13:15:00`|`Marvel Rivals`|
 |[Dma triggerbot fivem with vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776537-dma-triggerbot-fivem-vischeck.html)|`2026-10-13 12:15:00`|`General Programming and Reversing`|
 |[Discord Overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776152-discord-overlay-hijack.html)|`2026-10-13 12:02:00`|`Anti-Cheat Research`|
 |[Lie Detector &#40;LD&#41; Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/760084-lie-detector-ld-solver.html)|`2026-10-13 11:59:00`|`Maple Story`|
