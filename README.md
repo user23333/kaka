@@ -12,6 +12,7 @@
 |4|[wardogs external cheat, with magic bullet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775539-wardogs-external-cheat-magic-bullet.html)|`2026-10-14 00:38:00`|`wardogs`|
 |14|[ow2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/775535-ow2-cheat.html)|`2026-10-14 00:38:00`|`overwatch`|
 |15|[rotkc&#46;dll bypass &#45; 2&#46;0&#46;31](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775500-rotkc-dll-bypass-2-0-31-a.html)|`2026-10-14 03:38:24`|`h1z1`|
+|24|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-14 04:38:05`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,19 @@
 |9|[Rogue Company External & Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58499)|`2026-10-14 00:38:00`|
 |16|[DnD&#45;ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58498)|`2026-10-14 00:38:00`|
 |41|[MouseDrivers&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58497)|`2026-10-14 00:38:00`|
+|33|[HD2 ED Reforged 7&#46;1&#46;1 v2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58517)|`2026-10-14 04:38:05`|
+|3|[lootline 1&#46;5 source ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58513)|`2026-10-14 04:38:05`|
+|4|[lootline 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58512)|`2026-10-14 04:38:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[unlock spectating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775611-unlock-spectating.html)|`2026-10-14 04:34:00`|`Counter-Strike 2`|
+|[Hood Warfare 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776375-hood-warfare-2-cheat.html)|`2026-10-14 04:34:00`|`Other FPS Games`|
+|[R6 Journey &#45; looking for tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776650-r6-journey-looking-tips.html)|`2026-10-14 04:31:00`|`Rainbow Six Siege`|
+|[Rust no eac server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773442-rust-eac-server.html)|`2026-10-14 04:27:00`|`Rust`|
+|[overlay method for BE?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776618-overlay-method.html)|`2026-10-14 04:18:00`|`Anti-Cheat Research`|
+|[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-14 04:14:00`|`Other FPS Games`|
+|[Rust internal question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774530-rust-internal-question.html)|`2026-10-14 04:13:00`|`Rust`|
 |[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-14 03:32:00`|`Other Games`|
 |[Strikers Club EAC BYPASS INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775439-strikers-club-eac-bypass-injector.html)|`2026-10-14 03:31:00`|`Other Games`|
 |[Bloodstrike GL External With HP and Team Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775532-bloodstrike-gl-external-hp-team-filter.html)|`2026-10-14 03:30:00`|`Other FPS Games`|
