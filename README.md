@@ -64,6 +64,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Samurai Script's for Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775191-samurai-scripts-enhanced-version.html)|`2026-10-13 22:35:00`|`Grand Theft Auto V`|
+|[&#91;eac&#93; please unload &#40;thedriver&#41;&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776346-eac-please-unload-thedriver-sys.html)|`2026-10-13 22:33:00`|`Anti-Cheat Research`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-13 22:33:00`|`Paladins`|
+|[EAC DTB spoofing — static&#95;fields at 0x80150000 reads all zeros &#40;VRW &#43; PhysRW&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776605-eac-dtb-spoofing-static_fields-0x80150000-reads-zeros-vrw-physrw.html)|`2026-10-13 22:33:00`|`Rust`|
+|[Genshin Impact AntiCheat Part 1: AntiDebug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/775722-genshin-impact-anticheat-1-antidebug.html)|`2026-10-13 22:29:00`|`Genshin Impact`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-13 22:27:00`|`Red Dead Redemption 2`|
 |[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-13 21:25:00`|`Other Games`|
 |[How to stay undetected with BattlEye Oct&#46; 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776356-stay-undetected-battleye-oct-2026-a.html)|`2026-10-13 21:19:00`|`Anti-Cheat Research`|
 |[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775896-gallipoli.html)|`2026-10-13 21:17:00`|`Other FPS Games`|
