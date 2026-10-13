@@ -63,6 +63,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Starting with R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776576-starting-r6.html)|`2026-10-13 19:34:00`|`Rainbow Six Siege`|
+|[RIP Warface](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/762272-rip-warface.html)|`2026-10-13 19:24:00`|`Warface`|
+|[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-13 19:18:00`|`Other Games`|
+|[EAC/VGK Mouse Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776467-eac-vgk-mouse-driver.html)|`2026-10-13 19:15:00`|`Anti-Cheat Research`|
 |[Deep Dish Dungeon &#40;Demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776582-deep-dish-dungeon-demo.html)|`2026-10-13 18:26:00`|`Other MMORPG and Strategy`|
 |[Apex Legends, need help acces denied &#40;beginner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774091-apex-legends-help-acces-denied-beginner.html)|`2026-10-13 18:25:00`|`Apex Legends`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-13 18:22:00`|`Escape from Tarkov`|
