@@ -45,6 +45,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dma triggerbot fivem with vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776537-dma-triggerbot-fivem-vischeck.html)|`2026-10-13 12:15:00`|`General Programming and Reversing`|
+|[Discord Overlay hijack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776152-discord-overlay-hijack.html)|`2026-10-13 12:02:00`|`Anti-Cheat Research`|
+|[Lie Detector &#40;LD&#41; Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/760084-lie-detector-ld-solver.html)|`2026-10-13 11:59:00`|`Maple Story`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-13 11:25:00`|`DayZ SA`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-13 11:09:00`|`Counter-Strike 2`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-13 11:07:00`|`Deadlock`|
