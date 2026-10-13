@@ -63,6 +63,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Riftstorm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/768488-riftstorm.html)|`2026-10-13 20:36:00`|`Other Games`|
+|[Evading VAC in usermode?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776578-evading-vac-usermode.html)|`2026-10-13 20:29:00`|`Counter-Strike 2`|
+|[Hyperion anticheat temp spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776590-hyperion-anticheat-temp-spoofer.html)|`2026-10-13 20:25:00`|`Anti-Cheat Research`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-13 20:16:00`|`Grand Theft Auto V`|
 |[Starting with R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776576-starting-r6.html)|`2026-10-13 19:34:00`|`Rainbow Six Siege`|
 |[RIP Warface](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/762272-rip-warface.html)|`2026-10-13 19:24:00`|`Warface`|
 |[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-13 19:18:00`|`Other Games`|
