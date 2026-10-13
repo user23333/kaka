@@ -36,9 +36,20 @@
 |3|[doliprane](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58450)|`2026-10-13 08:37:55`|
 |2|[KiraSoftWare&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58449)|`2026-10-13 08:37:55`|
 |1|[TS&#95;JumpMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58448)|`2026-10-13 08:37:55`|
+|2|[Heavymettle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58466)|`2026-10-13 09:38:17`|
+|1|[deadlyomen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58465)|`2026-10-13 09:38:17`|
+|1|[prepphase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58464)|`2026-10-13 09:38:17`|
+|2|[Xinjector&#45;v0&#46;1&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58463)|`2026-10-13 09:38:17`|
+|1|[permafrost fully featured internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58462)|`2026-10-13 09:38:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to implement backtracking in Overwatch 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/771966-implement-backtracking-overwatch-2-a.html)|`2026-10-13 09:37:00`|`Overwatch`|
+|[Cheat dlls for throwback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776396-cheat-dlls-throwback.html)|`2026-10-13 09:16:00`|`Rainbow Six Siege`|
+|[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-10-13 09:14:00`|`Other Single Player Games`|
+|[removing sky/sun on maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776502-removing-sky-sun-maps.html)|`2026-10-13 09:07:00`|`Counter-Strike 2`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-13 09:06:00`|`ARC Raiders`|
+|[Xinjector v0&#46;1&#46;0 &#45; open source DLL injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776384-xinjector-v0-1-0-source-dll-injector.html)|`2026-10-13 09:06:00`|`General Programming and Reversing`|
 |[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-13 08:32:00`|`Counter-Strike 2`|
 |[RushUp Full Inventory / Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775528-rushup-inventory-skin-changer.html)|`2026-10-13 08:27:00`|`Counter-Strike 2`|
 |[W2S Needs a Rework?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776533-w2s-rework.html)|`2026-10-13 08:24:00`|`ARC Raiders`|
