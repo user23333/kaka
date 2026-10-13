@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-14 01:32:00`|`Overwatch`|
+|[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-14 01:31:00`|`Other MMORPG and Strategy`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-14 01:26:00`|`HELLDIVERS 2`|
+|[Arena Breakout DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776318-arena-breakout-dma.html)|`2026-10-14 01:23:00`|`Other FPS Games`|
+|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-14 01:22:00`|`Other MMORPG and Strategy`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-14 00:36:00`|`Counter-Strike 2`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-14 00:32:00`|`Other MMORPG and Strategy`|
 |[Ricochet detect PsCreateSystemThread?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/776629-ricochet-detect-pscreatesystemthread.html)|`2026-10-14 00:31:00`|`Call of Duty: Black Ops 7`|
