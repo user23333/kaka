@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Enhanced &#45; Signatures & Reversed Functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776514-fivem-enhanced-signatures-reversed-functions.html)|`2026-10-13 09:54:00`|`Alternative Online Mods`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-13 09:50:00`|`Wardogs`|
+|[2k27](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776544-2k27.html)|`2026-10-13 09:40:00`|`Anti-Cheat Research`|
 |[How to implement backtracking in Overwatch 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/771966-implement-backtracking-overwatch-2-a.html)|`2026-10-13 09:37:00`|`Overwatch`|
 |[Cheat dlls for throwback](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776396-cheat-dlls-throwback.html)|`2026-10-13 09:16:00`|`Rainbow Six Siege`|
 |[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-10-13 09:14:00`|`Other Single Player Games`|
