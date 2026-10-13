@@ -42,9 +42,22 @@
 |1|[prepphase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58464)|`2026-10-13 09:38:17`|
 |2|[Xinjector&#45;v0&#46;1&#46;0&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58463)|`2026-10-13 09:38:17`|
 |1|[permafrost fully featured internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58462)|`2026-10-13 09:38:17`|
+|1|[TS&#95;JumpMod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58489)|`2026-10-13 17:25:47`|
+|1|[nasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58488)|`2026-10-13 17:25:47`|
+|1|[fasm trainer example&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58487)|`2026-10-13 17:25:47`|
+|3|[Aion 2 &#45; Esp/Auto&#45;Evade &#40;auto skill dodge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58486)|`2026-10-13 17:25:47`|
+|3|[DeadlockExternalBase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58485)|`2026-10-13 17:25:47`|
+|6|[ROTK External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58484)|`2026-10-13 17:25:47`|
+|1|[Way of The Hunter 2 Radar/Map Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58479)|`2026-10-13 17:25:47`|
+|0|[nfsw launcher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58478)|`2026-10-13 17:25:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Timesplitters Rewind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776333-timesplitters-rewind.html)|`2026-10-13 17:24:00`|`Other Games`|
+|[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2026-10-13 17:24:00`|`Assembly`|
+|[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2026-10-13 17:23:00`|`Assembly`|
+|[Way of The Hunter 2 Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776428-hunter-2-radar.html)|`2026-10-13 17:14:00`|`Other FPS Games`|
+|[Need For Speed World launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630562-speed-world-launcher.html)|`2026-10-13 17:13:00`|`Other MMORPG and Strategy`|
 |[Offset finder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776121-offset-finder.html)|`2026-10-13 16:35:00`|`Rainbow Six Siege`|
 |[IDA Pro 9&#46;4 classinformer & SigMaker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/762908-ida-pro-9-4-classinformer-sigmaker.html)|`2026-10-13 16:26:00`|`General Programming and Reversing`|
 |[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-13 16:23:00`|`Counter-Strike 2`|
