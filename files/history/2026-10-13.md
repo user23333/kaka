@@ -50,9 +50,22 @@
 |6|[ROTK External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58484)|`2026-10-13 17:25:47`|
 |1|[Way of The Hunter 2 Radar/Map Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58479)|`2026-10-13 17:25:47`|
 |0|[nfsw launcher&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58478)|`2026-10-13 17:25:47`|
+|1|[Color Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58505)|`2026-10-13 18:37:58`|
+|2|[PUBG &#45; ukayloader public ver&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58504)|`2026-10-13 18:37:58`|
+|2|[GnomeModMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58503)|`2026-10-13 18:37:58`|
+|2|[DevourInternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58502)|`2026-10-13 18:37:58`|
+|2|[Driver For Rogue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58501)|`2026-10-13 18:37:58`|
+|2|[External For Rogue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58500)|`2026-10-13 18:37:58`|
+|2|[Rogue Company External & Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58499)|`2026-10-13 18:37:58`|
+|6|[DnD&#45;ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58498)|`2026-10-13 18:37:58`|
+|11|[MouseDrivers&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58497)|`2026-10-13 18:37:58`|
+|0|[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58495)|`2026-10-13 18:37:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deep Dish Dungeon &#40;Demo&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776582-deep-dish-dungeon-demo.html)|`2026-10-13 18:26:00`|`Other MMORPG and Strategy`|
+|[Apex Legends, need help acces denied &#40;beginner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774091-apex-legends-help-acces-denied-beginner.html)|`2026-10-13 18:25:00`|`Apex Legends`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-13 18:22:00`|`Escape from Tarkov`|
 |[Timesplitters Rewind](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776333-timesplitters-rewind.html)|`2026-10-13 17:24:00`|`Other Games`|
 |[FASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635764-fasm-simple-x32-x64-injectable-trainer.html)|`2026-10-13 17:24:00`|`Assembly`|
 |[NASM simple x32&#45;x64 injectable trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/assembly/635016-nasm-simple-x32-x64-injectable-trainer.html)|`2026-10-13 17:23:00`|`Assembly`|
