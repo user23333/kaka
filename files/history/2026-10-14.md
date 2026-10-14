@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My Hero Ultra Rumble](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/748871-hero-ultra-rumble.html)|`2026-10-14 22:05:00`|`Other Games`|
+|[Arc Raiders SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776153-arc-raiders-sdk-dumper.html)|`2026-10-14 22:02:00`|`ARC Raiders`|
+|[CS 1&#46;6 how to whblocker bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/776766-cs-1-6-whblocker-bypass.html)|`2026-10-14 21:59:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[cs 1&#46;6&#40;9511&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/767176-cs-1-6-9511-a.html)|`2026-10-14 21:48:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-14 21:39:00`|`Genshin Impact`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-14 21:27:00`|`Other Games`|
 |[&#91; External &#93; SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773985-external-spt-aki-minimalcheat-il2cpp.html)|`2026-10-14 21:25:00`|`Escape from Tarkov`|
