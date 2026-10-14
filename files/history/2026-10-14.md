@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-14 09:30:00`|`Overwatch`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-14 09:17:00`|`Other FPS Games`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-14 09:04:00`|`Deadlock`|
+|[RushUp Full Inventory / Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775528-rushup-inventory-skin-changer.html)|`2026-10-14 08:49:00`|`Counter-Strike 2`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-14 08:47:00`|`Other Games`|
+|[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-14 08:45:00`|`Other MMORPG and Strategy`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-14 08:31:00`|`Deadlock`|
 |[SpiderMan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776441-spiderman.html)|`2026-10-14 08:23:00`|`Rust`|
 |[&#40;2026&#41; Triggerbot for Renegade TT 4&#46;8&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/renegade/754112-2026-triggerbot-renegade-tt-4-8-4-a.html)|`2026-10-14 08:17:00`|`Renegade`|
