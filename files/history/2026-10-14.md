@@ -15,6 +15,7 @@
 |24|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-14 04:38:05`|`counter-strike-2-a`|
 |20|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-14 09:54:50`|`anti-cheat-research`|
 |28|[CS2 Internal Skin Changer &#45; Skins, Knives, Gloves, Agents, Music Kits &#43; 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775869-cs2-internal-skin-changer-skins-knives-gloves-agents-music-kits-3d.html)|`2026-10-14 15:37:41`|`counter-strike-2-a`|
+|13|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-14 16:37:50`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I NEED i free movement cheat it only needs bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/776302-free-movement-cheat-bhop.html)|`2026-10-14 16:31:00`|`Counter-Strike 2 Releases`|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2026-10-14 16:16:00`|`Escape from Tarkov`|
+|[Rise of eros hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769396-rise-eros-hack.html)|`2026-10-14 16:14:00`|`Other Games`|
+|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-14 15:56:00`|`Counter-Strike 2`|
 |[Looking For ARC RAİDERS working source &#123; ESP &#125;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/748787-looking-arc-ra-ders-source-esp.html)|`2026-10-14 15:22:00`|`ARC Raiders`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-14 15:21:00`|`Deadlock`|
 |[Hood Warfare 2 Internal :hump:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776718-hood-warfare-2-internal-hump.html)|`2026-10-14 15:06:00`|`Other Games`|
