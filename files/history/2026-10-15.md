@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does R6 HWID bans nowadays?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776831-r6-hwid-bans-nowadays.html)|`2026-10-15 06:15:00`|`Rainbow Six Siege`|
+|[Enlisted ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776442-enlisted-esp-aimbot.html)|`2026-10-15 06:14:00`|`Other FPS Games`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2026-10-15 06:08:00`|`PlanetSide 2`|
+|[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-15 06:08:00`|`Other Games`|
+|[&#91;Steam&#93; Rise of Eros Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/699658-steam-rise-eros-mod-menu.html)|`2026-10-15 05:52:00`|`Other Games`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-15 05:47:00`|`Deadlock`|
 |[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-15 05:37:00`|`Other Games`|
 |[New overlay app just dropped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776818-overlay-app-dropped.html)|`2026-10-15 05:37:00`|`Anti-Cheat Research`|
 |[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-10-15 05:35:00`|`Rainbow Six Siege`|
