@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[H1Z1 AC Keeps Banning Me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776189-h1z1-ac-banning.html)|`2026-10-15 04:16:00`|`H1Z1`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-15 04:12:00`|`Overwatch`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-15 04:11:00`|`Counter-Strike 2`|
+|[REA use for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776752-rea-cs2.html)|`2026-10-15 04:10:00`|`Counter-Strike 2`|
+|[Am I missing anything from FACEIT's AC HWID checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776812-am-missing-faceits-ac-hwid-checks.html)|`2026-10-15 04:09:00`|`Anti-Cheat Research`|
+|[Freecam Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776796-freecam-detection.html)|`2026-10-15 04:08:00`|`Rust`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-10-15 04:07:00`|`Payday 3`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-15 03:37:00`|`Escape from Tarkov`|
 |[Toontown Rewritten Animation Skipping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774764-toontown-rewritten-animation-skipping.html)|`2026-10-15 03:30:00`|`Other MMORPG and Strategy`|
 |[anticheat analysis netease LITE Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776299-anticheat-analysis-netease-lite-marvel-rivals.html)|`2026-10-15 03:29:00`|`Marvel Rivals`|
