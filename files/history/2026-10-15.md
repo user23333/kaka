@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-15 01:34:00`|`Other FPS Games`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-15 01:32:00`|`Counter-Strike 2`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-15 01:32:00`|`Other MMORPG and Strategy`|
+|[Total War WARHAMMER III Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warhammer/775909-total-war-warhammer-iii-internal.html)|`2026-10-15 01:32:00`|`Warhammer`|
+|[Understanding Rust’s Encrypted Functions and Resolving Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776761-understanding-rust-encrypted-functions-resolving-offsets.html)|`2026-10-15 01:27:00`|`Rust`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-15 01:23:00`|`Counter-Strike 2`|
+|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-15 01:22:00`|`Other MMORPG and Strategy`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-15 01:11:00`|`Apex Legends`|
+|[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-10-15 01:11:00`|`Other MMORPG and Strategy`|
+|[Deadlock External Source &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776484-deadlock-external-source-updated.html)|`2026-10-15 01:10:00`|`Deadlock`|
 |[ESP issue on cargo and oil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776693-esp-issue-cargo-oil.html)|`2026-10-15 00:34:00`|`Rust`|
 |[Hood Warfare 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776375-hood-warfare-2-cheat.html)|`2026-10-15 00:33:00`|`Other FPS Games`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-15 00:29:00`|`Anti-Cheat Research`|
