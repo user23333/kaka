@@ -43,6 +43,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Black Desert Online Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771381-black-desert-online-reversal-structs-offsets.html)|`2026-10-14 17:20:00`|`Other MMORPG and Strategy`|
+|[TCSM&#45;External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776723-tcsm-external-cheat.html)|`2026-10-14 17:12:00`|`Other FPS Games`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-14 16:59:00`|`HELLDIVERS 2`|
+|[RIP Warface](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/762272-rip-warface.html)|`2026-10-14 16:59:00`|`Warface`|
 |[I NEED i free movement cheat it only needs bhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/776302-free-movement-cheat-bhop.html)|`2026-10-14 16:31:00`|`Counter-Strike 2 Releases`|
 |[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2026-10-14 16:16:00`|`Escape from Tarkov`|
 |[Rise of eros hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769396-rise-eros-hack.html)|`2026-10-14 16:14:00`|`Other Games`|
