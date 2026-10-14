@@ -16,6 +16,7 @@
 |20|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-14 09:54:50`|`anti-cheat-research`|
 |28|[CS2 Internal Skin Changer &#45; Skins, Knives, Gloves, Agents, Music Kits &#43; 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775869-cs2-internal-skin-changer-skins-knives-gloves-agents-music-kits-3d.html)|`2026-10-14 15:37:41`|`counter-strike-2-a`|
 |13|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-14 16:37:50`|`other-fps-games`|
+|18|[Hyper&#45;V VM&#45;Exit Hooking Without Binary Patching](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775947-hyper-vm-exit-hooking-binary-patching.html)|`2026-10-14 20:37:53`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP getting pushed ahead &#40;floats forward during any movement&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776754-external-esp-getting-pushed-ahead-floats-forward-movement.html)|`2026-10-14 20:37:00`|`Counter-Strike 2`|
+|[REA use for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776752-rea-cs2.html)|`2026-10-14 20:33:00`|`Counter-Strike 2`|
+|[Simple Recoil GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763390-simple-recoil-gui.html)|`2026-10-14 20:17:00`|`Battlefield 6`|
+|[cfemen & gir489's Ready or Not hook v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/632144-cfemen-gir489s-ready-hook-v1-0-a.html)|`2026-10-14 20:12:00`|`Other FPS Games`|
+|[New and Ambitious](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/776699-ambitious.html)|`2026-10-14 19:52:00`|`Introductions`|
 |[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-14 19:12:00`|`Anti-Cheat Research`|
 |[Vac files on pc ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776730-vac-files-pc.html)|`2026-10-14 19:10:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-14 18:33:00`|`Other FPS Games`|
