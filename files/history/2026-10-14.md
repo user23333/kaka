@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Passive pcap decode: need RVAs for TargetedReplicationStructNetSerializer &#43; 2 more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/776298-passive-pcap-decode-rvas-targetedreplicationstructnetserializer-2-a.html)|`2026-10-14 12:25:00`|`Wardogs`|
+|[Reversing rotkc&#46;dll &#45; HWID, RAC1 handshake, bytecode VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775356-reversing-rotkc-dll-hwid-rac1-handshake-bytecode-vm.html)|`2026-10-14 12:25:00`|`H1Z1`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-14 12:23:00`|`Other Games`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-10-14 12:10:00`|`Overwatch`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-14 11:51:00`|`Apex Legends`|
+|[lumen mod cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/775314-lumen-mod-cheats.html)|`2026-10-14 11:39:00`|`Call of Duty: Modern Warfare III`|
 |[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-10-14 11:29:00`|`Other MMORPG and Strategy`|
 |[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-14 11:29:00`|`Other Games`|
 |[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-14 11:24:00`|`H1Z1`|
