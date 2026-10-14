@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-14 19:12:00`|`Anti-Cheat Research`|
+|[Vac files on pc ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776730-vac-files-pc.html)|`2026-10-14 19:10:00`|`Counter-Strike 2`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-14 18:33:00`|`Other FPS Games`|
 |[dbd simple esp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776728-dbd-simple-esp-cheat.html)|`2026-10-14 18:29:00`|`Other Games`|
 |[Vulkan Hack, SRC & BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776676-vulkan-hack-src-bin.html)|`2026-10-14 18:25:00`|`Other FPS Games`|
