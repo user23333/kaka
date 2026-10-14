@@ -43,6 +43,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-14 18:33:00`|`Other FPS Games`|
+|[dbd simple esp cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776728-dbd-simple-esp-cheat.html)|`2026-10-14 18:29:00`|`Other Games`|
+|[Vulkan Hack, SRC & BIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776676-vulkan-hack-src-bin.html)|`2026-10-14 18:25:00`|`Other FPS Games`|
+|[Stratagem editing CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773264-stratagem-editing-ct.html)|`2026-10-14 18:20:00`|`HELLDIVERS 2`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-10-14 18:19:00`|`Grand Theft Auto V`|
+|[Whic overlay method is UD on VGC/FACEIT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776727-whic-overlay-method-ud-vgc-faceit.html)|`2026-10-14 18:17:00`|`Anti-Cheat Research`|
 |[Black Desert Online Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771381-black-desert-online-reversal-structs-offsets.html)|`2026-10-14 17:20:00`|`Other MMORPG and Strategy`|
 |[TCSM&#45;External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776723-tcsm-external-cheat.html)|`2026-10-14 17:12:00`|`Other FPS Games`|
 |[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-14 16:59:00`|`HELLDIVERS 2`|
