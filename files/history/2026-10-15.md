@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-15 03:37:00`|`Escape from Tarkov`|
+|[Toontown Rewritten Animation Skipping](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774764-toontown-rewritten-animation-skipping.html)|`2026-10-15 03:30:00`|`Other MMORPG and Strategy`|
+|[anticheat analysis netease LITE Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776299-anticheat-analysis-netease-lite-marvel-rivals.html)|`2026-10-15 03:29:00`|`Marvel Rivals`|
+|[R6 Journey &#45; looking for tips](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776650-r6-journey-looking-tips.html)|`2026-10-15 03:26:00`|`Rainbow Six Siege`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-15 03:24:00`|`Counter-Strike 2 Releases`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-15 03:22:00`|`Marvel Rivals`|
+|[Bans in DBD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776717-bans-dbd.html)|`2026-10-15 03:21:00`|`Other FPS Games`|
 |[Rust internal question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774530-rust-internal-question.html)|`2026-10-15 02:36:00`|`Rust`|
 |[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-10-15 02:29:00`|`Escape from Tarkov`|
 |[New and Ambitious](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/776699-ambitious.html)|`2026-10-15 02:28:00`|`Introductions`|
