@@ -32,9 +32,19 @@
 |1|[IdleMasterMod&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58525)|`2026-10-14 07:37:58`|
 |18|[hoodwarfarev2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58524)|`2026-10-14 07:37:58`|
 |1|[Updated Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58508)|`2026-10-14 07:37:58`|
+|17|[hoodwarfarev3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58527)|`2026-10-14 08:37:48`|
+|1|[InjectorTotalWarWarHammer3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58526)|`2026-10-14 08:37:48`|
+|2|[Vulkan Hook/Wallhack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58523)|`2026-10-14 08:37:48`|
+|1|[RushUpSkinChanger&#45;unknowncheats&#45;20261014&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58519)|`2026-10-14 08:37:48`|
+|2|[Backpack Battles 1&#46;1&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58515)|`2026-10-14 08:37:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-14 08:31:00`|`Deadlock`|
+|[SpiderMan](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776441-spiderman.html)|`2026-10-14 08:23:00`|`Rust`|
+|[&#40;2026&#41; Triggerbot for Renegade TT 4&#46;8&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/renegade/754112-2026-triggerbot-renegade-tt-4-8-4-a.html)|`2026-10-14 08:17:00`|`Renegade`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-14 08:17:00`|`Tom Clancy's The Division`|
+|[Backpack Battles v1&#46;1&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776640-backpack-battles-v1-1-9-a.html)|`2026-10-14 08:10:00`|`Other Games`|
 |[My Party Is Grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769461-party-grinding.html)|`2026-10-14 07:32:00`|`Other Games`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-14 07:31:00`|`Counter-Strike 2 Releases`|
 |[Rogue Company External & Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776567-rogue-company-external-source-code.html)|`2026-10-14 07:30:00`|`Other Games`|
