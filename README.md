@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-14 21:27:00`|`Other Games`|
+|[&#91; External &#93; SPT&#45;AKI MinimalCheat il2CPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/773985-external-spt-aki-minimalcheat-il2cpp.html)|`2026-10-14 21:25:00`|`Escape from Tarkov`|
+|[DMA for Modern Warfare 4 Beta on Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768500-dma-modern-warfare-4-beta-steam.html)|`2026-10-14 21:23:00`|`Call of Duty: Black Ops 7`|
+|[Understanding Rust’s Encrypted Functions and Resolving Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776761-understanding-rust-encrypted-functions-resolving-offsets.html)|`2026-10-14 21:15:00`|`Rust`|
 |[External ESP getting pushed ahead &#40;floats forward during any movement&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776754-external-esp-getting-pushed-ahead-floats-forward-movement.html)|`2026-10-14 20:37:00`|`Counter-Strike 2`|
 |[REA use for CS2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776752-rea-cs2.html)|`2026-10-14 20:33:00`|`Counter-Strike 2`|
 |[Simple Recoil GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/763390-simple-recoil-gui.html)|`2026-10-14 20:17:00`|`Battlefield 6`|
