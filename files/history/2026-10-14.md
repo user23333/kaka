@@ -41,6 +41,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[COD&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/776716-cod_dma.html)|`2026-10-14 13:33:00`|`Call of Duty: Black Ops 7`|
+|[Airduck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776715-airduck.html)|`2026-10-14 13:20:00`|`Counter-Strike 2`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-14 13:13:00`|`Other FPS Games`|
+|[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-10-14 13:05:00`|`Other Single Player Games`|
+|[pls help me to make an entityList in cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776434-pls-help-entitylist-cs2.html)|`2026-10-14 12:59:00`|`Counter-Strike 2`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-14 12:56:00`|`Grand Theft Auto V`|
+|[paranoid of main cheating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776530-paranoid-main-cheating.html)|`2026-10-14 12:47:00`|`Counter-Strike 2`|
 |[Passive pcap decode: need RVAs for TargetedReplicationStructNetSerializer &#43; 2 more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/776298-passive-pcap-decode-rvas-targetedreplicationstructnetserializer-2-a.html)|`2026-10-14 12:25:00`|`Wardogs`|
 |[Reversing rotkc&#46;dll &#45; HWID, RAC1 handshake, bytecode VM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/775356-reversing-rotkc-dll-hwid-rac1-handshake-bytecode-vm.html)|`2026-10-14 12:25:00`|`H1Z1`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-14 12:23:00`|`Other Games`|
