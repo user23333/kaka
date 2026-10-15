@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-16 02:12:00`|`Counter-Strike 2`|
+|[just wondering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776875-wondering.html)|`2026-10-16 02:08:00`|`Off Topic`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-16 02:08:00`|`Tom Clancy's The Division`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-16 02:07:00`|`Other FPS Games`|
+|[The Division 2 &#124; Offset Dumper fix &#124; Steam/Ubisoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/774076-division-2-offset-dumper-fix-steam-ubisoft.html)|`2026-10-16 02:05:00`|`Tom Clancy's The Division`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-16 02:04:00`|`Rust`|
 |[cs2 Faceit anticheat dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776941-cs2-faceit-anticheat-dumped.html)|`2026-10-16 01:37:00`|`Counter-Strike 2`|
 |[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2026-10-16 01:35:00`|`PlanetSide 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-16 01:35:00`|`DayZ SA`|
