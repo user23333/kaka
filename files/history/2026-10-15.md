@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unlock all for pc?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/767653-unlock-pc.html)|`2026-10-15 14:16:00`|`Call of Duty: Black Ops 2`|
+|[Give me my offsets&#33; &#45; OwDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/754829-offsets-owdumper.html)|`2026-10-15 14:09:00`|`Overwatch`|
+|[just wondering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776875-wondering.html)|`2026-10-15 14:08:00`|`Overwatch`|
+|[The Outlast Trials &#45; PAK Mods Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771274-outlast-trials-pak-mods-bypass.html)|`2026-10-15 14:06:00`|`Other Games`|
+|[esport lootbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/773429-esport-lootbox.html)|`2026-10-15 13:58:00`|`Overwatch`|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-15 13:53:00`|`Other FPS Games`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-15 13:24:00`|`Counter-Strike 2`|
 |[Epic announces EAC Linux V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776774-epic-announces-eac-linux-v2.html)|`2026-10-15 13:21:00`|`Anti-Cheat Research`|
 |[Dumping offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776871-dumping-offsets.html)|`2026-10-15 13:17:00`|`Deadlock`|
