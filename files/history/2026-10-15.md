@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-15 18:30:00`|`Other MMORPG and Strategy`|
+|[Enki Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/772982-enki-injector.html)|`2026-10-15 18:18:00`|`Programming for Beginners`|
+|[Brawlhalla spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776041-brawlhalla-spoofing.html)|`2026-10-15 18:14:00`|`Anti-Cheat Research`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-15 17:53:00`|`Wardogs`|
+|[EAC ban after long hiatus &#45; background process flags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776626-eac-ban-hiatus-background-process-flags.html)|`2026-10-15 17:48:00`|`Rust`|
 |[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-15 17:12:00`|`Escape from Tarkov`|
 |[Hood Warfare 2 Internal :hump:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776718-hood-warfare-2-internal-hump.html)|`2026-10-15 17:01:00`|`Other Games`|
 |[Straftat Full Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/686040-straftat-cheat.html)|`2026-10-15 16:51:00`|`Other Games`|
