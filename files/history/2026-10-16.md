@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 Faceit anticheat dumped](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776941-cs2-faceit-anticheat-dumped.html)|`2026-10-16 01:37:00`|`Counter-Strike 2`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2026-10-16 01:35:00`|`PlanetSide 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-16 01:35:00`|`DayZ SA`|
+|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-16 01:34:00`|`Other MMORPG and Strategy`|
+|[EAC added to R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776924-eac-added-r6.html)|`2026-10-16 01:33:00`|`Rainbow Six Siege`|
+|[Samurai Script's for Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775191-samurai-scripts-enhanced-version.html)|`2026-10-16 01:33:00`|`Grand Theft Auto V`|
+|[subtick backtrack exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/754454-subtick-backtrack-exploit.html)|`2026-10-16 01:30:00`|`Counter-Strike 2`|
+|[Bunnyhop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776845-bunnyhop.html)|`2026-10-16 01:27:00`|`Counter-Strike 2`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-16 00:35:00`|`Counter-Strike 2`|
 |[Static leg movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776638-static-leg-movement.html)|`2026-10-16 00:34:00`|`Counter-Strike 2`|
 |[Going around EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776557-eac.html)|`2026-10-16 00:34:00`|`Anti-Cheat Research`|
