@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-15 20:37:00`|`Other FPS Games`|
+|[escrow/fxap dumper sv/cl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776901-escrow-fxap-dumper-sv-cl.html)|`2026-10-15 20:37:00`|`Alternative Online Mods`|
+|[How do i modify wind trees in game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775876-modify-wind-trees-game.html)|`2026-10-15 20:30:00`|`Counter-Strike 2`|
+|[just wondering&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776875-wondering.html)|`2026-10-15 20:29:00`|`Off Topic`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-15 19:33:00`|`DayZ SA`|
 |[Napse 8&#46;7&#46;8 FiveM Anti&#45;Cheat — Full Static Teardown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774722-napse-8-7-8-fivem-anti-cheat-static-teardown.html)|`2026-10-15 19:29:00`|`Alternative Online Mods`|
 |[Airduck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776715-airduck.html)|`2026-10-15 19:26:00`|`Counter-Strike 2`|
