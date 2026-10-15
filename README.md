@@ -27,9 +27,21 @@
 |60|[lootline 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58512)|`2026-10-15 00:37:43`|
 |22|[Rust EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58557)|`2026-10-15 10:37:53`|
 |8|[Javelin devirt tooling](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58546)|`2026-10-15 10:37:53`|
+|12|[hoodwarfarev10](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58560)|`2026-10-15 16:38:11`|
+|1|[karma3&#95;kernel&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58539)|`2026-10-15 16:38:11`|
+|1|[karma3&#95;front&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58538)|`2026-10-15 16:38:11`|
+|6|[made&#95;by&#95;egon&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58537)|`2026-10-15 16:38:11`|
+|5|[PUBG SDK 2610&#46;1&#46;1&#46;55](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58536)|`2026-10-15 16:38:11`|
+|2|[HytaleTrainer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58535)|`2026-10-15 16:38:11`|
+|8|[Rotk Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58533)|`2026-10-15 16:38:11`|
+|3|[arlr&#95;update&#95;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58532)|`2026-10-15 16:38:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776798-rust-eac-bypass.html)|`2026-10-15 16:37:00`|`Anti-Cheat Research`|
+|[Last Epoch Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775383-epoch-helper.html)|`2026-10-15 16:33:00`|`Other MMORPG and Strategy`|
+|[Spoofer Ban vs&#46; Trace Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776636-spoofer-ban-vs-trace-ban.html)|`2026-10-15 16:26:00`|`Escape from Tarkov`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-15 16:21:00`|`Off Topic`|
 |[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-10-15 15:25:00`|`Elite: Dangerous`|
 |[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-15 15:23:00`|`Genshin Impact`|
 |[Some fivem functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776878-fivem-functions.html)|`2026-10-15 15:19:00`|`Alternative Online Mods`|
