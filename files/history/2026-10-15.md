@@ -38,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-15 19:33:00`|`DayZ SA`|
+|[Napse 8&#46;7&#46;8 FiveM Anti&#45;Cheat — Full Static Teardown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774722-napse-8-7-8-fivem-anti-cheat-static-teardown.html)|`2026-10-15 19:29:00`|`Alternative Online Mods`|
+|[Airduck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776715-airduck.html)|`2026-10-15 19:26:00`|`Counter-Strike 2`|
+|[Noob Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/776868-noob.html)|`2026-10-15 19:22:00`|`Introductions`|
+|[Hood Warefare 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776889-hood-warefare-2-cheat.html)|`2026-10-15 19:14:00`|`Other FPS Games`|
 |[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-15 18:30:00`|`Other MMORPG and Strategy`|
 |[Enki Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/772982-enki-injector.html)|`2026-10-15 18:18:00`|`Programming for Beginners`|
 |[Brawlhalla spoofing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776041-brawlhalla-spoofing.html)|`2026-10-15 18:14:00`|`Anti-Cheat Research`|
