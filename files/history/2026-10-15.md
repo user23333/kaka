@@ -11,6 +11,7 @@
 |14|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-15 00:37:43`|`other-fps-games`|
 |28|[CS2 Internal Skin Changer &#45; Skins, Knives, Gloves, Agents, Music Kits &#43; 3D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775869-cs2-internal-skin-changer-skins-knives-gloves-agents-music-kits-3d.html)|`2026-10-15 00:37:43`|`counter-strike-2-a`|
 |18|[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-15 00:37:43`|`other-games`|
+|10|[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-15 12:37:39`|`other-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-15 12:34:00`|`Marvel Rivals`|
+|[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/762004-detection-virtualization.html)|`2026-10-15 12:21:00`|`Anti-Cheat Research`|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-15 12:03:00`|`Other Games`|
+|[Assembly&#45;CSharp&#46;dll server side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776869-assembly-csharp-dll-server.html)|`2026-10-15 11:42:00`|`Rust`|
+|[Doliprane cs2 movement &#43; inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776339-doliprane-cs2-movement-inventory-changer.html)|`2026-10-15 11:40:00`|`Counter-Strike 2`|
 |[Discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769756-discord-overlay.html)|`2026-10-15 11:21:00`|`Rust`|
 |[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-15 11:18:00`|`Other FPS Games`|
 |[Rogue Company External & Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776567-rogue-company-external-source-code.html)|`2026-10-15 11:10:00`|`Other Games`|
