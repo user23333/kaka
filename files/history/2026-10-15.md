@@ -36,9 +36,20 @@
 |8|[Rotk Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58533)|`2026-10-15 16:38:11`|
 |3|[arlr&#95;update&#95;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58532)|`2026-10-15 16:38:11`|
 |8|[5&#46;7&#46;4&#45;516586&#43;&#43;&#43;Wardogs&#43;Live&#45;Wardogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58576)|`2026-10-15 21:26:46`|
+|1|[Bo2 AIO RTE Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58550)|`2026-10-15 22:37:52`|
+|2|[item&#95;database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58549)|`2026-10-15 22:37:52`|
+|21|[PUBG &#45; Public ESP&#45;ONLY &#45; 1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58548)|`2026-10-15 22:37:52`|
+|1|[Call of the Wild Angler Fish Radar 1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58547)|`2026-10-15 22:37:52`|
+|2|[Blazing Sails Internal &#40; ESP &#43; Magic Bullet &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58545)|`2026-10-15 22:37:52`|
+|2|[TCSM&#45;EXTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58543)|`2026-10-15 22:37:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-10-15 22:35:00`|`Call of Duty: Black Ops 2`|
+|[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-15 22:32:00`|`Counter-Strike 2`|
+|[Blazing Sails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776732-blazing-sails.html)|`2026-10-15 22:32:00`|`Other FPS Games`|
+|[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776921-gui-framework.html)|`2026-10-15 22:28:00`|`Counter-Strike 2`|
+|[EAC added to R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776924-eac-added-r6.html)|`2026-10-15 22:26:00`|`Rainbow Six Siege`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-10-15 21:26:00`|`DayZ SA`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-15 21:13:00`|`Other Games`|
 |[GoyBlox Auto&#45;Updating External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/772142-goyblox-auto-updating-external.html)|`2026-10-15 21:11:00`|`Roblox`|
