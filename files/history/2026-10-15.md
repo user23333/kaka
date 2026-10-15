@@ -35,9 +35,13 @@
 |2|[HytaleTrainer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58535)|`2026-10-15 16:38:11`|
 |8|[Rotk Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58533)|`2026-10-15 16:38:11`|
 |3|[arlr&#95;update&#95;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58532)|`2026-10-15 16:38:11`|
+|8|[5&#46;7&#46;4&#45;516586&#43;&#43;&#43;Wardogs&#43;Live&#45;Wardogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58576)|`2026-10-15 21:26:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-10-15 21:26:00`|`DayZ SA`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-15 21:13:00`|`Other Games`|
+|[GoyBlox Auto&#45;Updating External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/772142-goyblox-auto-updating-external.html)|`2026-10-15 21:11:00`|`Roblox`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-15 20:37:00`|`Other FPS Games`|
 |[escrow/fxap dumper sv/cl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776901-escrow-fxap-dumper-sv-cl.html)|`2026-10-15 20:37:00`|`Alternative Online Mods`|
 |[How do i modify wind trees in game?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775876-modify-wind-trees-game.html)|`2026-10-15 20:30:00`|`Counter-Strike 2`|
