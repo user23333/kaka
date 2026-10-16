@@ -25,9 +25,19 @@
 |18|[Farever Table &#45; Claude v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58599)|`2026-10-17 00:37:33`|
 |33|[osu&#33;stable module source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58595)|`2026-10-17 00:37:33`|
 |4|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58592)|`2026-10-17 00:37:33`|
+|3|[WardogsClient restored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58648)|`2026-10-17 06:37:45`|
+|1|[Marvel Rivals Parallax Updated 2026&#45;10&#45;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58600)|`2026-10-17 06:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-17 06:36:00`|`Marvel Rivals`|
+|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-17 06:36:00`|`Other FPS Games`|
+|[why am i still getting ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771117-am-getting-ban.html)|`2026-10-17 06:34:00`|`Marvel Rivals`|
+|[Deskrawl Idle ARPG Trainer mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776945-deskrawl-idle-arpg-trainer-mod.html)|`2026-10-17 06:32:00`|`Other MMORPG and Strategy`|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777223-bullet-tp.html)|`2026-10-17 06:31:00`|`Rust`|
+|[How to clean traces after getting banned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775254-clean-traces-getting-banned.html)|`2026-10-17 06:31:00`|`Marvel Rivals`|
+|[Battleye internal input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776790-battleye-internal-input.html)|`2026-10-17 06:29:00`|`Anti-Cheat Research`|
+|[Need help on second device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776609-help-device-ban.html)|`2026-10-17 06:29:00`|`Marvel Rivals`|
 |[4000Hz / 8000Hz polling rate](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777095-4000hz-8000hz-polling-rate.html)|`2026-10-17 05:03:00`|`Off Topic`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/763625-showcase-esp-visuals.html)|`2026-10-17 05:02:00`|`Rust`|
 |[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/776098-phasmophobia-sardinas-menu.html)|`2026-10-17 05:02:00`|`Phasmophobia`|
