@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK bypass fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776616-rotk-bypass-fix.html)|`2026-10-16 19:33:00`|`H1Z1`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-16 19:23:00`|`Anti-Cheat Research`|
+|[Any Cs2 Bot Farm ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776705-cs2-bot-farm.html)|`2026-10-16 19:23:00`|`Counter-Strike 2`|
+|[injector issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775860-injector-issue.html)|`2026-10-16 19:19:00`|`Apex Legends`|
+|[7 Days To Die Internal 3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776992-7-days-die-internal-3-0-update.html)|`2026-10-16 19:17:00`|`Other FPS Games`|
+|[Aion2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776655-aion2-dumper.html)|`2026-10-16 19:11:00`|`Other MMORPG and Strategy`|
 |[Blazing Sails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776732-blazing-sails.html)|`2026-10-16 18:28:00`|`Other FPS Games`|
 |[Permafrost Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775389-permafrost-internal.html)|`2026-10-16 18:24:00`|`Other MMORPG and Strategy`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-16 17:22:00`|`Marvel Rivals`|
