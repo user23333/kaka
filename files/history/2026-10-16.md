@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-16 14:33:00`|`Paladins`|
+|[Fairguard reversal &#40;Free Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777040-fairguard-reversal-free-fire.html)|`2026-10-16 13:56:00`|`Anti-Cheat Research`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-16 13:48:00`|`Grand Theft Auto V`|
+|[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-10-16 13:45:00`|`Elite: Dangerous`|
+|[from a cheat&#45;devs prespective, how would a game best protect against cheaters?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/775348-cheat-devs-prespective-game-protect-cheaters.html)|`2026-10-16 13:39:00`|`Off Topic`|
 |[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-16 13:10:00`|`Unity`|
 |[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772573-wardogs-dma-release.html)|`2026-10-16 13:08:00`|`Wardogs`|
 |[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-10-16 13:01:00`|`Counter-Strike 2 Releases`|
