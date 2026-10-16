@@ -35,9 +35,15 @@
 |1|[osu&#33;stable module source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58595)|`2026-10-16 08:37:44`|
 |2|[source&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58589)|`2026-10-16 08:37:44`|
 |1|[fivemfuncs&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58582)|`2026-10-16 08:37:44`|
+|9|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58601)|`2026-10-16 09:20:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Enlisted ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776442-enlisted-esp-aimbot.html)|`2026-10-16 09:14:00`|`Other FPS Games`|
+|[cs2 no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777006-cs2-spread.html)|`2026-10-16 09:08:00`|`Counter-Strike 2`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-16 08:59:00`|`HELLDIVERS 2`|
+|[dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/777003-dumper.html)|`2026-10-16 08:59:00`|`Roblox`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-16 08:58:00`|`Deadlock`|
 |[Some fivem functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776878-fivem-functions.html)|`2026-10-16 08:34:00`|`Alternative Online Mods`|
 |[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-10-16 08:31:00`|`General Programming and Reversing`|
 |[More leaked rotations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/747938-leaked-rotations.html)|`2026-10-16 08:30:00`|`World of Warcraft`|
