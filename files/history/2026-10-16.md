@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-16 17:22:00`|`Marvel Rivals`|
+|[tf2 offsets&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/776464-tf2-offsets.html)|`2026-10-16 17:11:00`|`Team Fortress 2`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-10-16 17:08:00`|`Other FPS Games`|
+|[apewar cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775650-apewar-cheat.html)|`2026-10-16 17:02:00`|`Other FPS Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-16 16:59:00`|`Other FPS Games`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-16 16:37:00`|`Other Games`|
 |[Manual map bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776042-manual-map-bypass.html)|`2026-10-16 16:30:00`|`Anti-Cheat Research`|
 |[&#91;Guide&#93;Defeating GameGuard CSAuth3&#40;easier way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/357048-guide-defeating-gameguard-csauth3-easier.html)|`2026-10-16 16:28:00`|`Anti-Cheat Research`|
