@@ -11,6 +11,7 @@
 |26|[VAC update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776176-vac-update.html)|`2026-10-17 00:37:33`|`counter-strike-2-a`|
 |38|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-17 00:37:33`|`other-mmorpg-and-strategy`|
 |16|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-17 00:37:33`|`other-fps-games`|
+|29|[Rust EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776798-rust-eac-bypass.html)|`2026-10-17 04:37:48`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-17 04:37:00`|`Counter-Strike 2`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-10-17 04:35:00`|`Other MMORPG and Strategy`|
+|[Full Ai Made CS2 External &#40;OpenCode/AgentRouter's DeepSeek V4&#46;1 Flash Free &#43; DeepSeek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777199-ai-cs2-external-opencode-agentrouters-deepseek-v4-1-flash-free-deepseek.html)|`2026-10-17 04:34:00`|`Counter-Strike 2`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-17 04:33:00`|`Anti-Cheat Research`|
+|[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-17 04:30:00`|`Other Games`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-17 04:23:00`|`Counter-Strike 2 Releases`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-17 04:23:00`|`Escape from Tarkov`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-17 04:21:00`|`Grand Theft Auto V`|
+|[EAC Razer Synapse Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777027-eac-razer-synapse-macro.html)|`2026-10-17 04:20:00`|`Anti-Cheat Research`|
 |[Fog in mirage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775684-fog-mirage.html)|`2026-10-17 03:36:00`|`Counter-Strike 2`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-17 03:33:00`|`Deadlock`|
 |[FreeShopping Script for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777193-freeshopping-script-legacy.html)|`2026-10-17 03:29:00`|`Grand Theft Auto V`|
