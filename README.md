@@ -39,6 +39,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-16 16:37:00`|`Other Games`|
+|[Manual map bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776042-manual-map-bypass.html)|`2026-10-16 16:30:00`|`Anti-Cheat Research`|
+|[&#91;Guide&#93;Defeating GameGuard CSAuth3&#40;easier way&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/357048-guide-defeating-gameguard-csauth3-easier.html)|`2026-10-16 16:28:00`|`Anti-Cheat Research`|
+|[Bloodstrike GL External With HP and Team Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775532-bloodstrike-gl-external-hp-team-filter.html)|`2026-10-16 16:16:00`|`Other FPS Games`|
 |[XOR encrypting strings and only reading memory  safe ? vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776990-xor-encrypting-strings-reading-memory-safe-vac.html)|`2026-10-16 15:01:00`|`Counter-Strike 2`|
 |[CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777047-cs2-external-esp.html)|`2026-10-16 14:56:00`|`Counter-Strike 2`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-16 14:33:00`|`Paladins`|
