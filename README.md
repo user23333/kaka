@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-16 13:10:00`|`Unity`|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772573-wardogs-dma-release.html)|`2026-10-16 13:08:00`|`Wardogs`|
+|[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-10-16 13:01:00`|`Counter-Strike 2 Releases`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-16 12:55:00`|`Other FPS Games`|
+|[Does anyone know what HWID the new anticheat stores or apex in general?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777033-hwid-anticheat-stores-apex.html)|`2026-10-16 12:50:00`|`Apex Legends`|
+|[Understanding Rust’s Encrypted Functions and Resolving Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776761-understanding-rust-encrypted-functions-resolving-offsets.html)|`2026-10-16 12:50:00`|`Rust`|
 |[Ready Or Not Internal DX11/DX12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772658-ready-internal-dx11-dx12.html)|`2026-10-16 12:29:00`|`Other FPS Games`|
 |[Freecam Detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776796-freecam-detection.html)|`2026-10-16 12:24:00`|`Rust`|
 |[viewangles yaw delta snapping pose params during movement reprojection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776864-viewangles-yaw-delta-snapping-pose-params-movement-reprojection.html)|`2026-10-16 12:13:00`|`Counter-Strike 2`|
