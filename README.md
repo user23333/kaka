@@ -38,9 +38,17 @@
 |9|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58601)|`2026-10-16 09:20:51`|
 |1|[skydma FN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58561)|`2026-10-16 20:28:07`|
 |3|[DayZ Master Suite v1&#46;0 &#40;Internal &#43; External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58559)|`2026-10-16 20:28:07`|
+|2|[Wardog icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58615)|`2026-10-16 21:37:41`|
+|1|[Gui framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58587)|`2026-10-16 21:37:41`|
+|2|[4&#46;27&#46;1&#45;260801&#43;release&#45;7&#45;1&#45;OPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58571)|`2026-10-16 21:37:41`|
+|1|[Eidolon Anti&#45;Anti&#45;Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58565)|`2026-10-16 21:37:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Music while gaming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/777101-music-gaming.html)|`2026-10-16 21:36:00`|`Music and Videos`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-16 21:30:00`|`Red Dead Redemption 2`|
+|[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776921-gui-framework.html)|`2026-10-16 21:30:00`|`Counter-Strike 2`|
+|[Upgrade PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777102-upgrade-pc.html)|`2026-10-16 21:23:00`|`Forum General`|
 |[How do I lift the ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777053-lift-ban.html)|`2026-10-16 20:22:00`|`Deadlock`|
 |[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-16 20:17:00`|`Other MMORPG and Strategy`|
 |[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-10-16 20:16:00`|`DayZ SA`|
