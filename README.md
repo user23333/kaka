@@ -39,6 +39,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[XOR encrypting strings and only reading memory  safe ? vac](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776990-xor-encrypting-strings-reading-memory-safe-vac.html)|`2026-10-16 15:01:00`|`Counter-Strike 2`|
+|[CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777047-cs2-external-esp.html)|`2026-10-16 14:56:00`|`Counter-Strike 2`|
 |[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-16 14:33:00`|`Paladins`|
 |[Fairguard reversal &#40;Free Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777040-fairguard-reversal-free-fire.html)|`2026-10-16 13:56:00`|`Anti-Cheat Research`|
 |[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-16 13:48:00`|`Grand Theft Auto V`|
