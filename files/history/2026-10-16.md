@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is VAC updated?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775887-vac-updated.html)|`2026-10-16 11:34:00`|`Counter-Strike 2`|
+|[Albion Online structs and offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/469442-albion-online-structs-offsets.html)|`2026-10-16 11:14:00`|`Other Games`|
+|[AutoStrafe With Anti&#45;Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776920-autostrafe-anti-aim.html)|`2026-10-16 11:13:00`|`Counter-Strike 2`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-16 11:09:00`|`Other MMORPG and Strategy`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-16 11:06:00`|`ARC Raiders`|
 |[I want to buy a kernel driver and mapper&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777024-buy-kernel-driver-mapper.html)|`2026-10-16 10:25:00`|`Off Topic`|
 |[Naruto To Boruto shinobi striker trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771405-naruto-boruto-shinobi-striker-trainer.html)|`2026-10-16 10:22:00`|`Other MMORPG and Strategy`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-16 10:17:00`|`Grand Theft Auto V`|
