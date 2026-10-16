@@ -27,9 +27,20 @@
 |4|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58592)|`2026-10-17 00:37:33`|
 |3|[WardogsClient restored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58648)|`2026-10-17 06:37:45`|
 |1|[Marvel Rivals Parallax Updated 2026&#45;10&#45;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58600)|`2026-10-17 06:37:45`|
+|2|[external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58621)|`2026-10-17 07:37:07`|
+|1|[Internal final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58617)|`2026-10-17 07:37:07`|
+|3|[Bocw Source Code Final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58616)|`2026-10-17 07:37:07`|
+|1|[Melonpiss](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58610)|`2026-10-17 07:37:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-10-17 07:37:00`|`Other FPS Games`|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-10-17 07:30:00`|`Call of Duty: Black Ops 2`|
+|[CSGO 2026 &#45; Resolvers, Predictions and AnimationFixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/772773-csgo-2026-resolvers-predictions-animationfixes.html)|`2026-10-17 07:28:00`|`Counterstrike Global Offensive`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-10-17 07:26:00`|`Call of Duty: Black Ops Cold War`|
+|[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-10-17 07:25:00`|`Team Fortress 2`|
+|[Gears E&#45;Day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777225-gears-day.html)|`2026-10-17 07:20:00`|`Other FPS Games`|
+|[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-10-17 07:18:00`|`Other FPS Games`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-17 06:36:00`|`Marvel Rivals`|
 |[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-17 06:36:00`|`Other FPS Games`|
 |[why am i still getting ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771117-am-getting-ban.html)|`2026-10-17 06:34:00`|`Marvel Rivals`|
