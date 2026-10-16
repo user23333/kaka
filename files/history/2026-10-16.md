@@ -36,9 +36,17 @@
 |2|[source&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58589)|`2026-10-16 08:37:44`|
 |1|[fivemfuncs&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58582)|`2026-10-16 08:37:44`|
 |9|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;15](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58601)|`2026-10-16 09:20:51`|
+|1|[skydma FN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58561)|`2026-10-16 20:28:07`|
+|3|[DayZ Master Suite v1&#46;0 &#40;Internal &#43; External&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58559)|`2026-10-16 20:28:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I lift the ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777053-lift-ban.html)|`2026-10-16 20:22:00`|`Deadlock`|
+|[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-16 20:17:00`|`Other MMORPG and Strategy`|
+|[DayZ External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/759243-dayz-external-cheat.html)|`2026-10-16 20:16:00`|`DayZ SA`|
+|[Avoid getting Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777077-avoid-getting-ban.html)|`2026-10-16 20:11:00`|`Forum General`|
+|[ROTK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777067-rotk-internal.html)|`2026-10-16 20:11:00`|`H1Z1`|
+|[DayZ Internal &#43; External Dual&#45;Engine Suite &#124; v1&#46;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/776811-dayz-internal-external-dual-engine-suite-v1-29-a.html)|`2026-10-16 20:10:00`|`DayZ SA`|
 |[ROTK bypass fix?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776616-rotk-bypass-fix.html)|`2026-10-16 19:33:00`|`H1Z1`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-16 19:23:00`|`Anti-Cheat Research`|
 |[Any Cs2 Bot Farm ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776705-cs2-bot-farm.html)|`2026-10-16 19:23:00`|`Counter-Strike 2`|
