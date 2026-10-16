@@ -45,9 +45,15 @@
 |3|[new lite release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58611)|`2026-10-16 22:37:43`|
 |4|[bs&#45;dump&#45;decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58609)|`2026-10-16 22:37:43`|
 |2|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58592)|`2026-10-16 22:37:43`|
+|18|[PUBG SDK 2610&#46;1&#46;1&#46;65](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58623)|`2026-10-16 23:37:39`|
+|3|[Pokemon Mod v8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58614)|`2026-10-16 23:37:39`|
+|22|[wardogs&#45;usmap&#45;20261015](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58612)|`2026-10-16 23:37:39`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-16 23:18:00`|`Escape from Tarkov`|
+|[Black Desert Online Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771381-black-desert-online-reversal-structs-offsets.html)|`2026-10-16 23:13:00`|`Other MMORPG and Strategy`|
+|[Bloodstrike massive decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777000-bloodstrike-massive-decomp.html)|`2026-10-16 23:12:00`|`Other FPS Games`|
 |[Get again the Enus Paragon R Armored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777107-enus-paragon-armored.html)|`2026-10-16 22:37:00`|`Grand Theft Auto V`|
 |[rust external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777060-rust-external-cheat.html)|`2026-10-16 22:25:00`|`Rust`|
 |[Alkad bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777056-alkad-bypass.html)|`2026-10-16 22:23:00`|`Rust`|
