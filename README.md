@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fog in mirage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775684-fog-mirage.html)|`2026-10-17 03:36:00`|`Counter-Strike 2`|
+|[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-17 03:33:00`|`Deadlock`|
+|[FreeShopping Script for Legacy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777193-freeshopping-script-legacy.html)|`2026-10-17 03:29:00`|`Grand Theft Auto V`|
+|[DMA CS2 SOURCE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775484-dma-cs2-source.html)|`2026-10-17 03:22:00`|`Counter-Strike 2`|
+|[Bhop prediction fails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775502-bhop-prediction-fails.html)|`2026-10-17 03:19:00`|`Counter-Strike 2`|
+|[beserk inv changer &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/771531-beserk-inv-changer-updated.html)|`2026-10-17 03:18:00`|`Counter-Strike 2`|
+|[Get again the Enus Paragon R Armored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777107-enus-paragon-armored.html)|`2026-10-17 03:18:00`|`Grand Theft Auto V`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-17 03:16:00`|`Other Games`|
 |[Blazing Sails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776732-blazing-sails.html)|`2026-10-17 02:37:00`|`Other FPS Games`|
 |[vac live without cheat on new account](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775987-vac-live-cheat-account.html)|`2026-10-17 02:36:00`|`Counter-Strike 2`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-17 02:36:00`|`DayZ SA`|
