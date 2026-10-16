@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I want to buy a kernel driver and mapper&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777024-buy-kernel-driver-mapper.html)|`2026-10-16 10:25:00`|`Off Topic`|
+|[Naruto To Boruto shinobi striker trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771405-naruto-boruto-shinobi-striker-trainer.html)|`2026-10-16 10:22:00`|`Other MMORPG and Strategy`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-16 10:17:00`|`Grand Theft Auto V`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-16 10:12:00`|`Rainbow Six Siege`|
+|[ACE &#40;Anti&#45;Cheat Expert&#41; analysis deep research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776653-ace-anti-cheat-expert-analysis-deep-research.html)|`2026-10-16 10:06:00`|`Anti-Cheat Research`|
 |[Enlisted ESP & Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776442-enlisted-esp-aimbot.html)|`2026-10-16 09:14:00`|`Other FPS Games`|
 |[cs2 no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777006-cs2-spread.html)|`2026-10-16 09:08:00`|`Counter-Strike 2`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-16 08:59:00`|`HELLDIVERS 2`|
