@@ -42,9 +42,16 @@
 |1|[Gui framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58587)|`2026-10-16 21:37:41`|
 |2|[4&#46;27&#46;1&#45;260801&#43;release&#45;7&#45;1&#45;OPP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58571)|`2026-10-16 21:37:41`|
 |1|[Eidolon Anti&#45;Anti&#45;Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58565)|`2026-10-16 21:37:41`|
+|3|[new lite release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58611)|`2026-10-16 22:37:43`|
+|4|[bs&#45;dump&#45;decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58609)|`2026-10-16 22:37:43`|
+|2|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58592)|`2026-10-16 22:37:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Get again the Enus Paragon R Armored](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777107-enus-paragon-armored.html)|`2026-10-16 22:37:00`|`Grand Theft Auto V`|
+|[rust external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777060-rust-external-cheat.html)|`2026-10-16 22:25:00`|`Rust`|
+|[Alkad bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777056-alkad-bypass.html)|`2026-10-16 22:23:00`|`Rust`|
+|[Bypass WDA&#95;excludefromcapture](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776955-bypass-wda_excludefromcapture.html)|`2026-10-16 22:12:00`|`Anti-Cheat Research`|
 |[Music while gaming](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/music-and-videos/777101-music-gaming.html)|`2026-10-16 21:36:00`|`Music and Videos`|
 |[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-16 21:30:00`|`Red Dead Redemption 2`|
 |[GUI Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776921-gui-framework.html)|`2026-10-16 21:30:00`|`Counter-Strike 2`|
