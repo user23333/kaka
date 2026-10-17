@@ -52,6 +52,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gems of War &#91;Bot &#43; Patch &#43; Dashboard&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776244-gems-war-bot-patch-dashboard.html)|`2026-10-17 18:26:00`|`Other MMORPG and Strategy`|
+|[Better way of reading match timer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777268-reading-match-timer.html)|`2026-10-17 18:20:00`|`Deadlock`|
+|[What does javelin do with Apexs CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775524-javelin-apexs-cr3.html)|`2026-10-17 18:14:00`|`Apex Legends`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-17 18:10:00`|`Tom Clancy's The Division`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-10-17 18:03:00`|`Overwatch`|
 |[&#91;AION 2&#93; aesteria &#45; External ESP & routing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776954-aion-2-aesteria-external-esp-routing.html)|`2026-10-17 17:14:00`|`Other MMORPG and Strategy`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-17 17:10:00`|`Other Games`|
 |[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-17 17:03:00`|`Other Games`|
