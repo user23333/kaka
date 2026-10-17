@@ -25,9 +25,15 @@
 |37|[5&#46;7&#46;4&#45;516586&#43;&#43;&#43;Wardogs&#43;Live&#45;Wardogs&#46;deobfusca](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58657)|`2026-10-18 00:37:40`|
 |3|[Bo2 AIO RTE Tool V6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58656)|`2026-10-18 00:37:40`|
 |48|[wardogs antitamper&#45;tamperer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58654)|`2026-10-18 00:37:40`|
+|7|[raxguard&#45;deterministic&#46;pdf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58672)|`2026-10-18 05:37:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-18 05:35:00`|`Other FPS Games`|
+|[Face Injector Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/765805-injector-updated.html)|`2026-10-18 05:31:00`|`Call of Duty: Modern Warfare II`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-18 05:30:00`|`Overwatch`|
+|[Some Players Not Showing Up in ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777115-players-esp.html)|`2026-10-18 05:15:00`|`Call of Duty: Black Ops 7`|
+|[Temporary Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777332-temporary-ban.html)|`2026-10-18 05:11:00`|`Call of Duty: Black Ops 7`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-18 04:29:00`|`Tom Clancy's The Division`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-18 04:24:00`|`Call of Duty: Black Ops 7`|
 |[AI Aimbot & Trigger Bot That Outperforms Internal and External Cheats 🔥](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/685011-ai-aimbot-trigger-bot-outperforms-internal-external-cheats.html)|`2026-10-18 04:24:00`|`Rainbow Six Siege`|
