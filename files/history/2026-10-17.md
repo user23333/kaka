@@ -49,9 +49,19 @@
 |1|[Wardogs web radar &#40;season 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58652)|`2026-10-17 15:37:34`|
 |3|[DayZServerPatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58646)|`2026-10-17 15:37:34`|
 |5|[RDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58649)|`2026-10-17 16:37:26`|
+|1|[M&#45;i&#45;K&#45;e's Full SDK for Deadside &#45; 17 Oct 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58664)|`2026-10-17 23:37:33`|
+|3|[BloodStrike Decompiled Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58663)|`2026-10-17 23:37:33`|
+|3|[BloodStrike SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58662)|`2026-10-17 23:37:33`|
+|1|[SCP:SLRedux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58661)|`2026-10-17 23:37:33`|
+|1|[aesteria&#45;linux&#45;v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58660)|`2026-10-17 23:37:33`|
+|1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58659)|`2026-10-17 23:37:33`|
+|1|[TCSM Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58658)|`2026-10-17 23:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Advanced SCP;SL &#40;Secret Laboratory&#41; ESP Linux &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776995-advanced-scp-sl-secret-laboratory-esp-linux-external.html)|`2026-10-17 23:34:00`|`Other Games`|
+|[M&#45;i&#45;K&#45;e's Deadside &#45; Full SDK &#45; 17 Oct 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777291-es-deadside-sdk-17-oct-2026-a.html)|`2026-10-17 23:33:00`|`Other FPS Games`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-17 23:32:00`|`HELLDIVERS 2`|
 |[anticheat analysis netease LITE Marvel Rivals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776299-anticheat-analysis-netease-lite-marvel-rivals.html)|`2026-10-17 22:33:00`|`Marvel Rivals`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-17 22:31:00`|`Rust`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-17 22:25:00`|`Call of Duty: Black Ops 7`|
