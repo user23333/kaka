@@ -52,6 +52,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM sv&#95;pureLevel changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/640619-fivem-sv_purelevel-changer.html)|`2026-10-17 21:35:00`|`Alternative Online Mods`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-17 21:33:00`|`Other FPS Games`|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-10-17 21:31:00`|`Grand Theft Auto V`|
+|[Arc Raiders SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776153-arc-raiders-sdk-dumper.html)|`2026-10-17 21:19:00`|`ARC Raiders`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-10-17 21:16:00`|`Escape from Tarkov`|
 |[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-10-17 20:32:00`|`Other Games`|
 |[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-17 20:28:00`|`Other Games`|
 |[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-17 20:26:00`|`Other FPS Games`|
