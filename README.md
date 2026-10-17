@@ -52,6 +52,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-10-17 20:32:00`|`Other Games`|
+|[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-17 20:28:00`|`Other Games`|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-17 20:26:00`|`Other FPS Games`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-17 20:24:00`|`Counter-Strike 2`|
+|[Vac in linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777275-vac-linux.html)|`2026-10-17 20:19:00`|`Counter-Strike 2`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-17 20:18:00`|`Other MMORPG and Strategy`|
 |[R6 glowwww](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776508-r6-glowwww.html)|`2026-10-17 19:33:00`|`Rainbow Six Siege`|
 |[NarcosLifeRP Money Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/773610-narcosliferp-money-spawner.html)|`2026-10-17 19:17:00`|`ARMA 3`|
 |[Some Players Not Showing Up in ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777115-players-esp.html)|`2026-10-17 19:13:00`|`Call of Duty: Black Ops 7`|
