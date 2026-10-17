@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-17 09:35:00`|`Other FPS Games`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-17 09:34:00`|`Other FPS Games`|
+|[ROTK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777067-rotk-internal.html)|`2026-10-17 09:31:00`|`H1Z1`|
+|[BloodStrike Updated offsets for Steam &#40;16 Oct 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777209-bloodstrike-updated-offsets-steam-16-oct-2026-a.html)|`2026-10-17 09:26:00`|`Other FPS Games`|
+|[Help please point me in the right direction&#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/777242-help-please-direction.html)|`2026-10-17 09:13:00`|`Call of Duty: Modern Warfare III`|
 |[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-17 08:24:00`|`Other Games`|
 |[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-17 08:21:00`|`Other MMORPG and Strategy`|
 |[DayZ Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/757594-dayz-dumper.html)|`2026-10-17 08:15:00`|`DayZ SA`|
