@@ -11,6 +11,7 @@
 |32|[Rust EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776798-rust-eac-bypass.html)|`2026-10-18 00:37:40`|`anti-cheat-research`|
 |17|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-18 00:37:40`|`other-fps-games`|
 |10|[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-10-18 00:37:40`|`arc-raiders`|
+|23|[How to stay undetected with BattlEye Oct&#46; 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776356-stay-undetected-battleye-oct-2026-a.html)|`2026-10-18 03:27:13`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-10-18 03:22:00`|`Roblox`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-18 03:22:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-18 03:22:00`|`DayZ SA`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-18 03:05:00`|`ARC Raiders`|
 |[&#91;AION 2&#93; aesteria &#45; External ESP & routing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776954-aion-2-aesteria-external-esp-routing.html)|`2026-10-18 02:29:00`|`Other MMORPG and Strategy`|
 |[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-18 02:06:00`|`H1Z1`|
 |[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-18 02:04:00`|`HELLDIVERS 2`|
