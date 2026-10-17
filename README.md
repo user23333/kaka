@@ -47,9 +47,14 @@
 |1|[Scam With Your Friends &#45; ImGui Cash Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58653)|`2026-10-17 15:37:34`|
 |1|[Wardogs web radar &#40;season 2&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58652)|`2026-10-17 15:37:34`|
 |3|[DayZServerPatcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58646)|`2026-10-17 15:37:34`|
+|5|[RDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58649)|`2026-10-17 16:37:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TCSM Internal &#124; ESP &#43; GLOW &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777262-tcsm-internal-esp-glow-aimbot.html)|`2026-10-17 16:28:00`|`Other Games`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-17 16:23:00`|`HELLDIVERS 2`|
+|[Inject methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777233-inject-methods.html)|`2026-10-17 16:23:00`|`Counter-Strike 2`|
+|[Bloodstrike GL External With HP and Team Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775532-bloodstrike-gl-external-hp-team-filter.html)|`2026-10-17 16:22:00`|`Other FPS Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-17 15:23:00`|`Counter-Strike 2 Releases`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-17 15:16:00`|`Apex Legends`|
 |[AmongUsCosmetics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/521567-amonguscosmetics.html)|`2026-10-17 14:30:00`|`Among Us`|
