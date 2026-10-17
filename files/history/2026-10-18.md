@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777338-update.html)|`2026-10-18 06:18:00`|`H1Z1`|
+|[Looking for a few people to work with](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777339-looking-people.html)|`2026-10-18 06:15:00`|`H1Z1`|
+|[Hello im new here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/777279-hello-im.html)|`2026-10-18 06:15:00`|`Introductions`|
+|[EFT: Arena Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/614375-eft-arena-reversal-structs-offsets.html)|`2026-10-18 06:10:00`|`Escape from Tarkov`|
+|[WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772573-wardogs-dma-release.html)|`2026-10-18 06:07:00`|`Wardogs`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-18 06:03:00`|`Other FPS Games`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-18 06:01:00`|`Other Games`|
+|[im looking for VMProtect version 3&#46;7&#46;x&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777266-im-looking-vmprotect-version-3-7-a.html)|`2026-10-18 05:57:00`|`General Programming and Reversing`|
 |[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-18 05:35:00`|`Other FPS Games`|
 |[Face Injector Updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/765805-injector-updated.html)|`2026-10-18 05:31:00`|`Call of Duty: Modern Warfare II`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-18 05:30:00`|`Overwatch`|
