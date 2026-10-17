@@ -40,9 +40,13 @@
 |1|[5&#46;7&#46;4&#45;543693&#43;&#43;&#43;Ravage&#43;rel&#95;1&#46;1&#46;1&#45;Ravage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58642)|`2026-10-17 08:38:05`|
 |4|[new wardogs dma lite v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58640)|`2026-10-17 08:38:05`|
 |22|[AION 2 External Version 2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58639)|`2026-10-17 08:38:05`|
+|11|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58637)|`2026-10-17 13:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battlefield V internal source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-v/777135-battlefield-internal-source.html)|`2026-10-17 13:35:00`|`Battlefield V`|
+|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-17 13:32:00`|`Wardogs`|
+|[exe unpack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/777248-exe-unpack.html)|`2026-10-17 13:15:00`|`Battlefield 6`|
 |[R6 WORKING 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773042-r6-1pc-makcu-colorbot.html)|`2026-10-17 12:20:00`|`Rainbow Six Siege`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-17 12:00:00`|`Marvel Rivals`|
 |[Multiple games on 1 pc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/776297-multiple-games-1-pc.html)|`2026-10-17 11:40:00`|`Wardogs`|
