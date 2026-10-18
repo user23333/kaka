@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[battlefield 1 internal source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/777123-battlefield-1-internal-source.html)|`2026-10-18 09:30:00`|`Battlefield 1`|
+|[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-18 09:12:00`|`Other MMORPG and Strategy`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-18 09:08:00`|`Other Games`|
+|[Wardogs Web Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/773877-wardogs-web-radar.html)|`2026-10-18 09:03:00`|`Wardogs`|
 |[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-10-18 09:00:00`|`Rainbow Six Siege`|
 |[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-18 08:59:00`|`Other MMORPG and Strategy`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-18 08:52:00`|`Wardogs`|
