@@ -11,6 +11,7 @@
 |31|[&#91;eac&#93; please unload &#40;thedriver&#41;&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776346-eac-please-unload-thedriver-sys.html)|`2026-10-19 00:37:24`|`anti-cheat-research`|
 |18|[ROTK Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776706-rotk-internal-source.html)|`2026-10-19 00:37:24`|`h1z1`|
 |11|[Deadlock External Source &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776484-deadlock-external-source-updated.html)|`2026-10-19 00:37:24`|`deadlock`|
+|8|[R6 glowwww](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776508-r6-glowwww.html)|`2026-10-19 02:05:46`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,19 @@
 |69|[BloodStrike Decompiled Scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58663)|`2026-10-19 00:37:24`|
 |72|[BloodStrike SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58662)|`2026-10-19 00:37:24`|
 |10|[SCP:SLRedux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58661)|`2026-10-19 00:37:24`|
+|3|[updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58675)|`2026-10-19 02:05:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-19 02:04:00`|`Other MMORPG and Strategy`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-19 02:04:00`|`Counter-Strike 2 Releases`|
+|[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-10-19 02:03:00`|`General Programming and Reversing`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-19 02:00:00`|`Other FPS Games`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-19 02:00:00`|`Rainbow Six Siege`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-19 01:59:00`|`Escape from Tarkov`|
+|[The Division 2 &#124; Offset Dumper fix &#124; Steam/Ubisoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/774076-division-2-offset-dumper-fix-steam-ubisoft.html)|`2026-10-19 01:55:00`|`Tom Clancy's The Division`|
+|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-10-19 01:52:00`|`Rainbow Six Siege`|
+|[External skinchanger crashes when applying skin after update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/775407-external-skinchanger-crashes-applying-skin-update.html)|`2026-10-19 01:51:00`|`Counter-Strike 2`|
 |[Dumping offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776871-dumping-offsets.html)|`2026-10-19 01:36:00`|`Deadlock`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-19 01:35:00`|`HELLDIVERS 2`|
 |[rust external noob](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777241-rust-external-noob.html)|`2026-10-19 01:35:00`|`Rust`|
