@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ECC: REDLINE Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777304-ecc-redline-reversal-structs-offsets.html)|`2026-10-18 17:35:00`|`Other FPS Games`|
+|[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-18 17:26:00`|`Deadlock`|
+|[DenimR6 &#45; offset and memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776966-denimr6-offset-memory-dumper.html)|`2026-10-18 17:20:00`|`Rainbow Six Siege`|
+|[Why is Scylla still the go&#45;to dumper instead of PE&#45;sieve for reversing?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777280-scylla-dumper-instead-pe-sieve-reversing.html)|`2026-10-18 17:16:00`|`General Programming and Reversing`|
 |[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-18 16:17:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-18 15:55:00`|`Overwatch`|
 |[Javelin x64dbg detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777382-javelin-x64dbg-detection.html)|`2026-10-18 15:55:00`|`Anti-Cheat Research`|
