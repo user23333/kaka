@@ -38,6 +38,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA SQUAD RADAR &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775494-dma-squad-radar-esp.html)|`2026-10-18 21:07:00`|`Other FPS Games`|
+|[Winds of valen](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/750993-winds-valen.html)|`2026-10-18 21:06:00`|`Other MMORPG and Strategy`|
+|[Precision The Division 1 Cheat &#91;Silent Aim, Magic Bullets, etc&#46;&#46;&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/673526-precision-division-1-cheat-silent-aim-magic-bullets-etc.html)|`2026-10-18 20:55:00`|`Tom Clancy's The Division`|
 |[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-18 20:05:00`|`Other FPS Games`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-18 20:04:00`|`Wardogs`|
 |[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-10-18 19:47:00`|`Grand Theft Auto V`|
