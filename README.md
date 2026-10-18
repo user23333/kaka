@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External Source &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776484-deadlock-external-source-updated.html)|`2026-10-19 05:36:00`|`Deadlock`|
+|[Gears of War E&#45;day EAC Bypass &#43; Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/767628-gears-war-day-eac-bypass-cheats.html)|`2026-10-19 05:36:00`|`Other FPS Games`|
+|[Karma 3 &#45; Ring0 Fullstack Mechanic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/776639-karma-3-ring0-fullstack-mechanic.html)|`2026-10-19 05:28:00`|`ARMA 3`|
+|[Shooterspool Snooker Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771257-shooterspool-snooker-tool.html)|`2026-10-19 05:20:00`|`Other Games`|
+|[How to start creating cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/777074-start-creating-cheats.html)|`2026-10-19 05:16:00`|`Programming for Beginners`|
 |[Terraria External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756815-terraria-external.html)|`2026-10-19 04:39:00`|`Other MMORPG and Strategy`|
 |[Advanced SCP;SL &#40;Secret Laboratory&#41; ESP Linux &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776995-advanced-scp-sl-secret-laboratory-esp-linux-external.html)|`2026-10-19 04:37:00`|`Other Games`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2026-10-19 04:37:00`|`Red Dead Redemption 2`|
