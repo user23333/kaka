@@ -38,6 +38,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-18 19:09:00`|`Grand Theft Auto V`|
 |[Karma 3 &#45; Ring0 Fullstack Mechanic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/776639-karma-3-ring0-fullstack-mechanic.html)|`2026-10-18 18:52:00`|`ARMA 3`|
 |[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-18 18:51:00`|`Escape from Tarkov`|
 |[Doliprane cs2 movement &#43; inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776339-doliprane-cs2-movement-inventory-changer.html)|`2026-10-18 18:47:00`|`Counter-Strike 2`|
