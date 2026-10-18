@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-10-18 09:00:00`|`Rainbow Six Siege`|
+|[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-18 08:59:00`|`Other MMORPG and Strategy`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-18 08:52:00`|`Wardogs`|
+|[since the newest Overwatch update i cant read health properly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777036-overwatch-update-cant-read-health-properly.html)|`2026-10-18 08:49:00`|`Overwatch`|
+|[Does Blizzard hwid/ip ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777234-blizzard-hwid-ip-ban.html)|`2026-10-18 08:47:00`|`Overwatch`|
+|[Hood Warfare 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776375-hood-warfare-2-cheat.html)|`2026-10-18 08:46:00`|`Other FPS Games`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-18 08:42:00`|`Grand Theft Auto V`|
 |[Need help: detaching RevEmu from the bir3yk website so it works offline &#40;CS: Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/777202-help-detaching-revemu-bir3yk-website-offline-cs-source.html)|`2026-10-18 08:35:00`|`CounterStrike Source`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-18 08:31:00`|`Counter-Strike 2 Releases`|
 |[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-10-18 08:30:00`|`Unity`|
