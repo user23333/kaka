@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Karma 3 &#45; Ring0 Fullstack Mechanic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/776639-karma-3-ring0-fullstack-mechanic.html)|`2026-10-18 18:52:00`|`ARMA 3`|
+|[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-18 18:51:00`|`Escape from Tarkov`|
+|[Doliprane cs2 movement &#43; inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776339-doliprane-cs2-movement-inventory-changer.html)|`2026-10-18 18:47:00`|`Counter-Strike 2`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-18 18:42:00`|`Off Topic`|
 |[Permafrost Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775389-permafrost-internal.html)|`2026-10-18 18:34:00`|`Other MMORPG and Strategy`|
 |[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-10-18 18:30:00`|`Forum General`|
 |[Bloodstrike massive decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777000-bloodstrike-massive-decomp.html)|`2026-10-18 18:29:00`|`Other FPS Games`|
