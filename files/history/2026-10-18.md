@@ -13,6 +13,7 @@
 |10|[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-10-18 00:37:40`|`arc-raiders`|
 |23|[How to stay undetected with BattlEye Oct&#46; 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776356-stay-undetected-battleye-oct-2026-a.html)|`2026-10-18 03:27:13`|`anti-cheat-research`|
 |24|[Doliprane cs2 movement &#43; inventory changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776339-doliprane-cs2-movement-inventory-changer.html)|`2026-10-18 07:37:23`|`counter-strike-2-a`|
+|31|[&#91;eac&#93; please unload &#40;thedriver&#41;&#46;sys](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776346-eac-please-unload-thedriver-sys.html)|`2026-10-18 11:37:34`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-18 11:16:00`|`Counter-Strike 2`|
 |[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777223-bullet-tp.html)|`2026-10-18 10:33:00`|`Rust`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-18 10:29:00`|`THE FINALS`|
 |[Dota 2 GSI Auto Armlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764475-dota-2-gsi-auto-armlet.html)|`2026-10-18 10:25:00`|`Other MMORPG and Strategy`|
