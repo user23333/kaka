@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help: detaching RevEmu from the bir3yk website so it works offline &#40;CS: Source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/777202-help-detaching-revemu-bir3yk-website-offline-cs-source.html)|`2026-10-18 08:35:00`|`CounterStrike Source`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-18 08:31:00`|`Counter-Strike 2 Releases`|
+|[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-10-18 08:30:00`|`Unity`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-18 08:25:00`|`HELLDIVERS 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-18 08:22:00`|`Apex Legends`|
 |[R6 glowwww](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776508-r6-glowwww.html)|`2026-10-18 07:25:00`|`Rainbow Six Siege`|
 |[Inject methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777233-inject-methods.html)|`2026-10-18 07:22:00`|`Counter-Strike 2`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-18 07:19:00`|`Other MMORPG and Strategy`|
