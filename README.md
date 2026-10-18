@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-18 16:17:00`|`Other FPS Games`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-18 15:55:00`|`Overwatch`|
+|[Javelin x64dbg detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777382-javelin-x64dbg-detection.html)|`2026-10-18 15:55:00`|`Anti-Cheat Research`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-10-18 15:49:00`|`Counter-Strike 2`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-18 15:42:00`|`Apex Legends`|
 |[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-10-18 15:22:00`|`Escape from Tarkov`|
 |[Blazing Sails](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776732-blazing-sails.html)|`2026-10-18 15:06:00`|`Other FPS Games`|
 |[BF6 Javelin zeroing all DMA reads on custom 75T pcileech after ~60s in game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/767569-bf6-javelin-zeroing-dma-reads-custom-75t-pcileech-60s-game.html)|`2026-10-18 14:26:00`|`Battlefield 6`|
