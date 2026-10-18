@@ -43,6 +43,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Advanced SCP;SL &#40;Secret Laboratory&#41; ESP Linux &#91;External&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776995-advanced-scp-sl-secret-laboratory-esp-linux-external.html)|`2026-10-19 04:37:00`|`Other Games`|
+|[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2026-10-19 04:37:00`|`Red Dead Redemption 2`|
+|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-19 04:36:00`|`Other FPS Games`|
+|[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-19 04:29:00`|`Other MMORPG and Strategy`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-19 04:27:00`|`Other MMORPG and Strategy`|
+|[Javelin x64dbg detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777382-javelin-x64dbg-detection.html)|`2026-10-19 04:26:00`|`Anti-Cheat Research`|
+|[How to Get All the Bone IDs You Need](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777451-bone-ids.html)|`2026-10-19 04:20:00`|`Counter-Strike 2`|
 |[Does Blizzard hwid/ip ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777234-blizzard-hwid-ip-ban.html)|`2026-10-19 03:35:00`|`Overwatch`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-19 03:24:00`|`Other FPS Games`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-10-19 03:24:00`|`Other MMORPG and Strategy`|
