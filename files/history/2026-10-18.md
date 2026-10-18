@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bullet TP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777223-bullet-tp.html)|`2026-10-18 10:33:00`|`Rust`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-18 10:29:00`|`THE FINALS`|
+|[Dota 2 GSI Auto Armlet](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/764475-dota-2-gsi-auto-armlet.html)|`2026-10-18 10:25:00`|`Other MMORPG and Strategy`|
+|[Lethal Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/777365-lethal-company-internal.html)|`2026-10-18 10:24:00`|`Lethal Company`|
+|[RTSS/RivaTuner Injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776220-rtss-rivatuner-injection.html)|`2026-10-18 10:20:00`|`Anti-Cheat Research`|
+|[Ready or Not internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/719035-ready-internal-cheat.html)|`2026-10-18 10:19:00`|`Other FPS Games`|
 |[battlefield 1 internal source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/777123-battlefield-1-internal-source.html)|`2026-10-18 09:30:00`|`Battlefield 1`|
 |[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-18 09:12:00`|`Other MMORPG and Strategy`|
 |[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-18 09:08:00`|`Other Games`|
