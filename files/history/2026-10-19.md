@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;FREE&#93; FIVEM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755613-free-fivem-spoofer.html)|`2026-10-19 06:57:00`|`Alternative Online Mods`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-19 06:51:00`|`Marvel Rivals`|
+|[Gears E&#45;Day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777225-gears-day.html)|`2026-10-19 06:44:00`|`Other FPS Games`|
 |[Hood Warfare 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776585-hood-warfare-2-internal.html)|`2026-10-19 06:38:00`|`Other Games`|
 |[Rust no eac server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773442-rust-eac-server.html)|`2026-10-19 06:35:00`|`Rust`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-19 06:30:00`|`Call of Duty: Black Ops 7`|
