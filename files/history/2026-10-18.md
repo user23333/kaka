@@ -38,6 +38,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hoodwarfer 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776210-hoodwarfer-2-reversal-structs-offsets.html)|`2026-10-18 20:05:00`|`Other FPS Games`|
+|[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-10-18 20:04:00`|`Wardogs`|
+|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-10-18 19:47:00`|`Grand Theft Auto V`|
+|[DMA Internal Injector &#40;Thread Hjacking &#43; Manual Map&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/777395-dma-internal-injector-thread-hjacking-manual-map.html)|`2026-10-18 19:43:00`|`Counter-Strike 2 Releases`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-18 19:09:00`|`Grand Theft Auto V`|
 |[Karma 3 &#45; Ring0 Fullstack Mechanic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/776639-karma-3-ring0-fullstack-mechanic.html)|`2026-10-18 18:52:00`|`ARMA 3`|
 |[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-18 18:51:00`|`Escape from Tarkov`|
