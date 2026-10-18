@@ -30,9 +30,19 @@
 |3|[Bo2 AIO RTE Tool V6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58656)|`2026-10-18 00:37:40`|
 |48|[wardogs antitamper&#45;tamperer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58654)|`2026-10-18 00:37:40`|
 |7|[raxguard&#45;deterministic&#46;pdf](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58672)|`2026-10-18 05:37:24`|
+|1|[Permafrost Internal 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58674)|`2026-10-18 18:37:33`|
+|2|[HW2 Cheat updated ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58673)|`2026-10-18 18:37:33`|
+|2|[bl4v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58671)|`2026-10-18 18:37:33`|
+|1|[ecc redline &#45; dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58670)|`2026-10-18 18:37:33`|
+|5|[Rescene osu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58669)|`2026-10-18 18:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Permafrost Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775389-permafrost-internal.html)|`2026-10-18 18:34:00`|`Other MMORPG and Strategy`|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-10-18 18:30:00`|`Forum General`|
+|[Bloodstrike massive decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777000-bloodstrike-massive-decomp.html)|`2026-10-18 18:29:00`|`Other FPS Games`|
+|[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-10-18 18:29:00`|`Other Single Player Games`|
+|[RESCENE OSU LAZER&#33; &#40;MANIA AND CIRCLE&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777261-rescene-osu-lazer-mania-circle.html)|`2026-10-18 18:23:00`|`Other Games`|
 |[ECC: REDLINE Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777304-ecc-redline-reversal-structs-offsets.html)|`2026-10-18 17:35:00`|`Other FPS Games`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-18 17:26:00`|`Deadlock`|
 |[DenimR6 &#45; offset and memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776966-denimr6-offset-memory-dumper.html)|`2026-10-18 17:20:00`|`Rainbow Six Siege`|
