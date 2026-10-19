@@ -45,6 +45,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-10-19 13:33:00`|`HELLDIVERS 2`|
+|[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-19 13:29:00`|`Other Games`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-19 13:22:00`|`Genshin Impact`|
+|[Verox RDR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/736415-verox-rdr.html)|`2026-10-19 13:11:00`|`Red Dead Redemption 2`|
+|[ECC: REDLINE Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777304-ecc-redline-reversal-structs-offsets.html)|`2026-10-19 13:03:00`|`Other FPS Games`|
+|[Simple external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775324-simple-external-esp.html)|`2026-10-19 13:02:00`|`Call of Duty: Black Ops 7`|
+|[EAC added to R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776924-eac-added-r6.html)|`2026-10-19 13:00:00`|`Rainbow Six Siege`|
 |[BloodStrike Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777503-bloodstrike-reversal-structs-offsets.html)|`2026-10-19 12:30:00`|`Other FPS Games`|
 |[PAxLM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/715607-paxlm.html)|`2026-10-19 12:12:00`|`Lethal Company`|
 |[Project Rebreach &#40;Area F2 Remake&#41; cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777500-project-rebreach-f2-remake-cheat.html)|`2026-10-19 11:55:00`|`Android`|
