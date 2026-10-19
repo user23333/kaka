@@ -27,9 +27,18 @@
 |5|[Metro Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58686)|`2026-10-20 00:38:23`|
 |15|[Far Cry 3 Aimbot, Esp, Flymod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58685)|`2026-10-20 00:38:23`|
 |1|[BloodStrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58705)|`2026-10-20 01:29:10`|
+|0|[HR Department](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58741)|`2026-10-20 05:38:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HRD &#45; Scam With Your Friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777627-hrd-scam-friends.html)|`2026-10-20 05:32:00`|`Other Games`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-20 05:25:00`|`Deadlock`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-20 05:25:00`|`HELLDIVERS 2`|
+|[rotkc&#46;dll CGame/CGraphics re&#45;route & their minhook hooks&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777621-rotkc-dll-cgame-cgraphics-re-route-minhook-hooks.html)|`2026-10-20 05:14:00`|`H1Z1`|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-20 05:13:00`|`Other FPS Games`|
+|[Best free MOVEMENT cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777622-free-movement-cheat.html)|`2026-10-20 05:09:00`|`Counter-Strike 2`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-10-20 05:08:00`|`Other FPS Games`|
+|[Cheat ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/777620-cheat-imgui-menu.html)|`2026-10-20 05:07:00`|`General Graphics`|
 |[Epic announces EAC Linux V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776774-epic-announces-eac-linux-v2.html)|`2026-10-20 04:35:00`|`Anti-Cheat Research`|
 |[read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777482-read-esp.html)|`2026-10-20 04:33:00`|`Rust`|
 |[M&#45;i&#45;K&#45;e's Deadside &#45; Full SDK &#45; 17 Oct 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777291-es-deadside-sdk-17-oct-2026-a.html)|`2026-10-20 04:31:00`|`Other FPS Games`|
