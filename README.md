@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-19 08:34:00`|`Other FPS Games`|
+|[BO7 EXTERNAL BASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777477-bo7-external-base.html)|`2026-10-19 08:19:00`|`Call of Duty: Black Ops 7`|
+|[Starting with R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776576-starting-r6.html)|`2026-10-19 08:15:00`|`Rainbow Six Siege`|
+|[Vac in linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777275-vac-linux.html)|`2026-10-19 08:07:00`|`Counter-Strike 2`|
 |[&#91;FREE&#93; FIVEM SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/755613-free-fivem-spoofer.html)|`2026-10-19 06:57:00`|`Alternative Online Mods`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-19 06:51:00`|`Marvel Rivals`|
 |[Gears E&#45;Day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777225-gears-day.html)|`2026-10-19 06:44:00`|`Other FPS Games`|
