@@ -44,6 +44,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/767574-0-lerp.html)|`2026-10-19 11:35:00`|`Team Fortress 2`|
+|[Windows 11 Kernel GDI BSoD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/777498-windows-11-kernel-gdi-bsod.html)|`2026-10-19 11:34:00`|`C and C++`|
+|[ROTK Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776706-rotk-internal-source.html)|`2026-10-19 11:34:00`|`H1Z1`|
+|[New User](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/777495-user.html)|`2026-10-19 11:25:00`|`Introductions`|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-10-19 11:14:00`|`Other FPS Games`|
+|[Pokemon MMO 3D External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756928-pokemon-mmo-3d-external.html)|`2026-10-19 11:13:00`|`Other MMORPG and Strategy`|
+|[How to stay undetected with BattlEye Oct&#46; 2026?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776356-stay-undetected-battleye-oct-2026-a.html)|`2026-10-19 11:06:00`|`Anti-Cheat Research`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-10-19 11:05:00`|`Grand Theft Auto V`|
 |[Gems of War &#91;Bot &#43; Patch &#43; Dashboard&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776244-gems-war-bot-patch-dashboard.html)|`2026-10-19 09:54:00`|`Other MMORPG and Strategy`|
 |[Foxhole Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777484-foxhole-internal-esp.html)|`2026-10-19 09:45:00`|`Other MMORPG and Strategy`|
 |[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-10-19 09:42:00`|`Other FPS Games`|
