@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[YimMenuV2 &#45; 1&#46;72](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/729323-yimmenuv2-1-72-a.html)|`2026-10-19 22:37:00`|`Grand Theft Auto V`|
+|[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-10-19 22:27:00`|`Elite: Dangerous`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-19 22:23:00`|`Anti-Cheat Research`|
+|[Figure Me Out Playtest Encryption Key &#40;For Godot RE Tools and more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777560-figure-playtest-encryption-key-godot-re-tools.html)|`2026-10-19 22:20:00`|`Forum General`|
 |[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-19 21:36:00`|`Apex Legends`|
 |[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-19 21:35:00`|`Other MMORPG and Strategy`|
 |[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-19 21:33:00`|`Anti-Cheat Research`|
