@@ -48,6 +48,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-19 21:36:00`|`Apex Legends`|
+|[Aion 2 &#40;ESP Visuals, WIP&#43;&#43;&#41; &#45; &#40;ring&#45;0&#41; external cheat&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776144-aion-2-esp-visuals-wip-ring-0-external-cheat.html)|`2026-10-19 21:35:00`|`Other MMORPG and Strategy`|
+|[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-19 21:33:00`|`Anti-Cheat Research`|
+|[Fivem Ban Evading Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/777520-fivem-ban-evading-question.html)|`2026-10-19 21:29:00`|`Alternative Online Mods`|
+|[solo vs ~20 slots cert lifetime, plus how do people rotate before burn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777549-solo-vs-20-slots-cert-lifetime-plus-people-rotate-burn.html)|`2026-10-19 21:24:00`|`Anti-Cheat Research`|
+|[Manual map bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776042-manual-map-bypass.html)|`2026-10-19 21:24:00`|`Anti-Cheat Research`|
+|[Rust &#124; Ban Discussion Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/469369-rust-ban-discussion-thread.html)|`2026-10-19 21:20:00`|`Rust`|
+|[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-10-19 21:17:00`|`H1Z1`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-19 20:21:00`|`Other Games`|
 |[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-19 20:19:00`|`Other Games`|
 |[Clive Barker's Hellraiser: Revival Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775495-clive-barkers-hellraiser-revival-internal.html)|`2026-10-19 20:13:00`|`Other Single Player Games`|
