@@ -24,9 +24,19 @@
 |2|[TD2&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58687)|`2026-10-20 00:38:23`|
 |5|[Metro Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58686)|`2026-10-20 00:38:23`|
 |15|[Far Cry 3 Aimbot, Esp, Flymod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58685)|`2026-10-20 00:38:23`|
+|1|[BloodStrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58705)|`2026-10-20 01:29:10`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ragebot Misses & Under&#45;aiming Against Fast Bhop &#43; Anti&#45;Aim &#40;Hitscan / Hitchance Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/776377-ragebot-misses-aiming-fast-bhop-anti-aim-hitscan-hitchance-issue.html)|`2026-10-20 01:28:00`|`Counter-Strike 2`|
+|[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777466-bloodstrike-dma.html)|`2026-10-20 01:27:00`|`Other FPS Games`|
+|[Am I missing anything from FACEIT's AC HWID checks?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776812-am-missing-faceits-ac-hwid-checks.html)|`2026-10-20 01:27:00`|`Anti-Cheat Research`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-20 01:13:00`|`Anti-Cheat Research`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-20 01:06:00`|`Wardogs`|
+|[Mordhau toolkit Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776223-mordhau-toolkit-hack.html)|`2026-10-20 01:06:00`|`Other FPS Games`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-20 01:05:00`|`Other FPS Games`|
+|[Quick stop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777567-quick-stop.html)|`2026-10-20 01:04:00`|`Counter-Strike 2`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-10-20 01:04:00`|`Counter-Strike 2`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-20 00:37:00`|`Deadlock`|
 |[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-20 00:35:00`|`Anti-Cheat Research`|
 |[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-10-20 00:32:00`|`H1Z1`|
