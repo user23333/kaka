@@ -45,6 +45,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SCARAB v1&#46;0&#46;0 — 3D Flight, Teleport & Gate Clip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/guild-wars-2-a/770120-scarab-v1-0-0-3d-flight-teleport-gate-clip.html)|`2026-10-19 16:36:00`|`Guild Wars 2`|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-10-19 16:02:00`|`Other FPS Games`|
 |[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-10-19 15:35:00`|`Genshin Impact`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-19 15:31:00`|`Other FPS Games`|
 |[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777466-bloodstrike-dma.html)|`2026-10-19 15:16:00`|`Other FPS Games`|
