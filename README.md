@@ -44,9 +44,15 @@
 |3|[Far Cry 3 Aimbot, Esp, Flymod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58685)|`2026-10-19 03:38:17`|
 |12|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58684)|`2026-10-19 03:38:17`|
 |2|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58689)|`2026-10-19 18:38:31`|
+|2|[1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58690)|`2026-10-19 20:38:26`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-19 20:21:00`|`Other Games`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-19 20:19:00`|`Other Games`|
+|[Clive Barker's Hellraiser: Revival Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775495-clive-barkers-hellraiser-revival-internal.html)|`2026-10-19 20:13:00`|`Other Single Player Games`|
+|[How do i regenerate body group mesh?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777450-regenerate-body-mesh.html)|`2026-10-19 20:10:00`|`Counter-Strike 2`|
+|[lil bit about me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/777475-lil-bit.html)|`2026-10-19 20:07:00`|`Introductions`|
 |[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-19 19:36:00`|`Escape from Tarkov`|
 |[ultimate,skill cooldown offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776403-ultimate-skill-cooldown-offset.html)|`2026-10-19 19:05:00`|`Overwatch`|
 |[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-10-19 18:48:00`|`Wardogs`|
