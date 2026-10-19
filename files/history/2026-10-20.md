@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Epic announces EAC Linux V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776774-epic-announces-eac-linux-v2.html)|`2026-10-20 04:35:00`|`Anti-Cheat Research`|
+|[read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777482-read-esp.html)|`2026-10-20 04:33:00`|`Rust`|
+|[M&#45;i&#45;K&#45;e's Deadside &#45; Full SDK &#45; 17 Oct 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777291-es-deadside-sdk-17-oct-2026-a.html)|`2026-10-20 04:31:00`|`Other FPS Games`|
+|[ROTK Ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777617-rotk-ban.html)|`2026-10-20 04:31:00`|`H1Z1`|
+|[How to hook predrop weapon?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777530-hook-predrop-weapon.html)|`2026-10-20 04:08:00`|`Counter-Strike 2`|
 |[Metro exodus enhanced edition trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/777613-metro-exodus-enhanced-edition-trainer.html)|`2026-10-20 03:31:00`|`Other Single Player Games`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-10-20 03:27:00`|`Rainbow Six Siege`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-20 03:20:00`|`Marvel Rivals`|
