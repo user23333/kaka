@@ -43,9 +43,15 @@
 |1|[Metro Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58686)|`2026-10-19 03:38:17`|
 |3|[Far Cry 3 Aimbot, Esp, Flymod&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58685)|`2026-10-19 03:38:17`|
 |12|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58684)|`2026-10-19 03:38:17`|
+|2|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58689)|`2026-10-19 18:38:31`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-10-19 18:36:00`|`ARC Raiders`|
+|[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-19 18:32:00`|`Alternative Online Mods`|
+|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-19 18:29:00`|`Wardogs`|
+|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777136-aion-2-dumper.html)|`2026-10-19 18:21:00`|`Other MMORPG and Strategy`|
+|[ECC: REDLINE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775932-ecc-redline.html)|`2026-10-19 18:06:00`|`Other FPS Games`|
 |[In what case client vac could ban you?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777522-client-vac-ban.html)|`2026-10-19 17:33:00`|`Counter-Strike 2`|
 |[ACE &#40;Anti&#45;Cheat Expert&#41; &#45; Let's talk about it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759500-ace-anti-cheat-expert-talk.html)|`2026-10-19 17:26:00`|`Anti-Cheat Research`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-19 17:16:00`|`Marvel Rivals`|
