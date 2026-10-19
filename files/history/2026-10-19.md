@@ -44,6 +44,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-10-19 09:36:00`|`Roblox`|
+|[What does javelin do with Apexs CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775524-javelin-apexs-cr3.html)|`2026-10-19 09:32:00`|`Apex Legends`|
+|[read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777482-read-esp.html)|`2026-10-19 09:28:00`|`Rust`|
+|[EFT: Arena Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/614375-eft-arena-reversal-structs-offsets.html)|`2026-10-19 09:20:00`|`Escape from Tarkov`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-19 09:19:00`|`Off Topic`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-10-19 09:17:00`|`Call of Duty: Black Ops Cold War`|
 |[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-19 08:34:00`|`Other FPS Games`|
 |[BO7 EXTERNAL BASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777477-bo7-external-base.html)|`2026-10-19 08:19:00`|`Call of Duty: Black Ops 7`|
 |[Starting with R6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776576-starting-r6.html)|`2026-10-19 08:15:00`|`Rainbow Six Siege`|
