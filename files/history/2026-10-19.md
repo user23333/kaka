@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypass Anti&#45;Cheat Genshin Impact 6&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/717352-bypass-anti-cheat-genshin-impact-6-0-a.html)|`2026-10-19 15:35:00`|`Genshin Impact`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-19 15:31:00`|`Other FPS Games`|
+|[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777466-bloodstrike-dma.html)|`2026-10-19 15:16:00`|`Other FPS Games`|
+|[New Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777338-update.html)|`2026-10-19 14:55:00`|`H1Z1`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-19 14:55:00`|`Overwatch`|
+|[Super Styles x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/777512-super-styles-x64.html)|`2026-10-19 14:51:00`|`CounterStrike Source`|
 |[Luuuupp Projekt &#124; Money Loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777510-luuuupp-projekt-money-loop.html)|`2026-10-19 14:33:00`|`Grand Theft Auto V`|
 |[Full Ai Made CS2 External &#40;OpenCode/AgentRouter's DeepSeek V4&#46;1 Flash Free &#43; DeepSeek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777199-ai-cs2-external-opencode-agentrouters-deepseek-v4-1-flash-free-deepseek.html)|`2026-10-19 14:28:00`|`Counter-Strike 2`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-19 14:20:00`|`Counter-Strike 2`|
