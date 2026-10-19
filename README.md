@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gems of War &#91;Bot &#43; Patch &#43; Dashboard&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776244-gems-war-bot-patch-dashboard.html)|`2026-10-19 09:54:00`|`Other MMORPG and Strategy`|
+|[Foxhole Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777484-foxhole-internal-esp.html)|`2026-10-19 09:45:00`|`Other MMORPG and Strategy`|
+|[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-10-19 09:42:00`|`Other FPS Games`|
 |[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-10-19 09:36:00`|`Roblox`|
 |[What does javelin do with Apexs CR3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/775524-javelin-apexs-cr3.html)|`2026-10-19 09:32:00`|`Apex Legends`|
 |[read only esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777482-read-esp.html)|`2026-10-19 09:28:00`|`Rust`|
