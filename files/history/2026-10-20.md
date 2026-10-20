@@ -57,6 +57,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Setup IDA for kernel debugging](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777720-setup-ida-kernel-debugging.html)|`2026-10-20 23:38:00`|`General Programming and Reversing`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-20 23:35:00`|`Grand Theft Auto V`|
+|[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-10-20 23:30:00`|`Other MMORPG and Strategy`|
+|[Arrowhead added EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/777685-arrowhead-added-eac.html)|`2026-10-20 23:28:00`|`HELLDIVERS 2`|
 |[Only Radar DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777714-radar-dma.html)|`2026-10-20 22:36:00`|`Wardogs`|
 |[Dark and Darker ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776560-dark-darker-esp.html)|`2026-10-20 22:33:00`|`Other FPS Games`|
 |[Deadlock External Source &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776484-deadlock-external-source-updated.html)|`2026-10-20 21:21:00`|`Deadlock`|
