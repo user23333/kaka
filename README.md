@@ -32,9 +32,20 @@
 |1|[RiskMenu&#45;Source&#45;v0&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58702)|`2026-10-20 07:38:17`|
 |1|[KingModSourceCode&#40;RocketLeauge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58692)|`2026-10-20 07:38:17`|
 |3|[Reverse&#45;engineering workbench ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58693)|`2026-10-20 08:38:44`|
+|1|[Foxhole Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58712)|`2026-10-20 15:34:04`|
+|1|[TrollWare1&#46;0&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58711)|`2026-10-20 15:34:04`|
+|1|[BO7 EXTERNAL BASE ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58710)|`2026-10-20 15:34:04`|
+|2|[HW2 Cheat updatedv2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58709)|`2026-10-20 15:34:04`|
+|1|[KevLard x Claude Final](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58708)|`2026-10-20 15:34:04`|
+|1|[Eterspire](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58707)|`2026-10-20 15:34:04`|
+|2|[ANIIMO LOADER V5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58706)|`2026-10-20 15:34:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Foxhole Internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777484-foxhole-internal-esp.html)|`2026-10-20 15:32:00`|`Other MMORPG and Strategy`|
+|[Hood Warefare 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776889-hood-warefare-2-cheat.html)|`2026-10-20 15:29:00`|`Other FPS Games`|
+|[Eterspire &#45; Python Game Hacking and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777471-eterspire-python-game-hacking-cheats.html)|`2026-10-20 15:28:00`|`Other MMORPG and Strategy`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-20 15:27:00`|`Other MMORPG and Strategy`|
 |[Hood Warfare 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777212-hood-warfare-2-a.html)|`2026-10-20 14:37:00`|`Other FPS Games`|
 |[BO7 EXTERNAL BASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777477-bo7-external-base.html)|`2026-10-20 13:54:00`|`Call of Duty: Black Ops 7`|
 |[ACE &#40;Anti&#45;Cheat Expert&#41; &#45; Let's talk about it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759500-ace-anti-cheat-expert-talk.html)|`2026-10-20 13:23:00`|`Anti-Cheat Research`|
