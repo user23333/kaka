@@ -13,6 +13,7 @@
 |6|[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-10-20 00:38:23`|`other-games`|
 |7|[Full Ai Made CS2 External &#40;OpenCode/AgentRouter's DeepSeek V4&#46;1 Flash Free &#43; DeepSeek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777199-ai-cs2-external-opencode-agentrouters-deepseek-v4-1-flash-free-deepseek.html)|`2026-10-20 02:38:23`|`counter-strike-2-a`|
 |12|[ROTK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777067-rotk-internal.html)|`2026-10-20 03:38:23`|`h1z1`|
+|14|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-20 17:38:25`|`wardogs`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -48,9 +49,14 @@
 |2|[&#91;SOURCE&#93; WARDOGS DMA RELEASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58742)|`2026-10-20 16:38:38`|
 |3|[ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58738)|`2026-10-20 16:38:38`|
 |2|[Shinoko&#45;NIKKE 0&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58737)|`2026-10-20 16:38:38`|
+|4|[ANIIMO LOADER V6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58749)|`2026-10-20 17:38:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders SDK Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776153-arc-raiders-sdk-dumper.html)|`2026-10-20 17:32:00`|`ARC Raiders`|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-10-20 17:29:00`|`Wardogs`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-20 17:20:00`|`Grand Theft Auto V`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-20 17:11:00`|`Apex Legends`|
 |[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-10-20 16:36:00`|`Other FPS Games`|
 |[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-20 16:19:00`|`Genshin Impact`|
 |[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-10-20 16:09:00`|`Other FPS Games`|
