@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[CS2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777047-cs2-external-esp.html)|`2026-10-20 10:37:00`|`Counter-Strike 2`|
+|[external eft&#45;material&#45;dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/776278-external-eft-material-dumper.html)|`2026-10-20 10:36:00`|`Escape from Tarkov`|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-10-20 10:27:00`|`Anti-Cheat Research`|
+|[Money glitch is not working anymore ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777653-money-glitch-anymore.html)|`2026-10-20 10:26:00`|`Grand Theft Auto V`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-20 10:26:00`|`Other MMORPG and Strategy`|
+|[Ready Or Not Internal DX11/DX12](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772658-ready-internal-dx11-dx12.html)|`2026-10-20 10:10:00`|`Other FPS Games`|
+|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-20 09:53:00`|`Other Games`|
 |[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-20 09:42:00`|`Call of Duty: Modern Warfare III`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-20 09:42:00`|`Overwatch`|
 |[ultimate,skill cooldown offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776403-ultimate-skill-cooldown-offset.html)|`2026-10-20 09:40:00`|`Overwatch`|
