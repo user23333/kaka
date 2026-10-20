@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-20 09:42:00`|`Call of Duty: Modern Warfare III`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-20 09:42:00`|`Overwatch`|
+|[ultimate,skill cooldown offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776403-ultimate-skill-cooldown-offset.html)|`2026-10-20 09:40:00`|`Overwatch`|
 |[DMA Internal Injector &#40;Thread Hjacking &#43; Manual Map&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777568-dma-internal-injector-thread-hjacking-manual-map.html)|`2026-10-20 09:01:00`|`ARC Raiders`|
 |[Super Styles x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/777512-super-styles-x64.html)|`2026-10-20 09:00:00`|`CounterStrike Source`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-20 08:50:00`|`Other MMORPG and Strategy`|
