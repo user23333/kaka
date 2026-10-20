@@ -55,6 +55,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-20 19:32:00`|`Counter-Strike 2 Releases`|
+|[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-20 19:19:00`|`Other Games`|
 |[Bypass BlackChiper64&#46;aes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sudden-attack/777022-bypass-blackchiper64-aes.html)|`2026-10-20 18:33:00`|`Sudden Attack`|
 |[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-20 18:22:00`|`Other Games`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-20 18:22:00`|`Other FPS Games`|
