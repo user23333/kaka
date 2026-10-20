@@ -57,6 +57,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Only Radar DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777714-radar-dma.html)|`2026-10-20 22:36:00`|`Wardogs`|
+|[Dark and Darker ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776560-dark-darker-esp.html)|`2026-10-20 22:33:00`|`Other FPS Games`|
 |[Deadlock External Source &#40;updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776484-deadlock-external-source-updated.html)|`2026-10-20 21:21:00`|`Deadlock`|
 |[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-10-20 21:19:00`|`Deadlock`|
 |[Modern Warfare 2 &#124; Mod Loader Tool &#124; &#91;STEAM ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/776857-modern-warfare-2-mod-loader-tool-steam.html)|`2026-10-20 21:18:00`|`Call of Duty 6: Modern Warfare 2`|
