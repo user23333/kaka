@@ -35,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hood Warfare 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777212-hood-warfare-2-a.html)|`2026-10-20 14:37:00`|`Other FPS Games`|
+|[BO7 EXTERNAL BASE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777477-bo7-external-base.html)|`2026-10-20 13:54:00`|`Call of Duty: Black Ops 7`|
 |[ACE &#40;Anti&#45;Cheat Expert&#41; &#45; Let's talk about it&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759500-ace-anti-cheat-expert-talk.html)|`2026-10-20 13:23:00`|`Anti-Cheat Research`|
 |[IDA Pro 9&#46;3 vs Ghidra ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777188-ida-pro-9-3-vs-ghidra.html)|`2026-10-20 13:12:00`|`General Programming and Reversing`|
 |[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-20 13:11:00`|`Other Games`|
