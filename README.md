@@ -31,9 +31,17 @@
 |1|[HoodWarfare 2 SDK 10/18/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58703)|`2026-10-20 07:38:17`|
 |1|[RiskMenu&#45;Source&#45;v0&#46;1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58702)|`2026-10-20 07:38:17`|
 |1|[KingModSourceCode&#40;RocketLeauge&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58692)|`2026-10-20 07:38:17`|
+|3|[Reverse&#45;engineering workbench ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58693)|`2026-10-20 08:38:44`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Make sure, Spoofing and preventing ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777643-spoofing-preventing-ban.html)|`2026-10-20 08:33:00`|`Overwatch`|
+|[BloodStrike Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777503-bloodstrike-reversal-structs-offsets.html)|`2026-10-20 08:32:00`|`Other FPS Games`|
+|[Battleye BEClient&#95;x64&#46;dll analysis &#45; EFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/736294-battleye-beclient_x64-dll-analysis-eft.html)|`2026-10-20 08:28:00`|`Anti-Cheat Research`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-20 08:27:00`|`Apex Legends`|
+|[Deep Rock Galactic Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/735602-deep-rock-galactic-internal.html)|`2026-10-20 08:10:00`|`Other Single Player Games`|
+|[battle eye 420](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777641-battle-eye-420-a.html)|`2026-10-20 08:06:00`|`Anti-Cheat Research`|
+|[&#91;R6 overlay&#93; what do i use to be UD based on overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777639-r6-overlay-ud-based-overlay.html)|`2026-10-20 08:01:00`|`Anti-Cheat Research`|
 |[Noclip external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/776932-noclip-external.html)|`2026-10-20 07:36:00`|`Alternative Online Mods`|
 |[MCC Toolbox &#45; Trainer supports Halo Reach, Halo CE, Halo 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/397845-mcc-toolbox-trainer-supports-halo-reach-halo-ce-halo-2-a.html)|`2026-10-20 07:29:00`|`Halo`|
 |[Call of Duty: Modern Warfare III Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/605287-call-duty-modern-warfare-iii-reversal-structs-offsets.html)|`2026-10-20 07:22:00`|`Call of Duty: Modern Warfare III`|
