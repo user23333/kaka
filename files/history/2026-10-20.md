@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA Internal Injector &#40;Thread Hjacking &#43; Manual Map&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777568-dma-internal-injector-thread-hjacking-manual-map.html)|`2026-10-20 09:01:00`|`ARC Raiders`|
+|[Super Styles x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/777512-super-styles-x64.html)|`2026-10-20 09:00:00`|`CounterStrike Source`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-20 08:50:00`|`Other MMORPG and Strategy`|
+|[Contractors Showdown exfilzone duping&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777646-contractors-showdown-exfilzone-duping.html)|`2026-10-20 08:48:00`|`Other FPS Games`|
 |[Make sure, Spoofing and preventing ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777643-spoofing-preventing-ban.html)|`2026-10-20 08:33:00`|`Overwatch`|
 |[BloodStrike Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777503-bloodstrike-reversal-structs-offsets.html)|`2026-10-20 08:32:00`|`Other FPS Games`|
 |[Battleye BEClient&#95;x64&#46;dll analysis &#45; EFT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/736294-battleye-beclient_x64-dll-analysis-eft.html)|`2026-10-20 08:28:00`|`Anti-Cheat Research`|
