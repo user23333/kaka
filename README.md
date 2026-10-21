@@ -11,6 +11,7 @@
 |17|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-22 01:38:26`|`wardogs`|
 |12|[ROTK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777067-rotk-internal.html)|`2026-10-22 01:38:26`|`h1z1`|
 |2|[New EAC for Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/777755-eac-helldivers-2-a.html)|`2026-10-22 01:38:26`|`helldivers-2-a`|
+|14|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-10-22 03:38:21`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/775381-offsets.html)|`2026-10-22 03:37:00`|`Combat Master`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-22 03:37:00`|`Escape from Tarkov`|
+|[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-10-22 03:37:00`|`Counter-Strike 2 Releases`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-10-22 03:36:00`|`Call of Duty: Black Ops 7`|
+|[battlefield 1 internal source&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-1-a/777123-battlefield-1-internal-source.html)|`2026-10-22 03:36:00`|`Battlefield 1`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-22 03:35:00`|`Other MMORPG and Strategy`|
+|[Arrowhead added EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/777685-arrowhead-added-eac.html)|`2026-10-22 03:35:00`|`HELLDIVERS 2`|
+|[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-10-22 03:35:00`|`Elite: Dangerous`|
+|[EAC ban after long hiatus &#45; background process flags?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/776626-eac-ban-hiatus-background-process-flags.html)|`2026-10-22 03:33:00`|`Rust`|
+|[Roblox executor base ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/758933-roblox-executor-base.html)|`2026-10-22 03:32:00`|`Roblox`|
 |[War of Genesis Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775440-war-genesis-idle-loot.html)|`2026-10-22 02:34:00`|`Other Games`|
 |[Pic of the Day](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777815-pic-day.html)|`2026-10-22 02:32:00`|`Off Topic`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-22 02:29:00`|`Other FPS Games`|
