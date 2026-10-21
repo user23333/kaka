@@ -28,6 +28,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769756-discord-overlay.html)|`2026-10-22 06:21:00`|`Rust`|
+|[In Memory of KIDDIONS Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775545-memory-kiddions-mod-menu.html)|`2026-10-22 06:20:00`|`Grand Theft Auto V`|
+|[ImGui C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/765814-imgui.html)|`2026-10-22 06:18:00`|`Minecraft`|
+|[vibecoding or manual coding ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/767534-vibecoding-manual-coding.html)|`2026-10-22 06:17:00`|`General Programming and Reversing`|
+|[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-10-22 06:14:00`|`Garry's Mod`|
+|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-10-22 06:13:00`|`Deadlock`|
+|[Crystal Crisis Auto&#45;Play External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/777854-crystal-crisis-auto-play-external.html)|`2026-10-22 06:10:00`|`Other Single Player Games`|
+|[Luuuupp Projekt &#124; Money Loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777510-luuuupp-projekt-money-loop.html)|`2026-10-22 06:10:00`|`Grand Theft Auto V`|
+|[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-10-22 06:09:00`|`Other FPS Games`|
+|[Inject methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777233-inject-methods.html)|`2026-10-22 06:09:00`|`Counter-Strike 2`|
 |[Samurai Script's for Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775191-samurai-scripts-enhanced-version.html)|`2026-10-22 05:37:00`|`Grand Theft Auto V`|
 |[IDA Pro 9&#46;3 vs Ghidra ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777188-ida-pro-9-3-vs-ghidra.html)|`2026-10-22 05:36:00`|`General Programming and Reversing`|
 |[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-10-22 05:35:00`|`HELLDIVERS 2`|
