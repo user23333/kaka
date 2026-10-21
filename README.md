@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-10-21 09:30:00`|`Anti-Cheat Research`|
+|[Bloodstrike massive decomp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777000-bloodstrike-massive-decomp.html)|`2026-10-21 09:29:00`|`Other FPS Games`|
+|[Arena Breakout Infinite internal DLL overlay detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777793-arena-breakout-infinite-internal-dll-overlay-detect.html)|`2026-10-21 09:17:00`|`Other FPS Games`|
+|[Nulvex Internal x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775615-nulvex-internal-x86-x64.html)|`2026-10-21 09:03:00`|`Garry's Mod`|
 |[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-10-21 08:35:00`|`Other FPS Games`|
 |[&#91;cs2go&#93; &#45; External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/605464-cs2go-external-esp.html)|`2026-10-21 08:35:00`|`Counter-Strike 2 Releases`|
 |[hypervisor mouse movement](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777447-hypervisor-mouse-movement.html)|`2026-10-21 08:05:00`|`Rust`|
