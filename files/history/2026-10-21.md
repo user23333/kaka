@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division 2 &#124; Offset Dumper fix &#124; Steam/Ubisoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/774076-division-2-offset-dumper-fix-steam-ubisoft.html)|`2026-10-21 13:37:00`|`Tom Clancy's The Division`|
+|[Hood Warefare 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776889-hood-warefare-2-cheat.html)|`2026-10-21 13:33:00`|`Other FPS Games`|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-21 13:19:00`|`Other MMORPG and Strategy`|
+|[Lua Executor Crashes FiveM on WaveShield Protected Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/777746-lua-executor-crashes-fivem-waveshield-protected-servers.html)|`2026-10-21 13:16:00`|`Alternative Online Mods`|
+|[SCP:SL Redux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777758-scp-sl-redux.html)|`2026-10-21 13:10:00`|`Other FPS Games`|
 |[Arrowhead added EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/777685-arrowhead-added-eac.html)|`2026-10-21 12:22:00`|`HELLDIVERS 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-21 12:20:00`|`Overwatch`|
 |[Can you get banned even if you disable battle&#45;eye?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/777423-banned-disable-battle-eye.html)|`2026-10-21 12:08:00`|`Rainbow Six Siege`|
