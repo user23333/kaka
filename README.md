@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Recoil Control with kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774219-recoil-control-kmbox.html)|`2026-10-22 04:37:00`|`Apex Legends`|
+|[clientside model changer lua script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/776881-clientside-model-changer-lua-script.html)|`2026-10-22 04:36:00`|`Garry's Mod`|
+|[EFI SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/727678-efi-spoofer.html)|`2026-10-22 04:35:00`|`PC Hardware`|
+|[deadlock access](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775241-deadlock-access.html)|`2026-10-22 04:33:00`|`Deadlock`|
+|[Aimbot targeting wrong position when shooting from vehicle](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/740014-aimbot-targeting-wrong-position-shooting-vehicle.html)|`2026-10-22 04:33:00`|`Alternative Online Mods`|
+|[STAR&#46;CS2 V1 &#91;EXTERNAL CS2 CHEAT&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/755795-star-cs2-v1-external-cs2-cheat.html)|`2026-10-22 04:32:00`|`Counter-Strike 2 Releases`|
+|[pixel perfect recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776987-pixel-perfect-recoil-script.html)|`2026-10-22 04:31:00`|`Rainbow Six Siege`|
+|[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-22 04:28:00`|`Other Games`|
 |[Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/775381-offsets.html)|`2026-10-22 03:37:00`|`Combat Master`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-22 03:37:00`|`Escape from Tarkov`|
 |[CS2&#45;DMA &#40;ESP / Aimbot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/753875-cs2-dma-esp-aimbot.html)|`2026-10-22 03:37:00`|`Counter-Strike 2 Releases`|
