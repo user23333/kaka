@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-22 07:35:00`|`Other FPS Games`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-22 07:33:00`|`Wardogs`|
+|[The real reason for the so called "maintenance"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777868-real-reason-called-maintenance.html)|`2026-10-22 07:30:00`|`Off Topic`|
+|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-22 07:27:00`|`Wardogs`|
+|[&#91;EAC FN&#93; Not sure if this is a ban or not](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776709-eac-fn-ban.html)|`2026-10-22 07:23:00`|`Anti-Cheat Research`|
+|[XDev│Minecraft Bedrock Ghost client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/777519-xdev-minecraft-bedrock-ghost-client.html)|`2026-10-22 07:16:00`|`Minecraft`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-22 07:14:00`|`Other MMORPG and Strategy`|
+|[How do I lift the ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777053-lift-ban.html)|`2026-10-22 07:09:00`|`Deadlock`|
 |[Discord overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769756-discord-overlay.html)|`2026-10-22 06:21:00`|`Rust`|
 |[In Memory of KIDDIONS Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775545-memory-kiddions-mod-menu.html)|`2026-10-22 06:20:00`|`Grand Theft Auto V`|
 |[ImGui C&#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/765814-imgui.html)|`2026-10-22 06:18:00`|`Minecraft`|
