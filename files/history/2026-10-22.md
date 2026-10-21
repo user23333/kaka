@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Samurai Script's for Enhanced version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/775191-samurai-scripts-enhanced-version.html)|`2026-10-22 05:37:00`|`Grand Theft Auto V`|
+|[IDA Pro 9&#46;3 vs Ghidra ??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/777188-ida-pro-9-3-vs-ghidra.html)|`2026-10-22 05:36:00`|`General Programming and Reversing`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-10-22 05:35:00`|`HELLDIVERS 2`|
+|[Nulvex Internal x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775615-nulvex-internal-x86-x64.html)|`2026-10-22 05:34:00`|`Garry's Mod`|
+|[Artanis's RCS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/704352-artaniss-rcs.html)|`2026-10-22 05:33:00`|`Counter-Strike 2 Releases`|
+|[Hypixel Skyblock Garden Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/754567-hypixel-skyblock-garden-macro.html)|`2026-10-22 05:31:00`|`Minecraft`|
+|[Roblox injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/762060-roblox-injector.html)|`2026-10-22 05:30:00`|`Roblox`|
+|[DragonSword Awakening](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/763908-dragonsword-awakening.html)|`2026-10-22 05:29:00`|`Cheat Engine Tables`|
 |[Recoil Control with kmbox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774219-recoil-control-kmbox.html)|`2026-10-22 04:37:00`|`Apex Legends`|
 |[clientside model changer lua script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/776881-clientside-model-changer-lua-script.html)|`2026-10-22 04:36:00`|`Garry's Mod`|
 |[EFI SPOOFER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/727678-efi-spoofer.html)|`2026-10-22 04:35:00`|`PC Hardware`|
