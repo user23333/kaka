@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-21 11:31:00`|`Other Games`|
+|[Experimental Division CT &#43; Game Guard Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/717822-experimental-division-ct-game-guard-bypass.html)|`2026-10-21 11:31:00`|`HELLDIVERS 2`|
+|[&#91;R6 overlay&#93; what do i use to be UD based on overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777639-r6-overlay-ud-based-overlay.html)|`2026-10-21 10:52:00`|`Anti-Cheat Research`|
+|[anyone have an internal base/source ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777797-internal-base-source.html)|`2026-10-21 10:49:00`|`Apex Legends`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-10-21 10:48:00`|`Scum`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-21 10:36:00`|`Apex Legends`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-21 10:28:00`|`Counter-Strike 2 Releases`|
 |[Arc Raiders Live Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/764868-arc-raiders-live-radar.html)|`2026-10-21 10:24:00`|`ARC Raiders`|
