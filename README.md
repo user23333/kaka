@@ -25,9 +25,18 @@
 |14|[TOTDumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58748)|`2026-10-22 01:38:26`|
 |15|[CustomSkinsPack&#95;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58747)|`2026-10-22 01:38:26`|
 |7|[CustomSkinsPack&#95;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58746)|`2026-10-22 01:38:26`|
+|10|[PUBG SDK 2610&#46;1&#46;1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58780)|`2026-10-22 09:32:18`|
+|5|[&#43;&#43;Fortnite&#43;Release&#45;42&#46;40&#45;CL&#45;59343437](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58766)|`2026-10-22 09:32:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Corrupted memory/client not responding R6 KICKS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/777852-corrupted-memory-client-responding-r6-kicks.html)|`2026-10-22 09:31:00`|`Rainbow Six Siege`|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-22 09:29:00`|`Other MMORPG and Strategy`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-22 09:13:00`|`Other Games`|
+|[External Apex Visuals Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/774384-external-apex-visuals-cheat.html)|`2026-10-22 09:03:00`|`Apex Legends`|
+|[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-22 09:00:00`|`Apex Legends`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-22 08:50:00`|`Other MMORPG and Strategy`|
+|[SILLYCA — Silica Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777877-sillyca-silica-internal-menu.html)|`2026-10-22 08:42:00`|`Other MMORPG and Strategy`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-10-22 08:26:00`|`Alternative Online Mods`|
 |[Eternal Hub &#45; A lot of features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/776858-eternal-hub-lot-features.html)|`2026-10-22 08:16:00`|`Roblox`|
 |[i made a very good HWID Spoofer, but is it really works good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/777722-hwid-spoofer.html)|`2026-10-22 08:01:00`|`PC Hardware`|
