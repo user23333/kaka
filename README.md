@@ -12,6 +12,7 @@
 |12|[ROTK internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/777067-rotk-internal.html)|`2026-10-23 00:37:55`|`h1z1`|
 |16|[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-10-23 00:37:55`|`other-games`|
 |10|[Aion 2 Lua port for kernel script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776983-aion-2-lua-port-kernel-script.html)|`2026-10-23 03:38:22`|`other-mmorpg-and-strategy`|
+|28|[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-23 05:38:02`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,15 @@
 |7|[Arc Raiders SDK&#45; 22/10/2026 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58824)|`2026-10-23 03:38:22`|
 |6|[crash&#95;probe&#46;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58826)|`2026-10-23 04:37:47`|
 |6|[Aion2 ESP v2&#46;3 Latest Offsets &#45; V2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58822)|`2026-10-23 04:37:47`|
+|4|[5&#46;3&#46;2&#45;3962284 Marvel SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58827)|`2026-10-23 05:38:02`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-23 05:37:00`|`Other Games`|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-23 05:33:00`|`Anti-Cheat Research`|
+|[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-23 05:19:00`|`Other Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-23 05:17:00`|`ARC Raiders`|
+|[No Man's Sky "Open Skies" Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777882-mans-sky-skies-internal-menu.html)|`2026-10-23 05:17:00`|`Other Games`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-23 04:30:00`|`HELLDIVERS 2`|
 |[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-23 04:28:00`|`Other Games`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-23 04:28:00`|`Overwatch`|
