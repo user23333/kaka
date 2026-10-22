@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK Launcher Bypass &#45; Self&#45;Updating](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774493-rotk-launcher-bypass-self-updating.html)|`2026-10-22 14:29:00`|`H1Z1`|
+|[Path Of Exile 2 Full Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/762602-path-exile-2-internal.html)|`2026-10-22 14:23:00`|`Other MMORPG and Strategy`|
+|[No Man's Sky "Open Skies" Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777882-mans-sky-skies-internal-menu.html)|`2026-10-22 14:16:00`|`Other Games`|
+|[Loftia releasing soon&#33; Demo out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777727-loftia-releasing-soon-demo.html)|`2026-10-22 14:07:00`|`Forum General`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-22 14:06:00`|`Overwatch`|
+|[Easiest way to make money ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/777742-easiest-money.html)|`2026-10-22 13:55:00`|`Elite: Dangerous`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-22 13:36:00`|`Overwatch`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-10-22 13:31:00`|`Call of Duty: Black Ops 7`|
 |[Farever Forever](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753132-farever-forever.html)|`2026-10-22 13:29:00`|`Other MMORPG and Strategy`|
