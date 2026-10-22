@@ -35,6 +35,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The real reason for the so called "maintenance"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777868-real-reason-called-maintenance.html)|`2026-10-23 06:20:00`|`Off Topic`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-23 06:16:00`|`Other Games`|
+|[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-10-23 06:16:00`|`Other Games`|
+|[vuln driver iommu off, r/w to msrs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778079-vuln-driver-iommu-msrs.html)|`2026-10-23 06:16:00`|`Anti-Cheat Research`|
+|[Enki Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/772982-enki-injector.html)|`2026-10-23 06:10:00`|`Programming for Beginners`|
+|[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-10-23 06:09:00`|`Rainbow Six Siege`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-23 06:04:00`|`Tom Clancy's The Division`|
+|[Find signed vulnerable drivers in bulk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764415-signed-vulnerable-drivers-bulk.html)|`2026-10-23 06:04:00`|`Anti-Cheat Research`|
 |[Straftat internal&#45;&#45; WaterMelon &#91;removed&#93;menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777001-straftat-internal-watermelon-removed-menu.html)|`2026-10-23 05:37:00`|`Other Games`|
 |[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-23 05:33:00`|`Anti-Cheat Research`|
 |[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-23 05:19:00`|`Other Games`|
