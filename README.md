@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-22 20:35:00`|`Sea of Thieves`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-22 20:34:00`|`Other Games`|
+|[Hood Warfare 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776375-hood-warfare-2-cheat.html)|`2026-10-22 20:29:00`|`Other FPS Games`|
+|[Evitania Online &#45; Idle RPG internal cheat &#40;PC build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772436-evitania-online-idle-rpg-internal-cheat-pc-build.html)|`2026-10-22 20:29:00`|`Other Games`|
+|[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-22 20:21:00`|`Other Games`|
 |[Ragebot missing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/763603-ragebot-missing.html)|`2026-10-22 19:37:00`|`Counter-Strike 2`|
 |[Best free MOVEMENT cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777622-free-movement-cheat.html)|`2026-10-22 19:34:00`|`Counter-Strike 2`|
 |[Bloodstrike GL External With HP and Team Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775532-bloodstrike-gl-external-hp-team-filter.html)|`2026-10-22 19:17:00`|`Other FPS Games`|
