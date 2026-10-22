@@ -27,9 +27,13 @@
 |7|[CustomSkinsPack&#95;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58746)|`2026-10-22 01:38:26`|
 |10|[PUBG SDK 2610&#46;1&#46;1&#46;71](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58780)|`2026-10-22 09:32:18`|
 |5|[&#43;&#43;Fortnite&#43;Release&#45;42&#46;40&#45;CL&#45;59343437](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58766)|`2026-10-22 09:32:18`|
+|18|[Car Parking Multiplayer 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58791)|`2026-10-22 17:38:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NarcosLifeRP Money Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/773610-narcosliferp-money-spawner.html)|`2026-10-22 17:33:00`|`ARMA 3`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-22 17:32:00`|`Apex Legends`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-22 17:12:00`|`Marvel Rivals`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-22 16:31:00`|`ARC Raiders`|
 |[Clash Royale Overlay?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777911-clash-royale-overlay.html)|`2026-10-22 16:15:00`|`Other FPS Games`|
 |[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-10-22 15:59:00`|`General Programming and Reversing`|
