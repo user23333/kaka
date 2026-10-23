@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to Fish &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777197-fish-steam.html)|`2026-10-23 14:38:00`|`Other Games`|
+|[Luuuupp Projekt &#124; Money Loop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777510-luuuupp-projekt-money-loop.html)|`2026-10-23 14:33:00`|`Grand Theft Auto V`|
+|[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-10-23 14:32:00`|`Other FPS Games`|
+|[Ultimate Supermarket Together Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778136-ultimate-supermarket-cheat.html)|`2026-10-23 14:19:00`|`Forum General`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-10-23 14:06:00`|`Other MMORPG and Strategy`|
 |[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-23 13:19:00`|`Call of Duty: Modern Warfare III`|
 |[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-10-23 13:17:00`|`DayZ SA`|
 |[Bluebook by CollegeBoard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685405-bluebook-collegeboard-bypass.html)|`2026-10-23 13:15:00`|`Forum General`|
