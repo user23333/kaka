@@ -12,6 +12,7 @@
 |28|[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-24 00:37:54`|`anti-cheat-research`|
 |10|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-24 00:37:54`|`anti-cheat-research`|
 |0|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-24 03:37:51`|`android`|
+|10|[Best free MOVEMENT cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777622-free-movement-cheat.html)|`2026-10-24 04:37:59`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,21 @@
 |6|[mtmacr0&#95;public](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58808)|`2026-10-24 03:37:51`|
 |17|[Yuri&#45;Aniimo v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58807)|`2026-10-24 03:37:51`|
 |12|[Marvel Rivals Parallax Updated 2026&#45;10&#45;22](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58806)|`2026-10-24 03:37:51`|
+|7|[Process Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58837)|`2026-10-24 04:37:59`|
+|5|[SDK&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58835)|`2026-10-24 04:37:59`|
+|1|[Custom characters pack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58832)|`2026-10-24 04:37:59`|
+|1|[RedmDma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58818)|`2026-10-24 04:37:59`|
+|1|[WhiskDriver ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58817)|`2026-10-24 04:37:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RedM DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/777822-redm-dma.html)|`2026-10-24 04:37:00`|`Red Dead Redemption 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-24 04:37:00`|`Rust`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-24 04:35:00`|`Other FPS Games`|
+|[Deadpoly Free Weekend til Oct 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778020-deadpoly-free-weekend-til-oct-26-a.html)|`2026-10-24 04:33:00`|`Other Games`|
+|[WhiskDriver &#45; Unsigned Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778008-whiskdriver-unsigned-driver.html)|`2026-10-24 04:33:00`|`Anti-Cheat Research`|
+|[Will Cheating on Alt Account cause the main account to be affected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778189-cheating-alt-account-cause-main-account-affected.html)|`2026-10-24 04:32:00`|`Counter-Strike 2`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-24 04:29:00`|`Tom Clancy's The Division`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-24 03:36:00`|`Marvel Rivals`|
 |[anti aim head offset while holding diffrent guns](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778151-anti-aim-head-offset-holding-diffrent-guns.html)|`2026-10-24 03:34:00`|`Counter-Strike 2`|
 |[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-24 03:33:00`|`Other MMORPG and Strategy`|
