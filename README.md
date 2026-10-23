@@ -50,9 +50,21 @@
 |4|[TD2&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58840)|`2026-10-24 06:11:20`|
 |2|[Unibox&#95;Oct21](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58839)|`2026-10-24 06:11:20`|
 |5|[Yuri&#45;Loftia v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58838)|`2026-10-24 06:11:20`|
+|2|[vanonly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58856)|`2026-10-24 07:37:57`|
+|2|[DeadPoly](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58854)|`2026-10-24 07:37:57`|
+|3|[SAR&#45;Imgui&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58851)|`2026-10-24 07:37:57`|
+|1|[ow&#95;loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58850)|`2026-10-24 07:37:57`|
+|13|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58849)|`2026-10-24 07:37:57`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-10-24 07:22:00`|`Rainbow Six Siege`|
+|[i made a very good HWID Spoofer, but is it really works good?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/777722-hwid-spoofer.html)|`2026-10-24 07:08:00`|`PC Hardware`|
+|[console hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778271-console-hwid-ban.html)|`2026-10-24 06:56:00`|`Call of Duty: Black Ops 7`|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-24 06:47:00`|`Anti-Cheat Research`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-10-24 06:41:00`|`Other MMORPG and Strategy`|
+|[Fall & Halloween Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/778174-fall-halloween-banner-contest-2026-winners.html)|`2026-10-24 06:33:00`|`Information and Announcements`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-24 06:32:00`|`Counter-Strike 2`|
 |[ETS2/TruckersMP Cheat &#45; Safe route](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778173-ets2-truckersmp-cheat-safe-route.html)|`2026-10-24 06:03:00`|`Other Games`|
 |[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-24 06:02:00`|`Rainbow Six Siege`|
 |[byovdrw &#45; invoking kernel functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778153-byovdrw-invoking-kernel-functions.html)|`2026-10-24 06:01:00`|`Anti-Cheat Research`|
