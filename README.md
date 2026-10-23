@@ -39,6 +39,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Can anybody make me a table for "Clinton &#91;removed&#93;er"?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/778222-table-clinton-removed-er.html)|`2026-10-23 23:37:00`|`Cheat Engine Tables`|
+|[cheats on linux mint cinnamon 22&#46;3?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/778219-cheats-linux-mint-cinnamon-22-3-a.html)|`2026-10-23 23:21:00`|`Team Fortress 2`|
+|[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778218-super-animal-royale-hack.html)|`2026-10-23 23:11:00`|`Other FPS Games`|
 |[Rust Input Method &#91;UD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778179-rust-input-method-ud.html)|`2026-10-23 22:35:00`|`Rust`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-23 22:35:00`|`Counter-Strike 2`|
 |[SCP Containment Breach 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757751-scp-containment-breach-2-cheat.html)|`2026-10-23 22:32:00`|`Other FPS Games`|
