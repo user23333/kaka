@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-10-23 21:18:00`|`Other FPS Games`|
+|[anti&#45;scripting bypass &#40;insanely easy method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778172-anti-scripting-bypass-insanely-easy-method.html)|`2026-10-23 21:11:00`|`Rainbow Six Siege`|
+|[Fall & Halloween Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/778174-fall-halloween-banner-contest-2026-winners.html)|`2026-10-23 21:11:00`|`Information and Announcements`|
+|[Hunger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777806-hunger-reversal-structs-offsets.html)|`2026-10-23 21:08:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-10-23 21:07:00`|`Payday 3`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-23 21:01:00`|`THE FINALS`|
 |[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-23 20:36:00`|`Other Games`|
 |[New Free cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/778168-free-cheats.html)|`2026-10-23 20:33:00`|`PlanetSide 2`|
 |[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/766531-anti-cheats-boot-integrity.html)|`2026-10-23 20:33:00`|`Anti-Cheat Research`|
