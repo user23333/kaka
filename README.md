@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-23 08:34:00`|`Rainbow Six Siege`|
+|[Quake Champions Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/quake-champions/771098-quake-champions-reversal-structs-offsets.html)|`2026-10-23 08:33:00`|`Quake Champions`|
+|[Spoofing PCIe PMC 0x42–0x43 bytes on Artix&#45;7 hard IP without bricking DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/774582-spoofing-pcie-pmc-0x42-0x43-bytes-artix-7-hard-ip-bricking-dma.html)|`2026-10-23 08:30:00`|`PC Hardware`|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-10-23 08:22:00`|`Other FPS Games`|
 |[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-23 07:27:00`|`Other Games`|
 |[vertex fixer Fivem share source code vertexfixer&#46;cpp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/764176-vertex-fixer-fivem-share-source-code-vertexfixer-cpp.html)|`2026-10-23 07:27:00`|`Alternative Online Mods`|
 |[Helldivers 2 &#45; Stratagem Radial Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740370-helldivers-2-stratagem-radial-menu.html)|`2026-10-23 07:26:00`|`HELLDIVERS 2`|
