@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-23 13:19:00`|`Call of Duty: Modern Warfare III`|
+|[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-10-23 13:17:00`|`DayZ SA`|
+|[Bluebook by CollegeBoard bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/685405-bluebook-collegeboard-bypass.html)|`2026-10-23 13:15:00`|`Forum General`|
+|[abilities cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777322-abilities-cooldown.html)|`2026-10-23 13:10:00`|`Deadlock`|
 |[My Rainbow Six Seige LGHUB Script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/743212-rainbow-six-seige-lghub-script.html)|`2026-10-23 12:27:00`|`Rainbow Six Siege`|
 |[7 Days To Die Internal 3&#46;0 Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776992-7-days-die-internal-3-0-update.html)|`2026-10-23 12:24:00`|`Other FPS Games`|
 |[SILLYCA — Silica Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777877-sillyca-silica-internal-menu.html)|`2026-10-23 12:11:00`|`Other MMORPG and Strategy`|
