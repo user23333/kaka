@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Input Method &#91;UD&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778179-rust-input-method-ud.html)|`2026-10-23 22:35:00`|`Rust`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-23 22:35:00`|`Counter-Strike 2`|
+|[SCP Containment Breach 2 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757751-scp-containment-breach-2-cheat.html)|`2026-10-23 22:32:00`|`Other FPS Games`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-10-23 22:29:00`|`Tom Clancy's The Division`|
+|[Overwatch Multi&#45;Account Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778190-overwatch-multi-account-loader.html)|`2026-10-23 22:27:00`|`Overwatch`|
 |[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-10-23 21:18:00`|`Other FPS Games`|
 |[anti&#45;scripting bypass &#40;insanely easy method&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778172-anti-scripting-bypass-insanely-easy-method.html)|`2026-10-23 21:11:00`|`Rainbow Six Siege`|
 |[Fall & Halloween Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/778174-fall-halloween-banner-contest-2026-winners.html)|`2026-10-23 21:11:00`|`Information and Announcements`|
