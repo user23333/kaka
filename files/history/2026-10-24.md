@@ -41,9 +41,25 @@
 |1|[lootline 1&#46;5&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58830)|`2026-10-24 05:37:56`|
 |2|[0 Lerp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58829)|`2026-10-24 05:37:56`|
 |2|[poop&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58828)|`2026-10-24 05:37:56`|
+|2|[Mouse Input](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58848)|`2026-10-24 06:11:20`|
+|1|[SafeRouteTMP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58847)|`2026-10-24 06:11:20`|
+|2|[Cyberpunk 2077 2&#46;5 Internal Trainer ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58846)|`2026-10-24 06:11:20`|
+|6|[byovdrw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58845)|`2026-10-24 06:11:20`|
+|1|[pubg&#45;public&#45;esp&#45;2&#46;0&#45;dark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58842)|`2026-10-24 06:11:20`|
+|3|[TD2&#45;Dumper&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58841)|`2026-10-24 06:11:20`|
+|4|[TD2&#45;Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58840)|`2026-10-24 06:11:20`|
+|2|[Unibox&#95;Oct21](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58839)|`2026-10-24 06:11:20`|
+|5|[Yuri&#45;Loftia v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58838)|`2026-10-24 06:11:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ETS2/TruckersMP Cheat &#45; Safe route](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778173-ets2-truckersmp-cheat-safe-route.html)|`2026-10-24 06:03:00`|`Other Games`|
+|[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-24 06:02:00`|`Rainbow Six Siege`|
+|[byovdrw &#45; invoking kernel functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778153-byovdrw-invoking-kernel-functions.html)|`2026-10-24 06:01:00`|`Anti-Cheat Research`|
+|[The Division 2 &#124; Offset Dumper fix &#124; Steam/Ubisoft](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/774076-division-2-offset-dumper-fix-steam-ubisoft.html)|`2026-10-24 06:00:00`|`Tom Clancy's The Division`|
+|[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-10-24 05:59:00`|`Team Fortress 2`|
+|[Duckoleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777821-duckoleon-internal.html)|`2026-10-24 05:59:00`|`Other FPS Games`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-10-24 05:57:00`|`Other MMORPG and Strategy`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-24 05:37:00`|`Rainbow Six Siege`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-24 05:36:00`|`ARC Raiders`|
 |[Scam With Your Friends &#45; External ImGui Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777244-scam-friends-external-imgui-trainer.html)|`2026-10-24 05:34:00`|`Other Games`|
