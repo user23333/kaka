@@ -14,6 +14,7 @@
 |10|[Aion 2 Lua port for kernel script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776983-aion-2-lua-port-kernel-script.html)|`2026-10-23 03:38:22`|`other-mmorpg-and-strategy`|
 |28|[How long does a signed driver realistically last if only ONE person uses it?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777501-signed-driver-realistically-person.html)|`2026-10-23 05:38:02`|`anti-cheat-research`|
 |16|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-23 09:31:29`|`other-mmorpg-and-strategy`|
+|9|[Best free MOVEMENT cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777622-free-movement-cheat.html)|`2026-10-23 20:37:55`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -38,6 +39,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-23 20:36:00`|`Other Games`|
+|[New Free cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/778168-free-cheats.html)|`2026-10-23 20:33:00`|`PlanetSide 2`|
+|[Anti&#45;Cheats Boot Integrity](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/766531-anti-cheats-boot-integrity.html)|`2026-10-23 20:33:00`|`Anti-Cheat Research`|
+|[Vac in linux?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777275-vac-linux.html)|`2026-10-23 20:15:00`|`Counter-Strike 2`|
+|[Rhythia Auto Player Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776126-rhythia-auto-player-internal.html)|`2026-10-23 20:10:00`|`Other Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-23 19:57:00`|`Marvel Rivals`|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-10-23 19:53:00`|`Apex Legends`|
 |[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-23 19:31:00`|`Rainbow Six Siege`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-23 19:30:00`|`Wardogs`|
 |[Evitania Online &#45; Idle RPG internal cheat &#40;PC build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772436-evitania-online-idle-rpg-internal-cheat-pc-build.html)|`2026-10-23 19:30:00`|`Other Games`|
