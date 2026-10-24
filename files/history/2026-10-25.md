@@ -30,9 +30,18 @@
 |8|[doliprane](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58875)|`2026-10-25 03:37:53`|
 |7|[Yuri&#45;Aniimo v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58879)|`2026-10-25 05:38:06`|
 |6|[brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58878)|`2026-10-25 05:38:06`|
+|1|[esp32 OTG mouse filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58881)|`2026-10-25 06:37:56`|
+|5|[World War Z Trainer &#40;Steam & EGS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58880)|`2026-10-25 06:37:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Alternative Streamproof Method for NVIDIA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773544-alternative-streamproof-method-nvidia.html)|`2026-10-25 06:36:00`|`General Programming and Reversing`|
+|[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-10-25 06:35:00`|`Other Games`|
+|[2tap source from dopamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778358-2tap-source-dopamina.html)|`2026-10-25 06:30:00`|`Counter-Strike 2`|
+|[Help with skeleton rigging in The Division Resurgence](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/777706-help-skeleton-rigging-division-resurgence.html)|`2026-10-25 06:29:00`|`Tom Clancy's The Division`|
+|[Jumping from external read&#45;only to writing &#40;need guidance on VAC/VACNet&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778452-jumping-external-read-writing-guidance-vac-vacnet.html)|`2026-10-25 06:28:00`|`Counter-Strike 2`|
+|[Manifest id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/778451-manifest-id.html)|`2026-10-25 06:21:00`|`ARC Raiders`|
+|[Car Parking Multiplayer 2 &#40;new steam version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776056-car-parking-multiplayer-2-steam-version.html)|`2026-10-25 06:17:00`|`Other Games`|
 |[The Division Unlimited Ammo Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171833-division-unlimited-ammo-cheat.html)|`2026-10-25 05:34:00`|`Tom Clancy's The Division`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-25 05:33:00`|`Counter-Strike 2 Releases`|
 |[ESP32S3 OTG MOUSE FILTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/778435-esp32s3-otg-mouse-filter.html)|`2026-10-25 05:32:00`|`C and C++`|
