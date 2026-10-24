@@ -66,9 +66,14 @@
 |1|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58857)|`2026-10-24 15:38:00`|
 |1|[halo3&#45;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58865)|`2026-10-24 16:37:59`|
 |6|[AION 2&#46;6 beta UC Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58866)|`2026-10-24 18:38:02`|
+|1|[Hunger&#95;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58867)|`2026-10-24 21:37:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[lumen mod cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/775314-lumen-mod-cheats.html)|`2026-10-24 21:33:00`|`Call of Duty: Modern Warfare III`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-10-24 21:24:00`|`Payday 3`|
+|[R6 No recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778276-r6-recoil-scripts.html)|`2026-10-24 21:21:00`|`Rainbow Six Siege`|
+|[VSE &#45; Vintage Story Exploits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770043-vse-vintage-story-exploits.html)|`2026-10-24 21:12:00`|`Other Games`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-24 20:09:00`|`Sea of Thieves`|
 |[CEconItemPreviewDataBlock Skinchanger potientially detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778346-ceconitempreviewdatablock-skinchanger-potientially-detected.html)|`2026-10-24 19:57:00`|`Counter-Strike 2`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-24 19:55:00`|`Overwatch`|
