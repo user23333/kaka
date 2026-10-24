@@ -70,6 +70,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-24 22:18:00`|`ARC Raiders`|
+|[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-24 22:16:00`|`Alternative Online Mods`|
+|[2tap source from dopamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778358-2tap-source-dopamina.html)|`2026-10-24 22:12:00`|`Counter-Strike 2`|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-24 22:00:00`|`Escape from Tarkov`|
+|[Bloodstrike simple Offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776307-bloodstrike-simple-offsets-dumper.html)|`2026-10-24 21:59:00`|`Other FPS Games`|
 |[lumen mod cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/775314-lumen-mod-cheats.html)|`2026-10-24 21:33:00`|`Call of Duty: Modern Warfare III`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-10-24 21:24:00`|`Payday 3`|
 |[R6 No recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778276-r6-recoil-scripts.html)|`2026-10-24 21:21:00`|`Rainbow Six Siege`|
