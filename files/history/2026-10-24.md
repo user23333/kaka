@@ -67,6 +67,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-10-24 17:32:00`|`Call of Duty: Black Ops Cold War`|
+|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-10-24 17:31:00`|`Counter-Strike 2`|
+|[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-24 17:23:00`|`Call of Duty: Modern Warfare III`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-24 17:15:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-24 17:06:00`|`Rainbow Six Siege`|
 |[Halo MCC 3/4 ONLINE Multiplayer Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778327-halo-mcc-3-4-online-multiplayer-cheats.html)|`2026-10-24 16:26:00`|`Halo`|
 |[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-10-24 16:18:00`|`Other FPS Games`|
 |[Andromeda for Paladins &#91;Internal&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/774035-andromeda-paladins-internal.html)|`2026-10-24 16:06:00`|`Paladins`|
