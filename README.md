@@ -67,9 +67,16 @@
 |1|[halo3&#45;4&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58865)|`2026-10-24 16:37:59`|
 |6|[AION 2&#46;6 beta UC Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58866)|`2026-10-24 18:38:02`|
 |1|[Hunger&#95;Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58867)|`2026-10-24 21:37:46`|
+|1|[Mod menu release v&#46;3&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58873)|`2026-10-24 23:37:47`|
+|2|[2tap dopamina source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58872)|`2026-10-24 23:37:47`|
+|4|[World War Z Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58870)|`2026-10-24 23:37:47`|
+|1|[vischeck for DLExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58869)|`2026-10-24 23:37:47`|
+|1|[DLExternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58868)|`2026-10-24 23:37:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HAL Private Dispatch Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778360-hal-private-dispatch-table.html)|`2026-10-24 23:32:00`|`Anti-Cheat Research`|
+|[CyberPunk2077 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/777566-cyberpunk2077-trainer.html)|`2026-10-24 23:29:00`|`Other Single Player Games`|
 |[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-24 22:18:00`|`ARC Raiders`|
 |[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-24 22:16:00`|`Alternative Online Mods`|
 |[2tap source from dopamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778358-2tap-source-dopamina.html)|`2026-10-24 22:12:00`|`Counter-Strike 2`|
