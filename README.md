@@ -69,6 +69,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-24 20:09:00`|`Sea of Thieves`|
+|[CEconItemPreviewDataBlock Skinchanger potientially detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778346-ceconitempreviewdatablock-skinchanger-potientially-detected.html)|`2026-10-24 19:57:00`|`Counter-Strike 2`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-24 19:55:00`|`Overwatch`|
+|[humanization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/773484-humanization.html)|`2026-10-24 19:47:00`|`Counter-Strike 2`|
 |[Any working GSCC scripts for BO7?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778344-gscc-scripts-bo7.html)|`2026-10-24 19:37:00`|`Call of Duty: Black Ops 7`|
 |[World War Z Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778343-world-war-trainer.html)|`2026-10-24 19:21:00`|`Other Games`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-24 19:16:00`|`Grand Theft Auto V`|
