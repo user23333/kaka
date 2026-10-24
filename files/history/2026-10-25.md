@@ -28,9 +28,16 @@
 |3|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58877)|`2026-10-25 03:37:53`|
 |2|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58876)|`2026-10-25 03:37:53`|
 |8|[doliprane](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58875)|`2026-10-25 03:37:53`|
+|7|[Yuri&#45;Aniimo v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58879)|`2026-10-25 05:38:06`|
+|6|[brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58878)|`2026-10-25 05:38:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Division Unlimited Ammo Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/171833-division-unlimited-ammo-cheat.html)|`2026-10-25 05:34:00`|`Tom Clancy's The Division`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-25 05:33:00`|`Counter-Strike 2 Releases`|
+|[ESP32S3 OTG MOUSE FILTER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/778435-esp32s3-otg-mouse-filter.html)|`2026-10-25 05:32:00`|`C and C++`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-25 05:31:00`|`Wardogs`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-25 05:28:00`|`Wardogs`|
 |[Kippo genshin release stable 7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778345-kippo-genshin-release-stable-7-1-a.html)|`2026-10-25 04:52:00`|`Genshin Impact`|
 |[slide walk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777570-slide-walk.html)|`2026-10-25 04:46:00`|`Counter-Strike 2`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-25 04:42:00`|`Other MMORPG and Strategy`|
