@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BattlEye HWID Ban &#45; Seeking clarification on RAID 0 and new build components](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778448-battleye-hwid-ban-seeking-clarification-raid-0-build-components.html)|`2026-10-25 06:58:00`|`Rainbow Six Siege`|
+|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-25 06:46:00`|`Overwatch`|
+|[ROTK Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/776706-rotk-internal-source.html)|`2026-10-25 06:46:00`|`H1Z1`|
+|[vectors insta shadow bn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778453-vectors-insta-shadow-bn.html)|`2026-10-25 06:43:00`|`Call of Duty: Black Ops 7`|
 |[Alternative Streamproof Method for NVIDIA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773544-alternative-streamproof-method-nvidia.html)|`2026-10-25 06:36:00`|`General Programming and Reversing`|
 |[Sonic Racing Crossworlds Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/720310-sonic-racing-crossworlds-unlocker.html)|`2026-10-25 06:35:00`|`Other Games`|
 |[2tap source from dopamina](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778358-2tap-source-dopamina.html)|`2026-10-25 06:30:00`|`Counter-Strike 2`|
