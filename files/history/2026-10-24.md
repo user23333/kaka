@@ -56,9 +56,21 @@
 |3|[SAR&#45;Imgui&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58851)|`2026-10-24 07:37:57`|
 |1|[ow&#95;loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58850)|`2026-10-24 07:37:57`|
 |13|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58849)|`2026-10-24 07:37:57`|
+|1|[&#91;Release&#93; D2R Jamella Editor v1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58864)|`2026-10-24 15:38:00`|
+|1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58863)|`2026-10-24 15:38:00`|
+|1|[DarkHours](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58862)|`2026-10-24 15:38:00`|
+|4|[TrollWare1&#46;0&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58861)|`2026-10-24 15:38:00`|
+|4|[AeroDLC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58860)|`2026-10-24 15:38:00`|
+|2|[InjectorDuckoleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58858)|`2026-10-24 15:38:00`|
+|1|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58857)|`2026-10-24 15:38:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deimos &#45; Wizard101](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769789-deimos-wizard101.html)|`2026-10-24 15:35:00`|`Other MMORPG and Strategy`|
+|[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-10-24 15:14:00`|`Age of Empires`|
+|[&#91;Release&#93; D2R Jamella Editor v1&#46;0&#46;1 &#45; offline character/save editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/778078-release-d2r-jamella-editor-v1-0-1-offline-character-save-editor.html)|`2026-10-24 15:12:00`|`Diablo Series`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-10-24 15:11:00`|`Other Games`|
+|[Dark Hours DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/721309-dark-hours-dx11-internal.html)|`2026-10-24 15:11:00`|`Other Games`|
 |[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-10-24 14:35:00`|`Other FPS Games`|
 |[how to find cr3 inside a hypervisor &#40;qemu/kvm arch/linux host&#41; protected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778297-cr3-inside-hypervisor-qemu-kvm-arch-linux-host-protected-eac.html)|`2026-10-24 14:20:00`|`Anti-Cheat Research`|
 |[SCP:SL Redux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777758-scp-sl-redux.html)|`2026-10-24 14:16:00`|`Other FPS Games`|
