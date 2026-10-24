@@ -59,6 +59,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-10-24 14:35:00`|`Other FPS Games`|
+|[how to find cr3 inside a hypervisor &#40;qemu/kvm arch/linux host&#41; protected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778297-cr3-inside-hypervisor-qemu-kvm-arch-linux-host-protected-eac.html)|`2026-10-24 14:20:00`|`Anti-Cheat Research`|
+|[SCP:SL Redux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777758-scp-sl-redux.html)|`2026-10-24 14:16:00`|`Other FPS Games`|
+|[delta force steam SDK dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746079-delta-force-steam-sdk-dump.html)|`2026-10-24 14:11:00`|`Other FPS Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-10-24 13:13:00`|`Counter-Strike 2 Releases`|
 |[soft aimbot detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/777019-soft-aimbot-detected.html)|`2026-10-24 13:11:00`|`Marvel Rivals`|
 |[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-24 13:10:00`|`Counter-Strike 2 Releases`|
