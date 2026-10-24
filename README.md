@@ -13,6 +13,7 @@
 |10|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-24 00:37:54`|`anti-cheat-research`|
 |0|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-24 03:37:51`|`android`|
 |10|[Best free MOVEMENT cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777622-free-movement-cheat.html)|`2026-10-24 04:37:59`|`counter-strike-2-a`|
+|15|[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-24 09:37:57`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -58,6 +59,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mw19 injector that works for mw3 aswell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/771080-mw19-injector-mw3-aswell.html)|`2026-10-24 08:55:00`|`Call of Duty: Modern Warfare`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-24 08:33:00`|`Marvel Rivals`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-24 08:31:00`|`DayZ SA`|
 |[Fallout 4 Internal &#124;  ESP, Aimbot, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775092-fallout-4-internal-esp-aimbot-inventory.html)|`2026-10-24 08:26:00`|`Other Games`|
