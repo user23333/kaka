@@ -36,6 +36,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sneak Peek of my Insurgency Sandstorm External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/768814-sneak-peek-insurgency-sandstorm-external.html)|`2026-10-25 19:32:00`|`Insurgency`|
+|[November 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/777690-november-2026-motm-nominations.html)|`2026-10-25 19:26:00`|`Member of the Month`|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-25 19:24:00`|`Other FPS Games`|
+|[How to Unlock Notes in Ark: Survival Ascended?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730727-unlock-notes-ark-survival-ascended.html)|`2026-10-25 19:20:00`|`Other FPS Games`|
+|[&#91;XBOX&#93; external aimbot and esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-iii/772021-xbox-external-aimbot-esp.html)|`2026-10-25 19:14:00`|`Call of Duty: Modern Warfare III`|
+|[DayZ Internal &#43; External Dual&#45;Engine Suite &#124; v1&#46;29](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/776811-dayz-internal-external-dual-engine-suite-v1-29-a.html)|`2026-10-25 19:03:00`|`DayZ SA`|
 |[Proper Optics Projection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/771372-proper-optics-projection.html)|`2026-10-25 18:09:00`|`Escape from Tarkov`|
 |[Back4Blood cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/732197-back4blood-cheat.html)|`2026-10-25 18:06:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-25 17:44:00`|`Rust`|
