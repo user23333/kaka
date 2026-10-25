@@ -35,9 +35,15 @@
 |5|[World War Z Trainer &#40;Steam & EGS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58880)|`2026-10-25 06:37:56`|
 |1|[BlueArchive&#95;cheat&#95;table&#95;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58884)|`2026-10-25 21:38:03`|
 |5|[dl&#95;external&#95;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58882)|`2026-10-25 21:38:03`|
+|2|[Touch4games autoplay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58897)|`2026-10-25 23:38:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Minecraft cheating client 26&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/778557-minecraft-cheating-client-26-3-a.html)|`2026-10-25 23:30:00`|`Minecraft`|
+|[Aim checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778556-aim-checks.html)|`2026-10-25 23:29:00`|`Rust`|
+|[MY PROFILE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/778300-profile.html)|`2026-10-25 23:24:00`|`Introductions`|
+|[Antiaim and Autostrafer not working together?&#33;?&#33;?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778423-antiaim-autostrafer.html)|`2026-10-25 23:14:00`|`Counter-Strike 2`|
+|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-25 23:11:00`|`Android`|
 |[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-10-25 22:18:00`|`Deadlock`|
 |[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-10-25 22:08:00`|`Wardogs`|
 |[VASILE &#45; External Roblox Cheat &#40;Aimbot, ESP, Exploits&#41; &#124; Updated for version&#45;6776addb](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/745831-vasile-external-roblox-cheat-aimbot-esp-exploits-updated-version-6776addb.html)|`2026-10-25 21:59:00`|`Roblox`|
