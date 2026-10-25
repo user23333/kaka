@@ -33,9 +33,14 @@
 |6|[brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58878)|`2026-10-25 05:38:06`|
 |1|[esp32 OTG mouse filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58881)|`2026-10-25 06:37:56`|
 |5|[World War Z Trainer &#40;Steam & EGS&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58880)|`2026-10-25 06:37:56`|
+|1|[BlueArchive&#95;cheat&#95;table&#95;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58884)|`2026-10-25 21:38:03`|
+|5|[dl&#95;external&#95;v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58882)|`2026-10-25 21:38:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Blue Archive](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/709768-blue-archive.html)|`2026-10-25 21:30:00`|`Cheat Engine Tables`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-10-25 21:16:00`|`Deadlock`|
+|[spawner, item adder, and other player features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/778454-spawner-item-adder-player-features.html)|`2026-10-25 21:09:00`|`Red Dead Redemption 2`|
 |[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-10-25 20:04:00`|`Apex Legends`|
 |[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-25 19:56:00`|`Counter-Strike 2`|
 |[Ranking Mouse Input Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778535-ranking-mouse-input-solutions.html)|`2026-10-25 19:55:00`|`Rainbow Six Siege`|
