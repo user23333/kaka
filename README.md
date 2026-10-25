@@ -35,6 +35,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nulvex Internal x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775615-nulvex-internal-x86-x64.html)|`2026-10-25 13:31:00`|`Garry's Mod`|
+|[External FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756393-external-fov-changer.html)|`2026-10-25 13:29:00`|`Overwatch`|
+|[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-10-25 13:23:00`|`Other Games`|
+|[Make sure, Spoofing and preventing ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777643-spoofing-preventing-ban.html)|`2026-10-25 13:21:00`|`Overwatch`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778496-aniimo-dumper.html)|`2026-10-25 13:20:00`|`Other MMORPG and Strategy`|
+|[Full Eidolon & Warden Analysis](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/761091-eidolon-warden-analysis.html)|`2026-10-25 13:18:00`|`Overwatch`|
+|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-10-25 13:18:00`|`ARC Raiders`|
+|[ultimate,skill cooldown offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776403-ultimate-skill-cooldown-offset.html)|`2026-10-25 13:18:00`|`Overwatch`|
+|[Overwatch Multi&#45;Account Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778190-overwatch-multi-account-loader.html)|`2026-10-25 13:17:00`|`Overwatch`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-25 13:16:00`|`Overwatch`|
 |[Best way to stay undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778494-stay-undetected.html)|`2026-10-25 12:39:00`|`Roblox`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-25 12:20:00`|`Anti-Cheat Research`|
 |[kernemul &#45; driver and usermode emulator &#40;x86&#45;64 ARM64&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/773008-kernemul-driver-usermode-emulator-x86-64-arm64.html)|`2026-10-25 12:08:00`|`Anti-Cheat Research`|
