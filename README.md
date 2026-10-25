@@ -35,6 +35,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-10-25 09:33:00`|`Other Single Player Games`|
+|[Rust Hwid Ban Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778474-rust-hwid-ban-issue.html)|`2026-10-25 09:32:00`|`Rust`|
+|[Machine Party](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769590-machine-party.html)|`2026-10-25 09:30:00`|`Other Games`|
+|[CyberPunk2077 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/777566-cyberpunk2077-trainer.html)|`2026-10-25 09:27:00`|`Other Single Player Games`|
+|[Any Updated Hacks with Contractors VR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/760972-updated-hacks-contractors-vr.html)|`2026-10-25 09:26:00`|`Other FPS Games`|
+|[Contractors vr Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/771625-contractors-vr-hack.html)|`2026-10-25 09:24:00`|`Unreal Engine 4`|
+|[Contractors Vr hacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761114-contractors-vr-hacks.html)|`2026-10-25 09:24:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-25 08:30:00`|`Apex Legends`|
 |[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-25 08:00:00`|`Other FPS Games`|
 |[abilities cooldown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777322-abilities-cooldown.html)|`2026-10-25 07:54:00`|`Deadlock`|
