@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-10-26 06:25:00`|`Other FPS Games`|
+|[Bypass for AC update for recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778598-bypass-ac-update-recoil-scripts.html)|`2026-10-26 06:15:00`|`Rainbow Six Siege`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-26 06:09:00`|`Counter-Strike 2`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-26 06:05:00`|`Deadlock`|
+|[&#91;FiveM&#93; External Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778596-fivem-external-chams.html)|`2026-10-26 05:54:00`|`Alternative Online Mods`|
 |[Themida / VMP / Enigma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/777274-themida-vmp-enigma.html)|`2026-10-26 05:28:00`|`C and C++`|
 |[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-26 05:22:00`|`Other MMORPG and Strategy`|
 |[macros detected ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/777996-macros-detected.html)|`2026-10-26 05:14:00`|`Rainbow Six Siege`|
