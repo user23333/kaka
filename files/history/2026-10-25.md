@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Introduction of me](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/778420-introduction.html)|`2026-10-25 17:37:00`|`Introductions`|
+|[Newcomer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/778409-newcomer.html)|`2026-10-25 17:37:00`|`Introductions`|
+|[&#40;request&#41; Ghost Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778520-request-ghost-hunter.html)|`2026-10-25 17:28:00`|`Other Games`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-25 17:14:00`|`Off Topic`|
+|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-25 17:10:00`|`Anti-Cheat Research`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-25 16:34:00`|`Payday 2`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-25 16:24:00`|`Tom Clancy's The Division`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-25 16:16:00`|`Other Games`|
