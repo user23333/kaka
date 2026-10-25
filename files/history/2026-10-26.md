@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-26 04:35:00`|`Counter-Strike 2`|
+|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-26 04:34:00`|`Other Games`|
+|[Kippo genshin release stable 7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778345-kippo-genshin-release-stable-7-1-a.html)|`2026-10-26 04:32:00`|`Genshin Impact`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-26 04:21:00`|`Other FPS Games`|
+|[Dma triggerbot fivem with vischeck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/776537-dma-triggerbot-fivem-vischeck.html)|`2026-10-26 04:17:00`|`General Programming and Reversing`|
+|[Risk of Rain 2: RiskMenu &#45; Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777448-risk-rain-2-riskmenu-internal-cheat.html)|`2026-10-26 04:13:00`|`Other FPS Games`|
+|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-10-26 04:12:00`|`H1Z1`|
 |[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-10-26 03:37:00`|`Other MMORPG and Strategy`|
 |[Karma 3 &#45; Ring0 Fullstack Mechanic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/776639-karma-3-ring0-fullstack-mechanic.html)|`2026-10-26 03:36:00`|`ARMA 3`|
 |[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-26 03:35:00`|`Other FPS Games`|
