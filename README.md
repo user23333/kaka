@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RP2040&#95;HOST implements apex macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/721478-rp2040_host-implements-apex-macro.html)|`2026-10-25 20:04:00`|`Apex Legends`|
+|[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-25 19:56:00`|`Counter-Strike 2`|
+|[Ranking Mouse Input Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778535-ranking-mouse-input-solutions.html)|`2026-10-25 19:55:00`|`Rainbow Six Siege`|
+|[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-25 19:44:00`|`Other MMORPG and Strategy`|
 |[Sneak Peek of my Insurgency Sandstorm External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/insurgency/768814-sneak-peek-insurgency-sandstorm-external.html)|`2026-10-25 19:32:00`|`Insurgency`|
 |[November 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/777690-november-2026-motm-nominations.html)|`2026-10-25 19:26:00`|`Member of the Month`|
 |[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-25 19:24:00`|`Other FPS Games`|
