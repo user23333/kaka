@@ -30,6 +30,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-26 21:28:00`|`Alternative Online Mods`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-10-26 21:26:00`|`Sea of Thieves`|
+|[my arma reforger external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/778469-arma-reforger-external.html)|`2026-10-26 21:25:00`|`ARMA 3`|
 |[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-10-26 20:17:00`|`Other FPS Games`|
 |[Guns Blazin' Crimebond IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/778637-guns-blazin-crimebond-ids.html)|`2026-10-26 20:12:00`|`Payday 3`|
 |[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-26 20:10:00`|`Grand Theft Auto V`|
