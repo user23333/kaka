@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Whats the best external overlay method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778629-whats-external-overlay-method.html)|`2026-10-26 16:33:00`|`Rust`|
+|[Fall & Halloween Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/778174-fall-halloween-banner-contest-2026-winners.html)|`2026-10-26 16:29:00`|`Information and Announcements`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-26 16:17:00`|`Other MMORPG and Strategy`|
 |[CS 1&#46;6 how to whblocker bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/776766-cs-1-6-whblocker-bypass.html)|`2026-10-26 15:29:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Is DMA detected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/777097-dma-detected.html)|`2026-10-26 15:24:00`|`Escape from Tarkov`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-10-26 14:38:00`|`Other MMORPG and Strategy`|
