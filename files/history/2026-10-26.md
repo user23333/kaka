@@ -29,6 +29,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-26 17:37:00`|`Other MMORPG and Strategy`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-10-26 17:35:00`|`Anti-Cheat Research`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-10-26 17:33:00`|`Other MMORPG and Strategy`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-10-26 17:17:00`|`Palworld`|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2026-10-26 17:15:00`|`Other FPS Games`|
+|[BattlEye HWID Ban &#45; Seeking clarification on RAID 0 and new build components](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778448-battleye-hwid-ban-seeking-clarification-raid-0-build-components.html)|`2026-10-26 17:14:00`|`Rainbow Six Siege`|
 |[Whats the best external overlay method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778629-whats-external-overlay-method.html)|`2026-10-26 16:33:00`|`Rust`|
 |[Fall & Halloween Banner Contest 2026 &#45; Winners&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/information-and-announcements/778174-fall-halloween-banner-contest-2026-winners.html)|`2026-10-26 16:29:00`|`Information and Announcements`|
 |[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-26 16:17:00`|`Other MMORPG and Strategy`|
