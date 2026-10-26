@@ -27,9 +27,24 @@
 |3|[arma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58892)|`2026-10-26 00:37:54`|
 |3|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58904)|`2026-10-26 01:38:22`|
 |1|[Project Vault &#40;8&#46;51&#41; SDK Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58910)|`2026-10-26 12:37:48`|
+|2|[OwHelper&#46;dll, OwHelperLoader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58922)|`2026-10-26 23:38:01`|
+|1|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58921)|`2026-10-26 23:38:01`|
+|1|[Open Skies v0&#46;7&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58920)|`2026-10-26 23:38:01`|
+|2|[RbxExec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58919)|`2026-10-26 23:38:01`|
+|1|[bo7 lumen zm gscc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58918)|`2026-10-26 23:38:01`|
+|2|[InjectorDuckoleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58917)|`2026-10-26 23:38:01`|
+|4|[MiniMenuV2&#45;1&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58915)|`2026-10-26 23:38:01`|
+|1|[CrystalCrisisTrainer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58914)|`2026-10-26 23:38:01`|
+|2|[swzdump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58913)|`2026-10-26 23:38:01`|
+|1|[MK4&#95;ROTK&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58911)|`2026-10-26 23:38:01`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fivem Offset Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778651-fivem-offset-dumper.html)|`2026-10-26 23:36:00`|`Alternative Online Mods`|
+|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777136-aion-2-dumper.html)|`2026-10-26 23:34:00`|`Other MMORPG and Strategy`|
+|[Lua Script Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778623-lua-script-executor.html)|`2026-10-26 23:30:00`|`Roblox`|
+|[BO7 Lumen based zomby mode GSCC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778650-bo7-lumen-based-zomby-mode-gscc.html)|`2026-10-26 23:28:00`|`Call of Duty: Black Ops 7`|
+|[Duckoleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777821-duckoleon-internal.html)|`2026-10-26 23:28:00`|`Other FPS Games`|
 |[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-10-26 21:56:00`|`Other MMORPG and Strategy`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-10-26 21:48:00`|`Apex Legends`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-26 21:45:00`|`Escape from Tarkov`|
