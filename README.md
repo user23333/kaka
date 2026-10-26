@@ -25,9 +25,14 @@
 |1|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58893)|`2026-10-26 00:37:54`|
 |3|[arma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58892)|`2026-10-26 00:37:54`|
 |3|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58904)|`2026-10-26 01:38:22`|
+|1|[Project Vault &#40;8&#46;51&#41; SDK Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58910)|`2026-10-26 12:37:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-10-26 12:32:00`|`Farlight 84`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-26 12:27:00`|`Tom Clancy's The Division`|
+|[Valheaven &#45; Valheim 1&#46;0 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/772387-valheaven-valheim-1-0-cheat.html)|`2026-10-26 12:06:00`|`Unity`|
+|[How to inject in FiveM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778618-inject-fivem.html)|`2026-10-26 11:59:00`|`Alternative Online Mods`|
 |[DMA cheat works in all modes except unranked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778615-dma-cheat-modes-except-unranked.html)|`2026-10-26 11:34:00`|`Rainbow Six Siege`|
 |[Inquiries about hwid and if they follow after logging on on steam linked to a …](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778614-inquiries-hwid-follow-logging-steam-linked.html)|`2026-10-26 11:34:00`|`Rainbow Six Siege`|
 |[Lie Detector &#40;LD&#41; Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/760084-lie-detector-ld-solver.html)|`2026-10-26 11:31:00`|`Maple Story`|
