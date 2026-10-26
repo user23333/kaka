@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA cheat works in all modes except unranked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778615-dma-cheat-modes-except-unranked.html)|`2026-10-26 11:34:00`|`Rainbow Six Siege`|
+|[Inquiries about hwid and if they follow after logging on on steam linked to a …](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778614-inquiries-hwid-follow-logging-steam-linked.html)|`2026-10-26 11:34:00`|`Rainbow Six Siege`|
+|[Lie Detector &#40;LD&#41; Solver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/760084-lie-detector-ld-solver.html)|`2026-10-26 11:31:00`|`Maple Story`|
+|[Modern Warfare 2 &#124; Mod Loader Tool &#124; &#91;STEAM ONLY&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/776857-modern-warfare-2-mod-loader-tool-steam.html)|`2026-10-26 11:28:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-26 11:21:00`|`Apex Legends`|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-10-26 11:10:00`|`Garry's Mod`|
+|[Farlight internal questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/778610-farlight-internal-questions.html)|`2026-10-26 10:57:00`|`Farlight 84`|
 |[Helix RC &#40;Delphi Written All mouse No recoil &#43; Rapid Fire&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/765872-helix-rc-delphi-written-mouse-recoil-rapid-fire.html)|`2026-10-26 10:31:00`|`Rainbow Six Siege`|
 |[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-26 10:30:00`|`Other MMORPG and Strategy`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-26 10:27:00`|`Counter-Strike 2`|
