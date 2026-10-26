@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-10-26 20:17:00`|`Other FPS Games`|
+|[Guns Blazin' Crimebond IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/778637-guns-blazin-crimebond-ids.html)|`2026-10-26 20:12:00`|`Payday 3`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-26 20:10:00`|`Grand Theft Auto V`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-26 20:09:00`|`Other MMORPG and Strategy`|
 |[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-10-26 19:33:00`|`Age of Empires`|
 |[Baragoz &#45; DPS/HPS bot for WoW 3&#46;3&#46;5a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/778636-baragoz-dps-hps-bot-wow-3-3-5a.html)|`2026-10-26 19:12:00`|`Wow Hacks and Bots`|
 |[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-26 18:57:00`|`Call of Duty: Black Ops 7`|
