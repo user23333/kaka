@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-10-27 06:37:00`|`Call of Duty: Black Ops 7`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-27 06:32:00`|`Other Games`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-10-27 06:26:00`|`Other FPS Games`|
+|[CSGO2 BUG ESP USING CS2 FILES WORKS ON MATCHMAKING V2 &#33;&#33;&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/750658-csgo2-bug-esp-using-cs2-files-matchmaking-v2.html)|`2026-10-27 06:25:00`|`Counter-Strike 2`|
+|[Linux UE Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/777373-linux-ue-dumper.html)|`2026-10-27 06:20:00`|`Programming for Beginners`|
+|[Aion 2 Lua port for kernel script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776983-aion-2-lua-port-kernel-script.html)|`2026-10-27 06:18:00`|`Other MMORPG and Strategy`|
 |[Lethal Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/777365-lethal-company-internal.html)|`2026-10-27 05:33:00`|`Lethal Company`|
 |[pixel perfect recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776987-pixel-perfect-recoil-script.html)|`2026-10-27 05:28:00`|`Rainbow Six Siege`|
 |[EA Javelin driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778696-ea-javelin-driver.html)|`2026-10-27 05:26:00`|`Anti-Cheat Research`|
