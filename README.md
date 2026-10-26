@@ -11,6 +11,7 @@
 |32|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-10-26 00:37:54`|`other-mmorpg-and-strategy`|
 |1|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-26 00:37:54`|`android`|
 |29|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-26 00:37:54`|`wardogs`|
+|13|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-26 19:37:56`|`overwatch`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-10-26 19:33:00`|`Age of Empires`|
+|[Baragoz &#45; DPS/HPS bot for WoW 3&#46;3&#46;5a](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/778636-baragoz-dps-hps-bot-wow-3-3-5a.html)|`2026-10-26 19:12:00`|`Wow Hacks and Bots`|
+|[Warzone DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/772813-warzone-dma.html)|`2026-10-26 18:57:00`|`Call of Duty: Black Ops 7`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-26 18:56:00`|`Rainbow Six Siege`|
+|[Ranking Mouse Input Solutions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778535-ranking-mouse-input-solutions.html)|`2026-10-26 18:56:00`|`Rainbow Six Siege`|
 |[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-26 18:31:00`|`Other MMORPG and Strategy`|
 |[New EAC for Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/777755-eac-helldivers-2-a.html)|`2026-10-26 18:06:00`|`HELLDIVERS 2`|
 |[Shape Of Dreams Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/773358-shape-dreams-hack.html)|`2026-10-26 17:51:00`|`Other MMORPG and Strategy`|
