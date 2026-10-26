@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-27 02:37:00`|`Other Games`|
+|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-10-27 02:37:00`|`H1Z1`|
+|[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-27 02:32:00`|`Other Games`|
+|[Holdfast: Nations at War Internal &#45; Esd&#46;HNAW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/741388-holdfast-nations-war-internal-esd-hnaw.html)|`2026-10-27 02:32:00`|`Other FPS Games`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-10-27 02:31:00`|`Scum`|
+|[solo vs ~20 slots cert lifetime, plus how do people rotate before burn?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777549-solo-vs-20-slots-cert-lifetime-plus-people-rotate-burn.html)|`2026-10-27 02:26:00`|`Anti-Cheat Research`|
+|[Wanna know what is the most detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778672-wanna-detected.html)|`2026-10-27 02:16:00`|`Counter-Strike 2`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-27 02:15:00`|`DayZ SA`|
+|[Universal Recoil &#40;like UMT program&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/617894-universal-recoil-umt-program.html)|`2026-10-27 02:11:00`|`Other FPS Games`|
+|[The real reason for the so called "maintenance"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777868-real-reason-called-maintenance.html)|`2026-10-27 02:09:00`|`Off Topic`|
 |[&#91;Request&#93; TD2 camera viewAngles &#43; weapon damage mult offsets &#40;dump 2026&#45;10&#45;15&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/776911-request-td2-camera-viewangles-weapon-damage-mult-offsets-dump-2026-10-15-a.html)|`2026-10-27 01:36:00`|`Tom Clancy's The Division`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-27 01:32:00`|`Payday 2`|
 |[elsword](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771243-elsword.html)|`2026-10-27 01:23:00`|`Other MMORPG and Strategy`|
