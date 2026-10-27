@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-10-27 21:10:00`|`ARC Raiders`|
+|[Skin changer that others can see?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778773-skin-changer.html)|`2026-10-27 21:06:00`|`Counter-Strike 2`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-27 21:02:00`|`Other Games`|
+|[Farlight internal questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/778610-farlight-internal-questions.html)|`2026-10-27 20:55:00`|`Farlight 84`|
 |[Shinoko&#45;Heaven Burns Red &#91;Heaven Burns Red cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778771-shinoko-heaven-burns-red-heaven-burns-red-cheat.html)|`2026-10-27 20:36:00`|`Other MMORPG and Strategy`|
 |[Shinoko&#45;ActionTaimanin &#91;Action Taimanin cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778770-shinoko-actiontaimanin-action-taimanin-cheat.html)|`2026-10-27 20:26:00`|`Other MMORPG and Strategy`|
 |[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-27 20:23:00`|`Alternative Online Mods`|
