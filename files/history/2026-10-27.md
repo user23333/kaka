@@ -11,6 +11,8 @@
 |1|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-27 00:37:59`|`android`|
 |41|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-27 00:37:59`|`wardogs`|
 |13|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-27 00:37:59`|`overwatch`|
+|35|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-27 18:37:59`|`deadlock`|
+|63|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-27 18:37:59`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +27,18 @@
 |8|[swzdump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58913)|`2026-10-27 00:37:59`|
 |7|[MK4&#95;ROTK&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58911)|`2026-10-27 00:37:59`|
 |1|[DOD Wallhack/Aimbot/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58912)|`2026-10-27 16:37:59`|
+|1|[Easy Red 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58924)|`2026-10-27 18:37:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Unban roblox games like bloodlines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778759-unban-roblox-games-bloodlines.html)|`2026-10-27 18:36:00`|`Roblox`|
+|[undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778757-undetected-cheat.html)|`2026-10-27 18:34:00`|`Overwatch`|
+|[Watrr Osu&#33;Lazer internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778301-watrr-osu-lazer-internal.html)|`2026-10-27 18:31:00`|`Other Games`|
+|[Oculi Esp / finding positions beyond loaded entities](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778758-oculi-esp-finding-positions-beyond-loaded-entities.html)|`2026-10-27 18:17:00`|`Genshin Impact`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-27 18:16:00`|`Deadlock`|
+|[how safe is it](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/778617-safe.html)|`2026-10-27 18:15:00`|`Tom Clancy's The Division`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-27 18:15:00`|`Other MMORPG and Strategy`|
+|[First time trying to get cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/778480-time-trying-cheats.html)|`2026-10-27 18:13:00`|`ARC Raiders`|
 |[Looking to Learn How to Create ESPs and Game&#45;Related Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/775377-looking-learn-create-esps-game-related-tools.html)|`2026-10-27 17:14:00`|`ARC Raiders`|
 |[Ultimate Supermarket Together Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778136-ultimate-supermarket-cheat.html)|`2026-10-27 16:38:00`|`Forum General`|
 |[What’s the Safest Mod Menu for Gold and Money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/778608-safest-mod-menu-gold-money.html)|`2026-10-27 16:36:00`|`Red Dead Redemption 2`|
