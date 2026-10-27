@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to detect if player was actualy visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778588-detect-player-actualy-visible.html)|`2026-10-27 10:35:00`|`Wardogs`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-27 10:29:00`|`Other FPS Games`|
+|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-27 10:25:00`|`Rainbow Six Siege`|
+|[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2026-10-27 10:23:00`|`Call of Duty: Black Ops Cold War`|
+|[how to find cr3 inside a hypervisor &#40;qemu/kvm arch/linux host&#41; protected by EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778297-cr3-inside-hypervisor-qemu-kvm-arch-linux-host-protected-eac.html)|`2026-10-27 10:20:00`|`Anti-Cheat Research`|
+|[TBH: Task Bar Hero Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756188-tbh-task-bar-hero-cheat-table.html)|`2026-10-27 10:11:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-27 09:34:00`|`Rust`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-27 09:27:00`|`Other FPS Games`|
 |[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-27 09:16:00`|`Rainbow Six Siege`|
