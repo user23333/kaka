@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Ai Made CS2 External &#40;OpenCode/AgentRouter's DeepSeek V4&#46;1 Flash Free &#43; DeepSeek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777199-ai-cs2-external-opencode-agentrouters-deepseek-v4-1-flash-free-deepseek.html)|`2026-10-27 15:31:00`|`Counter-Strike 2`|
+|[my arma reforger external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/778469-arma-reforger-external.html)|`2026-10-27 15:06:00`|`ARMA 3`|
+|[Code raiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778721-code-raiding.html)|`2026-10-27 14:48:00`|`Rust`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-27 14:35:00`|`Other FPS Games`|
+|[Eterspire &#45; Python Game Hacking and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778745-eterspire-python-game-hacking-cheats.html)|`2026-10-27 14:21:00`|`Other MMORPG and Strategy`|
 |[Eterspire &#45; Python Game Hacking and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777471-eterspire-python-game-hacking-cheats.html)|`2026-10-27 14:16:00`|`Other MMORPG and Strategy`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-27 14:14:00`|`Overwatch`|
 |[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-27 14:12:00`|`Off Topic`|
