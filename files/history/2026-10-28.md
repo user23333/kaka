@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Desk Top Racer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777648-desk-top-racer.html)|`2026-10-28 06:33:00`|`Other Games`|
+|[Nulvex Internal x86/x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/775615-nulvex-internal-x86-x64.html)|`2026-10-28 06:33:00`|`Garry's Mod`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-28 06:32:00`|`Deadlock`|
+|[awful r6 chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/773275-awful-r6-chams.html)|`2026-10-28 06:30:00`|`Rainbow Six Siege`|
+|[November 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/777690-november-2026-motm-nominations.html)|`2026-10-28 06:28:00`|`Member of the Month`|
 |[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-28 05:37:00`|`Anti-Cheat Research`|
 |[Decrypt Position &#45; Simple method for external/internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-vanguard/778644-decrypt-position-simple-method-external-internal.html)|`2026-10-28 05:33:00`|`Call of Duty: Vanguard`|
 |[WT/OPS &#124; WoT Blitz Steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777837-wt-ops-wot-blitz-steam-cheat.html)|`2026-10-28 05:32:00`|`Other MMORPG and Strategy`|
