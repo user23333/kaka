@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Shinoko&#45;Heaven Burns Red &#91;Heaven Burns Red cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778771-shinoko-heaven-burns-red-heaven-burns-red-cheat.html)|`2026-10-27 20:36:00`|`Other MMORPG and Strategy`|
+|[Shinoko&#45;ActionTaimanin &#91;Action Taimanin cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778770-shinoko-actiontaimanin-action-taimanin-cheat.html)|`2026-10-27 20:26:00`|`Other MMORPG and Strategy`|
+|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-27 20:23:00`|`Alternative Online Mods`|
+|[SCP:SL Redux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777758-scp-sl-redux.html)|`2026-10-27 20:20:00`|`Other FPS Games`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-27 20:18:00`|`Escape from Tarkov`|
+|[REPOssessed &#45; REPO Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/735028-repossessed-repo-cheat.html)|`2026-10-27 20:12:00`|`Other Games`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-10-27 19:35:00`|`Other FPS Games`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-27 19:21:00`|`Counter-Strike 2`|
 |[Eidolon Anti&#45;Anti&#45;Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776838-eidolon-anti-anti-debug.html)|`2026-10-27 19:18:00`|`Overwatch`|
