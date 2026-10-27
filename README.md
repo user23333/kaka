@@ -24,9 +24,14 @@
 |1|[CrystalCrisisTrainer&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58914)|`2026-10-27 00:37:59`|
 |8|[swzdump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58913)|`2026-10-27 00:37:59`|
 |7|[MK4&#95;ROTK&#95;DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58911)|`2026-10-27 00:37:59`|
+|1|[DOD Wallhack/Aimbot/esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58912)|`2026-10-27 16:37:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What’s the Safest Mod Menu for Gold and Money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/778608-safest-mod-menu-gold-money.html)|`2026-10-27 16:36:00`|`Red Dead Redemption 2`|
+|[Hey everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/778715-hey.html)|`2026-10-27 16:21:00`|`Introductions`|
+|[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-27 15:43:00`|`Unity`|
+|[Wuthering Waves Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/754459-wuthering-waves-cheat.html)|`2026-10-27 15:39:00`|`Other MMORPG and Strategy`|
 |[Full Ai Made CS2 External &#40;OpenCode/AgentRouter's DeepSeek V4&#46;1 Flash Free &#43; DeepSeek](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777199-ai-cs2-external-opencode-agentrouters-deepseek-v4-1-flash-free-deepseek.html)|`2026-10-27 15:31:00`|`Counter-Strike 2`|
 |[my arma reforger external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/778469-arma-reforger-external.html)|`2026-10-27 15:06:00`|`ARMA 3`|
 |[Code raiding?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778721-code-raiding.html)|`2026-10-27 14:48:00`|`Rust`|
