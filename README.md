@@ -27,6 +27,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Module stomping or alternative method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/778724-module-stomping-alternative-method.html)|`2026-10-27 11:34:00`|`General Programming and Reversing`|
+|[Deadpoly Free Weekend til Oct 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778020-deadpoly-free-weekend-til-oct-26-a.html)|`2026-10-27 11:27:00`|`Other Games`|
+|[My Hero Ultra Rumble External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/670348-hero-ultra-rumble-external.html)|`2026-10-27 11:25:00`|`Other Games`|
+|[The Isle Evirma Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776686-isle-evirma-cheats.html)|`2026-10-27 11:11:00`|`Other Games`|
 |[How to detect if player was actualy visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778588-detect-player-actualy-visible.html)|`2026-10-27 10:35:00`|`Wardogs`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-10-27 10:29:00`|`Other FPS Games`|
 |[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-27 10:25:00`|`Rainbow Six Siege`|
