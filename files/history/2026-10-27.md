@@ -28,6 +28,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking to Learn How to Create ESPs and Game&#45;Related Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/775377-looking-learn-create-esps-game-related-tools.html)|`2026-10-27 17:14:00`|`ARC Raiders`|
+|[Ultimate Supermarket Together Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778136-ultimate-supermarket-cheat.html)|`2026-10-27 16:38:00`|`Forum General`|
 |[What’s the Safest Mod Menu for Gold and Money?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/778608-safest-mod-menu-gold-money.html)|`2026-10-27 16:36:00`|`Red Dead Redemption 2`|
 |[Hey everyone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/778715-hey.html)|`2026-10-27 16:21:00`|`Introductions`|
 |[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-10-27 15:43:00`|`Unity`|
