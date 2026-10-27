@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-28 02:31:00`|`Anti-Cheat Research`|
+|[Any UD wallhack?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/778799-ud-wallhack.html)|`2026-10-28 02:04:00`|`Team Fortress 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-10-28 02:01:00`|`Counter-Strike 2`|
+|[Liar's Bar 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766330-liars-bar-2026-a.html)|`2026-10-28 01:56:00`|`Other Games`|
+|[How to make viewmodel wet/rain](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769262-viewmodel-wet-rain.html)|`2026-10-28 01:45:00`|`Counter-Strike 2`|
+|[PHAROAH cheat&#45;suite for Paladins Champions of the realm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/paladins/771338-pharoah-cheat-suite-paladins-champions-realm.html)|`2026-10-28 01:43:00`|`Paladins`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-28 01:38:00`|`Other MMORPG and Strategy`|
 |[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-10-28 01:31:00`|`Garry's Mod`|
 |[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-10-28 01:30:00`|`DayZ SA`|
