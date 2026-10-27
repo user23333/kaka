@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-28 04:33:00`|`Counter-Strike 2`|
+|[Contractors VR — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778468-contractors-vr-internal-trainer.html)|`2026-10-28 04:32:00`|`Other FPS Games`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-28 04:31:00`|`Other Games`|
+|[Helldiver 2 has adopted a new bypass method for the EAC anti&#45;cheat system&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778810-helldiver-2-adopted-bypass-method-eac-anti-cheat-system.html)|`2026-10-28 04:16:00`|`HELLDIVERS 2`|
+|[/v1/shared/manifest returns 404](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/767428-v1-shared-manifest-returns-404-a.html)|`2026-10-28 04:05:00`|`ARC Raiders`|
+|[Going around EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776557-eac.html)|`2026-10-28 04:04:00`|`Anti-Cheat Research`|
 |[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-28 03:23:00`|`Wardogs`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-10-28 03:22:00`|`Other FPS Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-28 03:16:00`|`Escape from Tarkov`|
