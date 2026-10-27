@@ -11,6 +11,7 @@
 |14|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-28 00:37:51`|`overwatch`|
 |37|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-28 00:37:51`|`deadlock`|
 |67|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-28 00:37:51`|`other-fps-games`|
+|17|[PoC for EasyAntiCheat Rollback Vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777893-poc-easyanticheat-rollback-vulnerability.html)|`2026-10-28 01:38:06`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,21 @@
 |1|[Open Skies v0&#46;8&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58948)|`2026-10-28 00:37:51`|
 |2|[wdmap&#45;expample](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58946)|`2026-10-28 00:37:51`|
 |3|[skyvaloDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58945)|`2026-10-28 00:37:51`|
+|11|[wardogs&#45;playground&#45;v0&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58955)|`2026-10-28 01:38:06`|
+|5|[Dayz Update / Fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58949)|`2026-10-28 01:38:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-28 01:38:00`|`Other MMORPG and Strategy`|
+|[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-10-28 01:31:00`|`Garry's Mod`|
+|[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-10-28 01:30:00`|`DayZ SA`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-28 01:27:00`|`Other MMORPG and Strategy`|
+|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-10-28 01:24:00`|`Android`|
+|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-28 01:14:00`|`Rainbow Six Siege`|
+|[I've seen a lot of internal cheating going on&#46; How do they get around the anti&#45;cheati](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778081-ive-seen-lot-internal-cheating-anti-cheati.html)|`2026-10-28 01:13:00`|`Wardogs`|
+|[Cyberpunk 2077 2&#46;31 Internal Trainer &#124; ESP, Aimbot, Teleport, Inventory and More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/774955-cyberpunk-2077-2-31-internal-trainer-esp-aimbot-teleport-inventory.html)|`2026-10-28 01:12:00`|`Other Games`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-10-28 01:11:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-28 01:04:00`|`Rainbow Six Siege`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-28 00:37:00`|`ARC Raiders`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-10-28 00:37:00`|`Other MMORPG and Strategy`|
 |[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-28 00:36:00`|`Other MMORPG and Strategy`|
