@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eterspire &#45; Python Game Hacking and Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777471-eterspire-python-game-hacking-cheats.html)|`2026-10-27 14:16:00`|`Other MMORPG and Strategy`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-10-27 14:14:00`|`Overwatch`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-10-27 14:12:00`|`Off Topic`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-27 13:29:00`|`Overwatch`|
 |[ANYONE GOT A ESP/AIMBOT/RADAR FOR ROS LEGACY?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ros-releases/775055-esp-aimbot-radar-ros-legacy.html)|`2026-10-27 13:24:00`|`RoS Releases`|
 |[brawlhalla offsets? can some one provide me all the offsets from the new update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/764613-brawlhalla-offsets-provide-offsets-update.html)|`2026-10-27 13:19:00`|`Other Games`|
