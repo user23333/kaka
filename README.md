@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-10-27 19:35:00`|`Other FPS Games`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-27 19:21:00`|`Counter-Strike 2`|
+|[Eidolon Anti&#45;Anti&#45;Debug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/776838-eidolon-anti-anti-debug.html)|`2026-10-27 19:18:00`|`Overwatch`|
+|[Going around EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776557-eac.html)|`2026-10-27 19:14:00`|`Anti-Cheat Research`|
 |[Unban roblox games like bloodlines](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778759-unban-roblox-games-bloodlines.html)|`2026-10-27 18:36:00`|`Roblox`|
 |[undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778757-undetected-cheat.html)|`2026-10-27 18:34:00`|`Overwatch`|
 |[Watrr Osu&#33;Lazer internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778301-watrr-osu-lazer-internal.html)|`2026-10-27 18:31:00`|`Other Games`|
