@@ -36,9 +36,14 @@
 |1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58962)|`2026-10-28 18:37:49`|
 |1|[Deadlock Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58960)|`2026-10-28 18:37:49`|
 |2|[V2 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58959)|`2026-10-28 18:37:49`|
+|18|[Yuri&#45;Aniimo v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58970)|`2026-10-28 19:37:33`|
+|19|[PUBG SDK v2610&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58969)|`2026-10-28 19:37:33`|
+|9|[Valorant SDK 28&#45;10&#45;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58968)|`2026-10-28 19:37:33`|
+|7|[lamev2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58967)|`2026-10-28 19:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777136-aion-2-dumper.html)|`2026-10-28 19:21:00`|`Other MMORPG and Strategy`|
 |[Deadlock Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778701-deadlock-dumper.html)|`2026-10-28 18:36:00`|`Deadlock`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759853-temp-spoofer.html)|`2026-10-28 18:33:00`|`Anti-Cheat Research`|
 |[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-10-28 17:36:00`|`Other FPS Games`|
