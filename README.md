@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadpoly Free Weekend til Oct 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778020-deadpoly-free-weekend-til-oct-26-a.html)|`2026-10-28 14:35:00`|`Other Games`|
+|[How to utilize &#40;yim2&#41; to complete weekly and daily challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777915-utilize-yim2-complete-weekly-daily-challenges.html)|`2026-10-28 14:17:00`|`Grand Theft Auto V`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-10-28 14:17:00`|`Palworld`|
+|[hello im new to coding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/778597-hello-im-coding.html)|`2026-10-28 14:09:00`|`ARC Raiders`|
+|[Mysterious External &#40; Auto Update &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/773181-mysterious-external-auto-update.html)|`2026-10-28 14:04:00`|`Roblox`|
+|[Cheat ImGui Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/777620-cheat-imgui-menu.html)|`2026-10-28 13:51:00`|`General Graphics`|
 |[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-28 13:41:00`|`Alternative Online Mods`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-28 13:36:00`|`Counter-Strike 2`|
 |[Lua Script Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778623-lua-script-executor.html)|`2026-10-28 12:53:00`|`Roblox`|
