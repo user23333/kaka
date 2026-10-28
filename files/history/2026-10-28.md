@@ -33,6 +33,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-28 13:41:00`|`Alternative Online Mods`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-28 13:36:00`|`Counter-Strike 2`|
 |[Lua Script Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778623-lua-script-executor.html)|`2026-10-28 12:53:00`|`Roblox`|
 |[Whats the best external overlay method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778629-whats-external-overlay-method.html)|`2026-10-28 12:51:00`|`Rust`|
