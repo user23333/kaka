@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Architect: Land of Exiles Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772402-architect-land-exiles-internal-cheat.html)|`2026-10-28 20:27:00`|`Other MMORPG and Strategy`|
+|[Fixed SharkHack after source&#45;code leak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778303-fixed-sharkhack-source-code-leak.html)|`2026-10-28 20:20:00`|`Counter-Strike 2`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-28 20:19:00`|`THE FINALS`|
+|[PoC for EasyAntiCheat Rollback Vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777893-poc-easyanticheat-rollback-vulnerability.html)|`2026-10-28 20:12:00`|`Anti-Cheat Research`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-28 20:09:00`|`Other FPS Games`|
 |[Aion 2 Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777136-aion-2-dumper.html)|`2026-10-28 19:21:00`|`Other MMORPG and Strategy`|
 |[Deadlock Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778701-deadlock-dumper.html)|`2026-10-28 18:36:00`|`Deadlock`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759853-temp-spoofer.html)|`2026-10-28 18:33:00`|`Anti-Cheat Research`|
