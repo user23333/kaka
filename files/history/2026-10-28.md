@@ -30,9 +30,17 @@
 |5|[Dayz Update / Fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58949)|`2026-10-28 01:38:06`|
 |1|[mw4 onnx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58958)|`2026-10-28 03:26:08`|
 |0|[HR Department](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58966)|`2026-10-28 08:37:30`|
+|1|[ForeWarned Internal v1&#46;3 &#91;latest&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58965)|`2026-10-28 18:37:49`|
+|2|[IL2CPP Dumper &#45; Runtime DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58964)|`2026-10-28 18:37:49`|
+|2|[OHM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58963)|`2026-10-28 18:37:49`|
+|1|[Demonologist](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58962)|`2026-10-28 18:37:49`|
+|1|[Deadlock Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58960)|`2026-10-28 18:37:49`|
+|2|[V2 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58959)|`2026-10-28 18:37:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778701-deadlock-dumper.html)|`2026-10-28 18:36:00`|`Deadlock`|
+|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759853-temp-spoofer.html)|`2026-10-28 18:33:00`|`Anti-Cheat Research`|
 |[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-10-28 17:36:00`|`Other FPS Games`|
 |[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-28 17:27:00`|`Other Games`|
 |[Skin changer that others can see?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778773-skin-changer.html)|`2026-10-28 17:12:00`|`Counter-Strike 2`|
