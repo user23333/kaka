@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-10-28 17:36:00`|`Other FPS Games`|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-28 17:27:00`|`Other Games`|
+|[Skin changer that others can see?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778773-skin-changer.html)|`2026-10-28 17:12:00`|`Counter-Strike 2`|
+|[How can ı dumo crıtıcal ops offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778869-dumo-cr-cal-ops-offsets.html)|`2026-10-28 17:05:00`|`Forum General`|
 |[Easiest way to make money ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/777742-easiest-money.html)|`2026-10-28 16:20:00`|`Elite: Dangerous`|
 |[Rust 2026&#45;10&#45;27 patch — BasePlayer not in clientEntities, where is current visiblePla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778864-rust-2026-10-27-patch-baseplayer-cliententities-current-visiblepla.html)|`2026-10-28 16:19:00`|`Rust`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-10-28 16:05:00`|`Other FPS Games`|
