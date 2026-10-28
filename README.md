@@ -40,9 +40,14 @@
 |19|[PUBG SDK v2610&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58969)|`2026-10-28 19:37:33`|
 |9|[Valorant SDK 28&#45;10&#45;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58968)|`2026-10-28 19:37:33`|
 |7|[lamev2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58967)|`2026-10-28 19:37:33`|
+|1|[5&#46;7&#46;4&#45;547019&#43;&#43;&#43;Ravage&#43;rel&#95;1&#46;2&#46;0&#45;Ravage](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58973)|`2026-10-28 23:37:51`|
+|2|[client&#46;net&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58972)|`2026-10-28 23:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[roll no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778906-roll-spread.html)|`2026-10-28 23:33:00`|`Counter-Strike 2`|
+|[got banned for using kernel cheats for cs2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778907-banned-using-kernel-cheats-cs2.html)|`2026-10-28 23:32:00`|`Counter-Strike 2`|
+|[Need help with FiveM internal Lua execution &#40;random crashes&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778903-help-fivem-internal-lua-execution-random-crashes.html)|`2026-10-28 23:17:00`|`Alternative Online Mods`|
 |[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-28 22:28:00`|`Alternative Online Mods`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-28 22:19:00`|`Overwatch`|
 |[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-10-28 21:57:00`|`Other FPS Games`|
