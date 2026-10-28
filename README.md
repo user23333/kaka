@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;request&#41; Ghost Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778520-request-ghost-hunter.html)|`2026-10-29 05:33:00`|`Other Games`|
+|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-10-29 05:30:00`|`H1Z1`|
+|[Makcu Controller Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778957-makcu-controller-firmware.html)|`2026-10-29 05:17:00`|`Halo`|
+|[AoE2 DE &#45; External FOW Removal &#43; Resource ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/758084-aoe2-de-external-fow-removal-resource-esp.html)|`2026-10-29 05:16:00`|`Age of Empires`|
+|[How hard is it to reverse engineer 8 Ball Pool?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775895-hard-reverse-engineer-8-ball-pool.html)|`2026-10-29 05:16:00`|`Other Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-10-29 04:37:00`|`Overwatch`|
 |[Amphaise internal: founding testers wanted &#40;free slots&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778949-amphaise-internal-founding-testers-free-slots.html)|`2026-10-29 04:35:00`|`Deadlock`|
 |[Recovering my dead dads android 9 phone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/778951-recovering-dead-dads-android-9-phone.html)|`2026-10-29 04:34:00`|`Other Hardware`|
