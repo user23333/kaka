@@ -29,9 +29,16 @@
 |11|[wardogs&#45;playground&#45;v0&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58955)|`2026-10-28 01:38:06`|
 |5|[Dayz Update / Fixes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58949)|`2026-10-28 01:38:06`|
 |1|[mw4 onnx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58958)|`2026-10-28 03:26:08`|
+|0|[HR Department](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58966)|`2026-10-28 08:37:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-28 08:35:00`|`Other MMORPG and Strategy`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772290-aniimo-dumper.html)|`2026-10-28 08:34:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Black Ops Cold War Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/421778-call-duty-black-ops-cold-war-reversal-structs-offsets.html)|`2026-10-28 08:34:00`|`Call of Duty: Black Ops Cold War`|
+|[HRD &#45; Scam With Your Friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777627-hrd-scam-friends.html)|`2026-10-28 08:30:00`|`Other Games`|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-10-28 08:29:00`|`Farlight 84`|
+|[The Isle Evirma Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776686-isle-evirma-cheats.html)|`2026-10-28 08:23:00`|`Other Games`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-28 07:41:00`|`DayZ SA`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-28 07:35:00`|`Marvel Rivals`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-28 07:32:00`|`Rust`|
