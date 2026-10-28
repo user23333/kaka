@@ -28,6 +28,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I've seen a lot of internal cheating going on&#46; How do they get around the anti&#45;cheati](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778081-ive-seen-lot-internal-cheating-anti-cheati.html)|`2026-10-29 02:51:00`|`Wardogs`|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-29 02:46:00`|`Other FPS Games`|
+|[DC Universe Online Cheat &#40;No Delay, Borderless Window, Teleport, Auto Attack&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/770849-dc-universe-online-cheat-delay-borderless-window-teleport-auto-attack.html)|`2026-10-29 02:41:00`|`Other MMORPG and Strategy`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-10-29 02:40:00`|`Other Games`|
 |[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-29 02:37:00`|`Other Games`|
 |[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-29 02:34:00`|`Other Games`|
 |[All&#45;in&#45;one Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/715265-dumper.html)|`2026-10-29 02:32:00`|`Alternative Online Mods`|
