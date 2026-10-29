@@ -26,9 +26,18 @@
 |2|[ForeWarned Internal v1&#46;3 &#91;latest&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58965)|`2026-10-29 00:38:35`|
 |8|[IL2CPP Dumper &#45; Runtime DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58964)|`2026-10-29 00:38:35`|
 |3|[OHM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58963)|`2026-10-29 00:38:35`|
+|1|[HIDEKI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58979)|`2026-10-29 08:37:55`|
+|1|[cs2 patato graphic dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=58976)|`2026-10-29 08:37:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-10-29 08:35:00`|`Other FPS Games`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-10-29 08:35:00`|`Grand Theft Auto V`|
+|[No Man's Sky "Open Skies" Internal Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777882-mans-sky-skies-internal-menu.html)|`2026-10-29 08:31:00`|`Other Games`|
+|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-10-29 08:30:00`|`ARC Raiders`|
+|[Arc external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/772170-arc-external.html)|`2026-10-29 08:26:00`|`ARC Raiders`|
+|[&#91;VOTE&#93; November 2026 Member of the Month](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/778999-vote-november-2026-month.html)|`2026-10-29 08:24:00`|`Member of the Month`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-29 08:08:00`|`Counter-Strike 2`|
 |[The Isle Evirma Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776686-isle-evirma-cheats.html)|`2026-10-29 07:09:00`|`Other Games`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-29 06:51:00`|`Wardogs`|
 |[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-10-29 06:50:00`|`Deadlock`|
