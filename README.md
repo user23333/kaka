@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-29 14:34:00`|`Escape from Tarkov`|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-10-29 14:13:00`|`Other Games`|
+|[DMA got hit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777635-dma-hit.html)|`2026-10-29 13:59:00`|`Call of Duty: Black Ops 7`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-29 13:58:00`|`Other FPS Games`|
 |[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-29 13:17:00`|`Alternative Online Mods`|
 |[Newbie Looking for Mentorship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771465-newbie-looking-mentorship.html)|`2026-10-29 13:09:00`|`Introductions`|
 |[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-29 12:57:00`|`HELLDIVERS 2`|
