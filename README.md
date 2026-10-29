@@ -52,6 +52,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-29 23:37:00`|`Escape from Tarkov`|
+|[Aniimo external ESP &#45; il2cpp offsets, AppFacade statics, camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778923-aniimo-external-esp-il2cpp-offsets-appfacade-statics-camera.html)|`2026-10-29 23:36:00`|`Other MMORPG and Strategy`|
+|[How to play after getting account ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778786-play-getting-account-ban.html)|`2026-10-29 23:34:00`|`Wardogs`|
+|[CRC coorperation needed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779000-crc-coorperation.html)|`2026-10-29 23:16:00`|`Maple Story`|
+|[Are there any open&#45;source radar projects for Apex? Could any experts share one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778847-source-radar-projects-apex-experts-share.html)|`2026-10-29 23:15:00`|`Apex Legends`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-10-29 22:34:00`|`Sea of Thieves`|
 |[Only Radar DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777714-radar-dma.html)|`2026-10-29 22:24:00`|`Wardogs`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-29 22:23:00`|`Marvel Rivals`|
