@@ -32,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-29 16:28:00`|`Rainbow Six Siege`|
+|[Dead by Daylight MarketFiles 10&#46;0&#46;3 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766063-dead-daylight-marketfiles-10-0-3-a.html)|`2026-10-29 16:23:00`|`Other Games`|
+|[Process Dumper — kernel&#45;based dumper, rebuilds protected imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778134-process-dumper-kernel-based-dumper-rebuilds-protected-imports.html)|`2026-10-29 16:18:00`|`Anti-Cheat Research`|
+|[ARC Raiders Maps, Models, Audio & Textures Exporter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779042-arc-raiders-maps-models-audio-textures-exporter.html)|`2026-10-29 16:13:00`|`ARC Raiders`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-29 16:12:00`|`Other Games`|
 |[Manifest id](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/778451-manifest-id.html)|`2026-10-29 15:34:00`|`ARC Raiders`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-10-29 15:30:00`|`Palworld`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-29 14:34:00`|`Escape from Tarkov`|
