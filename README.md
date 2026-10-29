@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-29 17:28:00`|`Other Games`|
+|[A Dance of Fire and Ice AUTOPLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779047-dance-fire-ice-autoplay.html)|`2026-10-29 17:19:00`|`Other Games`|
+|[How to Find the Correct Bone Chain for Point Blank ID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779006-correct-bone-chain-blank-id.html)|`2026-10-29 17:14:00`|`Other FPS Games`|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-29 17:14:00`|`Other MMORPG and Strategy`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-10-29 16:28:00`|`Rainbow Six Siege`|
 |[Dead by Daylight MarketFiles 10&#46;0&#46;3 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766063-dead-daylight-marketfiles-10-0-3-a.html)|`2026-10-29 16:23:00`|`Other Games`|
 |[Process Dumper — kernel&#45;based dumper, rebuilds protected imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778134-process-dumper-kernel-based-dumper-rebuilds-protected-imports.html)|`2026-10-29 16:18:00`|`Anti-Cheat Research`|
