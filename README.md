@@ -32,6 +32,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-29 18:38:00`|`THE FINALS`|
+|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-10-29 18:30:00`|`Other FPS Games`|
+|[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/762004-detection-virtualization.html)|`2026-10-29 18:26:00`|`Anti-Cheat Research`|
+|[CheatRYL &#45; CS2 ESP &#45; TESTS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779053-cheatryl-cs2-esp-tests.html)|`2026-10-29 18:26:00`|`Counter-Strike 2`|
+|[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-29 18:25:00`|`Apex Legends`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-29 18:22:00`|`Marvel Rivals`|
+|[How to utilize &#40;yim2&#41; to complete weekly and daily challenges](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/777915-utilize-yim2-complete-weekly-daily-challenges.html)|`2026-10-29 18:15:00`|`Grand Theft Auto V`|
 |[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-29 17:28:00`|`Other Games`|
 |[A Dance of Fire and Ice AUTOPLAY](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779047-dance-fire-ice-autoplay.html)|`2026-10-29 17:19:00`|`Other Games`|
 |[How to Find the Correct Bone Chain for Point Blank ID?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779006-correct-bone-chain-blank-id.html)|`2026-10-29 17:14:00`|`Other FPS Games`|
