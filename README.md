@@ -39,6 +39,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-30 07:18:00`|`Anti-Cheat Research`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-10-30 07:12:00`|`Escape from Tarkov`|
+|[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-30 07:05:00`|`Other Games`|
+|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-10-30 07:04:00`|`PlanetSide 2`|
+|[SummitSense &#45; Battlefield 2 v1&#46;50 &#124; TV Missile, Aircraft & Ragebot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/777975-summitsense-battlefield-2-v1-50-tv-missile-aircraft-ragebot.html)|`2026-10-30 07:02:00`|`Battlefield 2`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-30 06:28:00`|`HELLDIVERS 2`|
 |[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-10-30 06:26:00`|`HELLDIVERS 2`|
 |[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-10-30 06:21:00`|`Rust`|
