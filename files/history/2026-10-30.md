@@ -35,9 +35,14 @@
 |3|[AMD Streamproof files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59022)|`2026-10-30 05:38:19`|
 |0|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#45;with&#45;BepInEx&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59021)|`2026-10-30 05:38:19`|
 |1|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59020)|`2026-10-30 05:38:19`|
+|3|[NotUrCheats&#95;Loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59030)|`2026-10-30 06:38:07`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-30 06:28:00`|`HELLDIVERS 2`|
+|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-10-30 06:26:00`|`HELLDIVERS 2`|
+|[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-10-30 06:21:00`|`Rust`|
+|[Rust 2026&#45;10&#45;27 patch — BasePlayer not in clientEntities, where is current visiblePla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778864-rust-2026-10-27-patch-baseplayer-cliententities-current-visiblepla.html)|`2026-10-30 06:13:00`|`Rust`|
 |[A Dance of Fire and Ice Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756704-dance-fire-ice-auto-play.html)|`2026-10-30 05:36:00`|`Other Games`|
 |[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-30 05:36:00`|`Other MMORPG and Strategy`|
 |[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-10-30 05:31:00`|`Deadlock`|
