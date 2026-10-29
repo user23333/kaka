@@ -13,6 +13,7 @@
 |18|[PoC for EasyAntiCheat Rollback Vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/777893-poc-easyanticheat-rollback-vulnerability.html)|`2026-10-29 00:38:35`|`anti-cheat-research`|
 |30|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-10-29 01:37:45`|`other-mmorpg-and-strategy`|
 |33|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-29 04:37:45`|`rainbow-six-siege`|
+|4|[byovdrw &#45; invoking kernel functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778153-byovdrw-invoking-kernel-functions.html)|`2026-10-29 12:38:08`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[What serials does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778933-serials-eac-ban.html)|`2026-10-29 12:35:00`|`Anti-Cheat Research`|
+|[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-10-29 12:17:00`|`Other FPS Games`|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-29 12:11:00`|`Other Single Player Games`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-29 11:58:00`|`Counter-Strike 2 Releases`|
 |[Back 4 Blood EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754745-4-blood-eac-bypass.html)|`2026-10-29 11:32:00`|`Other FPS Games`|
 |[My Hero Ultra Rumble Plus Ultra External &#91;Updated&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/747196-hero-ultra-rumble-plus-ultra-external-updated.html)|`2026-10-29 11:25:00`|`Other Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-29 11:24:00`|`Rust`|
