@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-10-29 13:17:00`|`Alternative Online Mods`|
+|[Newbie Looking for Mentorship](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/771465-newbie-looking-mentorship.html)|`2026-10-29 13:09:00`|`Introductions`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-29 12:57:00`|`HELLDIVERS 2`|
+|[proxy middle man](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779028-proxy-middle.html)|`2026-10-29 12:55:00`|`ARC Raiders`|
 |[What serials does EAC ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778933-serials-eac-ban.html)|`2026-10-29 12:35:00`|`Anti-Cheat Research`|
 |[Warhammer 40k: Darktide ESP Mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/744736-warhammer-40k-darktide-esp-mod.html)|`2026-10-29 12:17:00`|`Other FPS Games`|
 |[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-29 12:11:00`|`Other Single Player Games`|
