@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-30 02:36:00`|`Wardogs`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778496-aniimo-dumper.html)|`2026-10-30 02:24:00`|`Other MMORPG and Strategy`|
+|[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-30 02:23:00`|`Apex Legends`|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-30 02:20:00`|`Anti-Cheat Research`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-30 02:17:00`|`Wardogs`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-30 02:15:00`|`Counter-Strike 2`|
+|[halfway thru reading game mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/778993-halfway-thru-reading-game-mem.html)|`2026-10-30 02:14:00`|`All Points Bulletin`|
+|[CS2 &#45; HyperV &#40;Bypass some ac's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779142-cs2-hyperv-bypass-acs.html)|`2026-10-30 02:12:00`|`Counter-Strike 2`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-30 01:34:00`|`Other FPS Games`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-30 01:32:00`|`Counter-Strike 2 Releases`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-30 01:32:00`|`Counter-Strike 2`|
