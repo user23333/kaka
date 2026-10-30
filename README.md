@@ -48,6 +48,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Duckoleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777821-duckoleon-internal.html)|`2026-10-30 17:30:00`|`Other FPS Games`|
+|[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-10-30 17:27:00`|`Battlefield 2`|
+|[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-30 17:26:00`|`Other MMORPG and Strategy`|
+|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-10-30 17:22:00`|`ARC Raiders`|
+|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-10-30 17:13:00`|`Call of Duty: Black Ops 3`|
 |[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-10-30 16:29:00`|`Phasmophobia`|
 |[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-10-30 16:13:00`|`HELLDIVERS 2`|
 |[cr3 finding via vuln driver read physmem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768158-cr3-finding-via-vuln-driver-read-physmem.html)|`2026-10-30 15:45:00`|`Anti-Cheat Research`|
