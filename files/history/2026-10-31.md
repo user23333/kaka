@@ -34,9 +34,19 @@
 |1|[Project Alpha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59044)|`2026-10-31 03:38:20`|
 |3|[TheFinals&#45;SDK&#45;12&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59043)|`2026-10-31 03:38:20`|
 |1|[Dead by Daylight MarketFiles 10&#46;2&#46;2 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59041)|`2026-10-31 03:38:20`|
+|3|[CrackHordetech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59062)|`2026-10-31 07:38:05`|
+|10|[Azec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59061)|`2026-10-31 07:38:05`|
+|1|[MuseDash AutoPlay MOD &#43; BepInEx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59060)|`2026-10-31 07:38:05`|
+|5|[EFT&#95;CT&#95;48484](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59059)|`2026-10-31 07:38:05`|
+|2|[SPTCheatMenu&#95;v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59058)|`2026-10-31 07:38:05`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-31 07:28:00`|`Overwatch`|
+|[Crack HordeTech Menu 10/29/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779189-crack-hordetech-menu-10-29-2026-a.html)|`2026-10-31 07:18:00`|`Other Games`|
+|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-10-31 07:09:00`|`Deadlock`|
+|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-31 07:09:00`|`Rainbow Six Siege`|
+|[Black Ops 1 Server Files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops/779227-black-ops-1-server-files.html)|`2026-10-31 07:06:00`|`Call of Duty: Black Ops`|
 |[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-10-31 06:54:00`|`Other FPS Games`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-31 06:47:00`|`Wardogs`|
 |[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-10-31 06:41:00`|`Other FPS Games`|
