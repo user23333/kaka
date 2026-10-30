@@ -38,9 +38,19 @@
 |0|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#45;with&#45;BepInEx&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59021)|`2026-10-30 05:38:19`|
 |1|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59020)|`2026-10-30 05:38:19`|
 |3|[NotUrCheats&#95;Loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59030)|`2026-10-30 06:38:07`|
+|1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59036)|`2026-10-30 13:49:12`|
+|1|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59035)|`2026-10-30 13:49:12`|
+|3|[Marvel Rivals Parallax Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59033)|`2026-10-30 13:49:12`|
+|2|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59032)|`2026-10-30 13:49:12`|
+|1|[peak 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59031)|`2026-10-30 13:49:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Crack HordeTech Menu 10/29/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779189-crack-hordetech-menu-10-29-2026-a.html)|`2026-10-30 13:47:00`|`Other Games`|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-30 13:44:00`|`Other Single Player Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-30 13:44:00`|`Marvel Rivals`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-30 13:43:00`|`Marvel Rivals`|
+|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2026-10-30 13:43:00`|`Other Games`|
 |[my esp lags too much](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/770585-esp-lags.html)|`2026-10-30 13:30:00`|`Apex Legends`|
 |[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-10-30 13:28:00`|`Apex Legends`|
 |[Marvel Rivals DMA &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776667-marvel-rivals-dma-source-code.html)|`2026-10-30 13:26:00`|`Marvel Rivals`|
