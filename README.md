@@ -37,6 +37,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-31 06:35:00`|`Other FPS Games`|
+|[Helldiver 2 has adopted a new bypass method for the EAC anti&#45;cheat system&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778810-helldiver-2-adopted-bypass-method-eac-anti-cheat-system.html)|`2026-10-31 06:27:00`|`HELLDIVERS 2`|
+|[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-10-31 06:26:00`|`HELLDIVERS 2`|
+|[ED Features Merge CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/740547-ed-features-merge-ct.html)|`2026-10-31 06:23:00`|`HELLDIVERS 2`|
+|[Wardogs &#45; No grass Nvidia inspector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777694-wardogs-grass-nvidia-inspector.html)|`2026-10-31 06:15:00`|`Wardogs`|
+|[Writable CiPolicy page on 26200 with VBS &#124; DSE bypass with VBS running &#45; possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779262-writable-cipolicy-page-26200-vbs-dse-bypass-vbs-running.html)|`2026-10-31 06:13:00`|`Anti-Cheat Research`|
+|[&#91;meownya2dma&#93; &#45; Free DMA cheat wtih Regular updates](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773989-meownya2dma-free-dma-cheat-wtih-regular-updates.html)|`2026-10-31 06:06:00`|`Counter-Strike 2 Releases`|
 |[ESP & Minimap etc&#46;&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-bad-company-2-a/725676-esp-minimap-etc.html)|`2026-10-31 05:37:00`|`Battlefield Bad Company 2`|
 |[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-10-31 05:33:00`|`Tom Clancy's The Division`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-31 05:29:00`|`Counter-Strike 2 Releases`|
