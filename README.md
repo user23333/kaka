@@ -13,6 +13,7 @@
 |2|[Wardogs POTATO GRAPHICS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778115-wardogs-potato-graphics.html)|`2026-10-30 00:38:08`|`wardogs`|
 |5|[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-30 05:38:19`|`counter-strike-2-a`|
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-30 08:38:16`|`anti-cheat-research`|
+|10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-30 10:38:14`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -40,6 +41,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-10-30 10:37:00`|`Age of Empires`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-30 10:14:00`|`Other Games`|
+|[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-10-30 10:04:00`|`General Programming and Reversing`|
+|[AoE2 DE &#45; External FOW Removal &#43; Resource ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/758084-aoe2-de-external-fow-removal-resource-esp.html)|`2026-10-30 10:03:00`|`Age of Empires`|
 |[Rematch Goalkeeper script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743899-rematch-goalkeeper-script.html)|`2026-10-30 09:31:00`|`Other Games`|
 |[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-30 09:30:00`|`Deadlock`|
 |[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-30 09:11:00`|`Counter-Strike 2`|
