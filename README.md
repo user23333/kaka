@@ -1,184 +1,39 @@
 # 🔥Hottest
 |Reply|Thread|Date|Forum|
 |-----|------|----|-----|
-|23|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-30 00:38:08`|`anti-cheat-research`|
-|18|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-30 00:38:08`|`overwatch`|
-|19|[R6 AC update has broken all recoil scripts](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778107-r6-ac-update-broken-recoil-scripts.html)|`2026-10-30 00:38:08`|`rainbow-six-siege`|
-|61|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-30 00:38:08`|`deadlock`|
-|74|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-30 00:38:08`|`other-fps-games`|
-|75|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-30 00:38:08`|`other-games`|
-|50|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-30 00:38:08`|`rainbow-six-siege`|
-|31|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-10-30 00:38:08`|`other-mmorpg-and-strategy`|
-|4|[byovdrw &#45; invoking kernel functions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778153-byovdrw-invoking-kernel-functions.html)|`2026-10-30 00:38:08`|`anti-cheat-research`|
-|2|[Wardogs POTATO GRAPHICS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778115-wardogs-potato-graphics.html)|`2026-10-30 00:38:08`|`wardogs`|
-|5|[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-30 05:38:19`|`counter-strike-2-a`|
-|29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-30 08:38:16`|`anti-cheat-research`|
-|10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-30 10:38:14`|`counter-strike-2-a`|
-|22|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-30 14:38:16`|`wardogs`|
-|7|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-30 18:38:06`|`anti-cheat-research`|
+|20|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-31 00:38:06`|`overwatch`|
+|69|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-31 00:38:06`|`deadlock`|
+|82|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-31 00:38:06`|`other-games`|
+|69|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-31 00:38:06`|`rainbow-six-siege`|
+|79|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-31 00:38:06`|`other-fps-games`|
+|25|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-31 00:38:06`|`wardogs`|
+|5|[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-31 00:38:06`|`counter-strike-2-a`|
+|7|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-31 00:38:06`|`anti-cheat-research`|
+|10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-31 00:38:06`|`counter-strike-2-a`|
+|29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-31 00:38:06`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
-|28|[Medal&#45;Farm&#45;F9Speed&#45;SinglePatch&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59015)|`2026-10-30 00:38:08`|
-|15|[AION2 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59014)|`2026-10-30 00:38:08`|
-|7|[Wardogs maps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59013)|`2026-10-30 00:38:08`|
-|50|[AION2&#45;ESP&#45;2&#46;9&#45;Stable&#45;Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59012)|`2026-10-30 00:38:08`|
-|9|[VAL&#45;Chinaserver&#45;13&#46;09&#45;SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59011)|`2026-10-30 00:38:08`|
-|2|[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59010)|`2026-10-30 00:38:08`|
-|2|[Arc Raiders Asset browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59007)|`2026-10-30 00:38:08`|
-|12|[Project Echo External Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59006)|`2026-10-30 00:38:08`|
-|5|[OverLight Mod AU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59002)|`2026-10-30 00:38:08`|
-|18|[PUBG SDK 2610&#46;1&#46;2&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59001)|`2026-10-30 00:38:08`|
-|1|[sdk valorant 13&#46;09 ap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59029)|`2026-10-30 05:38:19`|
-|2|[pubg&#45;public&#45;esp&#45;2&#46;7&#45;dark](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59028)|`2026-10-30 05:38:19`|
-|1|[Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59027)|`2026-10-30 05:38:19`|
-|1|[Essentialsv1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59026)|`2026-10-30 05:38:19`|
-|3|[CS2 External Using HyperV ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59025)|`2026-10-30 05:38:19`|
-|1|[Klaude v1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59024)|`2026-10-30 05:38:19`|
-|5|[src&#95;mtmacr0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59023)|`2026-10-30 05:38:19`|
-|3|[AMD Streamproof files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59022)|`2026-10-30 05:38:19`|
-|0|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#45;with&#45;BepInEx&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59021)|`2026-10-30 05:38:19`|
-|1|[WorstClassESP&#45;uc&#45;2&#46;5&#46;2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59020)|`2026-10-30 05:38:19`|
-|3|[NotUrCheats&#95;Loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59030)|`2026-10-30 06:38:07`|
-|1|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59036)|`2026-10-30 13:49:12`|
-|1|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59035)|`2026-10-30 13:49:12`|
-|3|[Marvel Rivals Parallax Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59033)|`2026-10-30 13:49:12`|
-|2|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59032)|`2026-10-30 13:49:12`|
-|1|[peak 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59031)|`2026-10-30 13:49:12`|
-|37|[Yuri&#45;Aniimo v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59037)|`2026-10-30 14:38:16`|
-|3|[kaizer osu&#33; lazer internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59040)|`2026-10-30 19:38:12`|
-|4|[BO3 External v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59038)|`2026-10-30 19:38:12`|
+|20|[kaizer osu&#33; lazer internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59040)|`2026-10-31 00:38:06`|
+|10|[BO3 External v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59038)|`2026-10-31 00:38:06`|
+|434|[Yuri&#45;Aniimo v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59037)|`2026-10-31 00:38:06`|
+|4|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59036)|`2026-10-31 00:38:06`|
+|32|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59035)|`2026-10-31 00:38:06`|
+|54|[Marvel Rivals Parallax Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59033)|`2026-10-31 00:38:06`|
+|29|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59032)|`2026-10-31 00:38:06`|
+|5|[peak 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59031)|`2026-10-31 00:38:06`|
+|12|[NotUrCheats&#95;Loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59030)|`2026-10-31 00:38:06`|
+|33|[sdk valorant 13&#46;09 ap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59029)|`2026-10-31 00:38:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
-|[Looking for help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778579-looking-help.html)|`2026-10-30 23:37:00`|`Forum General`|
-|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-30 23:36:00`|`Other FPS Games`|
-|[Need help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/778314-help.html)|`2026-10-30 23:34:00`|`Forum General`|
-|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-10-30 23:28:00`|`Overwatch`|
-|[DMA got hit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777635-dma-hit.html)|`2026-10-30 22:31:00`|`Call of Duty: Black Ops 7`|
-|[Megabonk cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/768451-megabonk-cheat.html)|`2026-10-30 22:24:00`|`Other Single Player Games`|
-|[PointBlank Private 3&#46;16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779229-pointblank-private-3-16-a.html)|`2026-10-30 22:23:00`|`Other FPS Games`|
-|[MapleStory Classic &#45; v1&#46;0&#46;1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/778620-maplestory-classic-v1-0-1-trainer.html)|`2026-10-30 22:19:00`|`Maple Story`|
-|[IA cheat for mw4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779226-ia-cheat-mw4.html)|`2026-10-30 22:17:00`|`Call of Duty: Black Ops 7`|
-|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-30 22:13:00`|`Counter-Strike 2`|
-|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-30 21:58:00`|`Rust`|
-|[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-30 21:37:00`|`Other MMORPG and Strategy`|
-|[Aniimo Post update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779157-aniimo-post-update.html)|`2026-10-30 21:30:00`|`Other MMORPG and Strategy`|
-|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-30 20:45:00`|`Other Games`|
-|[internal hypervisor injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777826-internal-hypervisor-injection.html)|`2026-10-30 20:40:00`|`Rust`|
-|[Last Epoch Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775383-epoch-helper.html)|`2026-10-30 20:36:00`|`Other MMORPG and Strategy`|
-|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-30 20:35:00`|`Grand Theft Auto V`|
-|[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-30 20:23:00`|`Overwatch`|
-|[&#91;WoG&#93; War of Genesis: Idle Loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771553-wog-war-genesis-idle-loot.html)|`2026-10-30 20:23:00`|`Other MMORPG and Strategy`|
-|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-10-30 19:19:00`|`Other Games`|
-|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-10-30 19:07:00`|`Genshin Impact`|
-|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-10-30 19:02:00`|`Other FPS Games`|
-|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-10-30 18:57:00`|`THE FINALS`|
-|[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-30 18:37:00`|`Deadlock`|
-|[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-10-30 18:23:00`|`Other Games`|
-|[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-30 18:02:00`|`Other MMORPG and Strategy`|
-|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2026-10-30 17:59:00`|`Other FPS Games`|
-|[Duckoleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777821-duckoleon-internal.html)|`2026-10-30 17:30:00`|`Other FPS Games`|
-|[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-10-30 17:27:00`|`Battlefield 2`|
-|[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-30 17:26:00`|`Other MMORPG and Strategy`|
-|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-10-30 17:22:00`|`ARC Raiders`|
-|[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-10-30 17:13:00`|`Call of Duty: Black Ops 3`|
-|[Phasmophobia Ext](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/747979-phasmophobia-ext.html)|`2026-10-30 16:29:00`|`Phasmophobia`|
-|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-10-30 16:13:00`|`HELLDIVERS 2`|
-|[cr3 finding via vuln driver read physmem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768158-cr3-finding-via-vuln-driver-read-physmem.html)|`2026-10-30 15:45:00`|`Anti-Cheat Research`|
-|[Bloodstrike GL External With HP and Team Filter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775532-bloodstrike-gl-external-hp-team-filter.html)|`2026-10-30 14:48:00`|`Other FPS Games`|
-|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-30 14:46:00`|`Wardogs`|
-|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-30 14:32:00`|`Other MMORPG and Strategy`|
-|[How would i access all world models &#40;&#46;vmdl&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779036-access-world-models-vmdl.html)|`2026-10-30 14:03:00`|`Counter-Strike 2`|
-|[Unpacked Portable Executable & Memory Dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777632-unpacked-portable-executable-memory-dumps.html)|`2026-10-30 14:03:00`|`ARC Raiders`|
-|[Crack HordeTech Menu 10/29/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779189-crack-hordetech-menu-10-29-2026-a.html)|`2026-10-30 13:47:00`|`Other Games`|
-|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-30 13:44:00`|`Other Single Player Games`|
-|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-30 13:44:00`|`Marvel Rivals`|
-|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-30 13:43:00`|`Marvel Rivals`|
-|[Peak](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/706121-peak.html)|`2026-10-30 13:43:00`|`Other Games`|
-|[my esp lags too much](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/770585-esp-lags.html)|`2026-10-30 13:30:00`|`Apex Legends`|
-|[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-10-30 13:28:00`|`Apex Legends`|
-|[Marvel Rivals DMA &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776667-marvel-rivals-dma-source-code.html)|`2026-10-30 13:26:00`|`Marvel Rivals`|
-|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-30 13:18:00`|`Other FPS Games`|
-|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-30 13:14:00`|`Rainbow Six Siege`|
-|[LawnLab Showcase 🌻 &#124; Plants vs&#46; Zombies GOTY & Classic Trainer &#43; Lawn Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779197-lawnlab-showcase-plants-vs-zombies-goty-classic-trainer-lawn-editor.html)|`2026-10-30 13:13:00`|`General Programming and Reversing`|
-|[Are there any open&#45;source radar projects for Apex? Could any experts share one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778847-source-radar-projects-apex-experts-share.html)|`2026-10-30 12:34:00`|`Apex Legends`|
-|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-30 12:14:00`|`Other MMORPG and Strategy`|
-|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/676059-2024-unban-method-eac.html)|`2026-10-30 12:09:00`|`Anti-Cheat Research`|
-|[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-10-30 12:06:00`|`Other FPS Games`|
-|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-10-30 12:04:00`|`Call of Duty: Black Ops 7`|
-|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-30 12:02:00`|`Other Games`|
-|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-10-30 11:20:00`|`Alternative Online Mods`|
-|[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-10-30 11:16:00`|`Tom Clancy's The Division`|
-|[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-30 11:14:00`|`Escape from Tarkov`|
-|[Chess&#46;com Cheat ImGui Overlay&#43;Stockfish 19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773545-chess-com-cheat-imgui-overlay-stockfish-19-a.html)|`2026-10-30 10:44:00`|`Other Games`|
-|[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-10-30 10:37:00`|`Age of Empires`|
-|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-30 10:14:00`|`Other Games`|
-|[Which AI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/773326-ai.html)|`2026-10-30 10:04:00`|`General Programming and Reversing`|
-|[AoE2 DE &#45; External FOW Removal &#43; Resource ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/758084-aoe2-de-external-fow-removal-resource-esp.html)|`2026-10-30 10:03:00`|`Age of Empires`|
-|[Rematch Goalkeeper script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743899-rematch-goalkeeper-script.html)|`2026-10-30 09:31:00`|`Other Games`|
-|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-10-30 09:30:00`|`Deadlock`|
-|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-30 09:11:00`|`Counter-Strike 2`|
-|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-30 08:34:00`|`Other Games`|
-|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-10-30 08:33:00`|`Other FPS Games`|
-|[SAT Bluebook bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764269-sat-bluebook-bypass.html)|`2026-10-30 08:33:00`|`Anti-Cheat Research`|
-|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-30 08:30:00`|`Tom Clancy's The Division`|
-|[Trove Kernel Driver bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779173-trove-kernel-driver-bypass.html)|`2026-10-30 08:20:00`|`Other MMORPG and Strategy`|
-|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-10-30 07:59:00`|`Wardogs`|
-|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-30 07:18:00`|`Anti-Cheat Research`|
-|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-10-30 07:12:00`|`Escape from Tarkov`|
-|[lamev2 &#45; osu external 100x better](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767662-lamev2-osu-external-100x.html)|`2026-10-30 07:05:00`|`Other Games`|
-|[New Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/716321-offsets.html)|`2026-10-30 07:04:00`|`PlanetSide 2`|
-|[SummitSense &#45; Battlefield 2 v1&#46;50 &#124; TV Missile, Aircraft & Ragebot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/777975-summitsense-battlefield-2-v1-50-tv-missile-aircraft-ragebot.html)|`2026-10-30 07:02:00`|`Battlefield 2`|
-|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-10-30 06:28:00`|`HELLDIVERS 2`|
-|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-10-30 06:26:00`|`HELLDIVERS 2`|
-|[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-10-30 06:21:00`|`Rust`|
-|[Rust 2026&#45;10&#45;27 patch — BasePlayer not in clientEntities, where is current visiblePla](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778864-rust-2026-10-27-patch-baseplayer-cliententities-current-visiblepla.html)|`2026-10-30 06:13:00`|`Rust`|
-|[A Dance of Fire and Ice Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756704-dance-fire-ice-auto-play.html)|`2026-10-30 05:36:00`|`Other Games`|
-|[Farever Cheat Engine Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776108-farever-cheat-engine-table.html)|`2026-10-30 05:36:00`|`Other MMORPG and Strategy`|
-|[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-10-30 05:31:00`|`Deadlock`|
-|[How to bypass EAC etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779057-bypass-eac-etc.html)|`2026-10-30 05:30:00`|`Rust`|
-|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-10-30 05:28:00`|`Call of Duty: Black Ops 7`|
-|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-10-30 05:25:00`|`Counter-Strike 2`|
-|[&#91;Worst Class ESP v2&#46;5&#46;2&#93; ESP / Radar / Auto&#45;dodge for "Worst Class Ever"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778946-worst-class-esp-v2-5-2-esp-radar-auto-dodge-worst-class.html)|`2026-10-30 05:21:00`|`Other Games`|
-|[The Texas Chainsaw Massacre Tool &#45; Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/712655-texas-chainsaw-massacre-tool-internal-cheat.html)|`2026-10-30 04:25:00`|`Other FPS Games`|
-|[HRD &#45; Scam With Your Friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777627-hrd-scam-friends.html)|`2026-10-30 04:24:00`|`Other Games`|
-|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-10-30 04:22:00`|`H1Z1`|
-|[Process Dumper — kernel&#45;based dumper, rebuilds protected imports](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778134-process-dumper-kernel-based-dumper-rebuilds-protected-imports.html)|`2026-10-30 04:15:00`|`Anti-Cheat Research`|
-|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-10-30 04:02:00`|`Counter-Strike 2`|
-|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-30 03:34:00`|`Other MMORPG and Strategy`|
-|[Deadpoly Free Weekend til Oct 26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778020-deadpoly-free-weekend-til-oct-26-a.html)|`2026-10-30 03:33:00`|`Other Games`|
-|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-10-30 03:28:00`|`Grand Theft Auto V`|
-|[Ultimate Menu For YimMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/597103-ultimate-menu-yimmenu.html)|`2026-10-30 03:00:00`|`Grand Theft Auto V`|
-|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-10-30 02:56:00`|`DayZ SA`|
-|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-30 02:56:00`|`Wardogs`|
-|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-30 02:52:00`|`Other FPS Games`|
-|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-30 02:46:00`|`Payday 2`|
-|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-10-30 02:36:00`|`Wardogs`|
-|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778496-aniimo-dumper.html)|`2026-10-30 02:24:00`|`Other MMORPG and Strategy`|
-|[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-30 02:23:00`|`Apex Legends`|
-|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-30 02:20:00`|`Anti-Cheat Research`|
-|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-30 02:17:00`|`Wardogs`|
-|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-30 02:15:00`|`Counter-Strike 2`|
-|[halfway thru reading game mem](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/778993-halfway-thru-reading-game-mem.html)|`2026-10-30 02:14:00`|`All Points Bulletin`|
-|[CS2 &#45; HyperV &#40;Bypass some ac's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779142-cs2-hyperv-bypass-acs.html)|`2026-10-30 02:12:00`|`Counter-Strike 2`|
-|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-10-30 01:34:00`|`Other FPS Games`|
-|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-10-30 01:32:00`|`Counter-Strike 2 Releases`|
-|[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-10-30 01:32:00`|`Counter-Strike 2`|
-|[BloodStrike GL External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746323-bloodstrike-gl-external.html)|`2026-10-30 01:28:00`|`Other FPS Games`|
-|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-10-30 01:25:00`|`Palworld`|
-|[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-10-30 01:23:00`|`Other MMORPG and Strategy`|
-|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-10-30 01:17:00`|`Rainbow Six Siege`|
-|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-30 01:17:00`|`Apex Legends`|
-|[Nightmare &#45; Free Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/775520-nightmare-free-bypass.html)|`2026-10-30 01:17:00`|`Alternative Online Mods`|
-|[AMD Streamproof External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779136-amd-streamproof-external.html)|`2026-10-30 01:14:00`|`Alternative Online Mods`|
-|[Visible check on external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779130-visible-check-external.html)|`2026-10-30 00:37:00`|`Rust`|
-|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-30 00:35:00`|`Escape from Tarkov`|
-|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-10-30 00:35:00`|`ARC Raiders`|
-|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-30 00:34:00`|`Other FPS Games`|
-|[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-10-30 00:30:00`|`Alternative Online Mods`|
-|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-10-30 00:29:00`|`Other MMORPG and Strategy`|
-|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-10-30 00:29:00`|`Marvel Rivals`|
-|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-10-30 00:28:00`|`Other MMORPG and Strategy`|
-|[How to detect if player was actualy visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778588-detect-player-actualy-visible.html)|`2026-10-30 00:28:00`|`Wardogs`|
-|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-10-30 00:27:00`|`Deadlock`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-10-31 00:36:00`|`Other MMORPG and Strategy`|
+|[Vampir MMORPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779236-vampir-mmorpg.html)|`2026-10-31 00:35:00`|`Other MMORPG and Strategy`|
+|[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-10-31 00:34:00`|`Other FPS Games`|
+|[Shinoko&#45;NIKKE &#91; Goddess of Victory: Nikke Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744217-shinoko-nikke-goddess-victory-nikke-cheat.html)|`2026-10-31 00:33:00`|`Other MMORPG and Strategy`|
+|[Shinoko&#45;Heaven Burns Red &#91;Heaven Burns Red cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778771-shinoko-heaven-burns-red-heaven-burns-red-cheat.html)|`2026-10-31 00:31:00`|`Other MMORPG and Strategy`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-10-31 00:27:00`|`Call of Duty: Black Ops 7`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-10-31 00:25:00`|`Other FPS Games`|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-10-31 00:25:00`|`Other MMORPG and Strategy`|
+|[Brawlhalla dumper and dexbot tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/769147-brawlhalla-dumper-dexbot-tutorial.html)|`2026-10-31 00:24:00`|`Other Games`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-10-31 00:24:00`|`Escape from Tarkov`|
