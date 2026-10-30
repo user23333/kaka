@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Are there any open&#45;source radar projects for Apex? Could any experts share one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778847-source-radar-projects-apex-experts-share.html)|`2026-10-30 12:34:00`|`Apex Legends`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-30 12:14:00`|`Other MMORPG and Strategy`|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/676059-2024-unban-method-eac.html)|`2026-10-30 12:09:00`|`Anti-Cheat Research`|
+|[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-10-30 12:06:00`|`Other FPS Games`|
+|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-10-30 12:04:00`|`Call of Duty: Black Ops 7`|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-10-30 12:02:00`|`Other Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-10-30 11:20:00`|`Alternative Online Mods`|
 |[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-10-30 11:16:00`|`Tom Clancy's The Division`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-10-30 11:14:00`|`Escape from Tarkov`|
