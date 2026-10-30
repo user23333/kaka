@@ -51,6 +51,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-30 20:45:00`|`Other Games`|
+|[internal hypervisor injection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/777826-internal-hypervisor-injection.html)|`2026-10-30 20:40:00`|`Rust`|
 |[Last Epoch Helper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775383-epoch-helper.html)|`2026-10-30 20:36:00`|`Other MMORPG and Strategy`|
 |[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-10-30 20:35:00`|`Grand Theft Auto V`|
 |[hexxed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778455-hexxed.html)|`2026-10-30 20:23:00`|`Overwatch`|
