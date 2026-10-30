@@ -15,6 +15,7 @@
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-30 08:38:16`|`anti-cheat-research`|
 |10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-30 10:38:14`|`counter-strike-2-a`|
 |22|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-30 14:38:16`|`wardogs`|
+|7|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-30 18:38:06`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -48,6 +49,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-10-30 18:37:00`|`Deadlock`|
+|[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-10-30 18:23:00`|`Other Games`|
+|[ForeWarned Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776617-forewarned-internal.html)|`2026-10-30 18:02:00`|`Other MMORPG and Strategy`|
+|[Arena Breakout Infinite Internal Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/641795-arena-breakout-infinite-internal-hack.html)|`2026-10-30 17:59:00`|`Other FPS Games`|
 |[Duckoleon Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777821-duckoleon-internal.html)|`2026-10-30 17:30:00`|`Other FPS Games`|
 |[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-10-30 17:27:00`|`Battlefield 2`|
 |[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-10-30 17:26:00`|`Other MMORPG and Strategy`|
