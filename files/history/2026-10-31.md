@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-31 02:37:00`|`Tom Clancy's The Division`|
+|[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-10-31 02:33:00`|`Call of Duty: Black Ops 7`|
+|[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-31 02:29:00`|`Other FPS Games`|
+|[PGA 2K25 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766592-pga-2k25-internal.html)|`2026-10-31 02:27:00`|`Other Games`|
+|[Hunt bans survive new hardware&#46; I spent a year finding out why&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779242-hunt-bans-survive-hardware-spent-finding.html)|`2026-10-31 02:19:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-10-31 02:17:00`|`Other FPS Games`|
+|[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-31 02:16:00`|`Other Single Player Games`|
 |[Banned help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779233-banned-help.html)|`2026-10-31 01:30:00`|`Deadlock`|
 |[KozDbg v1&#46;0 — VMProtect Anti&#45;Anti&#45;Debug Plugin for x64dbg &#40;No Kernel Driver Required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779167-kozdbg-v1-0-vmprotect-anti-anti-debug-plugin-x64dbg-kernel-driver-required.html)|`2026-10-31 01:29:00`|`General Programming and Reversing`|
 |[ElectronAC vehicle spawn detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/772480-electronac-vehicle-spawn-detection.html)|`2026-10-31 01:25:00`|`Alternative Online Mods`|
