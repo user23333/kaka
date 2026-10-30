@@ -24,9 +24,27 @@
 |5|[peak 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59031)|`2026-10-31 00:38:06`|
 |12|[NotUrCheats&#95;Loader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59030)|`2026-10-31 00:38:06`|
 |33|[sdk valorant 13&#46;09 ap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59029)|`2026-10-31 00:38:06`|
+|8|[Yuri&#45;Aniimo v1&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59056)|`2026-10-31 03:38:20`|
+|1|[Nuclear Option Trainer Source ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59054)|`2026-10-31 03:38:20`|
+|1|[Nuclear Option Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59053)|`2026-10-31 03:38:20`|
+|2|[lootline source 1&#46;5&#46;4 ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59048)|`2026-10-31 03:38:20`|
+|1|[lootline 1&#46;5&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59047)|`2026-10-31 03:38:20`|
+|1|[Speedow Loader for Moon Sweeper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59046)|`2026-10-31 03:38:20`|
+|1|[Assembly&#45;CSharp&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59045)|`2026-10-31 03:38:20`|
+|1|[Project Alpha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59044)|`2026-10-31 03:38:20`|
+|3|[TheFinals&#45;SDK&#45;12&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59043)|`2026-10-31 03:38:20`|
+|1|[Dead by Daylight MarketFiles 10&#46;2&#46;2 &#40;Latest&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59041)|`2026-10-31 03:38:20`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-10-31 03:35:00`|`Escape from Tarkov`|
+|[SCUM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/scum/297219-scum-reversal-structs-offsets.html)|`2026-10-31 03:33:00`|`Scum`|
+|[Nuclear Option Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763061-nuclear-option-mod-menu.html)|`2026-10-31 03:28:00`|`Other Games`|
+|[Muse Dash internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779251-muse-dash-internal.html)|`2026-10-31 03:24:00`|`Other Games`|
+|[Moon Sweepers &#45; SpeedowLoader 1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779222-moon-sweepers-speedowloader-1-0-a.html)|`2026-10-31 03:23:00`|`Other MMORPG and Strategy`|
+|[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-10-31 03:23:00`|`Counter-Strike 2`|
+|[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-31 03:23:00`|`Other Games`|
+|[Project Alpha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/779217-project-alpha.html)|`2026-10-31 03:22:00`|`Escape from Tarkov`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-10-31 02:37:00`|`Tom Clancy's The Division`|
 |[Shampis&#45;COD &#124; BO7 External &#40;AIM, ESP, PREDICTTION&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/731919-shampis-cod-bo7-external-aim-esp-predicttion.html)|`2026-10-31 02:33:00`|`Call of Duty: Black Ops 7`|
 |[Bloodstrike External &#40;STEAM&#41; &#45; ESP, VisCheck, Aimbot, Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778461-bloodstrike-external-steam-esp-vischeck-aimbot-triggerbot.html)|`2026-10-31 02:29:00`|`Other FPS Games`|
