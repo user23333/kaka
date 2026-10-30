@@ -41,6 +41,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[my esp lags too much](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/770585-esp-lags.html)|`2026-10-30 13:30:00`|`Apex Legends`|
+|[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-10-30 13:28:00`|`Apex Legends`|
+|[Marvel Rivals DMA &#124; Source Code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/776667-marvel-rivals-dma-source-code.html)|`2026-10-30 13:26:00`|`Marvel Rivals`|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-10-30 13:18:00`|`Other FPS Games`|
+|[Rainbow Six Siege X Recoil Macro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/723950-rainbow-six-siege-recoil-macro.html)|`2026-10-30 13:14:00`|`Rainbow Six Siege`|
+|[LawnLab Showcase 🌻 &#124; Plants vs&#46; Zombies GOTY & Classic Trainer &#43; Lawn Editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779197-lawnlab-showcase-plants-vs-zombies-goty-classic-trainer-lawn-editor.html)|`2026-10-30 13:13:00`|`General Programming and Reversing`|
 |[Are there any open&#45;source radar projects for Apex? Could any experts share one?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778847-source-radar-projects-apex-experts-share.html)|`2026-10-30 12:34:00`|`Apex Legends`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-30 12:14:00`|`Other MMORPG and Strategy`|
 |[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/676059-2024-unban-method-eac.html)|`2026-10-30 12:09:00`|`Anti-Cheat Research`|
