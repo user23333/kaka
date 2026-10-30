@@ -51,6 +51,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[DMA got hit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/777635-dma-hit.html)|`2026-10-30 22:31:00`|`Call of Duty: Black Ops 7`|
+|[Megabonk cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/768451-megabonk-cheat.html)|`2026-10-30 22:24:00`|`Other Single Player Games`|
+|[PointBlank Private 3&#46;16](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779229-pointblank-private-3-16-a.html)|`2026-10-30 22:23:00`|`Other FPS Games`|
+|[MapleStory Classic &#45; v1&#46;0&#46;1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/778620-maplestory-classic-v1-0-1-trainer.html)|`2026-10-30 22:19:00`|`Maple Story`|
+|[IA cheat for mw4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779226-ia-cheat-mw4.html)|`2026-10-30 22:17:00`|`Call of Duty: Black Ops 7`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-10-30 22:13:00`|`Counter-Strike 2`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-10-30 21:58:00`|`Rust`|
 |[AION 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/775574-aion-2-external-esp.html)|`2026-10-30 21:37:00`|`Other MMORPG and Strategy`|
 |[Aniimo Post update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779157-aniimo-post-update.html)|`2026-10-30 21:30:00`|`Other MMORPG and Strategy`|
 |[My party is grinding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/771574-party-grinding.html)|`2026-10-30 20:45:00`|`Other Games`|
