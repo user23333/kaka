@@ -37,6 +37,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[L4D2 Heaven&#45;hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730212-l4d2-heaven-hook.html)|`2026-10-31 06:54:00`|`Other FPS Games`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-10-31 06:47:00`|`Wardogs`|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-10-31 06:41:00`|`Other FPS Games`|
+|[NBA 2K26 Shot Meter Holder & Auto&#45;Shoot Suite vision&#45;timed release &#40;Arrow 2 / Purple&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765251-nba-2k26-shot-meter-holder-auto-shoot-suite-vision-timed-release-arrow-2-purple.html)|`2026-10-31 06:40:00`|`Other Games`|
+|[First time trying to get cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/778480-time-trying-cheats.html)|`2026-10-31 06:37:00`|`ARC Raiders`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-10-31 06:35:00`|`Other FPS Games`|
 |[Helldiver 2 has adopted a new bypass method for the EAC anti&#45;cheat system&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778810-helldiver-2-adopted-bypass-method-eac-anti-cheat-system.html)|`2026-10-31 06:27:00`|`HELLDIVERS 2`|
 |[Super Credit and Medals Farming Guide](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/733511-super-credit-medals-farming-guide.html)|`2026-10-31 06:26:00`|`HELLDIVERS 2`|
