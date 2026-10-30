@@ -14,6 +14,7 @@
 |5|[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-30 05:38:19`|`counter-strike-2-a`|
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-30 08:38:16`|`anti-cheat-research`|
 |10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-30 10:38:14`|`counter-strike-2-a`|
+|22|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-10-30 14:38:16`|`wardogs`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,9 +44,13 @@
 |3|[Marvel Rivals Parallax Updated 2026&#45;10&#45;30](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59033)|`2026-10-30 13:49:12`|
 |2|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59032)|`2026-10-30 13:49:12`|
 |1|[peak 1&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59031)|`2026-10-30 13:49:12`|
+|37|[Yuri&#45;Aniimo v1&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59037)|`2026-10-30 14:38:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-10-30 14:32:00`|`Other MMORPG and Strategy`|
+|[How would i access all world models &#40;&#46;vmdl&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779036-access-world-models-vmdl.html)|`2026-10-30 14:03:00`|`Counter-Strike 2`|
+|[Unpacked Portable Executable & Memory Dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777632-unpacked-portable-executable-memory-dumps.html)|`2026-10-30 14:03:00`|`ARC Raiders`|
 |[Crack HordeTech Menu 10/29/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779189-crack-hordetech-menu-10-29-2026-a.html)|`2026-10-30 13:47:00`|`Other Games`|
 |[SurrounDead DX11 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/722827-surroundead-dx11-internal.html)|`2026-10-30 13:44:00`|`Other Single Player Games`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-10-30 13:44:00`|`Marvel Rivals`|
