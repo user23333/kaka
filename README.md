@@ -27,6 +27,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Banned help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779233-banned-help.html)|`2026-10-31 01:30:00`|`Deadlock`|
+|[KozDbg v1&#46;0 — VMProtect Anti&#45;Anti&#45;Debug Plugin for x64dbg &#40;No Kernel Driver Required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779167-kozdbg-v1-0-vmprotect-anti-anti-debug-plugin-x64dbg-kernel-driver-required.html)|`2026-10-31 01:29:00`|`General Programming and Reversing`|
+|[ElectronAC vehicle spawn detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/772480-electronac-vehicle-spawn-detection.html)|`2026-10-31 01:25:00`|`Alternative Online Mods`|
+|[AMD Streamproof External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779136-amd-streamproof-external.html)|`2026-10-31 01:24:00`|`Alternative Online Mods`|
+|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-31 01:20:00`|`Anti-Cheat Research`|
+|[Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778422-brawlsense.html)|`2026-10-31 01:20:00`|`Other Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-10-31 01:01:00`|`Apex Legends`|
+|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-10-31 00:55:00`|`Other FPS Games`|
 |[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-10-31 00:36:00`|`Other MMORPG and Strategy`|
 |[Vampir MMORPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779236-vampir-mmorpg.html)|`2026-10-31 00:35:00`|`Other MMORPG and Strategy`|
 |[&#91;Hysteria&#93; FragPunk internal &#43; loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/751764-hysteria-fragpunk-internal-loader.html)|`2026-10-31 00:34:00`|`Other FPS Games`|
