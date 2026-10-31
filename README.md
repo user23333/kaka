@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can someone please show me an antiaim implementation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779249-please-antiaim-implementation.html)|`2026-11-01 05:34:00`|`Counter-Strike 2`|
+|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-11-01 05:15:00`|`Deadlock`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-01 05:14:00`|`Counter-Strike 2 Releases`|
+|[How did this P2C get this kill effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779320-p2c-kill-effect.html)|`2026-11-01 05:13:00`|`Counter-Strike 2`|
+|[Blood Strike &#40;Messiah Engine&#41;: External Team ID & Visibility Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779323-blood-strike-messiah-engine-external-team-id-visibility-checks.html)|`2026-11-01 05:11:00`|`Other FPS Games`|
 |[NotUrCheats // DEEP ROCK GALACTIC &#45; DRG Internal Menu &#40;Full &#43; Lite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779163-noturcheats-deep-rock-galactic-drg-internal-menu-lite.html)|`2026-11-01 04:37:00`|`Other FPS Games`|
 |[&#91;KVM &#45; vmread&#93; Apex ESP and Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/406426-kvm-vmread-apex-esp-aimbot.html)|`2026-11-01 04:34:00`|`Apex Legends`|
 |[OHM &#45; VEIN](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779379-ohm-vein.html)|`2026-11-01 04:31:00`|`Other FPS Games`|
