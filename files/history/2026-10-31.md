@@ -41,9 +41,18 @@
 |5|[EFT&#95;CT&#95;48484](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59059)|`2026-10-31 07:38:05`|
 |2|[SPTCheatMenu&#95;v1&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59058)|`2026-10-31 07:38:05`|
 |2|[AoE2 DE &#45; Counter Engine v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59063)|`2026-10-31 08:38:05`|
+|24|[dl&#95;external&#95;v5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59069)|`2026-10-31 14:38:13`|
+|2|[Rextra DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59068)|`2026-10-31 14:38:13`|
+|5|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59067)|`2026-10-31 14:38:13`|
+|1|[Klaude v1&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59066)|`2026-10-31 14:38:13`|
+|1|[jlov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59065)|`2026-10-31 14:38:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-10-31 14:37:00`|`Battlefield 2`|
+|[Maplestory Classic Godmode Showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779293-maplestory-classic-godmode-showcase.html)|`2026-10-31 14:15:00`|`Maple Story`|
+|[AOE4 new offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/779175-aoe4-offset.html)|`2026-10-31 14:02:00`|`Age of Empires`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-10-31 14:00:00`|`HELLDIVERS 2`|
 |[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-10-31 13:34:00`|`Other FPS Games`|
 |[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-10-31 13:34:00`|`Other MMORPG and Strategy`|
 |[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-10-31 13:28:00`|`Apex Legends`|
