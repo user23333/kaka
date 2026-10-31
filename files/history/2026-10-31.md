@@ -53,6 +53,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-31 23:35:00`|`H1Z1`|
+|[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-31 23:29:00`|`Grand Theft Auto V`|
+|[Evitania Online &#45; Idle Rpg Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765472-evitania-online-idle-rpg-cheat-table.html)|`2026-10-31 23:22:00`|`Other Games`|
 |[AoE2 DE &#45; External FOW Removal &#43; Resource ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/758084-aoe2-de-external-fow-removal-resource-esp.html)|`2026-10-31 22:37:00`|`Age of Empires`|
 |[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-10-31 22:28:00`|`Other Games`|
 |[Aniimo external ESP &#45; il2cpp offsets, AppFacade statics, camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778923-aniimo-external-esp-il2cpp-offsets-appfacade-statics-camera.html)|`2026-10-31 22:19:00`|`Other MMORPG and Strategy`|
