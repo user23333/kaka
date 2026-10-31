@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[QEMU&#43;KVM SVM &#43; KVM detection help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779291-qemu-kvm-svm-kvm-detection-help.html)|`2026-11-01 06:24:00`|`Anti-Cheat Research`|
+|[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-11-01 06:16:00`|`Other Games`|
+|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-01 05:58:00`|`Maple Story`|
+|[&#91;STEAM&#93; Dead By Daylight Linux INTERNAL Rage Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/749910-steam-dead-daylight-linux-internal-rage-cheat.html)|`2026-11-01 05:54:00`|`Other FPS Games`|
+|[T6 Plutonium Zombies fully featured internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/779356-t6-plutonium-zombies-featured-internal.html)|`2026-11-01 05:43:00`|`Call of Duty: Black Ops 2`|
 |[can someone please show me an antiaim implementation?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779249-please-antiaim-implementation.html)|`2026-11-01 05:34:00`|`Counter-Strike 2`|
 |[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-11-01 05:15:00`|`Deadlock`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-01 05:14:00`|`Counter-Strike 2 Releases`|
