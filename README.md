@@ -49,6 +49,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I've seen a lot of internal cheating going on&#46; How do they get around the anti&#45;cheati](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778081-ive-seen-lot-internal-cheating-anti-cheati.html)|`2026-10-31 16:29:00`|`Wardogs`|
+|[How did this P2C get this kill effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779320-p2c-kill-effect.html)|`2026-10-31 16:29:00`|`Counter-Strike 2`|
+|[Shadow Vmt Hook Detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779319-shadow-vmt-hook-detect.html)|`2026-10-31 16:29:00`|`Apex Legends`|
+|[Logitech NoRecoil, Rapid Fire, Quickscope, Burst Script &#45; BF6 Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/773857-logitech-norecoil-rapid-fire-quickscope-burst-script-bf6-edition.html)|`2026-10-31 16:18:00`|`Battlefield 6`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-10-31 16:06:00`|`Marvel Rivals`|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-10-31 16:03:00`|`Anti-Cheat Research`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-10-31 15:40:00`|`Other MMORPG and Strategy`|
 |[AION 2 — external ESP &#43; overlay &#43; movement, Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779317-aion-2-external-esp-overlay-movement-windows.html)|`2026-10-31 15:37:00`|`Other MMORPG and Strategy`|
 |[Fast Accuracy Recovery / Healthshot / Weapon Switch Animations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778536-fast-accuracy-recovery-healthshot-weapon-switch-animations.html)|`2026-10-31 15:25:00`|`Counter-Strike 2`|
 |[mayrrX64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/758742-mayrrx64.html)|`2026-10-31 15:08:00`|`Garry's Mod`|
