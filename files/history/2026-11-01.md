@@ -24,9 +24,19 @@
 |16|[AoE2 DE &#45; Counter Engine v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59063)|`2026-11-01 00:38:13`|
 |6|[CrackHordetech](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59062)|`2026-11-01 00:38:13`|
 |136|[Azec](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59061)|`2026-11-01 00:38:13`|
+|17|[Azec V4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59079)|`2026-11-01 03:38:12`|
+|2|[T6 Plutonium ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59078)|`2026-11-01 03:38:12`|
+|10|[kernel&#45;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59077)|`2026-11-01 03:38:12`|
+|2|[TF2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59076)|`2026-11-01 03:38:12`|
+|4|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59075)|`2026-11-01 03:38:12`|
+|1|[GibsonMenu v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59074)|`2026-11-01 03:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-11-01 03:30:00`|`Counter-Strike 2`|
+|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-11-01 03:25:00`|`Rainbow Six Siege`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-01 03:24:00`|`Apex Legends`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-01 03:16:00`|`Other MMORPG and Strategy`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-01 02:33:00`|`Other FPS Games`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-01 02:24:00`|`Rust`|
 |[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-11-01 02:18:00`|`Alternative Online Mods`|
