@@ -12,6 +12,7 @@
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-11-01 00:38:13`|`anti-cheat-research`|
 |1|[Helldiver 2 has adopted a new bypass method for the EAC anti&#45;cheat system&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778810-helldiver-2-adopted-bypass-method-eac-anti-cheat-system.html)|`2026-11-01 00:38:13`|`helldivers-2-a`|
 |5|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-11-01 04:38:12`|`helldivers-2-a`|
+|9|[EA Javelin driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778696-ea-javelin-driver.html)|`2026-11-01 07:24:35`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +35,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BUILDING arc raiders esp tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779392-building-arc-raiders-esp-tool.html)|`2026-11-01 07:14:00`|`ARC Raiders`|
+|[External FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756393-external-fov-changer.html)|`2026-11-01 06:52:00`|`Overwatch`|
 |[QEMU&#43;KVM SVM &#43; KVM detection help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779291-qemu-kvm-svm-kvm-detection-help.html)|`2026-11-01 06:24:00`|`Anti-Cheat Research`|
 |[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-11-01 06:16:00`|`Other Games`|
 |[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-01 05:58:00`|`Maple Story`|
