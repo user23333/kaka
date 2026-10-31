@@ -53,6 +53,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[cs2 patato graphic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777923-cs2-patato-graphic.html)|`2026-10-31 23:40:00`|`Counter-Strike 2`|
+|[Latest 2024 UnBan Method &#45; EAC/BE And Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/676059-2024-unban-method-eac.html)|`2026-10-31 23:39:00`|`Anti-Cheat Research`|
 |[H1Z1 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/140684-h1z1-offsets.html)|`2026-10-31 23:35:00`|`H1Z1`|
 |[FSL: local GTAO saves](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)|`2026-10-31 23:29:00`|`Grand Theft Auto V`|
 |[Evitania Online &#45; Idle Rpg Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/765472-evitania-online-idle-rpg-cheat-table.html)|`2026-10-31 23:22:00`|`Other Games`|
