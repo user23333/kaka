@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-31 11:32:00`|`Payday 2`|
+|[dma red light, not being detected in windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/778402-dma-red-light-detected-windows.html)|`2026-10-31 11:19:00`|`PC Hardware`|
+|[T75 or T100](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779284-t75-t100.html)|`2026-10-31 11:13:00`|`Wardogs`|
+|[offsets Dumper &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/774528-offsets-dumper.html)|`2026-10-31 10:56:00`|`H1Z1`|
+|[new to making cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779029-cheats.html)|`2026-10-31 10:46:00`|`Counter-Strike 2`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-31 10:17:00`|`Other FPS Games`|
 |[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-10-31 10:11:00`|`Apex Legends`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-31 09:50:00`|`Wardogs`|
