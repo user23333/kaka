@@ -12,6 +12,7 @@
 |10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-31 00:38:06`|`counter-strike-2-a`|
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-31 00:38:06`|`anti-cheat-research`|
 |8|[MapleStory Classic &#45; v1&#46;0&#46;1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/778620-maplestory-classic-v1-0-1-trainer.html)|`2026-10-31 10:23:11`|`maple-story`|
+|5|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-10-31 18:38:04`|`helldivers-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -51,6 +52,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TCSM&#45;External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776723-tcsm-external-cheat.html)|`2026-10-31 18:30:00`|`Other Games`|
+|[Hello Unknowncheats&#33; Have a programming background, new to game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779202-hello-unknowncheats-programming-background-game-hacking.html)|`2026-10-31 18:28:00`|`Introductions`|
+|[Intro&#46; Sir Beo the third&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779187-intro-sir-beo-third.html)|`2026-10-31 18:26:00`|`Introductions`|
 |[Kippo genshin release stable 7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778345-kippo-genshin-release-stable-7-1-a.html)|`2026-10-31 17:36:00`|`Genshin Impact`|
 |[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/776098-phasmophobia-sardinas-menu.html)|`2026-10-31 17:34:00`|`Phasmophobia`|
 |[Blood Strike &#40;Messiah Engine&#41;: External Team ID & Visibility Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779323-blood-strike-messiah-engine-external-team-id-visibility-checks.html)|`2026-10-31 17:26:00`|`Other FPS Games`|
