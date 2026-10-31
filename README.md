@@ -44,6 +44,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Farlight External Updated&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/farlight-84-a/749122-farlight-external-updated.html)|`2026-10-31 12:19:00`|`Farlight 84`|
+|[Where to begin?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779153-begin.html)|`2026-10-31 11:50:00`|`Rust`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-10-31 11:32:00`|`Payday 2`|
 |[dma red light, not being detected in windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/778402-dma-red-light-detected-windows.html)|`2026-10-31 11:19:00`|`PC Hardware`|
 |[T75 or T100](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779284-t75-t100.html)|`2026-10-31 11:13:00`|`Wardogs`|
