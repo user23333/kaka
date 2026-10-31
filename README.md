@@ -11,6 +11,7 @@
 |7|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-10-31 00:38:06`|`anti-cheat-research`|
 |10|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-10-31 00:38:06`|`counter-strike-2-a`|
 |29|[I want to replace the library&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778516-replace-library.html)|`2026-10-31 00:38:06`|`anti-cheat-research`|
+|8|[MapleStory Classic &#45; v1&#46;0&#46;1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/778620-maplestory-classic-v1-0-1-trainer.html)|`2026-10-31 10:23:11`|`maple-story`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -43,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-10-31 10:17:00`|`Other FPS Games`|
+|[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-10-31 10:11:00`|`Apex Legends`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-10-31 09:50:00`|`Wardogs`|
+|[Vehicle Collisions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779258-vehicle-collisions.html)|`2026-10-31 09:48:00`|`Alternative Online Mods`|
 |[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-10-31 09:37:00`|`Call of Duty: Black Ops 7`|
 |[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-10-31 09:25:00`|`Counter-Strike 2`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-10-31 09:17:00`|`Anti-Cheat Research`|
