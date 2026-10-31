@@ -46,9 +46,14 @@
 |5|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59067)|`2026-10-31 14:38:13`|
 |1|[Klaude v1&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59066)|`2026-10-31 14:38:13`|
 |1|[jlov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59065)|`2026-10-31 14:38:13`|
+|1|[OwHelper&#46;dll, OwHelperLoader&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59071)|`2026-10-31 17:38:15`|
+|1|[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59070)|`2026-10-31 17:38:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Kippo genshin release stable 7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778345-kippo-genshin-release-stable-7-1-a.html)|`2026-10-31 17:36:00`|`Genshin Impact`|
+|[Phasmophobia Sardinas Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/776098-phasmophobia-sardinas-menu.html)|`2026-10-31 17:34:00`|`Phasmophobia`|
+|[Blood Strike &#40;Messiah Engine&#41;: External Team ID & Visibility Checks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779323-blood-strike-messiah-engine-external-team-id-visibility-checks.html)|`2026-10-31 17:26:00`|`Other FPS Games`|
 |[I've seen a lot of internal cheating going on&#46; How do they get around the anti&#45;cheati](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778081-ive-seen-lot-internal-cheating-anti-cheati.html)|`2026-10-31 16:29:00`|`Wardogs`|
 |[How did this P2C get this kill effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779320-p2c-kill-effect.html)|`2026-10-31 16:29:00`|`Counter-Strike 2`|
 |[Shadow Vmt Hook Detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779319-shadow-vmt-hook-detect.html)|`2026-10-31 16:29:00`|`Apex Legends`|
