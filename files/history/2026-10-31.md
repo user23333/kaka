@@ -52,6 +52,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Strikers Club EAC BYPASS INJECTOR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775439-strikers-club-eac-bypass-injector.html)|`2026-10-31 19:19:00`|`Other Games`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-10-31 18:55:00`|`Counter-Strike 2`|
+|[Halloween: The Game External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772033-halloween-game-external.html)|`2026-10-31 18:49:00`|`Other Games`|
 |[TCSM&#45;External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776723-tcsm-external-cheat.html)|`2026-10-31 18:30:00`|`Other Games`|
 |[Hello Unknowncheats&#33; Have a programming background, new to game hacking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779202-hello-unknowncheats-programming-background-game-hacking.html)|`2026-10-31 18:28:00`|`Introductions`|
 |[Intro&#46; Sir Beo the third&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779187-intro-sir-beo-third.html)|`2026-10-31 18:26:00`|`Introductions`|
