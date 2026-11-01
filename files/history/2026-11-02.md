@@ -32,6 +32,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal or external, what should be used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779531-internal-external.html)|`2026-11-02 06:36:00`|`Counter-Strike 2`|
+|[how do you guys do raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/779411-guys-raycast.html)|`2026-11-02 06:33:00`|`Overwatch`|
+|[Destiny 2 cheat menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779437-destiny-2-cheat-menu.html)|`2026-11-02 06:26:00`|`Other FPS Games`|
+|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-02 06:22:00`|`H1Z1`|
+|[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-02 06:20:00`|`Other Games`|
+|[Stonewards &#45; Trainer / Cheat Table / Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772323-stonewards-trainer-cheat-table-mod-menu.html)|`2026-11-02 06:18:00`|`Other Games`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779471-hello.html)|`2026-11-02 05:33:00`|`Introductions`|
 |[Hey from a new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779436-hey.html)|`2026-11-02 05:32:00`|`Introductions`|
 |[External Vis Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/778116-external-vis-check.html)|`2026-11-02 05:20:00`|`Marvel Rivals`|
