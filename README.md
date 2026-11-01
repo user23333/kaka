@@ -47,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;STEAM&#93; Terraria 1&#46;4&#46;5&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738308-steam-terraria-1-4-5-4-cheat-table.html)|`2026-11-01 15:30:00`|`Other Games`|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-11-01 15:02:00`|`Marvel Rivals`|
+|[How does Risebug work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778806-risebug.html)|`2026-11-01 14:51:00`|`Counter-Strike 2`|
 |[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-11-01 14:35:00`|`Other FPS Games`|
 |[how do you guys do raycast](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/779411-guys-raycast.html)|`2026-11-01 14:21:00`|`Overwatch`|
 |[Lua Script Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778623-lua-script-executor.html)|`2026-11-01 14:16:00`|`Roblox`|
