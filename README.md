@@ -24,9 +24,20 @@
 |4|[Astroneer &#45; Unlock All Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59088)|`2026-11-02 00:37:47`|
 |23|[kaizer osu&#33; internal // lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59087)|`2026-11-02 00:37:47`|
 |108|[vesta 1&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59086)|`2026-11-02 00:37:47`|
+|1|[valdma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59095)|`2026-11-02 01:37:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-02 01:33:00`|`Other MMORPG and Strategy`|
+|[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-11-02 01:29:00`|`Anti-Cheat Research`|
+|[cs2 patato graphic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777923-cs2-patato-graphic.html)|`2026-11-02 01:28:00`|`Counter-Strike 2`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-02 01:25:00`|`Counter-Strike 2 Releases`|
+|[KozDbg v1&#46;0 — VMProtect Anti&#45;Anti&#45;Debug Plugin for x64dbg &#40;No Kernel Driver Required&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779167-kozdbg-v1-0-vmprotect-anti-anti-debug-plugin-x64dbg-kernel-driver-required.html)|`2026-11-02 01:24:00`|`General Programming and Reversing`|
+|[PhasmoMenu By PappyG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/485776-phasmomenu-pappyg.html)|`2026-11-02 01:18:00`|`Phasmophobia`|
+|[Vampir Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779483-vampir-reversal-structs-offsets.html)|`2026-11-02 01:15:00`|`Other MMORPG and Strategy`|
+|[Nuclear Option Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763061-nuclear-option-mod-menu.html)|`2026-11-02 01:13:00`|`Other Games`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-02 01:12:00`|`Call of Duty: Black Ops 7`|
+|[Aniimo external ESP &#45; il2cpp offsets, AppFacade statics, camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778923-aniimo-external-esp-il2cpp-offsets-appfacade-statics-camera.html)|`2026-11-02 01:09:00`|`Other MMORPG and Strategy`|
 |[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-11-02 00:35:00`|`Rainbow Six Siege`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-02 00:28:00`|`ARC Raiders`|
 |[Unsigned drivers can still be loaded even with DSE enabled](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779479-unsigned-drivers-loaded-dse-enabled.html)|`2026-11-02 00:24:00`|`General Programming and Reversing`|
