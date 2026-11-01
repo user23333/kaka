@@ -49,6 +49,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-01 21:10:00`|`Other FPS Games`|
+|[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779438-fivem-internal-cheat.html)|`2026-11-01 21:10:00`|`Alternative Online Mods`|
+|[Kippo genshin release stable 7&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/778345-kippo-genshin-release-stable-7-1-a.html)|`2026-11-01 21:09:00`|`Genshin Impact`|
+|[Color aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779327-color-aimbot.html)|`2026-11-01 21:07:00`|`Call of Duty: Black Ops 7`|
+|[fivem dma web radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779357-fivem-dma-web-radar.html)|`2026-11-01 21:04:00`|`Alternative Online Mods`|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-01 20:58:00`|`Wardogs`|
 |[Hey im new here&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779398-hey-im.html)|`2026-11-01 20:32:00`|`Introductions`|
 |[&#40;Latest patch&#41; Interium Internal &#124; Silent Aim &#124; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/775985-patch-interium-internal-silent-aim-esp.html)|`2026-11-01 20:31:00`|`Deadlock`|
 |[Deskrawl Idle ARPG Trainer mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776945-deskrawl-idle-arpg-trainer-mod.html)|`2026-11-01 20:25:00`|`Other MMORPG and Strategy`|
