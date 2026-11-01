@@ -33,9 +33,22 @@
 |2|[TF2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59076)|`2026-11-01 03:38:12`|
 |4|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59075)|`2026-11-01 03:38:12`|
 |1|[GibsonMenu v3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59074)|`2026-11-01 03:38:12`|
+|1|[REMATCHDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59094)|`2026-11-01 14:04:25`|
+|3|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59093)|`2026-11-01 14:04:25`|
+|3|[RiskMenu&#45;v0&#46;1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59092)|`2026-11-01 14:04:25`|
+|1|[saul&#95;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59091)|`2026-11-01 14:04:25`|
+|1|[D2R&#95;Jamella&#95;Editor&#45;v1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59090)|`2026-11-01 14:04:25`|
+|1|[DungeonCrawlerDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59089)|`2026-11-01 14:04:25`|
+|1|[Astroneer &#45; Unlock All Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59088)|`2026-11-01 14:04:25`|
+|2|[kaizer osu&#33; internal // lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59087)|`2026-11-01 14:04:25`|
+|1|[vesta 1&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59086)|`2026-11-01 14:04:25`|
+|1|[d3d11&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59084)|`2026-11-01 14:04:25`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-01 13:57:00`|`H1Z1`|
+|[&#91;Release&#93; D2R Jamella Editor v1&#46;0&#46;1 &#45; offline character/save editor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/diablo-series/778078-release-d2r-jamella-editor-v1-0-1-offline-character-save-editor.html)|`2026-11-01 13:57:00`|`Diablo Series`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-01 13:52:00`|`Payday 3`|
 |[Rematch cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777094-rematch-cheats.html)|`2026-11-01 11:54:00`|`Other Games`|
 |[Lethal Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/777365-lethal-company-internal.html)|`2026-11-01 11:51:00`|`Lethal Company`|
 |[Escape from Tarkov Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/226519-escape-tarkov-reversal-structs-offsets.html)|`2026-11-01 11:47:00`|`Escape from Tarkov`|
