@@ -12,6 +12,7 @@
 |8|[Lua Script Executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778623-lua-script-executor.html)|`2026-11-02 00:37:47`|`roblox`|
 |14|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-11-02 00:37:47`|`h1z1`|
 |17|[How to detect if player was actualy visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778588-detect-player-actualy-visible.html)|`2026-11-02 04:37:48`|`wardogs`|
+|24|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-11-02 05:37:45`|`alternative-online-mods`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -31,6 +32,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779471-hello.html)|`2026-11-02 05:33:00`|`Introductions`|
+|[Hey from a new member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779436-hey.html)|`2026-11-02 05:32:00`|`Introductions`|
+|[External Vis Check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/778116-external-vis-check.html)|`2026-11-02 05:20:00`|`Marvel Rivals`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-11-02 05:20:00`|`Apex Legends`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-02 05:16:00`|`Deadlock`|
 |[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-02 04:24:00`|`Maple Story`|
 |[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/762004-detection-virtualization.html)|`2026-11-02 04:14:00`|`Anti-Cheat Research`|
 |[A Dance of Fire and Ice Auto Play](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/756704-dance-fire-ice-auto-play.html)|`2026-11-02 04:08:00`|`Other Games`|
