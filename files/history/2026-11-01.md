@@ -13,6 +13,7 @@
 |1|[Helldiver 2 has adopted a new bypass method for the EAC anti&#45;cheat system&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778810-helldiver-2-adopted-bypass-method-eac-anti-cheat-system.html)|`2026-11-01 00:38:13`|`helldivers-2-a`|
 |5|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-11-01 04:38:12`|`helldivers-2-a`|
 |9|[EA Javelin driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778696-ea-javelin-driver.html)|`2026-11-01 07:24:35`|`anti-cheat-research`|
+|6|[CS2 &#45; HyperV &#40;Bypass some ac's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779142-cs2-hyperv-bypass-acs.html)|`2026-11-01 08:37:37`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;FiveM&#93; How can I bypass anti&#45;cheat measures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778704-fivem-bypass-anti-cheat-measures.html)|`2026-11-01 08:35:00`|`Alternative Online Mods`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-01 08:28:00`|`Overwatch`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-11-01 08:17:00`|`Counter-Strike 2`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-01 08:13:00`|`Other FPS Games`|
 |[BUILDING arc raiders esp tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779392-building-arc-raiders-esp-tool.html)|`2026-11-01 07:14:00`|`ARC Raiders`|
 |[External FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756393-external-fov-changer.html)|`2026-11-01 06:52:00`|`Overwatch`|
 |[QEMU&#43;KVM SVM &#43; KVM detection help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779291-qemu-kvm-svm-kvm-detection-help.html)|`2026-11-01 06:24:00`|`Anti-Cheat Research`|
