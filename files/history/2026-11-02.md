@@ -25,9 +25,20 @@
 |23|[kaizer osu&#33; internal // lazer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59087)|`2026-11-02 00:37:47`|
 |108|[vesta 1&#46;2&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59086)|`2026-11-02 00:37:47`|
 |1|[valdma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59095)|`2026-11-02 01:37:38`|
+|1|[Divisioon 1 ESP/AIM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59099)|`2026-11-02 02:37:36`|
+|2|[kippo&#45;gi&#45;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59098)|`2026-11-02 02:37:36`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike &#45; Steam External Visibility Check via PhysX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779481-bloodstrike-steam-external-visibility-check-via-physx.html)|`2026-11-02 02:36:00`|`Other FPS Games`|
+|[ARC Raiders Maps, Models, Audio & Textures Exporter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779042-arc-raiders-maps-models-audio-textures-exporter.html)|`2026-11-02 02:32:00`|`ARC Raiders`|
+|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-11-02 02:31:00`|`Wardogs`|
+|[Sker Ritual Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779489-sker-ritual-internal.html)|`2026-11-02 02:31:00`|`Other FPS Games`|
+|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-11-02 02:27:00`|`Call of Duty: Black Ops 7`|
+|[I've seen a lot of internal cheating going on&#46; How do they get around the anti&#45;cheati](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778081-ive-seen-lot-internal-cheating-anti-cheati.html)|`2026-11-02 02:22:00`|`Wardogs`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-11-02 02:12:00`|`Payday 2`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-02 02:10:00`|`Escape from Tarkov`|
+|[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-11-02 02:08:00`|`Elite: Dangerous`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-02 01:33:00`|`Other MMORPG and Strategy`|
 |[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-11-02 01:29:00`|`Anti-Cheat Research`|
 |[cs2 patato graphic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/777923-cs2-patato-graphic.html)|`2026-11-02 01:28:00`|`Counter-Strike 2`|
