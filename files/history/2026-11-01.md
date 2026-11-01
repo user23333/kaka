@@ -14,6 +14,7 @@
 |5|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-11-01 04:38:12`|`helldivers-2-a`|
 |9|[EA Javelin driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778696-ea-javelin-driver.html)|`2026-11-01 07:24:35`|`anti-cheat-research`|
 |6|[CS2 &#45; HyperV &#40;Bypass some ac's&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779142-cs2-hyperv-bypass-acs.html)|`2026-11-01 08:37:37`|`counter-strike-2-a`|
+|14|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-11-01 18:37:47`|`h1z1`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -47,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fc27 Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/767840-fc27-cheat.html)|`2026-11-01 18:28:00`|`Other Games`|
+|[Halo Wars 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/767802-halo-wars-2-a.html)|`2026-11-01 17:55:00`|`Halo`|
 |[Where to begin?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779153-begin.html)|`2026-11-01 16:06:00`|`Rust`|
 |[SeoNari&#45;Nikke](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/753180-seonari-nikke.html)|`2026-11-01 15:59:00`|`Other MMORPG and Strategy`|
 |[&#91;STEAM&#93; Terraria 1&#46;4&#46;5&#46;4 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/738308-steam-terraria-1-4-5-4-cheat-table.html)|`2026-11-01 15:30:00`|`Other Games`|
