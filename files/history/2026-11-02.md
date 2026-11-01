@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779493-vac.html)|`2026-11-02 02:51:00`|`Counter-Strike 2`|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-11-02 02:45:00`|`Other FPS Games`|
 |[BloodStrike &#45; Steam External Visibility Check via PhysX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779481-bloodstrike-steam-external-visibility-check-via-physx.html)|`2026-11-02 02:36:00`|`Other FPS Games`|
 |[ARC Raiders Maps, Models, Audio & Textures Exporter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779042-arc-raiders-maps-models-audio-textures-exporter.html)|`2026-11-02 02:32:00`|`ARC Raiders`|
 |[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-11-02 02:31:00`|`Wardogs`|
