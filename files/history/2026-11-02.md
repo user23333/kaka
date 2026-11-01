@@ -34,6 +34,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-02 07:35:00`|`HELLDIVERS 2`|
+|[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2026-11-02 07:34:00`|`Other FPS Games`|
+|[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-11-02 07:33:00`|`Battlefield 2`|
+|[Where can I locate the clitoris?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/769230-locate-clitoris.html)|`2026-11-02 07:28:00`|`Off Topic`|
+|[Title: UE4&#46;18&#46;1 — KDF solved, stuck on GameID/nonce recovery](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779526-title-ue4-18-1-kdf-solved-stuck-gameid-nonce-recovery.html)|`2026-11-02 07:28:00`|`Anti-Cheat Research`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-11-02 07:27:00`|`Other MMORPG and Strategy`|
+|[What game got you into cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771454-game-cheating.html)|`2026-11-02 07:24:00`|`Off Topic`|
+|[CS2 Python External &#45; MS Mesh release, open&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779542-cs2-python-external-ms-mesh-release-source.html)|`2026-11-02 07:22:00`|`Introductions`|
+|[Mouse Driver &#43; Example &#124; Signed By Microsoft &#40;WORKING&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/766878-mouse-driver-example-signed-microsoft.html)|`2026-11-02 07:21:00`|`Anti-Cheat Research`|
+|[KnivesOut Offset Auto Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779038-knivesout-offset-auto-update.html)|`2026-11-02 07:20:00`|`Other FPS Games`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-11-02 06:46:00`|`Other MMORPG and Strategy`|
 |[HRD &#45; Scam With Your Friends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777627-hrd-scam-friends.html)|`2026-11-02 06:44:00`|`Other Games`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-02 06:38:00`|`Counter-Strike 2`|
