@@ -11,6 +11,7 @@
 |16|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-03 00:37:53`|`maple-story`|
 |19|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-11-03 00:37:53`|`other-fps-games`|
 |2|[BRAND NEW R6 NO RECOIL SCRIPT &#45; ALL MOUSES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778960-brand-r6-recoil-script-mouses.html)|`2026-11-03 00:37:53`|`rainbow-six-siege`|
+|18|[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-03 05:37:47`|`tom-clancy-s-the-division`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-03 05:36:00`|`Apex Legends`|
+|[CODG Toolbox Overlay &#45; Extinction, Aimbot & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-ghosts/779639-codg-toolbox-overlay-extinction-aimbot-esp.html)|`2026-11-03 05:36:00`|`Call of Duty: Ghosts`|
+|[Call of Duty: Black Ops 6 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-6-a/653959-call-duty-black-ops-6-reversal-structs-offsets.html)|`2026-11-03 05:11:00`|`Call of Duty: Black Ops 6`|
+|[Make sure, Spoofing and preventing ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/777643-spoofing-preventing-ban.html)|`2026-11-03 05:08:00`|`Overwatch`|
+|[c&#43;&#43; better than ahk for aimbot color in mw4??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779432-ahk-aimbot-color-mw4.html)|`2026-11-03 05:08:00`|`Call of Duty: Black Ops 7`|
+|[Nuclear Option Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763061-nuclear-option-mod-menu.html)|`2026-11-03 05:07:00`|`Other Games`|
+|[pixel perfect recoil script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776987-pixel-perfect-recoil-script.html)|`2026-11-03 05:00:00`|`Rainbow Six Siege`|
 |[Vanguard's new detection &#40;Fully devirt'd&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778080-vanguards-detection-devirtd.html)|`2026-11-03 04:41:00`|`Anti-Cheat Research`|
 |[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-11-03 04:37:00`|`Other FPS Games`|
 |[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-03 04:35:00`|`Deadlock`|
