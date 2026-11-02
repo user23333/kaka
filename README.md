@@ -34,9 +34,14 @@
 |2|[kippo&#45;gi&#45;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59098)|`2026-11-02 02:37:36`|
 |1|[Vampir SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59109)|`2026-11-02 06:49:45`|
 |3|[&#43;&#43;Fortnite&#43;Release&#45;43&#46;00&#45;CL&#45;59596594](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59107)|`2026-11-02 06:49:45`|
+|1|[Fast Plasma Caster 6&#45;Shot Burst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59125)|`2026-11-02 17:37:48`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-02 17:05:00`|`Other FPS Games`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-11-02 16:58:00`|`Other MMORPG and Strategy`|
+|[Basic CS2 Only&#45;Read ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779574-basic-cs2-read-esp.html)|`2026-11-02 16:57:00`|`Counter-Strike 2`|
+|[Unban method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/777606-unban-method.html)|`2026-11-02 16:55:00`|`Battlefield 2`|
 |[T75 or T100](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779284-t75-t100.html)|`2026-11-02 16:28:00`|`Wardogs`|
 |[WT/OPS &#124; WoT Blitz Steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777837-wt-ops-wot-blitz-steam-cheat.html)|`2026-11-02 15:33:00`|`Other MMORPG and Strategy`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-11-02 14:52:00`|`Counter-Strike 2`|
