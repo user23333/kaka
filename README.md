@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ai&#45;aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779586-ai-aimbot.html)|`2026-11-02 19:05:00`|`Counter-Strike 2`|
+|[TF2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/779346-tf2-cheat.html)|`2026-11-02 19:01:00`|`Team Fortress 2`|
+|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-11-02 18:57:00`|`Other FPS Games`|
+|[stacked rust ext src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768225-stacked-rust-ext-src.html)|`2026-11-02 18:54:00`|`Rust`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-11-02 18:50:00`|`Other Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-02 18:49:00`|`Other FPS Games`|
 |[Project Alpha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/779217-project-alpha.html)|`2026-11-02 18:25:00`|`Escape from Tarkov`|
 |[External Schedule I Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779267-external-schedule-mod-menu.html)|`2026-11-02 17:43:00`|`Other Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-02 17:05:00`|`Other FPS Games`|
