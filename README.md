@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Other Side &#124; internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754409-internal-hack.html)|`2026-11-02 09:27:00`|`Other Games`|
+|[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-11-02 09:26:00`|`Grand Theft Auto V`|
+|[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-11-02 09:16:00`|`Anti-Cheat Research`|
+|[Bypassing TPM/Secureboot with an EFI hypervisor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778820-bypassing-tpm-secureboot-efi-hypervisor.html)|`2026-11-02 09:01:00`|`Anti-Cheat Research`|
+|[Wich components change to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779552-wich-components-change-unbanned.html)|`2026-11-02 08:53:00`|`Rust`|
 |[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-11-02 08:36:00`|`Other FPS Games`|
 |[vectors insta shadow bn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778453-vectors-insta-shadow-bn.html)|`2026-11-02 08:32:00`|`Call of Duty: Black Ops 7`|
 |[Nametag/Wallhack R5 — SA&#45;MP 0&#46;3&#46;7 R5 &#43; open&#46;mp ClientCheck research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779550-nametag-wallhack-r5-sa-mp-0-3-7-r5-mp-clientcheck-research.html)|`2026-11-02 08:30:00`|`Other Games`|
