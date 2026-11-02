@@ -34,6 +34,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The First Descendant &#45; Flectorite M1Ui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/759796-descendant-flectorite-m1ui.html)|`2026-11-02 08:36:00`|`Other FPS Games`|
+|[vectors insta shadow bn](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778453-vectors-insta-shadow-bn.html)|`2026-11-02 08:32:00`|`Call of Duty: Black Ops 7`|
+|[Nametag/Wallhack R5 — SA&#45;MP 0&#46;3&#46;7 R5 &#43; open&#46;mp ClientCheck research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779550-nametag-wallhack-r5-sa-mp-0-3-7-r5-mp-clientcheck-research.html)|`2026-11-02 08:30:00`|`Other Games`|
+|[new unlimited deployable glitch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779490-unlimited-deployable-glitch.html)|`2026-11-02 08:28:00`|`Rainbow Six Siege`|
+|[KytyPS5/Demons Souls Remake offsets/stuff/info](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/playstation/779549-kytyps5-demons-souls-remake-offsets-stuff-info.html)|`2026-11-02 08:27:00`|`PlayStation`|
+|[Rematch cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777094-rematch-cheats.html)|`2026-11-02 08:24:00`|`Other Games`|
 |[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-02 07:35:00`|`HELLDIVERS 2`|
 |[MiniRoyale Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/607408-miniroyale-reversal-structs-offsets.html)|`2026-11-02 07:34:00`|`Other FPS Games`|
 |[AERODLC PRBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-2-a/778306-aerodlc-prbf2.html)|`2026-11-02 07:33:00`|`Battlefield 2`|
