@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#40;Plutonium&#41; BO2Z Toolbox Overlay &#45; Zombies Aimbot, ESP, Minimap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/779528-plutonium-bo2z-toolbox-overlay-zombies-aimbot-esp-minimap.html)|`2026-11-03 03:36:00`|`Call of Duty: Black Ops 2`|
+|[CounterFlame Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/777805-counterflame-cheats.html)|`2026-11-03 03:32:00`|`Android`|
+|[Server Side Occlusion Culling &#40;server culling&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779520-server-occlusion-culling-server-culling.html)|`2026-11-03 03:28:00`|`Rust`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-03 03:01:00`|`Other FPS Games`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-03 03:00:00`|`Counter-Strike 2 Releases`|
+|[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/762004-detection-virtualization.html)|`2026-11-03 02:46:00`|`Anti-Cheat Research`|
 |[Hooking Overlays &#40;Discord, Steam, Medal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779605-hooking-overlays-discord-steam-medal.html)|`2026-11-03 02:24:00`|`General Programming and Reversing`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-11-03 02:17:00`|`Counter-Strike 2`|
 |[Internal R&#46;E&#46;P&#46;O&#46; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/733555-internal-cheat-menu.html)|`2026-11-03 02:16:00`|`Other MMORPG and Strategy`|
