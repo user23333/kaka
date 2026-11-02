@@ -40,6 +40,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-02 22:35:00`|`Rust`|
+|[Hooking Overlays &#40;Discord, Steam, Medal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779605-hooking-overlays-discord-steam-medal.html)|`2026-11-02 22:35:00`|`General Programming and Reversing`|
+|[Does Tarkov collect TPM information when banning users?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/779597-tarkov-collect-tpm-information-banning-users.html)|`2026-11-02 22:34:00`|`Escape from Tarkov`|
+|[GUNBOUND WORLD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/777315-gunbound-world.html)|`2026-11-02 22:31:00`|`Gunbound`|
+|[Aniimo Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778496-aniimo-dumper.html)|`2026-11-02 22:16:00`|`Other MMORPG and Strategy`|
+|[Dungeon Slasher Trainer and Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/763222-dungeon-slasher-trainer-unlocker.html)|`2026-11-02 22:09:00`|`Unity`|
 |[about arc raiders cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779056-arc-raiders-cheats.html)|`2026-11-02 21:11:00`|`ARC Raiders`|
 |[HELP im building my first esp/wallhack tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779393-help-im-building-esp-wallhack-tool.html)|`2026-11-02 21:10:00`|`ARC Raiders`|
 |[Hood Warfare 2 Internal :hump:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776718-hood-warfare-2-internal-hump.html)|`2026-11-02 21:09:00`|`Other Games`|
