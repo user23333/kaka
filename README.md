@@ -34,6 +34,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Best way to stay undetected?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/778494-stay-undetected.html)|`2026-11-02 10:17:00`|`Roblox`|
+|[Astroneer Qbits](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/431633-astroneer-qbits.html)|`2026-11-02 10:17:00`|`Unreal Engine 4`|
+|[Most Stacked BO7 External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/765768-stacked-bo7-external.html)|`2026-11-02 10:06:00`|`Call of Duty: Black Ops 7`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-11-02 10:04:00`|`DayZ SA`|
+|[Dayz pc dupe &#40;NOT PATCHED&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/704228-dayz-pc-dupe-patched.html)|`2026-11-02 10:03:00`|`DayZ SA`|
 |[The Other Side &#124; internal hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/754409-internal-hack.html)|`2026-11-02 09:27:00`|`Other Games`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-11-02 09:26:00`|`Grand Theft Auto V`|
 |[Hiding Overlay HWNDs via EPT Hook on NtUserBuildHwndList](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768408-hiding-overlay-hwnds-via-ept-hook-ntuserbuildhwndlist.html)|`2026-11-02 09:16:00`|`Anti-Cheat Research`|
