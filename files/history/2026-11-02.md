@@ -35,9 +35,13 @@
 |1|[Vampir SDK ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59109)|`2026-11-02 06:49:45`|
 |3|[&#43;&#43;Fortnite&#43;Release&#45;43&#46;00&#45;CL&#45;59596594](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59107)|`2026-11-02 06:49:45`|
 |1|[Fast Plasma Caster 6&#45;Shot Burst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59125)|`2026-11-02 17:37:48`|
+|12|[PUBG SDK 2610&#46;1&#46;2&#46;9](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59122)|`2026-11-02 18:37:51`|
+|3|[Mafia4321x 2026 &#45;v4&#46;xml](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59119)|`2026-11-02 18:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Project Alpha](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/779217-project-alpha.html)|`2026-11-02 18:25:00`|`Escape from Tarkov`|
+|[External Schedule I Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779267-external-schedule-mod-menu.html)|`2026-11-02 17:43:00`|`Other Games`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-02 17:05:00`|`Other FPS Games`|
 |[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-11-02 16:58:00`|`Other MMORPG and Strategy`|
 |[Basic CS2 Only&#45;Read ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779574-basic-cs2-read-esp.html)|`2026-11-02 16:57:00`|`Counter-Strike 2`|
