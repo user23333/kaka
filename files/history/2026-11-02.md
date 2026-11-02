@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-11-02 23:16:00`|`Counter-Strike 2`|
+|[Vampir MMORPG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779236-vampir-mmorpg.html)|`2026-11-02 23:11:00`|`Other MMORPG and Strategy`|
+|[CS2 server: does an attack fire from the subtick button step, or from attack1&#95;start&#95;h](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779609-cs2-server-attack-fire-subtick-button-step-attack1_start_h.html)|`2026-11-02 23:08:00`|`Counter-Strike 2`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-02 22:35:00`|`Rust`|
 |[Hooking Overlays &#40;Discord, Steam, Medal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779605-hooking-overlays-discord-steam-medal.html)|`2026-11-02 22:35:00`|`General Programming and Reversing`|
 |[Does Tarkov collect TPM information when banning users?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/779597-tarkov-collect-tpm-information-banning-users.html)|`2026-11-02 22:34:00`|`Escape from Tarkov`|
