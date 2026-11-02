@@ -28,6 +28,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-03 07:36:00`|`Tom Clancy's The Division`|
+|[Chivalry 2 dump 11/2/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779660-chivalry-2-dump-11-2-2026-a.html)|`2026-11-03 07:35:00`|`Other Games`|
+|[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-11-03 07:30:00`|`Apex Legends`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-11-03 07:29:00`|`Overwatch`|
+|[Brawlhalla HWID Ban Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779349-brawlhalla-hwid-ban-changes.html)|`2026-11-03 07:21:00`|`Anti-Cheat Research`|
+|[NEW WORKING RECOIL CONTROL WITH MOBILE SUPORT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778723-recoil-control-mobile-suport.html)|`2026-11-03 07:18:00`|`Rainbow Six Siege`|
+|[Looking to Learn How to Create ESPs and Game&#45;Related Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/775377-looking-learn-create-esps-game-related-tools.html)|`2026-11-03 07:15:00`|`ARC Raiders`|
+|[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-11-03 07:14:00`|`Overwatch`|
 |[PBO/P3D Studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/779654-pbo-p3d-studio.html)|`2026-11-03 06:32:00`|`DayZ SA`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-03 06:30:00`|`Other MMORPG and Strategy`|
 |[Winter, Christmas & New Year's Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/779602-winter-christmas-banner-contest-2026-a.html)|`2026-11-03 06:23:00`|`General Graphics`|
