@@ -13,6 +13,8 @@
 |14|[ROTK &#45; DMA Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/778583-rotk-dma-menu.html)|`2026-11-02 00:37:47`|`h1z1`|
 |17|[How to detect if player was actualy visible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778588-detect-player-actualy-visible.html)|`2026-11-02 04:37:48`|`wardogs`|
 |24|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-11-02 05:37:45`|`alternative-online-mods`|
+|18|[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-11-02 14:37:45`|`other-fps-games`|
+|2|[BRAND NEW R6 NO RECOIL SCRIPT &#45; ALL MOUSES](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/778960-brand-r6-recoil-script-mouses.html)|`2026-11-02 14:37:45`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ReaperV4 AC Latest Rebypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779510-reaperv4-ac-rebypass.html)|`2026-11-02 14:32:00`|`Alternative Online Mods`|
+|[Fo 76 menu Src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746449-fo-76-menu-src.html)|`2026-11-02 14:30:00`|`Other FPS Games`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-11-02 14:00:00`|`Counter-Strike 2`|
+|[Where to begin?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779153-begin.html)|`2026-11-02 13:08:00`|`Rust`|
+|[Help For LMU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778103-help-lmu.html)|`2026-11-02 13:05:00`|`Other Games`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-02 12:31:00`|`Other MMORPG and Strategy`|
 |[Eterspire Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/741382-eterspire-cheat-table.html)|`2026-11-02 12:26:00`|`Other MMORPG and Strategy`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-02 12:07:00`|`Other Games`|
