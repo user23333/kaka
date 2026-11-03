@@ -44,9 +44,14 @@
 |1|[4&#46;25&#46;0&#45;261891&#43;&#43;&#43;chivalry2&#43;gold&#95;stable&#95;minimal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59145)|`2026-11-03 10:56:00`|
 |2|[The Outlast Trials EAC Bypass v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59144)|`2026-11-03 10:56:00`|
 |0|[PBO Studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59143)|`2026-11-03 10:56:00`|
+|2|[Open Skies v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59148)|`2026-11-03 21:37:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[HAL Private Dispatch Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/778360-hal-private-dispatch-table.html)|`2026-11-03 21:30:00`|`Anti-Cheat Research`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-11-03 21:27:00`|`THE FINALS`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-03 21:27:00`|`Marvel Rivals`|
+|[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-11-03 21:17:00`|`Other Games`|
 |[Mouse/Keyboard Memory Input &#124; Unreal Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772439-mouse-keyboard-memory-input-unreal-engine.html)|`2026-11-03 20:32:00`|`Anti-Cheat Research`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-11-03 20:31:00`|`Escape from Tarkov`|
 |[Rust Hwid Ban Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778474-rust-hwid-ban-issue.html)|`2026-11-03 20:25:00`|`Rust`|
