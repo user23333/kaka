@@ -11,6 +11,7 @@
 |7|[roll no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778906-roll-spread.html)|`2026-11-04 00:37:52`|`counter-strike-2-a`|
 |10|[Writable CiPolicy page on 26200 with VBS &#124; DSE bypass with VBS running &#45; possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779262-writable-cipolicy-page-26200-vbs-dse-bypass-vbs-running.html)|`2026-11-04 00:37:52`|`anti-cheat-research`|
 |16|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-04 00:37:52`|`h1z1`|
+|9|[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-11-04 04:37:45`|`deadlock`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-04 04:34:00`|`Other FPS Games`|
+|[OHM &#45; Mortuus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778825-ohm-mortuus.html)|`2026-11-04 04:27:00`|`Other FPS Games`|
+|[Rust hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779619-rust-hwid-ban.html)|`2026-11-04 04:21:00`|`Rust`|
+|[Playing without Physical TPM&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/747634-playing-physical-tpm.html)|`2026-11-04 04:12:00`|`Call of Duty: Black Ops 7`|
+|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-04 04:10:00`|`H1Z1`|
+|[Failed attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770107-failed-attestation.html)|`2026-11-04 04:09:00`|`Call of Duty: Black Ops 7`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-04 04:02:00`|`Deadlock`|
 |[flame keeper mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/779742-flame-keeper-mask.html)|`2026-11-04 03:34:00`|`Payday 3`|
 |[anti cheat getting good now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779740-anti-cheat-getting.html)|`2026-11-04 03:31:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-04 03:29:00`|`Overwatch`|
