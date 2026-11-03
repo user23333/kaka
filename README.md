@@ -15,6 +15,7 @@
 |8|[CS2 External ESP with auto&#45;offsets dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778727-cs2-external-esp-auto-offsets-dumper.html)|`2026-11-03 10:37:46`|`counter-strike-2-a`|
 |7|[roll no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778906-roll-spread.html)|`2026-11-03 12:37:47`|`counter-strike-2-a`|
 |7|[undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778757-undetected-cheat.html)|`2026-11-03 12:37:47`|`overwatch`|
+|15|[Ricochet DMA detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778831-ricochet-dma-detections.html)|`2026-11-03 18:37:48`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -45,6 +46,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-11-03 18:37:00`|`Other FPS Games`|
+|[How to bypass EAC etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779057-bypass-eac-etc.html)|`2026-11-03 18:36:00`|`Rust`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-03 18:33:00`|`Overwatch`|
+|[online resource cheat ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/778323-online-resource-cheat.html)|`2026-11-03 18:32:00`|`Age of Empires`|
+|[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-11-03 18:29:00`|`Rust`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-11-03 18:26:00`|`Escape from Tarkov`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-03 17:33:00`|`Other FPS Games`|
 |[Basic CS2 Only&#45;Read ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779574-basic-cs2-read-esp.html)|`2026-11-03 17:16:00`|`Counter-Strike 2`|
 |[apex 1pc MAKCU COLORBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/777505-apex-1pc-makcu-colorbot.html)|`2026-11-03 17:02:00`|`Apex Legends`|
