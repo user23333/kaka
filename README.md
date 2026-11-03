@@ -47,6 +47,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Mouse/Keyboard Memory Input &#124; Unreal Engine](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/772439-mouse-keyboard-memory-input-unreal-engine.html)|`2026-11-03 20:32:00`|`Anti-Cheat Research`|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-11-03 20:31:00`|`Escape from Tarkov`|
+|[Rust Hwid Ban Issue](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778474-rust-hwid-ban-issue.html)|`2026-11-03 20:25:00`|`Rust`|
+|[DMA Radar / Fuser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/766210-dma-radar-fuser.html)|`2026-11-03 20:19:00`|`DayZ SA`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-03 19:33:00`|`Other MMORPG and Strategy`|
 |[Changing the Weather Without a Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/779667-changing-weather-mod-menu.html)|`2026-11-03 19:22:00`|`Grand Theft Auto V`|
 |[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-11-03 18:57:00`|`Other Games`|
