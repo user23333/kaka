@@ -25,9 +25,15 @@
 |29|[Wardogs Private Server Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59096)|`2026-11-03 00:37:53`|
 |22|[valdma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59095)|`2026-11-03 00:37:53`|
 |9|[REMATCHDump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59094)|`2026-11-03 00:37:53`|
+|24|[Yuri&#45;Aniimo v1&#46;4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59141)|`2026-11-03 09:37:46`|
+|2|[Velora v3 SWBF2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59110)|`2026-11-03 09:37:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Failed attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770107-failed-attestation.html)|`2026-11-03 09:31:00`|`Call of Duty: Black Ops 7`|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-11-03 09:23:00`|`Call of Duty: Black Ops 2`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-03 09:05:00`|`Wardogs`|
+|[Skip to my lou &#45; part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/779387-skip-lou-2-a.html)|`2026-11-03 08:54:00`|`Battlefield 6`|
 |[How to play after getting account ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778786-play-getting-account-ban.html)|`2026-11-03 08:23:00`|`Wardogs`|
 |[how can i find the base cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779664-base-cr3.html)|`2026-11-03 08:20:00`|`Rust`|
 |[Star Wars Battlefront II Internal – Aimbot / ESP / Damage Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/779371-star-wars-battlefront-ii-internal-aimbot-esp-damage-modifier.html)|`2026-11-03 08:18:00`|`Star Wars Battlefront 2`|
