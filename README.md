@@ -46,6 +46,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OpenChanger &#45; Internal Skinchanger with Panorama GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779692-openchanger-internal-skinchanger-panorama-gui.html)|`2026-11-03 18:50:00`|`Counter-Strike 2`|
+|[Faceit AC detection of iqvw64e](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779691-faceit-ac-detection-iqvw64e.html)|`2026-11-03 18:45:00`|`Counter-Strike 2`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-11-03 18:37:00`|`Other FPS Games`|
 |[How to bypass EAC etc](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779057-bypass-eac-etc.html)|`2026-11-03 18:36:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-03 18:33:00`|`Overwatch`|
