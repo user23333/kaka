@@ -45,6 +45,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kaizer osu&#33; internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777778-kaizer-osu-internal.html)|`2026-11-03 16:36:00`|`Other Games`|
+|[making my lua executor: Direct lua&#95;State Execution vs&#46; lua&#95;load Interception](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/774742-lua-executor-direct-lua_state-execution-vs-lua_load-interception.html)|`2026-11-03 16:28:00`|`Alternative Online Mods`|
+|[VACNet and Triggerbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779543-vacnet-triggerbot.html)|`2026-11-03 16:17:00`|`Counter-Strike 2`|
+|[Elite Ascendant](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/elite-dangerous/771846-elite-ascendant.html)|`2026-11-03 16:02:00`|`Elite: Dangerous`|
+|[Module stomping or alternative method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/778724-module-stomping-alternative-method.html)|`2026-11-03 16:01:00`|`General Programming and Reversing`|
+|[Wich components change to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779552-wich-components-change-unbanned.html)|`2026-11-03 15:55:00`|`Rust`|
 |[DenimR6 &#45; offset and memory dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/776966-denimr6-offset-memory-dumper.html)|`2026-11-03 15:25:00`|`Rainbow Six Siege`|
 |[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-11-03 14:53:00`|`Other Games`|
 |[GMod x64 Lua trainer: Anti&#45;Aim cmd angles leak into rendered camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/779607-gmod-x64-lua-trainer-anti-aim-cmd-angles-leak-rendered-camera.html)|`2026-11-03 14:38:00`|`Garry's Mod`|
