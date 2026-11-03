@@ -37,9 +37,13 @@
 |1|[CrabChampions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59135)|`2026-11-03 10:37:46`|
 |1|[SkerRitualInjector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59134)|`2026-11-03 10:37:46`|
 |8|[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59133)|`2026-11-03 10:37:46`|
+|1|[4&#46;25&#46;0&#45;261891&#43;&#43;&#43;chivalry2&#43;gold&#95;stable&#95;minimal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59145)|`2026-11-03 10:56:00`|
+|2|[The Outlast Trials EAC Bypass v1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59144)|`2026-11-03 10:56:00`|
+|0|[PBO Studio](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59143)|`2026-11-03 10:56:00`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-03 10:52:00`|`Wardogs`|
 |[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-03 10:37:00`|`Other MMORPG and Strategy`|
 |[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725797-crab-champions-internal.html)|`2026-11-03 10:34:00`|`Other Games`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-03 10:19:00`|`Other Games`|
