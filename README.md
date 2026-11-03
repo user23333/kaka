@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How to play after getting account ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778786-play-getting-account-ban.html)|`2026-11-03 08:23:00`|`Wardogs`|
+|[how can i find the base cr3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779664-base-cr3.html)|`2026-11-03 08:20:00`|`Rust`|
+|[Star Wars Battlefront II Internal – Aimbot / ESP / Damage Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/779371-star-wars-battlefront-ii-internal-aimbot-esp-damage-modifier.html)|`2026-11-03 08:18:00`|`Star Wars Battlefront 2`|
+|[Soul Land: Awakening World &#40;Dump GameAssembly&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/756394-soul-land-awakening-world-dump-gameassembly.html)|`2026-11-03 08:10:00`|`Other MMORPG and Strategy`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-03 07:59:00`|`Counter-Strike 2`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-03 07:36:00`|`Tom Clancy's The Division`|
 |[Chivalry 2 dump 11/2/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779660-chivalry-2-dump-11-2-2026-a.html)|`2026-11-03 07:35:00`|`Other Games`|
 |[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-11-03 07:30:00`|`Apex Legends`|
