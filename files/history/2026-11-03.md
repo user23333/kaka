@@ -16,6 +16,7 @@
 |7|[roll no spread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778906-roll-spread.html)|`2026-11-03 12:37:47`|`counter-strike-2-a`|
 |7|[undetected cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778757-undetected-cheat.html)|`2026-11-03 12:37:47`|`overwatch`|
 |15|[Ricochet DMA detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778831-ricochet-dma-detections.html)|`2026-11-03 18:37:48`|`call-of-duty-black-ops-7-a`|
+|10|[Writable CiPolicy page on 26200 with VBS &#124; DSE bypass with VBS running &#45; possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779262-writable-cipolicy-page-26200-vbs-dse-bypass-vbs-running.html)|`2026-11-03 19:37:48`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -46,6 +47,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-03 19:33:00`|`Other MMORPG and Strategy`|
+|[Changing the Weather Without a Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/779667-changing-weather-mod-menu.html)|`2026-11-03 19:22:00`|`Grand Theft Auto V`|
+|[Halloween: The Game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/770641-halloween-game.html)|`2026-11-03 18:57:00`|`Other Games`|
 |[OpenChanger &#45; Internal Skinchanger with Panorama GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779692-openchanger-internal-skinchanger-panorama-gui.html)|`2026-11-03 18:50:00`|`Counter-Strike 2`|
 |[Faceit AC detection of iqvw64e](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779691-faceit-ac-detection-iqvw64e.html)|`2026-11-03 18:45:00`|`Counter-Strike 2`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-11-03 18:37:00`|`Other FPS Games`|
