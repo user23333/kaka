@@ -12,6 +12,7 @@
 |10|[Writable CiPolicy page on 26200 with VBS &#124; DSE bypass with VBS running &#45; possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779262-writable-cipolicy-page-26200-vbs-dse-bypass-vbs-running.html)|`2026-11-04 00:37:52`|`anti-cheat-research`|
 |16|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-04 00:37:52`|`h1z1`|
 |9|[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-11-04 04:37:45`|`deadlock`|
+|15|[Ricochet DMA detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778831-ricochet-dma-detections.html)|`2026-11-04 05:37:55`|`call-of-duty-black-ops-7-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -25,9 +26,16 @@
 |2|[Metro 2033 Redux &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59151)|`2026-11-04 00:37:52`|
 |2|[Mod menu release v&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59150)|`2026-11-04 00:37:52`|
 |4|[Open Skies v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59148)|`2026-11-04 00:37:52`|
+|1|[Wardogs Hosting Tool, Bridge and Backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59174)|`2026-11-04 05:37:55`|
+|0|[Wardogs Private Server Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59173)|`2026-11-04 05:37:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Winter, Christmas & New Year's Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/779602-winter-christmas-banner-contest-2026-a.html)|`2026-11-04 05:35:00`|`General Graphics`|
+|[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-11-04 05:35:00`|`Deadlock`|
+|[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-04 05:25:00`|`Wardogs`|
+|[OpenChanger &#45; Internal Skinchanger with Panorama GUI](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779692-openchanger-internal-skinchanger-panorama-gui.html)|`2026-11-04 05:16:00`|`Counter-Strike 2`|
+|[Loftia releasing soon&#33; Demo out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777727-loftia-releasing-soon-demo.html)|`2026-11-04 05:09:00`|`Forum General`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-04 04:34:00`|`Other FPS Games`|
 |[OHM &#45; Mortuus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778825-ohm-mortuus.html)|`2026-11-04 04:27:00`|`Other FPS Games`|
 |[Rust hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779619-rust-hwid-ban.html)|`2026-11-04 04:21:00`|`Rust`|
