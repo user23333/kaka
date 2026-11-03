@@ -27,6 +27,15 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Payday: The Heist Trainers, Luas doesn't Work after the October 20th Patch](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-the-heist/778387-payday-heist-trainers-luas-doesnt-october-20th-patch.html)|`2026-11-04 01:36:00`|`Payday: The Heist`|
+|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-04 01:36:00`|`Counter-Strike 2`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-04 01:36:00`|`HELLDIVERS 2`|
+|[Recovering my dead dads android 9 phone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-hardware/778951-recovering-dead-dads-android-9-phone.html)|`2026-11-04 01:34:00`|`Other Hardware`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-04 01:31:00`|`Tom Clancy's The Division`|
+|[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-11-04 01:31:00`|`Rust`|
+|[Nuclear Option Mod Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763061-nuclear-option-mod-menu.html)|`2026-11-04 01:28:00`|`Other Games`|
+|[BloodStrike Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777503-bloodstrike-reversal-structs-offsets.html)|`2026-11-04 01:24:00`|`Other FPS Games`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-04 01:22:00`|`Payday 3`|
 |[Project Echo External Cheat &#91;OG Fortnite 3&#46;6&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778870-project-echo-external-cheat-og-fortnite-3-6-a.html)|`2026-11-04 00:37:00`|`Other FPS Games`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-04 00:37:00`|`Escape from Tarkov`|
 |[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-11-04 00:33:00`|`Other MMORPG and Strategy`|
