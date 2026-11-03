@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BTD6 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unity/775368-btd6-internal.html)|`2026-11-04 06:34:00`|`Unity`|
+|[Chivalry 2 dump 11/2/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779660-chivalry-2-dump-11-2-2026-a.html)|`2026-11-04 06:31:00`|`Other Games`|
+|[Internal or external, what should be used?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779531-internal-external.html)|`2026-11-04 06:31:00`|`Counter-Strike 2`|
+|[Anticheat help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779772-anticheat-help.html)|`2026-11-04 06:25:00`|`Anti-Cheat Research`|
+|[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-11-04 06:16:00`|`Apex Legends`|
+|[Faceit AC detection of iqvw64e](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779691-faceit-ac-detection-iqvw64e.html)|`2026-11-04 06:12:00`|`Counter-Strike 2`|
+|[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-11-04 06:11:00`|`Other FPS Games`|
 |[Winter, Christmas & New Year's Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/779602-winter-christmas-banner-contest-2026-a.html)|`2026-11-04 05:35:00`|`General Graphics`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-11-04 05:35:00`|`Deadlock`|
 |[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-04 05:25:00`|`Wardogs`|
