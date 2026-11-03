@@ -43,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OHM &#45; Mortuus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778825-ohm-mortuus.html)|`2026-11-03 11:34:00`|`Other FPS Games`|
+|[Manual map bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776042-manual-map-bypass.html)|`2026-11-03 11:30:00`|`Anti-Cheat Research`|
+|[Lua executor and Resource manager for FiveM enhanced](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/763837-lua-executor-resource-manager-fivem-enhanced.html)|`2026-11-03 11:25:00`|`Alternative Online Mods`|
+|[Fivem Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779438-fivem-internal-cheat.html)|`2026-11-03 11:24:00`|`Alternative Online Mods`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-03 11:21:00`|`Other MMORPG and Strategy`|
 |[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-03 10:52:00`|`Wardogs`|
 |[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-03 10:37:00`|`Other MMORPG and Strategy`|
 |[Crab Champions Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/725797-crab-champions-internal.html)|`2026-11-03 10:34:00`|`Other Games`|
