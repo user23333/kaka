@@ -45,6 +45,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Is weapon&#95;data&#95;t struct in HL25SDK misaligned or outdated? &#40;Offset mismatch is](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/779685-weapon_data_t-struct-hl25sdk-misaligned-outdated-offset-mismatch.html)|`2026-11-03 14:23:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779493-vac.html)|`2026-11-03 14:20:00`|`Counter-Strike 2`|
+|[Help pls&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779069-help-pls.html)|`2026-11-03 14:18:00`|`Counter-Strike 2`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-03 14:01:00`|`Other FPS Games`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-03 13:31:00`|`Other MMORPG and Strategy`|
 |[danARC &#45; Linux Source Relase: ESP, Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/760462-danarc-linux-source-relase-esp-radar.html)|`2026-11-03 13:08:00`|`ARC Raiders`|
 |[Outlast Trials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/776516-outlast-trials.html)|`2026-11-03 13:00:00`|`Introductions`|
