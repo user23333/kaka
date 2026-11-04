@@ -27,6 +27,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-05 03:36:00`|`Marvel Rivals`|
+|[How do i get raycast offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/779861-raycast-offsets.html)|`2026-11-05 03:36:00`|`Roblox`|
+|[Banned help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779233-banned-help.html)|`2026-11-05 03:36:00`|`Deadlock`|
+|[Themida / VMP / Enigma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/777274-themida-vmp-enigma.html)|`2026-11-05 03:36:00`|`C and C++`|
+|[No Cooldown cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779563-cooldown-cheat.html)|`2026-11-05 03:35:00`|`Deadlock`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-05 03:35:00`|`Wardogs`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-11-05 03:33:00`|`Other MMORPG and Strategy`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-05 03:27:00`|`Anti-Cheat Research`|
+|[Rust hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779619-rust-hwid-ban.html)|`2026-11-05 03:25:00`|`Rust`|
+|[Tom Clancy's The Division 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/320082-tom-clancys-division-2-reversal-structs-offsets.html)|`2026-11-05 03:24:00`|`Tom Clancy's The Division`|
 |[Unable to get / find breakable boxes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779853-unable-breakable-boxes.html)|`2026-11-05 02:32:00`|`Deadlock`|
 |[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-05 02:31:00`|`Other MMORPG and Strategy`|
 |[cheating in browser games](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779815-cheating-browser-games.html)|`2026-11-05 02:30:00`|`Other MMORPG and Strategy`|
