@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need Help Understanding HDMI Detection and Screen Capture with LockDown Browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779223-help-understanding-hdmi-detection-screen-capture-lockdown-browser.html)|`2026-11-05 07:35:00`|`Anti-Cheat Research`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-05 07:32:00`|`Counter-Strike 2 Releases`|
+|[updated yim menu for legacy &#40;16/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762621-updated-yim-menu-legacy-16-7-2026-a.html)|`2026-11-05 07:20:00`|`Grand Theft Auto V`|
+|[Rematch cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777094-rematch-cheats.html)|`2026-11-05 07:09:00`|`Other Games`|
+|[Manual map bypass for BE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/776042-manual-map-bypass.html)|`2026-11-05 07:08:00`|`Anti-Cheat Research`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-05 06:35:00`|`Apex Legends`|
 |[Rematch Goalkeeper script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743899-rematch-goalkeeper-script.html)|`2026-11-05 06:30:00`|`Other Games`|
 |[Zeroed NPC Game Data On Some Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779862-zeroed-npc-game-data-servers.html)|`2026-11-05 06:28:00`|`Alternative Online Mods`|
