@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-04 09:12:00`|`Other FPS Games`|
+|[Stalzone Aimbot &#43; ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773279-stalzone-aimbot-esp.html)|`2026-11-04 08:50:00`|`Other FPS Games`|
 |[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-11-04 08:29:00`|`Payday 2`|
 |[How to find Fiddler IDs yourself](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/779778-fiddler-ids-yourself.html)|`2026-11-04 08:17:00`|`Payday 3`|
 |[The Isle Evirma Cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776686-isle-evirma-cheats.html)|`2026-11-04 08:11:00`|`Other Games`|
