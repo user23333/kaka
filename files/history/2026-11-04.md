@@ -43,9 +43,18 @@
 |1|[TWD: Saints & Sinners &#45; Chapter 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59186)|`2026-11-04 19:38:21`|
 |17|[PUBG SDK 2611&#46;1&#46;1&#46;37](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59183)|`2026-11-04 19:38:21`|
 |5|[PUBG ESP 1&#46;1 &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59182)|`2026-11-04 19:38:21`|
+|0|[LC reconstructed &#43; IDA Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59194)|`2026-11-04 20:38:29`|
+|1|[Metro Awakening &#40;VR&#41; &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59192)|`2026-11-04 20:38:29`|
+|1|[Zero Caliber 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59191)|`2026-11-04 20:38:29`|
+|1|[Zero Caliber VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59190)|`2026-11-04 20:38:29`|
+|1|[df2hack 3/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59189)|`2026-11-04 20:38:29`|
+|3|[PUBG SDK 2611&#46;1&#46;1&#46;37](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59188)|`2026-11-04 20:38:29`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Imgui or Custom Render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779234-imgui-custom-render.html)|`2026-11-04 20:37:00`|`Rust`|
+|[Destiny 2 cheat menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779437-destiny-2-cheat-menu.html)|`2026-11-04 20:36:00`|`Other FPS Games`|
+|[Lineage Classic Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737415-lineage-classic-reversal-structs-offsets.html)|`2026-11-04 20:27:00`|`Other MMORPG and Strategy`|
 |[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/589592-age-empires-4-reversal-structs-offsets.html)|`2026-11-04 19:36:00`|`Age of Empires`|
 |[Metro Trilogy Trainers — 2033 Redux / Last Light Redux / Exodus EE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755719-metro-trilogy-trainers-2033-redux-light-redux-exodus-ee.html)|`2026-11-04 19:34:00`|`Other Games`|
 |[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-11-04 19:24:00`|`Other FPS Games`|
