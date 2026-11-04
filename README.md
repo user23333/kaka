@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EasyAntiCheat&#91;Fortnite&#93; What I Changed to Get Unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779700-easyanticheat-fortnite-changed-unbanned.html)|`2026-11-04 14:05:00`|`Anti-Cheat Research`|
+|[CS 1&#46;6 — Build 4554 · Complete Runtime&#45;Verified Offset Reference](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/779626-cs-1-6-build-4554-complete-runtime-verified-offset-reference.html)|`2026-11-04 14:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Wich components change to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779552-wich-components-change-unbanned.html)|`2026-11-04 13:38:00`|`Rust`|
 |[Call of Duty: Modern Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/384429-call-duty-modern-warfare-reversal-structs-offsets.html)|`2026-11-04 13:13:00`|`Call of Duty: Modern Warfare`|
 |[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-04 12:28:00`|`HELLDIVERS 2`|
 |[IDA Pro 9&#46;5 classinformer & SigMaker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779705-ida-pro-9-5-classinformer-sigmaker.html)|`2026-11-04 12:27:00`|`General Programming and Reversing`|
