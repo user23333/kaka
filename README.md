@@ -24,9 +24,19 @@
 |0|[LC reconstructed &#43; IDA Database](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59194)|`2026-11-05 00:38:34`|
 |7|[NMRiH2 Overlay v&#46;2&#46;0&#46;1 &#43; Shortcut creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59193)|`2026-11-05 00:38:34`|
 |1|[Metro Awakening &#40;VR&#41; &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59192)|`2026-11-05 00:38:34`|
+|1|[Wardogs Private Server &#40;Docker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59206)|`2026-11-05 04:38:22`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Faceit AC detection of iqvw64e](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779691-faceit-ac-detection-iqvw64e.html)|`2026-11-05 04:37:00`|`Counter-Strike 2`|
+|[Halo MCC EAC Disabler/"Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778681-halo-mcc-eac-disabler-bypass.html)|`2026-11-05 04:36:00`|`Halo`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-05 04:35:00`|`Overwatch`|
+|[slient pixelsurf help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779353-slient-pixelsurf-help.html)|`2026-11-05 04:31:00`|`Counter-Strike 2`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-11-05 04:27:00`|`Rainbow Six Siege`|
+|[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-05 04:26:00`|`Wardogs`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-05 04:24:00`|`Escape from Tarkov`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-05 04:13:00`|`Other FPS Games`|
+|[Outlast Trials](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/776516-outlast-trials.html)|`2026-11-05 03:57:00`|`Introductions`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-05 03:36:00`|`Marvel Rivals`|
 |[How do i get raycast offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/779861-raycast-offsets.html)|`2026-11-05 03:36:00`|`Roblox`|
 |[Banned help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779233-banned-help.html)|`2026-11-05 03:36:00`|`Deadlock`|
