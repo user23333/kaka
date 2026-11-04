@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-04 12:28:00`|`HELLDIVERS 2`|
+|[IDA Pro 9&#46;5 classinformer & SigMaker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779705-ida-pro-9-5-classinformer-sigmaker.html)|`2026-11-04 12:27:00`|`General Programming and Reversing`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-11-04 12:05:00`|`Other MMORPG and Strategy`|
+|[CS2 Python External &#45; MS Mesh release, open&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/779542-cs2-python-external-ms-mesh-release-source.html)|`2026-11-04 11:58:00`|`Counter-Strike 2 Releases`|
 |[Arena breakout infinite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779342-arena-breakout-infinite.html)|`2026-11-04 11:36:00`|`Other FPS Games`|
 |[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-11-04 11:15:00`|`ARC Raiders`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-04 11:07:00`|`Marvel Rivals`|
