@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hunt Showdown](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/350352-hunt-showdown.html)|`2026-11-05 05:35:00`|`Other FPS Games`|
+|[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-11-05 05:28:00`|`DayZ SA`|
+|[Deadlock Solomon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779868-deadlock-solomon.html)|`2026-11-05 05:24:00`|`Deadlock`|
+|[DayZ internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/651088-dayz-internal-cheat.html)|`2026-11-05 05:21:00`|`DayZ SA`|
+|[TF2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/779346-tf2-cheat.html)|`2026-11-05 05:08:00`|`Team Fortress 2`|
+|[Far Cry 3 Aimbot, Esp, Flymod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/far-cry/777390-cry-3-aimbot-esp-flymod.html)|`2026-11-05 05:02:00`|`Far Cry`|
+|[Sker Ritual Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779489-sker-ritual-internal.html)|`2026-11-05 05:01:00`|`Other FPS Games`|
 |[Faceit AC detection of iqvw64e](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779691-faceit-ac-detection-iqvw64e.html)|`2026-11-05 04:37:00`|`Counter-Strike 2`|
 |[Halo MCC EAC Disabler/"Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778681-halo-mcc-eac-disabler-bypass.html)|`2026-11-05 04:36:00`|`Halo`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-05 04:35:00`|`Overwatch`|
