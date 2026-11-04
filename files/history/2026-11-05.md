@@ -12,6 +12,7 @@
 |5|[Maplestory Classic Godmode Showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779293-maplestory-classic-godmode-showcase.html)|`2026-11-05 00:38:34`|`maple-story`|
 |5|[Aniimo Post update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779157-aniimo-post-update.html)|`2026-11-05 00:38:34`|`other-mmorpg-and-strategy`|
 |9|[How did this P2C get this kill effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779320-p2c-kill-effect.html)|`2026-11-05 05:53:48`|`counter-strike-2-a`|
+|5|[EasyAntiCheat&#91;Fortnite&#93; What I Changed to Get Unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779700-easyanticheat-fortnite-changed-unbanned.html)|`2026-11-05 06:38:12`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-05 06:35:00`|`Apex Legends`|
+|[Rematch Goalkeeper script?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/743899-rematch-goalkeeper-script.html)|`2026-11-05 06:30:00`|`Other Games`|
+|[Zeroed NPC Game Data On Some Servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779862-zeroed-npc-game-data-servers.html)|`2026-11-05 06:28:00`|`Alternative Online Mods`|
+|[Friends vs Friends Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/764995-friends-vs-friends-internal.html)|`2026-11-05 06:19:00`|`Other FPS Games`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-05 06:12:00`|`HELLDIVERS 2`|
+|[Demonologist Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/732561-demonologist-internal.html)|`2026-11-05 06:05:00`|`Other Games`|
+|[Ark ESP Terrible FPS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779723-ark-esp-terrible-fps.html)|`2026-11-05 05:57:00`|`Other FPS Games`|
 |[Deadlock Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/639185-deadlock-reversal-structs-offsets.html)|`2026-11-05 05:52:00`|`Deadlock`|
 |[IOCTL Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779870-ioctl-driver.html)|`2026-11-05 05:51:00`|`Alternative Online Mods`|
 |[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-05 05:42:00`|`Deadlock`|
