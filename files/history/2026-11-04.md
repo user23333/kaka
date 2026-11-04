@@ -15,6 +15,7 @@
 |15|[Ricochet DMA detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/778831-ricochet-dma-detections.html)|`2026-11-04 05:37:55`|`call-of-duty-black-ops-7-a`|
 |5|[Aniimo Post update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779157-aniimo-post-update.html)|`2026-11-04 07:59:22`|`other-mmorpg-and-strategy`|
 |5|[Maplestory Classic Godmode Showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779293-maplestory-classic-godmode-showcase.html)|`2026-11-04 10:37:41`|`maple-story`|
+|28|[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-04 17:38:12`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,9 +31,16 @@
 |4|[Open Skies v1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59148)|`2026-11-04 00:37:52`|
 |1|[Wardogs Hosting Tool, Bridge and Backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59174)|`2026-11-04 05:37:55`|
 |0|[Wardogs Private Server Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59173)|`2026-11-04 05:37:55`|
+|1|[AngryMiao&#45;HID&#45;Patch&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59161)|`2026-11-04 17:38:12`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-04 17:35:00`|`Maple Story`|
+|[umbra &#45; external esp/skeleton/aimbot/triggerbot &#43; optional kernal module mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/770676-umbra-external-esp-skeleton-aimbot-triggerbot-optional-kernal-module-mode.html)|`2026-11-04 17:27:00`|`THE FINALS`|
+|[Disconnected insecure message on second match join](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765860-disconnected-insecure-message-match-join.html)|`2026-11-04 17:21:00`|`Counter-Strike 2`|
+|[DMA for Modern Warfare 4 Beta on Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/768500-dma-modern-warfare-4-beta-steam.html)|`2026-11-04 17:09:00`|`Call of Duty: Black Ops 7`|
+|[Contractors VR — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778468-contractors-vr-internal-trainer.html)|`2026-11-04 17:01:00`|`Other FPS Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-04 16:57:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-04 16:26:00`|`Apex Legends`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-04 16:22:00`|`Marvel Rivals`|
 |[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-11-04 16:05:00`|`Counter-Strike 2`|
