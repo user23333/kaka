@@ -40,9 +40,19 @@
 |2|[animation table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59176)|`2026-11-04 18:38:23`|
 |1|[EscapeTheBackrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59175)|`2026-11-04 18:38:23`|
 |3|[OpenChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59167)|`2026-11-04 18:38:23`|
+|1|[TWD: Saints & Sinners &#45; Chapter 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59186)|`2026-11-04 19:38:21`|
+|17|[PUBG SDK 2611&#46;1&#46;1&#46;37](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59183)|`2026-11-04 19:38:21`|
+|5|[PUBG ESP 1&#46;1 &#91;DMA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59182)|`2026-11-04 19:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Age of Empires 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/589592-age-empires-4-reversal-structs-offsets.html)|`2026-11-04 19:36:00`|`Age of Empires`|
+|[Metro Trilogy Trainers — 2033 Redux / Last Light Redux / Exodus EE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755719-metro-trilogy-trainers-2033-redux-light-redux-exodus-ee.html)|`2026-11-04 19:34:00`|`Other Games`|
+|[Zero Caliber VR & Zero Caliber 2 Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777678-zero-caliber-vr-zero-caliber-2-trainers.html)|`2026-11-04 19:24:00`|`Other FPS Games`|
+|[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-04 19:20:00`|`Other MMORPG and Strategy`|
+|[Dead Frontier 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779807-dead-frontier-2-cheat.html)|`2026-11-04 19:20:00`|`Other Games`|
+|[Gears of War: E&#45;Day &#124; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775142-gears-war-day-reversal-structs-offsets.html)|`2026-11-04 19:09:00`|`Other Games`|
+|[Lua executer Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779766-lua-executer-bypass.html)|`2026-11-04 19:05:00`|`Alternative Online Mods`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-04 18:32:00`|`Wardogs`|
 |[The Walking Dead: Saints & Sinners &#45; Chapter 1 & Chapter 2: Retribution Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779805-walking-dead-saints-sinners-chapter-1-chapter-2-retribution-trainers.html)|`2026-11-04 18:32:00`|`Other Games`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-04 18:27:00`|`Overwatch`|
