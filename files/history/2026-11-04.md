@@ -53,9 +53,15 @@
 |2|[DayZInternal v2&#46;2&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59196)|`2026-11-04 21:38:21`|
 |1|[The Walking Dead: Saints & Sinners &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59195)|`2026-11-04 21:38:21`|
 |4|[NMRiH2 Overlay v&#46;2&#46;0&#46;1 &#43; Shortcut creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59193)|`2026-11-04 21:38:21`|
+|2|[Val DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59202)|`2026-11-04 22:38:15`|
+|5|[fuckyoublizzard&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59201)|`2026-11-04 22:38:15`|
+|2|[Aion2&#45;SDK&#45;11&#45;04&#45;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59200)|`2026-11-04 22:38:15`|
+|25|[Yuri&#45;Aniimo v1&#46;4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59198)|`2026-11-04 22:38:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Has Interception been blocked?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779826-interception-blocked.html)|`2026-11-04 22:31:00`|`Rainbow Six Siege`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-04 22:13:00`|`Anti-Cheat Research`|
 |[Ive been looking for Visual Features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779813-ive-looking-visual-features.html)|`2026-11-04 21:36:00`|`Rust`|
 |[Evitania Online &#45; Idle RPG internal cheat &#40;PC build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772436-evitania-online-idle-rpg-internal-cheat-pc-build.html)|`2026-11-04 21:31:00`|`Other Games`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-04 21:28:00`|`Wardogs`|
