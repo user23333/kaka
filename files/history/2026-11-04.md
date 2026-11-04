@@ -32,9 +32,20 @@
 |1|[Wardogs Hosting Tool, Bridge and Backend](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59174)|`2026-11-04 05:37:55`|
 |0|[Wardogs Private Server Project](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59173)|`2026-11-04 05:37:55`|
 |1|[AngryMiao&#45;HID&#45;Patch&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59161)|`2026-11-04 17:38:12`|
+|3|[Contractors VR &#45; &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59181)|`2026-11-04 18:38:23`|
+|2|[SkerRitual&#95;20261103&#95;234313](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59180)|`2026-11-04 18:38:23`|
+|2|[Watrr Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59179)|`2026-11-04 18:38:23`|
+|1|[REPX](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59178)|`2026-11-04 18:38:23`|
+|3|[Vampir Internal 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59177)|`2026-11-04 18:38:23`|
+|2|[animation table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59176)|`2026-11-04 18:38:23`|
+|1|[EscapeTheBackrooms](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59175)|`2026-11-04 18:38:23`|
+|3|[OpenChanger](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59167)|`2026-11-04 18:38:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-04 18:32:00`|`Wardogs`|
+|[The Walking Dead: Saints & Sinners &#45; Chapter 1 & Chapter 2: Retribution Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779805-walking-dead-saints-sinners-chapter-1-chapter-2-retribution-trainers.html)|`2026-11-04 18:32:00`|`Other Games`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-04 18:27:00`|`Overwatch`|
 |[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-04 17:35:00`|`Maple Story`|
 |[umbra &#45; external esp/skeleton/aimbot/triggerbot &#43; optional kernal module mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/770676-umbra-external-esp-skeleton-aimbot-triggerbot-optional-kernal-module-mode.html)|`2026-11-04 17:27:00`|`THE FINALS`|
 |[Disconnected insecure message on second match join](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/765860-disconnected-insecure-message-match-join.html)|`2026-11-04 17:21:00`|`Counter-Strike 2`|
