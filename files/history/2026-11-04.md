@@ -33,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS Playground &#45; no anti cheat, fully offline](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/778787-wardogs-playground-anti-cheat-offline.html)|`2026-11-04 15:30:00`|`Wardogs`|
+|[Subnautica 2 internal ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/752944-subnautica-2-internal-esp.html)|`2026-11-04 15:16:00`|`Other FPS Games`|
+|[A Little Some About Me&#33; :smashfreakB:](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779767-little-smashfreakb.html)|`2026-11-04 15:07:00`|`Introductions`|
 |[EasyAntiCheat&#91;Fortnite&#93; What I Changed to Get Unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779700-easyanticheat-fortnite-changed-unbanned.html)|`2026-11-04 14:05:00`|`Anti-Cheat Research`|
 |[CS 1&#46;6 — Build 4554 · Complete Runtime&#45;Verified Offset Reference](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/779626-cs-1-6-build-4554-complete-runtime-verified-offset-reference.html)|`2026-11-04 14:03:00`|`CounterStrike 1.5, 1.6 and Mods`|
 |[Wich components change to get unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779552-wich-components-change-unbanned.html)|`2026-11-04 13:38:00`|`Rust`|
