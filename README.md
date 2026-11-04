@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Foxhole Airborne Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737631-foxhole-airborne-internal.html)|`2026-11-05 01:37:00`|`Other MMORPG and Strategy`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-05 01:35:00`|`HELLDIVERS 2`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-05 01:33:00`|`Call of Duty: Black Ops 7`|
+|[Writable CiPolicy page on 26200 with VBS &#124; DSE bypass with VBS running &#45; possible?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779262-writable-cipolicy-page-26200-vbs-dse-bypass-vbs-running.html)|`2026-11-05 01:32:00`|`Anti-Cheat Research`|
+|[Which AI could help me develope cheats?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/776775-ai-help-develope-cheats.html)|`2026-11-05 01:26:00`|`Off Topic`|
+|[&#91;L4D2&#93;How to achieve perfect silent](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779714-l4d2-achieve-perfect-silent.html)|`2026-11-05 01:22:00`|`Other FPS Games`|
+|[Sea Of Gods &#45; Steam Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/614719-sea-gods-steam.html)|`2026-11-05 01:15:00`|`Sea of Thieves`|
 |[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-05 00:35:00`|`Overwatch`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-05 00:30:00`|`Rust`|
 |[Lua executer Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779766-lua-executer-bypass.html)|`2026-11-05 00:23:00`|`Alternative Online Mods`|
