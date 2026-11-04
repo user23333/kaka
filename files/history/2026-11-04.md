@@ -49,9 +49,16 @@
 |1|[Zero Caliber VR &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59190)|`2026-11-04 20:38:29`|
 |1|[df2hack 3/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59189)|`2026-11-04 20:38:29`|
 |3|[PUBG SDK 2611&#46;1&#46;1&#46;37](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59188)|`2026-11-04 20:38:29`|
+|2|[Evitania v0&#46;322&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59197)|`2026-11-04 21:38:21`|
+|2|[DayZInternal v2&#46;2&#46;4&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59196)|`2026-11-04 21:38:21`|
+|1|[The Walking Dead: Saints & Sinners &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59195)|`2026-11-04 21:38:21`|
+|4|[NMRiH2 Overlay v&#46;2&#46;0&#46;1 &#43; Shortcut creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59193)|`2026-11-04 21:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ive been looking for Visual Features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779813-ive-looking-visual-features.html)|`2026-11-04 21:36:00`|`Rust`|
+|[Evitania Online &#45; Idle RPG internal cheat &#40;PC build&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/772436-evitania-online-idle-rpg-internal-cheat-pc-build.html)|`2026-11-04 21:31:00`|`Other Games`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-04 21:28:00`|`Wardogs`|
 |[Imgui or Custom Render](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779234-imgui-custom-render.html)|`2026-11-04 20:37:00`|`Rust`|
 |[Destiny 2 cheat menu?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779437-destiny-2-cheat-menu.html)|`2026-11-04 20:36:00`|`Other FPS Games`|
 |[Lineage Classic Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/737415-lineage-classic-reversal-structs-offsets.html)|`2026-11-04 20:27:00`|`Other MMORPG and Strategy`|
