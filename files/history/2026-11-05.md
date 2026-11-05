@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Autopsy of a dead anti&#45;cheat: 15 modules rebuilt bit&#45;for&#45;bit in C&#43;&#43;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779915-autopsy-dead-anti-cheat-15-modules-rebuilt-bit-bit-20-a.html)|`2026-11-05 10:20:00`|`Anti-Cheat Research`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-11-05 10:11:00`|`Other MMORPG and Strategy`|
+|[AOE4 new offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/779175-aoe4-offset.html)|`2026-11-05 10:09:00`|`Age of Empires`|
+|[Hardware controller emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/779913-hardware-controller-emulator.html)|`2026-11-05 10:06:00`|`Overwatch`|
+|[NOCRT REIMPLEMENTATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/779911-nocrt-reimplementation.html)|`2026-11-05 10:01:00`|`C and C++`|
+|[High&#45;Performance FindPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/779912-performance-findpattern.html)|`2026-11-05 10:01:00`|`C and C++`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-05 09:58:00`|`Wardogs`|
 |[Member of the Month &#45; November 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/779909-month-november-2026-a.html)|`2026-11-05 09:34:00`|`Member of the Month`|
 |[Brawlhalla Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779908-brawlhalla-brawlsense.html)|`2026-11-05 09:30:00`|`Other Games`|
 |[The Walking Dead: Saints & Sinners &#45; Chapter 1 & Chapter 2: Retribution Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779805-walking-dead-saints-sinners-chapter-1-chapter-2-retribution-trainers.html)|`2026-11-05 08:51:00`|`Other Games`|
