@@ -30,6 +30,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-11-05 13:07:00`|`Escape from Tarkov`|
+|[steam overlay hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779905-steam-overlay-hook.html)|`2026-11-05 13:00:00`|`Alternative Online Mods`|
 |[UAV DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774221-uav-dma.html)|`2026-11-05 12:37:00`|`Call of Duty: Black Ops 7`|
 |[8 Ball Pool v6&#46;29&#46;2 andorid dump&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/775513-8-ball-pool-v6-29-2-andorid-dump.html)|`2026-11-05 12:27:00`|`Other Games`|
 |[Pattern Studio &#45; Recoil Scripting Software](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/web-and-scripting/779846-pattern-studio-recoil-scripting-software.html)|`2026-11-05 12:22:00`|`Web and Scripting`|
