@@ -28,9 +28,16 @@
 |7|[NMRiH2 Overlay v&#46;2&#46;0&#46;1 &#43; Shortcut creator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59193)|`2026-11-05 00:38:34`|
 |1|[Metro Awakening &#40;VR&#41; &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59192)|`2026-11-05 00:38:34`|
 |1|[Wardogs Private Server &#40;Docker&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59206)|`2026-11-05 04:38:22`|
+|1|[theHunter COTW &#45; Organ Skin Weights and Balli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59227)|`2026-11-05 20:38:27`|
+|1|[nocrt&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59224)|`2026-11-05 20:38:27`|
+|1|[Fnaf Reserve gen pointer CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59223)|`2026-11-05 20:38:27`|
+|1|[Fortnite 3&#46;6 SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59212)|`2026-11-05 20:38:27`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-11-05 20:34:00`|`Other FPS Games`|
+|[Is there a way to bypass anti&#45;cheats vm detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779962-bypass-anti-cheats-vm-detection.html)|`2026-11-05 20:32:00`|`Anti-Cheat Research`|
+|[reverse engineeringAION 2 &#124; Extracted Aion&#46;onl bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779745-reverse-engineeringaion-2-extracted-aion-onl-bot.html)|`2026-11-05 20:13:00`|`Other MMORPG and Strategy`|
 |[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-11-05 19:25:00`|`Deadlock`|
 |[Looking for light undetected viewmodel/fov changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779876-looking-light-undetected-viewmodel-fov-changer.html)|`2026-11-05 19:24:00`|`Counter-Strike 2`|
 |[BO3 Zombies Trainer &#45; Great for custom maps&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-3-a/754293-bo3-zombies-trainer-custom-maps.html)|`2026-11-05 19:16:00`|`Call of Duty: Black Ops 3`|
