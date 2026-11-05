@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chaotic AI Slope external silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779296-chaotic-ai-slope-external-silent-aim.html)|`2026-11-05 22:25:00`|`Alternative Online Mods`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-05 22:22:00`|`Wardogs`|
+|[god mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779658-god-mode.html)|`2026-11-05 22:17:00`|`Alternative Online Mods`|
 |[Aion 2 gathering bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776148-aion-2-gathering-bot.html)|`2026-11-05 21:38:00`|`Other MMORPG and Strategy`|
 |[jordan123pal External's Mod Framework Extension &#124; Streamproof Mod &#124; Offset Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779964-jordan123pal-externals-mod-framework-extension-streamproof-mod-offset-updater.html)|`2026-11-05 21:32:00`|`Deadlock`|
 |[PlayerTracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779965-playertracker.html)|`2026-11-05 21:28:00`|`Rust`|
