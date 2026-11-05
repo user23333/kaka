@@ -35,6 +35,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aion 2 gathering bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776148-aion-2-gathering-bot.html)|`2026-11-05 21:38:00`|`Other MMORPG and Strategy`|
+|[jordan123pal External's Mod Framework Extension &#124; Streamproof Mod &#124; Offset Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779964-jordan123pal-externals-mod-framework-extension-streamproof-mod-offset-updater.html)|`2026-11-05 21:32:00`|`Deadlock`|
+|[PlayerTracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779965-playertracker.html)|`2026-11-05 21:28:00`|`Rust`|
+|[I need 3rd person source for an external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779687-3rd-person-source-external.html)|`2026-11-05 21:19:00`|`Counter-Strike 2`|
 |[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-11-05 20:34:00`|`Other FPS Games`|
 |[Is there a way to bypass anti&#45;cheats vm detection?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779962-bypass-anti-cheats-vm-detection.html)|`2026-11-05 20:32:00`|`Anti-Cheat Research`|
 |[reverse engineeringAION 2 &#124; Extracted Aion&#46;onl bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779745-reverse-engineeringaion-2-extracted-aion-onl-bot.html)|`2026-11-05 20:13:00`|`Other MMORPG and Strategy`|
