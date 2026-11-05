@@ -31,6 +31,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-11-05 16:31:00`|`Apex Legends`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-05 16:04:00`|`Other Games`|
 |[TCSM Internal &#124; ESP &#43; GLOW &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777262-tcsm-internal-esp-glow-aimbot.html)|`2026-11-05 15:36:00`|`Other Games`|
 |[helldivers 2 friendcode method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779941-helldivers-2-friendcode-method.html)|`2026-11-05 15:33:00`|`Other MMORPG and Strategy`|
 |[The Texas Chain Saw Massacre &#40;TCM&#41; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779940-texas-chain-massacre-tcm-cheat.html)|`2026-11-05 15:31:00`|`Other Games`|
