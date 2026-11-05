@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Member of the Month &#45; November 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/779909-month-november-2026-a.html)|`2026-11-05 09:34:00`|`Member of the Month`|
+|[Brawlhalla Brawlsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779908-brawlhalla-brawlsense.html)|`2026-11-05 09:30:00`|`Other Games`|
+|[The Walking Dead: Saints & Sinners &#45; Chapter 1 & Chapter 2: Retribution Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779805-walking-dead-saints-sinners-chapter-1-chapter-2-retribution-trainers.html)|`2026-11-05 08:51:00`|`Other Games`|
+|[StarCraft 2 Observer Panel asm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772865-starcraft-2-observer-panel-asm.html)|`2026-11-05 08:48:00`|`Other MMORPG and Strategy`|
+|[FULL dump of combat master&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-master/773622-dump-combat-master.html)|`2026-11-05 08:45:00`|`Combat Master`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-05 08:40:00`|`Other Games`|
 |[GMod x64 Lua trainer: Anti&#45;Aim cmd angles leak into rendered camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/779607-gmod-x64-lua-trainer-anti-aim-cmd-angles-leak-rendered-camera.html)|`2026-11-05 08:34:00`|`Garry's Mod`|
 |[Loftia releasing soon&#33; Demo out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777727-loftia-releasing-soon-demo.html)|`2026-11-05 08:26:00`|`Forum General`|
 |[Brawlhalla HWID Ban Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779349-brawlhalla-hwid-ban-changes.html)|`2026-11-05 08:26:00`|`Anti-Cheat Research`|
