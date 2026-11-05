@@ -25,9 +25,18 @@
 |51|[Aion2&#45;SDK&#45;11&#45;04&#45;2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59200)|`2026-11-06 00:38:24`|
 |506|[Yuri&#45;Aniimo v1&#46;4&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59198)|`2026-11-06 00:38:24`|
 |19|[Evitania v0&#46;322&#46;0&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59197)|`2026-11-06 00:38:24`|
+|2|[Nvidia Overlay Exploit Libary v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59242)|`2026-11-06 06:38:41`|
+|1|[PhantomBladeZero](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59210)|`2026-11-06 06:38:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-11-06 06:37:00`|`Marvel Rivals`|
+|[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-11-06 06:36:00`|`Other MMORPG and Strategy`|
+|[Injection question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779958-injection-question.html)|`2026-11-06 06:34:00`|`Alternative Online Mods`|
+|[Rust no eac server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773442-rust-eac-server.html)|`2026-11-06 06:27:00`|`Rust`|
+|[GMOD &#40;LINUX&#41; &#45; Esd&#46;Gmod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/765880-gmod-linux-esd-gmod.html)|`2026-11-06 06:23:00`|`Garry's Mod`|
+|[ezTurtle &#124; Cheats for TurtleWoW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/578519-ezturtle-cheats-turtlewow.html)|`2026-11-06 06:23:00`|`World of Warcraft`|
+|[Rematch cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777094-rematch-cheats.html)|`2026-11-06 06:22:00`|`Other Games`|
 |[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-11-06 05:33:00`|`Call of Duty: Black Ops 2`|
 |[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-11-06 05:33:00`|`HELLDIVERS 2`|
 |[PlayerTracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779965-playertracker.html)|`2026-11-06 05:26:00`|`Rust`|
