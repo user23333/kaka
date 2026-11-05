@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking for the infinite ammo feature in The Division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779339-looking-infinite-ammo-feature-division-2-a.html)|`2026-11-05 17:36:00`|`Tom Clancy's The Division`|
+|[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-11-05 17:33:00`|`Rust`|
+|[Ive been looking for Visual Features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779813-ive-looking-visual-features.html)|`2026-11-05 17:29:00`|`Rust`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-11-05 17:07:00`|`Alternative Online Mods`|
+|[Winter, Christmas & New Year's Banner Contest 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-graphics/779602-winter-christmas-banner-contest-2026-a.html)|`2026-11-05 16:49:00`|`General Graphics`|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-05 16:43:00`|`Anti-Cheat Research`|
 |[Master, I need help&#46; I want a piece of code to iterate over player coordinates&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779193-master-help-piece-code-iterate-player-coordinates.html)|`2026-11-05 16:31:00`|`Apex Legends`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-05 16:04:00`|`Other Games`|
 |[TCSM Internal &#124; ESP &#43; GLOW &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777262-tcsm-internal-esp-glow-aimbot.html)|`2026-11-05 15:36:00`|`Other Games`|
