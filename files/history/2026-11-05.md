@@ -31,6 +31,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[PEAK Internal Trainer &#43; ESP &#40;GUI, Cheats, Item Spawner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779956-peak-internal-trainer-esp-gui-cheats-item-spawner.html)|`2026-11-05 18:37:00`|`Other Games`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-05 18:33:00`|`Marvel Rivals`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-11-05 18:24:00`|`Grand Theft Auto V`|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-05 18:20:00`|`Wardogs`|
+|[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-11-05 18:04:00`|`Other Games`|
 |[Looking for the infinite ammo feature in The Division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779339-looking-infinite-ammo-feature-division-2-a.html)|`2026-11-05 17:36:00`|`Tom Clancy's The Division`|
 |[Rust ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/778631-rust-esp.html)|`2026-11-05 17:33:00`|`Rust`|
 |[Ive been looking for Visual Features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779813-ive-looking-visual-features.html)|`2026-11-05 17:29:00`|`Rust`|
