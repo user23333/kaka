@@ -28,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-11-06 04:35:00`|`Counter-Strike 2`|
+|[are abcheats and cheatvault a scam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/780024-abcheats-cheatvault-scam.html)|`2026-11-06 04:27:00`|`Off Topic`|
+|[dma key input windows&#45;11 26h2 26300&#46;9818](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/780023-dma-key-input-windows-11-26h2-26300-9818-a.html)|`2026-11-06 04:23:00`|`General Programming and Reversing`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-11-06 04:22:00`|`Genshin Impact`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-06 04:18:00`|`Anti-Cheat Research`|
+|[Member of the Month &#45; November 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/779909-month-november-2026-a.html)|`2026-11-06 04:08:00`|`Member of the Month`|
+|[Rainbow Six Siege — Free Vertical Recoil Control &#124; AGN v1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779575-rainbow-six-siege-free-vertical-recoil-control-agn-v1-3-1-a.html)|`2026-11-06 04:07:00`|`Rainbow Six Siege`|
 |[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-06 03:38:00`|`Deadlock`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-06 03:37:00`|`Rust`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-06 03:23:00`|`Other FPS Games`|
