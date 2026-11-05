@@ -30,6 +30,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[GMod x64 Lua trainer: Anti&#45;Aim cmd angles leak into rendered camera](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/779607-gmod-x64-lua-trainer-anti-aim-cmd-angles-leak-rendered-camera.html)|`2026-11-05 08:34:00`|`Garry's Mod`|
+|[Loftia releasing soon&#33; Demo out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777727-loftia-releasing-soon-demo.html)|`2026-11-05 08:26:00`|`Forum General`|
+|[Brawlhalla HWID Ban Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779349-brawlhalla-hwid-ban-changes.html)|`2026-11-05 08:26:00`|`Anti-Cheat Research`|
+|[CS 1&#46;6 — Build 4554 · Complete Runtime&#45;Verified Offset Reference](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/779626-cs-1-6-build-4554-complete-runtime-verified-offset-reference.html)|`2026-11-05 08:11:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-05 08:07:00`|`Other MMORPG and Strategy`|
+|[Contractors VR — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778468-contractors-vr-internal-trainer.html)|`2026-11-05 08:05:00`|`Other FPS Games`|
 |[Need Help Understanding HDMI Detection and Screen Capture with LockDown Browser](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779223-help-understanding-hdmi-detection-screen-capture-lockdown-browser.html)|`2026-11-05 07:35:00`|`Anti-Cheat Research`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-05 07:32:00`|`Counter-Strike 2 Releases`|
 |[updated yim menu for legacy &#40;16/7/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/762621-updated-yim-menu-legacy-16-7-2026-a.html)|`2026-11-05 07:20:00`|`Grand Theft Auto V`|
