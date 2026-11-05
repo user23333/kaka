@@ -31,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TCSM Internal &#124; ESP &#43; GLOW &#43; Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777262-tcsm-internal-esp-glow-aimbot.html)|`2026-11-05 15:36:00`|`Other Games`|
+|[helldivers 2 friendcode method?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779941-helldivers-2-friendcode-method.html)|`2026-11-05 15:33:00`|`Other MMORPG and Strategy`|
+|[The Texas Chain Saw Massacre &#40;TCM&#41; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779940-texas-chain-massacre-tcm-cheat.html)|`2026-11-05 15:31:00`|`Other Games`|
+|[Rust Ban Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779939-rust-ban-question.html)|`2026-11-05 15:20:00`|`Rust`|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-11-05 14:51:00`|`Other MMORPG and Strategy`|
+|[Gigabyte TPM spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768191-gigabyte-tpm-spoof.html)|`2026-11-05 14:48:00`|`Anti-Cheat Research`|
+|[YunYun – Yunyun Syndrome&#33;? Rhythm Psychosis External &#91;Version 1&#46;3&#46;1&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779936-yunyun-yunyun-syndrome-rhythm-psychosis-external-version-1-3-1-a.html)|`2026-11-05 14:47:00`|`Other Games`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-05 14:37:00`|`Other FPS Games`|
 |[30th October Updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/779935-30th-october-updated-offsets.html)|`2026-11-05 14:36:00`|`Team Fortress 2`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-05 14:32:00`|`Payday 3`|
