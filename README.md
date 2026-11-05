@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;PS4/PS5&#93; Bo2 AIO RTE Tool &#45; Multiplayer, Zombies, LAN and GSC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/774823-ps4-ps5-bo2-aio-rte-tool-multiplayer-zombies-lan-gsc.html)|`2026-11-06 05:33:00`|`Call of Duty: Black Ops 2`|
+|[Hellforge now requires account syncing with Helldivers 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/778725-hellforge-requires-account-syncing-helldivers-2-a.html)|`2026-11-06 05:33:00`|`HELLDIVERS 2`|
+|[PlayerTracker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779965-playertracker.html)|`2026-11-06 05:26:00`|`Rust`|
+|[Car Parking Multiplayer 2 &#40;Steam Version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/776980-car-parking-multiplayer-2-steam-version.html)|`2026-11-06 05:25:00`|`Other Games`|
+|[Maplestory Classic Godmode Showcase](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779293-maplestory-classic-godmode-showcase.html)|`2026-11-06 05:16:00`|`Maple Story`|
 |[Gamesense reworked Imgui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/761573-gamesense-reworked-imgui.html)|`2026-11-06 04:35:00`|`Counter-Strike 2`|
 |[are abcheats and cheatvault a scam?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/780024-abcheats-cheatvault-scam.html)|`2026-11-06 04:27:00`|`Off Topic`|
 |[dma key input windows&#45;11 26h2 26300&#46;9818](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/780023-dma-key-input-windows-11-26h2-26300-9818-a.html)|`2026-11-06 04:23:00`|`General Programming and Reversing`|
