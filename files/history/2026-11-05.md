@@ -13,6 +13,7 @@
 |5|[Aniimo Post update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779157-aniimo-post-update.html)|`2026-11-05 00:38:34`|`other-mmorpg-and-strategy`|
 |9|[How did this P2C get this kill effect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779320-p2c-kill-effect.html)|`2026-11-05 05:53:48`|`counter-strike-2-a`|
 |5|[EasyAntiCheat&#91;Fortnite&#93; What I Changed to Get Unbanned](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779700-easyanticheat-fortnite-changed-unbanned.html)|`2026-11-05 06:38:12`|`anti-cheat-research`|
+|22|[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-05 14:38:20`|`wardogs`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-05 14:37:00`|`Other FPS Games`|
+|[30th October Updated Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/779935-30th-october-updated-offsets.html)|`2026-11-05 14:36:00`|`Team Fortress 2`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-05 14:32:00`|`Payday 3`|
+|[How to start searching for a function to create сhams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779934-start-searching-function-create-hams.html)|`2026-11-05 14:26:00`|`Counter-Strike 2`|
+|[BloodStrike global version internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779932-bloodstrike-global-version-internal.html)|`2026-11-05 14:18:00`|`Other FPS Games`|
+|[theHunter COTW &#45; Organ positions via skin weights & zero&#45;table ballistics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779933-thehunter-cotw-organ-positions-via-skin-weights-zero-table-ballistics.html)|`2026-11-05 14:16:00`|`Other FPS Games`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-05 14:08:00`|`Counter-Strike 2`|
 |[PvE Loader &#43; Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/741980-pve-loader-cheat-table.html)|`2026-11-05 13:07:00`|`Escape from Tarkov`|
 |[steam overlay hook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779905-steam-overlay-hook.html)|`2026-11-05 13:00:00`|`Alternative Online Mods`|
 |[UAV DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774221-uav-dma.html)|`2026-11-05 12:37:00`|`Call of Duty: Black Ops 7`|
