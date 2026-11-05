@@ -28,6 +28,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-06 03:38:00`|`Deadlock`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-06 03:37:00`|`Rust`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-06 03:23:00`|`Other FPS Games`|
+|[CyberPunk2077 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/777566-cyberpunk2077-trainer.html)|`2026-11-06 03:19:00`|`Other Single Player Games`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-06 03:16:00`|`Marvel Rivals`|
 |[Makcu Controller Firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778957-makcu-controller-firmware.html)|`2026-11-06 02:41:00`|`Halo`|
 |[Lua executer Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/779766-lua-executer-bypass.html)|`2026-11-06 02:34:00`|`Alternative Online Mods`|
 |[BloodStrike Anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/729739-bloodstrike-anti-cheat.html)|`2026-11-06 02:33:00`|`Other FPS Games`|
