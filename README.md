@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-05 11:25:00`|`Counter-Strike 2`|
+|[Bytecode Inspector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/779916-bytecode-inspector.html)|`2026-11-05 11:20:00`|`Garry's Mod`|
+|[does anyoen have the new r6 sigs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779773-anyoen-r6-sigs.html)|`2026-11-05 11:02:00`|`Rainbow Six Siege`|
+|[Dead Frontier 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779807-dead-frontier-2-cheat.html)|`2026-11-05 10:46:00`|`Other Games`|
 |[Autopsy of a dead anti&#45;cheat: 15 modules rebuilt bit&#45;for&#45;bit in C&#43;&#43;20](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779915-autopsy-dead-anti-cheat-15-modules-rebuilt-bit-bit-20-a.html)|`2026-11-05 10:20:00`|`Anti-Cheat Research`|
 |[Aniimo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776685-aniimo.html)|`2026-11-05 10:11:00`|`Other MMORPG and Strategy`|
 |[AOE4 new offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/779175-aoe4-offset.html)|`2026-11-05 10:09:00`|`Age of Empires`|
