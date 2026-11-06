@@ -39,9 +39,22 @@
 |1|[Deadlock External Mod Framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59232)|`2026-11-06 15:38:10`|
 |1|[PEAK Internal Trainer & ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59231)|`2026-11-06 15:38:10`|
 |3|[Dayz&#95;Dma v5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59230)|`2026-11-06 15:38:10`|
+|1|[OVERKILL's The Walking Dead &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59252)|`2026-11-06 15:55:34`|
+|2|[Smite 2 Loader/Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59251)|`2026-11-06 15:55:34`|
+|2|[Deadlock Offset Updater &#40;Standalone&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59250)|`2026-11-06 15:55:34`|
+|4|[AGN PUBLIC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59249)|`2026-11-06 15:55:34`|
+|1|[Schedule I &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59248)|`2026-11-06 15:55:34`|
+|1|[Species Unknown &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59247)|`2026-11-06 15:55:34`|
+|1|[Ghost Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59246)|`2026-11-06 15:55:34`|
+|1|[RustDataExporter plugin v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59245)|`2026-11-06 15:55:34`|
+|5|[A2&#45;295&#45;H13&#45;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59241)|`2026-11-06 15:55:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-11-06 15:46:00`|`Other FPS Games`|
+|[Schedule I &#40;Steam&#41; — Internal Trainer / ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780069-schedule-steam-internal-trainer-esp.html)|`2026-11-06 15:44:00`|`Other Games`|
+|[Species Unknown &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780067-species-unknown-steam-internal-trainer.html)|`2026-11-06 15:44:00`|`Other Games`|
+|[Server side info dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/764982-server-info-dumper.html)|`2026-11-06 15:43:00`|`Rust`|
 |[L4D2 Isreali hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779927-l4d2-isreali-hack.html)|`2026-11-06 15:30:00`|`Other FPS Games`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-06 15:17:00`|`Other Games`|
 |[REPX &#45; R&#46;E&#46;P&#46;O&#46; Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/697781-repx-cheat.html)|`2026-11-06 15:16:00`|`Other MMORPG and Strategy`|
