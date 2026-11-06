@@ -30,6 +30,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Upgrade PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777102-upgrade-pc.html)|`2026-11-06 08:10:00`|`Forum General`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-06 08:08:00`|`Overwatch`|
+|[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-06 07:59:00`|`Other MMORPG and Strategy`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-06 07:53:00`|`Other MMORPG and Strategy`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-06 07:48:00`|`Overwatch`|
+|[XC3Killer &#45; Patch Xigncode3 Kernel Callbacks](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/755446-xc3killer-patch-xigncode3-kernel-callbacks.html)|`2026-11-06 07:48:00`|`Anti-Cheat Research`|
+|[&#40;request&#41; Ghost Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778520-request-ghost-hunter.html)|`2026-11-06 07:44:00`|`Other Games`|
+|[AIMBOT &#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/780051-aimbot.html)|`2026-11-06 07:43:00`|`Gunbound`|
 |[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-11-06 07:36:00`|`Rainbow Six Siege`|
 |[EAC FN / Temp spoofer development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780050-eac-fn-temp-spoofer-development.html)|`2026-11-06 07:29:00`|`Anti-Cheat Research`|
 |[How dectected is arduino in MW4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779966-dectected-arduino-mw4.html)|`2026-11-06 07:26:00`|`Call of Duty: Black Ops 7`|
