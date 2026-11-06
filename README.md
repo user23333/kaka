@@ -30,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[jordan123pal External's Mod Framework Extension &#124; Streamproof Mod &#124; Offset Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779964-jordan123pal-externals-mod-framework-extension-streamproof-mod-offset-updater.html)|`2026-11-06 09:24:00`|`Deadlock`|
+|[Battlefield 6 Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/721036-battlefield-6-offsets.html)|`2026-11-06 09:13:00`|`Battlefield 6`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-11-06 09:13:00`|`Other FPS Games`|
+|[Outlast Trials &#40; CODING & DISCUSSION &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/763085-outlast-trials-coding-discussion.html)|`2026-11-06 09:05:00`|`Other FPS Games`|
+|[Recoil Scripts Talk&#33; Byovd](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/780057-recoil-scripts-talk-byovd.html)|`2026-11-06 08:59:00`|`Programming for Beginners`|
 |[Upgrade PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777102-upgrade-pc.html)|`2026-11-06 08:10:00`|`Forum General`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-06 08:08:00`|`Overwatch`|
 |[Vampir Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779672-vampir-internal.html)|`2026-11-06 07:59:00`|`Other MMORPG and Strategy`|
