@@ -52,9 +52,15 @@
 |1|[entities&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59255)|`2026-11-06 16:38:18`|
 |4|[dl&#95;external&#95;v6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59254)|`2026-11-06 16:38:18`|
 |2|[Makcu AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59253)|`2026-11-06 16:38:18`|
+|2|[MarvelRivals&#95;SDK&#95;4008108&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59257)|`2026-11-06 17:39:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[High&#45;Performance FindPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/779912-performance-findpattern.html)|`2026-11-06 17:36:00`|`C and C++`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-06 17:31:00`|`Other Games`|
+|[Ive been looking for Visual Features&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779813-ive-looking-visual-features.html)|`2026-11-06 17:25:00`|`Rust`|
+|[Splitgate Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/splitgate/598954-splitgate-internal-cheat.html)|`2026-11-06 17:25:00`|`Splitgate`|
+|[&#91;FiveM&#93; How can I bypass anti&#45;cheat measures?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778704-fivem-bypass-anti-cheat-measures.html)|`2026-11-06 17:16:00`|`Alternative Online Mods`|
 |[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2026-11-06 16:32:00`|`Combat Arms`|
 |[prefabs&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769712-prefabs-json-format.html)|`2026-11-06 16:28:00`|`Rust`|
 |[entities&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760899-entities-json-format.html)|`2026-11-06 16:27:00`|`Rust`|
