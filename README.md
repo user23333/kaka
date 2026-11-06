@@ -12,6 +12,7 @@
 |25|[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-06 00:38:24`|`wardogs`|
 |18|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-06 00:38:24`|`counter-strike-2-a`|
 |4|[Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run.html)|`2026-11-06 02:38:28`|`other-fps-games`|
+|7|[anti cheat getting good now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779740-anti-cheat-getting.html)|`2026-11-06 11:38:24`|`rainbow-six-siege`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[stacked rust ext src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768225-stacked-rust-ext-src.html)|`2026-11-06 11:37:00`|`Rust`|
+|[Finding the internal Pickup Item function/CALL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/777889-finding-internal-pickup-item-function-call.html)|`2026-11-06 11:23:00`|`Escape from Tarkov`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-06 11:19:00`|`Apex Legends`|
+|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-11-06 11:14:00`|`Other FPS Games`|
+|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-06 10:55:00`|`HELLDIVERS 2`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-06 10:43:00`|`Counter-Strike 2`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-06 10:37:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-06 10:36:00`|`Call of Duty: Black Ops 7`|
 |[Brawlhalla HWID Ban Changes](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779349-brawlhalla-hwid-ban-changes.html)|`2026-11-06 10:21:00`|`Anti-Cheat Research`|
