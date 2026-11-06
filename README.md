@@ -31,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[OVERKILL's The Walking Dead &#40;Steam&#41; — Internal Trainer / ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780083-overkills-walking-dead-steam-internal-trainer-esp.html)|`2026-11-06 13:37:00`|`Other Games`|
+|[apex legends windows cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/779790-apex-legends-windows-cheat.html)|`2026-11-06 13:35:00`|`Apex Legends`|
+|[Fortnite/CS2 Emote Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774220-fortnite-cs2-emote-source.html)|`2026-11-06 13:29:00`|`Counter-Strike 2`|
+|[Rust internal question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/774530-rust-internal-question.html)|`2026-11-06 13:28:00`|`Rust`|
+|[Gigabyte TPM spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768191-gigabyte-tpm-spoof.html)|`2026-11-06 13:21:00`|`Anti-Cheat Research`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-06 13:17:00`|`Counter-Strike 2 Releases`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-06 12:31:00`|`Wardogs`|
 |[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-11-06 12:14:00`|`Call of Duty: Black Ops 7`|
 |[Detection in Virtualization](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/762004-detection-virtualization.html)|`2026-11-06 12:00:00`|`Anti-Cheat Research`|
