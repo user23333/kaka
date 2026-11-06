@@ -48,9 +48,16 @@
 |1|[Ghost Hunters](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59246)|`2026-11-06 15:55:34`|
 |1|[RustDataExporter plugin v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59245)|`2026-11-06 15:55:34`|
 |5|[A2&#45;295&#45;H13&#45;UC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59241)|`2026-11-06 15:55:34`|
+|1|[prefabs&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59256)|`2026-11-06 16:38:18`|
+|1|[entities&#46;json](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59255)|`2026-11-06 16:38:18`|
+|4|[dl&#95;external&#95;v6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59254)|`2026-11-06 16:38:18`|
+|2|[Makcu AimColor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59253)|`2026-11-06 16:38:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Combat Arms: Classic Addresses](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/combat-arms/481026-combat-arms-classic-addresses.html)|`2026-11-06 16:32:00`|`Combat Arms`|
+|[prefabs&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/769712-prefabs-json-format.html)|`2026-11-06 16:28:00`|`Rust`|
+|[entities&#46;json with better format](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/760899-entities-json-format.html)|`2026-11-06 16:27:00`|`Rust`|
 |[Smite 2 Internal Remastered](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756839-smite-2-internal-remastered.html)|`2026-11-06 15:46:00`|`Other FPS Games`|
 |[Schedule I &#40;Steam&#41; — Internal Trainer / ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780069-schedule-steam-internal-trainer-esp.html)|`2026-11-06 15:44:00`|`Other Games`|
 |[Species Unknown &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780067-species-unknown-steam-internal-trainer.html)|`2026-11-06 15:44:00`|`Other Games`|
