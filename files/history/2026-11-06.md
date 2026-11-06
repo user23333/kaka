@@ -56,6 +56,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders External ESP & Aim Assist — Final Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/776408-arc-raiders-external-esp-aim-assist-final-source-release.html)|`2026-11-06 20:23:00`|`ARC Raiders`|
+|[Need For Speed World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630560-speed-world-hack.html)|`2026-11-06 20:16:00`|`Other MMORPG and Strategy`|
+|[Overwatch Multi&#45;Account Loader](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/778190-overwatch-multi-account-loader.html)|`2026-11-06 19:58:00`|`Overwatch`|
+|[so there are no mw2 dmz free cheats about](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-ii/780146-mw2-dmz-free-cheats.html)|`2026-11-06 19:47:00`|`Call of Duty: Modern Warfare II`|
 |[theHunter COTW &#45; Organ positions via skin weights & zero&#45;table ballistics](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779933-thehunter-cotw-organ-positions-via-skin-weights-zero-table-ballistics.html)|`2026-11-06 19:30:00`|`Other FPS Games`|
 |[Milo On Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779313-milo-steam.html)|`2026-11-06 19:21:00`|`Other FPS Games`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-06 18:32:00`|`Tom Clancy's The Division`|
