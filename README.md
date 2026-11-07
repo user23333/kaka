@@ -11,6 +11,8 @@
 |18|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-08 00:38:11`|`counter-strike-2-a`|
 |16|[Rainbow Six Siege — Free Vertical Recoil Control &#124; AGN v1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779575-rainbow-six-siege-free-vertical-recoil-control-agn-v1-3-1-a.html)|`2026-11-08 00:38:11`|`rainbow-six-siege`|
 |6|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-08 00:38:11`|`helldivers-2-a`|
+|49|[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run-reversal-structs-offsets.html)|`2026-11-08 06:37:53`|`other-fps-games`|
+|22|[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-08 06:37:53`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +37,16 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Poolians 8ball predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763245-poolians-8ball-predictor.html)|`2026-11-08 06:37:00`|`Other Games`|
+|[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-11-08 06:37:00`|`Other MMORPG and Strategy`|
+|[Bloodstrike offset dumper &#45; updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780335-bloodstrike-offset-dumper-updated.html)|`2026-11-08 06:36:00`|`Other FPS Games`|
+|[BloodStrike global version internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779932-bloodstrike-global-version-internal.html)|`2026-11-08 06:34:00`|`Other FPS Games`|
+|[External Lua executor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/780331-external-lua-executor.html)|`2026-11-08 06:29:00`|`Alternative Online Mods`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-08 06:23:00`|`Counter-Strike 2`|
+|[&#91;Tutorial&#93; Using AI as a Tool for Cheat Development &#45; From Offsets to Kernel R/W](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/736494-tutorial-using-ai-tool-cheat-development-offsets-kernel.html)|`2026-11-08 06:21:00`|`Forum General`|
+|[ETERSPIRE Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780272-eterspire-toolkit.html)|`2026-11-08 06:18:00`|`Other MMORPG and Strategy`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-08 06:18:00`|`Other MMORPG and Strategy`|
+|[Donut Smp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/778312-donut-smp.html)|`2026-11-08 06:16:00`|`Minecraft`|
 |[AIMBOT &#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/780051-aimbot.html)|`2026-11-08 05:37:00`|`Gunbound`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-08 05:33:00`|`Other MMORPG and Strategy`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-08 05:31:00`|`Other FPS Games`|
