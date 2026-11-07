@@ -34,9 +34,20 @@
 |1|[PEAK External Overlay and Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59286)|`2026-11-08 02:37:55`|
 |2|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59284)|`2026-11-08 02:37:55`|
 |1|[SurvivalClient 26&#46;63](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59281)|`2026-11-08 02:37:55`|
+|10|[bloodstrike&#45;dumper&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59294)|`2026-11-08 07:37:47`|
+|3|[Espired](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59293)|`2026-11-08 07:37:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Eyy&#33; &#91;removed&#93; ubisoft😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779852-eyy-removed-ubisoft.html)|`2026-11-08 07:36:00`|`Rainbow Six Siege`|
+|[bedrock 26&#46;63](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/780244-bedrock-26-63-a.html)|`2026-11-08 07:36:00`|`Minecraft`|
+|[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-11-08 07:28:00`|`Deadlock`|
+|[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run-reversal-structs-offsets.html)|`2026-11-08 07:20:00`|`Other FPS Games`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-08 07:19:00`|`Other Games`|
+|[Arena Breakout DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/776318-arena-breakout-dma.html)|`2026-11-08 07:16:00`|`Other FPS Games`|
+|[chams not working](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780165-chams.html)|`2026-11-08 07:14:00`|`Counter-Strike 2`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-11-08 07:14:00`|`Anti-Cheat Research`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-08 07:09:00`|`Other FPS Games`|
 |[Poolians 8ball predictor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/763245-poolians-8ball-predictor.html)|`2026-11-08 06:37:00`|`Other Games`|
 |[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-11-08 06:37:00`|`Other MMORPG and Strategy`|
 |[Bloodstrike offset dumper &#45; updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780335-bloodstrike-offset-dumper-updated.html)|`2026-11-08 06:36:00`|`Other FPS Games`|
