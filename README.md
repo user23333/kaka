@@ -24,9 +24,24 @@
 |41|[fuzeCBT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59275)|`2026-11-08 00:38:11`|
 |6|[GoneFishingMenu&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59274)|`2026-11-08 00:38:11`|
 |3|[Project Hardline Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59273)|`2026-11-08 00:38:11`|
+|2|[VeoxDMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59291)|`2026-11-08 02:37:55`|
+|2|[SubVision &#45; Subnautica 2 External ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59290)|`2026-11-08 02:37:55`|
+|4|[dcplus&#95;v4&#46;6&#46;1&#45;pub](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59289)|`2026-11-08 02:37:55`|
+|6|[lootline 1&#46;5&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59288)|`2026-11-08 02:37:55`|
+|4|[lootline 1&#46;5&#46;5 Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59287)|`2026-11-08 02:37:55`|
+|1|[PEAK External Overlay and Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59286)|`2026-11-08 02:37:55`|
+|2|[InjectorNuclearNightmare](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59284)|`2026-11-08 02:37:55`|
+|1|[SurvivalClient 26&#46;63](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59281)|`2026-11-08 02:37:55`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Aneurism IV Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761634-aneurism-iv-cheat-menu.html)|`2026-11-08 02:32:00`|`Other Games`|
+|[Banned in the recent wave – account ban or HWID ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/780284-banned-recent-wave-account-ban-hwid-ban.html)|`2026-11-08 02:31:00`|`Wardogs`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-08 02:30:00`|`Rust`|
+|[Star Citizen Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/468808-star-citizen-reversal-structs-offsets.html)|`2026-11-08 02:26:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-08 02:24:00`|`Apex Legends`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-11-08 02:17:00`|`Counter-Strike 2`|
+|[PEAK Internal Trainer &#43; ESP &#40;GUI, Cheats, Item Spawner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779956-peak-internal-trainer-esp-gui-cheats-item-spawner.html)|`2026-11-08 02:17:00`|`Other Games`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-08 01:35:00`|`Wardogs`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-08 01:35:00`|`ARC Raiders`|
 |[hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780252-hypervisor-base.html)|`2026-11-08 01:24:00`|`Anti-Cheat Research`|
