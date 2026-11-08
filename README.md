@@ -24,9 +24,18 @@
 |6|[External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59295)|`2026-11-09 00:37:57`|
 |47|[bloodstrike&#45;dumper&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59294)|`2026-11-09 00:37:57`|
 |12|[Espired](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59293)|`2026-11-09 00:37:57`|
+|1|[you&#95;are&#95;empty&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59310)|`2026-11-09 01:37:59`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;OW2&#93; Unleashed DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780397-ow2-unleashed-dma.html)|`2026-11-09 01:35:00`|`Overwatch`|
+|[PhasmoVision — External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/780361-phasmovision-external-overlay.html)|`2026-11-09 01:34:00`|`Phasmophobia`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-09 01:10:00`|`Call of Duty: Black Ops 7`|
+|[You Are Empty Absolute Edition](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cheat-engine-tables/780375-empty-absolute-edition.html)|`2026-11-09 01:01:00`|`Cheat Engine Tables`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-09 00:57:00`|`Tom Clancy's The Division`|
+|[Deskrawl Idle ARPG Trainer mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/776945-deskrawl-idle-arpg-trainer-mod.html)|`2026-11-09 00:57:00`|`Other MMORPG and Strategy`|
+|[WARDOGS Private Community Server &#124; Backend, Hosting, Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779751-wardogs-private-community-server-backend-hosting-launcher.html)|`2026-11-09 00:52:00`|`Wardogs`|
+|[Codename Cure 2 Cheat Table](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/773534-codename-cure-2-cheat-table.html)|`2026-11-09 00:51:00`|`Other FPS Games`|
 |[Bytecode Inspector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/779916-bytecode-inspector.html)|`2026-11-09 00:26:00`|`Garry's Mod`|
 |[REPO Shade Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780354-repo-shade-internal.html)|`2026-11-09 00:15:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-09 00:15:00`|`Apex Legends`|
