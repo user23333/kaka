@@ -13,6 +13,7 @@
 |6|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-08 00:38:11`|`helldivers-2-a`|
 |49|[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run-reversal-structs-offsets.html)|`2026-11-08 06:37:53`|`other-fps-games`|
 |22|[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-08 06:37:53`|`other-mmorpg-and-strategy`|
+|36|[BloodStrike global version internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779932-bloodstrike-global-version-internal.html)|`2026-11-08 10:37:51`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -39,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-11-08 10:35:00`|`Roblox`|
+|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-11-08 10:23:00`|`Call of Duty: Black Ops 7`|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-08 10:11:00`|`Anti-Cheat Research`|
+|[Tf2 internal slop](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/780351-tf2-internal-slop.html)|`2026-11-08 10:04:00`|`Team Fortress 2`|
+|[esp overlay zero delay like obs?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780085-esp-overlay-zero-delay-obs.html)|`2026-11-08 09:42:00`|`Counter-Strike 2`|
 |[EAC FN / Temp spoofer development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780050-eac-fn-temp-spoofer-development.html)|`2026-11-08 09:11:00`|`Anti-Cheat Research`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-11-08 09:06:00`|`Other MMORPG and Strategy`|
 |[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-11-08 08:52:00`|`Genshin Impact`|
