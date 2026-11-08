@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ETERSPIRE Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780272-eterspire-toolkit.html)|`2026-11-09 07:13:00`|`Other MMORPG and Strategy`|
+|[Palia Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palia/596324-palia-reversal-structs-offsets.html)|`2026-11-09 06:58:00`|`Palia`|
+|[7&#46;2 version offsets/dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/780177-7-2-version-offsets-dumps.html)|`2026-11-09 06:54:00`|`Genshin Impact`|
+|[Aragami D3v1lHub Menu &#40;BepInEx, singleplayer&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780430-aragami-d3v1lhub-menu-bepinex-singleplayer.html)|`2026-11-09 06:52:00`|`Other Games`|
+|[MapleStory Classic &#45; v1&#46;0&#46;1 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/778620-maplestory-classic-v1-0-1-trainer.html)|`2026-11-09 06:46:00`|`Maple Story`|
 |[Subnautica 2 External ESP & Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780292-subnautica-2-external-esp-trainer.html)|`2026-11-09 06:27:00`|`Other Games`|
 |[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-09 06:22:00`|`Anti-Cheat Research`|
 |[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-11-09 06:21:00`|`Other MMORPG and Strategy`|
