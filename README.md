@@ -38,9 +38,17 @@
 |10|[bloodstrike&#45;dumper&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59294)|`2026-11-08 07:37:47`|
 |3|[Espired](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59293)|`2026-11-08 07:37:47`|
 |1|[Milo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59302)|`2026-11-08 17:37:44`|
+|2|[silent aim source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59308)|`2026-11-08 18:37:43`|
+|21|[kernel&#45;script](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59306)|`2026-11-08 18:37:43`|
+|5|[Marvel Rivals Parallax Updated 2026&#45;11&#45;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59305)|`2026-11-08 18:37:43`|
+|1|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;11&#45;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59304)|`2026-11-08 18:37:43`|
+|1|[VEIN &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59303)|`2026-11-08 18:37:43`|
+|3|[PhasmoVision &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59301)|`2026-11-08 18:37:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2026-11-08 18:26:00`|`Other FPS Games`|
+|[Getting player stats from an account ID &#40;Profile&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/780178-getting-player-stats-account-id-profile.html)|`2026-11-08 17:55:00`|`Escape from Tarkov`|
 |[Milo On Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779313-milo-steam.html)|`2026-11-08 17:35:00`|`Other FPS Games`|
 |[Hello im new](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/780259-hello-im.html)|`2026-11-08 17:34:00`|`Introductions`|
 |[hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/780275-hello.html)|`2026-11-08 17:33:00`|`Introductions`|
