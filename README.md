@@ -40,6 +40,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Neighbors Suburban Warfare Reversal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/720485-neighbors-suburban-warfare-reversal.html)|`2026-11-08 12:35:00`|`Other FPS Games`|
+|[External FOV changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/756393-external-fov-changer.html)|`2026-11-08 12:03:00`|`Overwatch`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-08 11:48:00`|`Overwatch`|
 |[REPO Shade Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780354-repo-shade-internal.html)|`2026-11-08 11:37:00`|`Other Games`|
 |[What game got you into cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771454-game-cheating.html)|`2026-11-08 11:36:00`|`Off Topic`|
 |[Looking for HUD assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/780281-looking-hud-assets.html)|`2026-11-08 11:09:00`|`Rainbow Six Siege`|
