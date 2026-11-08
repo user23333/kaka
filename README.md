@@ -39,6 +39,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Admins spectate officials and will issue bans](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/779614-admins-spectate-officials-issue-bans.html)|`2026-11-08 08:31:00`|`Wardogs`|
+|[Enlisted Reborn &#45; Modern Internal Source Code&#124; ESP, Aimbot, Chams, Stream Proof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780342-enlisted-reborn-modern-internal-source-code-esp-aimbot-chams-stream-proof.html)|`2026-11-08 08:13:00`|`Other FPS Games`|
+|[PlutoVision&#45; MP/Customs Bo2 Plutonium External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/780341-plutovision-mp-customs-bo2-plutonium-external.html)|`2026-11-08 08:04:00`|`Call of Duty: Black Ops 2`|
+|[World War Z Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778343-world-war-trainer.html)|`2026-11-08 08:00:00`|`Other Games`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-08 07:55:00`|`Tom Clancy's The Division`|
+|[Banned help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779233-banned-help.html)|`2026-11-08 07:38:00`|`Deadlock`|
 |[Eyy&#33; &#91;removed&#93; ubisoft😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779852-eyy-removed-ubisoft.html)|`2026-11-08 07:36:00`|`Rainbow Six Siege`|
 |[bedrock 26&#46;63](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/780244-bedrock-26-63-a.html)|`2026-11-08 07:36:00`|`Minecraft`|
 |[Deadlock &#124; Vibecode Cheat &#124; ft&#46; Andromeda](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/777388-deadlock-vibecode-cheat-ft-andromeda.html)|`2026-11-08 07:28:00`|`Deadlock`|
