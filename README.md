@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Subnautica 2 External ESP & Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780292-subnautica-2-external-esp-trainer.html)|`2026-11-09 06:27:00`|`Other Games`|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-09 06:22:00`|`Anti-Cheat Research`|
+|[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-11-09 06:21:00`|`Other MMORPG and Strategy`|
+|[Secure Boot Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/780297-secure-boot-bypass.html)|`2026-11-09 06:20:00`|`Call of Duty: Black Ops 7`|
+|[Bloodstrike offset dumper &#45; updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780335-bloodstrike-offset-dumper-updated.html)|`2026-11-09 06:19:00`|`Other FPS Games`|
+|[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772857-gallipoli.html)|`2026-11-09 06:14:00`|`Other FPS Games`|
+|[Fully autonomous bot controlled by Claude](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/777636-autonomous-bot-controlled-claude.html)|`2026-11-09 06:13:00`|`World of Warcraft`|
+|[Anything for Wow Forever ?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/780028-wow-forever.html)|`2026-11-09 06:08:00`|`World of Warcraft`|
 |[Deadlock Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778986-deadlock-internal-source.html)|`2026-11-09 05:33:00`|`Deadlock`|
 |[fivem native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/780426-fivem-native-invoker.html)|`2026-11-09 05:30:00`|`Alternative Online Mods`|
 |[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-11-09 05:17:00`|`Forum General`|
