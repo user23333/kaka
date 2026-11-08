@@ -44,9 +44,14 @@
 |1|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;11&#45;08](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59304)|`2026-11-08 18:37:43`|
 |1|[VEIN &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59303)|`2026-11-08 18:37:43`|
 |3|[PhasmoVision &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59301)|`2026-11-08 18:37:43`|
+|3|[External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59295)|`2026-11-08 19:37:45`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-08 19:29:00`|`Overwatch`|
+|[What should be added or changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/780379-added-changed.html)|`2026-11-08 19:27:00`|`CounterStrike Source`|
+|[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772857-gallipoli.html)|`2026-11-08 19:12:00`|`Other FPS Games`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-11-08 19:11:00`|`Other FPS Games`|
 |[Gorebox Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/716525-gorebox-internal-cheat.html)|`2026-11-08 18:26:00`|`Other FPS Games`|
 |[Getting player stats from an account ID &#40;Profile&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/780178-getting-player-stats-account-id-profile.html)|`2026-11-08 17:55:00`|`Escape from Tarkov`|
 |[Milo On Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779313-milo-steam.html)|`2026-11-08 17:35:00`|`Other FPS Games`|
