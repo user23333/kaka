@@ -25,9 +25,18 @@
 |47|[bloodstrike&#45;dumper&#45;src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59294)|`2026-11-09 00:37:57`|
 |12|[Espired](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59293)|`2026-11-09 00:37:57`|
 |1|[you&#95;are&#95;empty&#46;CT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59310)|`2026-11-09 01:37:59`|
+|2|[Yuri&#45;Loftia v1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59317)|`2026-11-09 03:37:52`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-11-09 03:35:00`|`Anti-Cheat Research`|
+|[14 day ban raibow six siege](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/780372-14-day-ban-raibow-six-siege.html)|`2026-11-09 03:34:00`|`Rainbow Six Siege`|
+|[No Cooldown cheat?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779563-cooldown-cheat.html)|`2026-11-09 03:33:00`|`Deadlock`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-09 03:32:00`|`Other MMORPG and Strategy`|
+|[new to creating Android Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/780415-creating-android-cheats.html)|`2026-11-09 03:30:00`|`Android`|
+|[Abuse ACE&#45;ADVT driver for read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780261-abuse-ace-advt-driver-read-memory.html)|`2026-11-09 03:18:00`|`Anti-Cheat Research`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-09 03:04:00`|`Other MMORPG and Strategy`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-09 03:01:00`|`HELLDIVERS 2`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-09 02:32:00`|`Other MMORPG and Strategy`|
 |[my arma reforger external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/778469-arma-reforger-external.html)|`2026-11-09 02:32:00`|`ARMA 3`|
 |[ChuchyEyes: Internel Cheat &#40;Forked from Osiris&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764410-chuchyeyes-internel-cheat-forked-osiris.html)|`2026-11-09 02:23:00`|`Counter-Strike 2`|
