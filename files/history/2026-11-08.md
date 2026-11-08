@@ -40,6 +40,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[REPO Shade Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780354-repo-shade-internal.html)|`2026-11-08 11:37:00`|`Other Games`|
+|[What game got you into cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771454-game-cheating.html)|`2026-11-08 11:36:00`|`Off Topic`|
+|[Looking for HUD assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/780281-looking-hud-assets.html)|`2026-11-08 11:09:00`|`Rainbow Six Siege`|
+|[mw4 skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779475-mw4-skin-changer.html)|`2026-11-08 11:08:00`|`Call of Duty: Black Ops 7`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-08 11:04:00`|`Other FPS Games`|
 |[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-11-08 10:35:00`|`Roblox`|
 |[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-11-08 10:23:00`|`Call of Duty: Black Ops 7`|
 |[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-08 10:11:00`|`Anti-Cheat Research`|
