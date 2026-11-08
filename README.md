@@ -48,6 +48,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FiveM Offset Dumper & Pattern Scanner &#40;Steam Overlay Hook&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/746370-fivem-offset-dumper-pattern-scanner-steam-overlay-hook.html)|`2026-11-08 20:20:00`|`Alternative Online Mods`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-08 19:29:00`|`Overwatch`|
 |[What should be added or changed?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/780379-added-changed.html)|`2026-11-08 19:27:00`|`CounterStrike Source`|
 |[Gallipoli](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/772857-gallipoli.html)|`2026-11-08 19:12:00`|`Other FPS Games`|
