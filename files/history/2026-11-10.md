@@ -44,9 +44,16 @@
 |3|[Payday3&#45;Internal V3&#46;4&#46;1b](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59345)|`2026-11-10 04:37:56`|
 |1|[Halo: Campaign Evolved Trainer &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59344)|`2026-11-10 04:37:56`|
 |1|[le mans ultimate sdk dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59343)|`2026-11-10 04:37:56`|
+|2|[SubVision 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59356)|`2026-11-10 05:37:58`|
+|2|[the isle internal esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59355)|`2026-11-10 05:37:58`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-10 05:36:00`|`Counter-Strike 2 Releases`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-10 05:32:00`|`Payday 3`|
+|[any free uni eac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780553-free-uni-eac-bypass.html)|`2026-11-10 05:31:00`|`Anti-Cheat Research`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-10 05:30:00`|`Wardogs`|
+|[Old IDA 6&#46;x FLAIR Tools](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/779953-ida-6-flair-tools.html)|`2026-11-10 05:27:00`|`General Programming and Reversing`|
 |[Help CS2 AI cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780515-help-cs2-ai-cheat.html)|`2026-11-10 04:33:00`|`Counter-Strike 2`|
 |[im banned from bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/780530-im-banned-bo7.html)|`2026-11-10 04:33:00`|`Call of Duty: Black Ops 7`|
 |[movement correction not working well for some reason](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780542-movement-correction-reason.html)|`2026-11-10 04:33:00`|`Counter-Strike 2`|
