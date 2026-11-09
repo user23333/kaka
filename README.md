@@ -11,6 +11,7 @@
 |19|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-09 00:37:57`|`counter-strike-2-a`|
 |6|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-09 00:37:57`|`helldivers-2-a`|
 |16|[Rainbow Six Siege — Free Vertical Recoil Control &#124; AGN v1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779575-rainbow-six-siege-free-vertical-recoil-control-agn-v1-3-1-a.html)|`2026-11-09 00:37:57`|`rainbow-six-siege`|
+|12|[hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780252-hypervisor-base.html)|`2026-11-09 17:38:06`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -30,6 +31,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-09 17:29:00`|`Other Games`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-09 17:25:00`|`HELLDIVERS 2`|
+|[Toram Online &#45; STEAM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/484409-toram-online-steam.html)|`2026-11-09 17:08:00`|`Other MMORPG and Strategy`|
+|[Saints Row Series Trainers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780467-saints-row-series-trainers.html)|`2026-11-09 16:55:00`|`Other Games`|
+|[My mod menu release &#40;internal&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/768291-mod-menu-release-internal.html)|`2026-11-09 16:45:00`|`Counter-Strike 2`|
+|[Cloak Rust External Source Updated build 25129251 Rainbow ESP &#43; Fonts No Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/770890-cloak-rust-external-source-updated-build-25129251-rainbow-esp-fonts-driver.html)|`2026-11-09 16:44:00`|`Rust`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-09 16:13:00`|`Overwatch`|
 |[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-09 16:12:00`|`Tom Clancy's The Division`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-09 15:54:00`|`Wardogs`|
