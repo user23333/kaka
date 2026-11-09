@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NMRiH2 Updated Overlay Build Necrosis&#43;496569](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777538-nmrih2-updated-overlay-build-necrosis-496569-a.html)|`2026-11-09 20:33:00`|`Other FPS Games`|
+|[Rainbow Six Extraction Trainer &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780484-rainbow-six-extraction-trainer-steam.html)|`2026-11-09 20:22:00`|`Other Games`|
+|[Le Mans Ultimate SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780482-le-mans-ultimate-sdk-dump.html)|`2026-11-09 20:11:00`|`Other Games`|
+|[GTAVTool &#45; Replay Glitch Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/636267-gtavtool-replay-glitch-tool.html)|`2026-11-09 19:44:00`|`Grand Theft Auto V`|
 |[Compensation Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773822-compensation-items.html)|`2026-11-09 19:18:00`|`Payday 3`|
 |[Building a fully nulled/spoofable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/701262-building-nulled-spoofable-pc.html)|`2026-11-09 18:47:00`|`PC Hardware`|
 |[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-09 18:46:00`|`Other Games`|
