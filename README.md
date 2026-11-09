@@ -31,6 +31,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC FN / Temp spoofer development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780050-eac-fn-temp-spoofer-development.html)|`2026-11-09 21:36:00`|`Anti-Cheat Research`|
+|[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-11-09 21:28:00`|`Grand Theft Auto V`|
+|[Ban Data Collection Thread/Unban Method Discussion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/420476-ban-data-collection-thread-unban-method-discussion.html)|`2026-11-09 21:00:00`|`Escape from Tarkov`|
 |[NMRiH2 Updated Overlay Build Necrosis&#43;496569](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777538-nmrih2-updated-overlay-build-necrosis-496569-a.html)|`2026-11-09 20:33:00`|`Other FPS Games`|
 |[Rainbow Six Extraction Trainer &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780484-rainbow-six-extraction-trainer-steam.html)|`2026-11-09 20:22:00`|`Other Games`|
 |[Le Mans Ultimate SDK Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780482-le-mans-ultimate-sdk-dump.html)|`2026-11-09 20:11:00`|`Other Games`|
