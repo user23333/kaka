@@ -31,6 +31,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Compensation Items](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/773822-compensation-items.html)|`2026-11-09 19:18:00`|`Payday 3`|
+|[Building a fully nulled/spoofable PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/701262-building-nulled-spoofable-pc.html)|`2026-11-09 18:47:00`|`PC Hardware`|
+|[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-09 18:46:00`|`Other Games`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-11-09 18:45:00`|`Grand Theft Auto V`|
 |[wow forever speed&#45;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/world-of-warcraft/777858-wow-forever-speed.html)|`2026-11-09 18:33:00`|`World of Warcraft`|
 |[i need chams for fivem external and spectator list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/780357-chams-fivem-external-spectator-list.html)|`2026-11-09 18:20:00`|`Alternative Online Mods`|
 |[Rust hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/779619-rust-hwid-ban.html)|`2026-11-09 18:19:00`|`Rust`|
