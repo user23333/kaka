@@ -29,6 +29,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ArcheAge Chronicles Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780269-archeage-chronicles-reversal-structs-offsets.html)|`2026-11-09 09:10:00`|`Other MMORPG and Strategy`|
+|[Stella Sora Cheese](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/722901-stella-sora-cheese.html)|`2026-11-09 09:07:00`|`Other MMORPG and Strategy`|
+|[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-11-09 09:03:00`|`Grand Theft Auto V`|
+|[Ara&#95;blox V2 &#45; Roblox cheat &#43; offset dumper &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/771477-ara_blox-v2-roblox-cheat-offset-dumper-source.html)|`2026-11-09 09:03:00`|`Roblox`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-09 09:01:00`|`ARC Raiders`|
 |[BSProject — theHunter Internal &#40;Silent Aim, Bullet Time, ESP, Trail X&#45;ray & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780168-bsproject-thehunter-internal-silent-aim-bullet-time-esp-trail-ray.html)|`2026-11-09 08:37:00`|`Other FPS Games`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-11-09 08:17:00`|`Other FPS Games`|
 |[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-11-09 08:07:00`|`ARMA 3`|
