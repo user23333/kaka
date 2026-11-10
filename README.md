@@ -11,6 +11,7 @@
 |6|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-10 00:37:55`|`helldivers-2-a`|
 |12|[hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780252-hypervisor-base.html)|`2026-11-10 00:37:55`|`anti-cheat-research`|
 |6|[Abuse ACE&#45;ADVT driver for read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780261-abuse-ace-advt-driver-read-memory.html)|`2026-11-10 00:37:55`|`anti-cheat-research`|
+|6|[EAC FN / Temp spoofer development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780050-eac-fn-temp-spoofer-development.html)|`2026-11-10 22:37:34`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -62,9 +63,13 @@
 |2|[Satisfactory &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59372)|`2026-11-10 19:37:30`|
 |2|[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59367)|`2026-11-10 19:37:30`|
 |3|[Shinoko&#45;Blue Archive v0&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59375)|`2026-11-10 20:37:28`|
+|1|[BSProject for theHunter v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59377)|`2026-11-10 22:37:34`|
+|1|[AmongVision &#45; Among Us External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59376)|`2026-11-10 22:37:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AmongVision &#45; Among Us External Overlay & Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/780626-amongvision-external-overlay-radar.html)|`2026-11-10 22:32:00`|`Among Us`|
+|[elsword](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/771243-elsword.html)|`2026-11-10 22:16:00`|`Other MMORPG and Strategy`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-10 21:28:00`|`Other MMORPG and Strategy`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-10 21:22:00`|`Other FPS Games`|
 |[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-11-10 21:15:00`|`Alternative Online Mods`|
