@@ -29,9 +29,18 @@
 |5|[Rust&#45;Topg&#45;External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59382)|`2026-11-11 01:37:33`|
 |6|[topgdriversharedmemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59381)|`2026-11-11 01:37:33`|
 |1|[jlov&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59380)|`2026-11-11 01:37:33`|
+|1|[BSProject for theHunter v1&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59386)|`2026-11-11 04:37:28`|
+|2|[4&#46;2&#46;0 IW4X MP 1&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59385)|`2026-11-11 04:37:28`|
+|6|[Arkhan Reloaded Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59384)|`2026-11-11 04:37:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/780420-mw2-spec-ops-toolbox-overlay.html)|`2026-11-11 04:33:00`|`Call of Duty 6: Modern Warfare 2`|
+|[Halo: Campaign Evolved Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/780500-halo-campaign-evolved-trainer.html)|`2026-11-11 04:29:00`|`Halo`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-11 04:28:00`|`Other FPS Games`|
+|[BSProject — theHunter Internal &#40;Silent Aim, Bullet Time, ESP, Trail X&#45;ray & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780168-bsproject-thehunter-internal-silent-aim-bullet-time-esp-trail-ray.html)|`2026-11-11 04:27:00`|`Other FPS Games`|
+|[Halo MCC EAC Disabler/"Bypass"](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/halo/778681-halo-mcc-eac-disabler-bypass.html)|`2026-11-11 04:25:00`|`Halo`|
+|[&#91;OW2&#93; Unleashed DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780397-ow2-unleashed-dma.html)|`2026-11-11 04:24:00`|`Overwatch`|
 |[FiveM Signature & Pattern List V2 &#40;Updated&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/759172-fivem-signature-pattern-list-v2-updated.html)|`2026-11-11 03:29:00`|`Alternative Online Mods`|
 |[&#91;Release&#93; YimMenuV2 Backup &#40;Enhanced&#41; – continued build &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780512-release-yimmenuv2-backup-enhanced-continued-build-source.html)|`2026-11-11 03:27:00`|`Grand Theft Auto V`|
 |[Secure Boot Bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/780297-secure-boot-bypass.html)|`2026-11-11 03:22:00`|`Call of Duty: Black Ops 7`|
