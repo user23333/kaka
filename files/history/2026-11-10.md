@@ -65,6 +65,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-10 21:28:00`|`Other MMORPG and Strategy`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-10 21:22:00`|`Other FPS Games`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-11-10 21:15:00`|`Alternative Online Mods`|
 |[Frosty Zugbonk &#45; Ultimate WotLK 3&#46;3&#46;5a Cheat, Teleport & Multi&#45;Client Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/780473-frosty-zugbonk-ultimate-wotlk-3-3-5a-cheat-teleport-multi-client-companion.html)|`2026-11-10 20:36:00`|`Wow Hacks and Bots`|
 |[NEW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/780540-new.html)|`2026-11-10 20:32:00`|`Introductions`|
 |[Cheating with 2 pcs WITHOUT dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/780580-cheating-2-pcs-dma.html)|`2026-11-10 20:31:00`|`Forum General`|
