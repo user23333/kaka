@@ -54,6 +54,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[abiotic factor cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780581-abiotic-factor-cheat.html)|`2026-11-10 12:23:00`|`Other FPS Games`|
+|[Loftia releasing soon&#33; Demo out](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/777727-loftia-releasing-soon-demo.html)|`2026-11-10 12:15:00`|`Forum General`|
+|[Rainbow Six Siege Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/255148-rainbow-six-siege-reversal-structs-offsets.html)|`2026-11-10 11:56:00`|`Rainbow Six Siege`|
 |[please enter a post&#45;paid phone number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780160-please-enter-post-paid-phone.html)|`2026-11-10 11:30:00`|`Overwatch`|
 |[Question about device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/777140-question-device-ban.html)|`2026-11-10 11:14:00`|`Marvel Rivals`|
 |[why am i still getting ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771117-am-getting-ban.html)|`2026-11-10 11:10:00`|`Marvel Rivals`|
