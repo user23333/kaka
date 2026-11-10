@@ -51,9 +51,20 @@
 |2|[IDA Pro FLAIR v6&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59359)|`2026-11-10 07:37:24`|
 |2|[stats editor 0&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59358)|`2026-11-10 07:37:24`|
 |2|[Thicket &#45; Sons of the Forest External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59357)|`2026-11-10 07:37:24`|
+|1|[RRTool Public Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59371)|`2026-11-10 18:37:34`|
+|1|[PUBG EXTERNAL&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59370)|`2026-11-10 18:37:34`|
+|1|[valorant&#45;13&#46;09&#45;eu&#45;dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59368)|`2026-11-10 18:37:34`|
+|2|[Subnautica 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59366)|`2026-11-10 18:37:34`|
+|1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59365)|`2026-11-10 18:37:34`|
+|3|[RazeHack 1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59364)|`2026-11-10 18:37:34`|
+|1|[Internal&#45;1&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59362)|`2026-11-10 18:37:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Subnautica 2 &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780576-subnautica-2-steam-internal-trainer.html)|`2026-11-10 18:36:00`|`Other Games`|
+|[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-11-10 18:26:00`|`Other MMORPG and Strategy`|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-11-10 18:25:00`|`Other MMORPG and Strategy`|
+|[mw4 skin changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/779475-mw4-skin-changer.html)|`2026-11-10 18:16:00`|`Call of Duty: Black Ops 7`|
 |[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-10 17:13:00`|`Anti-Cheat Research`|
 |[anti cheat getting good now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779740-anti-cheat-getting.html)|`2026-11-10 17:09:00`|`Rainbow Six Siege`|
 |[Stuck in missions lobby loading when using a mod menu in GTA:O Enhanced &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780596-stuck-missions-lobby-loading-using-mod-menu-gta-enhanced-fsl.html)|`2026-11-10 17:01:00`|`Grand Theft Auto V`|
