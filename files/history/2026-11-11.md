@@ -37,9 +37,15 @@
 |3|[BSProject for theHunter v1&#46;2&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59389)|`2026-11-11 06:37:27`|
 |1|[Milo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59388)|`2026-11-11 06:37:27`|
 |1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59387)|`2026-11-11 06:37:27`|
+|2|[triggerbot&#95;byTagirov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59391)|`2026-11-11 07:21:54`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-11 07:17:00`|`ARC Raiders`|
+|[Shinoko&#45;Hi3rd &#91;Honkai Impact 3rd cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780601-shinoko-hi3rd-honkai-impact-3rd-cheat.html)|`2026-11-11 07:03:00`|`Other MMORPG and Strategy`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-11 06:57:00`|`Other Games`|
+|[Ghost of tabor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/733374-ghost-tabor.html)|`2026-11-11 06:56:00`|`Other FPS Games`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-11 06:52:00`|`Other MMORPG and Strategy`|
 |[Looking to go internal what does the AC checks for](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780337-looking-internal-ac-checks.html)|`2026-11-11 06:29:00`|`Overwatch`|
 |[AIMBOT &#43;&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/gunbound/780051-aimbot.html)|`2026-11-11 06:19:00`|`Gunbound`|
 |[Milo On Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779313-milo-steam.html)|`2026-11-11 06:19:00`|`Other FPS Games`|
