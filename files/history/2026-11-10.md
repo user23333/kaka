@@ -54,6 +54,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[please enter a post&#45;paid phone number](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780160-please-enter-post-paid-phone.html)|`2026-11-10 11:30:00`|`Overwatch`|
+|[Question about device ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/777140-question-device-ban.html)|`2026-11-10 11:14:00`|`Marvel Rivals`|
+|[why am i still getting ban?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/771117-am-getting-ban.html)|`2026-11-10 11:10:00`|`Marvel Rivals`|
+|[battl3yentV2, launcher without batteye](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/731215-battl3yentv2-launcher-batteye.html)|`2026-11-10 10:51:00`|`Escape from Tarkov`|
 |[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-6-modern-warfare-2-a/780420-mw2-spec-ops-toolbox-overlay.html)|`2026-11-10 10:25:00`|`Call of Duty 6: Modern Warfare 2`|
 |[Yim Menu V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/693751-yim-menu-v2-0-a.html)|`2026-11-10 10:24:00`|`Grand Theft Auto V`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-11-10 10:20:00`|`Other FPS Games`|
