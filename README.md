@@ -58,9 +58,19 @@
 |1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59365)|`2026-11-10 18:37:34`|
 |3|[RazeHack 1&#46;0&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59364)|`2026-11-10 18:37:34`|
 |1|[Internal&#45;1&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59362)|`2026-11-10 18:37:34`|
+|2|[Shinoko&#45;Hi3rd v0&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59374)|`2026-11-10 19:37:30`|
+|2|[Satisfactory &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59372)|`2026-11-10 19:37:30`|
+|2|[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59367)|`2026-11-10 19:37:30`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[fivem native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/780426-fivem-native-invoker.html)|`2026-11-10 19:32:00`|`Alternative Online Mods`|
+|[anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780609-anti-aim.html)|`2026-11-10 19:24:00`|`Counter-Strike 2`|
+|[Are Javelin HWID bans Permanent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/780608-javelin-hwid-bans-permanent.html)|`2026-11-10 19:23:00`|`Apex Legends`|
+|[Schedule I &#40;Steam&#41; — Internal Trainer / ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780069-schedule-steam-internal-trainer-esp.html)|`2026-11-10 19:10:00`|`Other Games`|
+|[classes stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780395-classes-stalzone.html)|`2026-11-10 19:07:00`|`Other FPS Games`|
+|[Vesper Internal Executor Full Opensource](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/780422-vesper-internal-executor-opensource.html)|`2026-11-10 19:05:00`|`Roblox`|
+|[New on the block](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/780432-block.html)|`2026-11-10 19:04:00`|`Introductions`|
 |[Subnautica 2 &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780576-subnautica-2-steam-internal-trainer.html)|`2026-11-10 18:36:00`|`Other Games`|
 |[Idle Legions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/779309-idle-legions.html)|`2026-11-10 18:26:00`|`Other MMORPG and Strategy`|
 |[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-11-10 18:25:00`|`Other MMORPG and Strategy`|
