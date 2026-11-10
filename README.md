@@ -54,6 +54,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-10 17:13:00`|`Anti-Cheat Research`|
+|[anti cheat getting good now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779740-anti-cheat-getting.html)|`2026-11-10 17:09:00`|`Rainbow Six Siege`|
+|[Stuck in missions lobby loading when using a mod menu in GTA:O Enhanced &#40;No FSL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780596-stuck-missions-lobby-loading-using-mod-menu-gta-enhanced-fsl.html)|`2026-11-10 17:01:00`|`Grand Theft Auto V`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-10 16:45:00`|`Other FPS Games`|
+|[TinkerScripts &#124; YimMenuV2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/772902-tinkerscripts-yimmenuv2.html)|`2026-11-10 16:40:00`|`Grand Theft Auto V`|
 |[Escape the Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779768-escape-backrooms-internal.html)|`2026-11-10 16:22:00`|`Other FPS Games`|
 |[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-11-10 16:12:00`|`Other FPS Games`|
 |[Satisfactory &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780594-satisfactory-steam-internal-trainer.html)|`2026-11-10 15:58:00`|`Other Games`|
