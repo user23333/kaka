@@ -54,6 +54,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Phantom Blade Zero Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/779878-phantom-blade-zero-internal.html)|`2026-11-10 08:35:00`|`Other Single Player Games`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-10 08:31:00`|`Wardogs`|
+|[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-11-10 08:28:00`|`Palworld`|
+|[Xizuy &#91;External 6&#46;7&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/761252-xizuy-external-6-7-a.html)|`2026-11-10 08:28:00`|`Genshin Impact`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-10 08:26:00`|`HELLDIVERS 2`|
+|[Assassin, Heavy Hitter & Other Bundles &#43; Solidus Mask IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/774929-assassin-heavy-hitter-bundles-solidus-mask-ids.html)|`2026-11-10 08:25:00`|`Payday 3`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-11-10 08:19:00`|`Overwatch`|
+|[Rainbow Six Siege — Free Vertical Recoil Control &#124; AGN v1&#46;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779575-rainbow-six-siege-free-vertical-recoil-control-agn-v1-3-1-a.html)|`2026-11-10 08:15:00`|`Rainbow Six Siege`|
 |[NotUrCheats // DEEP ROCK GALACTIC &#45; DRG Internal Menu &#40;Full &#43; Lite&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779163-noturcheats-deep-rock-galactic-drg-internal-menu-lite.html)|`2026-11-10 07:36:00`|`Other FPS Games`|
 |[Stats Editor&#91;External&#93; &#40;Enhanced&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/699943-stats-editor-external-enhanced.html)|`2026-11-10 07:26:00`|`Grand Theft Auto V`|
 |[Milo On Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779313-milo-steam.html)|`2026-11-10 07:25:00`|`Other FPS Games`|
