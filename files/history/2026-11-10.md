@@ -54,6 +54,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape the Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779768-escape-backrooms-internal.html)|`2026-11-10 16:22:00`|`Other FPS Games`|
+|[Gray Zone Warfare Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/634880-gray-zone-warfare-reversal-structs-offsets.html)|`2026-11-10 16:12:00`|`Other FPS Games`|
+|[Satisfactory &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780594-satisfactory-steam-internal-trainer.html)|`2026-11-10 15:58:00`|`Other Games`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-11-10 15:37:00`|`Apex Legends`|
 |[PEAK Internal Trainer &#43; ESP &#40;GUI, Cheats, Item Spawner&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779956-peak-internal-trainer-esp-gui-cheats-item-spawner.html)|`2026-11-10 15:34:00`|`Other Games`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-10 15:29:00`|`Anti-Cheat Research`|
