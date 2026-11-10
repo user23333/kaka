@@ -11,6 +11,7 @@
 |6|[After updating EAC in Helldivers2, I am unable to create any more cheats&#46; I will publ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/779841-updating-eac-helldivers2-am-unable-create-cheats-publ.html)|`2026-11-11 00:37:32`|`helldivers-2-a`|
 |6|[Abuse ACE&#45;ADVT driver for read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780261-abuse-ace-advt-driver-read-memory.html)|`2026-11-11 00:37:32`|`anti-cheat-research`|
 |6|[EAC FN / Temp spoofer development](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780050-eac-fn-temp-spoofer-development.html)|`2026-11-11 00:37:32`|`anti-cheat-research`|
+|7|[Antikick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780299-antikick.html)|`2026-11-11 01:37:33`|`counter-strike-2-a`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -24,9 +25,21 @@
 |39|[PUBG EXTERNAL&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59370)|`2026-11-11 00:37:32`|
 |11|[valorant&#45;13&#46;09&#45;eu&#45;dump&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59368)|`2026-11-11 00:37:32`|
 |4|[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59367)|`2026-11-11 00:37:32`|
+|5|[Rust&#45;Topg&#45;External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59382)|`2026-11-11 01:37:33`|
+|6|[topgdriversharedmemory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59381)|`2026-11-11 01:37:33`|
+|1|[jlov&#46;rar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59380)|`2026-11-11 01:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-11 01:30:00`|`Call of Duty: Black Ops 7`|
+|[Rust Cheat That Works UD For Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/780644-rust-cheat-ud.html)|`2026-11-11 01:28:00`|`Rust`|
+|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-11 01:27:00`|`Maple Story`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-11 01:23:00`|`Escape from Tarkov`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-11-11 01:20:00`|`Overwatch`|
+|[Frosty Zugbonk &#45; Ultimate WotLK 3&#46;3&#46;5a Cheat, Teleport & Multi&#45;Client Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/780473-frosty-zugbonk-ultimate-wotlk-3-3-5a-cheat-teleport-multi-client-companion.html)|`2026-11-11 01:19:00`|`Wow Hacks and Bots`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-11 01:16:00`|`Other FPS Games`|
+|[eft external release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/772093-eft-external-release.html)|`2026-11-11 01:15:00`|`Escape from Tarkov`|
+|[&#91;Free&#93; APB Triggerbot by Itagirov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/all-points-bulletin/780643-free-apb-triggerbot-itagirov.html)|`2026-11-11 01:14:00`|`All Points Bulletin`|
 |[Failed attestation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/770107-failed-attestation.html)|`2026-11-11 00:32:00`|`Call of Duty: Black Ops 7`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-11 00:32:00`|`Anti-Cheat Research`|
 |[im banned from bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/780530-im-banned-bo7.html)|`2026-11-11 00:30:00`|`Call of Duty: Black Ops 7`|
