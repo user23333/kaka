@@ -61,9 +61,15 @@
 |2|[Shinoko&#45;Hi3rd v0&#46;1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59374)|`2026-11-10 19:37:30`|
 |2|[Satisfactory &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59372)|`2026-11-10 19:37:30`|
 |2|[MW2 Spec Ops Toolbox Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59367)|`2026-11-10 19:37:30`|
+|3|[Shinoko&#45;Blue Archive v0&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59375)|`2026-11-10 20:37:28`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Frosty Zugbonk &#45; Ultimate WotLK 3&#46;3&#46;5a Cheat, Teleport & Multi&#45;Client Companion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wow-hacks-and-bots/780473-frosty-zugbonk-ultimate-wotlk-3-3-5a-cheat-teleport-multi-client-companion.html)|`2026-11-10 20:36:00`|`Wow Hacks and Bots`|
+|[NEW](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/780540-new.html)|`2026-11-10 20:32:00`|`Introductions`|
+|[Cheating with 2 pcs WITHOUT dma](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/780580-cheating-2-pcs-dma.html)|`2026-11-10 20:31:00`|`Forum General`|
+|[&#91;Source&#93; Planetside 2 Cheat & BattlEye Bypass &#43; Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/planetside-2-a/720663-source-planetside-2-cheat-battleye-bypass-injector.html)|`2026-11-10 20:20:00`|`PlanetSide 2`|
+|[TF2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/779346-tf2-cheat.html)|`2026-11-10 20:15:00`|`Team Fortress 2`|
 |[fivem native invoker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/780426-fivem-native-invoker.html)|`2026-11-10 19:32:00`|`Alternative Online Mods`|
 |[anti aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780609-anti-aim.html)|`2026-11-10 19:24:00`|`Counter-Strike 2`|
 |[Are Javelin HWID bans Permanent?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/780608-javelin-hwid-bans-permanent.html)|`2026-11-10 19:23:00`|`Apex Legends`|
