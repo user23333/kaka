@@ -54,6 +54,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-10 09:30:00`|`Other FPS Games`|
+|[request PokeBonk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780572-request-pokebonk.html)|`2026-11-10 09:26:00`|`Other Games`|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-11-10 09:22:00`|`Other FPS Games`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-10 09:21:00`|`Deadlock`|
+|[SCP:SL Redux](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777758-scp-sl-redux.html)|`2026-11-10 09:16:00`|`Other FPS Games`|
+|[Intel VT&#45;X Virtualization framework](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780440-intel-vt-virtualization-framework.html)|`2026-11-10 09:16:00`|`Anti-Cheat Research`|
+|[Hello from Indonesia&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779848-hello-indonesia.html)|`2026-11-10 09:05:00`|`Introductions`|
+|[Hello Everyone&#33; New Member Here](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/779663-hello.html)|`2026-11-10 09:04:00`|`Introductions`|
 |[Phantom Blade Zero Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/779878-phantom-blade-zero-internal.html)|`2026-11-10 08:35:00`|`Other Single Player Games`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-10 08:31:00`|`Wardogs`|
 |[XIPEX &#45; Palworld 1&#46;0 Steam &#43; Gamepass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/palworld/762538-xipex-palworld-1-0-steam-gamepass.html)|`2026-11-10 08:28:00`|`Palworld`|
