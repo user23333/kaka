@@ -54,6 +54,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[flame keeper mask](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/779742-flame-keeper-mask.html)|`2026-11-10 14:15:00`|`Payday 3`|
+|[Star Wars Battlefront II Internal – Aimbot / ESP / Damage Modifier](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/779371-star-wars-battlefront-ii-internal-aimbot-esp-damage-modifier.html)|`2026-11-10 13:57:00`|`Star Wars Battlefront 2`|
+|[BOCW Internal &#45;2D ESP &#43; Aimbot &#45; Only Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-cold-war/767457-bocw-internal-2d-esp-aimbot-steam.html)|`2026-11-10 13:46:00`|`Call of Duty: Black Ops Cold War`|
 |[R6 External Cheat Source&#43;Driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/766651-r6-external-cheat-source-driver.html)|`2026-11-10 13:19:00`|`Rainbow Six Siege`|
 |[Slop thunder &#45; Warthunder External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/745923-slop-thunder-warthunder-external.html)|`2026-11-10 13:17:00`|`Other MMORPG and Strategy`|
 |[Division 2 &#124; Latest EAC bypass as of Aug 24](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/768724-division-2-eac-bypass-aug-24-a.html)|`2026-11-10 13:13:00`|`Tom Clancy's The Division`|
