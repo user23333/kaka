@@ -14,6 +14,7 @@
 |7|[Antikick](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780299-antikick.html)|`2026-11-11 01:37:33`|`counter-strike-2-a`|
 |4|[Eyy&#33; &#91;removed&#93; ubisoft😊](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/779852-eyy-removed-ubisoft.html)|`2026-11-11 03:37:46`|`rainbow-six-siege`|
 |12|[jordan123pal External's Mod Framework Extension &#124; Streamproof Mod &#124; Offset Updater](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/779964-jordan123pal-externals-mod-framework-extension-streamproof-mod-offset-updater.html)|`2026-11-11 05:37:37`|`deadlock`|
+|32|[ETERSPIRE Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780272-eterspire-toolkit.html)|`2026-11-11 13:37:27`|`other-mmorpg-and-strategy`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-11 13:32:00`|`Deadlock`|
+|[Skip to my lou &#45; part 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-6-a/779387-skip-lou-2-a.html)|`2026-11-11 13:24:00`|`Battlefield 6`|
+|[Server Side Anti Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/780703-server-anti-cheat.html)|`2026-11-11 13:07:00`|`Apex Legends`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-11 13:04:00`|`Wardogs`|
+|[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-11 12:49:00`|`Other MMORPG and Strategy`|
 |[wardogs external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/775205-wardogs-external.html)|`2026-11-11 12:34:00`|`Wardogs`|
 |[Cryo by Valko Studios ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754998-cryo-valko-studios-esp.html)|`2026-11-11 12:24:00`|`Other FPS Games`|
 |[Insecure Boot: Bypassing every anti&#45;cheat's Secure Boot check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769610-insecure-boot-bypassing-anti-cheats-secure-boot-check.html)|`2026-11-11 12:21:00`|`Anti-Cheat Research`|
