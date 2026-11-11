@@ -42,6 +42,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need For Speed World hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/630560-speed-world-hack.html)|`2026-11-11 11:27:00`|`Other MMORPG and Strategy`|
+|[Escape the Backrooms Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779768-escape-backrooms-internal.html)|`2026-11-11 11:22:00`|`Other FPS Games`|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-11 11:15:00`|`Apex Legends`|
+|[internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/774391-internal.html)|`2026-11-11 11:12:00`|`Overwatch`|
+|[Phas Recovery &#124; Internal Recovery Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/776303-phas-recovery-internal-recovery-menu.html)|`2026-11-11 11:04:00`|`Phasmophobia`|
+|[&#40;Plutonium&#41; BO2Z Toolbox Overlay &#45; Zombies Aimbot, ESP, Minimap](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/779528-plutonium-bo2z-toolbox-overlay-zombies-aimbot-esp-minimap.html)|`2026-11-11 10:59:00`|`Call of Duty: Black Ops 2`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-11 10:57:00`|`HELLDIVERS 2`|
 |[ER:Nightreign RVA's and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775040-er-nightreign-rvas-offsets.html)|`2026-11-11 10:36:00`|`Other FPS Games`|
 |[cs2&#45;external&#45;catalyst](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/744009-cs2-external-catalyst.html)|`2026-11-11 10:34:00`|`Counter-Strike 2 Releases`|
 |[I found the view matrix, but there’s a problem with the player array](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/780693-found-view-matrix-player-array.html)|`2026-11-11 10:25:00`|`Rainbow Six Siege`|
