@@ -38,9 +38,14 @@
 |1|[Milo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59388)|`2026-11-11 06:37:27`|
 |1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59387)|`2026-11-11 06:37:27`|
 |2|[triggerbot&#95;byTagirov](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59391)|`2026-11-11 07:21:54`|
+|6|[VeoxDMARobRun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59392)|`2026-11-11 09:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ashes of the Singularity II](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780690-ashes-singularity-ii.html)|`2026-11-11 09:32:00`|`Other MMORPG and Strategy`|
+|[War Thunder Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757656-war-thunder-cheat.html)|`2026-11-11 09:26:00`|`Other MMORPG and Strategy`|
+|[Elden Ring Nightreign External TEST](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777614-elden-ring-nightreign-external-test.html)|`2026-11-11 09:04:00`|`Other FPS Games`|
+|[BloodStrike global version internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779932-bloodstrike-global-version-internal.html)|`2026-11-11 09:03:00`|`Other FPS Games`|
 |[Anyone have anything for MCC??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/780685-mcc.html)|`2026-11-11 08:32:00`|`Forum General`|
 |[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-11 08:23:00`|`Wardogs`|
 |[CS2 Python External &#45; MS Mesh release, open&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/779542-cs2-python-external-ms-mesh-release-source.html)|`2026-11-11 08:12:00`|`Counter-Strike 2 Releases`|
