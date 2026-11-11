@@ -41,6 +41,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone have anything for MCC??](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/780685-mcc.html)|`2026-11-11 08:32:00`|`Forum General`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-11 08:23:00`|`Wardogs`|
+|[CS2 Python External &#45; MS Mesh release, open&#45;source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/779542-cs2-python-external-ms-mesh-release-source.html)|`2026-11-11 08:12:00`|`Counter-Strike 2 Releases`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-11 07:53:00`|`Other MMORPG and Strategy`|
+|[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-11 07:52:00`|`H1Z1`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-11 07:17:00`|`ARC Raiders`|
 |[Shinoko&#45;Hi3rd &#91;Honkai Impact 3rd cheat&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780601-shinoko-hi3rd-honkai-impact-3rd-cheat.html)|`2026-11-11 07:03:00`|`Other MMORPG and Strategy`|
 |[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-11 06:57:00`|`Other Games`|
