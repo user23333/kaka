@@ -29,9 +29,18 @@
 |3|[lost light python sdk &#40;pc version = 20261016&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59521)|`2026-11-15 05:37:37`|
 |78|[ROBRUNeac&#45;emulatorHitlerjoeV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59520)|`2026-11-15 05:37:37`|
 |1|[Milo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59519)|`2026-11-15 05:37:37`|
+|6|[Bodycam V0&#46;9 SDK &#40;11/14/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59524)|`2026-11-15 07:37:38`|
+|4|[PlagueIncEvolved&#95;20261114&#95;133620](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59523)|`2026-11-15 07:37:38`|
+|116|[internal&#45;stable version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59522)|`2026-11-15 07:37:38`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Regarding the addition of dynamic encryption in DMZ mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/781156-regarding-addition-dynamic-encryption-dmz-mode.html)|`2026-11-15 07:32:00`|`Call of Duty: Black Ops 7`|
+|[TF2 botox &#124; movement cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/781252-tf2-botox-movement-cheat.html)|`2026-11-15 07:30:00`|`Team Fortress 2`|
+|[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-15 07:16:00`|`Counter-Strike 2`|
+|[Arc Raiders External &#40;paid&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/781488-arc-raiders-external-paid.html)|`2026-11-15 07:15:00`|`ARC Raiders`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-15 07:07:00`|`Marvel Rivals`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-15 07:03:00`|`Other FPS Games`|
 |[AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/781482-ai-aimbot.html)|`2026-11-15 06:16:00`|`BattleBit Remastered`|
 |[Lost Light External Overlay &#43; Source &#43; SDK &#40;PC version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781147-lost-light-external-overlay-source-sdk-pc-version.html)|`2026-11-15 06:15:00`|`Other FPS Games`|
 |[resolving lists from gamemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774509-resolving-lists-gamemanager.html)|`2026-11-15 06:14:00`|`Rainbow Six Siege`|
