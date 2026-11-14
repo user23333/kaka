@@ -1,8 +1,9 @@
 import os
-import shutil
 import time
 from datetime import datetime, timedelta, timezone
-from DrissionPage import Chromium, ChromiumOptions
+from urllib.parse import urlsplit
+from urllib.request import Request, urlopen
+from lxml import etree
 from pyquery import PyQuery as pq
 
 def utc_to_cst(utc):
@@ -29,47 +30,18 @@ def markdown_escape(text):
     return text.translate(table)
 
 
-def get_between(s, first, last):
-    start = s.find(first)
-    if start == -1:
-        return None
-    start += len(first)
-
-    end = s.find(last, start)
-    if end == -1:
-        return None
-
-    return s[start:end]
-
-
 def fetch_blocks(v2):
-    options = ChromiumOptions(read_file=False).auto_port().headless(False)
-    options.set_load_mode('none')
-    chrome = os.getenv('CHROME_BIN') or shutil.which('google-chrome')
-    if chrome:
-        options.set_browser_path(chrome)
-    browser = Chromium(options)
-    try:
-        tab = browser.latest_tab
-        deadline = time.monotonic() + 55
-        try:
-            tab.get(f'{v2}{time.time_ns()}', retry=0, timeout=45)
-        except Exception:
-            raise RuntimeError('Browser navigation failed') from None
-        while time.monotonic() < deadline:
-            try:
-                html = tab.html or ''
-            except Exception:
-                tab = browser.latest_tab
-                time.sleep(1)
-                continue
-            blocks = [get_between(html, f'<block blockid="{i}"><![CDATA[', ']]></block>') for i in (1, 2, 3)]
-            if all(blocks):
-                return blocks
-            time.sleep(1)
-        raise RuntimeError('V2 blocks did not load within 55 seconds')
-    finally:
-        browser.quit()
+    url = urlsplit(f'{v2}{time.time_ns()}')
+    if url.scheme != 'https' or url.hostname != 'www.unknowncheats.me':
+        raise ValueError('Unexpected V2 host')
+    request = Request(f'http://127.0.0.1:8000{url.path}?{url.query}', headers={'x-hostname': url.hostname})
+    with urlopen(request, timeout=180) as response:
+        raw = response.read()
+    root = etree.fromstring(raw, etree.XMLParser(resolve_entities=False, no_network=True))
+    blocks = [root.xpath(f'string(//block[@blockid="{i}"])') for i in (1, 2, 3)]
+    if not all(blocks):
+        raise RuntimeError('V2 response did not contain all three blocks')
+    return blocks
 
 
 def fetch():
