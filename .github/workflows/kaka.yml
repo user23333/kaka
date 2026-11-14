@@ -18,7 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-24.04
+    runs-on: windows-2022
     timeout-minutes: 25
     permissions:
       contents: write
@@ -32,7 +32,13 @@ jobs:
           ref: main
       
       - name: Set timezone
-        run: sudo timedatectl set-timezone Asia/Shanghai
+        run: tzutil /s "China Standard Time"
+
+      - name: Select Microsoft Edge
+        run: |
+          $edge = "${env:ProgramFiles(x86)}\Microsoft\Edge\Application\msedge.exe"
+          if (!(Test-Path $edge)) { throw "Microsoft Edge not found: $edge" }
+          "CHROME_BIN=$edge" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
 
       - name: Setup Python 3.12
         uses: actions/setup-python@v6
@@ -54,10 +60,11 @@ jobs:
           timeout_minutes: 2
           max_attempts: 5
           retry_wait_seconds: 60
-          command: xvfb-run -a -s '-screen 0 1280x800x24' python main.py
+          command: python main.py
 
 
       - name: Push
+        shell: bash
         run: |
           git config --global user.name "nobody"
           git config --global user.email "nobody@gmail.com"
