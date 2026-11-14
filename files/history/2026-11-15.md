@@ -26,9 +26,18 @@
 |2|[BSProject for KCD2 v0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59505)|`2026-11-15 02:12:01`|
 |4|[Ready or Not Internal v2&#46;5&#46;0 &#45; Binaries ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59518)|`2026-11-15 03:37:32`|
 |7|[TrainerDBD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59517)|`2026-11-15 03:37:32`|
+|3|[lost light python sdk &#40;pc version = 20261016&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59521)|`2026-11-15 05:37:37`|
+|78|[ROBRUNeac&#45;emulatorHitlerjoeV2&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59520)|`2026-11-15 05:37:37`|
+|1|[Milo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59519)|`2026-11-15 05:37:37`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARK Ascended Unreal Engine New Update 97&#46;14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780359-ark-ascended-unreal-engine-update-97-14-a.html)|`2026-11-15 05:28:00`|`Other FPS Games`|
+|[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-11-15 05:27:00`|`Apex Legends`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-15 05:26:00`|`Wardogs`|
+|[Looking to go internal what does the AC checks for](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780337-looking-internal-ac-checks.html)|`2026-11-15 05:25:00`|`Overwatch`|
+|[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-11-15 05:25:00`|`Rainbow Six Siege`|
+|[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-11-15 05:19:00`|`Anti-Cheat Research`|
 |[OHM &#45; Mortuus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778825-ohm-mortuus.html)|`2026-11-15 04:25:00`|`Other FPS Games`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-15 04:22:00`|`Overwatch`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-15 04:18:00`|`Escape from Tarkov`|
