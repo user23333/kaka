@@ -1,6 +1,7 @@
 import os
 import re
 import shutil
+import subprocess
 import time
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlsplit
@@ -73,6 +74,24 @@ def fetch_blocks(v2):
             if all(blocks):
                 return blocks
             time.sleep(1)
+        try:
+            subprocess.run(['powershell', '-NoProfile', '-Command', '''
+                $ErrorActionPreference = 'Stop'
+                Add-Type -AssemblyName System.Windows.Forms, System.Drawing
+                $bounds = [System.Windows.Forms.SystemInformation]::VirtualScreen
+                $bitmap = [System.Drawing.Bitmap]::new($bounds.Width, $bounds.Height)
+                $graphics = [System.Drawing.Graphics]::FromImage($bitmap)
+                try {
+                    $graphics.CopyFromScreen($bounds.Location, [System.Drawing.Point]::Empty, $bounds.Size)
+                    $bitmap.Save((Join-Path $env:RUNNER_TEMP 'v2-timeout.png'))
+                } finally {
+                    $graphics.Dispose()
+                    $bitmap.Dispose()
+                }
+            '''], check=True, timeout=10)
+            print('V2 timeout desktop screenshot saved', flush=True)
+        except Exception as err:
+            print(f'V2 screenshot unavailable: {type(err).__name__}', flush=True)
         try:
             doc = pq(html)
             doc('script, style').remove()

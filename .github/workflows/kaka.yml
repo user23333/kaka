@@ -61,6 +61,14 @@ jobs:
           retry_wait_seconds: 60
           command: python main.py
 
+      - name: Upload timeout screenshot
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: v2-timeout-screenshot
+          path: ${{ runner.temp }}/v2-timeout.png
+          if-no-files-found: warn
+          retention-days: 3
 
       - name: Push
         if: github.ref == 'refs/heads/main'
