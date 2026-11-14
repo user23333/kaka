@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/781482-ai-aimbot.html)|`2026-11-15 06:16:00`|`BattleBit Remastered`|
+|[Lost Light External Overlay &#43; Source &#43; SDK &#40;PC version&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781147-lost-light-external-overlay-source-sdk-pc-version.html)|`2026-11-15 06:15:00`|`Other FPS Games`|
+|[resolving lists from gamemanager](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/774509-resolving-lists-gamemanager.html)|`2026-11-15 06:14:00`|`Rainbow Six Siege`|
+|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-15 06:00:00`|`Anti-Cheat Research`|
 |[ARK Ascended Unreal Engine New Update 97&#46;14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780359-ark-ascended-unreal-engine-update-97-14-a.html)|`2026-11-15 05:28:00`|`Other FPS Games`|
 |[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-11-15 05:27:00`|`Apex Legends`|
 |[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-15 05:26:00`|`Wardogs`|
