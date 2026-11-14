@@ -10,7 +10,7 @@ on:
 
 # Serialize scheduled, Worker, and manual runs that update main.
 concurrency:
-  group: kaka-main
+  group: kaka-diagnose
   cancel-in-progress: false
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
