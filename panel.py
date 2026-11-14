@@ -1,7 +1,9 @@
 import os
+import re
 import shutil
 import time
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit
 from DrissionPage import Chromium, ChromiumOptions
 from pyquery import PyQuery as pq
 
@@ -52,6 +54,9 @@ def fetch_blocks(v2):
     try:
         tab = browser.latest_tab
         deadline = time.monotonic() + 55
+        html = ''
+        blocks = [None, None, None]
+        last_read_error = None
         try:
             tab.get(f'{v2}{time.time_ns()}', retry=0, timeout=45)
         except Exception:
@@ -59,7 +64,8 @@ def fetch_blocks(v2):
         while time.monotonic() < deadline:
             try:
                 html = tab.html or ''
-            except Exception:
+            except Exception as err:
+                last_read_error = type(err).__name__
                 tab = browser.latest_tab
                 time.sleep(1)
                 continue
@@ -67,6 +73,24 @@ def fetch_blocks(v2):
             if all(blocks):
                 return blocks
             time.sleep(1)
+        try:
+            doc = pq(html)
+            doc('script, style').remove()
+            title = doc('title').text().split('?', 1)[0]
+            text = ' '.join(doc('body').text().split())
+            for name in ('V1', 'V2', 'V3'):
+                secret = os.getenv(name)
+                if secret:
+                    title = title.replace(secret, '[redacted]')
+                    text = text.replace(secret, '[redacted]')
+            title = re.sub(r'https?://\S+', '[URL]', title)
+            text = re.sub(r'https?://\S+', '[URL]', text)
+            title, text = title[:150], text[:500]
+            print(f"V2 diagnostics: host={urlsplit(tab.url).hostname}, title={title!r}, "
+                  f"html_length={len(html)}, blocks_present={[bool(block) for block in blocks]}, "
+                  f"last_read_error={last_read_error}, body={text!r}", flush=True)
+        except Exception as err:
+            print(f'V2 diagnostics unavailable: {type(err).__name__}', flush=True)
         raise RuntimeError('V2 blocks did not load within 55 seconds')
     finally:
         browser.quit()

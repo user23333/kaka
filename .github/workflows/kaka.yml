@@ -28,8 +28,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v5
         with:
-          # Check out the latest main after waiting for the concurrency lock.
-          ref: main
+          ref: ${{ github.ref_name }}
       
       - name: Set timezone
         run: tzutil /s "China Standard Time"
@@ -64,6 +63,7 @@ jobs:
 
 
       - name: Push
+        if: github.ref == 'refs/heads/main'
         shell: bash
         run: |
           git config --global user.name "nobody"
