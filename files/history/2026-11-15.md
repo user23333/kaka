@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-11-15 09:35:00`|`Other Single Player Games`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-15 09:29:00`|`Tom Clancy's The Division`|
+|[internal offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781490-internal-offsets.html)|`2026-11-15 09:23:00`|`Counter-Strike 2`|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-15 09:10:00`|`Other FPS Games`|
+|[Rust Dumper Upgraded &#40;From UC&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781129-rust-dumper-upgraded-uc.html)|`2026-11-15 09:06:00`|`Rust`|
 |[How played dupe item in Rob Run?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781324-played-dupe-item-rob-run.html)|`2026-11-15 08:36:00`|`Other FPS Games`|
 |[MW3 Spec Ops Overlay &#45; Aimbot, ESP, Mem Hacks, Campaign & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/781494-mw3-spec-ops-overlay-aimbot-esp-mem-hacks-campaign.html)|`2026-11-15 08:16:00`|`Call of Duty: Modern Warfare 3`|
 |[ANYONE GOT A ESP/AIMBOT/RADAR FOR ROS LEGACY?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ros-releases/775055-esp-aimbot-radar-ros-legacy.html)|`2026-11-15 08:00:00`|`RoS Releases`|
