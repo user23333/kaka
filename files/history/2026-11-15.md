@@ -32,9 +32,19 @@
 |6|[Bodycam V0&#46;9 SDK &#40;11/14/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59524)|`2026-11-15 07:37:38`|
 |4|[PlagueIncEvolved&#95;20261114&#95;133620](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59523)|`2026-11-15 07:37:38`|
 |116|[internal&#45;stable version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59522)|`2026-11-15 07:37:38`|
+|3|[Steam ACC MNG](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59533)|`2026-11-15 16:37:42`|
+|1|[sakura fx](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59532)|`2026-11-15 16:37:42`|
+|5|[Rob Run DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59531)|`2026-11-15 16:37:42`|
+|6|[dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59530)|`2026-11-15 16:37:42`|
+|5|[dl&#95;external&#95;v6&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59529)|`2026-11-15 16:37:42`|
+|4|[VeoxDMARobRun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59528)|`2026-11-15 16:37:42`|
+|1|[MW3 Spec Ops Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59527)|`2026-11-15 16:37:42`|
+|14|[w10 internal version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59526)|`2026-11-15 16:37:42`|
+|1|[Wardogs DMA LITE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59525)|`2026-11-15 16:37:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[share custom killeffect files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781007-share-custom-killeffect-files.html)|`2026-11-15 16:19:00`|`Counter-Strike 2`|
 |[Need help with kernel injector &#40;EAC blocking dllmain trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781379-help-kernel-injector-eac-blocking-dllmain-trigger.html)|`2026-11-15 15:11:00`|`Anti-Cheat Research`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-11-15 15:09:00`|`Counter-Strike 2`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-15 15:04:00`|`Wardogs`|
