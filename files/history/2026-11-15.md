@@ -41,9 +41,17 @@
 |1|[MW3 Spec Ops Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59527)|`2026-11-15 16:37:42`|
 |14|[w10 internal version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59526)|`2026-11-15 16:37:42`|
 |1|[Wardogs DMA LITE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59525)|`2026-11-15 16:37:42`|
+|1|[PAYDAY 3 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59548)|`2026-11-15 23:37:40`|
+|1|[Deep Rock Galactic &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59547)|`2026-11-15 23:37:40`|
+|2|[Deep Rock Galactic: Rogue Core &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59546)|`2026-11-15 23:37:40`|
+|3|[Milo &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59535)|`2026-11-15 23:37:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;OW2&#93; Unleashed DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780397-ow2-unleashed-dma.html)|`2026-11-15 23:36:00`|`Overwatch`|
+|[SCPSL hwid spoofer detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/781423-scpsl-hwid-spoofer-detected.html)|`2026-11-15 23:33:00`|`C and C++`|
+|[PointBlank Log AntiCheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/769872-pointblank-log-anticheat.html)|`2026-11-15 23:29:00`|`Anti-Cheat Research`|
+|[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-11-15 23:18:00`|`Other MMORPG and Strategy`|
 |[ROB RUN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781531-rob-run-help.html)|`2026-11-15 22:27:00`|`Other FPS Games`|
 |[AVA SDK dump &#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alliance-of-valiant-arms/770777-ava-sdk-dump.html)|`2026-11-15 22:19:00`|`Alliance of Valiant Arms`|
 |[has javeline Trace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781558-javeline-trace.html)|`2026-11-15 21:34:00`|`Apex Legends`|
