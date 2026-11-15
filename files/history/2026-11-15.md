@@ -44,6 +44,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Latest Release: War Thunder Internal Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/774826-release-war-thunder-internal-cheat.html)|`2026-11-15 17:28:00`|`Other MMORPG and Strategy`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-15 17:24:00`|`Marvel Rivals`|
+|[Star Wars Galactic Racer SWGRHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/780746-star-wars-galactic-racer-swgrhook.html)|`2026-11-15 17:24:00`|`Other Games`|
+|[BSProject — theHunter Internal &#40;Silent Aim, Bullet Time, ESP, Trail X&#45;ray & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780168-bsproject-thehunter-internal-silent-aim-bullet-time-esp-trail-ray.html)|`2026-11-15 17:16:00`|`Other FPS Games`|
+|[Pixelsurf &#43; Silent &#43; Pixelfinder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781443-pixelsurf-silent-pixelfinder.html)|`2026-11-15 17:15:00`|`Counter-Strike 2`|
+|[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-15 17:10:00`|`Other MMORPG and Strategy`|
 |[share custom killeffect files](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781007-share-custom-killeffect-files.html)|`2026-11-15 16:19:00`|`Counter-Strike 2`|
 |[Need help with kernel injector &#40;EAC blocking dllmain trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781379-help-kernel-injector-eac-blocking-dllmain-trigger.html)|`2026-11-15 15:11:00`|`Anti-Cheat Research`|
 |[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-11-15 15:09:00`|`Counter-Strike 2`|
