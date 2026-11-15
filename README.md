@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How played dupe item in Rob Run?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781324-played-dupe-item-rob-run.html)|`2026-11-15 08:36:00`|`Other FPS Games`|
+|[MW3 Spec Ops Overlay &#45; Aimbot, ESP, Mem Hacks, Campaign & More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare-3-a/781494-mw3-spec-ops-overlay-aimbot-esp-mem-hacks-campaign.html)|`2026-11-15 08:16:00`|`Call of Duty: Modern Warfare 3`|
+|[ANYONE GOT A ESP/AIMBOT/RADAR FOR ROS LEGACY?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ros-releases/775055-esp-aimbot-radar-ros-legacy.html)|`2026-11-15 08:00:00`|`RoS Releases`|
 |[Regarding the addition of dynamic encryption in DMZ mode](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/781156-regarding-addition-dynamic-encryption-dmz-mode.html)|`2026-11-15 07:32:00`|`Call of Duty: Black Ops 7`|
 |[TF2 botox &#124; movement cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/781252-tf2-botox-movement-cheat.html)|`2026-11-15 07:30:00`|`Team Fortress 2`|
 |[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-15 07:16:00`|`Counter-Strike 2`|
