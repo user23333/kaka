@@ -27,6 +27,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-16 02:31:00`|`Call of Duty: Black Ops 7`|
+|[Rob Run Eac emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781327-rob-run-eac-emulator.html)|`2026-11-16 02:24:00`|`Other FPS Games`|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-11-16 02:19:00`|`Other FPS Games`|
 |[External Code Execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/781585-external-code-execution.html)|`2026-11-16 01:38:00`|`Call of Duty: Black Ops 7`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-16 01:30:00`|`Payday 3`|
 |[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run-reversal-structs-offsets.html)|`2026-11-16 01:30:00`|`Other FPS Games`|
