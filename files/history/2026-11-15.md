@@ -35,6 +35,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need help with kernel injector &#40;EAC blocking dllmain trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781379-help-kernel-injector-eac-blocking-dllmain-trigger.html)|`2026-11-15 15:11:00`|`Anti-Cheat Research`|
+|[Essentials External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/743326-essentials-external.html)|`2026-11-15 15:09:00`|`Counter-Strike 2`|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-15 15:04:00`|`Wardogs`|
 |[VeoxDMA Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780960-veoxdma-rob-run.html)|`2026-11-15 14:37:00`|`Other FPS Games`|
 |[hypervisor base](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780252-hypervisor-base.html)|`2026-11-15 14:30:00`|`Anti-Cheat Research`|
 |[DayZ Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/104269-dayz-reversal-structs-offsets.html)|`2026-11-15 14:18:00`|`DayZ SA`|
