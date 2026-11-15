@@ -35,6 +35,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[questions about linux internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769421-questions-linux-internal.html)|`2026-11-15 10:32:00`|`Counter-Strike 2`|
+|[Unturned Internal Injection &#43; Undetected Custom Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/768815-unturned-internal-injection-undetected-custom-cheat.html)|`2026-11-15 10:27:00`|`Other FPS Games`|
+|[Unturned GodlyWare cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/769786-unturned-godlyware-cheat.html)|`2026-11-15 10:26:00`|`Other FPS Games`|
+|[BSProject — KCD2 Internal &#40;Auto Combat, Dice Bot, Quest ESP, Horse Autopilot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/781371-bsproject-kcd2-internal-auto-combat-dice-bot-quest-esp-horse-autopilot.html)|`2026-11-15 10:13:00`|`Other Single Player Games`|
+|[JCarpenters Toxic Commando Rain Reach's UnlockAllTool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/743397-jcarpenters-toxic-commando-rain-reachs-unlockalltool.html)|`2026-11-15 10:10:00`|`Other FPS Games`|
 |[Borderlands 4 internal trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/775397-borderlands-4-internal-trainer.html)|`2026-11-15 09:35:00`|`Other Single Player Games`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-15 09:29:00`|`Tom Clancy's The Division`|
 |[internal offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781490-internal-offsets.html)|`2026-11-15 09:23:00`|`Counter-Strike 2`|
