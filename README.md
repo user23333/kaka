@@ -27,6 +27,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-16 01:30:00`|`Payday 3`|
+|[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779959-rob-run-reversal-structs-offsets.html)|`2026-11-16 01:30:00`|`Other FPS Games`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-16 01:28:00`|`Other MMORPG and Strategy`|
+|[recoil script &#45; Verify Game files patched](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781108-recoil-script-verify-game-files-patched.html)|`2026-11-16 01:22:00`|`Rainbow Six Siege`|
+|[dma firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781581-dma-firmware.html)|`2026-11-16 01:20:00`|`Rust`|
+|[Gigabyte TPM spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768191-gigabyte-tpm-spoof.html)|`2026-11-16 01:18:00`|`Anti-Cheat Research`|
 |[Battleye Ark Ascended](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/770222-battleye-ark-ascended.html)|`2026-11-16 00:31:00`|`Anti-Cheat Research`|
 |[Where Winds Meet &#124; Lua Script/s](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/730963-winds-meet-lua-script.html)|`2026-11-16 00:30:00`|`Other MMORPG and Strategy`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-16 00:21:00`|`Other FPS Games`|
