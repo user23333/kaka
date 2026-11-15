@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[has javeline Trace?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781558-javeline-trace.html)|`2026-11-15 21:34:00`|`Apex Legends`|
+|[Metro Trilogy Trainers — 2033 Redux / Last Light Redux / Exodus EE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755719-metro-trilogy-trainers-2033-redux-light-redux-exodus-ee.html)|`2026-11-15 21:18:00`|`Other Games`|
+|[Web Based Radar](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781355-web-based-radar.html)|`2026-11-15 21:16:00`|`Rust`|
 |[Deep Rock Galactic Trainers &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781550-deep-rock-galactic-trainers-steam.html)|`2026-11-15 20:37:00`|`Other Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-15 20:28:00`|`Apex Legends`|
 |[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-15 20:26:00`|`Other Games`|
