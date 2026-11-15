@@ -27,6 +27,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSProject — KCD2 Internal &#40;Auto Combat, Dice Bot, Quest ESP, Horse Autopilot & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/781371-bsproject-kcd2-internal-auto-combat-dice-bot-quest-esp-horse-autopilot.html)|`2026-11-16 03:37:00`|`Other Single Player Games`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-16 03:35:00`|`Counter-Strike 2 Releases`|
+|[TLI:Effects &#45; Torchlight Infinite Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/781599-tli-effects-torchlight-infinite-multihack.html)|`2026-11-16 03:30:00`|`Other MMORPG and Strategy`|
+|[Steam Overlay Present hook — pointer swap method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/756415-steam-overlay-hook-pointer-swap-method.html)|`2026-11-16 03:13:00`|`Anti-Cheat Research`|
+|[Shinoko&#45;NIKKE &#91; Goddess of Victory: Nikke Cheat &#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/744217-shinoko-nikke-goddess-victory-nikke-cheat.html)|`2026-11-16 03:06:00`|`Other MMORPG and Strategy`|
 |[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-16 02:31:00`|`Call of Duty: Black Ops 7`|
 |[Rob Run Eac emulator](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781327-rob-run-eac-emulator.html)|`2026-11-16 02:24:00`|`Other FPS Games`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-11-16 02:19:00`|`Other FPS Games`|
