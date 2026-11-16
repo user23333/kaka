@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Looking to go internal what does the AC checks for](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780337-looking-internal-ac-checks.html)|`2026-11-17 04:31:00`|`Overwatch`|
+|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-17 04:31:00`|`Other FPS Games`|
+|[SCP : Secret Lab Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/757902-scp-secret-lab-dump.html)|`2026-11-17 04:24:00`|`Other FPS Games`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-11-17 04:22:00`|`Call of Duty: Black Ops 7`|
+|[Cs Ext SkinChange Zero rpm](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780670-cs-ext-skinchange-zero-rpm.html)|`2026-11-17 04:21:00`|`Counter-Strike 2`|
+|[FIvem Lua execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781754-fivem-lua-execution.html)|`2026-11-17 04:20:00`|`Alternative Online Mods`|
 |[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780973-external-robrun-cheat.html)|`2026-11-17 03:23:00`|`Other FPS Games`|
 |[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-17 03:19:00`|`Anti-Cheat Research`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-17 03:18:00`|`Counter-Strike 2`|
