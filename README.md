@@ -33,6 +33,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780973-external-robrun-cheat.html)|`2026-11-17 03:23:00`|`Other FPS Games`|
+|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-17 03:19:00`|`Anti-Cheat Research`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-17 03:18:00`|`Counter-Strike 2`|
+|[GONE FISHING — INTERNAL MOD MENU](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780193-gone-fishing-internal-mod-menu.html)|`2026-11-17 03:18:00`|`Other FPS Games`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-11-17 03:15:00`|`Battlefield 4`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-17 03:14:00`|`Escape from Tarkov`|
+|[SC Dropper mod](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/773649-sc-dropper-mod.html)|`2026-11-17 03:14:00`|`HELLDIVERS 2`|
+|[External fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781773-external-fortnite.html)|`2026-11-17 03:12:00`|`Other FPS Games`|
 |[how does eac detect hwid spoofing  and how could i bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/781869-eac-detect-hwid-spoofing-bypass.html)|`2026-11-17 01:36:00`|`PC Hardware`|
 |[VeoxDMA Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780960-veoxdma-rob-run.html)|`2026-11-17 01:35:00`|`Other FPS Games`|
 |[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-17 01:31:00`|`Other Games`|
