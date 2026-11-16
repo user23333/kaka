@@ -12,6 +12,7 @@
 |12|[&#91;Release&#93; YimMenuV2 Backup &#40;Enhanced&#41; – continued build &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780512-release-yimmenuv2-backup-enhanced-continued-build-source.html)|`2026-11-16 00:37:37`|`grand-theft-auto-v`|
 |8|[any free uni eac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780553-free-uni-eac-bypass.html)|`2026-11-16 00:37:37`|`anti-cheat-research`|
 |10|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-16 08:37:37`|`other-fps-games`|
+|0|[Rob Run Internal Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781200-rob-run-internal-tutorial.html)|`2026-11-16 16:37:43`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -47,9 +48,14 @@
 |1|[9&#46;1 Europe & Americas ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59565)|`2026-11-16 15:37:42`|
 |2|[Arkhan Reloaded New Update](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59564)|`2026-11-16 15:37:42`|
 |1|[ShawarmaTrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59563)|`2026-11-16 15:37:42`|
+|1|[Wardogs S3 geometry assets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59577)|`2026-11-16 16:37:43`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-16 16:29:00`|`Anti-Cheat Research`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-16 16:13:00`|`Wardogs`|
+|[Showcase your ESP / Visuals](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605571-showcase-esp-visuals.html)|`2026-11-16 16:06:00`|`Counter-Strike 2`|
+|[Cheat Engine Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781786-cheat-engine-version.html)|`2026-11-16 16:02:00`|`General Programming and Reversing`|
 |[third person aim orbit at close range](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781609-third-person-aim-orbit-close-range.html)|`2026-11-16 15:33:00`|`General Programming and Reversing`|
 |[Shawarma Legends OP &#91;EXTERNAL&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781604-shawarma-legends-op-external.html)|`2026-11-16 15:25:00`|`Other Games`|
 |[questions about linux internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/769421-questions-linux-internal.html)|`2026-11-16 15:23:00`|`Counter-Strike 2`|
