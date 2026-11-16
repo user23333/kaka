@@ -43,6 +43,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Raceless NEP kernel driver bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/781565-raceless-nep-kernel-driver-bypass.html)|`2026-11-16 14:20:00`|`Marvel Rivals`|
+|[Chance of getting sued](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780755-chance-getting-sued.html)|`2026-11-16 14:14:00`|`Counter-Strike 2`|
+|[Windows Kernel Driver Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/742461-windows-kernel-driver-temp-spoofer.html)|`2026-11-16 13:44:00`|`Anti-Cheat Research`|
 |[Gmod cheats for DarkRP? &#40;as of 11/13/2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/781225-gmod-cheats-darkrp-11-13-2026-a.html)|`2026-11-16 13:22:00`|`Garry's Mod`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-16 13:07:00`|`Overwatch`|
 |[Enlisted ESP Internal &#45;&#45; basic 2d boxes, source &#43; binary](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/756677-enlisted-esp-internal-basic-2d-boxes-source-binary.html)|`2026-11-16 12:47:00`|`Other FPS Games`|
