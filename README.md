@@ -52,6 +52,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI workflow for reverse&#45;engineering/game hacking in Unreal Engine 4&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781800-ai-workflow-reverse-engineering-game-hacking-unreal-engine-4-a.html)|`2026-11-16 21:36:00`|`General Programming and Reversing`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-16 21:28:00`|`Tom Clancy's The Division`|
+|[Metro Trilogy Trainers — 2033 Redux / Last Light Redux / Exodus EE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/755719-metro-trilogy-trainers-2033-redux-light-redux-exodus-ee.html)|`2026-11-16 21:25:00`|`Other Games`|
+|[Rust/EAC 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/768850-rust-eac-2026-a.html)|`2026-11-16 21:15:00`|`Rust`|
 |[KCD2 MP &#124; Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781795-kcd2-mp-simple-esp.html)|`2026-11-16 20:28:00`|`Other Games`|
 |[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-11-16 18:52:00`|`Other FPS Games`|
 |[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-11-16 17:58:00`|`DayZ SA`|
