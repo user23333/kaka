@@ -43,6 +43,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Escape from tarkov cheat for Rust dev](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/769584-escape-tarkov-cheat-rust-dev.html)|`2026-11-16 10:43:00`|`Escape from Tarkov`|
+|[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-16 10:42:00`|`Counter-Strike 2`|
 |[Hyper&#45;V Virtualization and Low&#45;Level Detection Research in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778815-hyper-virtualization-low-level-detection-research-apex-legends.html)|`2026-11-16 10:34:00`|`Apex Legends`|
 |[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-16 10:29:00`|`Tom Clancy's The Division`|
 |[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781742-rob-run-external.html)|`2026-11-16 10:28:00`|`Other FPS Games`|
