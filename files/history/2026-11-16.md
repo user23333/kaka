@@ -52,6 +52,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[KCD2 MP &#124; Simple ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781795-kcd2-mp-simple-esp.html)|`2026-11-16 20:28:00`|`Other Games`|
 |[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-11-16 18:52:00`|`Other FPS Games`|
 |[DayZ DMA ESP &#43; Radar &#40;source&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/777875-dayz-dma-esp-radar-source.html)|`2026-11-16 17:58:00`|`DayZ SA`|
 |[&#91;Release&#93; PokéSurvivor Mod Panel Boss Spawns, Treasure Boxes & Automation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777028-release-pok-survivor-mod-panel-boss-spawns-treasure-boxes-automation.html)|`2026-11-16 17:28:00`|`Other Games`|
