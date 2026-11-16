@@ -33,6 +33,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Anyone Know how Rob bans work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781594-rob-bans.html)|`2026-11-17 07:31:00`|`Other FPS Games`|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-17 07:30:00`|`Counter-Strike 2 Releases`|
+|[Killing Floor 2 Fully Featured External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773915-killing-floor-2-featured-external.html)|`2026-11-17 07:30:00`|`Other Games`|
+|[ARMA Reforger Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arma-3-a/499858-arma-reforger-reversal-structs-offsets.html)|`2026-11-17 07:28:00`|`ARMA 3`|
+|[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-17 07:17:00`|`HELLDIVERS 2`|
 |[ROB RUN HELP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781531-rob-run-help.html)|`2026-11-17 06:31:00`|`Other FPS Games`|
 |[Can anyone solve the issue with encrypted containers in DMZ mode? I am willing to pay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/781895-solve-issue-encrypted-containers-dmz-mode-am-willing-pay.html)|`2026-11-17 06:23:00`|`Call of Duty: Black Ops 7`|
 |[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-11-17 06:08:00`|`Other FPS Games`|
