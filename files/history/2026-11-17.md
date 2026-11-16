@@ -33,6 +33,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BloodStrike Offsets, PlayerData & SDK &#40;16 October 2026&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777277-bloodstrike-offsets-playerdata-sdk-16-october-2026-a.html)|`2026-11-17 05:57:00`|`Other FPS Games`|
+|[Aniimo Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/772018-aniimo-reversal-structs-offsets.html)|`2026-11-17 05:46:00`|`Other MMORPG and Strategy`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-17 05:44:00`|`Rust`|
+|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781742-rob-run-external.html)|`2026-11-17 05:44:00`|`Other FPS Games`|
+|[Aion2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/726048-aion2-reversal-structs-offsets.html)|`2026-11-17 05:44:00`|`Other MMORPG and Strategy`|
+|[BSProject — theHunter Internal &#40;Silent Aim, Bullet Time, ESP, Trail X&#45;ray & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780168-bsproject-thehunter-internal-silent-aim-bullet-time-esp-trail-ray.html)|`2026-11-17 05:41:00`|`Other FPS Games`|
+|[dma firmware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781581-dma-firmware.html)|`2026-11-17 05:41:00`|`Rust`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-17 05:22:00`|`Other FPS Games`|
 |[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-17 05:17:00`|`Counter-Strike 2`|
 |[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781907-rob-run-external.html)|`2026-11-17 05:13:00`|`Other FPS Games`|
