@@ -43,6 +43,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Hyper&#45;V Virtualization and Low&#45;Level Detection Research in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778815-hyper-virtualization-low-level-detection-research-apex-legends.html)|`2026-11-16 10:34:00`|`Apex Legends`|
+|[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-16 10:29:00`|`Tom Clancy's The Division`|
+|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781742-rob-run-external.html)|`2026-11-16 10:28:00`|`Other FPS Games`|
+|[Force Shot & Air&#45;shooting understanding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781761-force-shot-air-shooting-understanding.html)|`2026-11-16 10:14:00`|`Counter-Strike 2`|
+|[Deep Rock Galactic Trainers &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781550-deep-rock-galactic-trainers-steam.html)|`2026-11-16 10:12:00`|`Other Games`|
+|[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-16 10:06:00`|`Counter-Strike 2`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-16 10:04:00`|`Deadlock`|
 |[the isle &#45; internal esp src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780543-isle-internal-esp-src.html)|`2026-11-16 09:34:00`|`Other FPS Games`|
 |[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-16 09:21:00`|`Other FPS Games`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-16 09:17:00`|`Other Games`|
