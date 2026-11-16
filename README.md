@@ -11,6 +11,7 @@
 |1|[help Rob Run EAC Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780465-help-rob-run-eac-bypass.html)|`2026-11-16 00:37:37`|`other-fps-games`|
 |12|[&#91;Release&#93; YimMenuV2 Backup &#40;Enhanced&#41; – continued build &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780512-release-yimmenuv2-backup-enhanced-continued-build-source.html)|`2026-11-16 00:37:37`|`grand-theft-auto-v`|
 |8|[any free uni eac bypass?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780553-free-uni-eac-bypass.html)|`2026-11-16 00:37:37`|`anti-cheat-research`|
+|10|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-16 08:37:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -42,6 +43,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-16 08:30:00`|`Apex Legends`|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-16 08:12:00`|`Wardogs`|
+|[What game got you into cheating?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/771454-game-cheating.html)|`2026-11-16 08:11:00`|`Off Topic`|
+|[ROB RUN — Offsets & Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781224-rob-run-offsets-structs.html)|`2026-11-16 08:09:00`|`Other FPS Games`|
+|[Old hwid ban](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/780665-hwid-ban.html)|`2026-11-16 07:58:00`|`Escape from Tarkov`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-16 07:11:00`|`Other FPS Games`|
 |[FIvem Lua execution](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781754-fivem-lua-execution.html)|`2026-11-16 07:09:00`|`Alternative Online Mods`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-11-16 07:01:00`|`Grand Theft Auto V`|
