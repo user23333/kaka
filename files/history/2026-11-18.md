@@ -27,9 +27,16 @@
 |1|[Not Quite Dead Full SDK part2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59600)|`2026-11-18 00:37:40`|
 |1|[left4dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59623)|`2026-11-18 03:37:44`|
 |1|[LonelyCheatL4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59614)|`2026-11-18 04:37:47`|
+|7|[EAC Pattern and Offsets v3&#46;2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59628)|`2026-11-18 06:37:41`|
+|1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59624)|`2026-11-18 06:37:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-11-18 06:29:00`|`Other FPS Games`|
+|[Lethal Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/777365-lethal-company-internal.html)|`2026-11-18 06:28:00`|`Lethal Company`|
+|[&#91;Internal&#93; ROB RUN freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782102-internal-rob-run-freecam.html)|`2026-11-18 06:18:00`|`Other FPS Games`|
+|[Detection VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782016-detection-vac.html)|`2026-11-18 06:11:00`|`Counter-Strike 2`|
+|[Bodycam Vision &#40;BCVision&#41; Internal &#40;Auto Update, Aimbot, Silent Aim, ESP, Plus More&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770769-bodycam-vision-bcvision-internal-auto-update-aimbot-silent-aim-esp-plus.html)|`2026-11-18 06:10:00`|`Other FPS Games`|
 |[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-18 05:36:00`|`Other FPS Games`|
 |[ROTK Anticheat update 16/11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/781794-rotk-anticheat-update-16-11-a.html)|`2026-11-18 05:34:00`|`H1Z1`|
 |[CSS Mikuware Internal Multihack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/766417-css-mikuware-internal-multihack.html)|`2026-11-18 05:28:00`|`CounterStrike Source`|
