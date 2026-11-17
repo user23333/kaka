@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-18 07:35:00`|`Wardogs`|
+|[PAYDAY 3 &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/781210-payday-3-steam-internal-trainer.html)|`2026-11-18 07:35:00`|`Payday 3`|
+|[how to make Silent Aim Bypass AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/771103-silent-aim-bypass-ac.html)|`2026-11-18 07:26:00`|`Alternative Online Mods`|
+|[yoheloudestiny1 Internal Win10 22h2 fix for shellcode error](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781760-yoheloudestiny1-internal-win10-22h2-fix-shellcode-error.html)|`2026-11-18 07:18:00`|`Other FPS Games`|
 |[HD2 ED Merge Reforged 7&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/774740-hd2-ed-merge-reforged-7-1-1-a.html)|`2026-11-18 06:48:00`|`HELLDIVERS 2`|
 |[Darkest Hour: Europe '44&#45;'45](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782105-darkest-hour-europe-44-45-a.html)|`2026-11-18 06:46:00`|`Other FPS Games`|
 |[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-18 06:46:00`|`Counter-Strike 2`|
