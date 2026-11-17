@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ground Branch internal &#45; Charcoal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/775134-ground-branch-internal-charcoal.html)|`2026-11-17 20:33:00`|`Other FPS Games`|
+|[ZED ZONE Trainer &#40;vibecode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781999-zed-zone-trainer-vibecode.html)|`2026-11-17 20:32:00`|`Other FPS Games`|
+|[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-17 20:27:00`|`Anti-Cheat Research`|
 |[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-17 19:35:00`|`Other FPS Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-11-17 19:35:00`|`Counter-Strike 2 Releases`|
 |[Rob Run full dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781990-rob-run-dump.html)|`2026-11-17 19:31:00`|`Other FPS Games`|
