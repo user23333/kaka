@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-17 19:35:00`|`Other FPS Games`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-11-17 19:35:00`|`Counter-Strike 2 Releases`|
+|[Rob Run full dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781990-rob-run-dump.html)|`2026-11-17 19:31:00`|`Other FPS Games`|
+|[SPT &#40;Spt&#45;Aki&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/759480-spt-spt-aki-cheat-menu.html)|`2026-11-17 19:22:00`|`Escape from Tarkov`|
 |[Jester in Unforgiving Castles External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781984-jester-unforgiving-castles-external.html)|`2026-11-17 18:33:00`|`Other Games`|
 |[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781983-surroundead.html)|`2026-11-17 18:27:00`|`Other FPS Games`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-17 18:21:00`|`Other Games`|
