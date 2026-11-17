@@ -31,9 +31,14 @@
 |10|[5&#46;7&#46;4&#45;533731&#43;&#43;&#43;Wardogs&#43;Live&#45;Wardogs&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59586)|`2026-11-17 01:37:38`|
 |29|[Rob Run Packet Studio 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59571)|`2026-11-17 01:37:38`|
 |1|[Not Quite Dead Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59597)|`2026-11-17 12:29:04`|
+|37|[Rob Run Packet Studio Edit&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59573)|`2026-11-17 13:37:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-17 13:32:00`|`Wardogs`|
+|[Cheat Engine Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781786-cheat-engine-version.html)|`2026-11-17 13:30:00`|`General Programming and Reversing`|
+|[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-11-17 13:20:00`|`Marvel Rivals`|
+|[NEW FORGE METHOD &#40;NO RECOIL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781245-forge-method-recoil.html)|`2026-11-17 12:55:00`|`Rainbow Six Siege`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-17 12:26:00`|`Overwatch`|
 |[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-11-17 12:25:00`|`ARC Raiders`|
 |[Not Quite Dead Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781945-dead-sdk.html)|`2026-11-17 12:19:00`|`Other FPS Games`|
