@@ -26,9 +26,15 @@
 |5|[Character meshes for Wargogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59603)|`2026-11-18 00:37:40`|
 |1|[Not Quite Dead Full SDK part2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59600)|`2026-11-18 00:37:40`|
 |1|[left4dead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59623)|`2026-11-18 03:37:44`|
+|1|[LonelyCheatL4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59614)|`2026-11-18 04:37:47`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lonely Cheat &#45; L4D2, Legit Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781872-lonely-cheat-l4d2-legit-cheat.html)|`2026-11-18 04:37:00`|`Other FPS Games`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-11-18 04:35:00`|`Other FPS Games`|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-18 04:31:00`|`Call of Duty: Black Ops 7`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-18 04:24:00`|`Tom Clancy's The Division`|
+|[Forge Method Perfect Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781769-forge-method-perfect-recoil.html)|`2026-11-18 04:24:00`|`Rainbow Six Siege`|
 |[Bodycam Internal &#40;ESP, Godmode, Rapid Fire, No Recoil&#46;&#46;&#46;&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/661430-bodycam-internal-esp-godmode-rapid-fire-recoil.html)|`2026-11-18 03:32:00`|`Other FPS Games`|
 |[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-18 03:15:00`|`Wardogs`|
 |[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-18 03:14:00`|`Other MMORPG and Strategy`|
