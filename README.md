@@ -33,6 +33,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-17 09:28:00`|`Wardogs`|
+|[Cryo by Valko Studios ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754998-cryo-valko-studios-esp.html)|`2026-11-17 09:27:00`|`Other FPS Games`|
+|[Need help with kernel injector &#40;EAC blocking dllmain trigger&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781379-help-kernel-injector-eac-blocking-dllmain-trigger.html)|`2026-11-17 09:20:00`|`Anti-Cheat Research`|
+|[jlov internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/768709-jlov-internal.html)|`2026-11-17 09:12:00`|`Overwatch`|
 |[Aqueline &#124; x64 &#124; Undetectable](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/757460-aqueline-x64-undetectable.html)|`2026-11-17 08:29:00`|`Garry's Mod`|
 |[Arena Breakout Infinite internal DLL overlay detect](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777793-arena-breakout-infinite-internal-dll-overlay-detect.html)|`2026-11-17 08:17:00`|`Other FPS Games`|
 |[ROTK ESP &#43; AIMBOT &#43; OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/h1z1/779401-rotk-esp-aimbot-offsets.html)|`2026-11-17 07:59:00`|`H1Z1`|
