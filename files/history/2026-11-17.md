@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Why you create great cheats for free?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/781950-create-cheats-free.html)|`2026-11-17 17:30:00`|`Off Topic`|
+|[KDStealer &#45; Intercepting a loaded driver via the iqvw64e vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781974-kdstealer-intercepting-loaded-driver-via-iqvw64e-vulnerability.html)|`2026-11-17 17:14:00`|`Anti-Cheat Research`|
+|[Heirloom Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769537-heirloom-changer.html)|`2026-11-17 16:54:00`|`Apex Legends`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-17 16:38:00`|`Other MMORPG and Strategy`|
 |[External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781968-external-chams.html)|`2026-11-17 16:27:00`|`Wardogs`|
 |[lumen bo7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/781964-lumen-bo7.html)|`2026-11-17 16:24:00`|`Call of Duty: Black Ops 7`|
 |[FamilyMenu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/red-dead-redemption-2-a/631659-familymenu.html)|`2026-11-17 15:36:00`|`Red Dead Redemption 2`|
