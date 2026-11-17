@@ -33,9 +33,21 @@
 |29|[Rob Run Packet Studio 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59571)|`2026-11-17 01:37:38`|
 |1|[Not Quite Dead Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59597)|`2026-11-17 12:29:04`|
 |37|[Rob Run Packet Studio Edit&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59573)|`2026-11-17 13:37:49`|
+|1|[Character meshes for Wargogs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59603)|`2026-11-17 23:37:33`|
+|1|[skeetcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59598)|`2026-11-17 23:37:33`|
+|90|[ncHoax&#95;UC&#95;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59596)|`2026-11-17 23:37:33`|
+|1|[Wardogs DMA LITE](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59595)|`2026-11-17 23:37:33`|
+|1|[CatGoesFishingTrainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59594)|`2026-11-17 23:37:33`|
+|1|[FM27 Real&#45;Time Editor &#40;FMRTE&#45;Inspired&#41; v1&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59593)|`2026-11-17 23:37:33`|
+|2|[Cumhook Krillion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59592)|`2026-11-17 23:37:33`|
+|1|[Essentialsv1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59591)|`2026-11-17 23:37:33`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rob Run exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781888-rob-run-exploit.html)|`2026-11-17 23:33:00`|`Other FPS Games`|
+|[EAC &#40;fortnite&#41; internal function calls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781256-eac-fortnite-internal-function-calls.html)|`2026-11-17 23:28:00`|`Anti-Cheat Research`|
+|[Cumhook Krillion](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781820-cumhook-krillion.html)|`2026-11-17 23:28:00`|`Other Games`|
+|[&#91;Release&#93; FM27 Real&#45;Time Editor &#40;FMRTE&#45;Inspired&#41; &#45; Open Source &#40;8 Languages&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781905-release-fm27-real-time-editor-fmrte-inspired-source-8-languages.html)|`2026-11-17 23:22:00`|`Other Games`|
 |[Need some offsets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/781884-offsets.html)|`2026-11-17 22:23:00`|`Introductions`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-17 22:12:00`|`ARC Raiders`|
 |[Assetto Corsa EVO Grip and Power Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/782002-assetto-corsa-evo-grip-power-hack.html)|`2026-11-17 21:27:00`|`Other Games`|
