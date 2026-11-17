@@ -36,6 +36,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Need some offsets&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/781884-offsets.html)|`2026-11-17 22:23:00`|`Introductions`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-17 22:12:00`|`ARC Raiders`|
 |[Assetto Corsa EVO Grip and Power Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/782002-assetto-corsa-evo-grip-power-hack.html)|`2026-11-17 21:27:00`|`Other Games`|
 |[MHUR Updated External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/746738-mhur-updated-external.html)|`2026-11-17 21:17:00`|`Other FPS Games`|
 |[kirkware](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/751029-kirkware.html)|`2026-11-17 21:12:00`|`Garry's Mod`|
