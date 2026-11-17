@@ -30,9 +30,14 @@
 |2|[Sollerto&#95;de&#95;STcheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59587)|`2026-11-17 01:37:38`|
 |10|[5&#46;7&#46;4&#45;533731&#43;&#43;&#43;Wardogs&#43;Live&#45;Wardogs&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59586)|`2026-11-17 01:37:38`|
 |29|[Rob Run Packet Studio 1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59571)|`2026-11-17 01:37:38`|
+|1|[Not Quite Dead Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59597)|`2026-11-17 12:29:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-17 12:26:00`|`Overwatch`|
+|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/777569-arc-raiders-dma.html)|`2026-11-17 12:25:00`|`ARC Raiders`|
+|[Not Quite Dead Full SDK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781945-dead-sdk.html)|`2026-11-17 12:19:00`|`Other FPS Games`|
+|[Simple external ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/775324-simple-external-esp.html)|`2026-11-17 12:19:00`|`Call of Duty: Black Ops 7`|
 |[Lethal Company Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/lethal-company/777365-lethal-company-internal.html)|`2026-11-17 11:30:00`|`Lethal Company`|
 |[Rust Cheat That Works UD For Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/780644-rust-cheat-ud.html)|`2026-11-17 11:24:00`|`Rust`|
 |[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-17 11:16:00`|`Counter-Strike 2`|
