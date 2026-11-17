@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Jester in Unforgiving Castles External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/781984-jester-unforgiving-castles-external.html)|`2026-11-17 18:33:00`|`Other Games`|
+|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781983-surroundead.html)|`2026-11-17 18:27:00`|`Other FPS Games`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-17 18:21:00`|`Other Games`|
+|[AoE4 Devs Gonna Ban You? What If the Replay Shows Nothing :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/781982-aoe4-devs-gonna-ban-replay.html)|`2026-11-17 18:12:00`|`Age of Empires`|
 |[Why you create great cheats for free?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/781950-create-cheats-free.html)|`2026-11-17 17:30:00`|`Off Topic`|
 |[KDStealer &#45; Intercepting a loaded driver via the iqvw64e vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781974-kdstealer-intercepting-loaded-driver-via-iqvw64e-vulnerability.html)|`2026-11-17 17:14:00`|`Anti-Cheat Research`|
 |[Heirloom Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/769537-heirloom-changer.html)|`2026-11-17 16:54:00`|`Apex Legends`|
