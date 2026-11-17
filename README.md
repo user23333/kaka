@@ -11,6 +11,7 @@
 |38|[Rust Cheat That Works UD For Now](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/780644-rust-cheat-ud.html)|`2026-11-17 00:37:43`|`rust`|
 |0|[Rob Run Internal Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781200-rob-run-internal-tutorial.html)|`2026-11-17 00:37:43`|`other-fps-games`|
 |22|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781518-rob-run-dma-source.html)|`2026-11-17 00:37:43`|`other-fps-games`|
+|12|[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781907-rob-run-external.html)|`2026-11-17 14:37:37`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -35,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Ban Situation – Need Advice](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/780396-ban-situation-advice.html)|`2026-11-17 14:30:00`|`Rust`|
+|[Rust EAC – New Macro Detection? MACKU Scripts Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781328-rust-eac-macro-detection-macku-scripts-detected.html)|`2026-11-17 14:22:00`|`Rust`|
+|[Dead By Daylight Trainer Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781425-dead-daylight-trainer-cheat.html)|`2026-11-17 14:21:00`|`Other FPS Games`|
+|[estkcheat working src](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-global-offensive/781955-estkcheat-src.html)|`2026-11-17 14:18:00`|`Counterstrike Global Offensive`|
 |[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-17 13:32:00`|`Wardogs`|
 |[Cheat Engine Version](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781786-cheat-engine-version.html)|`2026-11-17 13:30:00`|`General Programming and Reversing`|
 |[Brighter outline color MOD for color BOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/762729-brighter-outline-color-mod-color-bot.html)|`2026-11-17 13:20:00`|`Marvel Rivals`|
