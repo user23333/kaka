@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-19 03:37:00`|`Maple Story`|
+|[Rob Run &#45; ban for E&#45;0503 SecurityViolationError](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782249-rob-run-ban-0503-securityviolationerror.html)|`2026-11-19 03:35:00`|`Other FPS Games`|
+|[Force Skills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/782248-force-skills.html)|`2026-11-19 03:33:00`|`Payday 2`|
+|[offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/782247-offsets.html)|`2026-11-19 03:30:00`|`Apex Legends`|
+|[MW4 server culling &#45; RIP to walls](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/774931-mw4-server-culling-rip-walls.html)|`2026-11-19 03:29:00`|`Call of Duty: Black Ops 7`|
+|[Brawlhalla Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781774-brawlhalla-spoofer.html)|`2026-11-19 03:29:00`|`Anti-Cheat Research`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-19 03:28:00`|`Tom Clancy's The Division`|
+|[Any know who UC founder is?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/496897-uc-founder.html)|`2026-11-19 03:26:00`|`Forum General`|
 |[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781917-rob-run-dupe-glitch-question.html)|`2026-11-19 02:33:00`|`Other FPS Games`|
 |[Enki Injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/772982-enki-injector.html)|`2026-11-19 02:28:00`|`Programming for Beginners`|
 |[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781907-rob-run-external.html)|`2026-11-19 02:26:00`|`Other FPS Games`|
