@@ -29,9 +29,14 @@
 |1|[LonelyCheatL4d2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59614)|`2026-11-18 04:37:47`|
 |7|[EAC Pattern and Offsets v3&#46;2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59628)|`2026-11-18 06:37:41`|
 |1|[5&#46;5&#46;4&#45;0&#43;UE5&#45;Bodycam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59624)|`2026-11-18 06:37:41`|
+|18|[ROB RUN updated](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59615)|`2026-11-18 18:37:51`|
+|98|[robrunexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59613)|`2026-11-18 18:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Brownie &#45; Realm of The Mad God Modded Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/769179-brownie-realm-mad-god-modded-client.html)|`2026-11-18 18:35:00`|`Other MMORPG and Strategy`|
+|[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-18 18:35:00`|`Other MMORPG and Strategy`|
+|[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-11-18 18:23:00`|`Apex Legends`|
 |[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-18 17:35:00`|`Counter-Strike 2`|
 |[NVIDIA overlay shared&#45;mapping exploit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/775945-nvidia-overlay-shared-mapping-exploit.html)|`2026-11-18 17:34:00`|`Anti-Cheat Research`|
 |[Internal Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782164-internal-silent-aim.html)|`2026-11-18 17:21:00`|`Alternative Online Mods`|
