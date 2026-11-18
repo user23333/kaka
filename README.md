@@ -27,9 +27,13 @@
 |1|[Clean version to build](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59648)|`2026-11-19 01:37:36`|
 |2|[Diep&#46;io Auto Farm Bot V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59647)|`2026-11-19 01:37:36`|
 |1|[fortnite&#95;ninja&#95;skinchanger&#95;ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59621)|`2026-11-19 05:37:36`|
+|2|[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59622)|`2026-11-19 05:56:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777466-bloodstrike-dma.html)|`2026-11-19 05:53:00`|`Other FPS Games`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-11-19 05:48:00`|`Counter-Strike 2 Releases`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-19 05:47:00`|`Other MMORPG and Strategy`|
 |[general driver questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781508-driver-questions.html)|`2026-11-19 05:36:00`|`General Programming and Reversing`|
 |[overwatch2 skin changer internal dll free working 2026 no virus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/782066-overwatch2-skin-changer-internal-dll-free-2026-virus.html)|`2026-11-19 05:30:00`|`Overwatch`|
 |[Rob Run &#45; Connection terminated by anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782254-rob-run-connection-terminated-anti-cheat.html)|`2026-11-19 05:30:00`|`Other FPS Games`|
