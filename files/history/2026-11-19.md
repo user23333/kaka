@@ -11,6 +11,7 @@
 |28|[ROB RUN — Offsets & Structs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781224-rob-run-offsets-structs.html)|`2026-11-19 00:37:35`|`other-fps-games`|
 |52|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781518-rob-run-dma-source.html)|`2026-11-19 00:37:35`|`other-fps-games`|
 |2|[Rob Run Internal Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781200-rob-run-internal-tutorial.html)|`2026-11-19 00:37:35`|`other-fps-games`|
+|19|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-19 06:37:42`|`other-fps-games`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,9 +29,14 @@
 |2|[Diep&#46;io Auto Farm Bot V2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59647)|`2026-11-19 01:37:36`|
 |1|[fortnite&#95;ninja&#95;skinchanger&#95;ow2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59621)|`2026-11-19 05:37:36`|
 |2|[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59622)|`2026-11-19 05:56:49`|
+|1|[Force Skills](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59658)|`2026-11-19 06:37:42`|
+|1|[hands over cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59625)|`2026-11-19 06:37:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Call of Duty: Modern Warfare 4 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/767939-call-duty-modern-warfare-4-reversal-structs-offsets.html)|`2026-11-19 06:37:00`|`Call of Duty: Black Ops 7`|
+|[Hands Over Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/782139-hands-internal.html)|`2026-11-19 06:34:00`|`Other Games`|
+|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781518-rob-run-dma-source.html)|`2026-11-19 06:24:00`|`Other FPS Games`|
 |[Bloodstrike DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777466-bloodstrike-dma.html)|`2026-11-19 05:53:00`|`Other FPS Games`|
 |[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-11-19 05:48:00`|`Counter-Strike 2 Releases`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-19 05:47:00`|`Other MMORPG and Strategy`|
