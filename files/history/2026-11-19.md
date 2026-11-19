@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 unlock all memory corrupt fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781262-r6-unlock-memory-corrupt-fix.html)|`2026-11-19 13:31:00`|`Rainbow Six Siege`|
+|[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-11-19 13:27:00`|`Forum General`|
+|[Apex third party viewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781789-apex-third-party-viewing.html)|`2026-11-19 13:27:00`|`Apex Legends`|
+|[schedule one Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782314-schedule-internal-cheat.html)|`2026-11-19 13:17:00`|`Other FPS Games`|
 |[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781861-resource-dumper.html)|`2026-11-19 12:36:00`|`Alternative Online Mods`|
 |[Darkest Hour: Europe '44&#45;'45](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782105-darkest-hour-europe-44-45-a.html)|`2026-11-19 12:33:00`|`Other FPS Games`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-19 12:32:00`|`Counter-Strike 2`|
