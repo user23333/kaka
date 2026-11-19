@@ -42,9 +42,11 @@
 |13|[Release v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59636)|`2026-11-19 12:37:41`|
 |2|[PAYDAY 3 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59635)|`2026-11-19 12:37:41`|
 |43|[Rob Run RVA dump Build 26726105](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59669)|`2026-11-19 21:06:37`|
+|1|[Deep Rock Galactic](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59637)|`2026-11-19 23:38:06`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs Launcher](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/782339-wardogs-launcher.html)|`2026-11-19 23:27:00`|`Wardogs`|
 |[necromancer x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782350-necromancer-x64.html)|`2026-11-19 22:34:00`|`Team Fortress 2`|
 |[x64 CGlobalVarsBase reversed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782351-x64-cglobalvarsbase-reversed.html)|`2026-11-19 22:25:00`|`Garry's Mod`|
 |[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-19 22:20:00`|`Other MMORPG and Strategy`|
