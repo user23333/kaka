@@ -44,6 +44,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RADAR 2D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782331-radar-2d.html)|`2026-11-19 18:34:00`|`Alternative Online Mods`|
+|[Mobile Legends iOS — Drone View, Minimap, Auto Retri & More &#40;No Jailbreak&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ios/782330-mobile-legends-ios-drone-view-minimap-auto-retri-jailbreak.html)|`2026-11-19 18:03:00`|`iOS`|
+|[Help, how to start in reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/781919-help-start-reverse-engineering.html)|`2026-11-19 17:49:00`|`Programming for Beginners`|
 |[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-19 17:19:00`|`Wardogs`|
 |[external methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/781881-external-methods.html)|`2026-11-19 17:09:00`|`Overwatch`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-11-19 16:25:00`|`Other FPS Games`|
