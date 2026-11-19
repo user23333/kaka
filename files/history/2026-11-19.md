@@ -36,9 +36,14 @@
 |0|[Shinoko&#45;Resonance&#45;Solstice v0&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59627)|`2026-11-19 07:37:37`|
 |21|[rob run new dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59626)|`2026-11-19 07:37:37`|
 |1|[Xenon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59654)|`2026-11-19 08:37:51`|
+|17|[ncHoax&#95;UC&#95;Release&#95;W10&W11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59630)|`2026-11-19 09:37:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[AI AIMBOT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlebit-remastered/781482-ai-aimbot.html)|`2026-11-19 09:29:00`|`BattleBit Remastered`|
+|[High&#45;Performance FindPattern](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-and-c-/779912-performance-findpattern.html)|`2026-11-19 09:26:00`|`C and C++`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-11-19 09:19:00`|`Alternative Online Mods`|
+|[AoE4 Devs Gonna Ban You? What If the Replay Shows Nothing :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/781982-aoe4-devs-gonna-ban-replay.html)|`2026-11-19 09:18:00`|`Age of Empires`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-11-19 08:24:00`|`THE FINALS`|
 |[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-11-19 08:21:00`|`Deadlock`|
 |[Dump of 3889](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/782287-dump-3889-a.html)|`2026-11-19 08:09:00`|`Grand Theft Auto V`|
