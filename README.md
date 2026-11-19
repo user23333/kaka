@@ -37,9 +37,16 @@
 |21|[rob run new dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59626)|`2026-11-19 07:37:37`|
 |1|[Xenon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59654)|`2026-11-19 08:37:51`|
 |17|[ncHoax&#95;UC&#95;Release&#95;W10&W11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59630)|`2026-11-19 09:37:42`|
+|1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59634)|`2026-11-19 11:27:46`|
+|1|[ZedZone Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59633)|`2026-11-19 11:27:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ETERSPIRE Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780272-eterspire-toolkit.html)|`2026-11-19 11:22:00`|`Other MMORPG and Strategy`|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-19 11:10:00`|`Other MMORPG and Strategy`|
+|[ZED ZONE Trainer &#40;vibecode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781999-zed-zone-trainer-vibecode.html)|`2026-11-19 11:02:00`|`Other FPS Games`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-19 10:54:00`|`ARC Raiders`|
+|[eac injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/736216-eac-injector.html)|`2026-11-19 10:48:00`|`Anti-Cheat Research`|
 |[Project Zomboid Internal &#124; PienZ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/767513-project-zomboid-internal-pienz.html)|`2026-11-19 10:28:00`|`Other MMORPG and Strategy`|
 |[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782299-rob-run-roulette-cheat.html)|`2026-11-19 10:08:00`|`Other FPS Games`|
 |[BloodStrike Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/777503-bloodstrike-reversal-structs-offsets.html)|`2026-11-19 09:43:00`|`Other FPS Games`|
