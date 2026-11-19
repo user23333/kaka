@@ -45,6 +45,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[necromancer x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782350-necromancer-x64.html)|`2026-11-19 22:34:00`|`Team Fortress 2`|
+|[x64 CGlobalVarsBase reversed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782351-x64-cglobalvarsbase-reversed.html)|`2026-11-19 22:25:00`|`Garry's Mod`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-19 22:20:00`|`Other MMORPG and Strategy`|
+|[list of hypervisor detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782201-list-hypervisor-detections.html)|`2026-11-19 22:06:00`|`Anti-Cheat Research`|
 |[KdMapper 3&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/764374-kdmapper-3-0-a.html)|`2026-11-19 21:24:00`|`Anti-Cheat Research`|
 |[AOE4 new offset](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/779175-aoe4-offset.html)|`2026-11-19 21:18:00`|`Age of Empires`|
 |[Super Animal Royale Hack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/778218-super-animal-royale-hack.html)|`2026-11-19 20:39:00`|`Other FPS Games`|
