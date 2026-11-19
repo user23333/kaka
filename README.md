@@ -12,6 +12,7 @@
 |52|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781518-rob-run-dma-source.html)|`2026-11-19 00:37:35`|`other-fps-games`|
 |2|[Rob Run Internal Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781200-rob-run-internal-tutorial.html)|`2026-11-19 00:37:35`|`other-fps-games`|
 |19|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-19 06:37:42`|`other-fps-games`|
+|20|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-19 08:37:51`|`anti-cheat-research`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -34,9 +35,14 @@
 |1|[virtue&#45;strike&#46;lua](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59660)|`2026-11-19 07:37:37`|
 |0|[Shinoko&#45;Resonance&#45;Solstice v0&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59627)|`2026-11-19 07:37:37`|
 |21|[rob run new dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59626)|`2026-11-19 07:37:37`|
+|1|[Xenon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59654)|`2026-11-19 08:37:51`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-11-19 08:24:00`|`THE FINALS`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-11-19 08:21:00`|`Deadlock`|
+|[Dump of 3889](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/782287-dump-3889-a.html)|`2026-11-19 08:09:00`|`Grand Theft Auto V`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-11-19 08:03:00`|`Battlefield 4`|
 |[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-11-19 07:34:00`|`Marvel Rivals`|
 |[KDStealer &#45; Intercepting a loaded driver via the iqvw64e vulnerability](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781974-kdstealer-intercepting-loaded-driver-via-iqvw64e-vulnerability.html)|`2026-11-19 07:28:00`|`Anti-Cheat Research`|
 |[Cryo by Valko Studios ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754998-cryo-valko-studios-esp.html)|`2026-11-19 07:26:00`|`Other FPS Games`|
