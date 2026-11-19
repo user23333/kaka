@@ -42,9 +42,18 @@
 |1|[CRYO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59663)|`2026-11-20 04:38:04`|
 |3|[Mod menu release v&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59662)|`2026-11-20 04:38:04`|
 |3|[Yuri&#45;Aniimo v1&#46;4&#46;8 Hotfix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59664)|`2026-11-20 05:33:56`|
+|2|[Femsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59673)|`2026-11-20 06:38:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[necromancer x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782350-necromancer-x64.html)|`2026-11-20 06:34:00`|`Team Fortress 2`|
+|[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-11-20 06:31:00`|`Counter-Strike 2`|
+|[Forge Method Perfect Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781769-forge-method-perfect-recoil.html)|`2026-11-20 06:30:00`|`Rainbow Six Siege`|
+|[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-20 06:27:00`|`Marvel Rivals`|
+|[schedule one Internal cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782314-schedule-internal-cheat.html)|`2026-11-20 06:25:00`|`Other FPS Games`|
+|[RiggaRun Rob Run dma web menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782256-riggarun-rob-run-dma-web-menu.html)|`2026-11-20 06:22:00`|`ROB RUN`|
+|[VeoxDMA Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780960-veoxdma-rob-run.html)|`2026-11-20 06:22:00`|`ROB RUN`|
+|[NGS&#45;X / GRAP · MapleStory Classic World — Research Handover](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/779388-ngs-grap-maplestory-classic-world-research-handover.html)|`2026-11-20 06:20:00`|`Maple Story`|
 |[bypassing ring 3 anticheat with vibecoding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/782413-bypassing-ring-3-anticheat-vibecoding.html)|`2026-11-20 05:32:00`|`Off Topic`|
 |[getting offsets / dumping game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782411-getting-offsets-dumping-game.html)|`2026-11-20 05:26:00`|`Rainbow Six Siege`|
 |[Pixel Gun 3D internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755339-pixel-gun-3d-internal.html)|`2026-11-20 05:26:00`|`Other FPS Games`|
