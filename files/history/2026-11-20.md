@@ -43,9 +43,25 @@
 |3|[Mod menu release v&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59662)|`2026-11-20 04:38:04`|
 |3|[Yuri&#45;Aniimo v1&#46;4&#46;8 Hotfix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59664)|`2026-11-20 05:33:56`|
 |2|[Femsense](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59673)|`2026-11-20 06:38:19`|
+|3|[Natural Selection 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59690)|`2026-11-20 07:38:11`|
+|3|[openchanger v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59688)|`2026-11-20 07:38:11`|
+|1|[Melvor2Pilot&#95;Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59687)|`2026-11-20 07:38:11`|
+|86|[robrunexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59684)|`2026-11-20 07:38:11`|
+|6|[fix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59683)|`2026-11-20 07:38:11`|
+|4|[Azec Source code ](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59682)|`2026-11-20 07:38:11`|
+|4|[PlayDeception&#45;GMODHook&#45;0&#46;19&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59680)|`2026-11-20 07:38:11`|
+|2|[ZB2Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59679)|`2026-11-20 07:38:11`|
+|4|[PUBG EXTERNAL&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59676)|`2026-11-20 07:38:11`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MURDERERS & ROBBERS NEW ALBUM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782440-murderers-robbers-album.html)|`2026-11-20 07:34:00`|`Team Fortress 2`|
+|[I need a good lawyer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782439-lawyer.html)|`2026-11-20 07:33:00`|`Team Fortress 2`|
+|[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-20 07:31:00`|`Counter-Strike 2`|
+|[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-11-20 07:29:00`|`Forum General`|
+|[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-11-20 07:29:00`|`Team Fortress 2`|
+|[Xenon Rob Run internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782198-xenon-rob-run-internal.html)|`2026-11-20 07:28:00`|`ROB RUN`|
+|[R1J1N &#35;1 CHARLIE KIRK ASSASSINATION](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782438-r1j1n-1-charlie-kirk-assassination.html)|`2026-11-20 07:25:00`|`Team Fortress 2`|
 |[necromancer x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782350-necromancer-x64.html)|`2026-11-20 06:34:00`|`Team Fortress 2`|
 |[Counter&#45;Strike 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/576077-counter-strike-2-reversal-structs-offsets.html)|`2026-11-20 06:31:00`|`Counter-Strike 2`|
 |[Forge Method Perfect Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781769-forge-method-perfect-recoil.html)|`2026-11-20 06:30:00`|`Rainbow Six Siege`|
