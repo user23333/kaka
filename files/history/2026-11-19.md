@@ -39,9 +39,15 @@
 |17|[ncHoax&#95;UC&#95;Release&#95;W10&W11](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59630)|`2026-11-19 09:37:42`|
 |1|[Eterspire Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59634)|`2026-11-19 11:27:46`|
 |1|[ZedZone Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59633)|`2026-11-19 11:27:46`|
+|13|[Release v2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59636)|`2026-11-19 12:37:41`|
+|2|[PAYDAY 3 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59635)|`2026-11-19 12:37:41`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781861-resource-dumper.html)|`2026-11-19 12:36:00`|`Alternative Online Mods`|
+|[Darkest Hour: Europe '44&#45;'45](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782105-darkest-hour-europe-44-45-a.html)|`2026-11-19 12:33:00`|`Other FPS Games`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-19 12:32:00`|`Counter-Strike 2`|
+|[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-19 12:19:00`|`Payday 3`|
 |[ETERSPIRE Toolkit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780272-eterspire-toolkit.html)|`2026-11-19 11:22:00`|`Other MMORPG and Strategy`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-19 11:10:00`|`Other MMORPG and Strategy`|
 |[ZED ZONE Trainer &#40;vibecode&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781999-zed-zone-trainer-vibecode.html)|`2026-11-19 11:02:00`|`Other FPS Games`|
