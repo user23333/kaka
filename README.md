@@ -38,9 +38,18 @@
 |1|[mobile&#45;legends&#45;fck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59672)|`2026-11-20 01:38:11`|
 |1|[Dumper7SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59668)|`2026-11-20 01:38:11`|
 |1|[ADVT devirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59649)|`2026-11-20 02:38:03`|
+|34|[dl&#95;external&#95;v6&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59665)|`2026-11-20 04:38:04`|
+|1|[CRYO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59663)|`2026-11-20 04:38:04`|
+|3|[Mod menu release v&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59662)|`2026-11-20 04:38:04`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-20 04:35:00`|`Counter-Strike 2 Releases`|
+|[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-20 04:35:00`|`Wardogs`|
+|[overwatch2 skin changer internal dll free working 2026 no virus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/782066-overwatch2-skin-changer-internal-dll-free-2026-virus.html)|`2026-11-20 04:29:00`|`Overwatch`|
+|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-20 04:28:00`|`ROB RUN`|
+|[I feel like I can't do Game Hacking&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/782278-feel-cant-game-hacking.html)|`2026-11-20 04:19:00`|`General Programming and Reversing`|
+|[do anticheats flag from signed drivers?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768463-anticheats-flag-signed-drivers.html)|`2026-11-20 04:06:00`|`Anti-Cheat Research`|
 |[BEST RECOIL CONTROL IS BACK &#40;Azec&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782391-recoil-control-azec.html)|`2026-11-20 03:32:00`|`Rainbow Six Siege`|
 |[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-20 03:30:00`|`Other MMORPG and Strategy`|
 |[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782299-rob-run-roulette-cheat.html)|`2026-11-20 03:25:00`|`ROB RUN`|
