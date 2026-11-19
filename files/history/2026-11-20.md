@@ -37,9 +37,17 @@
 |5|[Discord ImGui overlay PoC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59675)|`2026-11-20 01:38:11`|
 |1|[mobile&#45;legends&#45;fck](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59672)|`2026-11-20 01:38:11`|
 |1|[Dumper7SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59668)|`2026-11-20 01:38:11`|
+|1|[ADVT devirt](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59649)|`2026-11-20 02:38:03`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-20 02:37:00`|`ROB RUN`|
+|[Rust EAC – New Macro Detection? MACKU Scripts Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781328-rust-eac-macro-detection-macku-scripts-detected.html)|`2026-11-20 02:35:00`|`Rust`|
+|[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781907-rob-run-external.html)|`2026-11-20 02:32:00`|`ROB RUN`|
+|[Any Cheats available that don't require VBS/Core Isolation etc&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782386-cheats-available-dont-require-vbs-core-isolation-etc.html)|`2026-11-20 02:29:00`|`ROB RUN`|
+|[playdeception &#45; GMODHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782381-playdeception-gmodhook.html)|`2026-11-20 02:29:00`|`Garry's Mod`|
+|[external methods](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/781881-external-methods.html)|`2026-11-20 02:25:00`|`Overwatch`|
+|[Easy Way to Disable DSE &#40;All Windows Versions&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781196-easy-disable-dse-windows-versions.html)|`2026-11-20 02:22:00`|`Anti-Cheat Research`|
 |[Poltergeist Internal &#45; Legit &#40;No rage&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/779724-poltergeist-internal-legit-rage.html)|`2026-11-20 01:37:00`|`Counter-Strike 2`|
 |[Dead By Daylight Trainer Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781425-dead-daylight-trainer-cheat.html)|`2026-11-20 01:37:00`|`Other FPS Games`|
 |[NEW FORGE METHOD &#40;NO RECOIL&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/781245-forge-method-recoil.html)|`2026-11-20 01:36:00`|`Rainbow Six Siege`|
