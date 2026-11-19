@@ -44,6 +44,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[mw19 injector that works for mw3 aswell](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-modern-warfare/771080-mw19-injector-mw3-aswell.html)|`2026-11-19 20:36:00`|`Call of Duty: Modern Warfare`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-19 20:33:00`|`Other Games`|
+|[ROB Run aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782344-rob-run-aimbot.html)|`2026-11-19 20:23:00`|`Other FPS Games`|
+|[&#91;ROB RUN&#93; Aimbot write path &#43; reaching the recoil updater — which holds?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782343-rob-run-aimbot-write-path-reaching-recoil-updater-holds.html)|`2026-11-19 20:21:00`|`Other FPS Games`|
 |[Rob Run offsets &#43; chains &#40;REQUEST&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782336-rob-run-offsets-chains-request.html)|`2026-11-19 19:37:00`|`Other FPS Games`|
 |[is it possible to be undetected on intel hypervisors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782008-undetected-intel-hypervisors.html)|`2026-11-19 19:35:00`|`Anti-Cheat Research`|
 |[BodyCam Unlock All Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779241-bodycam-unlock-tool.html)|`2026-11-19 19:35:00`|`Other FPS Games`|
