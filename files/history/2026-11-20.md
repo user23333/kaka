@@ -41,9 +41,17 @@
 |34|[dl&#95;external&#95;v6&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59665)|`2026-11-20 04:38:04`|
 |1|[CRYO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59663)|`2026-11-20 04:38:04`|
 |3|[Mod menu release v&#46;4&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59662)|`2026-11-20 04:38:04`|
+|3|[Yuri&#45;Aniimo v1&#46;4&#46;8 Hotfix](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59664)|`2026-11-20 05:33:56`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[bypassing ring 3 anticheat with vibecoding](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/782413-bypassing-ring-3-anticheat-vibecoding.html)|`2026-11-20 05:32:00`|`Off Topic`|
+|[getting offsets / dumping game](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782411-getting-offsets-dumping-game.html)|`2026-11-20 05:26:00`|`Rainbow Six Siege`|
+|[Pixel Gun 3D internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755339-pixel-gun-3d-internal.html)|`2026-11-20 05:26:00`|`Other FPS Games`|
+|[Melvor Idle 2 &#45; AIO Pilot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-single-player-games/782409-melvor-idle-2-aio-pilot.html)|`2026-11-20 05:18:00`|`Other Single Player Games`|
+|[Dark RUN &#40;ROB RUN&#41; — Full ESP, Aim &#43; Skeleton &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781280-dark-run-rob-run-esp-aim-skeleton-external.html)|`2026-11-20 05:16:00`|`ROB RUN`|
+|[Insta Search](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782408-insta-search.html)|`2026-11-20 05:04:00`|`ROB RUN`|
+|[I Try create my first cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782406-try-create-cheat.html)|`2026-11-20 05:02:00`|`ROB RUN`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-20 04:35:00`|`Counter-Strike 2 Releases`|
 |[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-20 04:35:00`|`Wardogs`|
 |[overwatch2 skin changer internal dll free working 2026 no virus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/782066-overwatch2-skin-changer-internal-dll-free-2026-virus.html)|`2026-11-20 04:29:00`|`Overwatch`|
