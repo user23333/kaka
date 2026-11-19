@@ -41,6 +41,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BEST RECOIL CONTROL IS BACK &#40;Azec&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782391-recoil-control-azec.html)|`2026-11-20 03:32:00`|`Rainbow Six Siege`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-20 03:30:00`|`Other MMORPG and Strategy`|
+|[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782299-rob-run-roulette-cheat.html)|`2026-11-20 03:25:00`|`ROB RUN`|
+|[Wardogs Radar DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781366-wardogs-radar-dma.html)|`2026-11-20 03:25:00`|`Wardogs`|
+|[&#91;Internal&#93; ROB RUN freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782102-internal-rob-run-freecam.html)|`2026-11-20 03:17:00`|`ROB RUN`|
+|[cs2 internal srs help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781182-cs2-internal-srs-help.html)|`2026-11-20 03:15:00`|`Counter-Strike 2`|
+|[Model frost](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782147-model-frost.html)|`2026-11-20 03:09:00`|`Counter-Strike 2`|
 |[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-20 02:37:00`|`ROB RUN`|
 |[Rust EAC – New Macro Detection? MACKU Scripts Detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/781328-rust-eac-macro-detection-macku-scripts-detected.html)|`2026-11-20 02:35:00`|`Rust`|
 |[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781907-rob-run-external.html)|`2026-11-20 02:32:00`|`ROB RUN`|
