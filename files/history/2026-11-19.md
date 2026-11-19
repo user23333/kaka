@@ -44,6 +44,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rob Run offsets &#43; chains &#40;REQUEST&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782336-rob-run-offsets-chains-request.html)|`2026-11-19 19:37:00`|`Other FPS Games`|
+|[is it possible to be undetected on intel hypervisors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782008-undetected-intel-hypervisors.html)|`2026-11-19 19:35:00`|`Anti-Cheat Research`|
+|[BodyCam Unlock All Tool](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/779241-bodycam-unlock-tool.html)|`2026-11-19 19:35:00`|`Other FPS Games`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-19 19:28:00`|`Marvel Rivals`|
+|[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782334-rob-run-internal.html)|`2026-11-19 19:21:00`|`Other FPS Games`|
 |[RADAR 2D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782331-radar-2d.html)|`2026-11-19 18:34:00`|`Alternative Online Mods`|
 |[Mobile Legends iOS — Drone View, Minimap, Auto Retri & More &#40;No Jailbreak&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/ios/782330-mobile-legends-ios-drone-view-minimap-auto-retri-jailbreak.html)|`2026-11-19 18:03:00`|`iOS`|
 |[Help, how to start in reverse engineering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/programming-for-beginners/781919-help-start-reverse-engineering.html)|`2026-11-19 17:49:00`|`Programming for Beginners`|
