@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overwatch2 skin changer internal dll free working 2026 no virus](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/782066-overwatch2-skin-changer-internal-dll-free-2026-virus.html)|`2026-11-21 07:32:00`|`Overwatch`|
+|[hyperion/Byfron detection question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/782146-hyperion-byfron-detection-question.html)|`2026-11-21 07:27:00`|`Roblox`|
+|[Wardogs DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/772332-wardogs-dma.html)|`2026-11-21 07:27:00`|`Wardogs`|
+|[necromancer x64](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782350-necromancer-x64.html)|`2026-11-21 07:26:00`|`Team Fortress 2`|
 |[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-21 06:37:00`|`ARC Raiders`|
 |[Cs2 external capabilitys&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782422-cs2-external-capabilitys.html)|`2026-11-21 06:36:00`|`Counter-Strike 2`|
 |[offsets for apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782366-offsets-apex.html)|`2026-11-21 06:12:00`|`Anti-Cheat Research`|
