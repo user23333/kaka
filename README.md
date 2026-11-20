@@ -21,6 +21,7 @@
 |29|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-20 01:38:11`|`rob-run`|
 |3|[Rob Run Internal Tutorial](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781200-rob-run-internal-tutorial.html)|`2026-11-20 01:38:11`|`rob-run`|
 |25|[Xenon Rob Run internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782198-xenon-rob-run-internal.html)|`2026-11-20 01:38:11`|`rob-run`|
+|13|[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782299-rob-run-roulette-cheat.html)|`2026-11-20 17:38:20`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -65,6 +66,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-20 17:34:00`|`Other FPS Games`|
+|[EAC Detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782521-eac-detections.html)|`2026-11-20 17:29:00`|`ROB RUN`|
+|[Wardogs AI cheat promt help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/780447-wardogs-ai-cheat-promt-help.html)|`2026-11-20 17:28:00`|`Wardogs`|
+|[wardogs 535678](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/782052-wardogs-535678-a.html)|`2026-11-20 17:24:00`|`Wardogs`|
+|[Call of Duty: Black Ops 7 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/718538-call-duty-black-ops-7-reversal-structs-offsets.html)|`2026-11-20 17:24:00`|`Call of Duty: Black Ops 7`|
 |[Apex third party viewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781789-apex-third-party-viewing.html)|`2026-11-20 16:33:00`|`Apex Legends`|
 |[December 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/781993-december-2026-motm-nominations.html)|`2026-11-20 16:33:00`|`Member of the Month`|
 |[th3fla asstistance&#45; steal admin setinfo &#95;pw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/782236-th3fla-asstistance-steal-admin-setinfo-_pw.html)|`2026-11-20 16:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
