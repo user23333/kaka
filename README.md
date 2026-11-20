@@ -54,9 +54,17 @@
 |4|[PUBG EXTERNAL&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59676)|`2026-11-20 07:38:11`|
 |1|[NiceTrainer v1&#46;4&#46;6 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59691)|`2026-11-20 09:38:15`|
 |1|[Wuthering Waves SDK &#45; 20/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59692)|`2026-11-20 11:15:45`|
+|4|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;11&#45;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59694)|`2026-11-20 12:38:16`|
+|7|[Marvel Rivals Parallax Updated 2026&#45;11&#45;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59693)|`2026-11-20 12:38:16`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Last Group Out &#45; Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782450-steam.html)|`2026-11-20 12:37:00`|`Other FPS Games`|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-20 12:36:00`|`Other FPS Games`|
+|[VANTIX SkinChanger&#40;Knives,Gloves,Agents,Stickers,Keychains&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/756621-vantix-skinchanger-knives-gloves-agents-stickers-keychains.html)|`2026-11-20 12:35:00`|`Counter-Strike 2 Releases`|
+|[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781861-resource-dumper.html)|`2026-11-20 12:32:00`|`Alternative Online Mods`|
+|[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-20 12:26:00`|`Other Games`|
+|[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-11-20 12:20:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-20 11:05:00`|`Other FPS Games`|
 |[&#91;SHOWCASE&#93; Fun AND/OR Unique Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782484-showcase-fun-unique-features.html)|`2026-11-20 11:01:00`|`ROB RUN`|
 |[Lunar Client Unlocker](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/minecraft/766159-lunar-client-unlocker.html)|`2026-11-20 11:01:00`|`Minecraft`|
