@@ -52,9 +52,16 @@
 |4|[PlayDeception&#45;GMODHook&#45;0&#46;19&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59680)|`2026-11-20 07:38:11`|
 |2|[ZB2Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59679)|`2026-11-20 07:38:11`|
 |4|[PUBG EXTERNAL&#46;exe](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59676)|`2026-11-20 07:38:11`|
+|1|[NiceTrainer v1&#46;4&#46;6 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59691)|`2026-11-20 09:38:15`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[The Adryan Pack &#45; Multiplayer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/star-wars-battlefront-2-a/694661-adryan-pack-multiplayer.html)|`2026-11-20 09:34:00`|`Star Wars Battlefront 2`|
+|[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781267-rob-run-internal.html)|`2026-11-20 09:27:00`|`ROB RUN`|
+|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-20 09:24:00`|`ROB RUN`|
+|[Wuthering Waves SDK &#45; 20/11/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782478-wuthering-waves-sdk-20-11-2026-a.html)|`2026-11-20 09:13:00`|`Other MMORPG and Strategy`|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-11-20 09:10:00`|`Other FPS Games`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-20 09:06:00`|`Deadlock`|
 |[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-20 08:33:00`|`Tom Clancy's The Division`|
 |[texture bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780285-texture-bug.html)|`2026-11-20 08:29:00`|`Counter-Strike 2`|
 |[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782436-chams.html)|`2026-11-20 08:28:00`|`Counter-Strike 2`|
