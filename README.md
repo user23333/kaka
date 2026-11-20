@@ -66,6 +66,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759853-temp-spoofer.html)|`2026-11-20 20:05:00`|`Anti-Cheat Research`|
 |[EAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/780414-eac.html)|`2026-11-20 18:22:00`|`Rust`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-11-20 18:20:00`|`Counter-Strike 2`|
 |[No Recoil](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782523-recoil.html)|`2026-11-20 18:11:00`|`ROB RUN`|
