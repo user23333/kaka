@@ -12,6 +12,7 @@
 |20|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-21 00:37:49`|`anti-cheat-research`|
 |3|[Fence — Rob Run External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781830-fence-rob-run-external-cheat.html)|`2026-11-21 00:37:49`|`rob-run`|
 |12|[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781917-rob-run-dupe-glitch-question.html)|`2026-11-21 02:37:54`|`rob-run`|
+|32|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-21 06:37:55`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -29,6 +30,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-21 06:37:00`|`ARC Raiders`|
+|[Cs2 external capabilitys&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782422-cs2-external-capabilitys.html)|`2026-11-21 06:36:00`|`Counter-Strike 2`|
+|[offsets for apex?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782366-offsets-apex.html)|`2026-11-21 06:12:00`|`Anti-Cheat Research`|
+|[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-21 05:56:00`|`Wardogs`|
+|[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782299-rob-run-roulette-cheat.html)|`2026-11-21 05:56:00`|`ROB RUN`|
 |[i want Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782616-silent-aim.html)|`2026-11-21 05:25:00`|`ROB RUN`|
 |[texture bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780285-texture-bug.html)|`2026-11-21 05:22:00`|`Counter-Strike 2`|
 |[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782619-seven-deadly-sins-origin.html)|`2026-11-21 05:22:00`|`Other MMORPG and Strategy`|
