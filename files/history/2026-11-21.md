@@ -11,6 +11,7 @@
 |16|[Rob Run Roulette cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782299-rob-run-roulette-cheat.html)|`2026-11-21 00:37:49`|`rob-run`|
 |20|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-21 00:37:49`|`anti-cheat-research`|
 |3|[Fence — Rob Run External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781830-fence-rob-run-external-cheat.html)|`2026-11-21 00:37:49`|`rob-run`|
+|12|[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781917-rob-run-dupe-glitch-question.html)|`2026-11-21 02:37:54`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -28,6 +29,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Run game without anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782537-run-game-anti-cheat.html)|`2026-11-21 02:37:00`|`ROB RUN`|
+|[Showcase &#45; The ultimate cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/age-of-empires/780561-showcase-ultimate-cheat.html)|`2026-11-21 02:27:00`|`Age of Empires`|
+|[Gigabyte TPM spoof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/768191-gigabyte-tpm-spoof.html)|`2026-11-21 02:23:00`|`Anti-Cheat Research`|
+|[The Isle Evrima Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/620239-isle-evrima-reversal-structs-offsets.html)|`2026-11-21 02:19:00`|`Other FPS Games`|
 |[Help me with AI cheat development please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/782160-help-ai-cheat-development-please.html)|`2026-11-21 01:34:00`|`General Programming and Reversing`|
 |[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-21 01:34:00`|`Overwatch`|
 |[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-21 01:33:00`|`ROB RUN`|
