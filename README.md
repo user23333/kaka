@@ -29,6 +29,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-21 05:01:00`|`Counter-Strike 2 Releases`|
+|[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-11-21 04:54:00`|`Other FPS Games`|
+|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-21 04:45:00`|`ROB RUN`|
 |[&#91;Internal&#93; ROB RUN freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782102-internal-rob-run-freecam.html)|`2026-11-21 04:19:00`|`ROB RUN`|
 |[Odysseus V1 MSCW Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/782586-odysseus-v1-mscw-trainer.html)|`2026-11-21 04:10:00`|`Maple Story`|
 |[Resource Dumper](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/781861-resource-dumper.html)|`2026-11-21 04:09:00`|`Alternative Online Mods`|
