@@ -55,6 +55,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-20 08:33:00`|`Tom Clancy's The Division`|
+|[texture bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780285-texture-bug.html)|`2026-11-20 08:29:00`|`Counter-Strike 2`|
+|[Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/782436-chams.html)|`2026-11-20 08:28:00`|`Counter-Strike 2`|
+|[DO😈 YOU🔥 WANNA🎉 PARTY💃 WITH👹 THE🔥 DEMONS😈  DO😈 YOU🔥 WANNA🎉 PARTY💃 WITH👹 T](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782460-wanna-party-demons-wanna-party.html)|`2026-11-20 08:25:00`|`Team Fortress 2`|
+|[DO YOU WANNA PARTY WITH THE DEMONS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782459-wanna-party-demons.html)|`2026-11-20 08:25:00`|`Team Fortress 2`|
+|[North Korean TF2 HvH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782458-north-korean-tf2-hvh.html)|`2026-11-20 08:22:00`|`Team Fortress 2`|
+|[PaintThinnerHvH](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782457-paintthinnerhvh.html)|`2026-11-20 08:21:00`|`Team Fortress 2`|
 |[MURDERERS & ROBBERS NEW ALBUM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782440-murderers-robbers-album.html)|`2026-11-20 07:34:00`|`Team Fortress 2`|
 |[I need a good lawyer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/782439-lawyer.html)|`2026-11-20 07:33:00`|`Team Fortress 2`|
 |[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-20 07:31:00`|`Counter-Strike 2`|
