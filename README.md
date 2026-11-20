@@ -66,6 +66,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/782540-overlay.html)|`2026-11-20 21:08:00`|`Rust`|
 |[Deadlock Help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/762369-deadlock-help.html)|`2026-11-20 20:43:00`|`Deadlock`|
 |[Run game without anti&#45;cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782537-run-game-anti-cheat.html)|`2026-11-20 20:40:00`|`ROB RUN`|
 |[Temp Spoofer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/759853-temp-spoofer.html)|`2026-11-20 20:05:00`|`Anti-Cheat Research`|
