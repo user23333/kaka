@@ -29,6 +29,14 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[i want Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782616-silent-aim.html)|`2026-11-21 05:25:00`|`ROB RUN`|
+|[texture bug](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780285-texture-bug.html)|`2026-11-21 05:22:00`|`Counter-Strike 2`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782619-seven-deadly-sins-origin.html)|`2026-11-21 05:22:00`|`Other MMORPG and Strategy`|
+|[External Skin Changer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782617-external-skin-changer.html)|`2026-11-21 05:21:00`|`ROB RUN`|
+|[Bullet Force Internal &#91;Release&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/782618-bullet-force-internal-release.html)|`2026-11-21 05:21:00`|`Other Games`|
+|[BEST RECOIL CONTROL IS BACK &#40;Azec&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782391-recoil-control-azec.html)|`2026-11-21 05:09:00`|`Rainbow Six Siege`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-21 05:09:00`|`Rust`|
+|[Which Nvidia streamproof works today?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782041-nvidia-streamproof.html)|`2026-11-21 05:05:00`|`Alternative Online Mods`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-21 05:01:00`|`Counter-Strike 2 Releases`|
 |[Bodycam Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/640993-bodycam-reversal-structs-offsets.html)|`2026-11-21 04:54:00`|`Other FPS Games`|
 |[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-21 04:45:00`|`ROB RUN`|
