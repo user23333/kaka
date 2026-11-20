@@ -56,9 +56,22 @@
 |1|[Wuthering Waves SDK &#45; 20/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59692)|`2026-11-20 11:15:45`|
 |4|[Marvel Rivals ESP/Aimbot &#45; Updated 2026&#45;11&#45;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59694)|`2026-11-20 12:38:16`|
 |7|[Marvel Rivals Parallax Updated 2026&#45;11&#45;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59693)|`2026-11-20 12:38:16`|
+|1|[LastGroupOut](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59700)|`2026-11-20 16:38:18`|
+|5|[Yuri&#45;Loftia v1&#46;1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59699)|`2026-11-20 16:38:18`|
+|1|[Kuro Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59698)|`2026-11-20 16:38:18`|
+|1|[Bugtopia Launcher v3&#46;5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59697)|`2026-11-20 16:38:18`|
+|1|[Bugtopia v3&#46;5&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59696)|`2026-11-20 16:38:18`|
+|2|[BloodStrike&#95;Internal&#95;steamV3&#46;6](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59695)|`2026-11-20 16:38:18`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Apex third party viewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781789-apex-third-party-viewing.html)|`2026-11-20 16:33:00`|`Apex Legends`|
+|[December 2026 MotM Nominations](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/member-of-the-month/781993-december-2026-motm-nominations.html)|`2026-11-20 16:33:00`|`Member of the Month`|
+|[th3fla asstistance&#45; steal admin setinfo &#95;pw](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-1-5-1-6-and-mods/782236-th3fla-asstistance-steal-admin-setinfo-_pw.html)|`2026-11-20 16:27:00`|`CounterStrike 1.5, 1.6 and Mods`|
+|[Abuse ACE&#45;ADVT driver for read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780261-abuse-ace-advt-driver-read-memory.html)|`2026-11-20 16:23:00`|`Anti-Cheat Research`|
+|[Delta Force:Hawk Ops Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/653290-delta-force-hawk-ops-reversal-structs-offsets.html)|`2026-11-20 16:21:00`|`Other FPS Games`|
+|[MAC addrеsseѕ spoofing in C&#35;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/c-/780765-mac-addr-sse-spoofing.html)|`2026-11-20 16:19:00`|`C#`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-20 16:17:00`|`Other MMORPG and Strategy`|
 |[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-11-20 15:34:00`|`Other FPS Games`|
 |[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-20 15:14:00`|`Wardogs`|
 |[MLBB OFFSETS 2&#46;2&#46;23&#46;12351](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/android/782428-mlbb-offsets-2-2-23-12351-a.html)|`2026-11-20 15:10:00`|`Android`|
