@@ -24,9 +24,16 @@
 |37|[Marvel Rivals Parallax Updated 2026&#45;11&#45;19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59693)|`2026-11-21 00:37:49`|
 |2|[Wuthering Waves SDK &#45; 20/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59692)|`2026-11-21 00:37:49`|
 |18|[NiceTrainer v1&#46;4&#46;6 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59691)|`2026-11-21 00:37:49`|
+|5|[AutoExtractor&#95;update&#95;profiles&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59702)|`2026-11-21 01:37:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help me with AI cheat development please](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/782160-help-ai-cheat-development-please.html)|`2026-11-21 01:34:00`|`General Programming and Reversing`|
+|[Overwatch 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/516727-overwatch-2-reversal-structs-offsets.html)|`2026-11-21 01:34:00`|`Overwatch`|
+|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-21 01:33:00`|`ROB RUN`|
+|[Cs Source Movement Recorder 64 bit](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counterstrike-source/761678-cs-source-movement-recorder-64-bit.html)|`2026-11-21 01:25:00`|`CounterStrike Source`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-21 01:24:00`|`Deadlock`|
+|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781518-rob-run-dma-source.html)|`2026-11-21 01:24:00`|`ROB RUN`|
 |[Dark RUN &#40;ROB RUN&#41; — Full ESP, Aim &#43; Skeleton &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781280-dark-run-rob-run-esp-aim-skeleton-external.html)|`2026-11-21 00:37:00`|`ROB RUN`|
 |[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781907-rob-run-external.html)|`2026-11-21 00:35:00`|`ROB RUN`|
 |[ROB RUN Reversal, Structs & Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/779959-rob-run-reversal-structs-offsets.html)|`2026-11-21 00:34:00`|`ROB RUN`|
