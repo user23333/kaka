@@ -27,9 +27,15 @@
 |2|[Wuthering Waves SDK &#45; 20/11/26](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59692)|`2026-11-21 00:37:49`|
 |18|[NiceTrainer v1&#46;4&#46;6 &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59691)|`2026-11-21 00:37:49`|
 |5|[AutoExtractor&#95;update&#95;profiles&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59702)|`2026-11-21 01:37:46`|
+|1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59705)|`2026-11-21 11:37:49`|
+|1|[KingModOverlay&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59701)|`2026-11-21 11:37:49`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Smite 2 internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/761921-smite-2-internal.html)|`2026-11-21 11:35:00`|`Other FPS Games`|
+|[Half Life 1 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/782518-half-life-1-cheat.html)|`2026-11-21 11:35:00`|`Half Life`|
+|[AION 2 — External ESP & Gathering](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777963-aion-2-external-esp-gathering.html)|`2026-11-21 11:24:00`|`Other MMORPG and Strategy`|
+|[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-21 11:24:00`|`Other FPS Games`|
 |[Rob Run exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781888-rob-run-exploit.html)|`2026-11-21 10:13:00`|`ROB RUN`|
 |[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/782667-hello.html)|`2026-11-21 09:59:00`|`Introductions`|
 |[EAC Emulator for Fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782347-eac-emulator-fortnite.html)|`2026-11-21 09:57:00`|`Anti-Cheat Research`|
