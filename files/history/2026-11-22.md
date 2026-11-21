@@ -12,6 +12,7 @@
 |12|[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781917-rob-run-dupe-glitch-question.html)|`2026-11-22 00:37:29`|`rob-run`|
 |10|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781742-rob-run-external.html)|`2026-11-22 00:37:29`|`rob-run`|
 |33|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-22 01:58:00`|`rob-run`|
+|109|[ROB RUN EXTERNAL &#45; new features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782768-rob-run-external-features.html)|`2026-11-22 05:37:36`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -37,6 +38,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Xenon Rob Run internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782198-xenon-rob-run-internal.html)|`2026-11-22 05:34:00`|`ROB RUN`|
+|[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2026-11-22 05:27:00`|`Other FPS Games`|
+|[Hyperion patch list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782827-hyperion-patch-list.html)|`2026-11-22 05:25:00`|`Anti-Cheat Research`|
+|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-22 05:25:00`|`ROB RUN`|
+|[what features do yall want](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782795-features-yall.html)|`2026-11-22 05:22:00`|`ROB RUN`|
 |[How do I get Wuthering Waves Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782726-wuthering-waves-offsets.html)|`2026-11-22 04:32:00`|`Other MMORPG and Strategy`|
 |[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-22 04:25:00`|`Other MMORPG and Strategy`|
 |[PhasmoVision — External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/780361-phasmovision-external-overlay.html)|`2026-11-22 04:18:00`|`Phasmophobia`|
