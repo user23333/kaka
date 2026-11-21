@@ -35,9 +35,12 @@
 |2|[lootline 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59735)|`2026-11-22 02:37:38`|
 |4|[Mod menu release v&#46;4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59743)|`2026-11-22 03:37:32`|
 |1|[Openchanger v 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59744)|`2026-11-22 04:37:42`|
+|94|[robexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59746)|`2026-11-22 06:37:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Payday&#45;3 Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/656417-payday-3-trainer.html)|`2026-11-22 06:36:00`|`Payday 3`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-22 06:29:00`|`Other MMORPG and Strategy`|
 |[Xenon Rob Run internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782198-xenon-rob-run-internal.html)|`2026-11-22 05:34:00`|`ROB RUN`|
 |[Outlast Trials Tool &#45; Internal Cheat With Auto Inject](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/699404-outlast-trials-tool-internal-cheat-auto-inject.html)|`2026-11-22 05:27:00`|`Other FPS Games`|
 |[Hyperion patch list](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782827-hyperion-patch-list.html)|`2026-11-22 05:25:00`|`Anti-Cheat Research`|
