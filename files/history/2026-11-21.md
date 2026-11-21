@@ -32,6 +32,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Wardogs AI cheat promt help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/780447-wardogs-ai-cheat-promt-help.html)|`2026-11-21 14:31:00`|`Wardogs`|
+|[Ignore Downed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782662-ignore.html)|`2026-11-21 14:19:00`|`ROB RUN`|
 |[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-21 13:22:00`|`Other MMORPG and Strategy`|
 |[AI workflow for reverse&#45;engineering/game hacking in Unreal Engine 4&#43;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/781800-ai-workflow-reverse-engineering-game-hacking-unreal-engine-4-a.html)|`2026-11-21 13:15:00`|`General Programming and Reversing`|
 |[Abuse ACE&#45;ADVT driver for read memory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/780261-abuse-ace-advt-driver-read-memory.html)|`2026-11-21 12:55:00`|`Anti-Cheat Research`|
