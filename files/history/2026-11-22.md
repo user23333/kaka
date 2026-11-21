@@ -11,6 +11,7 @@
 |20|[Full Reversal of EAC &#40;Detection for DMA/Driver, HWID Collection&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/781475-reversal-eac-detection-dma-driver-hwid-collection.html)|`2026-11-22 00:37:29`|`anti-cheat-research`|
 |12|[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781917-rob-run-dupe-glitch-question.html)|`2026-11-22 00:37:29`|`rob-run`|
 |10|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781742-rob-run-external.html)|`2026-11-22 00:37:29`|`rob-run`|
+|33|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-22 01:58:00`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -27,6 +28,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[TBH: Task Bar Hero CT &#91;September v1&#46;2&#46;8&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773996-tbh-task-bar-hero-ct-september-v1-2-8-a.html)|`2026-11-22 01:57:00`|`Other Games`|
+|[Resource Injection &#40;Not resource execution&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782742-resource-injection-resource-execution.html)|`2026-11-22 01:52:00`|`Alternative Online Mods`|
+|[Is there any way to bypass or spoof VT&#45;d/IOMMU OFF?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-hardware/777708-bypass-spoof-vt-iommu.html)|`2026-11-22 01:51:00`|`PC Hardware`|
+|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-22 01:51:00`|`ROB RUN`|
+|[neu3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/758050-neu3.html)|`2026-11-22 01:51:00`|`Team Fortress 2`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-22 01:48:00`|`Tom Clancy's The Division`|
+|[Instant loot / insta view loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782774-instant-loot-insta-view-loot.html)|`2026-11-22 01:42:00`|`ROB RUN`|
 |[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-22 01:35:00`|`Counter-Strike 2`|
 |[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-22 01:29:00`|`Counter-Strike 2`|
 |[RR &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782754-rr-tpm.html)|`2026-11-22 01:23:00`|`ROB RUN`|
