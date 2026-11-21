@@ -50,6 +50,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[playdeception &#45; GMODHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782381-playdeception-gmodhook.html)|`2026-11-21 23:34:00`|`Garry's Mod`|
+|[RR &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782754-rr-tpm.html)|`2026-11-21 23:22:00`|`ROB RUN`|
 |[Resource Injection &#40;Not resource execution&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782742-resource-injection-resource-execution.html)|`2026-11-21 22:34:00`|`Alternative Online Mods`|
 |[Look for internal source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782740-look-internal-source-code.html)|`2026-11-21 22:25:00`|`ROB RUN`|
 |[roblox dll injection what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/775944-roblox-dll-injection.html)|`2026-11-21 22:12:00`|`Roblox`|
