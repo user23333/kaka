@@ -30,6 +30,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Rob Run exploit?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781888-rob-run-exploit.html)|`2026-11-21 10:13:00`|`ROB RUN`|
+|[Hello](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/782667-hello.html)|`2026-11-21 09:59:00`|`Introductions`|
+|[EAC Emulator for Fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782347-eac-emulator-fortnite.html)|`2026-11-21 09:57:00`|`Anti-Cheat Research`|
+|[Roblox HV detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782628-roblox-hv-detections.html)|`2026-11-21 09:54:00`|`Anti-Cheat Research`|
+|[Need help: safe injection into EAC&#45;protected Unity IL2CPP game — kernel mappers BSOD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782548-help-safe-injection-eac-protected-unity-il2cpp-game-kernel-mappers-bsod.html)|`2026-11-21 09:54:00`|`Anti-Cheat Research`|
+|[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-21 09:38:00`|`ROB RUN`|
+|[New member](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/782664-new-member.html)|`2026-11-21 09:32:00`|`Introductions`|
 |[I’m looking for help creating a cheat for a mobile game called Mission Evo&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782290-looking-help-creating-cheat-mobile-game-called-mission-evo.html)|`2026-11-21 09:28:00`|`Other FPS Games`|
 |[GTA 6 SINGLEPLAYER CONSOLE ONLY &#45; NEW XEX/RGH JTAG METHOD COMING SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/782663-gta-6-singleplayer-console-xex-rgh-jtag-method-coming-soon.html)|`2026-11-21 09:27:00`|`Grand Theft Auto VI`|
 |[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-21 09:08:00`|`Other FPS Games`|
