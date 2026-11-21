@@ -33,9 +33,15 @@
 |2|[lootline 2&#46;0 Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59736)|`2026-11-22 02:37:38`|
 |2|[lootline 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59735)|`2026-11-22 02:37:38`|
 |4|[Mod menu release v&#46;4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59743)|`2026-11-22 03:37:32`|
+|1|[Openchanger v 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59744)|`2026-11-22 04:37:42`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[How do I get Wuthering Waves Offsets?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782726-wuthering-waves-offsets.html)|`2026-11-22 04:32:00`|`Other MMORPG and Strategy`|
+|[Yuri&#45;Aniimo &#124; Aniimo Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777733-yuri-aniimo-aniimo-cheats.html)|`2026-11-22 04:25:00`|`Other MMORPG and Strategy`|
+|[PhasmoVision — External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/780361-phasmovision-external-overlay.html)|`2026-11-22 04:18:00`|`Phasmophobia`|
+|[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-22 04:18:00`|`ROB RUN`|
+|[Custom Models in ROB RUN — External Rendering Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782794-custom-models-rob-run-external-rendering-method.html)|`2026-11-22 04:17:00`|`ROB RUN`|
 |[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-11-22 03:31:00`|`Alternative Online Mods`|
 |[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-22 03:31:00`|`Marvel Rivals`|
 |[Hyper&#45;V Virtualization and Low&#45;Level Detection Research in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778815-hyper-virtualization-low-level-detection-research-apex-legends.html)|`2026-11-22 03:26:00`|`Apex Legends`|
