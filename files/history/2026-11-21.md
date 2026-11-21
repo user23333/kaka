@@ -44,9 +44,19 @@
 |5|[RiggaRun Rob Run Dma 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59724)|`2026-11-21 19:00:40`|
 |252|[Darkrun &#45; Robrun Full ESP, Aim &#43; Skeleton 1&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59723)|`2026-11-21 19:00:40`|
 |41|[Rob Run 21/11/2026 Game Terminating Fixed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59722)|`2026-11-21 19:00:40`|
+|1|[Vanguard dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59737)|`2026-11-21 21:37:35`|
+|2|[Shinoko&#45;Hi3rd v0&#46;1&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59734)|`2026-11-21 21:37:35`|
+|2|[AION2&#45;ESP&#45;3&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59733)|`2026-11-21 21:37:35`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I hate intros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768623-hate-intros.html)|`2026-11-21 21:36:00`|`Introductions`|
+|[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-11-21 21:35:00`|`Other FPS Games`|
+|[WT/OPS &#124; WoT Blitz Steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777837-wt-ops-wot-blitz-steam-cheat.html)|`2026-11-21 21:33:00`|`Other MMORPG and Strategy`|
+|[hi worl](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/782195-hi-worl.html)|`2026-11-21 21:30:00`|`Introductions`|
+|[ARK Ascended Unreal Engine New Update 97&#46;14](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780359-ark-ascended-unreal-engine-update-97-14-a.html)|`2026-11-21 21:29:00`|`Other FPS Games`|
+|[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-11-21 21:28:00`|`Counter-Strike 2`|
+|[can i deactivate eac for RR?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782736-deactivate-eac-rr.html)|`2026-11-21 21:25:00`|`ROB RUN`|
 |[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-11-21 20:29:00`|`Counter-Strike 2`|
 |[Lootline v1&#46;0 &#91;Release&#93; &#45; CS2 case opener, upgrader & inventory items &#43; Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/774611-lootline-v1-0-release-cs2-opener-upgrader-inventory-items-source.html)|`2026-11-21 20:14:00`|`Counter-Strike 2`|
 |[SmmMem &#45; Driverless Windows Memory Access Through SMM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/754948-smmmem-driverless-windows-memory-access-smm.html)|`2026-11-21 19:37:00`|`Anti-Cheat Research`|
