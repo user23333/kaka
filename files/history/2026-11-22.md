@@ -27,6 +27,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[VACnet Latest Update&#45;July 2026: how it scores and what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/780963-vacnet-update-july-2026-scores.html)|`2026-11-22 01:35:00`|`Counter-Strike 2`|
+|[Vesta External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/764247-vesta-external.html)|`2026-11-22 01:29:00`|`Counter-Strike 2`|
+|[RR &#45; TPM](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782754-rr-tpm.html)|`2026-11-22 01:23:00`|`ROB RUN`|
+|[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781267-rob-run-internal.html)|`2026-11-22 01:22:00`|`ROB RUN`|
+|[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-22 01:19:00`|`Other Games`|
+|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-22 01:18:00`|`ROB RUN`|
+|[The Seven Deadly Sins: Origin](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/782619-seven-deadly-sins-origin.html)|`2026-11-22 01:09:00`|`Other MMORPG and Strategy`|
 |[Roblox HV detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782628-roblox-hv-detections.html)|`2026-11-22 00:37:00`|`Anti-Cheat Research`|
 |[Dark RUN &#40;ROB RUN&#41; — Full ESP, Aim &#43; Skeleton &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781280-dark-run-rob-run-esp-aim-skeleton-external.html)|`2026-11-22 00:36:00`|`ROB RUN`|
 |[Can't inject into Plutonium anymore](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-2-a/782773-cant-inject-plutonium-anymore.html)|`2026-11-22 00:35:00`|`Call of Duty: Black Ops 2`|
