@@ -32,9 +32,15 @@
 |0|[Dumper7&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59738)|`2026-11-22 02:37:38`|
 |2|[lootline 2&#46;0 Source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59736)|`2026-11-22 02:37:38`|
 |2|[lootline 2&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59735)|`2026-11-22 02:37:38`|
+|4|[Mod menu release v&#46;4&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59743)|`2026-11-22 03:37:32`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Lua executor freezes the client then hard crashes on ElectronAC servers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/778640-lua-executor-freezes-client-hard-crashes-electronac-servers.html)|`2026-11-22 03:31:00`|`Alternative Online Mods`|
+|[Marvel Rivals Parallax](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/775506-marvel-rivals-parallax.html)|`2026-11-22 03:31:00`|`Marvel Rivals`|
+|[Hyper&#45;V Virtualization and Low&#45;Level Detection Research in Apex Legends](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/778815-hyper-virtualization-low-level-detection-research-apex-legends.html)|`2026-11-22 03:26:00`|`Apex Legends`|
+|[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-22 03:12:00`|`ROB RUN`|
+|[how do i find the players instantly when the round loads?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/782798-players-instantly-round-loads.html)|`2026-11-22 03:07:00`|`Rainbow Six Siege`|
 |[Half Life 1 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/half-life/782518-half-life-1-cheat.html)|`2026-11-22 02:35:00`|`Half Life`|
 |[Sleepy's Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/738886-sleepys-internal.html)|`2026-11-22 02:34:00`|`Overwatch`|
 |[ROB RUN INTERNAL BYPASS OBS STUDIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782747-rob-run-internal-bypass-obs-studios.html)|`2026-11-22 02:27:00`|`ROB RUN`|
