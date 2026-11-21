@@ -30,9 +30,24 @@
 |5|[AutoExtractor&#95;update&#95;profiles&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59702)|`2026-11-21 01:37:46`|
 |1|[Internal&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59705)|`2026-11-21 11:37:49`|
 |1|[KingModOverlay&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59701)|`2026-11-21 11:37:49`|
+|2|[uc&#95;release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59720)|`2026-11-21 18:37:40`|
+|2|[DarkestHour&#95;Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59719)|`2026-11-21 18:37:40`|
+|7|[Source Release](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59718)|`2026-11-21 18:37:40`|
+|4|[ArkhanSins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59717)|`2026-11-21 18:37:40`|
+|1|[Bullet Force Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59716)|`2026-11-21 18:37:40`|
+|24|[Rob Run RVA dump Build 20/11/2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59715)|`2026-11-21 18:37:40`|
+|3|[CS2 Poltergeist V2&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59714)|`2026-11-21 18:37:40`|
+|1|[update real](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59713)|`2026-11-21 18:37:40`|
+|3|[Odysseus Trainer v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59711)|`2026-11-21 18:37:40`|
+|2|[superduperhaze&#46;dll](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59710)|`2026-11-21 18:37:40`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Darkest Hour: Europe '44&#45;'45](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782105-darkest-hour-europe-44-45-a.html)|`2026-11-21 18:37:00`|`Other FPS Games`|
+|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-21 18:36:00`|`ROB RUN`|
+|[Custom vehicles tests :&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/782717-custom-vehicles-tests.html)|`2026-11-21 18:34:00`|`Wardogs`|
+|[FiveM Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/340232-fivem-reversal-structs-offsets.html)|`2026-11-21 18:32:00`|`Alternative Online Mods`|
+|[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-11-21 18:22:00`|`Battlefield 4`|
 |[Pixelsurf &#43; Silent &#43; Pixelfinder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781443-pixelsurf-silent-pixelfinder.html)|`2026-11-21 17:32:00`|`Counter-Strike 2`|
 |[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-21 17:22:00`|`Counter-Strike 2 Releases`|
 |[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-21 17:19:00`|`ROB RUN`|
