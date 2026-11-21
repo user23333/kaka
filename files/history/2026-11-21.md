@@ -50,6 +50,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Resource Injection &#40;Not resource execution&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782742-resource-injection-resource-execution.html)|`2026-11-21 22:34:00`|`Alternative Online Mods`|
+|[Look for internal source code](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782740-look-internal-source-code.html)|`2026-11-21 22:25:00`|`ROB RUN`|
+|[roblox dll injection what still works](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/775944-roblox-dll-injection.html)|`2026-11-21 22:12:00`|`Roblox`|
 |[I hate intros](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/introductions/768623-hate-intros.html)|`2026-11-21 21:36:00`|`Introductions`|
 |[ARK: Survival Ascended Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/608333-ark-survival-ascended-reversal-structs-offsets.html)|`2026-11-21 21:35:00`|`Other FPS Games`|
 |[WT/OPS &#124; WoT Blitz Steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777837-wt-ops-wot-blitz-steam-cheat.html)|`2026-11-21 21:33:00`|`Other MMORPG and Strategy`|
