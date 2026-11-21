@@ -13,6 +13,7 @@
 |3|[Fence — Rob Run External Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781830-fence-rob-run-external-cheat.html)|`2026-11-21 00:37:49`|`rob-run`|
 |12|[Rob Run Dupe / Glitch Question](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781917-rob-run-dupe-glitch-question.html)|`2026-11-21 02:37:54`|`rob-run`|
 |32|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-21 06:37:55`|`rob-run`|
+|10|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781742-rob-run-external.html)|`2026-11-21 17:37:45`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -32,6 +33,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Pixelsurf &#43; Silent &#43; Pixelfinder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781443-pixelsurf-silent-pixelfinder.html)|`2026-11-21 17:32:00`|`Counter-Strike 2`|
+|[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-21 17:22:00`|`Counter-Strike 2 Releases`|
+|[Rob Run Packet Studio Suite for Autonomous Duplication Exploitation](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781383-rob-run-packet-studio-suite-autonomous-duplication-exploitation.html)|`2026-11-21 17:19:00`|`ROB RUN`|
 |[Any idea how to achieve silent aim externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782627-idea-achieve-silent-aim-externally.html)|`2026-11-21 16:27:00`|`ROB RUN`|
 |[Finally got it working Offsets &#43; sigs :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782670-finally-offsets-sigs.html)|`2026-11-21 16:26:00`|`ROB RUN`|
 |[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-11-21 16:04:00`|`Other FPS Games`|
