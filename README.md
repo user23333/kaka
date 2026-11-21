@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Any idea how to achieve silent aim externally?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782627-idea-achieve-silent-aim-externally.html)|`2026-11-21 16:27:00`|`ROB RUN`|
+|[Finally got it working Offsets &#43; sigs :D](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782670-finally-offsets-sigs.html)|`2026-11-21 16:26:00`|`ROB RUN`|
+|[Stalzone](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/765194-stalzone.html)|`2026-11-21 16:04:00`|`Other FPS Games`|
 |[Wardogs AI cheat promt help](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/780447-wardogs-ai-cheat-promt-help.html)|`2026-11-21 14:31:00`|`Wardogs`|
 |[Ignore Downed](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782662-ignore.html)|`2026-11-21 14:19:00`|`ROB RUN`|
 |[Aniimo Arkhan Reloaded](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/780135-aniimo-arkhan-reloaded.html)|`2026-11-21 13:22:00`|`Other MMORPG and Strategy`|
