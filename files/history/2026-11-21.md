@@ -30,6 +30,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[I’m looking for help creating a cheat for a mobile game called Mission Evo&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782290-looking-help-creating-cheat-mobile-game-called-mission-evo.html)|`2026-11-21 09:28:00`|`Other FPS Games`|
+|[GTA 6 SINGLEPLAYER CONSOLE ONLY &#45; NEW XEX/RGH JTAG METHOD COMING SOON](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/782663-gta-6-singleplayer-console-xex-rgh-jtag-method-coming-soon.html)|`2026-11-21 09:27:00`|`Grand Theft Auto VI`|
+|[Fallout 76 BA2 Cheat Collection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/519969-fallout-76-ba2-cheat-collection.html)|`2026-11-21 09:08:00`|`Other FPS Games`|
+|[New Update &#45; Better AC Detections&#33;?&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782643-update-ac-detections.html)|`2026-11-21 08:57:00`|`ROB RUN`|
 |[Bodycam Mewcam Intenal &#40;Bhop, Inv Points, Drone Spawn&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770682-bodycam-mewcam-intenal-bhop-inv-drone-spawn.html)|`2026-11-21 08:30:00`|`Other FPS Games`|
 |[Once Human &#40;game&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/614970-human-game.html)|`2026-11-21 08:29:00`|`Other MMORPG and Strategy`|
 |[External Sky Color Change](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782654-external-sky-color-change.html)|`2026-11-21 08:27:00`|`Alternative Online Mods`|
