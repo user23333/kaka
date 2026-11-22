@@ -32,6 +32,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MW4 0x6AEB0B50 &#45; need entity position getter RVA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/783188-mw4-0x6aeb0b50-entity-position-getter-rva.html)|`2026-11-23 05:42:00`|`Call of Duty: Black Ops 7`|
+|[ArkhanImpact &#45; Genshin Cheetos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/783186-arkhanimpact-genshin-cheetos.html)|`2026-11-23 05:40:00`|`Genshin Impact`|
+|[R6 Siege X — 4 unresolved offsets, unpacked dump available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/783185-r6-siege-4-unresolved-offsets-unpacked-dump-available.html)|`2026-11-23 05:38:00`|`Rainbow Six Siege`|
 |[what features do yall want](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782795-features-yall.html)|`2026-11-23 05:38:00`|`ROB RUN`|
 |[MTA:SA Patterns looking](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783184-mta-sa-patterns-looking.html)|`2026-11-23 05:37:00`|`Other FPS Games`|
 |[Internal Cheeto](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/736601-internal-cheeto.html)|`2026-11-23 05:36:00`|`Payday 3`|
