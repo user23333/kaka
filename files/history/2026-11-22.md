@@ -46,6 +46,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Marvel Rivals Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/652967-marvel-rivals-reversal-structs-offsets.html)|`2026-11-22 12:19:00`|`Marvel Rivals`|
+|[YuKKi OS and Overhauled Gitrepos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/783017-yukki-os-overhauled-gitrepos.html)|`2026-11-22 12:16:00`|`General Programming and Reversing`|
+|[See player inventory value in esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782994-player-inventory-value-esp.html)|`2026-11-22 12:03:00`|`ROB RUN`|
+|[Loot bag esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783013-loot-bag-esp.html)|`2026-11-22 12:01:00`|`ROB RUN`|
 |[Lua Scripts &#40;YimMenuV2&#41; Collection Thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/707419-lua-scripts-yimmenuv2-collection-thread.html)|`2026-11-22 11:32:00`|`Grand Theft Auto V`|
 |[VeoxDMA Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780960-veoxdma-rob-run.html)|`2026-11-22 11:27:00`|`ROB RUN`|
 |[External Simple ESP/Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/770403-external-simple-esp-aim.html)|`2026-11-22 11:26:00`|`Marvel Rivals`|
