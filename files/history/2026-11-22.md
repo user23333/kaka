@@ -48,6 +48,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[overwatch update broke everything if you are looking for a tester](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/773301-overwatch-update-broke-looking-tester.html)|`2026-11-22 18:28:00`|`Overwatch`|
+|[Fc27 / Fifa27 CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/783079-fc27-fifa27-cheat.html)|`2026-11-22 18:17:00`|`Other Games`|
+|[internal spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783076-internal-spinbot.html)|`2026-11-22 17:57:00`|`ROB RUN`|
+|[WT/OPS &#124; WoT Blitz Steam cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/777837-wt-ops-wot-blitz-steam-cheat.html)|`2026-11-22 17:52:00`|`Other MMORPG and Strategy`|
+|[NiceTrainer Ultimate &#91;BETA&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-2-a/772424-nicetrainer-ultimate-beta.html)|`2026-11-22 17:49:00`|`Payday 2`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-22 17:16:00`|`Wardogs`|
 |[&#91;SHOWCASE&#93; Fun AND/OR Unique Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782484-showcase-fun-unique-features.html)|`2026-11-22 17:04:00`|`ROB RUN`|
 |[FluffMortuus &#45; Mortuus Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781326-fluffmortuus-mortuus-demo.html)|`2026-11-22 16:30:00`|`Other FPS Games`|
