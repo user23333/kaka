@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Chess&#46;com Cheat ImGui Overlay&#43;Stockfish 19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773545-chess-com-cheat-imgui-overlay-stockfish-19-a.html)|`2026-11-22 22:35:00`|`Other Games`|
+|[EAC Emulator for Fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782347-eac-emulator-fortnite.html)|`2026-11-22 22:29:00`|`Anti-Cheat Research`|
+|[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-11-22 22:28:00`|`Anti-Cheat Research`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-22 22:25:00`|`Escape from Tarkov`|
 |[Internal Offsets & Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783107-internal-offsets-dump.html)|`2026-11-22 21:31:00`|`ROB RUN`|
 |[IDA PRO 9&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/783106-ida-pro-9-5-a.html)|`2026-11-22 21:28:00`|`General Programming and Reversing`|
 |[&#91;OW2&#93; Unleashed DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780397-ow2-unleashed-dma.html)|`2026-11-22 21:26:00`|`Overwatch`|
