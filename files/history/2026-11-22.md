@@ -48,6 +48,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-22 17:16:00`|`Wardogs`|
+|[&#91;SHOWCASE&#93; Fun AND/OR Unique Features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782484-showcase-fun-unique-features.html)|`2026-11-22 17:04:00`|`ROB RUN`|
 |[FluffMortuus &#45; Mortuus Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781326-fluffmortuus-mortuus-demo.html)|`2026-11-22 16:30:00`|`Other FPS Games`|
 |[Elytra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779425-elytra.html)|`2026-11-22 16:27:00`|`Anti-Cheat Research`|
 |[Enlisted Reborn &#45; Modern Internal Source Code&#124; ESP, Aimbot, Chams, Stream Proof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780342-enlisted-reborn-modern-internal-source-code-esp-aimbot-chams-stream-proof.html)|`2026-11-22 16:16:00`|`Other FPS Games`|
