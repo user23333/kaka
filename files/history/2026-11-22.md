@@ -48,6 +48,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[FluffMortuus &#45; Mortuus Demo](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781326-fluffmortuus-mortuus-demo.html)|`2026-11-22 16:30:00`|`Other FPS Games`|
+|[Elytra](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/779425-elytra.html)|`2026-11-22 16:27:00`|`Anti-Cheat Research`|
+|[Enlisted Reborn &#45; Modern Internal Source Code&#124; ESP, Aimbot, Chams, Stream Proof](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780342-enlisted-reborn-modern-internal-source-code-esp-aimbot-chams-stream-proof.html)|`2026-11-22 16:16:00`|`Other FPS Games`|
+|[Faceit still asks for fptm, even though tpm module is already presented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783070-faceit-fptm-tpm-module.html)|`2026-11-22 16:12:00`|`Anti-Cheat Research`|
 |[Spankerfield &#45; Beautiful ESP / Code base / Clean screenshots](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/battlefield-4-a/493695-spankerfield-beautiful-esp-code-base-clean-screenshots.html)|`2026-11-22 15:34:00`|`Battlefield 4`|
 |[Cryo by Valko Studios ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/754998-cryo-valko-studios-esp.html)|`2026-11-22 15:33:00`|`Other FPS Games`|
 |[Delayed angles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/770408-delayed-angles.html)|`2026-11-22 15:27:00`|`Counter-Strike 2`|
