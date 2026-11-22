@@ -38,9 +38,16 @@
 |94|[robexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59746)|`2026-11-22 06:37:35`|
 |1|[SlimeRancher NASMNK&#45;TRAINER](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59747)|`2026-11-22 07:16:05`|
 |343|[Darkrun &#45; Robrun Full ESP, Aim &#43; Skeleton 1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59745)|`2026-11-22 07:16:05`|
+|2|[DayZ Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59749)|`2026-11-22 09:38:23`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[MapleStory: Idle Rpg](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/782552-maplestory-idle-rpg.html)|`2026-11-22 09:37:00`|`Maple Story`|
+|[ROBRUN External &#40;Silent Aim &#43; Insta View Loot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782986-robrun-external-silent-aim-insta-view-loot.html)|`2026-11-22 09:37:00`|`ROB RUN`|
+|[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782982-rob-run-internal.html)|`2026-11-22 09:35:00`|`ROB RUN`|
+|[Rob Run DMA Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781518-rob-run-dma-source.html)|`2026-11-22 09:29:00`|`ROB RUN`|
+|[EFT MetadataDecrypt Gui](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/781759-eft-metadatadecrypt-gui.html)|`2026-11-22 09:25:00`|`Escape from Tarkov`|
+|[list of hypervisor detections](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782201-list-hypervisor-detections.html)|`2026-11-22 09:25:00`|`Anti-Cheat Research`|
 |[can anyone give me a full list of blacklisted drivers or some blacklisted drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782790-list-blacklisted-drivers-blacklisted-drivers.html)|`2026-11-22 08:34:00`|`Anti-Cheat Research`|
 |[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-11-22 08:25:00`|`Sea of Thieves`|
 |[playdeception &#45; GMODHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782381-playdeception-gmodhook.html)|`2026-11-22 07:13:00`|`Garry's Mod`|
