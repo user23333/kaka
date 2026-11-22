@@ -48,6 +48,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead By Daylight Trainer Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781425-dead-daylight-trainer-cheat.html)|`2026-11-22 20:25:00`|`Other FPS Games`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-22 20:20:00`|`Deadlock`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-22 20:18:00`|`Rust`|
 |[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-22 19:37:00`|`Counter-Strike 2 Releases`|
 |[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-11-22 19:37:00`|`Among Us`|
 |[Liar's Bar 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766330-liars-bar-2026-a.html)|`2026-11-22 19:26:00`|`Other Games`|
