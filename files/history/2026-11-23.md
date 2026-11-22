@@ -24,9 +24,19 @@
 |573|[robexternal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59746)|`2026-11-23 00:38:19`|
 |4176|[Darkrun &#45; Robrun Full ESP, Aim &#43; Skeleton 1&#46;8](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59745)|`2026-11-23 00:38:19`|
 |33|[Openchanger v 1&#46;0&#46;3](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59744)|`2026-11-23 00:38:19`|
+|22|[Offsets for 26807668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59758)|`2026-11-23 01:38:21`|
+|1|[RLTool Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59757)|`2026-11-23 01:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[RocketLeague Tool &#91;Function Logger &#43; Object Explorer&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/651431-rocketleague-tool-function-logger-object-explorer.html)|`2026-11-23 01:34:00`|`Other Games`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-23 01:33:00`|`Tom Clancy's The Division`|
+|[Offsets for 26807668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783055-offsets-26807668-a.html)|`2026-11-23 01:27:00`|`ROB RUN`|
+|[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-23 01:26:00`|`Counter-Strike 2 Releases`|
+|[PhasmoVision — External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/780361-phasmovision-external-overlay.html)|`2026-11-23 01:26:00`|`Phasmophobia`|
+|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-23 01:22:00`|`ROB RUN`|
+|[Wardogs external cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777850-wardogs-external-cheat.html)|`2026-11-23 01:17:00`|`Wardogs`|
+|[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781267-rob-run-internal.html)|`2026-11-23 01:16:00`|`ROB RUN`|
 |[Rob Run external](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781907-rob-run-external.html)|`2026-11-23 00:37:00`|`ROB RUN`|
 |[Unibox](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/team-fortress-2-a/775223-unibox.html)|`2026-11-23 00:37:00`|`Team Fortress 2`|
 |[TrollWare internal &#43; injector](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/773524-trollware-internal-injector.html)|`2026-11-23 00:36:00`|`Counter-Strike 2 Releases`|
