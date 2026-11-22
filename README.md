@@ -14,6 +14,7 @@
 |33|[Trent's Tuning RR v1&#46;01 &#45; Undetected External &#40;Read&#45;Only Driver&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782715-trents-tuning-rr-v1-01-undetected-external-read-driver.html)|`2026-11-22 01:58:00`|`rob-run`|
 |109|[ROB RUN EXTERNAL &#45; new features](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782768-rob-run-external-features.html)|`2026-11-22 05:37:36`|`rob-run`|
 |19|[RiggaRun Rob Run dma web menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782256-riggarun-rob-run-dma-web-menu.html)|`2026-11-22 13:38:21`|`rob-run`|
+|22|[ROBRUN External &#40;Silent Aim &#43; Insta View Loot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782986-robrun-external-silent-aim-insta-view-loot.html)|`2026-11-22 23:19:32`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -48,6 +49,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Cargo esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783113-cargo-esp.html)|`2026-11-22 23:09:00`|`ROB RUN`|
 |[Chess&#46;com Cheat ImGui Overlay&#43;Stockfish 19](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/773545-chess-com-cheat-imgui-overlay-stockfish-19-a.html)|`2026-11-22 22:35:00`|`Other Games`|
 |[EAC Emulator for Fortnite](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782347-eac-emulator-fortnite.html)|`2026-11-22 22:29:00`|`Anti-Cheat Research`|
 |[EAC&#45;EOS Emulator / Proxy](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/774464-eac-eos-emulator-proxy.html)|`2026-11-22 22:28:00`|`Anti-Cheat Research`|
