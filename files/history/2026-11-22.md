@@ -41,6 +41,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[can anyone give me a full list of blacklisted drivers or some blacklisted drivers](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782790-list-blacklisted-drivers-blacklisted-drivers.html)|`2026-11-22 08:34:00`|`Anti-Cheat Research`|
+|[SoT Poltergeist &#45; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/734635-sot-poltergeist-external.html)|`2026-11-22 08:25:00`|`Sea of Thieves`|
 |[playdeception &#45; GMODHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782381-playdeception-gmodhook.html)|`2026-11-22 07:13:00`|`Garry's Mod`|
 |[Check for downed players](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782807-check-players.html)|`2026-11-22 07:12:00`|`ROB RUN`|
 |[War Thunder](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/85949-war-thunder.html)|`2026-11-22 07:09:00`|`Other MMORPG and Strategy`|
