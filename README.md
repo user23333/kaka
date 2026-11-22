@@ -48,6 +48,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Internal Offsets & Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783107-internal-offsets-dump.html)|`2026-11-22 21:31:00`|`ROB RUN`|
+|[IDA PRO 9&#46;5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/general-programming-and-reversing/783106-ida-pro-9-5-a.html)|`2026-11-22 21:28:00`|`General Programming and Reversing`|
+|[&#91;OW2&#93; Unleashed DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/780397-ow2-unleashed-dma.html)|`2026-11-22 21:26:00`|`Overwatch`|
 |[Dead By Daylight Trainer Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781425-dead-daylight-trainer-cheat.html)|`2026-11-22 20:25:00`|`Other FPS Games`|
 |[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-22 20:20:00`|`Deadlock`|
 |[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-22 20:18:00`|`Rust`|
