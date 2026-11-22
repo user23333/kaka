@@ -27,9 +27,16 @@
 |22|[Offsets for 26807668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59758)|`2026-11-23 01:38:21`|
 |1|[RLTool Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59757)|`2026-11-23 01:38:21`|
 |13|[ArkhanSins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59767)|`2026-11-23 02:38:11`|
+|1|[DayZ&#45;Dumper&#45;master&#95;remaked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59766)|`2026-11-23 03:38:13`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-23 03:34:00`|`Other FPS Games`|
+|[Quickly retrieve items from inventory](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783165-quickly-retrieve-items-inventory.html)|`2026-11-23 03:33:00`|`ROB RUN`|
+|[Nuclear Nightmare internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/718268-nuclear-nightmare-internal.html)|`2026-11-23 03:21:00`|`Other Games`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-23 03:18:00`|`Deadlock`|
+|[Robrun External Freecam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782751-robrun-external-freecam.html)|`2026-11-23 03:12:00`|`ROB RUN`|
+|[&#91;Release&#93; YimMenuV2 Backup &#40;Enhanced&#41; – continued build &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780512-release-yimmenuv2-backup-enhanced-continued-build-source.html)|`2026-11-23 03:10:00`|`Grand Theft Auto V`|
 |[WandUnlock — Wand/Wemods unlimited mod time &#43; Pro crack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/pc-software/783153-wandunlock-wand-wemods-unlimited-mod-time-pro-crack.html)|`2026-11-23 02:34:00`|`PC Software`|
 |[GodKimchi &#45; Left 4 Dead 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782978-godkimchi-left-4-dead-2-internal.html)|`2026-11-23 02:31:00`|`Other FPS Games`|
 |[Rob Run Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782982-rob-run-internal.html)|`2026-11-23 02:30:00`|`ROB RUN`|
