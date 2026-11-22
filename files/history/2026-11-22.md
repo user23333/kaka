@@ -48,6 +48,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-22 19:37:00`|`Counter-Strike 2 Releases`|
+|[Project OverLight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/among-us/744589-project-overlight.html)|`2026-11-22 19:37:00`|`Among Us`|
+|[Liar's Bar 2026](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766330-liars-bar-2026-a.html)|`2026-11-22 19:26:00`|`Other Games`|
 |[overwatch update broke everything if you are looking for a tester](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/overwatch/773301-overwatch-update-broke-looking-tester.html)|`2026-11-22 18:28:00`|`Overwatch`|
 |[Fc27 / Fifa27 CHEAT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/783079-fc27-fifa27-cheat.html)|`2026-11-22 18:17:00`|`Other Games`|
 |[internal spinbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783076-internal-spinbot.html)|`2026-11-22 17:57:00`|`ROB RUN`|
