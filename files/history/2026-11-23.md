@@ -32,6 +32,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[BSProject — theHunter Internal &#40;Silent Aim, Bullet Time, ESP, Trail X&#45;ray & more&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/780168-bsproject-thehunter-internal-silent-aim-bullet-time-esp-trail-ray.html)|`2026-11-23 06:32:00`|`Other FPS Games`|
+|[VeoxDMA Rob Run](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780960-veoxdma-rob-run.html)|`2026-11-23 06:32:00`|`ROB RUN`|
+|[Resource Injection &#40;Not resource execution&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/alternative-online-mods/782742-resource-injection-resource-execution.html)|`2026-11-23 06:32:00`|`Alternative Online Mods`|
+|[Instant loot / insta view loot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782774-instant-loot-insta-view-loot.html)|`2026-11-23 06:20:00`|`ROB RUN`|
 |[MW4 0x6AEB0B50 &#45; need entity position getter RVA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/call-of-duty-black-ops-7-a/783188-mw4-0x6aeb0b50-entity-position-getter-rva.html)|`2026-11-23 05:42:00`|`Call of Duty: Black Ops 7`|
 |[ArkhanImpact &#45; Genshin Cheetos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/783186-arkhanimpact-genshin-cheetos.html)|`2026-11-23 05:40:00`|`Genshin Impact`|
 |[R6 Siege X — 4 unresolved offsets, unpacked dump available](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/783185-r6-siege-4-unresolved-offsets-unpacked-dump-available.html)|`2026-11-23 05:38:00`|`Rainbow Six Siege`|
