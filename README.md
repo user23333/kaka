@@ -36,6 +36,9 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-11-23 17:37:00`|`Other MMORPG and Strategy`|
+|[SMM &#43; faceit 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783292-smm-faceit-1pc.html)|`2026-11-23 17:19:00`|`Anti-Cheat Research`|
+|[Apex third party viewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781789-apex-third-party-viewing.html)|`2026-11-23 17:19:00`|`Apex Legends`|
 |[Laced &#45; Rob Run External &#124; No Recoil &#124; No Spread &#124; Instant Reveal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783215-laced-rob-run-external-recoil-spread-instant-reveal.html)|`2026-11-23 16:32:00`|`ROB RUN`|
 |[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782727-external-silent-aim.html)|`2026-11-23 16:31:00`|`ROB RUN`|
 |[See player inventory value in esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782994-player-inventory-value-esp.html)|`2026-11-23 16:23:00`|`ROB RUN`|
