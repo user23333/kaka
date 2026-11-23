@@ -30,9 +30,17 @@
 |13|[ArkhanSins](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59767)|`2026-11-23 02:38:11`|
 |1|[DayZ&#45;Dumper&#45;master&#95;remaked](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59766)|`2026-11-23 03:38:13`|
 |61|[Rob run Internal Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59773)|`2026-11-23 08:38:24`|
+|72|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59760)|`2026-11-23 11:38:21`|
+|1|[Clove&#45;HSR&#45;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59759)|`2026-11-23 11:38:21`|
+|120|[good external hehehaha robrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59756)|`2026-11-23 11:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-23 11:32:00`|`Wardogs`|
+|[assaultcube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783248-assaultcube-external.html)|`2026-11-23 11:29:00`|`Other FPS Games`|
+|[is it possible to be undetected on intel hypervisors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782008-undetected-intel-hypervisors.html)|`2026-11-23 11:28:00`|`Anti-Cheat Research`|
+|[how can made headsurf and risebug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/783179-headsurf-risebug.html)|`2026-11-23 11:27:00`|`Counter-Strike 2`|
+|[Skinchanger Client Side](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783247-skinchanger-client.html)|`2026-11-23 11:21:00`|`ROB RUN`|
 |[EAC emu shards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783244-eac-emu-shards.html)|`2026-11-23 10:32:00`|`Anti-Cheat Research`|
 |[DOOM Series Trainers &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783243-doom-series-trainers-steam.html)|`2026-11-23 10:32:00`|`Other FPS Games`|
 |[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-23 10:28:00`|`ROB RUN`|
