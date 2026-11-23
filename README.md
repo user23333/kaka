@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-23 14:36:00`|`Tom Clancy's The Division`|
+|[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-23 14:23:00`|`Counter-Strike 2`|
+|[How good actually is FACEiT's anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/749460-actually-faceits-anticheat.html)|`2026-11-23 14:06:00`|`Anti-Cheat Research`|
+|[Api for skinchanger icons](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783270-api-skinchanger-icons.html)|`2026-11-23 14:05:00`|`ROB RUN`|
 |[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-23 13:09:00`|`Other FPS Games`|
 |[current unknowncheats rob run cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783255-current-unknowncheats-rob-run-cheats.html)|`2026-11-23 12:34:00`|`ROB RUN`|
 |[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-23 12:28:00`|`ROB RUN`|
