@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Warframe Internal Cheat v1&#46;0 by mrBE3YH4UK](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/722447-warframe-internal-cheat-v1-0-mrbe3yh4uk.html)|`2026-11-23 13:09:00`|`Other FPS Games`|
 |[current unknowncheats rob run cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783255-current-unknowncheats-rob-run-cheats.html)|`2026-11-23 12:34:00`|`ROB RUN`|
 |[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-23 12:28:00`|`ROB RUN`|
 |[Offsets for Warface &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/780001-offsets-warface-steam.html)|`2026-11-23 12:18:00`|`Warface`|
