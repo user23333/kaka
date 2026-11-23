@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[EAC emu shards](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783244-eac-emu-shards.html)|`2026-11-23 10:32:00`|`Anti-Cheat Research`|
+|[DOOM Series Trainers &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783243-doom-series-trainers-steam.html)|`2026-11-23 10:32:00`|`Other FPS Games`|
+|[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-23 10:28:00`|`ROB RUN`|
+|[DuneCore &#45; CS2 Best legit hack so far](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/751313-dunecore-cs2-legit-hack.html)|`2026-11-23 10:20:00`|`Counter-Strike 2`|
+|[HELP FINDING  A OLD CSGO CHEAT SOURCE&#46; NAME&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/783239-help-finding-csgo-cheat-source-name.html)|`2026-11-23 10:14:00`|`Counter-Strike 2`|
+|[HELP FINDING  A OLD CSGO CHEAT SOURCE&#46; NAME&#46;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/cs-go-releases/783238-help-finding-csgo-cheat-source-name.html)|`2026-11-23 10:12:00`|`CS:GO Releases`|
 |[External ESP Laggy in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783223-external-esp-laggy-vehicles.html)|`2026-11-23 09:36:00`|`ROB RUN`|
 |[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-23 09:31:00`|`Other MMORPG and Strategy`|
 |[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-11-23 09:30:00`|`Sea of Thieves`|
