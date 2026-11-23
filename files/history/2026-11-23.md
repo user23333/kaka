@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Universal No Recoil ESP32&#43;RP2040](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/773654-universal-recoil-esp32-rp2040.html)|`2026-11-23 18:35:00`|`Apex Legends`|
+|[How to hide from AC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779812-hide-ac.html)|`2026-11-23 18:22:00`|`ARC Raiders`|
+|[Destiny 2 Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/755335-destiny-2-reversal-structs-offsets.html)|`2026-11-23 18:20:00`|`Other FPS Games`|
+|[GTA VI Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/782733-gta-vi-reversal-structs-offsets.html)|`2026-11-23 18:19:00`|`Grand Theft Auto VI`|
 |[&#91;Kei&#93; Blue Archive &#124; PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/757304-kei-blue-archive-pc.html)|`2026-11-23 17:37:00`|`Other MMORPG and Strategy`|
 |[SMM &#43; faceit 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783292-smm-faceit-1pc.html)|`2026-11-23 17:19:00`|`Anti-Cheat Research`|
 |[Apex third party viewing](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/781789-apex-third-party-viewing.html)|`2026-11-23 17:19:00`|`Apex Legends`|
