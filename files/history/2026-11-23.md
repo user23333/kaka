@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Loading a driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/783314-loading-driver.html)|`2026-11-23 21:38:00`|`ARC Raiders`|
+|[Vanish crack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782802-vanish-crack.html)|`2026-11-23 21:33:00`|`ROB RUN`|
+|[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-11-23 21:30:00`|`Deadlock`|
+|[il2cpp dumper for RR](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783237-il2cpp-dumper-rr.html)|`2026-11-23 21:19:00`|`ROB RUN`|
 |[Wardogs external Multi Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777528-wardogs-external-multi-cheat.html)|`2026-11-23 20:30:00`|`Wardogs`|
 |[Apex Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/716406-apex-reversal-structs-offsets.html)|`2026-11-23 20:25:00`|`Apex Legends`|
 |[Warhammer Darktide Lua Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/725212-warhammer-darktide-lua-aimbot.html)|`2026-11-23 20:20:00`|`Other FPS Games`|
