@@ -36,6 +36,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-23 15:23:00`|`Counter-Strike 2`|
+|[Remove local crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783269-remove-local-crosshair.html)|`2026-11-23 15:05:00`|`ROB RUN`|
+|[240Hz vs 360Hz/480Hz OLEDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777093-240hz-vs-360hz-480hz-oleds.html)|`2026-11-23 14:57:00`|`Off Topic`|
+|[DayZ Battleye Bypass](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/dayz-sa/782975-dayz-battleye-bypass.html)|`2026-11-23 14:55:00`|`DayZ SA`|
 |[Division1 simple esp/Aimbot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/779179-division1-simple-esp-aimbot.html)|`2026-11-23 14:36:00`|`Tom Clancy's The Division`|
 |[Playstyle&#45;based cheater detection for External Memory&#45;Reading](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/781944-playstyle-based-cheater-detection-external-memory-reading.html)|`2026-11-23 14:23:00`|`Counter-Strike 2`|
 |[How good actually is FACEiT's anticheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/749460-actually-faceits-anticheat.html)|`2026-11-23 14:06:00`|`Anti-Cheat Research`|
