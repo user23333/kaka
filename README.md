@@ -33,6 +33,12 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[External ESP Laggy in vehicles](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783223-external-esp-laggy-vehicles.html)|`2026-11-23 09:36:00`|`ROB RUN`|
+|[Yuri&#45;Loftia &#124; Loftia Cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/778135-yuri-loftia-loftia-cheats.html)|`2026-11-23 09:31:00`|`Other MMORPG and Strategy`|
+|[Sea of Thieves Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/sea-of-thieves/278391-sea-thieves-reversal-structs-offsets.html)|`2026-11-23 09:30:00`|`Sea of Thieves`|
+|[Rust Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/164256-rust-reversal-structs-offsets.html)|`2026-11-23 09:23:00`|`Rust`|
+|[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-11-23 09:23:00`|`Other FPS Games`|
+|[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-23 09:19:00`|`Other Games`|
 |[Borderlands 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782137-borderlands-4-internal.html)|`2026-11-23 08:25:00`|`Other FPS Games`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-23 08:24:00`|`Other FPS Games`|
 |[Odysseus V1 MSCW Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/782586-odysseus-v1-mscw-trainer.html)|`2026-11-23 08:20:00`|`Maple Story`|
