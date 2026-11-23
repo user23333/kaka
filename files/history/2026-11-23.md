@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[current unknowncheats rob run cheats](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783255-current-unknowncheats-rob-run-cheats.html)|`2026-11-23 12:34:00`|`ROB RUN`|
+|[EXTERNAL RobRun Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/780973-external-robrun-cheat.html)|`2026-11-23 12:28:00`|`ROB RUN`|
+|[Offsets for Warface &#91;STEAM&#93;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/warface/780001-offsets-warface-steam.html)|`2026-11-23 12:18:00`|`Warface`|
+|[Xenon Rob Run internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782198-xenon-rob-run-internal.html)|`2026-11-23 12:16:00`|`ROB RUN`|
+|[Not Quite Dead Trainer Internal v1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783253-dead-trainer-internal-v1.html)|`2026-11-23 12:06:00`|`Other FPS Games`|
 |[WARDOGS Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/759678-wardogs-reversal-structs-offsets.html)|`2026-11-23 11:32:00`|`Wardogs`|
 |[assaultcube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783248-assaultcube-external.html)|`2026-11-23 11:29:00`|`Other FPS Games`|
 |[is it possible to be undetected on intel hypervisors](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/782008-undetected-intel-hypervisors.html)|`2026-11-23 11:28:00`|`Anti-Cheat Research`|
