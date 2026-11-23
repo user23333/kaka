@@ -36,6 +36,11 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Laced &#45; Rob Run External &#124; No Recoil &#124; No Spread &#124; Instant Reveal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783215-laced-rob-run-external-recoil-spread-instant-reveal.html)|`2026-11-23 16:32:00`|`ROB RUN`|
+|[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782727-external-silent-aim.html)|`2026-11-23 16:31:00`|`ROB RUN`|
+|[See player inventory value in esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782994-player-inventory-value-esp.html)|`2026-11-23 16:23:00`|`ROB RUN`|
+|[Fortnite Mobile &#40;Android&#41; Questions](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783051-fortnite-mobile-android-questions.html)|`2026-11-23 16:23:00`|`Anti-Cheat Research`|
+|[ROB RUN &#124; NO&#45;RECOIL &#124; LOGITECH G HUB MACRO &#124; PERFECT RECOIL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783222-rob-run-recoil-logitech-hub-macro-perfect-recoil.html)|`2026-11-23 16:17:00`|`ROB RUN`|
 |[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-23 15:23:00`|`Counter-Strike 2`|
 |[Remove local crosshair](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783269-remove-local-crosshair.html)|`2026-11-23 15:05:00`|`ROB RUN`|
 |[240Hz vs 360Hz/480Hz OLEDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/off-topic/777093-240hz-vs-360hz-480hz-oleds.html)|`2026-11-23 14:57:00`|`Off Topic`|
