@@ -37,6 +37,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[R6 / Sen Driver new encryption](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/783136-r6-sen-driver-encryption.html)|`2026-11-23 23:34:00`|`Rainbow Six Siege`|
+|[Steam Key Giveaways](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/206050-steam-key-giveaways.html)|`2026-11-23 23:13:00`|`Forum General`|
 |[Dead Frontier 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779807-dead-frontier-2-cheat.html)|`2026-11-23 22:22:00`|`Other Games`|
 |[Rust no eac server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773442-rust-eac-server.html)|`2026-11-23 22:13:00`|`Rust`|
 |[Loading a driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/783314-loading-driver.html)|`2026-11-23 21:38:00`|`ARC Raiders`|
