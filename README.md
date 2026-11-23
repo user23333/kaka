@@ -33,9 +33,12 @@
 |72|[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59760)|`2026-11-23 11:38:21`|
 |1|[Clove&#45;HSR&#45;1&#46;0&#46;0](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59759)|`2026-11-23 11:38:21`|
 |120|[good external hehehaha robrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59756)|`2026-11-23 11:38:21`|
+|2|[7 day to die Mono dll for aimbot&#43;esp](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59791)|`2026-11-23 22:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Dead Frontier 2 cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/779807-dead-frontier-2-cheat.html)|`2026-11-23 22:22:00`|`Other Games`|
+|[Rust no eac server](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/773442-rust-eac-server.html)|`2026-11-23 22:13:00`|`Rust`|
 |[Loading a driver](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/783314-loading-driver.html)|`2026-11-23 21:38:00`|`ARC Raiders`|
 |[Vanish crack](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782802-vanish-crack.html)|`2026-11-23 21:33:00`|`ROB RUN`|
 |[DEADLOCK AUTOUPDATING INTERNAL &#40; VEN &#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/776229-deadlock-autoupdating-internal-ven.html)|`2026-11-23 21:30:00`|`Deadlock`|
