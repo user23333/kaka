@@ -25,9 +25,19 @@
 |1371|[good external hehehaha robrun](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59756)|`2026-11-24 00:38:18`|
 |80|[DivisionLock    Aimbot/ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59754)|`2026-11-24 00:38:18`|
 |22|[build26866884&#95;dumps](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59792)|`2026-11-24 01:38:34`|
+|2|[Battlefield 1 DMA cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59763)|`2026-11-24 03:38:21`|
+|1121|[Trent's Tuning RR v1&#46;02](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59761)|`2026-11-24 03:38:21`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Odysseus V1 MSCW Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/782586-odysseus-v1-mscw-trainer.html)|`2026-11-24 03:36:00`|`Maple Story`|
+|[ARC Raiders, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/590414-arc-raiders-structs-offsets.html)|`2026-11-24 03:35:00`|`ARC Raiders`|
+|[ROBRUN External &#40;Silent Aim &#43; Insta View Loot&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782986-robrun-external-silent-aim-insta-view-loot.html)|`2026-11-24 03:33:00`|`ROB RUN`|
+|[ARC Raiders Maps, Models, Audio & Textures Exporter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/arc-raiders/779042-arc-raiders-maps-models-audio-textures-exporter.html)|`2026-11-24 03:31:00`|`ARC Raiders`|
+|[Dark RUN &#40;ROB RUN&#41; — Full ESP, Aim &#43; Skeleton &#124; External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/781280-dark-run-rob-run-esp-aim-skeleton-external.html)|`2026-11-24 03:30:00`|`ROB RUN`|
+|[how can made headsurf and risebug?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/783179-headsurf-risebug.html)|`2026-11-24 03:27:00`|`Counter-Strike 2`|
+|[Menu showcase thread](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/605536-menu-showcase-thread.html)|`2026-11-24 03:27:00`|`Counter-Strike 2`|
+|[Anti tamper removal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/777251-anti-tamper-removal.html)|`2026-11-24 03:26:00`|`Wardogs`|
 |[Looking for good ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783359-looking-esp.html)|`2026-11-24 02:35:00`|`ROB RUN`|
 |[External Freecam method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783353-external-freecam-method.html)|`2026-11-24 02:23:00`|`ROB RUN`|
 |[Car Parking Multiplayer 2 &#40;Steam&#41; Cheat Menu](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/777684-car-parking-multiplayer-2-steam-cheat-menu.html)|`2026-11-24 02:21:00`|`Other Games`|
