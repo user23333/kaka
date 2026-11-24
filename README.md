@@ -29,6 +29,13 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Trents Tuning Mapper Failed Error FIXED](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783398-trents-tuning-mapper-failed-error-fixed.html)|`2026-11-25 02:34:00`|`ROB RUN`|
+|[ROB RUN FULL DUMP &#43; 17&#46;11&#46;26 OFFSETS, RVAs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782096-rob-run-dump-17-11-26-offsets-rvas.html)|`2026-11-25 02:33:00`|`ROB RUN`|
+|[PhasmoVision — External Overlay](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/phasmophobia/780361-phasmovision-external-overlay.html)|`2026-11-25 02:32:00`|`Phasmophobia`|
+|[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-25 02:31:00`|`Wardogs`|
+|[Odysseus V1 MSCW Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/maple-story/782586-odysseus-v1-mscw-trainer.html)|`2026-11-25 02:31:00`|`Maple Story`|
+|[GodKimchi &#45; Left 4 Dead 2 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782978-godkimchi-left-4-dead-2-internal.html)|`2026-11-25 02:29:00`|`Other FPS Games`|
+|[Nenyoo V3 &#124; Free Edition &#124; Free Shopping & Much More](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/773057-nenyoo-v3-free-edition-free-shopping.html)|`2026-11-25 02:29:00`|`Grand Theft Auto V`|
 |[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-25 01:34:00`|`Escape from Tarkov`|
 |[Anyone know how phantom forces ban work?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/783473-phantom-forces-ban.html)|`2026-11-25 01:34:00`|`Roblox`|
 |[Standalone Instaloot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783382-standalone-instaloot.html)|`2026-11-25 01:31:00`|`ROB RUN`|
