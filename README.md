@@ -52,6 +52,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Does anyone have any offset dumper applications for roblox internals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/783434-offset-dumper-applications-roblox-internals.html)|`2026-11-24 18:31:00`|`Roblox`|
+|[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-11-24 18:26:00`|`THE FINALS`|
+|[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/775555-aimbot-detection.html)|`2026-11-24 18:22:00`|`THE FINALS`|
+|[Anything For LOTRO or ESO](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-mmorpg-and-strategy/783489-lotro-eso.html)|`2026-11-24 18:21:00`|`Other MMORPG and Strategy`|
 |[Sendinput via winapi and VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/758566-sendinput-via-winapi-vac.html)|`2026-11-24 17:24:00`|`Anti-Cheat Research`|
 |[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-11-24 17:23:00`|`Other Games`|
 |[&#40;request&#41; Ghost Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778520-request-ghost-hunter.html)|`2026-11-24 17:12:00`|`Other Games`|
