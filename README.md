@@ -54,6 +54,10 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[WarHaX – WarDogs External Cheat &#124; ESP, Memory Aimbot, Silent Aim, Chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781940-warhax-wardogs-external-cheat-esp-memory-aimbot-silent-aim-chams.html)|`2026-11-24 20:35:00`|`Wardogs`|
+|[TarkovAddons PVE &#45; Item Spawner, Skills, Quests, Trader Rep, EXP and more&#33;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/escape-from-tarkov/734993-tarkovaddons-pve-item-spawner-skills-quests-trader-rep-exp.html)|`2026-11-24 20:22:00`|`Escape from Tarkov`|
+|[Dolipranee](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-a/778304-dolipranee.html)|`2026-11-24 20:11:00`|`Counter-Strike 2`|
+|[kernel script, directly read/write process memory, not only for the division 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/tom-clancy-s-the-division/770581-kernel-script-directly-read-write-process-memory-division-2-a.html)|`2026-11-24 20:11:00`|`Tom Clancy's The Division`|
 |[ROB RUN INTERNAL BYPASS OBS STUDIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782747-rob-run-internal-bypass-obs-studios.html)|`2026-11-24 19:31:00`|`ROB RUN`|
 |[SMM &#43; faceit 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783292-smm-faceit-1pc.html)|`2026-11-24 18:48:00`|`Anti-Cheat Research`|
 |[GTA IV &#45; Port for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/783388-gta-iv-port-windows.html)|`2026-11-24 18:47:00`|`Grand Theft Auto VI`|
