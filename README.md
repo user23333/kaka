@@ -36,6 +36,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Help with Malware/Trojans? idk](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/forum-general/783226-help-malware-trojans-idk.html)|`2026-11-24 08:50:00`|`Forum General`|
 |[Bodycam Easy money and easy Elo points](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/770598-bodycam-easy-money-easy-elo.html)|`2026-11-24 08:20:00`|`Other FPS Games`|
 |[Rob Run External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782580-rob-run-external.html)|`2026-11-24 08:14:00`|`ROB RUN`|
 |[&#91;Release&#93; Raft Purple &#124; Internal Trainer &#124; ESP, Aimbot, Entity Spawner](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/783418-release-raft-purple-internal-trainer-esp-aimbot-entity-spawner.html)|`2026-11-24 07:26:00`|`Other Games`|
