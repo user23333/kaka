@@ -49,9 +49,15 @@
 |2|[Car Parking Multiplayer 2 v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59790)|`2026-11-24 17:38:34`|
 |3|[DivisionLock    Aimbot/ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59789)|`2026-11-24 17:38:34`|
 |3|[BloodStrike&#95;Internal&#95;steamV3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59788)|`2026-11-24 17:38:34`|
+|2|[GTA VI Dump](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59805)|`2026-11-24 18:55:17`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[SMM &#43; faceit 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783292-smm-faceit-1pc.html)|`2026-11-24 18:48:00`|`Anti-Cheat Research`|
+|[GTA IV &#45; Port for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/783388-gta-iv-port-windows.html)|`2026-11-24 18:47:00`|`Grand Theft Auto VI`|
+|[RUST INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/783495-rust-internal.html)|`2026-11-24 18:45:00`|`Rust`|
+|[playdeception &#45; GMODHook](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/garry-s-mod/782381-playdeception-gmodhook.html)|`2026-11-24 18:41:00`|`Garry's Mod`|
+|[All Cheat Code Commands/Button Combos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/783493-cheat-code-commands-button-combos.html)|`2026-11-24 18:40:00`|`Grand Theft Auto VI`|
 |[Does anyone have any offset dumper applications for roblox internals?](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/roblox/783434-offset-dumper-applications-roblox-internals.html)|`2026-11-24 18:31:00`|`Roblox`|
 |[The Finals &#45; Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/516372-finals-reversal-structs-offsets.html)|`2026-11-24 18:26:00`|`THE FINALS`|
 |[Aimbot detection](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/the-finals/775555-aimbot-detection.html)|`2026-11-24 18:22:00`|`THE FINALS`|
