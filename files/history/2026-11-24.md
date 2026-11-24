@@ -46,9 +46,16 @@
 |1|[assault cube extreme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59786)|`2026-11-24 16:38:24`|
 |1|[DOOM: The Dark Ages &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59785)|`2026-11-24 16:38:24`|
 |1|[DOOM Eternal &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59784)|`2026-11-24 16:38:24`|
+|2|[Car Parking Multiplayer 2 v1&#46;0&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59790)|`2026-11-24 17:38:34`|
+|3|[DivisionLock    Aimbot/ESP](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59789)|`2026-11-24 17:38:34`|
+|3|[BloodStrike&#95;Internal&#95;steamV3&#46;7](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59788)|`2026-11-24 17:38:34`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Sendinput via winapi and VAC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/758566-sendinput-via-winapi-vac.html)|`2026-11-24 17:24:00`|`Anti-Cheat Research`|
+|[Albion Online — Complete writeup: Entity system, Radar/ESP, cooldown tracking & more](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/766474-albion-online-complete-writeup-entity-system-radar-esp-cooldown-tracking.html)|`2026-11-24 17:23:00`|`Other Games`|
+|[&#40;request&#41; Ghost Hunter](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/778520-request-ghost-hunter.html)|`2026-11-24 17:12:00`|`Other Games`|
+|[7 Days To Die AIMBOT&#43;ESP Mono DLL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783285-7-days-die-aimbot-esp-mono-dll.html)|`2026-11-24 17:03:00`|`Other FPS Games`|
 |[assaultcube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783248-assaultcube-external.html)|`2026-11-24 16:37:00`|`Other FPS Games`|
 |[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-24 16:37:00`|`Other FPS Games`|
 |[Rob Run Roulette RNG Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783480-rob-run-roulette-rng-research.html)|`2026-11-24 16:35:00`|`ROB RUN`|
