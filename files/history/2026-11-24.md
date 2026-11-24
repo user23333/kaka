@@ -43,9 +43,17 @@
 |5|[ArkhanImpact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59774)|`2026-11-24 11:38:27`|
 |1|[PAYDAY 3 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59777)|`2026-11-24 15:38:19`|
 |1|[superduperhaze&#46;dll 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59776)|`2026-11-24 15:38:19`|
+|1|[assault cube extreme](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59786)|`2026-11-24 16:38:24`|
+|1|[DOOM: The Dark Ages &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59785)|`2026-11-24 16:38:24`|
+|1|[DOOM Eternal &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59784)|`2026-11-24 16:38:24`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[assaultcube External](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/783248-assaultcube-external.html)|`2026-11-24 16:37:00`|`Other FPS Games`|
+|[Arena Breakout Reversal, Structs and Offsets](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/636170-arena-breakout-reversal-structs-offsets.html)|`2026-11-24 16:37:00`|`Other FPS Games`|
+|[Rob Run Roulette RNG Research](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783480-rob-run-roulette-rng-research.html)|`2026-11-24 16:35:00`|`ROB RUN`|
+|[Custom Models in ROB RUN — External Rendering Method](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782794-custom-models-rob-run-external-rendering-method.html)|`2026-11-24 16:30:00`|`ROB RUN`|
+|[Deadlock External &#124; AIM &#124; ESP &#124; VISCHECK &#124; ETC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/deadlock/778337-deadlock-external-aim-esp-vischeck-etc.html)|`2026-11-24 16:27:00`|`Deadlock`|
 |[Borderlands 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782137-borderlands-4-internal.html)|`2026-11-24 15:36:00`|`Other FPS Games`|
 |[soft aimbot detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/777019-soft-aimbot-detected.html)|`2026-11-24 15:32:00`|`Marvel Rivals`|
 |[PAYDAY 3 &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/781210-payday-3-steam-internal-trainer.html)|`2026-11-24 15:32:00`|`Payday 3`|
