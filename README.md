@@ -14,6 +14,7 @@
 |19|[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-24 05:38:18`|`rob-run`|
 |22|[External Silent Aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782727-external-silent-aim.html)|`2026-11-24 07:38:21`|`rob-run`|
 |31|[No Bail &#45; A ROB RUN External Client](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783152-bail-rob-run-external-client.html)|`2026-11-24 10:38:31`|`rob-run`|
+|33|[Laced &#45; Rob Run External &#124; No Recoil &#124; No Spread &#124; Instant Reveal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783215-laced-rob-run-external-recoil-spread-instant-reveal.html)|`2026-11-24 19:38:21`|`rob-run`|
 # 📄Files
 |Downloads|Thread|Date|
 |---------|------|----|
@@ -53,6 +54,7 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[ROB RUN INTERNAL BYPASS OBS STUDIOS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782747-rob-run-internal-bypass-obs-studios.html)|`2026-11-24 19:31:00`|`ROB RUN`|
 |[SMM &#43; faceit 1PC](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783292-smm-faceit-1pc.html)|`2026-11-24 18:48:00`|`Anti-Cheat Research`|
 |[GTA IV &#45; Port for Windows](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-vi/783388-gta-iv-port-windows.html)|`2026-11-24 18:47:00`|`Grand Theft Auto VI`|
 |[RUST INTERNAL](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/783495-rust-internal.html)|`2026-11-24 18:45:00`|`Rust`|
