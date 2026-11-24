@@ -41,9 +41,16 @@
 |7|[openchanger v 1&#46;0&#46;4](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59814)|`2026-11-24 10:38:31`|
 |2|[Natural Selection 2 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59775)|`2026-11-24 11:38:27`|
 |5|[ArkhanImpact](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59774)|`2026-11-24 11:38:27`|
+|1|[PAYDAY 3 &#40;Steam&#41;](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59777)|`2026-11-24 15:38:19`|
+|1|[superduperhaze&#46;dll 1&#46;0&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59776)|`2026-11-24 15:38:19`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Borderlands 4 Internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/782137-borderlands-4-internal.html)|`2026-11-24 15:36:00`|`Other FPS Games`|
+|[soft aimbot detected](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/marvel-rivals/777019-soft-aimbot-detected.html)|`2026-11-24 15:32:00`|`Marvel Rivals`|
+|[PAYDAY 3 &#40;Steam&#41; — Internal Trainer](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/781210-payday-3-steam-internal-trainer.html)|`2026-11-24 15:32:00`|`Payday 3`|
+|[ROB RUN internal silent aim](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/782658-rob-run-internal-silent-aim.html)|`2026-11-24 15:32:00`|`ROB RUN`|
+|[superduperhaze &#45; a high&#45;stealth internal](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/counter-strike-2-releases/782582-superduperhaze-stealth-internal.html)|`2026-11-24 15:31:00`|`Counter-Strike 2 Releases`|
 |[Dead by Daylight](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/178856-dead-daylight.html)|`2026-11-24 14:03:00`|`Other FPS Games`|
 |[RustRecoilMacro](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rainbow-six-siege/706634-rustrecoilmacro.html)|`2026-11-24 14:02:00`|`Rainbow Six Siege`|
 |[Bugtopia &#45; Heartopia Helper Successor](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-games/761205-bugtopia-heartopia-helper-successor.html)|`2026-11-24 14:00:00`|`Other Games`|
