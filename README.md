@@ -54,6 +54,8 @@
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[Tom Clancy's Ghost Recon Crimebond IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/783521-tom-clancys-ghost-recon-crimebond-ids.html)|`2026-11-24 22:30:00`|`Payday 3`|
+|[Dead By Daylight Trainer Cheat](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781425-dead-daylight-trainer-cheat.html)|`2026-11-24 22:27:00`|`Other FPS Games`|
 |[Nika Read Only](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/apex-legends/640853-nika-read.html)|`2026-11-24 21:36:00`|`Apex Legends`|
 |[NEW RUST OFFSETS](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rust/783343-rust-offsets.html)|`2026-11-24 21:30:00`|`Rust`|
 |[BloodStrike Internal Steam](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/730066-bloodstrike-internal-steam.html)|`2026-11-24 21:27:00`|`Other FPS Games`|
