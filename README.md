@@ -28,9 +28,27 @@
 |53|[instaloot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59800)|`2026-11-25 01:38:26`|
 |1|[Elementys Bot Source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59813)|`2026-11-25 03:38:18`|
 |1|[Elementys Bot](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59812)|`2026-11-25 03:38:18`|
+|7|[Arc Raiders DMA](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59851)|`2026-11-25 14:37:46`|
+|0|[5&#46;6&#46;1&#45;0&#43;UE5&#45;Chameleon](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59848)|`2026-11-25 14:37:46`|
+|5|[5&#46;4&#46;4&#45;0&#43;UE5&#45;ProjectT](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59843)|`2026-11-25 14:37:46`|
+|19|[10&#46;3&#46;0 SDK DBD](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59840)|`2026-11-25 14:37:46`|
+|56|[1&#46;3&#46;5&#46;48914&#46;zip](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59839)|`2026-11-25 14:37:46`|
+|32|[1&#46;3&#46;5&#46;0&#46;48914](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59837)|`2026-11-25 14:37:46`|
+|47|[SDK GTA VI &#45; 1&#46;0&#46;2&#46;1](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59834)|`2026-11-25 14:37:46`|
+|8|[PhasmoVision v1&#46;2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59832)|`2026-11-25 14:37:46`|
+|64|[Rob run RVA dump Build 26807668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59830)|`2026-11-25 14:37:46`|
+|52|[Rob Run Typeinfo Dump Build 26807668](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/downloads.php?do=file&id=59829)|`2026-11-25 14:37:46`|
 # 💬Latest
 |Thread|Date|Forum|
 |------|----|-----|
+|[New RazeHack menu hack for Left 4 Dead 2](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/707581-razehack-menu-hack-left-4-dead-2-a.html)|`2026-11-25 14:22:00`|`Other FPS Games`|
+|[Tom Clancy's Ghost Recon Crimebond IDs](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/payday-3-a/783521-tom-clancys-ghost-recon-crimebond-ids.html)|`2026-11-25 14:22:00`|`Payday 3`|
+|[nProtect S3 Bucket](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/233806-nprotect-s3-bucket.html)|`2026-11-25 14:20:00`|`Anti-Cheat Research`|
+|[SurrounDead](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/other-fps-games/781983-surroundead.html)|`2026-11-25 14:18:00`|`Other FPS Games`|
+|[Faceit still asks for fptm, even though tpm module is already presented](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/anti-cheat-research/783070-faceit-fptm-tpm-module.html)|`2026-11-25 14:17:00`|`Anti-Cheat Research`|
+|[&#91;Release&#93; YimMenuV2 Backup &#40;Enhanced&#41; – continued build &#43; source](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/grand-theft-auto-v/780512-release-yimmenuv2-backup-enhanced-continued-build-source.html)|`2026-11-25 14:02:00`|`Grand Theft Auto V`|
+|[Dumper&#45;7 &#45; A universal, automatic Unreal Engine SDK Generator for UE4 and UE5](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/unreal-engine-4-a/594092-dumper-7-universal-automatic-unreal-engine-sdk-generator-ue4-ue5.html)|`2026-11-25 13:56:00`|`Unreal Engine 4`|
+|[Play together thread / Modded lobbies](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/helldivers-2-a/628374-play-thread-modded-lobbies.html)|`2026-11-25 13:56:00`|`HELLDIVERS 2`|
 |[External chams](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/wardogs/781968-external-chams.html)|`2026-11-25 03:34:00`|`Wardogs`|
 |[Aimbot party check](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/rob-run/783511-aimbot-party-check.html)|`2026-11-25 03:34:00`|`ROB RUN`|
 |[ArkhanImpact &#45; Genshin Cheetos](https://%75%6E%6B%6E%6F%77%6E%63%68%65%61%74%73.%6D%65/%66%6F%72%75%6D/genshin-impact/783186-arkhanimpact-genshin-cheetos.html)|`2026-11-25 03:31:00`|`Genshin Impact`|
